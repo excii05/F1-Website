@@ -1,0 +1,29 @@
+# Projektidee: Formel-1-Dashboard als Website
+
+1. Startseite mit Saisonübersicht
+   - Zeigt eine Übersicht der aktuellen Saison mit Fahrern, Teams und deren aktuellen Punkteständen.
+   - Anzeige in einer Tabelle mit Platzierung, Fahrername, Teamname und Punkten.
+
+2. Detailseite für Fahrer
+   - Detailinformationen zu einem bestimmten Fahrer.
+   - Enthält Karrierestatistiken wie Anzahl Siege, Podiumsplatzierungen und schnellste Runden.
+
+3. Detailseite für Teams
+   - Informationen über ein bestimmtes Team mit Statistiken und aktuellem Ranking in der Teamwertung.
+   - Historische Erfolge und eine Liste der Fahrer, die für das Team fahren.
+
+4. Rennergebnisse
+   - Zeigt die Ergebnisse der vergangenen Rennen einer Saison.
+   - Einfache Navigationsmöglichkeit, um zwischen den einzelnen Rennen zu wechseln.
+
+5. Visualisierungen
+   - Diagramme und Grafiken, um die Punkteentwicklung der Fahrer und Teams über die Saison darzustellen.
+   - Einsatz von Balken- oder Liniendiagrammen für eine übersichtliche Darstellung der Daten.
+
+
+# Technische Umsetzung:
+
+- Frontend: HTML und CSS für die Struktur und das Design der Website. Optional kann JavaScript für interaktive Elemente genutzt werden.
+- Backend: Python mit Flask, um Daten von der OpenF1-API abzurufen und an die HTML-Templates zu senden.
+- Datenverarbeitung: Verwendung der OpenF1-Bibliothek für die Formel-1-Daten.
+- Visualisierung: Einsatz von matplotlib für die Erstellung von Diagrammen.
