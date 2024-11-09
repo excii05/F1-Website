@@ -2,7 +2,7 @@
 <html lang="de">
 <head>
     <meta charset="UTF-8">
-    <title>Fahrerwertung</title>
+    <title>Konstrukteurswertung</title>
     <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css">
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.4/css/all.min.css">
     <style>
@@ -18,12 +18,12 @@
 </head>
 <body>
     <div class="container">
-        <h1>Aktuelle Fahrerwertung</h1>
+        <h1>Aktuelle Konstrukteurswertung</h1>
         <table class="table table-striped">
             <thead>
                 <tr>
                     <th>Position</th>
-                    <th>Voller Name</th>
+                    <th>Name</th>
                     <th>
                         Punkte
                         <!-- Sortierlinks für Punkte -->
@@ -48,17 +48,21 @@
                            <i class="fas fa-sort-down"></i>
                         </a>
                     </th>
-                    <th>Konstrukteur</th>
+                    <th>Fahrer</th>
                 </tr>
             </thead>
             <tbody>
-                {% for driver in standings %}
+                {% for constructor in standings %}
                 <tr>
-                    <td>{{ driver.position }}</td>
-                    <td>{{ driver.name }}</td>
-                    <td>{{ driver.points }}</td>
-                    <td>{{ driver.wins }}</td>
-                    <td>{{ driver.constructor }}</td>
+                    <td>{{ constructor.position }}</td>
+                    <td>{{ constructor.name }}</td>
+                    <td>{{ constructor.points }}</td>
+                    <td>{{ constructor.wins }}</td>
+                    <td>
+                        {% for driver in constructor.drivers %}
+                            {{ driver.name }}{% if not loop.last %}, {% endif %}
+                        {% endfor %}
+                    </td>
                 </tr>
                 {% endfor %}
             </tbody>
