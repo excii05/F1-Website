@@ -1,5 +1,3 @@
-# data_processor.py
-
 def process_driver_standings(data):
     standings_list = []
 
@@ -30,3 +28,16 @@ def process_constructor_standings(data):
             })
 
     return standings_list
+
+def process_race_schedule(data):
+    schedule_list = []
+
+    if data and "MRData" in data and "RaceTable" in data["MRData"]:
+        for race in data["MRData"]["RaceTable"]["Races"]:
+            schedule_list.append({
+                "round": race["round"],
+                "location": f"{race['Circuit']['Location']['locality']}, {race['Circuit']['Location']['country']}",
+                "date": race["date"]
+            })
+
+    return schedule_list

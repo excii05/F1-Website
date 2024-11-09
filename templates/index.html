@@ -12,7 +12,7 @@
 <body>
 
     <header>
-        <h1 data-key="header-title">F1 Statistik und Informationen</h1>
+        <h1 data-key="header-title">F1 Statistiken und Informationen</h1>
         
         <!-- Sprachumschalter mit Dropdown und Globe Icon -->
         <div class="language-switcher">
@@ -159,12 +159,41 @@
         </section>
         
 
-        <section id="calendar">
-            <h2 data-key="race-calendar">Rennkalender</h2>
-            <div class="calendar" id="race-calendar">
-                <!-- Dynamische Inhalte -->
+        <section id="race-schedule">
+            <h2 data-key="race-schedule">Renntermine</h2>
+            <div class="schedule" id="race-schedule-table">
+                <!DOCTYPE html>
+                <html lang="de">
+                <head>
+                    <meta charset="UTF-8">
+                    <title>Renntermine</title>
+                </head>
+                <body>
+                    <div class="container">
+                        <table class="table table-striped">
+                            <thead>
+                                <tr>
+                                    <th>Rennnummer</th>
+                                    <th>Ort</th>
+                                    <th>Datum</th>
+                                </tr>
+                            </thead>
+                            <tbody>
+                                {% for race in race_schedule %}
+                                <tr>
+                                    <td>{{ race.round }}</td>
+                                    <td>{{ race.location }}</td>
+                                    <td>{{ race.date }}</td>
+                                </tr>
+                                {% endfor %}
+                            </tbody>
+                        </table>
+                    </div>
+                </body>
+                </html>
             </div>
         </section>
+        
     </main>
 
     <footer>

@@ -1,7 +1,7 @@
 f1_dashboard/
 │
 ├── app.py                     # Hauptdatei zum Starten der Flask-App
-├── data_fetcher.py            # Modul für die Datenabfrage über OpenF1
+├── data_fetcher.py            # Modul für die Datenabfrage über Formula One API
 ├── data_processor.py          # Modul für die Datenverarbeitung
 │
 ├── templates/
