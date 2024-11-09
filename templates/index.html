@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<html lang="de">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>F1 Website</title>
+    <link rel="stylesheet" href="../statistics/styles.css">
+    <!-- Unicons Icon Bibliothek -->
+    <link rel="stylesheet" href="https://unicons.iconscout.com/release/v3.0.6/css/line.css">
+    <script defer src="../statistics/script.js"></script>
+</head>
+<body>
+
+    <header>
+        <h1 data-key="header-title">F1 Statistik und Informationen</h1>
+        
+        <!-- Sprachumschalter mit Dropdown und Globe Icon -->
+        <div class="language-switcher">
+            <i class="uil uil-globe" style="color: white;"></i>
+            <select id="language-dropdown">
+                <option value="de">Deutsch</option>
+                <option value="en">English</option>
+                <!-- Weitere Sprachen können hinzugefügt werden -->
+            </select>
+        </div>
+        
+        <nav>
+            <ul>
+                <li><a href="#drivers" data-key="driver-standings">Fahrerwertung</a></li>
+                <li><a href="#constructors" data-key="constructor-standings">Konstrukteurswertung</a></li>
+                <li><a href="#calendar" data-key="race-calendar">Rennkalender</a></li>
+            </ul>
+        </nav>
+    </header>
+
+    <main>
+        <section id="drivers">
+            <h2 data-key="driver-standings">Fahrerwertung</h2>
+            <div class="standings" id="driver-standings">
+                <!-- Dynamische Inhalte -->
+            </div>
+        </section>
+
+        <section id="constructors">
+            <h2 data-key="constructor-standings">Konstrukteurswertung</h2>
+            <div class="standings" id="constructor-standings">
+                <!-- Dynamische Inhalte -->
+            </div>
+        </section>
+
+        <section id="calendar">
+            <h2 data-key="race-calendar">Rennkalender</h2>
+            <div class="calendar" id="race-calendar">
+                <!-- Dynamische Inhalte -->
+            </div>
+        </section>
+    </main>
+
+    <footer>
+        <p data-key="footer-text">&copy; 2024 F1 Statistik Webseite</p>
+    </footer>
+
+</body>
+</html>
