@@ -29,15 +29,22 @@ def process_constructor_standings(data):
 
     return standings_list
 
+from datetime import datetime
+
 def process_race_schedule(data):
     schedule_list = []
 
     if data and "MRData" in data and "RaceTable" in data["MRData"]:
         for race in data["MRData"]["RaceTable"]["Races"]:
+            # Datum in das gewünschte Format umwandeln
+            date_obj = datetime.strptime(race["date"], "%Y-%m-%d")
+            formatted_date = date_obj.strftime("%d.%m.%Y")
+
             schedule_list.append({
                 "round": race["round"],
-                "location": f"{race['Circuit']['Location']['locality']}, {race['Circuit']['Location']['country']}",
-                "date": race["date"]
+                "location": f"{race['Circuit']['Location']['country']}, {race['Circuit']['Location']['locality']}",
+                "circuit_name": race["Circuit"]["circuitName"],
+                "date": formatted_date
             })
 
     return schedule_list

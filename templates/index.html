@@ -175,6 +175,7 @@
                                 <tr>
                                     <th>Rennnummer</th>
                                     <th>Ort</th>
+                                    <th>Name der Rennstrecke</th>
                                     <th>Datum</th>
                                 </tr>
                             </thead>
@@ -183,6 +184,7 @@
                                 <tr>
                                     <td>{{ race.round }}</td>
                                     <td>{{ race.location }}</td>
+                                    <td>{{ race.circuit_name }}</td>
                                     <td>{{ race.date }}</td>
                                 </tr>
                                 {% endfor %}
