@@ -30,7 +30,14 @@ def fetch_race_schedule():
         print("Failed to fetch race schedule")
         return None
     
-if __name__ == "__main__":
-    schedule = fetch_race_schedule()
-    if schedule:
-        print(schedule)
+# Neue Funktion zum Abrufen des Fahrerprofils
+def fetch_driver_profile(driver_id):
+    url = f"http://ergast.com/api/f1/drivers/{driver_id}.json"
+    response = requests.get(url)
+    return response.json() if response.status_code == 200 else None
+
+# Neue Funktion zum Abrufen der Fahrer-Saisonergebnisse
+def fetch_driver_results(driver_id):
+    url = f"http://ergast.com/api/f1/drivers/{driver_id}/results.json"
+    response = requests.get(url)
+    return response.json() if response.status_code == 200 else None

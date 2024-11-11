@@ -5,7 +5,9 @@ f1_dashboard/
 ├── data_processor.py          # Modul für die Datenverarbeitung
 │
 ├── templates/
-│   └── index.html             # Haupt-HTML-Datei für die Startseite
+│   ├── index.html             # Haupt-HTML-Datei für die Startseite
+│   ├── driver_profile.html    # HTML Vorlage für Fahrersteckbrief
+│   └── racetrack.html         # HTML Vorlage für die Rennstrecke
 │
 ├── static/
 │   ├── css/

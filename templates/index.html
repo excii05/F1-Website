@@ -28,7 +28,7 @@
             <ul>
                 <li><a href="#drivers" data-key="driver-standings">Fahrerwertung</a></li>
                 <li><a href="#constructors" data-key="constructor-standings">Konstrukteurswertung</a></li>
-                <li><a href="#calendar" data-key="race-calendar">Rennkalender</a></li>
+                <li><a href="#race-schedule" data-key="race-calendar">Rennkalender</a></li>
             </ul>
         </nav>
     </header>
@@ -94,7 +94,7 @@
                                 {% for driver in driver_standings %}
                                 <tr>
                                     <td>{{ driver.position }}</td>
-                                    <td>{{ driver.name }}</td>
+                                    <td><a href="{{ url_for('driver_profile', driver_id=driver.id) }}">{{ driver.name }}</a></td>
                                     <td>{{ driver.points }}</td>
                                     <td>{{ driver.wins }}</td>
                                     <td>{{ driver.constructor }}</td>

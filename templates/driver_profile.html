@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html lang="de">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>{{ driver.name }} - Fahrerprofil</title>
+    <link rel="stylesheet" href="{{ url_for('static', filename='styles/styles.css') }}">
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css">
+</head>
+<body>
+    <header>
+        <h1>{{ driver.name }} - Fahrerprofil</h1>
+    </header>
+
+    <main class="container">
+        <div class="row">
+            <!-- Fahrer-Steckbrief auf der linken Seite -->
+            <div class="col-md-4">
+                <div class="card">
+                    <div class="card-header">
+                        <h5>Steckbrief</h5>
+                    </div>
+                    <div class="card-body">
+                        <p><strong>Name:</strong> {{ driver.name }}</p>
+                        <p><strong>Geburtstag:</strong> {{ driver.dob }}</p>
+                        <p><strong>Alter:</strong> {{ driver.age }} Jahre</p>
+                        <p><strong>Nationalität:</strong> {{ driver.nationality }}</p>
+                        <p><strong>Erster Rennstart:</strong> {{ driver.first_race }}</p>
+                        <p><strong>Rennstarts:</strong> {{ driver.race_starts }}</p>
+                        <p><strong>Pole Positions:</strong> {{ driver.pole_positions }}</p>
+                        <p><strong>Siege:</strong> {{ driver.wins }}</p>
+                        <p><strong>Fastest Laps:</strong> {{ driver.fastest_laps }}</p>
+                        <p><strong>Championship Wins:</strong> {{ driver.championship_wins }}</p>
+                    </div>
+                </div>
+            </div>
+
+            <!-- Platz für den Vergleich oder andere Daten auf der rechten Seite -->
+            <div class="col-md-8">
+                <!-- Hier kannst du später weitere Grafiken, Tabellen oder Ergebnisse einfügen -->
+                <h3>Rennstatistiken und Vergleich</h3>
+                <div id="driver-results">
+                    <!-- Hier können spätere Grafiken oder Statistiken eingefügt werden -->
+                </div>
+            </div>
+        </div>
+    </main>
+
+    <footer>
+        <p>&copy; 2024 F1 Statistik Webseite</p>
+    </footer>
+</body>
+</html>
