@@ -4,7 +4,7 @@ document.addEventListener("DOMContentLoaded", function () {
 
     // Lädt die Übersetzungen aus der JSON-Datei
     function loadTranslations(lang) {
-        fetch("../translations.json")
+        fetch("../cache/translations.json")
             .then(response => response.json())
             .then(data => applyTranslations(data[lang]));
     }

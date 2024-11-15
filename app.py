@@ -8,9 +8,9 @@ app = Flask(__name__)
 
 CACHE_TIMESTAMP_FILE = "cache_timestamp.txt"
 JSON_FILES = [
-    "driver_standings.json",
-    "constructor_standings.json",
-    "race_schedule.json"
+    "cache/driver_standings.json",
+    "cache/constructor_standings.json",
+    "cache/race_schedule.json"
 ]
 
 def load_json(file_name):
@@ -71,9 +71,9 @@ def standings():
     update_cache_if_needed()
 
     # Daten aus JSON-Dateien laden
-    driver_standings = load_json("driver_standings.json") or []
-    constructor_standings = load_json("constructor_standings.json") or []
-    race_schedule = load_json("race_schedule.json") or []
+    driver_standings = load_json("cache/driver_standings.json") or []
+    constructor_standings = load_json("cache/constructor_standings.json") or []
+    race_schedule = load_json("cache/race_schedule.json") or []
 
     # Sortierparameter von der URL abfragen
     driver_sort_by = request.args.get('driver_sort_by')
