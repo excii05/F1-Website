@@ -19,7 +19,7 @@ def load_json(file_name):
         with open(file_name, 'r', encoding='utf-8') as file:
             return json.load(file)
     except (FileNotFoundError, json.JSONDecodeError):
-        print(f"Error loading {file_name}. File might be missing or corrupted.")
+        print(f"Error loading {file_name}.")
         return None
 
 def run_data_cache():
@@ -35,7 +35,7 @@ def validate_and_repair_cache():
     needs_repair = False
     for file_name in JSON_FILES:
         if load_json(file_name) is None:  # Datei fehlt oder ist beschädigt
-            print(f"{file_name} is missing or corrupted. Repair needed.")
+            print(f"File is missing or corrupted. Repair needed.")
             needs_repair = True
     
     if needs_repair:
