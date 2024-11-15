@@ -1,0 +1,218 @@
+[
+    {
+        "round": "1",
+        "location": {
+            "country": "Bahrain",
+            "city": "Sakhir"
+        },
+        "track_name": "Bahrain International Circuit",
+        "date": "02.03.2024"
+    },
+    {
+        "round": "2",
+        "location": {
+            "country": "Saudi Arabia",
+            "city": "Jeddah"
+        },
+        "track_name": "Jeddah Corniche Circuit",
+        "date": "09.03.2024"
+    },
+    {
+        "round": "3",
+        "location": {
+            "country": "Australia",
+            "city": "Melbourne"
+        },
+        "track_name": "Albert Park Grand Prix Circuit",
+        "date": "24.03.2024"
+    },
+    {
+        "round": "4",
+        "location": {
+            "country": "Japan",
+            "city": "Suzuka"
+        },
+        "track_name": "Suzuka Circuit",
+        "date": "07.04.2024"
+    },
+    {
+        "round": "5",
+        "location": {
+            "country": "China",
+            "city": "Shanghai"
+        },
+        "track_name": "Shanghai International Circuit",
+        "date": "21.04.2024"
+    },
+    {
+        "round": "6",
+        "location": {
+            "country": "USA",
+            "city": "Miami"
+        },
+        "track_name": "Miami International Autodrome",
+        "date": "05.05.2024"
+    },
+    {
+        "round": "7",
+        "location": {
+            "country": "Italy",
+            "city": "Imola"
+        },
+        "track_name": "Autodromo Enzo e Dino Ferrari",
+        "date": "19.05.2024"
+    },
+    {
+        "round": "8",
+        "location": {
+            "country": "Monaco",
+            "city": "Monte-Carlo"
+        },
+        "track_name": "Circuit de Monaco",
+        "date": "26.05.2024"
+    },
+    {
+        "round": "9",
+        "location": {
+            "country": "Canada",
+            "city": "Montreal"
+        },
+        "track_name": "Circuit Gilles Villeneuve",
+        "date": "09.06.2024"
+    },
+    {
+        "round": "10",
+        "location": {
+            "country": "Spain",
+            "city": "Montmeló"
+        },
+        "track_name": "Circuit de Barcelona-Catalunya",
+        "date": "23.06.2024"
+    },
+    {
+        "round": "11",
+        "location": {
+            "country": "Austria",
+            "city": "Spielberg"
+        },
+        "track_name": "Red Bull Ring",
+        "date": "30.06.2024"
+    },
+    {
+        "round": "12",
+        "location": {
+            "country": "UK",
+            "city": "Silverstone"
+        },
+        "track_name": "Silverstone Circuit",
+        "date": "07.07.2024"
+    },
+    {
+        "round": "13",
+        "location": {
+            "country": "Hungary",
+            "city": "Budapest"
+        },
+        "track_name": "Hungaroring",
+        "date": "21.07.2024"
+    },
+    {
+        "round": "14",
+        "location": {
+            "country": "Belgium",
+            "city": "Spa"
+        },
+        "track_name": "Circuit de Spa-Francorchamps",
+        "date": "28.07.2024"
+    },
+    {
+        "round": "15",
+        "location": {
+            "country": "Netherlands",
+            "city": "Zandvoort"
+        },
+        "track_name": "Circuit Park Zandvoort",
+        "date": "25.08.2024"
+    },
+    {
+        "round": "16",
+        "location": {
+            "country": "Italy",
+            "city": "Monza"
+        },
+        "track_name": "Autodromo Nazionale di Monza",
+        "date": "01.09.2024"
+    },
+    {
+        "round": "17",
+        "location": {
+            "country": "Azerbaijan",
+            "city": "Baku"
+        },
+        "track_name": "Baku City Circuit",
+        "date": "15.09.2024"
+    },
+    {
+        "round": "18",
+        "location": {
+            "country": "Singapore",
+            "city": "Marina Bay"
+        },
+        "track_name": "Marina Bay Street Circuit",
+        "date": "22.09.2024"
+    },
+    {
+        "round": "19",
+        "location": {
+            "country": "USA",
+            "city": "Austin"
+        },
+        "track_name": "Circuit of the Americas",
+        "date": "20.10.2024"
+    },
+    {
+        "round": "20",
+        "location": {
+            "country": "Mexico",
+            "city": "Mexico City"
+        },
+        "track_name": "Autódromo Hermanos Rodríguez",
+        "date": "27.10.2024"
+    },
+    {
+        "round": "21",
+        "location": {
+            "country": "Brazil",
+            "city": "São Paulo"
+        },
+        "track_name": "Autódromo José Carlos Pace",
+        "date": "03.11.2024"
+    },
+    {
+        "round": "22",
+        "location": {
+            "country": "United States",
+            "city": "Las Vegas"
+        },
+        "track_name": "Las Vegas Strip Street Circuit",
+        "date": "23.11.2024"
+    },
+    {
+        "round": "23",
+        "location": {
+            "country": "Qatar",
+            "city": "Al Daayen"
+        },
+        "track_name": "Losail International Circuit",
+        "date": "01.12.2024"
+    },
+    {
+        "round": "24",
+        "location": {
+            "country": "UAE",
+            "city": "Abu Dhabi"
+        },
+        "track_name": "Yas Marina Circuit",
+        "date": "08.12.2024"
+    }
+]
