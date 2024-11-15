@@ -6,20 +6,21 @@ from flask import Flask, render_template, request
 
 app = Flask(__name__)
 
-# Speicherort für den Zeitstempel der letzten Aktualisierung
 CACHE_TIMESTAMP_FILE = "cache_timestamp.txt"
+JSON_FILES = [
+    "driver_standings.json",
+    "constructor_standings.json",
+    "race_schedule.json"
+]
 
 def load_json(file_name):
-    """Lädt Daten aus einer JSON-Datei."""
+    """Lädt Daten aus einer JSON-Datei und prüft, ob sie valide ist."""
     try:
         with open(file_name, 'r', encoding='utf-8') as file:
             return json.load(file)
-    except FileNotFoundError:
-        print(f"File {file_name} not found.")
-        return []
-    except json.JSONDecodeError:
-        print(f"Error decoding JSON from {file_name}.")
-        return []
+    except (FileNotFoundError, json.JSONDecodeError):
+        print(f"Error loading {file_name}. File might be missing or corrupted.")
+        return None
 
 def run_data_cache():
     """Führt die data_cache.py Datei aus."""
@@ -28,6 +29,17 @@ def run_data_cache():
         subprocess.run(["python", "data_cache.py"], check=True)
     except Exception as e:
         print(f"Error running data_cache.py: {e}")
+
+def validate_and_repair_cache():
+    """Validiert die JSON-Dateien und führt data_cache.py aus, falls nötig."""
+    needs_repair = False
+    for file_name in JSON_FILES:
+        if load_json(file_name) is None:  # Datei fehlt oder ist beschädigt
+            print(f"{file_name} is missing or corrupted. Repair needed.")
+            needs_repair = True
+    
+    if needs_repair:
+        run_data_cache()
 
 def needs_update():
     """Prüft, ob seit der letzten Aktualisierung 24 Stunden vergangen sind."""
@@ -54,13 +66,14 @@ def update_cache_if_needed():
 
 @app.route('/')
 def standings():
-    # Daten-Cache aktualisieren, falls nötig
+    # Daten-Cache validieren und aktualisieren, falls nötig
+    validate_and_repair_cache()
     update_cache_if_needed()
 
     # Daten aus JSON-Dateien laden
-    driver_standings = load_json("driver_standings.json")
-    constructor_standings = load_json("constructor_standings.json")
-    race_schedule = load_json("race_schedule.json")
+    driver_standings = load_json("driver_standings.json") or []
+    constructor_standings = load_json("constructor_standings.json") or []
+    race_schedule = load_json("race_schedule.json") or []
 
     # Sortierparameter von der URL abfragen
     driver_sort_by = request.args.get('driver_sort_by')
@@ -91,7 +104,6 @@ def standings():
         race_schedule=race_schedule
     )
 
-# Route für die Fahrerprofilseite
 @app.route('/driver/<driver_id>')
 def driver_profile(driver_id):
     # Fahrerprofil- und Ergebnisdaten aus JSON laden
