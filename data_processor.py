@@ -36,7 +36,7 @@ def process_race_schedule(data):
                 "country": race['Circuit']['Location']['country'],
                 "city": race['Circuit']['Location']['locality']
             },
-            "track_name": race['Circuit']['circuitName'],
+            "circuit_name": race['Circuit']['circuitName'],
             "date": datetime.strptime(race['date'], '%Y-%m-%d').strftime('%d.%m.%Y')
         })
     return schedule

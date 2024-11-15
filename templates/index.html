@@ -182,10 +182,10 @@
                             <tbody>
                                 {% for race in race_schedule %}
                                 <tr>
-                                    <td>{{ race.round }}</td>
-                                    <td>{{ race.location }}</td>
-                                    <td>{{ race.circuit_name }}</td>
-                                    <td>{{ race.date }}</td>
+                                    <td>{{ loop.index }}</td>
+                                    <td>{{ race['location']['country'] }}, {{ race['location']['city'] }}</td>
+                                    <td>{{ race['circuit_name'] }}</td>
+                                    <td>{{ race['date'] }}</td>
                                 </tr>
                                 {% endfor %}
                             </tbody>
