@@ -5,7 +5,7 @@ def process_driver_standings(data):
     standings = []
     for driver in data['MRData']['StandingsTable']['StandingsLists'][0]['DriverStandings']:
         standings.append({
-            "driver_id": driver['Driver']['driverId'],
+            "id": driver['Driver']['driverId'],
             "position": driver['position'],
             "name": f"{driver['Driver']['givenName']} {driver['Driver']['familyName']}",
             "points": driver['points'],
@@ -19,6 +19,7 @@ def process_constructor_standings(data):
     standings = []
     for constructor in data['MRData']['StandingsTable']['StandingsLists'][0]['ConstructorStandings']:
         standings.append({
+            "id": constructor["Constructor"]["constructorId"],
             "position": constructor['position'],
             "name": constructor['Constructor']['name'],
             "points": constructor['points'],
@@ -31,6 +32,7 @@ def process_race_schedule(data):
     schedule = []
     for race in data['MRData']['RaceTable']['Races']:
         schedule.append({
+            "id": race['Circuit']['circuitId'],
             "round": race['round'],
             "location": {
                 "country": race['Circuit']['Location']['country'],

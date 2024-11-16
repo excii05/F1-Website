@@ -26,5 +26,5 @@ document.addEventListener("DOMContentLoaded", function () {
     });
 
     // Standardmäßig auf Deutsch setzen
-    loadTranslations("de");
+    loadTranslations("en");
 });

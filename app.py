@@ -114,5 +114,25 @@ def driver_profile(driver_id):
 
     return render_template('driver_profile.html', driver=driver_results)
 
+@app.route('/constructor/<constructor_id>')
+def constructor_profile(constructor_id):
+    # Teamprofil-Daten aus JSON laden
+    constructor_data = load_json(f"{constructor_id}_profile.json")
+
+    if not constructor_data:
+        return f"Constructor data for {constructor_id} not found.", 404
+
+    return render_template('constructor_profile.html', constructor=constructor_data)
+
+@app.route('/circuit/<circuit_id>')
+def circuit_profile(circuit_id):
+    # Rennstrecken-Daten aus JSON laden
+    circuit_data = load_json(f"{circuit_id}_profile.json")
+
+    if not circuit_data:
+        return f"Circuit data for {circuit_id} not found.", 404
+
+    return render_template('circuit_profile.html', circuit=circuit_data)
+
 if __name__ == '__main__':
     app.run(debug=True)
