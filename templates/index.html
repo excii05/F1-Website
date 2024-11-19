@@ -153,7 +153,7 @@
                                 <td>{{ constructor.position }}</td>
                                 <td>
                                     <a href="{{ url_for('constructor_profile', constructor_id=constructor['id']) }}">
-                                    {{ constructor['name'] }}
+                                        {{ constructor['name'] }}
                                     </a>
                                 </td>
                                 <td>{{ constructor.points }}</td>
@@ -192,7 +192,11 @@
                                 <tr>
                                     <td>{{ loop.index }}</td>
                                     <td>{{ race['location']['country'] }}, {{ race['location']['city'] }}</td>
-                                    <td>{{ race['circuit_name'] }}</td>
+                                    <td>
+                                        <a href="{{ url_for('circuit_profile', circuit_id=race['id']) }}">
+                                            {{ race['circuit_name'] }}
+                                        </a>
+                                    </td>
                                     <td>{{ race['date'] }}</td>
                                 </tr>
                                 {% endfor %}
