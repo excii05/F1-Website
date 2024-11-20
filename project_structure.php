@@ -7,7 +7,8 @@ f1_dashboard/
 │
 ├── templates/
 │   ├── index.html             # Haupt-HTML-Datei für die Startseite
-│   ├── driver_profile.html    # HTML Vorlage für Fahrersteckbrief
+│   ├── driver_profile.html    # HTML Vorlage für den Fahrersteckbrief
+│   ├── constructor_profile.html    # HTML Vorlage für den Konstrukteurssteckbrief
 │   └── racetrack.html         # HTML Vorlage für die Rennstrecke
 │
 ├── static/

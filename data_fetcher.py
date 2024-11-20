@@ -30,18 +30,8 @@ def fetch_race_schedule():
         print("Failed to fetch race schedule")
         return None
 
-def fetch_driver_results(driver_id):
-    url = f"http://ergast.com/api/f1/drivers/{driver_id}/driverStandings.json"
-    response = requests.get(url)
-    
-    if response.status_code == 200:
-        return response.json()
-    else:
-        print("Failed to fetch driver results")
-        return None
-
-def fetch_total_races(driver_id):
-    url = f"https://ergast.com/api/f1/drivers/{driver_id}/results.json"
+def fetch_race_results(year, round):
+    url = f"http://ergast.com/api/f1/{year}/{round}/results.json"
     response = requests.get(url)
     
     if response.status_code == 200:
