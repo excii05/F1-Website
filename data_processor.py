@@ -1,86 +1,123 @@
+import json
 from datetime import datetime
+from data_fetcher import (
+    fetch_driver_standings,
+    fetch_constructor_standings,
+    fetch_race_schedule,
+    fetch_race_results
+)
 
 def process_driver_standings(data):
-    """Verarbeitet Fahrerstände."""
-    standings = []
-    for driver in data['MRData']['StandingsTable']['StandingsLists'][0]['DriverStandings']:
-        standings.append({
-            "id": driver['Driver']['driverId'],
-            "position": driver['position'],
-            "name": f"{driver['Driver']['givenName']} {driver['Driver']['familyName']}",
-            "points": driver['points'],
-            "wins": driver['wins'],
-            "constructor": driver['Constructors'][0]['name']
-        })
-    return standings
+    driver_standings = []
+    try:
+        standings_list = data['MRData']['StandingsTable']['StandingsLists'][0]['DriverStandings']
+        for entry in standings_list:
+            try:
+                driver = entry['Driver']
+                constructors = entry['Constructors']
+
+                driver_standings.append({
+                    'ID': driver.get('driverId', 'Unknown ID'),
+                    'Position': entry.get('position', 'Unknown Position'),
+                    'Name': f"{driver.get('givenName', 'Unknown')} {driver.get('familyName', 'Unknown')}",
+                    'Points': entry.get('points', '0'),
+                    'Wins': entry.get('wins', '0'),
+                    'Team': constructors[0].get('name', 'Unknown Team') if constructors else 'No Team'
+                })
+            except KeyError as e:
+                print(f"Error processing driver standings entry: {entry}. Missing key: {e}")
+    except KeyError as e:
+        print(f"Error processing driver standings data. Missing key: {e}")
+    return driver_standings
+
 
 def process_constructor_standings(data):
-    """Verarbeitet Konstrukteursstände."""
-    standings = []
-    for constructor in data['MRData']['StandingsTable']['StandingsLists'][0]['ConstructorStandings']:
-        standings.append({
-            "id": constructor["Constructor"]["constructorId"],
-            "position": constructor['position'],
-            "name": constructor['Constructor']['name'],
-            "points": constructor['points'],
-            "wins": constructor['wins']
-        })
-    return standings
+    constructor_standings = []
+    try:
+        standings_list = data['MRData']['StandingsTable']['StandingsLists'][0]['ConstructorStandings']
+        for entry in standings_list:
+            try:
+                constructor = entry['Constructor']
+
+                constructor_standings.append({
+                    'ID': constructor.get('constructorId', 'Unknown ID'),
+                    'Position': entry.get('position', 'Unknown Position'),
+                    'Name': constructor.get('name', 'Unknown Name'),
+                    'Points': entry.get('points', '0'),
+                    'Wins': entry.get('wins', '0')
+                })
+            except KeyError as e:
+                print(f"Error processing constructor standings entry: {entry}. Missing key: {e}")
+    except KeyError as e:
+        print(f"Error processing constructor standings data. Missing key: {e}")
+    return constructor_standings
+
 
 def process_race_schedule(data):
-    """Verarbeitet den Rennkalender."""
-    schedule = []
-    for race in data['MRData']['RaceTable']['Races']:
-        schedule.append({
-            "id": race['Circuit']['circuitId'],
-            "round": race['round'],
-            "location": {
-                "country": race['Circuit']['Location']['country'],
-                "city": race['Circuit']['Location']['locality']
-            },
-            "circuit_name": race['Circuit']['circuitName'],
-            "date": datetime.strptime(race['date'], '%Y-%m-%d').strftime('%d.%m.%Y')
-        })
-    return schedule
-
-def process_driver_results(driver_data, driver_standings):
-    """Verarbeitet Fahrerresultate."""
-    results = {}
-    for driver in driver_standings:
-        driver_id = driver['driver_id']
-        data = driver_data.get(driver_id, None)
-        if not data:
-            continue
-
-        driver_info = data['MRData']['StandingsTable']['StandingsLists']
-        if not driver_info:
-            continue
-
-        driver_info = driver_info[0]['DriverStandings'][0]['Driver']
-
-        # Berechne Alter
-        birthday = datetime.strptime(driver_info['dateOfBirth'], '%Y-%m-%d')
-        age = (datetime.now() - birthday).days // 365
-
-        # Ermittle erstes Rennen und Nationalität
+    race_schedule = []
+    try:
         races = data['MRData']['RaceTable']['Races']
-        first_race_date = min(race['date'] for race in races) if races else None
+        for race in races:
+            try:
+                circuit = race['Circuit']
 
-        # Rennstarts zählen
-        total_races = len(races)
+                race_schedule.append({
+                    'ID': circuit.get('circuitId', 'Unknown Circuit ID'),
+                    'Round': race.get('round', 'Unknown Round'),
+                    'Location': {
+                        'Country': circuit['Location'].get('country', 'Unknown Country'),
+                        'Locality': circuit['Location'].get('locality', 'Unknown Locality')
+                    },
+                    'Circuit Name': circuit.get('circuitName', 'Unknown Circuit Name'),
+                    'Date': datetime.strptime(race['date'], '%Y-%m-%d').strftime('%d.%m.%Y')
+                })
+            except KeyError as e:
+                print(f"Error processing race schedule entry: {race}. Missing key: {e}")
+    except KeyError as e:
+        print(f"Error processing race schedule data. Missing key: {e}")
+    return race_schedule
 
-        # Siege summieren und Weltmeisterschaften zählen
-        wins = sum(int(season['DriverStandings'][0]['wins']) for season in driver_info)
-        championships = sum(1 for season in driver_info if season['DriverStandings'][0]['position'] == "1")
 
-        results[driver_id] = {
-            "name": f"{driver_info['givenName']} {driver_info['familyName']}",
-            "birthday": driver_info['dateOfBirth'],
-            "age": age,
-            "nationality": driver_info['nationality'],
-            "first_race": first_race_date,
-            "total_races": total_races,
-            "wins": wins,
-            "championships": championships
-        }
+def process_race_results(driver_standings, race_schedule):
+    results = []
+    for race in race_schedule:
+        year = "current"  # Always use the current season
+        round_number = race['Round']
+        race_data = fetch_race_results(year, round_number)
+
+        if not race_data:
+            print(f"Error: No data fetched for race round {round_number}.")
+            continue
+
+        try:
+            races = race_data['MRData']['RaceTable']['Races']
+            if not races:
+                print(f"Warning: No races found for round {round_number}.")
+                continue
+
+            for result in races[0]['Results']:
+                try:
+                    fastest_lap = result.get('FastestLap', {})
+                    average_speed = fastest_lap.get('AverageSpeed', {})
+                    
+                    results.append({
+                        'Circuit ID': race['ID'],
+                        'Driver ID': result['Driver'].get('driverId', 'Unknown Driver ID'),
+                        'Start Position': result.get('grid', 'Unknown Grid'),
+                        'End Position': result.get('position', 'Unknown Position'),
+                        'Points': result.get('points', '0'),
+                        'Fastest Lap': {
+                            'Time': fastest_lap.get('Time', {}).get('time', None),
+                            'Lap': fastest_lap.get('lap', None),
+                            'Average Speed': {
+                                'Speed': average_speed.get('speed', None),
+                                'Unit': average_speed.get('units', None)
+                            }
+                        },
+                        'DNF': result.get('status') if result.get('status') != 'Finished' else None
+                    })
+                except KeyError as e:
+                    print(f"Error processing race result: {result}. Missing key: {e}")
+        except KeyError as e:
+            print(f"Error processing race data for round {round_number}. Missing key: {e}")
     return results

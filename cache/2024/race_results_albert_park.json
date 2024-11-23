@@ -1,0 +1,306 @@
+[
+    {
+        "Circuit ID": "albert_park",
+        "Driver ID": "sainz",
+        "Start Position": "2",
+        "End Position": "1",
+        "Points": "25",
+        "Fastest Lap": {
+            "Time": "1:20.031",
+            "Lap": "48",
+            "Average Speed": {
+                "Speed": "237.418",
+                "Unit": "kph"
+            }
+        },
+        "DNF": null
+    },
+    {
+        "Circuit ID": "albert_park",
+        "Driver ID": "leclerc",
+        "Start Position": "4",
+        "End Position": "2",
+        "Points": "19",
+        "Fastest Lap": {
+            "Time": "1:19.813",
+            "Lap": "56",
+            "Average Speed": {
+                "Speed": "238.066",
+                "Unit": "kph"
+            }
+        },
+        "DNF": null
+    },
+    {
+        "Circuit ID": "albert_park",
+        "Driver ID": "norris",
+        "Start Position": "3",
+        "End Position": "3",
+        "Points": "15",
+        "Fastest Lap": {
+            "Time": "1:19.915",
+            "Lap": "1",
+            "Average Speed": {
+                "Speed": "237.762",
+                "Unit": "kph"
+            }
+        },
+        "DNF": null
+    },
+    {
+        "Circuit ID": "albert_park",
+        "Driver ID": "piastri",
+        "Start Position": "5",
+        "End Position": "4",
+        "Points": "12",
+        "Fastest Lap": {
+            "Time": "1:20.199",
+            "Lap": "1",
+            "Average Speed": {
+                "Speed": "236.920",
+                "Unit": "kph"
+            }
+        },
+        "DNF": null
+    },
+    {
+        "Circuit ID": "albert_park",
+        "Driver ID": "perez",
+        "Start Position": "6",
+        "End Position": "5",
+        "Points": "10",
+        "Fastest Lap": {
+            "Time": "1:20.388",
+            "Lap": "47",
+            "Average Speed": {
+                "Speed": "236.363",
+                "Unit": "kph"
+            }
+        },
+        "DNF": null
+    },
+    {
+        "Circuit ID": "albert_park",
+        "Driver ID": "stroll",
+        "Start Position": "9",
+        "End Position": "6",
+        "Points": "8",
+        "Fastest Lap": {
+            "Time": "1:20.930",
+            "Lap": "49",
+            "Average Speed": {
+                "Speed": "234.780",
+                "Unit": "kph"
+            }
+        },
+        "DNF": null
+    },
+    {
+        "Circuit ID": "albert_park",
+        "Driver ID": "tsunoda",
+        "Start Position": "8",
+        "End Position": "7",
+        "Points": "6",
+        "Fastest Lap": {
+            "Time": "1:21.134",
+            "Lap": "46",
+            "Average Speed": {
+                "Speed": "234.190",
+                "Unit": "kph"
+            }
+        },
+        "DNF": null
+    },
+    {
+        "Circuit ID": "albert_park",
+        "Driver ID": "alonso",
+        "Start Position": "10",
+        "End Position": "8",
+        "Points": "4",
+        "Fastest Lap": {
+            "Time": "1:20.493",
+            "Lap": "52",
+            "Average Speed": {
+                "Speed": "236.055",
+                "Unit": "kph"
+            }
+        },
+        "DNF": null
+    },
+    {
+        "Circuit ID": "albert_park",
+        "Driver ID": "hulkenberg",
+        "Start Position": "16",
+        "End Position": "9",
+        "Points": "2",
+        "Fastest Lap": {
+            "Time": "1:21.145",
+            "Lap": "46",
+            "Average Speed": {
+                "Speed": "234.158",
+                "Unit": "kph"
+            }
+        },
+        "DNF": null
+    },
+    {
+        "Circuit ID": "albert_park",
+        "Driver ID": "kevin_magnussen",
+        "Start Position": "14",
+        "End Position": "10",
+        "Points": "1",
+        "Fastest Lap": {
+            "Time": "1:21.082",
+            "Lap": "44",
+            "Average Speed": {
+                "Speed": "234.340",
+                "Unit": "kph"
+            }
+        },
+        "DNF": "+1 Lap"
+    },
+    {
+        "Circuit ID": "albert_park",
+        "Driver ID": "albon",
+        "Start Position": "12",
+        "End Position": "11",
+        "Points": "0",
+        "Fastest Lap": {
+            "Time": "1:21.618",
+            "Lap": "46",
+            "Average Speed": {
+                "Speed": "232.801",
+                "Unit": "kph"
+            }
+        },
+        "DNF": "+1 Lap"
+    },
+    {
+        "Circuit ID": "albert_park",
+        "Driver ID": "ricciardo",
+        "Start Position": "18",
+        "End Position": "12",
+        "Points": "0",
+        "Fastest Lap": {
+            "Time": "1:21.239",
+            "Lap": "46",
+            "Average Speed": {
+                "Speed": "233.887",
+                "Unit": "kph"
+            }
+        },
+        "DNF": "+1 Lap"
+    },
+    {
+        "Circuit ID": "albert_park",
+        "Driver ID": "gasly",
+        "Start Position": "17",
+        "End Position": "13",
+        "Points": "0",
+        "Fastest Lap": {
+            "Time": "1:21.090",
+            "Lap": "51",
+            "Average Speed": {
+                "Speed": "234.317",
+                "Unit": "kph"
+            }
+        },
+        "DNF": "+1 Lap"
+    },
+    {
+        "Circuit ID": "albert_park",
+        "Driver ID": "bottas",
+        "Start Position": "13",
+        "End Position": "14",
+        "Points": "0",
+        "Fastest Lap": {
+            "Time": "1:21.422",
+            "Lap": "48",
+            "Average Speed": {
+                "Speed": "233.361",
+                "Unit": "kph"
+            }
+        },
+        "DNF": "+1 Lap"
+    },
+    {
+        "Circuit ID": "albert_park",
+        "Driver ID": "zhou",
+        "Start Position": "19",
+        "End Position": "15",
+        "Points": "0",
+        "Fastest Lap": {
+            "Time": "1:21.327",
+            "Lap": "49",
+            "Average Speed": {
+                "Speed": "233.634",
+                "Unit": "kph"
+            }
+        },
+        "DNF": "+1 Lap"
+    },
+    {
+        "Circuit ID": "albert_park",
+        "Driver ID": "ocon",
+        "Start Position": "15",
+        "End Position": "16",
+        "Points": "0",
+        "Fastest Lap": {
+            "Time": "1:21.354",
+            "Lap": "45",
+            "Average Speed": {
+                "Speed": "233.557",
+                "Unit": "kph"
+            }
+        },
+        "DNF": "+1 Lap"
+    },
+    {
+        "Circuit ID": "albert_park",
+        "Driver ID": "russell",
+        "Start Position": "7",
+        "End Position": "17",
+        "Points": "0",
+        "Fastest Lap": {
+            "Time": "1:20.284",
+            "Lap": "53",
+            "Average Speed": {
+                "Speed": "236.669",
+                "Unit": "kph"
+            }
+        },
+        "DNF": "Accident"
+    },
+    {
+        "Circuit ID": "albert_park",
+        "Driver ID": "hamilton",
+        "Start Position": "11",
+        "End Position": "18",
+        "Points": "0",
+        "Fastest Lap": {
+            "Time": "1:22.444",
+            "Lap": "11",
+            "Average Speed": {
+                "Speed": "230.469",
+                "Unit": "kph"
+            }
+        },
+        "DNF": "Engine"
+    },
+    {
+        "Circuit ID": "albert_park",
+        "Driver ID": "max_verstappen",
+        "Start Position": "1",
+        "End Position": "19",
+        "Points": "0",
+        "Fastest Lap": {
+            "Time": "1:23.115",
+            "Lap": "3",
+            "Average Speed": {
+                "Speed": "228.608",
+                "Unit": "kph"
+            }
+        },
+        "DNF": "Brakes"
+    }
+]

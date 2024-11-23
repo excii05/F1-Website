@@ -1,242 +1,242 @@
 [
     {
-        "id": "bahrain",
-        "round": "1",
-        "location": {
-            "country": "Bahrain",
-            "city": "Sakhir"
+        "ID": "bahrain",
+        "Round": "1",
+        "Location": {
+            "Country": "Bahrain",
+            "Locality": "Sakhir"
         },
-        "circuit_name": "Bahrain International Circuit",
-        "date": "02.03.2024"
+        "Circuit Name": "Bahrain International Circuit",
+        "Date": "02.03.2024"
     },
     {
-        "id": "jeddah",
-        "round": "2",
-        "location": {
-            "country": "Saudi Arabia",
-            "city": "Jeddah"
+        "ID": "jeddah",
+        "Round": "2",
+        "Location": {
+            "Country": "Saudi Arabia",
+            "Locality": "Jeddah"
         },
-        "circuit_name": "Jeddah Corniche Circuit",
-        "date": "09.03.2024"
+        "Circuit Name": "Jeddah Corniche Circuit",
+        "Date": "09.03.2024"
     },
     {
-        "id": "albert_park",
-        "round": "3",
-        "location": {
-            "country": "Australia",
-            "city": "Melbourne"
+        "ID": "albert_park",
+        "Round": "3",
+        "Location": {
+            "Country": "Australia",
+            "Locality": "Melbourne"
         },
-        "circuit_name": "Albert Park Grand Prix Circuit",
-        "date": "24.03.2024"
+        "Circuit Name": "Albert Park Grand Prix Circuit",
+        "Date": "24.03.2024"
     },
     {
-        "id": "suzuka",
-        "round": "4",
-        "location": {
-            "country": "Japan",
-            "city": "Suzuka"
+        "ID": "suzuka",
+        "Round": "4",
+        "Location": {
+            "Country": "Japan",
+            "Locality": "Suzuka"
         },
-        "circuit_name": "Suzuka Circuit",
-        "date": "07.04.2024"
+        "Circuit Name": "Suzuka Circuit",
+        "Date": "07.04.2024"
     },
     {
-        "id": "shanghai",
-        "round": "5",
-        "location": {
-            "country": "China",
-            "city": "Shanghai"
+        "ID": "shanghai",
+        "Round": "5",
+        "Location": {
+            "Country": "China",
+            "Locality": "Shanghai"
         },
-        "circuit_name": "Shanghai International Circuit",
-        "date": "21.04.2024"
+        "Circuit Name": "Shanghai International Circuit",
+        "Date": "21.04.2024"
     },
     {
-        "id": "miami",
-        "round": "6",
-        "location": {
-            "country": "USA",
-            "city": "Miami"
+        "ID": "miami",
+        "Round": "6",
+        "Location": {
+            "Country": "USA",
+            "Locality": "Miami"
         },
-        "circuit_name": "Miami International Autodrome",
-        "date": "05.05.2024"
+        "Circuit Name": "Miami International Autodrome",
+        "Date": "05.05.2024"
     },
     {
-        "id": "imola",
-        "round": "7",
-        "location": {
-            "country": "Italy",
-            "city": "Imola"
+        "ID": "imola",
+        "Round": "7",
+        "Location": {
+            "Country": "Italy",
+            "Locality": "Imola"
         },
-        "circuit_name": "Autodromo Enzo e Dino Ferrari",
-        "date": "19.05.2024"
+        "Circuit Name": "Autodromo Enzo e Dino Ferrari",
+        "Date": "19.05.2024"
     },
     {
-        "id": "monaco",
-        "round": "8",
-        "location": {
-            "country": "Monaco",
-            "city": "Monte-Carlo"
+        "ID": "monaco",
+        "Round": "8",
+        "Location": {
+            "Country": "Monaco",
+            "Locality": "Monte-Carlo"
         },
-        "circuit_name": "Circuit de Monaco",
-        "date": "26.05.2024"
+        "Circuit Name": "Circuit de Monaco",
+        "Date": "26.05.2024"
     },
     {
-        "id": "villeneuve",
-        "round": "9",
-        "location": {
-            "country": "Canada",
-            "city": "Montreal"
+        "ID": "villeneuve",
+        "Round": "9",
+        "Location": {
+            "Country": "Canada",
+            "Locality": "Montreal"
         },
-        "circuit_name": "Circuit Gilles Villeneuve",
-        "date": "09.06.2024"
+        "Circuit Name": "Circuit Gilles Villeneuve",
+        "Date": "09.06.2024"
     },
     {
-        "id": "catalunya",
-        "round": "10",
-        "location": {
-            "country": "Spain",
-            "city": "Montmeló"
+        "ID": "catalunya",
+        "Round": "10",
+        "Location": {
+            "Country": "Spain",
+            "Locality": "Montmeló"
         },
-        "circuit_name": "Circuit de Barcelona-Catalunya",
-        "date": "23.06.2024"
+        "Circuit Name": "Circuit de Barcelona-Catalunya",
+        "Date": "23.06.2024"
     },
     {
-        "id": "red_bull_ring",
-        "round": "11",
-        "location": {
-            "country": "Austria",
-            "city": "Spielberg"
+        "ID": "red_bull_ring",
+        "Round": "11",
+        "Location": {
+            "Country": "Austria",
+            "Locality": "Spielberg"
         },
-        "circuit_name": "Red Bull Ring",
-        "date": "30.06.2024"
+        "Circuit Name": "Red Bull Ring",
+        "Date": "30.06.2024"
     },
     {
-        "id": "silverstone",
-        "round": "12",
-        "location": {
-            "country": "UK",
-            "city": "Silverstone"
+        "ID": "silverstone",
+        "Round": "12",
+        "Location": {
+            "Country": "UK",
+            "Locality": "Silverstone"
         },
-        "circuit_name": "Silverstone Circuit",
-        "date": "07.07.2024"
+        "Circuit Name": "Silverstone Circuit",
+        "Date": "07.07.2024"
     },
     {
-        "id": "hungaroring",
-        "round": "13",
-        "location": {
-            "country": "Hungary",
-            "city": "Budapest"
+        "ID": "hungaroring",
+        "Round": "13",
+        "Location": {
+            "Country": "Hungary",
+            "Locality": "Budapest"
         },
-        "circuit_name": "Hungaroring",
-        "date": "21.07.2024"
+        "Circuit Name": "Hungaroring",
+        "Date": "21.07.2024"
     },
     {
-        "id": "spa",
-        "round": "14",
-        "location": {
-            "country": "Belgium",
-            "city": "Spa"
+        "ID": "spa",
+        "Round": "14",
+        "Location": {
+            "Country": "Belgium",
+            "Locality": "Spa"
         },
-        "circuit_name": "Circuit de Spa-Francorchamps",
-        "date": "28.07.2024"
+        "Circuit Name": "Circuit de Spa-Francorchamps",
+        "Date": "28.07.2024"
     },
     {
-        "id": "zandvoort",
-        "round": "15",
-        "location": {
-            "country": "Netherlands",
-            "city": "Zandvoort"
+        "ID": "zandvoort",
+        "Round": "15",
+        "Location": {
+            "Country": "Netherlands",
+            "Locality": "Zandvoort"
         },
-        "circuit_name": "Circuit Park Zandvoort",
-        "date": "25.08.2024"
+        "Circuit Name": "Circuit Park Zandvoort",
+        "Date": "25.08.2024"
     },
     {
-        "id": "monza",
-        "round": "16",
-        "location": {
-            "country": "Italy",
-            "city": "Monza"
+        "ID": "monza",
+        "Round": "16",
+        "Location": {
+            "Country": "Italy",
+            "Locality": "Monza"
         },
-        "circuit_name": "Autodromo Nazionale di Monza",
-        "date": "01.09.2024"
+        "Circuit Name": "Autodromo Nazionale di Monza",
+        "Date": "01.09.2024"
     },
     {
-        "id": "baku",
-        "round": "17",
-        "location": {
-            "country": "Azerbaijan",
-            "city": "Baku"
+        "ID": "baku",
+        "Round": "17",
+        "Location": {
+            "Country": "Azerbaijan",
+            "Locality": "Baku"
         },
-        "circuit_name": "Baku City Circuit",
-        "date": "15.09.2024"
+        "Circuit Name": "Baku City Circuit",
+        "Date": "15.09.2024"
     },
     {
-        "id": "marina_bay",
-        "round": "18",
-        "location": {
-            "country": "Singapore",
-            "city": "Marina Bay"
+        "ID": "marina_bay",
+        "Round": "18",
+        "Location": {
+            "Country": "Singapore",
+            "Locality": "Marina Bay"
         },
-        "circuit_name": "Marina Bay Street Circuit",
-        "date": "22.09.2024"
+        "Circuit Name": "Marina Bay Street Circuit",
+        "Date": "22.09.2024"
     },
     {
-        "id": "americas",
-        "round": "19",
-        "location": {
-            "country": "USA",
-            "city": "Austin"
+        "ID": "americas",
+        "Round": "19",
+        "Location": {
+            "Country": "USA",
+            "Locality": "Austin"
         },
-        "circuit_name": "Circuit of the Americas",
-        "date": "20.10.2024"
+        "Circuit Name": "Circuit of the Americas",
+        "Date": "20.10.2024"
     },
     {
-        "id": "rodriguez",
-        "round": "20",
-        "location": {
-            "country": "Mexico",
-            "city": "Mexico City"
+        "ID": "rodriguez",
+        "Round": "20",
+        "Location": {
+            "Country": "Mexico",
+            "Locality": "Mexico City"
         },
-        "circuit_name": "Autódromo Hermanos Rodríguez",
-        "date": "27.10.2024"
+        "Circuit Name": "Autódromo Hermanos Rodríguez",
+        "Date": "27.10.2024"
     },
     {
-        "id": "interlagos",
-        "round": "21",
-        "location": {
-            "country": "Brazil",
-            "city": "São Paulo"
+        "ID": "interlagos",
+        "Round": "21",
+        "Location": {
+            "Country": "Brazil",
+            "Locality": "São Paulo"
         },
-        "circuit_name": "Autódromo José Carlos Pace",
-        "date": "03.11.2024"
+        "Circuit Name": "Autódromo José Carlos Pace",
+        "Date": "03.11.2024"
     },
     {
-        "id": "vegas",
-        "round": "22",
-        "location": {
-            "country": "United States",
-            "city": "Las Vegas"
+        "ID": "vegas",
+        "Round": "22",
+        "Location": {
+            "Country": "United States",
+            "Locality": "Las Vegas"
         },
-        "circuit_name": "Las Vegas Strip Street Circuit",
-        "date": "23.11.2024"
+        "Circuit Name": "Las Vegas Strip Street Circuit",
+        "Date": "23.11.2024"
     },
     {
-        "id": "losail",
-        "round": "23",
-        "location": {
-            "country": "Qatar",
-            "city": "Al Daayen"
+        "ID": "losail",
+        "Round": "23",
+        "Location": {
+            "Country": "Qatar",
+            "Locality": "Al Daayen"
         },
-        "circuit_name": "Losail International Circuit",
-        "date": "01.12.2024"
+        "Circuit Name": "Losail International Circuit",
+        "Date": "01.12.2024"
     },
     {
-        "id": "yas_marina",
-        "round": "24",
-        "location": {
-            "country": "UAE",
-            "city": "Abu Dhabi"
+        "ID": "yas_marina",
+        "Round": "24",
+        "Location": {
+            "Country": "UAE",
+            "Locality": "Abu Dhabi"
         },
-        "circuit_name": "Yas Marina Circuit",
-        "date": "08.12.2024"
+        "Circuit Name": "Yas Marina Circuit",
+        "Date": "08.12.2024"
     }
 ]

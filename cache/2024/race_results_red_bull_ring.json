@@ -1,0 +1,322 @@
+[
+    {
+        "Circuit ID": "red_bull_ring",
+        "Driver ID": "russell",
+        "Start Position": "3",
+        "End Position": "1",
+        "Points": "25",
+        "Fastest Lap": {
+            "Time": "1:09.164",
+            "Lap": "48",
+            "Average Speed": {
+                "Speed": "224.752",
+                "Unit": "kph"
+            }
+        },
+        "DNF": null
+    },
+    {
+        "Circuit ID": "red_bull_ring",
+        "Driver ID": "piastri",
+        "Start Position": "7",
+        "End Position": "2",
+        "Points": "18",
+        "Fastest Lap": {
+            "Time": "1:08.697",
+            "Lap": "56",
+            "Average Speed": {
+                "Speed": "226.280",
+                "Unit": "kph"
+            }
+        },
+        "DNF": null
+    },
+    {
+        "Circuit ID": "red_bull_ring",
+        "Driver ID": "sainz",
+        "Start Position": "4",
+        "End Position": "3",
+        "Points": "15",
+        "Fastest Lap": {
+            "Time": "1:09.282",
+            "Lap": "56",
+            "Average Speed": {
+                "Speed": "224.369",
+                "Unit": "kph"
+            }
+        },
+        "DNF": null
+    },
+    {
+        "Circuit ID": "red_bull_ring",
+        "Driver ID": "hamilton",
+        "Start Position": "5",
+        "End Position": "4",
+        "Points": "12",
+        "Fastest Lap": {
+            "Time": "1:09.562",
+            "Lap": "61",
+            "Average Speed": {
+                "Speed": "223.466",
+                "Unit": "kph"
+            }
+        },
+        "DNF": null
+    },
+    {
+        "Circuit ID": "red_bull_ring",
+        "Driver ID": "max_verstappen",
+        "Start Position": "1",
+        "End Position": "5",
+        "Points": "10",
+        "Fastest Lap": {
+            "Time": "1:07.719",
+            "Lap": "68",
+            "Average Speed": {
+                "Speed": "229.548",
+                "Unit": "kph"
+            }
+        },
+        "DNF": null
+    },
+    {
+        "Circuit ID": "red_bull_ring",
+        "Driver ID": "hulkenberg",
+        "Start Position": "9",
+        "End Position": "6",
+        "Points": "8",
+        "Fastest Lap": {
+            "Time": "1:10.215",
+            "Lap": "51",
+            "Average Speed": {
+                "Speed": "221.388",
+                "Unit": "kph"
+            }
+        },
+        "DNF": null
+    },
+    {
+        "Circuit ID": "red_bull_ring",
+        "Driver ID": "perez",
+        "Start Position": "8",
+        "End Position": "7",
+        "Points": "6",
+        "Fastest Lap": {
+            "Time": "1:09.694",
+            "Lap": "56",
+            "Average Speed": {
+                "Speed": "223.043",
+                "Unit": "kph"
+            }
+        },
+        "DNF": null
+    },
+    {
+        "Circuit ID": "red_bull_ring",
+        "Driver ID": "kevin_magnussen",
+        "Start Position": "12",
+        "End Position": "8",
+        "Points": "4",
+        "Fastest Lap": {
+            "Time": "1:10.125",
+            "Lap": "45",
+            "Average Speed": {
+                "Speed": "221.672",
+                "Unit": "kph"
+            }
+        },
+        "DNF": null
+    },
+    {
+        "Circuit ID": "red_bull_ring",
+        "Driver ID": "ricciardo",
+        "Start Position": "11",
+        "End Position": "9",
+        "Points": "2",
+        "Fastest Lap": {
+            "Time": "1:10.426",
+            "Lap": "49",
+            "Average Speed": {
+                "Speed": "220.725",
+                "Unit": "kph"
+            }
+        },
+        "DNF": null
+    },
+    {
+        "Circuit ID": "red_bull_ring",
+        "Driver ID": "gasly",
+        "Start Position": "13",
+        "End Position": "10",
+        "Points": "1",
+        "Fastest Lap": {
+            "Time": "1:09.609",
+            "Lap": "45",
+            "Average Speed": {
+                "Speed": "223.315",
+                "Unit": "kph"
+            }
+        },
+        "DNF": null
+    },
+    {
+        "Circuit ID": "red_bull_ring",
+        "Driver ID": "leclerc",
+        "Start Position": "6",
+        "End Position": "11",
+        "Points": "0",
+        "Fastest Lap": {
+            "Time": "1:09.584",
+            "Lap": "55",
+            "Average Speed": {
+                "Speed": "223.396",
+                "Unit": "kph"
+            }
+        },
+        "DNF": null
+    },
+    {
+        "Circuit ID": "red_bull_ring",
+        "Driver ID": "ocon",
+        "Start Position": "10",
+        "End Position": "12",
+        "Points": "0",
+        "Fastest Lap": {
+            "Time": "1:09.649",
+            "Lap": "45",
+            "Average Speed": {
+                "Speed": "223.187",
+                "Unit": "kph"
+            }
+        },
+        "DNF": null
+    },
+    {
+        "Circuit ID": "red_bull_ring",
+        "Driver ID": "stroll",
+        "Start Position": "17",
+        "End Position": "13",
+        "Points": "0",
+        "Fastest Lap": {
+            "Time": "1:10.143",
+            "Lap": "54",
+            "Average Speed": {
+                "Speed": "221.615",
+                "Unit": "kph"
+            }
+        },
+        "DNF": "+1 Lap"
+    },
+    {
+        "Circuit ID": "red_bull_ring",
+        "Driver ID": "tsunoda",
+        "Start Position": "14",
+        "End Position": "14",
+        "Points": "0",
+        "Fastest Lap": {
+            "Time": "1:10.318",
+            "Lap": "54",
+            "Average Speed": {
+                "Speed": "221.064",
+                "Unit": "kph"
+            }
+        },
+        "DNF": "+1 Lap"
+    },
+    {
+        "Circuit ID": "red_bull_ring",
+        "Driver ID": "albon",
+        "Start Position": "16",
+        "End Position": "15",
+        "Points": "0",
+        "Fastest Lap": {
+            "Time": "1:10.364",
+            "Lap": "41",
+            "Average Speed": {
+                "Speed": "220.919",
+                "Unit": "kph"
+            }
+        },
+        "DNF": "+1 Lap"
+    },
+    {
+        "Circuit ID": "red_bull_ring",
+        "Driver ID": "bottas",
+        "Start Position": "18",
+        "End Position": "16",
+        "Points": "0",
+        "Fastest Lap": {
+            "Time": "1:10.449",
+            "Lap": "48",
+            "Average Speed": {
+                "Speed": "220.653",
+                "Unit": "kph"
+            }
+        },
+        "DNF": "+1 Lap"
+    },
+    {
+        "Circuit ID": "red_bull_ring",
+        "Driver ID": "zhou",
+        "Start Position": "20",
+        "End Position": "17",
+        "Points": "0",
+        "Fastest Lap": {
+            "Time": "1:10.470",
+            "Lap": "54",
+            "Average Speed": {
+                "Speed": "220.587",
+                "Unit": "kph"
+            }
+        },
+        "DNF": "+1 Lap"
+    },
+    {
+        "Circuit ID": "red_bull_ring",
+        "Driver ID": "alonso",
+        "Start Position": "15",
+        "End Position": "18",
+        "Points": "0",
+        "Fastest Lap": {
+            "Time": "1:07.694",
+            "Lap": "70",
+            "Average Speed": {
+                "Speed": "229.633",
+                "Unit": "kph"
+            }
+        },
+        "DNF": "+1 Lap"
+    },
+    {
+        "Circuit ID": "red_bull_ring",
+        "Driver ID": "sargeant",
+        "Start Position": "19",
+        "End Position": "19",
+        "Points": "0",
+        "Fastest Lap": {
+            "Time": "1:10.406",
+            "Lap": "60",
+            "Average Speed": {
+                "Speed": "220.788",
+                "Unit": "kph"
+            }
+        },
+        "DNF": "+2 Laps"
+    },
+    {
+        "Circuit ID": "red_bull_ring",
+        "Driver ID": "norris",
+        "Start Position": "2",
+        "End Position": "20",
+        "Points": "0",
+        "Fastest Lap": {
+            "Time": "1:08.016",
+            "Lap": "53",
+            "Average Speed": {
+                "Speed": "228.546",
+                "Unit": "kph"
+            }
+        },
+        "DNF": "+7 Laps"
+    }
+]
