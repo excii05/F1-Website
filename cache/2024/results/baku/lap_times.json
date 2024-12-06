@@ -1,0 +1,182 @@
+[
+    {
+        "Lap": "1",
+        "Driver": "leclerc",
+        "Position": "1",
+        "Time": "1:52.106"
+    },
+    {
+        "Lap": "1",
+        "Driver": "piastri",
+        "Position": "2",
+        "Time": "1:52.903"
+    },
+    {
+        "Lap": "1",
+        "Driver": "perez",
+        "Position": "3",
+        "Time": "1:53.923"
+    },
+    {
+        "Lap": "1",
+        "Driver": "sainz",
+        "Position": "4",
+        "Time": "1:54.797"
+    },
+    {
+        "Lap": "1",
+        "Driver": "max_verstappen",
+        "Position": "5",
+        "Time": "1:55.490"
+    },
+    {
+        "Lap": "1",
+        "Driver": "russell",
+        "Position": "6",
+        "Time": "1:56.420"
+    },
+    {
+        "Lap": "1",
+        "Driver": "alonso",
+        "Position": "7",
+        "Time": "1:57.400"
+    },
+    {
+        "Lap": "1",
+        "Driver": "colapinto",
+        "Position": "8",
+        "Time": "1:58.293"
+    },
+    {
+        "Lap": "1",
+        "Driver": "albon",
+        "Position": "9",
+        "Time": "1:59.047"
+    },
+    {
+        "Lap": "1",
+        "Driver": "bearman",
+        "Position": "10",
+        "Time": "2:00.008"
+    },
+    {
+        "Lap": "1",
+        "Driver": "tsunoda",
+        "Position": "11",
+        "Time": "2:03.649"
+    },
+    {
+        "Lap": "1",
+        "Driver": "norris",
+        "Position": "12",
+        "Time": "2:03.761"
+    },
+    {
+        "Lap": "1",
+        "Driver": "hulkenberg",
+        "Position": "13",
+        "Time": "2:03.833"
+    },
+    {
+        "Lap": "1",
+        "Driver": "ricciardo",
+        "Position": "14",
+        "Time": "2:03.929"
+    },
+    {
+        "Lap": "1",
+        "Driver": "gasly",
+        "Position": "15",
+        "Time": "2:04.448"
+    },
+    {
+        "Lap": "1",
+        "Driver": "bottas",
+        "Position": "16",
+        "Time": "2:04.469"
+    },
+    {
+        "Lap": "1",
+        "Driver": "hamilton",
+        "Position": "17",
+        "Time": "2:05.704"
+    },
+    {
+        "Lap": "1",
+        "Driver": "zhou",
+        "Position": "18",
+        "Time": "2:05.800"
+    },
+    {
+        "Lap": "1",
+        "Driver": "ocon",
+        "Position": "19",
+        "Time": "2:06.969"
+    },
+    {
+        "Lap": "1",
+        "Driver": "stroll",
+        "Position": "20",
+        "Time": "2:11.014"
+    },
+    {
+        "Lap": "2",
+        "Driver": "leclerc",
+        "Position": "1",
+        "Time": "1:49.283"
+    },
+    {
+        "Lap": "2",
+        "Driver": "piastri",
+        "Position": "2",
+        "Time": "1:48.944"
+    },
+    {
+        "Lap": "2",
+        "Driver": "perez",
+        "Position": "3",
+        "Time": "1:49.236"
+    },
+    {
+        "Lap": "2",
+        "Driver": "sainz",
+        "Position": "4",
+        "Time": "1:49.120"
+    },
+    {
+        "Lap": "2",
+        "Driver": "max_verstappen",
+        "Position": "5",
+        "Time": "1:49.632"
+    },
+    {
+        "Lap": "2",
+        "Driver": "russell",
+        "Position": "6",
+        "Time": "1:49.738"
+    },
+    {
+        "Lap": "2",
+        "Driver": "alonso",
+        "Position": "7",
+        "Time": "1:50.081"
+    },
+    {
+        "Lap": "2",
+        "Driver": "colapinto",
+        "Position": "8",
+        "Time": "1:50.410"
+    },
+    {
+        "Lap": "2",
+        "Driver": "albon",
+        "Position": "9",
+        "Time": "1:50.846"
+    },
+    {
+        "Lap": "2",
+        "Driver": "bearman",
+        "Position": "10",
+        "Time": "1:50.738"
+    }
+]

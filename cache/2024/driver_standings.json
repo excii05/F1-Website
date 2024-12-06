@@ -3,15 +3,15 @@
         "ID": "max_verstappen",
         "Position": "1",
         "Name": "Max Verstappen",
-        "Points": "393",
-        "Wins": "8",
+        "Points": "429",
+        "Wins": "9",
         "Team": "Red Bull"
     },
     {
         "ID": "norris",
         "Position": "2",
         "Name": "Lando Norris",
-        "Points": "331",
+        "Points": "349",
         "Wins": "3",
         "Team": "McLaren"
     },
@@ -19,7 +19,7 @@
         "ID": "leclerc",
         "Position": "3",
         "Name": "Charles Leclerc",
-        "Points": "307",
+        "Points": "341",
         "Wins": "3",
         "Team": "Ferrari"
     },
@@ -27,7 +27,7 @@
         "ID": "piastri",
         "Position": "4",
         "Name": "Oscar Piastri",
-        "Points": "262",
+        "Points": "291",
         "Wins": "2",
         "Team": "McLaren"
     },
@@ -35,7 +35,7 @@
         "ID": "sainz",
         "Position": "5",
         "Name": "Carlos Sainz",
-        "Points": "244",
+        "Points": "272",
         "Wins": "2",
         "Team": "Ferrari"
     },
@@ -43,15 +43,15 @@
         "ID": "russell",
         "Position": "6",
         "Name": "George Russell",
-        "Points": "192",
-        "Wins": "1",
+        "Points": "235",
+        "Wins": "2",
         "Team": "Mercedes"
     },
     {
         "ID": "hamilton",
         "Position": "7",
         "Name": "Lewis Hamilton",
-        "Points": "190",
+        "Points": "211",
         "Wins": "2",
         "Team": "Mercedes"
     },
@@ -59,7 +59,7 @@
         "ID": "perez",
         "Position": "8",
         "Name": "Sergio Pérez",
-        "Points": "151",
+        "Points": "152",
         "Wins": "0",
         "Team": "Red Bull"
     },
@@ -67,7 +67,7 @@
         "ID": "alonso",
         "Position": "9",
         "Name": "Fernando Alonso",
-        "Points": "62",
+        "Points": "68",
         "Wins": "0",
         "Team": "Aston Martin"
     },
@@ -75,25 +75,25 @@
         "ID": "hulkenberg",
         "Position": "10",
         "Name": "Nico Hülkenberg",
-        "Points": "31",
+        "Points": "37",
         "Wins": "0",
         "Team": "Haas F1 Team"
     },
     {
-        "ID": "tsunoda",
-        "Position": "11",
-        "Name": "Yuki Tsunoda",
-        "Points": "28",
-        "Wins": "0",
-        "Team": "RB F1 Team"
-    },
-    {
         "ID": "gasly",
-        "Position": "12",
+        "Position": "11",
         "Name": "Pierre Gasly",
-        "Points": "26",
+        "Points": "36",
         "Wins": "0",
         "Team": "Alpine F1 Team"
+    },
+    {
+        "ID": "tsunoda",
+        "Position": "12",
+        "Name": "Yuki Tsunoda",
+        "Points": "30",
+        "Wins": "0",
+        "Team": "RB F1 Team"
     },
     {
         "ID": "stroll",
@@ -115,7 +115,7 @@
         "ID": "kevin_magnussen",
         "Position": "15",
         "Name": "Kevin Magnussen",
-        "Points": "14",
+        "Points": "16",
         "Wins": "0",
         "Team": "Haas F1 Team"
     },
@@ -152,35 +152,35 @@
         "Team": "Williams"
     },
     {
-        "ID": "lawson",
+        "ID": "zhou",
         "Position": "20",
+        "Name": "Guanyu Zhou",
+        "Points": "4",
+        "Wins": "0",
+        "Team": "Sauber"
+    },
+    {
+        "ID": "lawson",
+        "Position": "21",
         "Name": "Liam Lawson",
         "Points": "4",
         "Wins": "0",
         "Team": "RB F1 Team"
     },
     {
-        "ID": "zhou",
-        "Position": "21",
-        "Name": "Guanyu Zhou",
+        "ID": "bottas",
+        "Position": "22",
+        "Name": "Valtteri Bottas",
         "Points": "0",
         "Wins": "0",
         "Team": "Sauber"
     },
     {
         "ID": "sargeant",
-        "Position": "22",
+        "Position": "23",
         "Name": "Logan Sargeant",
         "Points": "0",
         "Wins": "0",
         "Team": "Williams"
-    },
-    {
-        "ID": "bottas",
-        "Position": "23",
-        "Name": "Valtteri Bottas",
-        "Points": "0",
-        "Wins": "0",
-        "Team": "Sauber"
     }
 ]

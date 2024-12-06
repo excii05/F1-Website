@@ -37,5 +37,15 @@ def fetch_race_results(year, round):
     if response.status_code == 200:
         return response.json()
     else:
-        print("Failed to fetch driver results")
+        print("Failed to fetch race results")
+        return None
+
+def fetch_lap_times(year, round):
+    url = f"http://ergast.com/api/f1/{year}/{round}/laps.json"
+    response = requests.get(url)
+    
+    if response.status_code == 200:
+        return response.json()
+    else:
+        print(f"Failed to fetch lap times for year {year} round {round}")
         return None
