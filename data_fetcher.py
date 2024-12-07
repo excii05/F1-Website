@@ -29,6 +29,16 @@ def fetch_race_schedule():
     else:
         print("Failed to fetch race schedule")
         return None
+    
+def fetch_session_schedule(country, year):
+    url = f"https://api.openf1.org/v1/sessions?country_name={country}&year={year}"
+    response = requests.get(url)
+    
+    if response.status_code == 200:
+        return response.json()
+    else:
+        print(f"Failed to fetch sessions for country {country} in year {year}")
+        return None
 
 def fetch_race_results(year, round):
     url = f"http://ergast.com/api/f1/{year}/{round}/results.json"
