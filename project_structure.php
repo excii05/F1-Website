@@ -17,9 +17,14 @@ f1_dashboard/
 │   ├── js/
 │   │   └── script.js          # JavaScript für Interaktivität
 │
-└── cache/
-    ├── driver_standings.json
-    ├── constructor_standings.json
-    ├── race_schedule.json
-    ├── {driver_id}_results.json
-    └── {constructor}_results.json
+├── cache/
+│   ├── season_folder/
+│   │   ├── results_folder/
+│   │   │   └── race_id_folder/
+│   │   │       ├── lap_times.json
+│   │   │       └──race_results.json
+│   │   ├── driver_standings.json
+│   │   ├── constructor_standings.json
+│   │   └── race_schedule.json
+│   ├── drivers_folder/
+│   └── translations.json

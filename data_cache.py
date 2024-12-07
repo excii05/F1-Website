@@ -19,6 +19,7 @@ def save_to_json(file_name, data):
     """Speichert Daten in einer JSON-Datei im angegebenen Pfad."""
     try:
         os.makedirs(os.path.dirname(file_name), exist_ok=True)  # Stelle sicher, dass der Ordner existiert
+        
         with open(file_name, 'w', encoding='utf-8') as file:
             json.dump(data, file, ensure_ascii=False, indent=4)
         print(f"Data successfully saved to {file_name}")
@@ -41,6 +42,14 @@ def main():
             os.makedirs(season_folder, exist_ok=True)  # Saison-Ordner erstellen
             print(f"Created folder {current_season}")
             
+            results_folder = os.path.join(season_folder, "results")
+            os.makedirs(results_folder, exist_ok=True)  # Results-Ordner erstellen
+            print(f"Created results folder in {current_season}")
+            
+            drivers_folder = os.path.join("cache", "drivers")
+            os.makedirs(drivers_folder, exist_ok=True)  # Drivers-Ordner erstellen
+            print(f"Created drivers folder in cache")
+
             combined_data = []  # Kombinierte Daten für Rennen und Sessions
             
             # Sitzungsdaten für jedes Rennen abrufen und hinzufügen
@@ -56,32 +65,17 @@ def main():
 
                 sessions = []
 
-                # Prüfen, ob Daten zurückgegeben wurden und ob die Antwort eine Liste ist
-                if session_data and isinstance(session_data, list):
-                    print("Raw session data received:")
-                    print(json.dumps(session_data, indent=4))
-                    
-                    # Iteriere durch die Liste und extrahiere die relevanten Daten
-                    for session in session_data:
-                        sessions.append({
-                            "Session Type": session.get("session_type", "Unknown"),
-                            "Session Name": session.get("session_name", "Unknown"),
-                            "Date Start": session.get("date_start", "Unknown"),
-                            "Date End": session.get("date_end", "Unknown")
-                        })
-
-                    # Debug: Zeige die extrahierten Sessions
-                    print("Extracted sessions:")
-                    print(json.dumps(sessions, indent=4))
-                else:
-                    print(f"No valid session data found for {country}, year: {year}.")
+                # Iteriere durch die Liste und extrahiere die relevanten Daten
+                for session in session_data:
+                    sessions.append({
+                        "Session Type": session.get("session_type", "Unknown"),
+                        "Session Name": session.get("session_name", "Unknown"),
+                        "Date Start": session.get("date_start", "Unknown"),
+                        "Date End": session.get("date_end", "Unknown")
+                    })
 
                 # Die Sessions unter dem entsprechenden Race speichern
                 race["Sessions"] = sessions
-
-                # Debug: Zeige das aktualisierte Race-Objekt mit Sessions
-                print("Updated race object with sessions:")
-                print(json.dumps(race, indent=4))
 
                 # Kombinierte Datenstruktur für Rennen und zugehörige Sitzungen
                 combined_race_data = {
@@ -98,14 +92,12 @@ def main():
                 combined_data.append(combined_race_data)
             
             # Speichern der kombinierten Daten
-            save_to_json(os.path.join(season_folder, "race_schedule_combined.json"), combined_data)
+            save_to_json(os.path.join(season_folder, "race_schedule.json"), combined_data)
             print(f"Saved combined race schedule and session data for {len(combined_data)} races.")
         else:
             print("Warning: Race schedule processing returned no data.")
-            return
     else:
         print("Error: Race schedule data could not be fetched or is empty.")
-        return
 
     # Fetch und Process: Fahrerwertung
     print("Fetching driver standings...")
@@ -134,6 +126,59 @@ def main():
             print("Warning: Constructor standings processing returned no data.")
     else:
         print("Error: Constructor standings data could not be fetched or is empty.")
+
+    # Fetch und Process: Rennergebnisse
+    print("Fetching and processing race results...")
+    if 'driver_standings' in locals() and 'race_schedule' in locals():
+        race_results = process_race_results(driver_standings, race_schedule)
+        if race_results:
+            print(f"Race results processed: {len(race_results)} entries found.")
+            # Speichern der Ergebnisse nach Fahrer
+            save_to_json(os.path.join(results_folder, "race_results_by_driver.json"), race_results)
+
+            # Speichern der Ergebnisse nach Rennen
+            for race in race_schedule:
+                race_id = race['ID']
+                race_round = race['Round']
+                race_year = current_season
+                race_results_for_circuit = [
+                    result for result in race_results if result['Circuit ID'] == race_id
+                ]
+                race_folder = os.path.join(results_folder, race_id)
+                os.makedirs(race_folder, exist_ok=True)
+                save_to_json(os.path.join(race_folder, f"race_results.json"), race_results_for_circuit)
+                print(f"Saved race results for circuit: {race_id}")
+
+                # Rundenzeiten für jedes Rennen abrufen und speichern
+                print(f"Fetching lap times for race {race_id}...")
+                lap_times = fetch_lap_times(race_year, race_round)
+                if lap_times:
+                    try:
+                        # Extrahiere nur den relevanten Abschnitt der Laps
+                        laps_data = lap_times.get("MRData", {}).get("RaceTable", {}).get("Races", [])[0].get("Laps", [])
+                        processed_lap_times = []
+                        
+                        # Verarbeite die Laps
+                        for lap in laps_data:
+                            if "Timings" in lap:
+                                for timing in lap["Timings"]:
+                                    processed_lap_times.append({
+                                        "Lap": lap.get("number"),  # Runden-Nummer
+                                        "Driver": timing.get("driverId"),  # Fahrer-ID
+                                        "Position": timing.get("position"),  # Position in der Runde
+                                        "Time": timing.get("time")  # Zeit in der Runde
+                                    })
+
+                        # Speichern der verarbeiteten Daten
+                        if processed_lap_times:
+                            save_to_json(os.path.join(race_folder, "lap_times.json"), processed_lap_times)
+                            print(f"Saved lap times for race {race_id}")
+                        else:
+                            print(f"No valid lap times found for race {race_id}")
+                    except (IndexError, KeyError, AttributeError) as e:
+                        print(f"Error processing lap times for race {race_id}: {e}")
+                else:
+                    print(f"No lap times data available for race {race_id}")
 
 if __name__ == "__main__":
     main()

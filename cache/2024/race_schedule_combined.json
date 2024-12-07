@@ -1,6 +1,5 @@
 [
     {
-        "Race": "race1",
         "ID": "bahrain",
         "Round": "1",
         "Location": {
@@ -43,7 +42,6 @@
         ]
     },
     {
-        "Race": "race2",
         "ID": "jeddah",
         "Round": "2",
         "Location": {
@@ -86,7 +84,6 @@
         ]
     },
     {
-        "Race": "race3",
         "ID": "albert_park",
         "Round": "3",
         "Location": {
@@ -129,7 +126,6 @@
         ]
     },
     {
-        "Race": "race4",
         "ID": "suzuka",
         "Round": "4",
         "Location": {
@@ -172,7 +168,6 @@
         ]
     },
     {
-        "Race": "race5",
         "ID": "shanghai",
         "Round": "5",
         "Location": {
@@ -215,7 +210,6 @@
         ]
     },
     {
-        "Race": "race6",
         "ID": "miami",
         "Round": "6",
         "Location": {
@@ -227,7 +221,6 @@
         "Sessions": []
     },
     {
-        "Race": "race7",
         "ID": "imola",
         "Round": "7",
         "Location": {
@@ -300,7 +293,6 @@
         ]
     },
     {
-        "Race": "race8",
         "ID": "monaco",
         "Round": "8",
         "Location": {
@@ -343,7 +335,6 @@
         ]
     },
     {
-        "Race": "race9",
         "ID": "villeneuve",
         "Round": "9",
         "Location": {
@@ -386,7 +377,6 @@
         ]
     },
     {
-        "Race": "race10",
         "ID": "catalunya",
         "Round": "10",
         "Location": {
@@ -429,7 +419,6 @@
         ]
     },
     {
-        "Race": "race11",
         "ID": "red_bull_ring",
         "Round": "11",
         "Location": {
@@ -472,7 +461,6 @@
         ]
     },
     {
-        "Race": "race12",
         "ID": "silverstone",
         "Round": "12",
         "Location": {
@@ -484,7 +472,6 @@
         "Sessions": []
     },
     {
-        "Race": "race13",
         "ID": "hungaroring",
         "Round": "13",
         "Location": {
@@ -527,7 +514,6 @@
         ]
     },
     {
-        "Race": "race14",
         "ID": "spa",
         "Round": "14",
         "Location": {
@@ -570,7 +556,6 @@
         ]
     },
     {
-        "Race": "race15",
         "ID": "zandvoort",
         "Round": "15",
         "Location": {
@@ -613,7 +598,6 @@
         ]
     },
     {
-        "Race": "race16",
         "ID": "monza",
         "Round": "16",
         "Location": {
@@ -686,7 +670,6 @@
         ]
     },
     {
-        "Race": "race17",
         "ID": "baku",
         "Round": "17",
         "Location": {
@@ -729,7 +712,6 @@
         ]
     },
     {
-        "Race": "race18",
         "ID": "marina_bay",
         "Round": "18",
         "Location": {
@@ -772,7 +754,6 @@
         ]
     },
     {
-        "Race": "race19",
         "ID": "americas",
         "Round": "19",
         "Location": {
@@ -784,7 +765,6 @@
         "Sessions": []
     },
     {
-        "Race": "race20",
         "ID": "rodriguez",
         "Round": "20",
         "Location": {
@@ -827,7 +807,6 @@
         ]
     },
     {
-        "Race": "race21",
         "ID": "interlagos",
         "Round": "21",
         "Location": {
@@ -870,7 +849,6 @@
         ]
     },
     {
-        "Race": "race22",
         "ID": "vegas",
         "Round": "22",
         "Location": {
@@ -973,7 +951,6 @@
         ]
     },
     {
-        "Race": "race23",
         "ID": "losail",
         "Round": "23",
         "Location": {
@@ -1016,7 +993,6 @@
         ]
     },
     {
-        "Race": "race24",
         "ID": "yas_marina",
         "Round": "24",
         "Location": {
