@@ -7342,5 +7342,325 @@
             }
         },
         "DNF": "Collision"
+    },
+    {
+        "Circuit ID": "yas_marina",
+        "Driver ID": "norris",
+        "Start Position": "1",
+        "End Position": "1",
+        "Points": "25",
+        "Fastest Lap": {
+            "Time": "1:27.438",
+            "Lap": "52",
+            "Average Speed": {
+                "Speed": "217.429",
+                "Unit": "kph"
+            }
+        },
+        "DNF": null
+    },
+    {
+        "Circuit ID": "yas_marina",
+        "Driver ID": "sainz",
+        "Start Position": "3",
+        "End Position": "2",
+        "Points": "18",
+        "Fastest Lap": {
+            "Time": "1:27.765",
+            "Lap": "55",
+            "Average Speed": {
+                "Speed": "216.619",
+                "Unit": "kph"
+            }
+        },
+        "DNF": null
+    },
+    {
+        "Circuit ID": "yas_marina",
+        "Driver ID": "leclerc",
+        "Start Position": "19",
+        "End Position": "3",
+        "Points": "15",
+        "Fastest Lap": {
+            "Time": "1:28.018",
+            "Lap": "51",
+            "Average Speed": {
+                "Speed": "215.996",
+                "Unit": "kph"
+            }
+        },
+        "DNF": null
+    },
+    {
+        "Circuit ID": "yas_marina",
+        "Driver ID": "hamilton",
+        "Start Position": "16",
+        "End Position": "4",
+        "Points": "12",
+        "Fastest Lap": {
+            "Time": "1:27.278",
+            "Lap": "44",
+            "Average Speed": {
+                "Speed": "217.828",
+                "Unit": "kph"
+            }
+        },
+        "DNF": null
+    },
+    {
+        "Circuit ID": "yas_marina",
+        "Driver ID": "russell",
+        "Start Position": "6",
+        "End Position": "5",
+        "Points": "10",
+        "Fastest Lap": {
+            "Time": "1:28.195",
+            "Lap": "56",
+            "Average Speed": {
+                "Speed": "215.563",
+                "Unit": "kph"
+            }
+        },
+        "DNF": null
+    },
+    {
+        "Circuit ID": "yas_marina",
+        "Driver ID": "max_verstappen",
+        "Start Position": "4",
+        "End Position": "6",
+        "Points": "8",
+        "Fastest Lap": {
+            "Time": "1:27.765",
+            "Lap": "56",
+            "Average Speed": {
+                "Speed": "216.619",
+                "Unit": "kph"
+            }
+        },
+        "DNF": null
+    },
+    {
+        "Circuit ID": "yas_marina",
+        "Driver ID": "gasly",
+        "Start Position": "5",
+        "End Position": "7",
+        "Points": "6",
+        "Fastest Lap": {
+            "Time": "1:29.251",
+            "Lap": "30",
+            "Average Speed": {
+                "Speed": "213.012",
+                "Unit": "kph"
+            }
+        },
+        "DNF": null
+    },
+    {
+        "Circuit ID": "yas_marina",
+        "Driver ID": "hulkenberg",
+        "Start Position": "7",
+        "End Position": "8",
+        "Points": "4",
+        "Fastest Lap": {
+            "Time": "1:29.152",
+            "Lap": "17",
+            "Average Speed": {
+                "Speed": "213.249",
+                "Unit": "kph"
+            }
+        },
+        "DNF": null
+    },
+    {
+        "Circuit ID": "yas_marina",
+        "Driver ID": "alonso",
+        "Start Position": "8",
+        "End Position": "9",
+        "Points": "2",
+        "Fastest Lap": {
+            "Time": "1:27.948",
+            "Lap": "51",
+            "Average Speed": {
+                "Speed": "216.168",
+                "Unit": "kph"
+            }
+        },
+        "DNF": null
+    },
+    {
+        "Circuit ID": "yas_marina",
+        "Driver ID": "piastri",
+        "Start Position": "2",
+        "End Position": "10",
+        "Points": "1",
+        "Fastest Lap": {
+            "Time": "1:27.690",
+            "Lap": "51",
+            "Average Speed": {
+                "Speed": "216.804",
+                "Unit": "kph"
+            }
+        },
+        "DNF": null
+    },
+    {
+        "Circuit ID": "yas_marina",
+        "Driver ID": "albon",
+        "Start Position": "18",
+        "End Position": "11",
+        "Points": "0",
+        "Fastest Lap": {
+            "Time": "1:29.438",
+            "Lap": "46",
+            "Average Speed": {
+                "Speed": "212.567",
+                "Unit": "kph"
+            }
+        },
+        "DNF": "+1 Lap"
+    },
+    {
+        "Circuit ID": "yas_marina",
+        "Driver ID": "tsunoda",
+        "Start Position": "11",
+        "End Position": "12",
+        "Points": "0",
+        "Fastest Lap": {
+            "Time": "1:29.200",
+            "Lap": "41",
+            "Average Speed": {
+                "Speed": "213.134",
+                "Unit": "kph"
+            }
+        },
+        "DNF": "+1 Lap"
+    },
+    {
+        "Circuit ID": "yas_marina",
+        "Driver ID": "zhou",
+        "Start Position": "15",
+        "End Position": "13",
+        "Points": "0",
+        "Fastest Lap": {
+            "Time": "1:27.982",
+            "Lap": "56",
+            "Average Speed": {
+                "Speed": "216.085",
+                "Unit": "kph"
+            }
+        },
+        "DNF": "+1 Lap"
+    },
+    {
+        "Circuit ID": "yas_marina",
+        "Driver ID": "stroll",
+        "Start Position": "13",
+        "End Position": "14",
+        "Points": "0",
+        "Fastest Lap": {
+            "Time": "1:28.604",
+            "Lap": "42",
+            "Average Speed": {
+                "Speed": "214.568",
+                "Unit": "kph"
+            }
+        },
+        "DNF": "+1 Lap"
+    },
+    {
+        "Circuit ID": "yas_marina",
+        "Driver ID": "doohan",
+        "Start Position": "17",
+        "End Position": "15",
+        "Points": "0",
+        "Fastest Lap": {
+            "Time": "1:29.121",
+            "Lap": "56",
+            "Average Speed": {
+                "Speed": "213.323",
+                "Unit": "kph"
+            }
+        },
+        "DNF": "+1 Lap"
+    },
+    {
+        "Circuit ID": "yas_marina",
+        "Driver ID": "kevin_magnussen",
+        "Start Position": "14",
+        "End Position": "16",
+        "Points": "0",
+        "Fastest Lap": {
+            "Time": "1:25.637",
+            "Lap": "57",
+            "Average Speed": {
+                "Speed": "222.002",
+                "Unit": "kph"
+            }
+        },
+        "DNF": "+1 Lap"
+    },
+    {
+        "Circuit ID": "yas_marina",
+        "Driver ID": "lawson",
+        "Start Position": "12",
+        "End Position": "17",
+        "Points": "0",
+        "Fastest Lap": {
+            "Time": "1:28.751",
+            "Lap": "52",
+            "Average Speed": {
+                "Speed": "214.212",
+                "Unit": "kph"
+            }
+        },
+        "DNF": "Engine"
+    },
+    {
+        "Circuit ID": "yas_marina",
+        "Driver ID": "bottas",
+        "Start Position": "9",
+        "End Position": "18",
+        "Points": "0",
+        "Fastest Lap": {
+            "Time": "1:29.482",
+            "Lap": "14",
+            "Average Speed": {
+                "Speed": "212.462",
+                "Unit": "kph"
+            }
+        },
+        "DNF": "Collision damage"
+    },
+    {
+        "Circuit ID": "yas_marina",
+        "Driver ID": "colapinto",
+        "Start Position": "20",
+        "End Position": "19",
+        "Points": "0",
+        "Fastest Lap": {
+            "Time": "1:29.411",
+            "Lap": "5",
+            "Average Speed": {
+                "Speed": "212.631",
+                "Unit": "kph"
+            }
+        },
+        "DNF": "Engine"
+    },
+    {
+        "Circuit ID": "yas_marina",
+        "Driver ID": "perez",
+        "Start Position": "10",
+        "End Position": "20",
+        "Points": "0",
+        "Fastest Lap": {
+            "Time": null,
+            "Lap": null,
+            "Average Speed": {
+                "Speed": null,
+                "Unit": null
+            }
+        },
+        "DNF": "Collision"
     }
 ]

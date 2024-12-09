@@ -1,5 +1,7 @@
 import requests
 
+# ! API von Ergast auf Jolpi umbauen!!!!!
+
 def fetch_driver_standings():
     url = "http://ergast.com/api/f1/current/driverStandings.json"
     response = requests.get(url)
@@ -50,8 +52,8 @@ def fetch_race_results(year, round):
         print("Failed to fetch race results")
         return None
 
-def fetch_lap_times(year, round):
-    url = f"http://ergast.com/api/f1/{year}/{round}/laps.json"
+def fetch_lap_times(year, round, driver_id):
+    url = f"https://api.jolpi.ca/ergast/f1/{year}/{round}/drivers/{driver_id}/laps/?format=json&limit=8000"
     response = requests.get(url)
     
     if response.status_code == 200:

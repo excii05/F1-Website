@@ -29,7 +29,7 @@ def save_to_json(file_name, data):
 def main():
     # Fetch und Process: Rennkalender
     print("Fetching race schedule...")
-    race_schedule_data = fetch_race_schedule()
+    race_schedule_data = fetch_race_schedule() # Unnötige Zeile!
     if race_schedule_data:
         print("Processing race schedule...")
         race_schedule = process_race_schedule(race_schedule_data)
@@ -151,7 +151,7 @@ def main():
 
                 # Rundenzeiten für jedes Rennen abrufen und speichern
                 print(f"Fetching lap times for race {race_id}...")
-                lap_times = fetch_lap_times(race_year, race_round)
+                lap_times = fetch_lap_times(race_year, race_round, driver_id)
                 if lap_times:
                     try:
                         # Extrahiere nur den relevanten Abschnitt der Laps
