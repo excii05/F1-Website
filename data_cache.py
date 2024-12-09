@@ -4,7 +4,8 @@ from datetime import datetime
 from data_processor import (
     process_driver_standings,
     process_constructor_standings,
-    process_race_schedule
+    process_race_schedule,
+    process_race_results
 )
 
 def save_to_json(file_name, data):
@@ -19,7 +20,7 @@ def save_to_json(file_name, data):
         print(f"Error saving data to {file_name}: {e}")
 
 def main():
-    current_year = datetime.now().year
+    current_year = "2024" # datetime.now().year
 
     # Fetch und Process: Rennkalender
     print("Fetching and processing race schedule...")
@@ -64,6 +65,23 @@ def main():
         save_to_json(os.path.join(season_folder, "constructor_standings.json"), constructor_standings)
     else:
         print("Error: Constructor standings could not be processed.")
+        
+    # Fetch und Process: Rennergebnisse
+    print("Fetching and processing race results...")
+    race_results = process_race_results(current_year, race_schedule)
+    if race_results:
+        # Speichern der Rennergebnisse nach Rennen
+        for race in race_schedule:
+            race_id = race['ID']
+            race_results_for_circuit = [
+                result for result in race_results if result['Circuit ID'] == race_id
+            ]
+            race_folder = os.path.join(results_folder, race_id)
+            os.makedirs(race_folder, exist_ok=True)
+            save_to_json(os.path.join(race_folder, "race_results.json"), race_results_for_circuit)
+            print(f"Saved race results for circuit: {race_id}")
+    else:
+        print("Error: Race results could not be processed.")
 
 if __name__ == "__main__":
     main()

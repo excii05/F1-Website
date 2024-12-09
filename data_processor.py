@@ -124,6 +124,7 @@ def process_race_results(year, race_schedule):
     results = []
     for race in race_schedule:
         round_number = race['Round']
+        circuit_id = race['ID']
         raw_data = fetch_race_results(year, round_number)
         if not raw_data:
             print(f"Error: No data fetched for race round {round_number}.")
@@ -139,9 +140,9 @@ def process_race_results(year, race_schedule):
                 try:
                     fastest_lap = result.get('FastestLap', {})
                     average_speed = fastest_lap.get('AverageSpeed', {})
-                    
+
                     results.append({
-                        'Circuit ID': race['ID'],
+                        'Circuit ID': circuit_id,
                         'Driver ID': result['Driver'].get('driverId', 'Unknown Driver ID'),
                         'Start Position': result.get('grid', 'Unknown Grid'),
                         'End Position': result.get('position', 'Unknown Position'),
@@ -149,15 +150,13 @@ def process_race_results(year, race_schedule):
                         'Fastest Lap': {
                             'Time': fastest_lap.get('Time', {}).get('time', None),
                             'Lap': fastest_lap.get('lap', None),
-                            'Average Speed': {
-                                'Speed': average_speed.get('speed', None),
-                                'Unit': average_speed.get('units', None)
-                            }
                         },
                         'DNF': result.get('status') if result.get('status') != 'Finished' else None
                     })
                 except KeyError as e:
                     print(f"Error processing race result: {result}. Missing key: {e}")
+
         except KeyError as e:
             print(f"Error processing race data for round {round_number}. Missing key: {e}")
+
     return results
