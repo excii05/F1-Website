@@ -4,7 +4,8 @@ from data_fetcher import (
     fetch_constructor_standings,
     fetch_race_schedule,
     fetch_race_results,
-    fetch_session_schedule
+    fetch_session_schedule,
+    fetch_lap_times
 )
 
 # Driver Standings
@@ -119,7 +120,7 @@ def process_race_schedule(year):
 
 
 def process_race_results(year, race_schedule):
-    """Holt und verarbeitet die Rennergebnisse."""
+    # Holt und verarbeitet die Rennergebnisse.
     print(f"Fetching race results for the {year} season...")
     results = []
     for race in race_schedule:
@@ -139,7 +140,6 @@ def process_race_results(year, race_schedule):
             for result in races[0]['Results']:
                 try:
                     fastest_lap = result.get('FastestLap', {})
-                    average_speed = fastest_lap.get('AverageSpeed', {})
 
                     results.append({
                         'Circuit ID': circuit_id,
@@ -160,3 +160,74 @@ def process_race_results(year, race_schedule):
             print(f"Error processing race data for round {round_number}. Missing key: {e}")
 
     return results
+
+def process_lap_times(year, race_schedule):
+    """Holt und verarbeitet die Rundenzeiten für alle Fahrer in jedem Rennen."""
+    print(f"Fetching lap times for the {year} season...")
+    results = []
+
+    for race in race_schedule:
+        round_number = race['Round']
+        circuit_id = race['ID']
+        print(f"Fetching lap times for round {round_number} ({circuit_id}) in {year}...")
+
+        # Holen der Rundenzeiten für jedes Rennen für alle Fahrer
+        raw_data = fetch_race_results(year, round_number)
+        if not raw_data:
+            print(f"Error: No race results fetched for round {round_number} in {year}.")
+            continue
+
+        try:
+            races = raw_data['MRData']['RaceTable']['Races']
+            if not races:
+                print(f"Warning: No race data found for round {round_number}.")
+                continue
+
+            results_for_race = races[0].get('Results', [])
+            if not results_for_race:
+                print(f"Warning: No results found for round {round_number}.")
+                continue
+
+            # Für jeden Fahrer im Rennen die Rundenzeiten abfragen
+            for result in results_for_race:
+                driver_id = result['Driver']['driverId']
+                lap_data = fetch_lap_times(year, round_number, driver_id)
+                if not lap_data:
+                    print(f"Error: No lap data fetched for driver {driver_id} in round {round_number}.")
+                    continue
+
+                laps = lap_data['MRData']['RaceTable']['Races'][0].get('Laps', [])
+                if not laps:
+                    print(f"Warning: No lap data found for driver {driver_id} in round {round_number}.")
+                    continue
+
+                # Verarbeitung der Rundenzeiten
+                for lap in laps:
+                    lap_number = lap.get("number")
+                    for timing in lap.get("Timings", []):
+                        lap_time = {
+                            "Lap": lap_number,
+                            "Driver ID": driver_id,
+                            "Time": timing.get("time"),
+                            "Position": timing.get("position"),
+                        }
+
+                        # Speichern der Rundenzeiten für dieses Rennen
+                        results.append({
+                            "Circuit ID": circuit_id,
+                            "Round": round_number,
+                            "Lap Number": lap_time["Lap"],
+                            "Driver ID": lap_time["Driver ID"],
+                            "Time": lap_time["Time"],
+                            "Position": lap_time["Position"],
+                        })
+
+        except KeyError as e:
+            print(f"Error processing lap times for round {round_number}: Missing key {e}")
+        except IndexError as e:
+            print(f"Error processing lap times for round {round_number}: {e}")
+
+    return results
+
+
+

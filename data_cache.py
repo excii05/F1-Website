@@ -5,7 +5,8 @@ from data_processor import (
     process_driver_standings,
     process_constructor_standings,
     process_race_schedule,
-    process_race_results
+    process_race_results,
+    process_lap_times
 )
 
 def save_to_json(file_name, data):
@@ -82,6 +83,25 @@ def main():
             print(f"Saved race results for circuit: {race_id}")
     else:
         print("Error: Race results could not be processed.")
+        
+    # Fetch und Process: Rundenzeiten
+    print("Fetching and processing lap times...")
+    lap_times = process_lap_times(current_year, race_schedule)
+    if lap_times:
+        for race in race_schedule:
+            round_number = race['Round']
+            circuit_id = race['ID']
+            race_folder = os.path.join(results_folder, circuit_id)
+            os.makedirs(race_folder, exist_ok=True)
+
+            file_name = os.path.join(race_folder, f"lap_times_{circuit_id}.json")
+            # Filtere die Rundenzeiten für das aktuelle Rennen
+            race_lap_times = [entry for entry in lap_times if entry['Round'] == round_number and entry['Circuit ID'] == circuit_id]
+
+            save_to_json(file_name, race_lap_times)
+            print(f"Saved lap times for round {round_number} to {file_name}.")
+    else:
+        print("Error: Lap times could not be processed.")
 
 if __name__ == "__main__":
     main()

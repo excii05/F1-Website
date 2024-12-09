@@ -1,0 +1,7242 @@
+[
+    {
+        "Circuit ID": "suzuka",
+        "Round": "4",
+        "Lap Number": "1",
+        "Driver ID": "max_verstappen",
+        "Time": "2:10.735",
+        "Position": "1"
+    },
+    {
+        "Circuit ID": "suzuka",
+        "Round": "4",
+        "Lap Number": "2",
+        "Driver ID": "max_verstappen",
+        "Time": "28:31.131",
+        "Position": "1"
+    },
+    {
+        "Circuit ID": "suzuka",
+        "Round": "4",
+        "Lap Number": "3",
+        "Driver ID": "max_verstappen",
+        "Time": "2:52.922",
+        "Position": "1"
+    },
+    {
+        "Circuit ID": "suzuka",
+        "Round": "4",
+        "Lap Number": "4",
+        "Driver ID": "max_verstappen",
+        "Time": "1:36.472",
+        "Position": "1"
+    },
+    {
+        "Circuit ID": "suzuka",
+        "Round": "4",
+        "Lap Number": "5",
+        "Driver ID": "max_verstappen",
+        "Time": "1:36.437",
+        "Position": "1"
+    },
+    {
+        "Circuit ID": "suzuka",
+        "Round": "4",
+        "Lap Number": "6",
+        "Driver ID": "max_verstappen",
+        "Time": "1:36.855",
+        "Position": "1"
+    },
+    {
+        "Circuit ID": "suzuka",
+        "Round": "4",
+        "Lap Number": "7",
+        "Driver ID": "max_verstappen",
+        "Time": "1:36.970",
+        "Position": "1"
+    },
+    {
+        "Circuit ID": "suzuka",
+        "Round": "4",
+        "Lap Number": "8",
+        "Driver ID": "max_verstappen",
+        "Time": "1:37.329",
+        "Position": "1"
+    },
+    {
+        "Circuit ID": "suzuka",
+        "Round": "4",
+        "Lap Number": "9",
+        "Driver ID": "max_verstappen",
+        "Time": "1:37.178",
+        "Position": "1"
+    },
+    {
+        "Circuit ID": "suzuka",
+        "Round": "4",
+        "Lap Number": "10",
+        "Driver ID": "max_verstappen",
+        "Time": "1:37.590",
+        "Position": "1"
+    },
+    {
+        "Circuit ID": "suzuka",
+        "Round": "4",
+        "Lap Number": "11",
+        "Driver ID": "max_verstappen",
+        "Time": "1:37.774",
+        "Position": "1"
+    },
+    {
+        "Circuit ID": "suzuka",
+        "Round": "4",
+        "Lap Number": "12",
+        "Driver ID": "max_verstappen",
+        "Time": "1:37.753",
+        "Position": "1"
+    },
+    {
+        "Circuit ID": "suzuka",
+        "Round": "4",
+        "Lap Number": "13",
+        "Driver ID": "max_verstappen",
+        "Time": "1:37.727",
+        "Position": "1"
+    },
+    {
+        "Circuit ID": "suzuka",
+        "Round": "4",
+        "Lap Number": "14",
+        "Driver ID": "max_verstappen",
+        "Time": "1:37.910",
+        "Position": "1"
+    },
+    {
+        "Circuit ID": "suzuka",
+        "Round": "4",
+        "Lap Number": "15",
+        "Driver ID": "max_verstappen",
+        "Time": "1:37.854",
+        "Position": "1"
+    },
+    {
+        "Circuit ID": "suzuka",
+        "Round": "4",
+        "Lap Number": "16",
+        "Driver ID": "max_verstappen",
+        "Time": "1:40.272",
+        "Position": "1"
+    },
+    {
+        "Circuit ID": "suzuka",
+        "Round": "4",
+        "Lap Number": "17",
+        "Driver ID": "max_verstappen",
+        "Time": "1:56.478",
+        "Position": "2"
+    },
+    {
+        "Circuit ID": "suzuka",
+        "Round": "4",
+        "Lap Number": "18",
+        "Driver ID": "max_verstappen",
+        "Time": "1:36.822",
+        "Position": "2"
+    },
+    {
+        "Circuit ID": "suzuka",
+        "Round": "4",
+        "Lap Number": "19",
+        "Driver ID": "max_verstappen",
+        "Time": "1:36.252",
+        "Position": "2"
+    },
+    {
+        "Circuit ID": "suzuka",
+        "Round": "4",
+        "Lap Number": "20",
+        "Driver ID": "max_verstappen",
+        "Time": "1:36.402",
+        "Position": "2"
+    },
+    {
+        "Circuit ID": "suzuka",
+        "Round": "4",
+        "Lap Number": "21",
+        "Driver ID": "max_verstappen",
+        "Time": "1:35.617",
+        "Position": "1"
+    },
+    {
+        "Circuit ID": "suzuka",
+        "Round": "4",
+        "Lap Number": "22",
+        "Driver ID": "max_verstappen",
+        "Time": "1:36.384",
+        "Position": "1"
+    },
+    {
+        "Circuit ID": "suzuka",
+        "Round": "4",
+        "Lap Number": "23",
+        "Driver ID": "max_verstappen",
+        "Time": "1:36.205",
+        "Position": "1"
+    },
+    {
+        "Circuit ID": "suzuka",
+        "Round": "4",
+        "Lap Number": "24",
+        "Driver ID": "max_verstappen",
+        "Time": "1:36.532",
+        "Position": "1"
+    },
+    {
+        "Circuit ID": "suzuka",
+        "Round": "4",
+        "Lap Number": "25",
+        "Driver ID": "max_verstappen",
+        "Time": "1:36.337",
+        "Position": "1"
+    },
+    {
+        "Circuit ID": "suzuka",
+        "Round": "4",
+        "Lap Number": "26",
+        "Driver ID": "max_verstappen",
+        "Time": "1:36.437",
+        "Position": "1"
+    },
+    {
+        "Circuit ID": "suzuka",
+        "Round": "4",
+        "Lap Number": "27",
+        "Driver ID": "max_verstappen",
+        "Time": "1:36.654",
+        "Position": "1"
+    },
+    {
+        "Circuit ID": "suzuka",
+        "Round": "4",
+        "Lap Number": "28",
+        "Driver ID": "max_verstappen",
+        "Time": "1:36.496",
+        "Position": "1"
+    },
+    {
+        "Circuit ID": "suzuka",
+        "Round": "4",
+        "Lap Number": "29",
+        "Driver ID": "max_verstappen",
+        "Time": "1:36.655",
+        "Position": "1"
+    },
+    {
+        "Circuit ID": "suzuka",
+        "Round": "4",
+        "Lap Number": "30",
+        "Driver ID": "max_verstappen",
+        "Time": "1:36.849",
+        "Position": "1"
+    },
+    {
+        "Circuit ID": "suzuka",
+        "Round": "4",
+        "Lap Number": "31",
+        "Driver ID": "max_verstappen",
+        "Time": "1:36.761",
+        "Position": "1"
+    },
+    {
+        "Circuit ID": "suzuka",
+        "Round": "4",
+        "Lap Number": "32",
+        "Driver ID": "max_verstappen",
+        "Time": "1:36.920",
+        "Position": "1"
+    },
+    {
+        "Circuit ID": "suzuka",
+        "Round": "4",
+        "Lap Number": "33",
+        "Driver ID": "max_verstappen",
+        "Time": "1:37.048",
+        "Position": "1"
+    },
+    {
+        "Circuit ID": "suzuka",
+        "Round": "4",
+        "Lap Number": "34",
+        "Driver ID": "max_verstappen",
+        "Time": "1:39.226",
+        "Position": "1"
+    },
+    {
+        "Circuit ID": "suzuka",
+        "Round": "4",
+        "Lap Number": "35",
+        "Driver ID": "max_verstappen",
+        "Time": "1:55.503",
+        "Position": "2"
+    },
+    {
+        "Circuit ID": "suzuka",
+        "Round": "4",
+        "Lap Number": "36",
+        "Driver ID": "max_verstappen",
+        "Time": "1:34.619",
+        "Position": "1"
+    },
+    {
+        "Circuit ID": "suzuka",
+        "Round": "4",
+        "Lap Number": "37",
+        "Driver ID": "max_verstappen",
+        "Time": "1:34.970",
+        "Position": "1"
+    },
+    {
+        "Circuit ID": "suzuka",
+        "Round": "4",
+        "Lap Number": "38",
+        "Driver ID": "max_verstappen",
+        "Time": "1:34.986",
+        "Position": "1"
+    },
+    {
+        "Circuit ID": "suzuka",
+        "Round": "4",
+        "Lap Number": "39",
+        "Driver ID": "max_verstappen",
+        "Time": "1:34.494",
+        "Position": "1"
+    },
+    {
+        "Circuit ID": "suzuka",
+        "Round": "4",
+        "Lap Number": "40",
+        "Driver ID": "max_verstappen",
+        "Time": "1:34.343",
+        "Position": "1"
+    },
+    {
+        "Circuit ID": "suzuka",
+        "Round": "4",
+        "Lap Number": "41",
+        "Driver ID": "max_verstappen",
+        "Time": "1:34.273",
+        "Position": "1"
+    },
+    {
+        "Circuit ID": "suzuka",
+        "Round": "4",
+        "Lap Number": "42",
+        "Driver ID": "max_verstappen",
+        "Time": "1:34.965",
+        "Position": "1"
+    },
+    {
+        "Circuit ID": "suzuka",
+        "Round": "4",
+        "Lap Number": "43",
+        "Driver ID": "max_verstappen",
+        "Time": "1:34.303",
+        "Position": "1"
+    },
+    {
+        "Circuit ID": "suzuka",
+        "Round": "4",
+        "Lap Number": "44",
+        "Driver ID": "max_verstappen",
+        "Time": "1:34.455",
+        "Position": "1"
+    },
+    {
+        "Circuit ID": "suzuka",
+        "Round": "4",
+        "Lap Number": "45",
+        "Driver ID": "max_verstappen",
+        "Time": "1:34.606",
+        "Position": "1"
+    },
+    {
+        "Circuit ID": "suzuka",
+        "Round": "4",
+        "Lap Number": "46",
+        "Driver ID": "max_verstappen",
+        "Time": "1:34.610",
+        "Position": "1"
+    },
+    {
+        "Circuit ID": "suzuka",
+        "Round": "4",
+        "Lap Number": "47",
+        "Driver ID": "max_verstappen",
+        "Time": "1:35.113",
+        "Position": "1"
+    },
+    {
+        "Circuit ID": "suzuka",
+        "Round": "4",
+        "Lap Number": "48",
+        "Driver ID": "max_verstappen",
+        "Time": "1:35.750",
+        "Position": "1"
+    },
+    {
+        "Circuit ID": "suzuka",
+        "Round": "4",
+        "Lap Number": "49",
+        "Driver ID": "max_verstappen",
+        "Time": "1:34.885",
+        "Position": "1"
+    },
+    {
+        "Circuit ID": "suzuka",
+        "Round": "4",
+        "Lap Number": "50",
+        "Driver ID": "max_verstappen",
+        "Time": "1:33.706",
+        "Position": "1"
+    },
+    {
+        "Circuit ID": "suzuka",
+        "Round": "4",
+        "Lap Number": "51",
+        "Driver ID": "max_verstappen",
+        "Time": "1:34.768",
+        "Position": "1"
+    },
+    {
+        "Circuit ID": "suzuka",
+        "Round": "4",
+        "Lap Number": "52",
+        "Driver ID": "max_verstappen",
+        "Time": "1:34.970",
+        "Position": "1"
+    },
+    {
+        "Circuit ID": "suzuka",
+        "Round": "4",
+        "Lap Number": "53",
+        "Driver ID": "max_verstappen",
+        "Time": "1:35.263",
+        "Position": "1"
+    },
+    {
+        "Circuit ID": "suzuka",
+        "Round": "4",
+        "Lap Number": "1",
+        "Driver ID": "perez",
+        "Time": "2:12.767",
+        "Position": "2"
+    },
+    {
+        "Circuit ID": "suzuka",
+        "Round": "4",
+        "Lap Number": "2",
+        "Driver ID": "perez",
+        "Time": "28:31.382",
+        "Position": "2"
+    },
+    {
+        "Circuit ID": "suzuka",
+        "Round": "4",
+        "Lap Number": "3",
+        "Driver ID": "perez",
+        "Time": "2:51.630",
+        "Position": "2"
+    },
+    {
+        "Circuit ID": "suzuka",
+        "Round": "4",
+        "Lap Number": "4",
+        "Driver ID": "perez",
+        "Time": "1:36.573",
+        "Position": "2"
+    },
+    {
+        "Circuit ID": "suzuka",
+        "Round": "4",
+        "Lap Number": "5",
+        "Driver ID": "perez",
+        "Time": "1:36.568",
+        "Position": "2"
+    },
+    {
+        "Circuit ID": "suzuka",
+        "Round": "4",
+        "Lap Number": "6",
+        "Driver ID": "perez",
+        "Time": "1:37.693",
+        "Position": "2"
+    },
+    {
+        "Circuit ID": "suzuka",
+        "Round": "4",
+        "Lap Number": "7",
+        "Driver ID": "perez",
+        "Time": "1:37.308",
+        "Position": "2"
+    },
+    {
+        "Circuit ID": "suzuka",
+        "Round": "4",
+        "Lap Number": "8",
+        "Driver ID": "perez",
+        "Time": "1:37.220",
+        "Position": "2"
+    },
+    {
+        "Circuit ID": "suzuka",
+        "Round": "4",
+        "Lap Number": "9",
+        "Driver ID": "perez",
+        "Time": "1:37.838",
+        "Position": "2"
+    },
+    {
+        "Circuit ID": "suzuka",
+        "Round": "4",
+        "Lap Number": "10",
+        "Driver ID": "perez",
+        "Time": "1:37.926",
+        "Position": "2"
+    },
+    {
+        "Circuit ID": "suzuka",
+        "Round": "4",
+        "Lap Number": "11",
+        "Driver ID": "perez",
+        "Time": "1:38.216",
+        "Position": "2"
+    },
+    {
+        "Circuit ID": "suzuka",
+        "Round": "4",
+        "Lap Number": "12",
+        "Driver ID": "perez",
+        "Time": "1:38.156",
+        "Position": "2"
+    },
+    {
+        "Circuit ID": "suzuka",
+        "Round": "4",
+        "Lap Number": "13",
+        "Driver ID": "perez",
+        "Time": "1:38.125",
+        "Position": "2"
+    },
+    {
+        "Circuit ID": "suzuka",
+        "Round": "4",
+        "Lap Number": "14",
+        "Driver ID": "perez",
+        "Time": "1:38.505",
+        "Position": "2"
+    },
+    {
+        "Circuit ID": "suzuka",
+        "Round": "4",
+        "Lap Number": "15",
+        "Driver ID": "perez",
+        "Time": "1:40.906",
+        "Position": "2"
+    },
+    {
+        "Circuit ID": "suzuka",
+        "Round": "4",
+        "Lap Number": "16",
+        "Driver ID": "perez",
+        "Time": "1:54.826",
+        "Position": "6"
+    },
+    {
+        "Circuit ID": "suzuka",
+        "Round": "4",
+        "Lap Number": "17",
+        "Driver ID": "perez",
+        "Time": "1:37.428",
+        "Position": "5"
+    },
+    {
+        "Circuit ID": "suzuka",
+        "Round": "4",
+        "Lap Number": "18",
+        "Driver ID": "perez",
+        "Time": "1:37.844",
+        "Position": "4"
+    },
+    {
+        "Circuit ID": "suzuka",
+        "Round": "4",
+        "Lap Number": "19",
+        "Driver ID": "perez",
+        "Time": "1:36.436",
+        "Position": "4"
+    },
+    {
+        "Circuit ID": "suzuka",
+        "Round": "4",
+        "Lap Number": "20",
+        "Driver ID": "perez",
+        "Time": "1:36.206",
+        "Position": "4"
+    },
+    {
+        "Circuit ID": "suzuka",
+        "Round": "4",
+        "Lap Number": "21",
+        "Driver ID": "perez",
+        "Time": "1:36.558",
+        "Position": "4"
+    },
+    {
+        "Circuit ID": "suzuka",
+        "Round": "4",
+        "Lap Number": "22",
+        "Driver ID": "perez",
+        "Time": "1:37.264",
+        "Position": "3"
+    },
+    {
+        "Circuit ID": "suzuka",
+        "Round": "4",
+        "Lap Number": "23",
+        "Driver ID": "perez",
+        "Time": "1:36.656",
+        "Position": "3"
+    },
+    {
+        "Circuit ID": "suzuka",
+        "Round": "4",
+        "Lap Number": "24",
+        "Driver ID": "perez",
+        "Time": "1:36.921",
+        "Position": "3"
+    },
+    {
+        "Circuit ID": "suzuka",
+        "Round": "4",
+        "Lap Number": "25",
+        "Driver ID": "perez",
+        "Time": "1:37.760",
+        "Position": "3"
+    },
+    {
+        "Circuit ID": "suzuka",
+        "Round": "4",
+        "Lap Number": "26",
+        "Driver ID": "perez",
+        "Time": "1:37.689",
+        "Position": "2"
+    },
+    {
+        "Circuit ID": "suzuka",
+        "Round": "4",
+        "Lap Number": "27",
+        "Driver ID": "perez",
+        "Time": "1:36.843",
+        "Position": "2"
+    },
+    {
+        "Circuit ID": "suzuka",
+        "Round": "4",
+        "Lap Number": "28",
+        "Driver ID": "perez",
+        "Time": "1:36.733",
+        "Position": "2"
+    },
+    {
+        "Circuit ID": "suzuka",
+        "Round": "4",
+        "Lap Number": "29",
+        "Driver ID": "perez",
+        "Time": "1:36.969",
+        "Position": "2"
+    },
+    {
+        "Circuit ID": "suzuka",
+        "Round": "4",
+        "Lap Number": "30",
+        "Driver ID": "perez",
+        "Time": "1:37.097",
+        "Position": "2"
+    },
+    {
+        "Circuit ID": "suzuka",
+        "Round": "4",
+        "Lap Number": "31",
+        "Driver ID": "perez",
+        "Time": "1:37.118",
+        "Position": "2"
+    },
+    {
+        "Circuit ID": "suzuka",
+        "Round": "4",
+        "Lap Number": "32",
+        "Driver ID": "perez",
+        "Time": "1:37.106",
+        "Position": "2"
+    },
+    {
+        "Circuit ID": "suzuka",
+        "Round": "4",
+        "Lap Number": "33",
+        "Driver ID": "perez",
+        "Time": "1:39.409",
+        "Position": "2"
+    },
+    {
+        "Circuit ID": "suzuka",
+        "Round": "4",
+        "Lap Number": "34",
+        "Driver ID": "perez",
+        "Time": "1:54.946",
+        "Position": "5"
+    },
+    {
+        "Circuit ID": "suzuka",
+        "Round": "4",
+        "Lap Number": "35",
+        "Driver ID": "perez",
+        "Time": "1:33.945",
+        "Position": "4"
+    },
+    {
+        "Circuit ID": "suzuka",
+        "Round": "4",
+        "Lap Number": "36",
+        "Driver ID": "perez",
+        "Time": "1:34.479",
+        "Position": "3"
+    },
+    {
+        "Circuit ID": "suzuka",
+        "Round": "4",
+        "Lap Number": "37",
+        "Driver ID": "perez",
+        "Time": "1:34.808",
+        "Position": "2"
+    },
+    {
+        "Circuit ID": "suzuka",
+        "Round": "4",
+        "Lap Number": "38",
+        "Driver ID": "perez",
+        "Time": "1:35.245",
+        "Position": "2"
+    },
+    {
+        "Circuit ID": "suzuka",
+        "Round": "4",
+        "Lap Number": "39",
+        "Driver ID": "perez",
+        "Time": "1:34.990",
+        "Position": "2"
+    },
+    {
+        "Circuit ID": "suzuka",
+        "Round": "4",
+        "Lap Number": "40",
+        "Driver ID": "perez",
+        "Time": "1:34.738",
+        "Position": "2"
+    },
+    {
+        "Circuit ID": "suzuka",
+        "Round": "4",
+        "Lap Number": "41",
+        "Driver ID": "perez",
+        "Time": "1:35.030",
+        "Position": "2"
+    },
+    {
+        "Circuit ID": "suzuka",
+        "Round": "4",
+        "Lap Number": "42",
+        "Driver ID": "perez",
+        "Time": "1:35.433",
+        "Position": "2"
+    },
+    {
+        "Circuit ID": "suzuka",
+        "Round": "4",
+        "Lap Number": "43",
+        "Driver ID": "perez",
+        "Time": "1:35.099",
+        "Position": "2"
+    },
+    {
+        "Circuit ID": "suzuka",
+        "Round": "4",
+        "Lap Number": "44",
+        "Driver ID": "perez",
+        "Time": "1:34.701",
+        "Position": "2"
+    },
+    {
+        "Circuit ID": "suzuka",
+        "Round": "4",
+        "Lap Number": "45",
+        "Driver ID": "perez",
+        "Time": "1:34.996",
+        "Position": "2"
+    },
+    {
+        "Circuit ID": "suzuka",
+        "Round": "4",
+        "Lap Number": "46",
+        "Driver ID": "perez",
+        "Time": "1:34.750",
+        "Position": "2"
+    },
+    {
+        "Circuit ID": "suzuka",
+        "Round": "4",
+        "Lap Number": "47",
+        "Driver ID": "perez",
+        "Time": "1:35.056",
+        "Position": "2"
+    },
+    {
+        "Circuit ID": "suzuka",
+        "Round": "4",
+        "Lap Number": "48",
+        "Driver ID": "perez",
+        "Time": "1:35.383",
+        "Position": "2"
+    },
+    {
+        "Circuit ID": "suzuka",
+        "Round": "4",
+        "Lap Number": "49",
+        "Driver ID": "perez",
+        "Time": "1:35.035",
+        "Position": "2"
+    },
+    {
+        "Circuit ID": "suzuka",
+        "Round": "4",
+        "Lap Number": "50",
+        "Driver ID": "perez",
+        "Time": "1:35.244",
+        "Position": "2"
+    },
+    {
+        "Circuit ID": "suzuka",
+        "Round": "4",
+        "Lap Number": "51",
+        "Driver ID": "perez",
+        "Time": "1:34.890",
+        "Position": "2"
+    },
+    {
+        "Circuit ID": "suzuka",
+        "Round": "4",
+        "Lap Number": "52",
+        "Driver ID": "perez",
+        "Time": "1:34.929",
+        "Position": "2"
+    },
+    {
+        "Circuit ID": "suzuka",
+        "Round": "4",
+        "Lap Number": "53",
+        "Driver ID": "perez",
+        "Time": "1:34.728",
+        "Position": "2"
+    },
+    {
+        "Circuit ID": "suzuka",
+        "Round": "4",
+        "Lap Number": "1",
+        "Driver ID": "sainz",
+        "Time": "2:17.613",
+        "Position": "4"
+    },
+    {
+        "Circuit ID": "suzuka",
+        "Round": "4",
+        "Lap Number": "2",
+        "Driver ID": "sainz",
+        "Time": "28:32.219",
+        "Position": "4"
+    },
+    {
+        "Circuit ID": "suzuka",
+        "Round": "4",
+        "Lap Number": "3",
+        "Driver ID": "sainz",
+        "Time": "2:47.321",
+        "Position": "4"
+    },
+    {
+        "Circuit ID": "suzuka",
+        "Round": "4",
+        "Lap Number": "4",
+        "Driver ID": "sainz",
+        "Time": "1:37.225",
+        "Position": "4"
+    },
+    {
+        "Circuit ID": "suzuka",
+        "Round": "4",
+        "Lap Number": "5",
+        "Driver ID": "sainz",
+        "Time": "1:37.322",
+        "Position": "4"
+    },
+    {
+        "Circuit ID": "suzuka",
+        "Round": "4",
+        "Lap Number": "6",
+        "Driver ID": "sainz",
+        "Time": "1:37.721",
+        "Position": "4"
+    },
+    {
+        "Circuit ID": "suzuka",
+        "Round": "4",
+        "Lap Number": "7",
+        "Driver ID": "sainz",
+        "Time": "1:37.756",
+        "Position": "4"
+    },
+    {
+        "Circuit ID": "suzuka",
+        "Round": "4",
+        "Lap Number": "8",
+        "Driver ID": "sainz",
+        "Time": "1:37.736",
+        "Position": "4"
+    },
+    {
+        "Circuit ID": "suzuka",
+        "Round": "4",
+        "Lap Number": "9",
+        "Driver ID": "sainz",
+        "Time": "1:37.980",
+        "Position": "4"
+    },
+    {
+        "Circuit ID": "suzuka",
+        "Round": "4",
+        "Lap Number": "10",
+        "Driver ID": "sainz",
+        "Time": "1:38.304",
+        "Position": "4"
+    },
+    {
+        "Circuit ID": "suzuka",
+        "Round": "4",
+        "Lap Number": "11",
+        "Driver ID": "sainz",
+        "Time": "1:38.273",
+        "Position": "3"
+    },
+    {
+        "Circuit ID": "suzuka",
+        "Round": "4",
+        "Lap Number": "12",
+        "Driver ID": "sainz",
+        "Time": "1:37.847",
+        "Position": "3"
+    },
+    {
+        "Circuit ID": "suzuka",
+        "Round": "4",
+        "Lap Number": "13",
+        "Driver ID": "sainz",
+        "Time": "1:38.333",
+        "Position": "3"
+    },
+    {
+        "Circuit ID": "suzuka",
+        "Round": "4",
+        "Lap Number": "14",
+        "Driver ID": "sainz",
+        "Time": "1:38.504",
+        "Position": "3"
+    },
+    {
+        "Circuit ID": "suzuka",
+        "Round": "4",
+        "Lap Number": "15",
+        "Driver ID": "sainz",
+        "Time": "1:40.439",
+        "Position": "3"
+    },
+    {
+        "Circuit ID": "suzuka",
+        "Round": "4",
+        "Lap Number": "16",
+        "Driver ID": "sainz",
+        "Time": "1:56.159",
+        "Position": "7"
+    },
+    {
+        "Circuit ID": "suzuka",
+        "Round": "4",
+        "Lap Number": "17",
+        "Driver ID": "sainz",
+        "Time": "1:36.469",
+        "Position": "7"
+    },
+    {
+        "Circuit ID": "suzuka",
+        "Round": "4",
+        "Lap Number": "18",
+        "Driver ID": "sainz",
+        "Time": "1:36.698",
+        "Position": "7"
+    },
+    {
+        "Circuit ID": "suzuka",
+        "Round": "4",
+        "Lap Number": "19",
+        "Driver ID": "sainz",
+        "Time": "1:37.786",
+        "Position": "6"
+    },
+    {
+        "Circuit ID": "suzuka",
+        "Round": "4",
+        "Lap Number": "20",
+        "Driver ID": "sainz",
+        "Time": "1:37.314",
+        "Position": "6"
+    },
+    {
+        "Circuit ID": "suzuka",
+        "Round": "4",
+        "Lap Number": "21",
+        "Driver ID": "sainz",
+        "Time": "1:37.995",
+        "Position": "5"
+    },
+    {
+        "Circuit ID": "suzuka",
+        "Round": "4",
+        "Lap Number": "22",
+        "Driver ID": "sainz",
+        "Time": "1:36.575",
+        "Position": "5"
+    },
+    {
+        "Circuit ID": "suzuka",
+        "Round": "4",
+        "Lap Number": "23",
+        "Driver ID": "sainz",
+        "Time": "1:36.779",
+        "Position": "5"
+    },
+    {
+        "Circuit ID": "suzuka",
+        "Round": "4",
+        "Lap Number": "24",
+        "Driver ID": "sainz",
+        "Time": "1:36.805",
+        "Position": "5"
+    },
+    {
+        "Circuit ID": "suzuka",
+        "Round": "4",
+        "Lap Number": "25",
+        "Driver ID": "sainz",
+        "Time": "1:36.945",
+        "Position": "5"
+    },
+    {
+        "Circuit ID": "suzuka",
+        "Round": "4",
+        "Lap Number": "26",
+        "Driver ID": "sainz",
+        "Time": "1:37.137",
+        "Position": "3"
+    },
+    {
+        "Circuit ID": "suzuka",
+        "Round": "4",
+        "Lap Number": "27",
+        "Driver ID": "sainz",
+        "Time": "1:37.068",
+        "Position": "3"
+    },
+    {
+        "Circuit ID": "suzuka",
+        "Round": "4",
+        "Lap Number": "28",
+        "Driver ID": "sainz",
+        "Time": "1:36.845",
+        "Position": "3"
+    },
+    {
+        "Circuit ID": "suzuka",
+        "Round": "4",
+        "Lap Number": "29",
+        "Driver ID": "sainz",
+        "Time": "1:37.176",
+        "Position": "3"
+    },
+    {
+        "Circuit ID": "suzuka",
+        "Round": "4",
+        "Lap Number": "30",
+        "Driver ID": "sainz",
+        "Time": "1:37.010",
+        "Position": "3"
+    },
+    {
+        "Circuit ID": "suzuka",
+        "Round": "4",
+        "Lap Number": "31",
+        "Driver ID": "sainz",
+        "Time": "1:36.901",
+        "Position": "3"
+    },
+    {
+        "Circuit ID": "suzuka",
+        "Round": "4",
+        "Lap Number": "32",
+        "Driver ID": "sainz",
+        "Time": "1:37.106",
+        "Position": "3"
+    },
+    {
+        "Circuit ID": "suzuka",
+        "Round": "4",
+        "Lap Number": "33",
+        "Driver ID": "sainz",
+        "Time": "1:37.233",
+        "Position": "3"
+    },
+    {
+        "Circuit ID": "suzuka",
+        "Round": "4",
+        "Lap Number": "34",
+        "Driver ID": "sainz",
+        "Time": "1:36.901",
+        "Position": "2"
+    },
+    {
+        "Circuit ID": "suzuka",
+        "Round": "4",
+        "Lap Number": "35",
+        "Driver ID": "sainz",
+        "Time": "1:36.948",
+        "Position": "1"
+    },
+    {
+        "Circuit ID": "suzuka",
+        "Round": "4",
+        "Lap Number": "36",
+        "Driver ID": "sainz",
+        "Time": "1:39.310",
+        "Position": "2"
+    },
+    {
+        "Circuit ID": "suzuka",
+        "Round": "4",
+        "Lap Number": "37",
+        "Driver ID": "sainz",
+        "Time": "1:55.063",
+        "Position": "7"
+    },
+    {
+        "Circuit ID": "suzuka",
+        "Round": "4",
+        "Lap Number": "38",
+        "Driver ID": "sainz",
+        "Time": "1:33.995",
+        "Position": "5"
+    },
+    {
+        "Circuit ID": "suzuka",
+        "Round": "4",
+        "Lap Number": "39",
+        "Driver ID": "sainz",
+        "Time": "1:34.419",
+        "Position": "5"
+    },
+    {
+        "Circuit ID": "suzuka",
+        "Round": "4",
+        "Lap Number": "40",
+        "Driver ID": "sainz",
+        "Time": "1:34.396",
+        "Position": "5"
+    },
+    {
+        "Circuit ID": "suzuka",
+        "Round": "4",
+        "Lap Number": "41",
+        "Driver ID": "sainz",
+        "Time": "1:34.863",
+        "Position": "5"
+    },
+    {
+        "Circuit ID": "suzuka",
+        "Round": "4",
+        "Lap Number": "42",
+        "Driver ID": "sainz",
+        "Time": "1:35.293",
+        "Position": "5"
+    },
+    {
+        "Circuit ID": "suzuka",
+        "Round": "4",
+        "Lap Number": "43",
+        "Driver ID": "sainz",
+        "Time": "1:34.750",
+        "Position": "5"
+    },
+    {
+        "Circuit ID": "suzuka",
+        "Round": "4",
+        "Lap Number": "44",
+        "Driver ID": "sainz",
+        "Time": "1:34.336",
+        "Position": "4"
+    },
+    {
+        "Circuit ID": "suzuka",
+        "Round": "4",
+        "Lap Number": "45",
+        "Driver ID": "sainz",
+        "Time": "1:35.006",
+        "Position": "4"
+    },
+    {
+        "Circuit ID": "suzuka",
+        "Round": "4",
+        "Lap Number": "46",
+        "Driver ID": "sainz",
+        "Time": "1:33.841",
+        "Position": "3"
+    },
+    {
+        "Circuit ID": "suzuka",
+        "Round": "4",
+        "Lap Number": "47",
+        "Driver ID": "sainz",
+        "Time": "1:35.063",
+        "Position": "3"
+    },
+    {
+        "Circuit ID": "suzuka",
+        "Round": "4",
+        "Lap Number": "48",
+        "Driver ID": "sainz",
+        "Time": "1:34.962",
+        "Position": "3"
+    },
+    {
+        "Circuit ID": "suzuka",
+        "Round": "4",
+        "Lap Number": "49",
+        "Driver ID": "sainz",
+        "Time": "1:34.752",
+        "Position": "3"
+    },
+    {
+        "Circuit ID": "suzuka",
+        "Round": "4",
+        "Lap Number": "50",
+        "Driver ID": "sainz",
+        "Time": "1:34.636",
+        "Position": "3"
+    },
+    {
+        "Circuit ID": "suzuka",
+        "Round": "4",
+        "Lap Number": "51",
+        "Driver ID": "sainz",
+        "Time": "1:34.877",
+        "Position": "3"
+    },
+    {
+        "Circuit ID": "suzuka",
+        "Round": "4",
+        "Lap Number": "52",
+        "Driver ID": "sainz",
+        "Time": "1:35.203",
+        "Position": "3"
+    },
+    {
+        "Circuit ID": "suzuka",
+        "Round": "4",
+        "Lap Number": "53",
+        "Driver ID": "sainz",
+        "Time": "1:35.224",
+        "Position": "3"
+    },
+    {
+        "Circuit ID": "suzuka",
+        "Round": "4",
+        "Lap Number": "1",
+        "Driver ID": "leclerc",
+        "Time": "2:34.543",
+        "Position": "8"
+    },
+    {
+        "Circuit ID": "suzuka",
+        "Round": "4",
+        "Lap Number": "2",
+        "Driver ID": "leclerc",
+        "Time": "28:31.605",
+        "Position": "8"
+    },
+    {
+        "Circuit ID": "suzuka",
+        "Round": "4",
+        "Lap Number": "3",
+        "Driver ID": "leclerc",
+        "Time": "2:33.066",
+        "Position": "7"
+    },
+    {
+        "Circuit ID": "suzuka",
+        "Round": "4",
+        "Lap Number": "4",
+        "Driver ID": "leclerc",
+        "Time": "1:38.268",
+        "Position": "7"
+    },
+    {
+        "Circuit ID": "suzuka",
+        "Round": "4",
+        "Lap Number": "5",
+        "Driver ID": "leclerc",
+        "Time": "1:37.812",
+        "Position": "7"
+    },
+    {
+        "Circuit ID": "suzuka",
+        "Round": "4",
+        "Lap Number": "6",
+        "Driver ID": "leclerc",
+        "Time": "1:38.021",
+        "Position": "7"
+    },
+    {
+        "Circuit ID": "suzuka",
+        "Round": "4",
+        "Lap Number": "7",
+        "Driver ID": "leclerc",
+        "Time": "1:38.187",
+        "Position": "7"
+    },
+    {
+        "Circuit ID": "suzuka",
+        "Round": "4",
+        "Lap Number": "8",
+        "Driver ID": "leclerc",
+        "Time": "1:37.920",
+        "Position": "7"
+    },
+    {
+        "Circuit ID": "suzuka",
+        "Round": "4",
+        "Lap Number": "9",
+        "Driver ID": "leclerc",
+        "Time": "1:38.213",
+        "Position": "7"
+    },
+    {
+        "Circuit ID": "suzuka",
+        "Round": "4",
+        "Lap Number": "10",
+        "Driver ID": "leclerc",
+        "Time": "1:39.034",
+        "Position": "7"
+    },
+    {
+        "Circuit ID": "suzuka",
+        "Round": "4",
+        "Lap Number": "11",
+        "Driver ID": "leclerc",
+        "Time": "1:39.193",
+        "Position": "7"
+    },
+    {
+        "Circuit ID": "suzuka",
+        "Round": "4",
+        "Lap Number": "12",
+        "Driver ID": "leclerc",
+        "Time": "1:38.883",
+        "Position": "5"
+    },
+    {
+        "Circuit ID": "suzuka",
+        "Round": "4",
+        "Lap Number": "13",
+        "Driver ID": "leclerc",
+        "Time": "1:38.479",
+        "Position": "4"
+    },
+    {
+        "Circuit ID": "suzuka",
+        "Round": "4",
+        "Lap Number": "14",
+        "Driver ID": "leclerc",
+        "Time": "1:38.595",
+        "Position": "4"
+    },
+    {
+        "Circuit ID": "suzuka",
+        "Round": "4",
+        "Lap Number": "15",
+        "Driver ID": "leclerc",
+        "Time": "1:38.172",
+        "Position": "4"
+    },
+    {
+        "Circuit ID": "suzuka",
+        "Round": "4",
+        "Lap Number": "16",
+        "Driver ID": "leclerc",
+        "Time": "1:37.876",
+        "Position": "2"
+    },
+    {
+        "Circuit ID": "suzuka",
+        "Round": "4",
+        "Lap Number": "17",
+        "Driver ID": "leclerc",
+        "Time": "1:37.856",
+        "Position": "1"
+    },
+    {
+        "Circuit ID": "suzuka",
+        "Round": "4",
+        "Lap Number": "18",
+        "Driver ID": "leclerc",
+        "Time": "1:37.760",
+        "Position": "1"
+    },
+    {
+        "Circuit ID": "suzuka",
+        "Round": "4",
+        "Lap Number": "19",
+        "Driver ID": "leclerc",
+        "Time": "1:37.523",
+        "Position": "1"
+    },
+    {
+        "Circuit ID": "suzuka",
+        "Round": "4",
+        "Lap Number": "20",
+        "Driver ID": "leclerc",
+        "Time": "1:37.480",
+        "Position": "1"
+    },
+    {
+        "Circuit ID": "suzuka",
+        "Round": "4",
+        "Lap Number": "21",
+        "Driver ID": "leclerc",
+        "Time": "1:38.203",
+        "Position": "2"
+    },
+    {
+        "Circuit ID": "suzuka",
+        "Round": "4",
+        "Lap Number": "22",
+        "Driver ID": "leclerc",
+        "Time": "1:37.744",
+        "Position": "2"
+    },
+    {
+        "Circuit ID": "suzuka",
+        "Round": "4",
+        "Lap Number": "23",
+        "Driver ID": "leclerc",
+        "Time": "1:37.755",
+        "Position": "2"
+    },
+    {
+        "Circuit ID": "suzuka",
+        "Round": "4",
+        "Lap Number": "24",
+        "Driver ID": "leclerc",
+        "Time": "1:38.071",
+        "Position": "2"
+    },
+    {
+        "Circuit ID": "suzuka",
+        "Round": "4",
+        "Lap Number": "25",
+        "Driver ID": "leclerc",
+        "Time": "1:37.918",
+        "Position": "2"
+    },
+    {
+        "Circuit ID": "suzuka",
+        "Round": "4",
+        "Lap Number": "26",
+        "Driver ID": "leclerc",
+        "Time": "1:43.175",
+        "Position": "4"
+    },
+    {
+        "Circuit ID": "suzuka",
+        "Round": "4",
+        "Lap Number": "27",
+        "Driver ID": "leclerc",
+        "Time": "1:55.623",
+        "Position": "6"
+    },
+    {
+        "Circuit ID": "suzuka",
+        "Round": "4",
+        "Lap Number": "28",
+        "Driver ID": "leclerc",
+        "Time": "1:36.090",
+        "Position": "6"
+    },
+    {
+        "Circuit ID": "suzuka",
+        "Round": "4",
+        "Lap Number": "29",
+        "Driver ID": "leclerc",
+        "Time": "1:36.357",
+        "Position": "6"
+    },
+    {
+        "Circuit ID": "suzuka",
+        "Round": "4",
+        "Lap Number": "30",
+        "Driver ID": "leclerc",
+        "Time": "1:36.225",
+        "Position": "6"
+    },
+    {
+        "Circuit ID": "suzuka",
+        "Round": "4",
+        "Lap Number": "31",
+        "Driver ID": "leclerc",
+        "Time": "1:36.201",
+        "Position": "6"
+    },
+    {
+        "Circuit ID": "suzuka",
+        "Round": "4",
+        "Lap Number": "32",
+        "Driver ID": "leclerc",
+        "Time": "1:36.144",
+        "Position": "5"
+    },
+    {
+        "Circuit ID": "suzuka",
+        "Round": "4",
+        "Lap Number": "33",
+        "Driver ID": "leclerc",
+        "Time": "1:35.878",
+        "Position": "5"
+    },
+    {
+        "Circuit ID": "suzuka",
+        "Round": "4",
+        "Lap Number": "34",
+        "Driver ID": "leclerc",
+        "Time": "1:36.320",
+        "Position": "3"
+    },
+    {
+        "Circuit ID": "suzuka",
+        "Round": "4",
+        "Lap Number": "35",
+        "Driver ID": "leclerc",
+        "Time": "1:36.056",
+        "Position": "3"
+    },
+    {
+        "Circuit ID": "suzuka",
+        "Round": "4",
+        "Lap Number": "36",
+        "Driver ID": "leclerc",
+        "Time": "1:36.681",
+        "Position": "4"
+    },
+    {
+        "Circuit ID": "suzuka",
+        "Round": "4",
+        "Lap Number": "37",
+        "Driver ID": "leclerc",
+        "Time": "1:36.135",
+        "Position": "3"
+    },
+    {
+        "Circuit ID": "suzuka",
+        "Round": "4",
+        "Lap Number": "38",
+        "Driver ID": "leclerc",
+        "Time": "1:36.029",
+        "Position": "3"
+    },
+    {
+        "Circuit ID": "suzuka",
+        "Round": "4",
+        "Lap Number": "39",
+        "Driver ID": "leclerc",
+        "Time": "1:35.693",
+        "Position": "3"
+    },
+    {
+        "Circuit ID": "suzuka",
+        "Round": "4",
+        "Lap Number": "40",
+        "Driver ID": "leclerc",
+        "Time": "1:36.341",
+        "Position": "3"
+    },
+    {
+        "Circuit ID": "suzuka",
+        "Round": "4",
+        "Lap Number": "41",
+        "Driver ID": "leclerc",
+        "Time": "1:35.451",
+        "Position": "3"
+    },
+    {
+        "Circuit ID": "suzuka",
+        "Round": "4",
+        "Lap Number": "42",
+        "Driver ID": "leclerc",
+        "Time": "1:35.797",
+        "Position": "3"
+    },
+    {
+        "Circuit ID": "suzuka",
+        "Round": "4",
+        "Lap Number": "43",
+        "Driver ID": "leclerc",
+        "Time": "1:35.713",
+        "Position": "3"
+    },
+    {
+        "Circuit ID": "suzuka",
+        "Round": "4",
+        "Lap Number": "44",
+        "Driver ID": "leclerc",
+        "Time": "1:35.685",
+        "Position": "3"
+    },
+    {
+        "Circuit ID": "suzuka",
+        "Round": "4",
+        "Lap Number": "45",
+        "Driver ID": "leclerc",
+        "Time": "1:35.739",
+        "Position": "3"
+    },
+    {
+        "Circuit ID": "suzuka",
+        "Round": "4",
+        "Lap Number": "46",
+        "Driver ID": "leclerc",
+        "Time": "1:36.778",
+        "Position": "4"
+    },
+    {
+        "Circuit ID": "suzuka",
+        "Round": "4",
+        "Lap Number": "47",
+        "Driver ID": "leclerc",
+        "Time": "1:35.922",
+        "Position": "4"
+    },
+    {
+        "Circuit ID": "suzuka",
+        "Round": "4",
+        "Lap Number": "48",
+        "Driver ID": "leclerc",
+        "Time": "1:35.502",
+        "Position": "4"
+    },
+    {
+        "Circuit ID": "suzuka",
+        "Round": "4",
+        "Lap Number": "49",
+        "Driver ID": "leclerc",
+        "Time": "1:35.543",
+        "Position": "4"
+    },
+    {
+        "Circuit ID": "suzuka",
+        "Round": "4",
+        "Lap Number": "50",
+        "Driver ID": "leclerc",
+        "Time": "1:35.274",
+        "Position": "4"
+    },
+    {
+        "Circuit ID": "suzuka",
+        "Round": "4",
+        "Lap Number": "51",
+        "Driver ID": "leclerc",
+        "Time": "1:35.199",
+        "Position": "4"
+    },
+    {
+        "Circuit ID": "suzuka",
+        "Round": "4",
+        "Lap Number": "52",
+        "Driver ID": "leclerc",
+        "Time": "1:35.316",
+        "Position": "4"
+    },
+    {
+        "Circuit ID": "suzuka",
+        "Round": "4",
+        "Lap Number": "53",
+        "Driver ID": "leclerc",
+        "Time": "1:35.044",
+        "Position": "4"
+    },
+    {
+        "Circuit ID": "suzuka",
+        "Round": "4",
+        "Lap Number": "1",
+        "Driver ID": "norris",
+        "Time": "1:35.186",
+        "Position": "3"
+    },
+    {
+        "Circuit ID": "suzuka",
+        "Round": "4",
+        "Lap Number": "2",
+        "Driver ID": "norris",
+        "Time": "28:30.610",
+        "Position": "3"
+    },
+    {
+        "Circuit ID": "suzuka",
+        "Round": "4",
+        "Lap Number": "3",
+        "Driver ID": "norris",
+        "Time": "2:51.325",
+        "Position": "3"
+    },
+    {
+        "Circuit ID": "suzuka",
+        "Round": "4",
+        "Lap Number": "4",
+        "Driver ID": "norris",
+        "Time": "1:36.853",
+        "Position": "3"
+    },
+    {
+        "Circuit ID": "suzuka",
+        "Round": "4",
+        "Lap Number": "5",
+        "Driver ID": "norris",
+        "Time": "1:36.860",
+        "Position": "3"
+    },
+    {
+        "Circuit ID": "suzuka",
+        "Round": "4",
+        "Lap Number": "6",
+        "Driver ID": "norris",
+        "Time": "1:37.900",
+        "Position": "3"
+    },
+    {
+        "Circuit ID": "suzuka",
+        "Round": "4",
+        "Lap Number": "7",
+        "Driver ID": "norris",
+        "Time": "1:37.742",
+        "Position": "3"
+    },
+    {
+        "Circuit ID": "suzuka",
+        "Round": "4",
+        "Lap Number": "8",
+        "Driver ID": "norris",
+        "Time": "1:37.824",
+        "Position": "3"
+    },
+    {
+        "Circuit ID": "suzuka",
+        "Round": "4",
+        "Lap Number": "9",
+        "Driver ID": "norris",
+        "Time": "1:37.963",
+        "Position": "3"
+    },
+    {
+        "Circuit ID": "suzuka",
+        "Round": "4",
+        "Lap Number": "10",
+        "Driver ID": "norris",
+        "Time": "1:38.158",
+        "Position": "3"
+    },
+    {
+        "Circuit ID": "suzuka",
+        "Round": "4",
+        "Lap Number": "11",
+        "Driver ID": "norris",
+        "Time": "1:40.760",
+        "Position": "4"
+    },
+    {
+        "Circuit ID": "suzuka",
+        "Round": "4",
+        "Lap Number": "12",
+        "Driver ID": "norris",
+        "Time": "1:55.643",
+        "Position": "9"
+    },
+    {
+        "Circuit ID": "suzuka",
+        "Round": "4",
+        "Lap Number": "13",
+        "Driver ID": "norris",
+        "Time": "1:35.761",
+        "Position": "8"
+    },
+    {
+        "Circuit ID": "suzuka",
+        "Round": "4",
+        "Lap Number": "14",
+        "Driver ID": "norris",
+        "Time": "1:36.777",
+        "Position": "7"
+    },
+    {
+        "Circuit ID": "suzuka",
+        "Round": "4",
+        "Lap Number": "15",
+        "Driver ID": "norris",
+        "Time": "1:36.788",
+        "Position": "7"
+    },
+    {
+        "Circuit ID": "suzuka",
+        "Round": "4",
+        "Lap Number": "16",
+        "Driver ID": "norris",
+        "Time": "1:38.241",
+        "Position": "5"
+    },
+    {
+        "Circuit ID": "suzuka",
+        "Round": "4",
+        "Lap Number": "17",
+        "Driver ID": "norris",
+        "Time": "1:37.807",
+        "Position": "4"
+    },
+    {
+        "Circuit ID": "suzuka",
+        "Round": "4",
+        "Lap Number": "18",
+        "Driver ID": "norris",
+        "Time": "1:36.487",
+        "Position": "3"
+    },
+    {
+        "Circuit ID": "suzuka",
+        "Round": "4",
+        "Lap Number": "19",
+        "Driver ID": "norris",
+        "Time": "1:36.783",
+        "Position": "3"
+    },
+    {
+        "Circuit ID": "suzuka",
+        "Round": "4",
+        "Lap Number": "20",
+        "Driver ID": "norris",
+        "Time": "1:36.847",
+        "Position": "3"
+    },
+    {
+        "Circuit ID": "suzuka",
+        "Round": "4",
+        "Lap Number": "21",
+        "Driver ID": "norris",
+        "Time": "1:36.996",
+        "Position": "3"
+    },
+    {
+        "Circuit ID": "suzuka",
+        "Round": "4",
+        "Lap Number": "22",
+        "Driver ID": "norris",
+        "Time": "1:38.888",
+        "Position": "4"
+    },
+    {
+        "Circuit ID": "suzuka",
+        "Round": "4",
+        "Lap Number": "23",
+        "Driver ID": "norris",
+        "Time": "1:38.213",
+        "Position": "4"
+    },
+    {
+        "Circuit ID": "suzuka",
+        "Round": "4",
+        "Lap Number": "24",
+        "Driver ID": "norris",
+        "Time": "1:37.722",
+        "Position": "4"
+    },
+    {
+        "Circuit ID": "suzuka",
+        "Round": "4",
+        "Lap Number": "25",
+        "Driver ID": "norris",
+        "Time": "1:37.558",
+        "Position": "4"
+    },
+    {
+        "Circuit ID": "suzuka",
+        "Round": "4",
+        "Lap Number": "26",
+        "Driver ID": "norris",
+        "Time": "1:40.917",
+        "Position": "5"
+    },
+    {
+        "Circuit ID": "suzuka",
+        "Round": "4",
+        "Lap Number": "27",
+        "Driver ID": "norris",
+        "Time": "1:56.621",
+        "Position": "8"
+    },
+    {
+        "Circuit ID": "suzuka",
+        "Round": "4",
+        "Lap Number": "28",
+        "Driver ID": "norris",
+        "Time": "1:35.721",
+        "Position": "7"
+    },
+    {
+        "Circuit ID": "suzuka",
+        "Round": "4",
+        "Lap Number": "29",
+        "Driver ID": "norris",
+        "Time": "1:36.258",
+        "Position": "7"
+    },
+    {
+        "Circuit ID": "suzuka",
+        "Round": "4",
+        "Lap Number": "30",
+        "Driver ID": "norris",
+        "Time": "1:36.243",
+        "Position": "7"
+    },
+    {
+        "Circuit ID": "suzuka",
+        "Round": "4",
+        "Lap Number": "31",
+        "Driver ID": "norris",
+        "Time": "1:36.225",
+        "Position": "7"
+    },
+    {
+        "Circuit ID": "suzuka",
+        "Round": "4",
+        "Lap Number": "32",
+        "Driver ID": "norris",
+        "Time": "1:36.375",
+        "Position": "7"
+    },
+    {
+        "Circuit ID": "suzuka",
+        "Round": "4",
+        "Lap Number": "33",
+        "Driver ID": "norris",
+        "Time": "1:36.340",
+        "Position": "6"
+    },
+    {
+        "Circuit ID": "suzuka",
+        "Round": "4",
+        "Lap Number": "34",
+        "Driver ID": "norris",
+        "Time": "1:36.262",
+        "Position": "4"
+    },
+    {
+        "Circuit ID": "suzuka",
+        "Round": "4",
+        "Lap Number": "35",
+        "Driver ID": "norris",
+        "Time": "1:36.614",
+        "Position": "5"
+    },
+    {
+        "Circuit ID": "suzuka",
+        "Round": "4",
+        "Lap Number": "36",
+        "Driver ID": "norris",
+        "Time": "1:35.896",
+        "Position": "5"
+    },
+    {
+        "Circuit ID": "suzuka",
+        "Round": "4",
+        "Lap Number": "37",
+        "Driver ID": "norris",
+        "Time": "1:36.412",
+        "Position": "4"
+    },
+    {
+        "Circuit ID": "suzuka",
+        "Round": "4",
+        "Lap Number": "38",
+        "Driver ID": "norris",
+        "Time": "1:35.883",
+        "Position": "4"
+    },
+    {
+        "Circuit ID": "suzuka",
+        "Round": "4",
+        "Lap Number": "39",
+        "Driver ID": "norris",
+        "Time": "1:35.706",
+        "Position": "4"
+    },
+    {
+        "Circuit ID": "suzuka",
+        "Round": "4",
+        "Lap Number": "40",
+        "Driver ID": "norris",
+        "Time": "1:36.249",
+        "Position": "4"
+    },
+    {
+        "Circuit ID": "suzuka",
+        "Round": "4",
+        "Lap Number": "41",
+        "Driver ID": "norris",
+        "Time": "1:35.229",
+        "Position": "4"
+    },
+    {
+        "Circuit ID": "suzuka",
+        "Round": "4",
+        "Lap Number": "42",
+        "Driver ID": "norris",
+        "Time": "1:36.217",
+        "Position": "4"
+    },
+    {
+        "Circuit ID": "suzuka",
+        "Round": "4",
+        "Lap Number": "43",
+        "Driver ID": "norris",
+        "Time": "1:35.920",
+        "Position": "4"
+    },
+    {
+        "Circuit ID": "suzuka",
+        "Round": "4",
+        "Lap Number": "44",
+        "Driver ID": "norris",
+        "Time": "1:36.391",
+        "Position": "5"
+    },
+    {
+        "Circuit ID": "suzuka",
+        "Round": "4",
+        "Lap Number": "45",
+        "Driver ID": "norris",
+        "Time": "1:36.224",
+        "Position": "5"
+    },
+    {
+        "Circuit ID": "suzuka",
+        "Round": "4",
+        "Lap Number": "46",
+        "Driver ID": "norris",
+        "Time": "1:35.635",
+        "Position": "5"
+    },
+    {
+        "Circuit ID": "suzuka",
+        "Round": "4",
+        "Lap Number": "47",
+        "Driver ID": "norris",
+        "Time": "1:35.633",
+        "Position": "5"
+    },
+    {
+        "Circuit ID": "suzuka",
+        "Round": "4",
+        "Lap Number": "48",
+        "Driver ID": "norris",
+        "Time": "1:35.677",
+        "Position": "5"
+    },
+    {
+        "Circuit ID": "suzuka",
+        "Round": "4",
+        "Lap Number": "49",
+        "Driver ID": "norris",
+        "Time": "1:35.354",
+        "Position": "5"
+    },
+    {
+        "Circuit ID": "suzuka",
+        "Round": "4",
+        "Lap Number": "50",
+        "Driver ID": "norris",
+        "Time": "1:35.268",
+        "Position": "5"
+    },
+    {
+        "Circuit ID": "suzuka",
+        "Round": "4",
+        "Lap Number": "51",
+        "Driver ID": "norris",
+        "Time": "1:35.186",
+        "Position": "5"
+    },
+    {
+        "Circuit ID": "suzuka",
+        "Round": "4",
+        "Lap Number": "52",
+        "Driver ID": "norris",
+        "Time": "1:35.832",
+        "Position": "5"
+    },
+    {
+        "Circuit ID": "suzuka",
+        "Round": "4",
+        "Lap Number": "53",
+        "Driver ID": "norris",
+        "Time": "1:35.721",
+        "Position": "5"
+    },
+    {
+        "Circuit ID": "suzuka",
+        "Round": "4",
+        "Lap Number": "1",
+        "Driver ID": "alonso",
+        "Time": "2:20.526",
+        "Position": "5"
+    },
+    {
+        "Circuit ID": "suzuka",
+        "Round": "4",
+        "Lap Number": "2",
+        "Driver ID": "alonso",
+        "Time": "28:34.647",
+        "Position": "5"
+    },
+    {
+        "Circuit ID": "suzuka",
+        "Round": "4",
+        "Lap Number": "3",
+        "Driver ID": "alonso",
+        "Time": "2:42.586",
+        "Position": "5"
+    },
+    {
+        "Circuit ID": "suzuka",
+        "Round": "4",
+        "Lap Number": "4",
+        "Driver ID": "alonso",
+        "Time": "1:37.453",
+        "Position": "5"
+    },
+    {
+        "Circuit ID": "suzuka",
+        "Round": "4",
+        "Lap Number": "5",
+        "Driver ID": "alonso",
+        "Time": "1:37.532",
+        "Position": "5"
+    },
+    {
+        "Circuit ID": "suzuka",
+        "Round": "4",
+        "Lap Number": "6",
+        "Driver ID": "alonso",
+        "Time": "1:37.861",
+        "Position": "5"
+    },
+    {
+        "Circuit ID": "suzuka",
+        "Round": "4",
+        "Lap Number": "7",
+        "Driver ID": "alonso",
+        "Time": "1:38.203",
+        "Position": "5"
+    },
+    {
+        "Circuit ID": "suzuka",
+        "Round": "4",
+        "Lap Number": "8",
+        "Driver ID": "alonso",
+        "Time": "1:38.461",
+        "Position": "5"
+    },
+    {
+        "Circuit ID": "suzuka",
+        "Round": "4",
+        "Lap Number": "9",
+        "Driver ID": "alonso",
+        "Time": "1:38.884",
+        "Position": "5"
+    },
+    {
+        "Circuit ID": "suzuka",
+        "Round": "4",
+        "Lap Number": "10",
+        "Driver ID": "alonso",
+        "Time": "1:38.781",
+        "Position": "5"
+    },
+    {
+        "Circuit ID": "suzuka",
+        "Round": "4",
+        "Lap Number": "11",
+        "Driver ID": "alonso",
+        "Time": "1:38.943",
+        "Position": "5"
+    },
+    {
+        "Circuit ID": "suzuka",
+        "Round": "4",
+        "Lap Number": "12",
+        "Driver ID": "alonso",
+        "Time": "1:38.744",
+        "Position": "4"
+    },
+    {
+        "Circuit ID": "suzuka",
+        "Round": "4",
+        "Lap Number": "13",
+        "Driver ID": "alonso",
+        "Time": "1:40.816",
+        "Position": "5"
+    },
+    {
+        "Circuit ID": "suzuka",
+        "Round": "4",
+        "Lap Number": "14",
+        "Driver ID": "alonso",
+        "Time": "1:56.544",
+        "Position": "8"
+    },
+    {
+        "Circuit ID": "suzuka",
+        "Round": "4",
+        "Lap Number": "15",
+        "Driver ID": "alonso",
+        "Time": "1:37.453",
+        "Position": "8"
+    },
+    {
+        "Circuit ID": "suzuka",
+        "Round": "4",
+        "Lap Number": "16",
+        "Driver ID": "alonso",
+        "Time": "1:37.021",
+        "Position": "8"
+    },
+    {
+        "Circuit ID": "suzuka",
+        "Round": "4",
+        "Lap Number": "17",
+        "Driver ID": "alonso",
+        "Time": "1:36.999",
+        "Position": "8"
+    },
+    {
+        "Circuit ID": "suzuka",
+        "Round": "4",
+        "Lap Number": "18",
+        "Driver ID": "alonso",
+        "Time": "1:37.031",
+        "Position": "8"
+    },
+    {
+        "Circuit ID": "suzuka",
+        "Round": "4",
+        "Lap Number": "19",
+        "Driver ID": "alonso",
+        "Time": "1:36.821",
+        "Position": "8"
+    },
+    {
+        "Circuit ID": "suzuka",
+        "Round": "4",
+        "Lap Number": "20",
+        "Driver ID": "alonso",
+        "Time": "1:37.615",
+        "Position": "8"
+    },
+    {
+        "Circuit ID": "suzuka",
+        "Round": "4",
+        "Lap Number": "21",
+        "Driver ID": "alonso",
+        "Time": "1:37.565",
+        "Position": "8"
+    },
+    {
+        "Circuit ID": "suzuka",
+        "Round": "4",
+        "Lap Number": "22",
+        "Driver ID": "alonso",
+        "Time": "1:37.721",
+        "Position": "6"
+    },
+    {
+        "Circuit ID": "suzuka",
+        "Round": "4",
+        "Lap Number": "23",
+        "Driver ID": "alonso",
+        "Time": "1:37.640",
+        "Position": "6"
+    },
+    {
+        "Circuit ID": "suzuka",
+        "Round": "4",
+        "Lap Number": "24",
+        "Driver ID": "alonso",
+        "Time": "1:37.435",
+        "Position": "6"
+    },
+    {
+        "Circuit ID": "suzuka",
+        "Round": "4",
+        "Lap Number": "25",
+        "Driver ID": "alonso",
+        "Time": "1:37.423",
+        "Position": "6"
+    },
+    {
+        "Circuit ID": "suzuka",
+        "Round": "4",
+        "Lap Number": "26",
+        "Driver ID": "alonso",
+        "Time": "1:37.289",
+        "Position": "6"
+    },
+    {
+        "Circuit ID": "suzuka",
+        "Round": "4",
+        "Lap Number": "27",
+        "Driver ID": "alonso",
+        "Time": "1:37.359",
+        "Position": "4"
+    },
+    {
+        "Circuit ID": "suzuka",
+        "Round": "4",
+        "Lap Number": "28",
+        "Driver ID": "alonso",
+        "Time": "1:37.341",
+        "Position": "4"
+    },
+    {
+        "Circuit ID": "suzuka",
+        "Round": "4",
+        "Lap Number": "29",
+        "Driver ID": "alonso",
+        "Time": "1:37.782",
+        "Position": "4"
+    },
+    {
+        "Circuit ID": "suzuka",
+        "Round": "4",
+        "Lap Number": "30",
+        "Driver ID": "alonso",
+        "Time": "1:37.643",
+        "Position": "4"
+    },
+    {
+        "Circuit ID": "suzuka",
+        "Round": "4",
+        "Lap Number": "31",
+        "Driver ID": "alonso",
+        "Time": "1:37.451",
+        "Position": "4"
+    },
+    {
+        "Circuit ID": "suzuka",
+        "Round": "4",
+        "Lap Number": "32",
+        "Driver ID": "alonso",
+        "Time": "1:37.635",
+        "Position": "4"
+    },
+    {
+        "Circuit ID": "suzuka",
+        "Round": "4",
+        "Lap Number": "33",
+        "Driver ID": "alonso",
+        "Time": "1:39.794",
+        "Position": "4"
+    },
+    {
+        "Circuit ID": "suzuka",
+        "Round": "4",
+        "Lap Number": "34",
+        "Driver ID": "alonso",
+        "Time": "1:55.043",
+        "Position": "8"
+    },
+    {
+        "Circuit ID": "suzuka",
+        "Round": "4",
+        "Lap Number": "35",
+        "Driver ID": "alonso",
+        "Time": "1:35.771",
+        "Position": "8"
+    },
+    {
+        "Circuit ID": "suzuka",
+        "Round": "4",
+        "Lap Number": "36",
+        "Driver ID": "alonso",
+        "Time": "1:35.353",
+        "Position": "8"
+    },
+    {
+        "Circuit ID": "suzuka",
+        "Round": "4",
+        "Lap Number": "37",
+        "Driver ID": "alonso",
+        "Time": "1:35.381",
+        "Position": "8"
+    },
+    {
+        "Circuit ID": "suzuka",
+        "Round": "4",
+        "Lap Number": "38",
+        "Driver ID": "alonso",
+        "Time": "1:35.487",
+        "Position": "7"
+    },
+    {
+        "Circuit ID": "suzuka",
+        "Round": "4",
+        "Lap Number": "39",
+        "Driver ID": "alonso",
+        "Time": "1:35.970",
+        "Position": "7"
+    },
+    {
+        "Circuit ID": "suzuka",
+        "Round": "4",
+        "Lap Number": "40",
+        "Driver ID": "alonso",
+        "Time": "1:35.808",
+        "Position": "6"
+    },
+    {
+        "Circuit ID": "suzuka",
+        "Round": "4",
+        "Lap Number": "41",
+        "Driver ID": "alonso",
+        "Time": "1:35.574",
+        "Position": "6"
+    },
+    {
+        "Circuit ID": "suzuka",
+        "Round": "4",
+        "Lap Number": "42",
+        "Driver ID": "alonso",
+        "Time": "1:37.292",
+        "Position": "6"
+    },
+    {
+        "Circuit ID": "suzuka",
+        "Round": "4",
+        "Lap Number": "43",
+        "Driver ID": "alonso",
+        "Time": "1:36.092",
+        "Position": "6"
+    },
+    {
+        "Circuit ID": "suzuka",
+        "Round": "4",
+        "Lap Number": "44",
+        "Driver ID": "alonso",
+        "Time": "1:35.615",
+        "Position": "6"
+    },
+    {
+        "Circuit ID": "suzuka",
+        "Round": "4",
+        "Lap Number": "45",
+        "Driver ID": "alonso",
+        "Time": "1:35.636",
+        "Position": "6"
+    },
+    {
+        "Circuit ID": "suzuka",
+        "Round": "4",
+        "Lap Number": "46",
+        "Driver ID": "alonso",
+        "Time": "1:35.827",
+        "Position": "6"
+    },
+    {
+        "Circuit ID": "suzuka",
+        "Round": "4",
+        "Lap Number": "47",
+        "Driver ID": "alonso",
+        "Time": "1:35.862",
+        "Position": "6"
+    },
+    {
+        "Circuit ID": "suzuka",
+        "Round": "4",
+        "Lap Number": "48",
+        "Driver ID": "alonso",
+        "Time": "1:35.861",
+        "Position": "6"
+    },
+    {
+        "Circuit ID": "suzuka",
+        "Round": "4",
+        "Lap Number": "49",
+        "Driver ID": "alonso",
+        "Time": "1:35.831",
+        "Position": "6"
+    },
+    {
+        "Circuit ID": "suzuka",
+        "Round": "4",
+        "Lap Number": "50",
+        "Driver ID": "alonso",
+        "Time": "1:36.008",
+        "Position": "6"
+    },
+    {
+        "Circuit ID": "suzuka",
+        "Round": "4",
+        "Lap Number": "51",
+        "Driver ID": "alonso",
+        "Time": "1:36.069",
+        "Position": "6"
+    },
+    {
+        "Circuit ID": "suzuka",
+        "Round": "4",
+        "Lap Number": "52",
+        "Driver ID": "alonso",
+        "Time": "1:35.633",
+        "Position": "6"
+    },
+    {
+        "Circuit ID": "suzuka",
+        "Round": "4",
+        "Lap Number": "53",
+        "Driver ID": "alonso",
+        "Time": "1:34.726",
+        "Position": "6"
+    },
+    {
+        "Circuit ID": "suzuka",
+        "Round": "4",
+        "Lap Number": "1",
+        "Driver ID": "russell",
+        "Time": "2:39.587",
+        "Position": "9"
+    },
+    {
+        "Circuit ID": "suzuka",
+        "Round": "4",
+        "Lap Number": "2",
+        "Driver ID": "russell",
+        "Time": "28:28.819",
+        "Position": "9"
+    },
+    {
+        "Circuit ID": "suzuka",
+        "Round": "4",
+        "Lap Number": "3",
+        "Driver ID": "russell",
+        "Time": "2:32.774",
+        "Position": "10"
+    },
+    {
+        "Circuit ID": "suzuka",
+        "Round": "4",
+        "Lap Number": "4",
+        "Driver ID": "russell",
+        "Time": "1:38.976",
+        "Position": "10"
+    },
+    {
+        "Circuit ID": "suzuka",
+        "Round": "4",
+        "Lap Number": "5",
+        "Driver ID": "russell",
+        "Time": "1:37.737",
+        "Position": "9"
+    },
+    {
+        "Circuit ID": "suzuka",
+        "Round": "4",
+        "Lap Number": "6",
+        "Driver ID": "russell",
+        "Time": "1:38.392",
+        "Position": "9"
+    },
+    {
+        "Circuit ID": "suzuka",
+        "Round": "4",
+        "Lap Number": "7",
+        "Driver ID": "russell",
+        "Time": "1:38.070",
+        "Position": "9"
+    },
+    {
+        "Circuit ID": "suzuka",
+        "Round": "4",
+        "Lap Number": "8",
+        "Driver ID": "russell",
+        "Time": "1:38.192",
+        "Position": "9"
+    },
+    {
+        "Circuit ID": "suzuka",
+        "Round": "4",
+        "Lap Number": "9",
+        "Driver ID": "russell",
+        "Time": "1:38.253",
+        "Position": "9"
+    },
+    {
+        "Circuit ID": "suzuka",
+        "Round": "4",
+        "Lap Number": "10",
+        "Driver ID": "russell",
+        "Time": "1:38.368",
+        "Position": "9"
+    },
+    {
+        "Circuit ID": "suzuka",
+        "Round": "4",
+        "Lap Number": "11",
+        "Driver ID": "russell",
+        "Time": "1:38.949",
+        "Position": "9"
+    },
+    {
+        "Circuit ID": "suzuka",
+        "Round": "4",
+        "Lap Number": "12",
+        "Driver ID": "russell",
+        "Time": "1:39.212",
+        "Position": "8"
+    },
+    {
+        "Circuit ID": "suzuka",
+        "Round": "4",
+        "Lap Number": "13",
+        "Driver ID": "russell",
+        "Time": "1:38.989",
+        "Position": "6"
+    },
+    {
+        "Circuit ID": "suzuka",
+        "Round": "4",
+        "Lap Number": "14",
+        "Driver ID": "russell",
+        "Time": "1:38.428",
+        "Position": "5"
+    },
+    {
+        "Circuit ID": "suzuka",
+        "Round": "4",
+        "Lap Number": "15",
+        "Driver ID": "russell",
+        "Time": "1:38.565",
+        "Position": "5"
+    },
+    {
+        "Circuit ID": "suzuka",
+        "Round": "4",
+        "Lap Number": "16",
+        "Driver ID": "russell",
+        "Time": "1:38.658",
+        "Position": "3"
+    },
+    {
+        "Circuit ID": "suzuka",
+        "Round": "4",
+        "Lap Number": "17",
+        "Driver ID": "russell",
+        "Time": "1:39.417",
+        "Position": "3"
+    },
+    {
+        "Circuit ID": "suzuka",
+        "Round": "4",
+        "Lap Number": "18",
+        "Driver ID": "russell",
+        "Time": "1:40.317",
+        "Position": "5"
+    },
+    {
+        "Circuit ID": "suzuka",
+        "Round": "4",
+        "Lap Number": "19",
+        "Driver ID": "russell",
+        "Time": "1:38.392",
+        "Position": "5"
+    },
+    {
+        "Circuit ID": "suzuka",
+        "Round": "4",
+        "Lap Number": "20",
+        "Driver ID": "russell",
+        "Time": "1:38.463",
+        "Position": "5"
+    },
+    {
+        "Circuit ID": "suzuka",
+        "Round": "4",
+        "Lap Number": "21",
+        "Driver ID": "russell",
+        "Time": "1:39.492",
+        "Position": "6"
+    },
+    {
+        "Circuit ID": "suzuka",
+        "Round": "4",
+        "Lap Number": "22",
+        "Driver ID": "russell",
+        "Time": "1:40.895",
+        "Position": "7"
+    },
+    {
+        "Circuit ID": "suzuka",
+        "Round": "4",
+        "Lap Number": "23",
+        "Driver ID": "russell",
+        "Time": "1:55.552",
+        "Position": "9"
+    },
+    {
+        "Circuit ID": "suzuka",
+        "Round": "4",
+        "Lap Number": "24",
+        "Driver ID": "russell",
+        "Time": "1:35.149",
+        "Position": "8"
+    },
+    {
+        "Circuit ID": "suzuka",
+        "Round": "4",
+        "Lap Number": "25",
+        "Driver ID": "russell",
+        "Time": "1:35.673",
+        "Position": "8"
+    },
+    {
+        "Circuit ID": "suzuka",
+        "Round": "4",
+        "Lap Number": "26",
+        "Driver ID": "russell",
+        "Time": "1:35.775",
+        "Position": "8"
+    },
+    {
+        "Circuit ID": "suzuka",
+        "Round": "4",
+        "Lap Number": "27",
+        "Driver ID": "russell",
+        "Time": "1:37.280",
+        "Position": "7"
+    },
+    {
+        "Circuit ID": "suzuka",
+        "Round": "4",
+        "Lap Number": "28",
+        "Driver ID": "russell",
+        "Time": "1:37.564",
+        "Position": "8"
+    },
+    {
+        "Circuit ID": "suzuka",
+        "Round": "4",
+        "Lap Number": "29",
+        "Driver ID": "russell",
+        "Time": "1:36.699",
+        "Position": "8"
+    },
+    {
+        "Circuit ID": "suzuka",
+        "Round": "4",
+        "Lap Number": "30",
+        "Driver ID": "russell",
+        "Time": "1:36.493",
+        "Position": "8"
+    },
+    {
+        "Circuit ID": "suzuka",
+        "Round": "4",
+        "Lap Number": "31",
+        "Driver ID": "russell",
+        "Time": "1:36.776",
+        "Position": "8"
+    },
+    {
+        "Circuit ID": "suzuka",
+        "Round": "4",
+        "Lap Number": "32",
+        "Driver ID": "russell",
+        "Time": "1:36.744",
+        "Position": "8"
+    },
+    {
+        "Circuit ID": "suzuka",
+        "Round": "4",
+        "Lap Number": "33",
+        "Driver ID": "russell",
+        "Time": "1:36.383",
+        "Position": "7"
+    },
+    {
+        "Circuit ID": "suzuka",
+        "Round": "4",
+        "Lap Number": "34",
+        "Driver ID": "russell",
+        "Time": "1:36.704",
+        "Position": "6"
+    },
+    {
+        "Circuit ID": "suzuka",
+        "Round": "4",
+        "Lap Number": "35",
+        "Driver ID": "russell",
+        "Time": "1:36.470",
+        "Position": "6"
+    },
+    {
+        "Circuit ID": "suzuka",
+        "Round": "4",
+        "Lap Number": "36",
+        "Driver ID": "russell",
+        "Time": "1:36.468",
+        "Position": "6"
+    },
+    {
+        "Circuit ID": "suzuka",
+        "Round": "4",
+        "Lap Number": "37",
+        "Driver ID": "russell",
+        "Time": "1:38.830",
+        "Position": "5"
+    },
+    {
+        "Circuit ID": "suzuka",
+        "Round": "4",
+        "Lap Number": "38",
+        "Driver ID": "russell",
+        "Time": "1:53.925",
+        "Position": "9"
+    },
+    {
+        "Circuit ID": "suzuka",
+        "Round": "4",
+        "Lap Number": "39",
+        "Driver ID": "russell",
+        "Time": "1:34.404",
+        "Position": "9"
+    },
+    {
+        "Circuit ID": "suzuka",
+        "Round": "4",
+        "Lap Number": "40",
+        "Driver ID": "russell",
+        "Time": "1:34.537",
+        "Position": "8"
+    },
+    {
+        "Circuit ID": "suzuka",
+        "Round": "4",
+        "Lap Number": "41",
+        "Driver ID": "russell",
+        "Time": "1:34.541",
+        "Position": "8"
+    },
+    {
+        "Circuit ID": "suzuka",
+        "Round": "4",
+        "Lap Number": "42",
+        "Driver ID": "russell",
+        "Time": "1:35.299",
+        "Position": "8"
+    },
+    {
+        "Circuit ID": "suzuka",
+        "Round": "4",
+        "Lap Number": "43",
+        "Driver ID": "russell",
+        "Time": "1:35.141",
+        "Position": "8"
+    },
+    {
+        "Circuit ID": "suzuka",
+        "Round": "4",
+        "Lap Number": "44",
+        "Driver ID": "russell",
+        "Time": "1:34.834",
+        "Position": "8"
+    },
+    {
+        "Circuit ID": "suzuka",
+        "Round": "4",
+        "Lap Number": "45",
+        "Driver ID": "russell",
+        "Time": "1:34.913",
+        "Position": "8"
+    },
+    {
+        "Circuit ID": "suzuka",
+        "Round": "4",
+        "Lap Number": "46",
+        "Driver ID": "russell",
+        "Time": "1:35.115",
+        "Position": "8"
+    },
+    {
+        "Circuit ID": "suzuka",
+        "Round": "4",
+        "Lap Number": "47",
+        "Driver ID": "russell",
+        "Time": "1:35.317",
+        "Position": "8"
+    },
+    {
+        "Circuit ID": "suzuka",
+        "Round": "4",
+        "Lap Number": "48",
+        "Driver ID": "russell",
+        "Time": "1:35.423",
+        "Position": "8"
+    },
+    {
+        "Circuit ID": "suzuka",
+        "Round": "4",
+        "Lap Number": "49",
+        "Driver ID": "russell",
+        "Time": "1:36.024",
+        "Position": "8"
+    },
+    {
+        "Circuit ID": "suzuka",
+        "Round": "4",
+        "Lap Number": "50",
+        "Driver ID": "russell",
+        "Time": "1:36.465",
+        "Position": "8"
+    },
+    {
+        "Circuit ID": "suzuka",
+        "Round": "4",
+        "Lap Number": "51",
+        "Driver ID": "russell",
+        "Time": "1:35.429",
+        "Position": "8"
+    },
+    {
+        "Circuit ID": "suzuka",
+        "Round": "4",
+        "Lap Number": "52",
+        "Driver ID": "russell",
+        "Time": "1:35.743",
+        "Position": "8"
+    },
+    {
+        "Circuit ID": "suzuka",
+        "Round": "4",
+        "Lap Number": "53",
+        "Driver ID": "russell",
+        "Time": "1:34.902",
+        "Position": "7"
+    },
+    {
+        "Circuit ID": "suzuka",
+        "Round": "4",
+        "Lap Number": "1",
+        "Driver ID": "piastri",
+        "Time": "1:34.802",
+        "Position": "6"
+    },
+    {
+        "Circuit ID": "suzuka",
+        "Round": "4",
+        "Lap Number": "2",
+        "Driver ID": "piastri",
+        "Time": "28:34.222",
+        "Position": "6"
+    },
+    {
+        "Circuit ID": "suzuka",
+        "Round": "4",
+        "Lap Number": "3",
+        "Driver ID": "piastri",
+        "Time": "2:40.061",
+        "Position": "6"
+    },
+    {
+        "Circuit ID": "suzuka",
+        "Round": "4",
+        "Lap Number": "4",
+        "Driver ID": "piastri",
+        "Time": "1:37.734",
+        "Position": "6"
+    },
+    {
+        "Circuit ID": "suzuka",
+        "Round": "4",
+        "Lap Number": "5",
+        "Driver ID": "piastri",
+        "Time": "1:37.631",
+        "Position": "6"
+    },
+    {
+        "Circuit ID": "suzuka",
+        "Round": "4",
+        "Lap Number": "6",
+        "Driver ID": "piastri",
+        "Time": "1:38.141",
+        "Position": "6"
+    },
+    {
+        "Circuit ID": "suzuka",
+        "Round": "4",
+        "Lap Number": "7",
+        "Driver ID": "piastri",
+        "Time": "1:38.191",
+        "Position": "6"
+    },
+    {
+        "Circuit ID": "suzuka",
+        "Round": "4",
+        "Lap Number": "8",
+        "Driver ID": "piastri",
+        "Time": "1:38.222",
+        "Position": "6"
+    },
+    {
+        "Circuit ID": "suzuka",
+        "Round": "4",
+        "Lap Number": "9",
+        "Driver ID": "piastri",
+        "Time": "1:38.500",
+        "Position": "6"
+    },
+    {
+        "Circuit ID": "suzuka",
+        "Round": "4",
+        "Lap Number": "10",
+        "Driver ID": "piastri",
+        "Time": "1:39.011",
+        "Position": "6"
+    },
+    {
+        "Circuit ID": "suzuka",
+        "Round": "4",
+        "Lap Number": "11",
+        "Driver ID": "piastri",
+        "Time": "1:39.245",
+        "Position": "6"
+    },
+    {
+        "Circuit ID": "suzuka",
+        "Round": "4",
+        "Lap Number": "12",
+        "Driver ID": "piastri",
+        "Time": "1:41.083",
+        "Position": "6"
+    },
+    {
+        "Circuit ID": "suzuka",
+        "Round": "4",
+        "Lap Number": "13",
+        "Driver ID": "piastri",
+        "Time": "1:58.558",
+        "Position": "11"
+    },
+    {
+        "Circuit ID": "suzuka",
+        "Round": "4",
+        "Lap Number": "14",
+        "Driver ID": "piastri",
+        "Time": "1:37.675",
+        "Position": "9"
+    },
+    {
+        "Circuit ID": "suzuka",
+        "Round": "4",
+        "Lap Number": "15",
+        "Driver ID": "piastri",
+        "Time": "1:37.377",
+        "Position": "9"
+    },
+    {
+        "Circuit ID": "suzuka",
+        "Round": "4",
+        "Lap Number": "16",
+        "Driver ID": "piastri",
+        "Time": "1:37.058",
+        "Position": "9"
+    },
+    {
+        "Circuit ID": "suzuka",
+        "Round": "4",
+        "Lap Number": "17",
+        "Driver ID": "piastri",
+        "Time": "1:36.747",
+        "Position": "9"
+    },
+    {
+        "Circuit ID": "suzuka",
+        "Round": "4",
+        "Lap Number": "18",
+        "Driver ID": "piastri",
+        "Time": "1:36.822",
+        "Position": "9"
+    },
+    {
+        "Circuit ID": "suzuka",
+        "Round": "4",
+        "Lap Number": "19",
+        "Driver ID": "piastri",
+        "Time": "1:36.782",
+        "Position": "9"
+    },
+    {
+        "Circuit ID": "suzuka",
+        "Round": "4",
+        "Lap Number": "20",
+        "Driver ID": "piastri",
+        "Time": "1:36.984",
+        "Position": "9"
+    },
+    {
+        "Circuit ID": "suzuka",
+        "Round": "4",
+        "Lap Number": "21",
+        "Driver ID": "piastri",
+        "Time": "1:37.416",
+        "Position": "9"
+    },
+    {
+        "Circuit ID": "suzuka",
+        "Round": "4",
+        "Lap Number": "22",
+        "Driver ID": "piastri",
+        "Time": "1:38.625",
+        "Position": "9"
+    },
+    {
+        "Circuit ID": "suzuka",
+        "Round": "4",
+        "Lap Number": "23",
+        "Driver ID": "piastri",
+        "Time": "1:38.919",
+        "Position": "7"
+    },
+    {
+        "Circuit ID": "suzuka",
+        "Round": "4",
+        "Lap Number": "24",
+        "Driver ID": "piastri",
+        "Time": "1:37.175",
+        "Position": "7"
+    },
+    {
+        "Circuit ID": "suzuka",
+        "Round": "4",
+        "Lap Number": "25",
+        "Driver ID": "piastri",
+        "Time": "1:37.776",
+        "Position": "7"
+    },
+    {
+        "Circuit ID": "suzuka",
+        "Round": "4",
+        "Lap Number": "26",
+        "Driver ID": "piastri",
+        "Time": "1:37.364",
+        "Position": "7"
+    },
+    {
+        "Circuit ID": "suzuka",
+        "Round": "4",
+        "Lap Number": "27",
+        "Driver ID": "piastri",
+        "Time": "1:37.389",
+        "Position": "5"
+    },
+    {
+        "Circuit ID": "suzuka",
+        "Round": "4",
+        "Lap Number": "28",
+        "Driver ID": "piastri",
+        "Time": "1:37.438",
+        "Position": "5"
+    },
+    {
+        "Circuit ID": "suzuka",
+        "Round": "4",
+        "Lap Number": "29",
+        "Driver ID": "piastri",
+        "Time": "1:37.771",
+        "Position": "5"
+    },
+    {
+        "Circuit ID": "suzuka",
+        "Round": "4",
+        "Lap Number": "30",
+        "Driver ID": "piastri",
+        "Time": "1:37.946",
+        "Position": "5"
+    },
+    {
+        "Circuit ID": "suzuka",
+        "Round": "4",
+        "Lap Number": "31",
+        "Driver ID": "piastri",
+        "Time": "1:37.845",
+        "Position": "5"
+    },
+    {
+        "Circuit ID": "suzuka",
+        "Round": "4",
+        "Lap Number": "32",
+        "Driver ID": "piastri",
+        "Time": "1:39.482",
+        "Position": "6"
+    },
+    {
+        "Circuit ID": "suzuka",
+        "Round": "4",
+        "Lap Number": "33",
+        "Driver ID": "piastri",
+        "Time": "1:55.493",
+        "Position": "9"
+    },
+    {
+        "Circuit ID": "suzuka",
+        "Round": "4",
+        "Lap Number": "34",
+        "Driver ID": "piastri",
+        "Time": "1:35.255",
+        "Position": "9"
+    },
+    {
+        "Circuit ID": "suzuka",
+        "Round": "4",
+        "Lap Number": "35",
+        "Driver ID": "piastri",
+        "Time": "1:34.802",
+        "Position": "9"
+    },
+    {
+        "Circuit ID": "suzuka",
+        "Round": "4",
+        "Lap Number": "36",
+        "Driver ID": "piastri",
+        "Time": "1:35.128",
+        "Position": "9"
+    },
+    {
+        "Circuit ID": "suzuka",
+        "Round": "4",
+        "Lap Number": "37",
+        "Driver ID": "piastri",
+        "Time": "1:35.400",
+        "Position": "9"
+    },
+    {
+        "Circuit ID": "suzuka",
+        "Round": "4",
+        "Lap Number": "38",
+        "Driver ID": "piastri",
+        "Time": "1:35.267",
+        "Position": "8"
+    },
+    {
+        "Circuit ID": "suzuka",
+        "Round": "4",
+        "Lap Number": "39",
+        "Driver ID": "piastri",
+        "Time": "1:36.036",
+        "Position": "8"
+    },
+    {
+        "Circuit ID": "suzuka",
+        "Round": "4",
+        "Lap Number": "40",
+        "Driver ID": "piastri",
+        "Time": "1:35.888",
+        "Position": "7"
+    },
+    {
+        "Circuit ID": "suzuka",
+        "Round": "4",
+        "Lap Number": "41",
+        "Driver ID": "piastri",
+        "Time": "1:35.545",
+        "Position": "7"
+    },
+    {
+        "Circuit ID": "suzuka",
+        "Round": "4",
+        "Lap Number": "42",
+        "Driver ID": "piastri",
+        "Time": "1:37.548",
+        "Position": "7"
+    },
+    {
+        "Circuit ID": "suzuka",
+        "Round": "4",
+        "Lap Number": "43",
+        "Driver ID": "piastri",
+        "Time": "1:35.841",
+        "Position": "7"
+    },
+    {
+        "Circuit ID": "suzuka",
+        "Round": "4",
+        "Lap Number": "44",
+        "Driver ID": "piastri",
+        "Time": "1:35.539",
+        "Position": "7"
+    },
+    {
+        "Circuit ID": "suzuka",
+        "Round": "4",
+        "Lap Number": "45",
+        "Driver ID": "piastri",
+        "Time": "1:35.648",
+        "Position": "7"
+    },
+    {
+        "Circuit ID": "suzuka",
+        "Round": "4",
+        "Lap Number": "46",
+        "Driver ID": "piastri",
+        "Time": "1:35.755",
+        "Position": "7"
+    },
+    {
+        "Circuit ID": "suzuka",
+        "Round": "4",
+        "Lap Number": "47",
+        "Driver ID": "piastri",
+        "Time": "1:35.891",
+        "Position": "7"
+    },
+    {
+        "Circuit ID": "suzuka",
+        "Round": "4",
+        "Lap Number": "48",
+        "Driver ID": "piastri",
+        "Time": "1:35.898",
+        "Position": "7"
+    },
+    {
+        "Circuit ID": "suzuka",
+        "Round": "4",
+        "Lap Number": "49",
+        "Driver ID": "piastri",
+        "Time": "1:36.179",
+        "Position": "7"
+    },
+    {
+        "Circuit ID": "suzuka",
+        "Round": "4",
+        "Lap Number": "50",
+        "Driver ID": "piastri",
+        "Time": "1:36.228",
+        "Position": "7"
+    },
+    {
+        "Circuit ID": "suzuka",
+        "Round": "4",
+        "Lap Number": "51",
+        "Driver ID": "piastri",
+        "Time": "1:35.429",
+        "Position": "7"
+    },
+    {
+        "Circuit ID": "suzuka",
+        "Round": "4",
+        "Lap Number": "52",
+        "Driver ID": "piastri",
+        "Time": "1:36.164",
+        "Position": "7"
+    },
+    {
+        "Circuit ID": "suzuka",
+        "Round": "4",
+        "Lap Number": "53",
+        "Driver ID": "piastri",
+        "Time": "1:36.611",
+        "Position": "8"
+    },
+    {
+        "Circuit ID": "suzuka",
+        "Round": "4",
+        "Lap Number": "1",
+        "Driver ID": "hamilton",
+        "Time": "2:32.716",
+        "Position": "7"
+    },
+    {
+        "Circuit ID": "suzuka",
+        "Round": "4",
+        "Lap Number": "2",
+        "Driver ID": "hamilton",
+        "Time": "28:29.973",
+        "Position": "7"
+    },
+    {
+        "Circuit ID": "suzuka",
+        "Round": "4",
+        "Lap Number": "3",
+        "Driver ID": "hamilton",
+        "Time": "2:37.153",
+        "Position": "8"
+    },
+    {
+        "Circuit ID": "suzuka",
+        "Round": "4",
+        "Lap Number": "4",
+        "Driver ID": "hamilton",
+        "Time": "1:38.303",
+        "Position": "8"
+    },
+    {
+        "Circuit ID": "suzuka",
+        "Round": "4",
+        "Lap Number": "5",
+        "Driver ID": "hamilton",
+        "Time": "1:38.139",
+        "Position": "8"
+    },
+    {
+        "Circuit ID": "suzuka",
+        "Round": "4",
+        "Lap Number": "6",
+        "Driver ID": "hamilton",
+        "Time": "1:38.190",
+        "Position": "8"
+    },
+    {
+        "Circuit ID": "suzuka",
+        "Round": "4",
+        "Lap Number": "7",
+        "Driver ID": "hamilton",
+        "Time": "1:38.374",
+        "Position": "8"
+    },
+    {
+        "Circuit ID": "suzuka",
+        "Round": "4",
+        "Lap Number": "8",
+        "Driver ID": "hamilton",
+        "Time": "1:38.096",
+        "Position": "8"
+    },
+    {
+        "Circuit ID": "suzuka",
+        "Round": "4",
+        "Lap Number": "9",
+        "Driver ID": "hamilton",
+        "Time": "1:38.533",
+        "Position": "8"
+    },
+    {
+        "Circuit ID": "suzuka",
+        "Round": "4",
+        "Lap Number": "10",
+        "Driver ID": "hamilton",
+        "Time": "1:38.703",
+        "Position": "8"
+    },
+    {
+        "Circuit ID": "suzuka",
+        "Round": "4",
+        "Lap Number": "11",
+        "Driver ID": "hamilton",
+        "Time": "1:39.292",
+        "Position": "8"
+    },
+    {
+        "Circuit ID": "suzuka",
+        "Round": "4",
+        "Lap Number": "12",
+        "Driver ID": "hamilton",
+        "Time": "1:39.202",
+        "Position": "7"
+    },
+    {
+        "Circuit ID": "suzuka",
+        "Round": "4",
+        "Lap Number": "13",
+        "Driver ID": "hamilton",
+        "Time": "1:40.240",
+        "Position": "7"
+    },
+    {
+        "Circuit ID": "suzuka",
+        "Round": "4",
+        "Lap Number": "14",
+        "Driver ID": "hamilton",
+        "Time": "1:39.053",
+        "Position": "6"
+    },
+    {
+        "Circuit ID": "suzuka",
+        "Round": "4",
+        "Lap Number": "15",
+        "Driver ID": "hamilton",
+        "Time": "1:38.915",
+        "Position": "6"
+    },
+    {
+        "Circuit ID": "suzuka",
+        "Round": "4",
+        "Lap Number": "16",
+        "Driver ID": "hamilton",
+        "Time": "1:38.693",
+        "Position": "4"
+    },
+    {
+        "Circuit ID": "suzuka",
+        "Round": "4",
+        "Lap Number": "17",
+        "Driver ID": "hamilton",
+        "Time": "1:40.530",
+        "Position": "6"
+    },
+    {
+        "Circuit ID": "suzuka",
+        "Round": "4",
+        "Lap Number": "18",
+        "Driver ID": "hamilton",
+        "Time": "1:39.304",
+        "Position": "6"
+    },
+    {
+        "Circuit ID": "suzuka",
+        "Round": "4",
+        "Lap Number": "19",
+        "Driver ID": "hamilton",
+        "Time": "1:39.352",
+        "Position": "7"
+    },
+    {
+        "Circuit ID": "suzuka",
+        "Round": "4",
+        "Lap Number": "20",
+        "Driver ID": "hamilton",
+        "Time": "1:38.619",
+        "Position": "7"
+    },
+    {
+        "Circuit ID": "suzuka",
+        "Round": "4",
+        "Lap Number": "21",
+        "Driver ID": "hamilton",
+        "Time": "1:38.642",
+        "Position": "7"
+    },
+    {
+        "Circuit ID": "suzuka",
+        "Round": "4",
+        "Lap Number": "22",
+        "Driver ID": "hamilton",
+        "Time": "1:39.823",
+        "Position": "8"
+    },
+    {
+        "Circuit ID": "suzuka",
+        "Round": "4",
+        "Lap Number": "23",
+        "Driver ID": "hamilton",
+        "Time": "1:41.466",
+        "Position": "8"
+    },
+    {
+        "Circuit ID": "suzuka",
+        "Round": "4",
+        "Lap Number": "24",
+        "Driver ID": "hamilton",
+        "Time": "1:55.127",
+        "Position": "9"
+    },
+    {
+        "Circuit ID": "suzuka",
+        "Round": "4",
+        "Lap Number": "25",
+        "Driver ID": "hamilton",
+        "Time": "1:35.432",
+        "Position": "9"
+    },
+    {
+        "Circuit ID": "suzuka",
+        "Round": "4",
+        "Lap Number": "26",
+        "Driver ID": "hamilton",
+        "Time": "1:35.447",
+        "Position": "9"
+    },
+    {
+        "Circuit ID": "suzuka",
+        "Round": "4",
+        "Lap Number": "27",
+        "Driver ID": "hamilton",
+        "Time": "1:36.135",
+        "Position": "9"
+    },
+    {
+        "Circuit ID": "suzuka",
+        "Round": "4",
+        "Lap Number": "28",
+        "Driver ID": "hamilton",
+        "Time": "1:36.295",
+        "Position": "9"
+    },
+    {
+        "Circuit ID": "suzuka",
+        "Round": "4",
+        "Lap Number": "29",
+        "Driver ID": "hamilton",
+        "Time": "1:36.746",
+        "Position": "9"
+    },
+    {
+        "Circuit ID": "suzuka",
+        "Round": "4",
+        "Lap Number": "30",
+        "Driver ID": "hamilton",
+        "Time": "1:36.399",
+        "Position": "9"
+    },
+    {
+        "Circuit ID": "suzuka",
+        "Round": "4",
+        "Lap Number": "31",
+        "Driver ID": "hamilton",
+        "Time": "1:36.586",
+        "Position": "9"
+    },
+    {
+        "Circuit ID": "suzuka",
+        "Round": "4",
+        "Lap Number": "32",
+        "Driver ID": "hamilton",
+        "Time": "1:36.601",
+        "Position": "9"
+    },
+    {
+        "Circuit ID": "suzuka",
+        "Round": "4",
+        "Lap Number": "33",
+        "Driver ID": "hamilton",
+        "Time": "1:36.444",
+        "Position": "8"
+    },
+    {
+        "Circuit ID": "suzuka",
+        "Round": "4",
+        "Lap Number": "34",
+        "Driver ID": "hamilton",
+        "Time": "1:36.707",
+        "Position": "7"
+    },
+    {
+        "Circuit ID": "suzuka",
+        "Round": "4",
+        "Lap Number": "35",
+        "Driver ID": "hamilton",
+        "Time": "1:36.514",
+        "Position": "7"
+    },
+    {
+        "Circuit ID": "suzuka",
+        "Round": "4",
+        "Lap Number": "36",
+        "Driver ID": "hamilton",
+        "Time": "1:36.191",
+        "Position": "7"
+    },
+    {
+        "Circuit ID": "suzuka",
+        "Round": "4",
+        "Lap Number": "37",
+        "Driver ID": "hamilton",
+        "Time": "1:36.622",
+        "Position": "6"
+    },
+    {
+        "Circuit ID": "suzuka",
+        "Round": "4",
+        "Lap Number": "38",
+        "Driver ID": "hamilton",
+        "Time": "1:37.458",
+        "Position": "6"
+    },
+    {
+        "Circuit ID": "suzuka",
+        "Round": "4",
+        "Lap Number": "39",
+        "Driver ID": "hamilton",
+        "Time": "1:39.030",
+        "Position": "6"
+    },
+    {
+        "Circuit ID": "suzuka",
+        "Round": "4",
+        "Lap Number": "40",
+        "Driver ID": "hamilton",
+        "Time": "1:54.409",
+        "Position": "9"
+    },
+    {
+        "Circuit ID": "suzuka",
+        "Round": "4",
+        "Lap Number": "41",
+        "Driver ID": "hamilton",
+        "Time": "1:33.952",
+        "Position": "9"
+    },
+    {
+        "Circuit ID": "suzuka",
+        "Round": "4",
+        "Lap Number": "42",
+        "Driver ID": "hamilton",
+        "Time": "1:34.238",
+        "Position": "9"
+    },
+    {
+        "Circuit ID": "suzuka",
+        "Round": "4",
+        "Lap Number": "43",
+        "Driver ID": "hamilton",
+        "Time": "1:34.082",
+        "Position": "9"
+    },
+    {
+        "Circuit ID": "suzuka",
+        "Round": "4",
+        "Lap Number": "44",
+        "Driver ID": "hamilton",
+        "Time": "1:34.337",
+        "Position": "9"
+    },
+    {
+        "Circuit ID": "suzuka",
+        "Round": "4",
+        "Lap Number": "45",
+        "Driver ID": "hamilton",
+        "Time": "1:34.791",
+        "Position": "9"
+    },
+    {
+        "Circuit ID": "suzuka",
+        "Round": "4",
+        "Lap Number": "46",
+        "Driver ID": "hamilton",
+        "Time": "1:34.798",
+        "Position": "9"
+    },
+    {
+        "Circuit ID": "suzuka",
+        "Round": "4",
+        "Lap Number": "47",
+        "Driver ID": "hamilton",
+        "Time": "1:34.679",
+        "Position": "9"
+    },
+    {
+        "Circuit ID": "suzuka",
+        "Round": "4",
+        "Lap Number": "48",
+        "Driver ID": "hamilton",
+        "Time": "1:34.900",
+        "Position": "9"
+    },
+    {
+        "Circuit ID": "suzuka",
+        "Round": "4",
+        "Lap Number": "49",
+        "Driver ID": "hamilton",
+        "Time": "1:35.047",
+        "Position": "9"
+    },
+    {
+        "Circuit ID": "suzuka",
+        "Round": "4",
+        "Lap Number": "50",
+        "Driver ID": "hamilton",
+        "Time": "1:35.430",
+        "Position": "9"
+    },
+    {
+        "Circuit ID": "suzuka",
+        "Round": "4",
+        "Lap Number": "51",
+        "Driver ID": "hamilton",
+        "Time": "1:35.476",
+        "Position": "9"
+    },
+    {
+        "Circuit ID": "suzuka",
+        "Round": "4",
+        "Lap Number": "52",
+        "Driver ID": "hamilton",
+        "Time": "1:35.235",
+        "Position": "9"
+    },
+    {
+        "Circuit ID": "suzuka",
+        "Round": "4",
+        "Lap Number": "53",
+        "Driver ID": "hamilton",
+        "Time": "1:35.773",
+        "Position": "9"
+    },
+    {
+        "Circuit ID": "suzuka",
+        "Round": "4",
+        "Lap Number": "1",
+        "Driver ID": "tsunoda",
+        "Time": "2:47.566",
+        "Position": "12"
+    },
+    {
+        "Circuit ID": "suzuka",
+        "Round": "4",
+        "Lap Number": "2",
+        "Driver ID": "tsunoda",
+        "Time": "28:29.992",
+        "Position": "12"
+    },
+    {
+        "Circuit ID": "suzuka",
+        "Round": "4",
+        "Lap Number": "3",
+        "Driver ID": "tsunoda",
+        "Time": "2:23.191",
+        "Position": "9"
+    },
+    {
+        "Circuit ID": "suzuka",
+        "Round": "4",
+        "Lap Number": "4",
+        "Driver ID": "tsunoda",
+        "Time": "1:39.108",
+        "Position": "9"
+    },
+    {
+        "Circuit ID": "suzuka",
+        "Round": "4",
+        "Lap Number": "5",
+        "Driver ID": "tsunoda",
+        "Time": "1:39.508",
+        "Position": "10"
+    },
+    {
+        "Circuit ID": "suzuka",
+        "Round": "4",
+        "Lap Number": "6",
+        "Driver ID": "tsunoda",
+        "Time": "1:38.887",
+        "Position": "10"
+    },
+    {
+        "Circuit ID": "suzuka",
+        "Round": "4",
+        "Lap Number": "7",
+        "Driver ID": "tsunoda",
+        "Time": "1:40.998",
+        "Position": "10"
+    },
+    {
+        "Circuit ID": "suzuka",
+        "Round": "4",
+        "Lap Number": "8",
+        "Driver ID": "tsunoda",
+        "Time": "1:58.044",
+        "Position": "16"
+    },
+    {
+        "Circuit ID": "suzuka",
+        "Round": "4",
+        "Lap Number": "9",
+        "Driver ID": "tsunoda",
+        "Time": "1:37.170",
+        "Position": "16"
+    },
+    {
+        "Circuit ID": "suzuka",
+        "Round": "4",
+        "Lap Number": "10",
+        "Driver ID": "tsunoda",
+        "Time": "1:37.496",
+        "Position": "16"
+    },
+    {
+        "Circuit ID": "suzuka",
+        "Round": "4",
+        "Lap Number": "11",
+        "Driver ID": "tsunoda",
+        "Time": "1:37.895",
+        "Position": "16"
+    },
+    {
+        "Circuit ID": "suzuka",
+        "Round": "4",
+        "Lap Number": "12",
+        "Driver ID": "tsunoda",
+        "Time": "1:40.057",
+        "Position": "16"
+    },
+    {
+        "Circuit ID": "suzuka",
+        "Round": "4",
+        "Lap Number": "13",
+        "Driver ID": "tsunoda",
+        "Time": "1:38.980",
+        "Position": "14"
+    },
+    {
+        "Circuit ID": "suzuka",
+        "Round": "4",
+        "Lap Number": "14",
+        "Driver ID": "tsunoda",
+        "Time": "1:38.510",
+        "Position": "14"
+    },
+    {
+        "Circuit ID": "suzuka",
+        "Round": "4",
+        "Lap Number": "15",
+        "Driver ID": "tsunoda",
+        "Time": "1:39.925",
+        "Position": "14"
+    },
+    {
+        "Circuit ID": "suzuka",
+        "Round": "4",
+        "Lap Number": "16",
+        "Driver ID": "tsunoda",
+        "Time": "1:40.096",
+        "Position": "14"
+    },
+    {
+        "Circuit ID": "suzuka",
+        "Round": "4",
+        "Lap Number": "17",
+        "Driver ID": "tsunoda",
+        "Time": "1:37.944",
+        "Position": "13"
+    },
+    {
+        "Circuit ID": "suzuka",
+        "Round": "4",
+        "Lap Number": "18",
+        "Driver ID": "tsunoda",
+        "Time": "1:39.270",
+        "Position": "13"
+    },
+    {
+        "Circuit ID": "suzuka",
+        "Round": "4",
+        "Lap Number": "19",
+        "Driver ID": "tsunoda",
+        "Time": "1:39.658",
+        "Position": "13"
+    },
+    {
+        "Circuit ID": "suzuka",
+        "Round": "4",
+        "Lap Number": "20",
+        "Driver ID": "tsunoda",
+        "Time": "1:39.100",
+        "Position": "13"
+    },
+    {
+        "Circuit ID": "suzuka",
+        "Round": "4",
+        "Lap Number": "21",
+        "Driver ID": "tsunoda",
+        "Time": "1:39.562",
+        "Position": "13"
+    },
+    {
+        "Circuit ID": "suzuka",
+        "Round": "4",
+        "Lap Number": "22",
+        "Driver ID": "tsunoda",
+        "Time": "1:41.916",
+        "Position": "14"
+    },
+    {
+        "Circuit ID": "suzuka",
+        "Round": "4",
+        "Lap Number": "23",
+        "Driver ID": "tsunoda",
+        "Time": "1:57.251",
+        "Position": "11"
+    },
+    {
+        "Circuit ID": "suzuka",
+        "Round": "4",
+        "Lap Number": "24",
+        "Driver ID": "tsunoda",
+        "Time": "1:36.637",
+        "Position": "11"
+    },
+    {
+        "Circuit ID": "suzuka",
+        "Round": "4",
+        "Lap Number": "25",
+        "Driver ID": "tsunoda",
+        "Time": "1:37.073",
+        "Position": "11"
+    },
+    {
+        "Circuit ID": "suzuka",
+        "Round": "4",
+        "Lap Number": "26",
+        "Driver ID": "tsunoda",
+        "Time": "1:37.037",
+        "Position": "11"
+    },
+    {
+        "Circuit ID": "suzuka",
+        "Round": "4",
+        "Lap Number": "27",
+        "Driver ID": "tsunoda",
+        "Time": "1:37.184",
+        "Position": "11"
+    },
+    {
+        "Circuit ID": "suzuka",
+        "Round": "4",
+        "Lap Number": "28",
+        "Driver ID": "tsunoda",
+        "Time": "1:37.227",
+        "Position": "11"
+    },
+    {
+        "Circuit ID": "suzuka",
+        "Round": "4",
+        "Lap Number": "29",
+        "Driver ID": "tsunoda",
+        "Time": "1:37.319",
+        "Position": "11"
+    },
+    {
+        "Circuit ID": "suzuka",
+        "Round": "4",
+        "Lap Number": "30",
+        "Driver ID": "tsunoda",
+        "Time": "1:37.617",
+        "Position": "11"
+    },
+    {
+        "Circuit ID": "suzuka",
+        "Round": "4",
+        "Lap Number": "31",
+        "Driver ID": "tsunoda",
+        "Time": "1:37.676",
+        "Position": "11"
+    },
+    {
+        "Circuit ID": "suzuka",
+        "Round": "4",
+        "Lap Number": "32",
+        "Driver ID": "tsunoda",
+        "Time": "1:38.624",
+        "Position": "11"
+    },
+    {
+        "Circuit ID": "suzuka",
+        "Round": "4",
+        "Lap Number": "33",
+        "Driver ID": "tsunoda",
+        "Time": "1:38.692",
+        "Position": "10"
+    },
+    {
+        "Circuit ID": "suzuka",
+        "Round": "4",
+        "Lap Number": "34",
+        "Driver ID": "tsunoda",
+        "Time": "1:37.793",
+        "Position": "10"
+    },
+    {
+        "Circuit ID": "suzuka",
+        "Round": "4",
+        "Lap Number": "35",
+        "Driver ID": "tsunoda",
+        "Time": "1:37.626",
+        "Position": "10"
+    },
+    {
+        "Circuit ID": "suzuka",
+        "Round": "4",
+        "Lap Number": "36",
+        "Driver ID": "tsunoda",
+        "Time": "1:37.103",
+        "Position": "10"
+    },
+    {
+        "Circuit ID": "suzuka",
+        "Round": "4",
+        "Lap Number": "37",
+        "Driver ID": "tsunoda",
+        "Time": "1:37.419",
+        "Position": "10"
+    },
+    {
+        "Circuit ID": "suzuka",
+        "Round": "4",
+        "Lap Number": "38",
+        "Driver ID": "tsunoda",
+        "Time": "1:37.442",
+        "Position": "10"
+    },
+    {
+        "Circuit ID": "suzuka",
+        "Round": "4",
+        "Lap Number": "39",
+        "Driver ID": "tsunoda",
+        "Time": "1:37.595",
+        "Position": "10"
+    },
+    {
+        "Circuit ID": "suzuka",
+        "Round": "4",
+        "Lap Number": "40",
+        "Driver ID": "tsunoda",
+        "Time": "1:37.441",
+        "Position": "10"
+    },
+    {
+        "Circuit ID": "suzuka",
+        "Round": "4",
+        "Lap Number": "41",
+        "Driver ID": "tsunoda",
+        "Time": "1:37.297",
+        "Position": "10"
+    },
+    {
+        "Circuit ID": "suzuka",
+        "Round": "4",
+        "Lap Number": "42",
+        "Driver ID": "tsunoda",
+        "Time": "1:37.493",
+        "Position": "10"
+    },
+    {
+        "Circuit ID": "suzuka",
+        "Round": "4",
+        "Lap Number": "43",
+        "Driver ID": "tsunoda",
+        "Time": "1:37.498",
+        "Position": "10"
+    },
+    {
+        "Circuit ID": "suzuka",
+        "Round": "4",
+        "Lap Number": "44",
+        "Driver ID": "tsunoda",
+        "Time": "1:37.329",
+        "Position": "10"
+    },
+    {
+        "Circuit ID": "suzuka",
+        "Round": "4",
+        "Lap Number": "45",
+        "Driver ID": "tsunoda",
+        "Time": "1:37.250",
+        "Position": "10"
+    },
+    {
+        "Circuit ID": "suzuka",
+        "Round": "4",
+        "Lap Number": "46",
+        "Driver ID": "tsunoda",
+        "Time": "1:37.046",
+        "Position": "10"
+    },
+    {
+        "Circuit ID": "suzuka",
+        "Round": "4",
+        "Lap Number": "47",
+        "Driver ID": "tsunoda",
+        "Time": "1:37.106",
+        "Position": "10"
+    },
+    {
+        "Circuit ID": "suzuka",
+        "Round": "4",
+        "Lap Number": "48",
+        "Driver ID": "tsunoda",
+        "Time": "1:37.038",
+        "Position": "10"
+    },
+    {
+        "Circuit ID": "suzuka",
+        "Round": "4",
+        "Lap Number": "49",
+        "Driver ID": "tsunoda",
+        "Time": "1:36.557",
+        "Position": "10"
+    },
+    {
+        "Circuit ID": "suzuka",
+        "Round": "4",
+        "Lap Number": "50",
+        "Driver ID": "tsunoda",
+        "Time": "1:36.388",
+        "Position": "10"
+    },
+    {
+        "Circuit ID": "suzuka",
+        "Round": "4",
+        "Lap Number": "51",
+        "Driver ID": "tsunoda",
+        "Time": "1:36.342",
+        "Position": "10"
+    },
+    {
+        "Circuit ID": "suzuka",
+        "Round": "4",
+        "Lap Number": "52",
+        "Driver ID": "tsunoda",
+        "Time": "1:38.195",
+        "Position": "10"
+    },
+    {
+        "Circuit ID": "suzuka",
+        "Round": "4",
+        "Lap Number": "1",
+        "Driver ID": "hulkenberg",
+        "Time": "2:42.853",
+        "Position": "10"
+    },
+    {
+        "Circuit ID": "suzuka",
+        "Round": "4",
+        "Lap Number": "2",
+        "Driver ID": "hulkenberg",
+        "Time": "28:28.601",
+        "Position": "10"
+    },
+    {
+        "Circuit ID": "suzuka",
+        "Round": "4",
+        "Lap Number": "3",
+        "Driver ID": "hulkenberg",
+        "Time": "2:33.011",
+        "Position": "17"
+    },
+    {
+        "Circuit ID": "suzuka",
+        "Round": "4",
+        "Lap Number": "4",
+        "Driver ID": "hulkenberg",
+        "Time": "1:40.374",
+        "Position": "17"
+    },
+    {
+        "Circuit ID": "suzuka",
+        "Round": "4",
+        "Lap Number": "5",
+        "Driver ID": "hulkenberg",
+        "Time": "1:41.491",
+        "Position": "18"
+    },
+    {
+        "Circuit ID": "suzuka",
+        "Round": "4",
+        "Lap Number": "6",
+        "Driver ID": "hulkenberg",
+        "Time": "1:57.275",
+        "Position": "18"
+    },
+    {
+        "Circuit ID": "suzuka",
+        "Round": "4",
+        "Lap Number": "7",
+        "Driver ID": "hulkenberg",
+        "Time": "1:36.751",
+        "Position": "18"
+    },
+    {
+        "Circuit ID": "suzuka",
+        "Round": "4",
+        "Lap Number": "8",
+        "Driver ID": "hulkenberg",
+        "Time": "1:37.616",
+        "Position": "17"
+    },
+    {
+        "Circuit ID": "suzuka",
+        "Round": "4",
+        "Lap Number": "9",
+        "Driver ID": "hulkenberg",
+        "Time": "1:37.898",
+        "Position": "17"
+    },
+    {
+        "Circuit ID": "suzuka",
+        "Round": "4",
+        "Lap Number": "10",
+        "Driver ID": "hulkenberg",
+        "Time": "1:38.340",
+        "Position": "17"
+    },
+    {
+        "Circuit ID": "suzuka",
+        "Round": "4",
+        "Lap Number": "11",
+        "Driver ID": "hulkenberg",
+        "Time": "1:38.352",
+        "Position": "17"
+    },
+    {
+        "Circuit ID": "suzuka",
+        "Round": "4",
+        "Lap Number": "12",
+        "Driver ID": "hulkenberg",
+        "Time": "1:38.847",
+        "Position": "17"
+    },
+    {
+        "Circuit ID": "suzuka",
+        "Round": "4",
+        "Lap Number": "13",
+        "Driver ID": "hulkenberg",
+        "Time": "1:40.302",
+        "Position": "16"
+    },
+    {
+        "Circuit ID": "suzuka",
+        "Round": "4",
+        "Lap Number": "14",
+        "Driver ID": "hulkenberg",
+        "Time": "1:38.617",
+        "Position": "15"
+    },
+    {
+        "Circuit ID": "suzuka",
+        "Round": "4",
+        "Lap Number": "15",
+        "Driver ID": "hulkenberg",
+        "Time": "1:39.624",
+        "Position": "16"
+    },
+    {
+        "Circuit ID": "suzuka",
+        "Round": "4",
+        "Lap Number": "16",
+        "Driver ID": "hulkenberg",
+        "Time": "1:39.355",
+        "Position": "16"
+    },
+    {
+        "Circuit ID": "suzuka",
+        "Round": "4",
+        "Lap Number": "17",
+        "Driver ID": "hulkenberg",
+        "Time": "1:39.312",
+        "Position": "16"
+    },
+    {
+        "Circuit ID": "suzuka",
+        "Round": "4",
+        "Lap Number": "18",
+        "Driver ID": "hulkenberg",
+        "Time": "1:38.476",
+        "Position": "15"
+    },
+    {
+        "Circuit ID": "suzuka",
+        "Round": "4",
+        "Lap Number": "19",
+        "Driver ID": "hulkenberg",
+        "Time": "1:38.894",
+        "Position": "15"
+    },
+    {
+        "Circuit ID": "suzuka",
+        "Round": "4",
+        "Lap Number": "20",
+        "Driver ID": "hulkenberg",
+        "Time": "1:39.343",
+        "Position": "15"
+    },
+    {
+        "Circuit ID": "suzuka",
+        "Round": "4",
+        "Lap Number": "21",
+        "Driver ID": "hulkenberg",
+        "Time": "1:39.780",
+        "Position": "15"
+    },
+    {
+        "Circuit ID": "suzuka",
+        "Round": "4",
+        "Lap Number": "22",
+        "Driver ID": "hulkenberg",
+        "Time": "1:39.694",
+        "Position": "13"
+    },
+    {
+        "Circuit ID": "suzuka",
+        "Round": "4",
+        "Lap Number": "23",
+        "Driver ID": "hulkenberg",
+        "Time": "1:38.965",
+        "Position": "10"
+    },
+    {
+        "Circuit ID": "suzuka",
+        "Round": "4",
+        "Lap Number": "24",
+        "Driver ID": "hulkenberg",
+        "Time": "1:39.261",
+        "Position": "10"
+    },
+    {
+        "Circuit ID": "suzuka",
+        "Round": "4",
+        "Lap Number": "25",
+        "Driver ID": "hulkenberg",
+        "Time": "1:38.781",
+        "Position": "10"
+    },
+    {
+        "Circuit ID": "suzuka",
+        "Round": "4",
+        "Lap Number": "26",
+        "Driver ID": "hulkenberg",
+        "Time": "1:39.042",
+        "Position": "10"
+    },
+    {
+        "Circuit ID": "suzuka",
+        "Round": "4",
+        "Lap Number": "27",
+        "Driver ID": "hulkenberg",
+        "Time": "1:39.256",
+        "Position": "10"
+    },
+    {
+        "Circuit ID": "suzuka",
+        "Round": "4",
+        "Lap Number": "28",
+        "Driver ID": "hulkenberg",
+        "Time": "1:39.170",
+        "Position": "10"
+    },
+    {
+        "Circuit ID": "suzuka",
+        "Round": "4",
+        "Lap Number": "29",
+        "Driver ID": "hulkenberg",
+        "Time": "1:39.951",
+        "Position": "10"
+    },
+    {
+        "Circuit ID": "suzuka",
+        "Round": "4",
+        "Lap Number": "30",
+        "Driver ID": "hulkenberg",
+        "Time": "1:39.183",
+        "Position": "10"
+    },
+    {
+        "Circuit ID": "suzuka",
+        "Round": "4",
+        "Lap Number": "31",
+        "Driver ID": "hulkenberg",
+        "Time": "1:39.465",
+        "Position": "10"
+    },
+    {
+        "Circuit ID": "suzuka",
+        "Round": "4",
+        "Lap Number": "32",
+        "Driver ID": "hulkenberg",
+        "Time": "1:40.248",
+        "Position": "10"
+    },
+    {
+        "Circuit ID": "suzuka",
+        "Round": "4",
+        "Lap Number": "33",
+        "Driver ID": "hulkenberg",
+        "Time": "1:43.896",
+        "Position": "13"
+    },
+    {
+        "Circuit ID": "suzuka",
+        "Round": "4",
+        "Lap Number": "34",
+        "Driver ID": "hulkenberg",
+        "Time": "1:57.385",
+        "Position": "15"
+    },
+    {
+        "Circuit ID": "suzuka",
+        "Round": "4",
+        "Lap Number": "35",
+        "Driver ID": "hulkenberg",
+        "Time": "1:35.937",
+        "Position": "14"
+    },
+    {
+        "Circuit ID": "suzuka",
+        "Round": "4",
+        "Lap Number": "36",
+        "Driver ID": "hulkenberg",
+        "Time": "1:35.858",
+        "Position": "14"
+    },
+    {
+        "Circuit ID": "suzuka",
+        "Round": "4",
+        "Lap Number": "37",
+        "Driver ID": "hulkenberg",
+        "Time": "1:35.933",
+        "Position": "14"
+    },
+    {
+        "Circuit ID": "suzuka",
+        "Round": "4",
+        "Lap Number": "38",
+        "Driver ID": "hulkenberg",
+        "Time": "1:36.130",
+        "Position": "14"
+    },
+    {
+        "Circuit ID": "suzuka",
+        "Round": "4",
+        "Lap Number": "39",
+        "Driver ID": "hulkenberg",
+        "Time": "1:35.853",
+        "Position": "14"
+    },
+    {
+        "Circuit ID": "suzuka",
+        "Round": "4",
+        "Lap Number": "40",
+        "Driver ID": "hulkenberg",
+        "Time": "1:35.705",
+        "Position": "14"
+    },
+    {
+        "Circuit ID": "suzuka",
+        "Round": "4",
+        "Lap Number": "41",
+        "Driver ID": "hulkenberg",
+        "Time": "1:35.947",
+        "Position": "14"
+    },
+    {
+        "Circuit ID": "suzuka",
+        "Round": "4",
+        "Lap Number": "42",
+        "Driver ID": "hulkenberg",
+        "Time": "1:36.374",
+        "Position": "14"
+    },
+    {
+        "Circuit ID": "suzuka",
+        "Round": "4",
+        "Lap Number": "43",
+        "Driver ID": "hulkenberg",
+        "Time": "1:36.151",
+        "Position": "14"
+    },
+    {
+        "Circuit ID": "suzuka",
+        "Round": "4",
+        "Lap Number": "44",
+        "Driver ID": "hulkenberg",
+        "Time": "1:36.769",
+        "Position": "14"
+    },
+    {
+        "Circuit ID": "suzuka",
+        "Round": "4",
+        "Lap Number": "45",
+        "Driver ID": "hulkenberg",
+        "Time": "1:36.808",
+        "Position": "14"
+    },
+    {
+        "Circuit ID": "suzuka",
+        "Round": "4",
+        "Lap Number": "46",
+        "Driver ID": "hulkenberg",
+        "Time": "1:38.169",
+        "Position": "13"
+    },
+    {
+        "Circuit ID": "suzuka",
+        "Round": "4",
+        "Lap Number": "47",
+        "Driver ID": "hulkenberg",
+        "Time": "1:36.827",
+        "Position": "13"
+    },
+    {
+        "Circuit ID": "suzuka",
+        "Round": "4",
+        "Lap Number": "48",
+        "Driver ID": "hulkenberg",
+        "Time": "1:35.733",
+        "Position": "12"
+    },
+    {
+        "Circuit ID": "suzuka",
+        "Round": "4",
+        "Lap Number": "49",
+        "Driver ID": "hulkenberg",
+        "Time": "1:36.235",
+        "Position": "12"
+    },
+    {
+        "Circuit ID": "suzuka",
+        "Round": "4",
+        "Lap Number": "50",
+        "Driver ID": "hulkenberg",
+        "Time": "1:35.718",
+        "Position": "12"
+    },
+    {
+        "Circuit ID": "suzuka",
+        "Round": "4",
+        "Lap Number": "51",
+        "Driver ID": "hulkenberg",
+        "Time": "1:35.853",
+        "Position": "12"
+    },
+    {
+        "Circuit ID": "suzuka",
+        "Round": "4",
+        "Lap Number": "52",
+        "Driver ID": "hulkenberg",
+        "Time": "1:35.325",
+        "Position": "11"
+    },
+    {
+        "Circuit ID": "suzuka",
+        "Round": "4",
+        "Lap Number": "1",
+        "Driver ID": "stroll",
+        "Time": "2:59.595",
+        "Position": "15"
+    },
+    {
+        "Circuit ID": "suzuka",
+        "Round": "4",
+        "Lap Number": "2",
+        "Driver ID": "stroll",
+        "Time": "28:28.558",
+        "Position": "15"
+    },
+    {
+        "Circuit ID": "suzuka",
+        "Round": "4",
+        "Lap Number": "3",
+        "Driver ID": "stroll",
+        "Time": "2:14.682",
+        "Position": "13"
+    },
+    {
+        "Circuit ID": "suzuka",
+        "Round": "4",
+        "Lap Number": "4",
+        "Driver ID": "stroll",
+        "Time": "1:39.528",
+        "Position": "13"
+    },
+    {
+        "Circuit ID": "suzuka",
+        "Round": "4",
+        "Lap Number": "5",
+        "Driver ID": "stroll",
+        "Time": "1:39.552",
+        "Position": "13"
+    },
+    {
+        "Circuit ID": "suzuka",
+        "Round": "4",
+        "Lap Number": "6",
+        "Driver ID": "stroll",
+        "Time": "1:38.746",
+        "Position": "11"
+    },
+    {
+        "Circuit ID": "suzuka",
+        "Round": "4",
+        "Lap Number": "7",
+        "Driver ID": "stroll",
+        "Time": "1:38.624",
+        "Position": "11"
+    },
+    {
+        "Circuit ID": "suzuka",
+        "Round": "4",
+        "Lap Number": "8",
+        "Driver ID": "stroll",
+        "Time": "1:38.610",
+        "Position": "10"
+    },
+    {
+        "Circuit ID": "suzuka",
+        "Round": "4",
+        "Lap Number": "9",
+        "Driver ID": "stroll",
+        "Time": "1:38.881",
+        "Position": "10"
+    },
+    {
+        "Circuit ID": "suzuka",
+        "Round": "4",
+        "Lap Number": "10",
+        "Driver ID": "stroll",
+        "Time": "1:39.052",
+        "Position": "10"
+    },
+    {
+        "Circuit ID": "suzuka",
+        "Round": "4",
+        "Lap Number": "11",
+        "Driver ID": "stroll",
+        "Time": "1:39.103",
+        "Position": "10"
+    },
+    {
+        "Circuit ID": "suzuka",
+        "Round": "4",
+        "Lap Number": "12",
+        "Driver ID": "stroll",
+        "Time": "1:41.638",
+        "Position": "10"
+    },
+    {
+        "Circuit ID": "suzuka",
+        "Round": "4",
+        "Lap Number": "13",
+        "Driver ID": "stroll",
+        "Time": "1:56.221",
+        "Position": "17"
+    },
+    {
+        "Circuit ID": "suzuka",
+        "Round": "4",
+        "Lap Number": "14",
+        "Driver ID": "stroll",
+        "Time": "1:37.935",
+        "Position": "16"
+    },
+    {
+        "Circuit ID": "suzuka",
+        "Round": "4",
+        "Lap Number": "15",
+        "Driver ID": "stroll",
+        "Time": "1:38.125",
+        "Position": "15"
+    },
+    {
+        "Circuit ID": "suzuka",
+        "Round": "4",
+        "Lap Number": "16",
+        "Driver ID": "stroll",
+        "Time": "1:39.274",
+        "Position": "15"
+    },
+    {
+        "Circuit ID": "suzuka",
+        "Round": "4",
+        "Lap Number": "17",
+        "Driver ID": "stroll",
+        "Time": "1:38.057",
+        "Position": "14"
+    },
+    {
+        "Circuit ID": "suzuka",
+        "Round": "4",
+        "Lap Number": "18",
+        "Driver ID": "stroll",
+        "Time": "1:38.843",
+        "Position": "14"
+    },
+    {
+        "Circuit ID": "suzuka",
+        "Round": "4",
+        "Lap Number": "19",
+        "Driver ID": "stroll",
+        "Time": "1:39.757",
+        "Position": "14"
+    },
+    {
+        "Circuit ID": "suzuka",
+        "Round": "4",
+        "Lap Number": "20",
+        "Driver ID": "stroll",
+        "Time": "1:39.248",
+        "Position": "14"
+    },
+    {
+        "Circuit ID": "suzuka",
+        "Round": "4",
+        "Lap Number": "21",
+        "Driver ID": "stroll",
+        "Time": "1:39.552",
+        "Position": "14"
+    },
+    {
+        "Circuit ID": "suzuka",
+        "Round": "4",
+        "Lap Number": "22",
+        "Driver ID": "stroll",
+        "Time": "1:42.328",
+        "Position": "15"
+    },
+    {
+        "Circuit ID": "suzuka",
+        "Round": "4",
+        "Lap Number": "23",
+        "Driver ID": "stroll",
+        "Time": "1:56.743",
+        "Position": "12"
+    },
+    {
+        "Circuit ID": "suzuka",
+        "Round": "4",
+        "Lap Number": "24",
+        "Driver ID": "stroll",
+        "Time": "1:36.761",
+        "Position": "12"
+    },
+    {
+        "Circuit ID": "suzuka",
+        "Round": "4",
+        "Lap Number": "25",
+        "Driver ID": "stroll",
+        "Time": "1:36.995",
+        "Position": "12"
+    },
+    {
+        "Circuit ID": "suzuka",
+        "Round": "4",
+        "Lap Number": "26",
+        "Driver ID": "stroll",
+        "Time": "1:37.307",
+        "Position": "12"
+    },
+    {
+        "Circuit ID": "suzuka",
+        "Round": "4",
+        "Lap Number": "27",
+        "Driver ID": "stroll",
+        "Time": "1:37.244",
+        "Position": "12"
+    },
+    {
+        "Circuit ID": "suzuka",
+        "Round": "4",
+        "Lap Number": "28",
+        "Driver ID": "stroll",
+        "Time": "1:37.088",
+        "Position": "12"
+    },
+    {
+        "Circuit ID": "suzuka",
+        "Round": "4",
+        "Lap Number": "29",
+        "Driver ID": "stroll",
+        "Time": "1:37.633",
+        "Position": "12"
+    },
+    {
+        "Circuit ID": "suzuka",
+        "Round": "4",
+        "Lap Number": "30",
+        "Driver ID": "stroll",
+        "Time": "1:37.361",
+        "Position": "12"
+    },
+    {
+        "Circuit ID": "suzuka",
+        "Round": "4",
+        "Lap Number": "31",
+        "Driver ID": "stroll",
+        "Time": "1:37.729",
+        "Position": "12"
+    },
+    {
+        "Circuit ID": "suzuka",
+        "Round": "4",
+        "Lap Number": "32",
+        "Driver ID": "stroll",
+        "Time": "1:38.202",
+        "Position": "12"
+    },
+    {
+        "Circuit ID": "suzuka",
+        "Round": "4",
+        "Lap Number": "33",
+        "Driver ID": "stroll",
+        "Time": "1:39.609",
+        "Position": "11"
+    },
+    {
+        "Circuit ID": "suzuka",
+        "Round": "4",
+        "Lap Number": "34",
+        "Driver ID": "stroll",
+        "Time": "1:39.550",
+        "Position": "11"
+    },
+    {
+        "Circuit ID": "suzuka",
+        "Round": "4",
+        "Lap Number": "35",
+        "Driver ID": "stroll",
+        "Time": "1:53.728",
+        "Position": "13"
+    },
+    {
+        "Circuit ID": "suzuka",
+        "Round": "4",
+        "Lap Number": "36",
+        "Driver ID": "stroll",
+        "Time": "1:35.973",
+        "Position": "13"
+    },
+    {
+        "Circuit ID": "suzuka",
+        "Round": "4",
+        "Lap Number": "37",
+        "Driver ID": "stroll",
+        "Time": "1:36.284",
+        "Position": "13"
+    },
+    {
+        "Circuit ID": "suzuka",
+        "Round": "4",
+        "Lap Number": "38",
+        "Driver ID": "stroll",
+        "Time": "1:36.356",
+        "Position": "13"
+    },
+    {
+        "Circuit ID": "suzuka",
+        "Round": "4",
+        "Lap Number": "39",
+        "Driver ID": "stroll",
+        "Time": "1:36.614",
+        "Position": "13"
+    },
+    {
+        "Circuit ID": "suzuka",
+        "Round": "4",
+        "Lap Number": "40",
+        "Driver ID": "stroll",
+        "Time": "1:35.844",
+        "Position": "13"
+    },
+    {
+        "Circuit ID": "suzuka",
+        "Round": "4",
+        "Lap Number": "41",
+        "Driver ID": "stroll",
+        "Time": "1:35.798",
+        "Position": "13"
+    },
+    {
+        "Circuit ID": "suzuka",
+        "Round": "4",
+        "Lap Number": "42",
+        "Driver ID": "stroll",
+        "Time": "1:36.556",
+        "Position": "13"
+    },
+    {
+        "Circuit ID": "suzuka",
+        "Round": "4",
+        "Lap Number": "43",
+        "Driver ID": "stroll",
+        "Time": "1:36.503",
+        "Position": "13"
+    },
+    {
+        "Circuit ID": "suzuka",
+        "Round": "4",
+        "Lap Number": "44",
+        "Driver ID": "stroll",
+        "Time": "1:36.485",
+        "Position": "13"
+    },
+    {
+        "Circuit ID": "suzuka",
+        "Round": "4",
+        "Lap Number": "45",
+        "Driver ID": "stroll",
+        "Time": "1:36.806",
+        "Position": "12"
+    },
+    {
+        "Circuit ID": "suzuka",
+        "Round": "4",
+        "Lap Number": "46",
+        "Driver ID": "stroll",
+        "Time": "1:36.350",
+        "Position": "11"
+    },
+    {
+        "Circuit ID": "suzuka",
+        "Round": "4",
+        "Lap Number": "47",
+        "Driver ID": "stroll",
+        "Time": "1:36.704",
+        "Position": "11"
+    },
+    {
+        "Circuit ID": "suzuka",
+        "Round": "4",
+        "Lap Number": "48",
+        "Driver ID": "stroll",
+        "Time": "1:38.033",
+        "Position": "11"
+    },
+    {
+        "Circuit ID": "suzuka",
+        "Round": "4",
+        "Lap Number": "49",
+        "Driver ID": "stroll",
+        "Time": "1:36.381",
+        "Position": "11"
+    },
+    {
+        "Circuit ID": "suzuka",
+        "Round": "4",
+        "Lap Number": "50",
+        "Driver ID": "stroll",
+        "Time": "1:36.165",
+        "Position": "11"
+    },
+    {
+        "Circuit ID": "suzuka",
+        "Round": "4",
+        "Lap Number": "51",
+        "Driver ID": "stroll",
+        "Time": "1:36.270",
+        "Position": "11"
+    },
+    {
+        "Circuit ID": "suzuka",
+        "Round": "4",
+        "Lap Number": "52",
+        "Driver ID": "stroll",
+        "Time": "1:39.818",
+        "Position": "12"
+    },
+    {
+        "Circuit ID": "suzuka",
+        "Round": "4",
+        "Lap Number": "1",
+        "Driver ID": "kevin_magnussen",
+        "Time": "3:05.172",
+        "Position": "16"
+    },
+    {
+        "Circuit ID": "suzuka",
+        "Round": "4",
+        "Lap Number": "2",
+        "Driver ID": "kevin_magnussen",
+        "Time": "28:25.561",
+        "Position": "16"
+    },
+    {
+        "Circuit ID": "suzuka",
+        "Round": "4",
+        "Lap Number": "3",
+        "Driver ID": "kevin_magnussen",
+        "Time": "2:12.996",
+        "Position": "15"
+    },
+    {
+        "Circuit ID": "suzuka",
+        "Round": "4",
+        "Lap Number": "4",
+        "Driver ID": "kevin_magnussen",
+        "Time": "1:40.103",
+        "Position": "15"
+    },
+    {
+        "Circuit ID": "suzuka",
+        "Round": "4",
+        "Lap Number": "5",
+        "Driver ID": "kevin_magnussen",
+        "Time": "1:39.392",
+        "Position": "15"
+    },
+    {
+        "Circuit ID": "suzuka",
+        "Round": "4",
+        "Lap Number": "6",
+        "Driver ID": "kevin_magnussen",
+        "Time": "1:40.026",
+        "Position": "15"
+    },
+    {
+        "Circuit ID": "suzuka",
+        "Round": "4",
+        "Lap Number": "7",
+        "Driver ID": "kevin_magnussen",
+        "Time": "1:40.357",
+        "Position": "14"
+    },
+    {
+        "Circuit ID": "suzuka",
+        "Round": "4",
+        "Lap Number": "8",
+        "Driver ID": "kevin_magnussen",
+        "Time": "1:39.601",
+        "Position": "12"
+    },
+    {
+        "Circuit ID": "suzuka",
+        "Round": "4",
+        "Lap Number": "9",
+        "Driver ID": "kevin_magnussen",
+        "Time": "1:40.251",
+        "Position": "12"
+    },
+    {
+        "Circuit ID": "suzuka",
+        "Round": "4",
+        "Lap Number": "10",
+        "Driver ID": "kevin_magnussen",
+        "Time": "1:40.177",
+        "Position": "12"
+    },
+    {
+        "Circuit ID": "suzuka",
+        "Round": "4",
+        "Lap Number": "11",
+        "Driver ID": "kevin_magnussen",
+        "Time": "1:39.900",
+        "Position": "12"
+    },
+    {
+        "Circuit ID": "suzuka",
+        "Round": "4",
+        "Lap Number": "12",
+        "Driver ID": "kevin_magnussen",
+        "Time": "1:40.260",
+        "Position": "12"
+    },
+    {
+        "Circuit ID": "suzuka",
+        "Round": "4",
+        "Lap Number": "13",
+        "Driver ID": "kevin_magnussen",
+        "Time": "1:39.267",
+        "Position": "9"
+    },
+    {
+        "Circuit ID": "suzuka",
+        "Round": "4",
+        "Lap Number": "14",
+        "Driver ID": "kevin_magnussen",
+        "Time": "1:40.786",
+        "Position": "10"
+    },
+    {
+        "Circuit ID": "suzuka",
+        "Round": "4",
+        "Lap Number": "15",
+        "Driver ID": "kevin_magnussen",
+        "Time": "1:39.373",
+        "Position": "10"
+    },
+    {
+        "Circuit ID": "suzuka",
+        "Round": "4",
+        "Lap Number": "16",
+        "Driver ID": "kevin_magnussen",
+        "Time": "1:39.814",
+        "Position": "10"
+    },
+    {
+        "Circuit ID": "suzuka",
+        "Round": "4",
+        "Lap Number": "17",
+        "Driver ID": "kevin_magnussen",
+        "Time": "1:39.728",
+        "Position": "10"
+    },
+    {
+        "Circuit ID": "suzuka",
+        "Round": "4",
+        "Lap Number": "18",
+        "Driver ID": "kevin_magnussen",
+        "Time": "1:39.665",
+        "Position": "10"
+    },
+    {
+        "Circuit ID": "suzuka",
+        "Round": "4",
+        "Lap Number": "19",
+        "Driver ID": "kevin_magnussen",
+        "Time": "1:39.538",
+        "Position": "10"
+    },
+    {
+        "Circuit ID": "suzuka",
+        "Round": "4",
+        "Lap Number": "20",
+        "Driver ID": "kevin_magnussen",
+        "Time": "1:39.262",
+        "Position": "10"
+    },
+    {
+        "Circuit ID": "suzuka",
+        "Round": "4",
+        "Lap Number": "21",
+        "Driver ID": "kevin_magnussen",
+        "Time": "1:39.545",
+        "Position": "10"
+    },
+    {
+        "Circuit ID": "suzuka",
+        "Round": "4",
+        "Lap Number": "22",
+        "Driver ID": "kevin_magnussen",
+        "Time": "1:42.164",
+        "Position": "10"
+    },
+    {
+        "Circuit ID": "suzuka",
+        "Round": "4",
+        "Lap Number": "23",
+        "Driver ID": "kevin_magnussen",
+        "Time": "2:01.576",
+        "Position": "14"
+    },
+    {
+        "Circuit ID": "suzuka",
+        "Round": "4",
+        "Lap Number": "24",
+        "Driver ID": "kevin_magnussen",
+        "Time": "1:36.654",
+        "Position": "13"
+    },
+    {
+        "Circuit ID": "suzuka",
+        "Round": "4",
+        "Lap Number": "25",
+        "Driver ID": "kevin_magnussen",
+        "Time": "1:37.033",
+        "Position": "13"
+    },
+    {
+        "Circuit ID": "suzuka",
+        "Round": "4",
+        "Lap Number": "26",
+        "Driver ID": "kevin_magnussen",
+        "Time": "1:37.145",
+        "Position": "13"
+    },
+    {
+        "Circuit ID": "suzuka",
+        "Round": "4",
+        "Lap Number": "27",
+        "Driver ID": "kevin_magnussen",
+        "Time": "1:37.395",
+        "Position": "13"
+    },
+    {
+        "Circuit ID": "suzuka",
+        "Round": "4",
+        "Lap Number": "28",
+        "Driver ID": "kevin_magnussen",
+        "Time": "1:37.504",
+        "Position": "13"
+    },
+    {
+        "Circuit ID": "suzuka",
+        "Round": "4",
+        "Lap Number": "29",
+        "Driver ID": "kevin_magnussen",
+        "Time": "1:37.888",
+        "Position": "13"
+    },
+    {
+        "Circuit ID": "suzuka",
+        "Round": "4",
+        "Lap Number": "30",
+        "Driver ID": "kevin_magnussen",
+        "Time": "1:38.014",
+        "Position": "13"
+    },
+    {
+        "Circuit ID": "suzuka",
+        "Round": "4",
+        "Lap Number": "31",
+        "Driver ID": "kevin_magnussen",
+        "Time": "1:38.498",
+        "Position": "13"
+    },
+    {
+        "Circuit ID": "suzuka",
+        "Round": "4",
+        "Lap Number": "32",
+        "Driver ID": "kevin_magnussen",
+        "Time": "1:38.657",
+        "Position": "13"
+    },
+    {
+        "Circuit ID": "suzuka",
+        "Round": "4",
+        "Lap Number": "33",
+        "Driver ID": "kevin_magnussen",
+        "Time": "1:38.580",
+        "Position": "12"
+    },
+    {
+        "Circuit ID": "suzuka",
+        "Round": "4",
+        "Lap Number": "34",
+        "Driver ID": "kevin_magnussen",
+        "Time": "1:37.930",
+        "Position": "12"
+    },
+    {
+        "Circuit ID": "suzuka",
+        "Round": "4",
+        "Lap Number": "35",
+        "Driver ID": "kevin_magnussen",
+        "Time": "1:38.046",
+        "Position": "11"
+    },
+    {
+        "Circuit ID": "suzuka",
+        "Round": "4",
+        "Lap Number": "36",
+        "Driver ID": "kevin_magnussen",
+        "Time": "1:38.078",
+        "Position": "11"
+    },
+    {
+        "Circuit ID": "suzuka",
+        "Round": "4",
+        "Lap Number": "37",
+        "Driver ID": "kevin_magnussen",
+        "Time": "1:37.662",
+        "Position": "11"
+    },
+    {
+        "Circuit ID": "suzuka",
+        "Round": "4",
+        "Lap Number": "38",
+        "Driver ID": "kevin_magnussen",
+        "Time": "1:37.789",
+        "Position": "11"
+    },
+    {
+        "Circuit ID": "suzuka",
+        "Round": "4",
+        "Lap Number": "39",
+        "Driver ID": "kevin_magnussen",
+        "Time": "1:37.553",
+        "Position": "11"
+    },
+    {
+        "Circuit ID": "suzuka",
+        "Round": "4",
+        "Lap Number": "40",
+        "Driver ID": "kevin_magnussen",
+        "Time": "1:37.542",
+        "Position": "11"
+    },
+    {
+        "Circuit ID": "suzuka",
+        "Round": "4",
+        "Lap Number": "41",
+        "Driver ID": "kevin_magnussen",
+        "Time": "1:37.513",
+        "Position": "11"
+    },
+    {
+        "Circuit ID": "suzuka",
+        "Round": "4",
+        "Lap Number": "42",
+        "Driver ID": "kevin_magnussen",
+        "Time": "1:37.968",
+        "Position": "11"
+    },
+    {
+        "Circuit ID": "suzuka",
+        "Round": "4",
+        "Lap Number": "43",
+        "Driver ID": "kevin_magnussen",
+        "Time": "1:37.376",
+        "Position": "11"
+    },
+    {
+        "Circuit ID": "suzuka",
+        "Round": "4",
+        "Lap Number": "44",
+        "Driver ID": "kevin_magnussen",
+        "Time": "1:37.475",
+        "Position": "11"
+    },
+    {
+        "Circuit ID": "suzuka",
+        "Round": "4",
+        "Lap Number": "45",
+        "Driver ID": "kevin_magnussen",
+        "Time": "1:37.674",
+        "Position": "11"
+    },
+    {
+        "Circuit ID": "suzuka",
+        "Round": "4",
+        "Lap Number": "46",
+        "Driver ID": "kevin_magnussen",
+        "Time": "1:38.332",
+        "Position": "12"
+    },
+    {
+        "Circuit ID": "suzuka",
+        "Round": "4",
+        "Lap Number": "47",
+        "Driver ID": "kevin_magnussen",
+        "Time": "1:38.707",
+        "Position": "12"
+    },
+    {
+        "Circuit ID": "suzuka",
+        "Round": "4",
+        "Lap Number": "48",
+        "Driver ID": "kevin_magnussen",
+        "Time": "1:38.319",
+        "Position": "13"
+    },
+    {
+        "Circuit ID": "suzuka",
+        "Round": "4",
+        "Lap Number": "49",
+        "Driver ID": "kevin_magnussen",
+        "Time": "1:37.519",
+        "Position": "13"
+    },
+    {
+        "Circuit ID": "suzuka",
+        "Round": "4",
+        "Lap Number": "50",
+        "Driver ID": "kevin_magnussen",
+        "Time": "1:37.420",
+        "Position": "13"
+    },
+    {
+        "Circuit ID": "suzuka",
+        "Round": "4",
+        "Lap Number": "51",
+        "Driver ID": "kevin_magnussen",
+        "Time": "1:38.878",
+        "Position": "13"
+    },
+    {
+        "Circuit ID": "suzuka",
+        "Round": "4",
+        "Lap Number": "52",
+        "Driver ID": "kevin_magnussen",
+        "Time": "1:37.822",
+        "Position": "13"
+    },
+    {
+        "Circuit ID": "suzuka",
+        "Round": "4",
+        "Lap Number": "1",
+        "Driver ID": "bottas",
+        "Time": "2:44.736",
+        "Position": "11"
+    },
+    {
+        "Circuit ID": "suzuka",
+        "Round": "4",
+        "Lap Number": "2",
+        "Driver ID": "bottas",
+        "Time": "28:28.578",
+        "Position": "11"
+    },
+    {
+        "Circuit ID": "suzuka",
+        "Round": "4",
+        "Lap Number": "3",
+        "Driver ID": "bottas",
+        "Time": "2:28.991",
+        "Position": "12"
+    },
+    {
+        "Circuit ID": "suzuka",
+        "Round": "4",
+        "Lap Number": "4",
+        "Driver ID": "bottas",
+        "Time": "1:39.462",
+        "Position": "12"
+    },
+    {
+        "Circuit ID": "suzuka",
+        "Round": "4",
+        "Lap Number": "5",
+        "Driver ID": "bottas",
+        "Time": "1:38.279",
+        "Position": "11"
+    },
+    {
+        "Circuit ID": "suzuka",
+        "Round": "4",
+        "Lap Number": "6",
+        "Driver ID": "bottas",
+        "Time": "1:41.288",
+        "Position": "12"
+    },
+    {
+        "Circuit ID": "suzuka",
+        "Round": "4",
+        "Lap Number": "7",
+        "Driver ID": "bottas",
+        "Time": "1:57.449",
+        "Position": "17"
+    },
+    {
+        "Circuit ID": "suzuka",
+        "Round": "4",
+        "Lap Number": "8",
+        "Driver ID": "bottas",
+        "Time": "1:36.706",
+        "Position": "15"
+    },
+    {
+        "Circuit ID": "suzuka",
+        "Round": "4",
+        "Lap Number": "9",
+        "Driver ID": "bottas",
+        "Time": "1:37.406",
+        "Position": "15"
+    },
+    {
+        "Circuit ID": "suzuka",
+        "Round": "4",
+        "Lap Number": "10",
+        "Driver ID": "bottas",
+        "Time": "1:37.451",
+        "Position": "15"
+    },
+    {
+        "Circuit ID": "suzuka",
+        "Round": "4",
+        "Lap Number": "11",
+        "Driver ID": "bottas",
+        "Time": "1:38.432",
+        "Position": "15"
+    },
+    {
+        "Circuit ID": "suzuka",
+        "Round": "4",
+        "Lap Number": "12",
+        "Driver ID": "bottas",
+        "Time": "1:40.691",
+        "Position": "15"
+    },
+    {
+        "Circuit ID": "suzuka",
+        "Round": "4",
+        "Lap Number": "13",
+        "Driver ID": "bottas",
+        "Time": "1:38.282",
+        "Position": "13"
+    },
+    {
+        "Circuit ID": "suzuka",
+        "Round": "4",
+        "Lap Number": "14",
+        "Driver ID": "bottas",
+        "Time": "1:38.717",
+        "Position": "13"
+    },
+    {
+        "Circuit ID": "suzuka",
+        "Round": "4",
+        "Lap Number": "15",
+        "Driver ID": "bottas",
+        "Time": "1:40.420",
+        "Position": "13"
+    },
+    {
+        "Circuit ID": "suzuka",
+        "Round": "4",
+        "Lap Number": "16",
+        "Driver ID": "bottas",
+        "Time": "1:38.633",
+        "Position": "12"
+    },
+    {
+        "Circuit ID": "suzuka",
+        "Round": "4",
+        "Lap Number": "17",
+        "Driver ID": "bottas",
+        "Time": "1:38.718",
+        "Position": "12"
+    },
+    {
+        "Circuit ID": "suzuka",
+        "Round": "4",
+        "Lap Number": "18",
+        "Driver ID": "bottas",
+        "Time": "1:38.830",
+        "Position": "11"
+    },
+    {
+        "Circuit ID": "suzuka",
+        "Round": "4",
+        "Lap Number": "19",
+        "Driver ID": "bottas",
+        "Time": "1:39.632",
+        "Position": "11"
+    },
+    {
+        "Circuit ID": "suzuka",
+        "Round": "4",
+        "Lap Number": "20",
+        "Driver ID": "bottas",
+        "Time": "1:39.113",
+        "Position": "11"
+    },
+    {
+        "Circuit ID": "suzuka",
+        "Round": "4",
+        "Lap Number": "21",
+        "Driver ID": "bottas",
+        "Time": "1:39.457",
+        "Position": "11"
+    },
+    {
+        "Circuit ID": "suzuka",
+        "Round": "4",
+        "Lap Number": "22",
+        "Driver ID": "bottas",
+        "Time": "1:42.311",
+        "Position": "11"
+    },
+    {
+        "Circuit ID": "suzuka",
+        "Round": "4",
+        "Lap Number": "23",
+        "Driver ID": "bottas",
+        "Time": "2:01.647",
+        "Position": "15"
+    },
+    {
+        "Circuit ID": "suzuka",
+        "Round": "4",
+        "Lap Number": "24",
+        "Driver ID": "bottas",
+        "Time": "1:38.126",
+        "Position": "15"
+    },
+    {
+        "Circuit ID": "suzuka",
+        "Round": "4",
+        "Lap Number": "25",
+        "Driver ID": "bottas",
+        "Time": "1:36.608",
+        "Position": "14"
+    },
+    {
+        "Circuit ID": "suzuka",
+        "Round": "4",
+        "Lap Number": "26",
+        "Driver ID": "bottas",
+        "Time": "1:36.858",
+        "Position": "14"
+    },
+    {
+        "Circuit ID": "suzuka",
+        "Round": "4",
+        "Lap Number": "27",
+        "Driver ID": "bottas",
+        "Time": "1:36.622",
+        "Position": "14"
+    },
+    {
+        "Circuit ID": "suzuka",
+        "Round": "4",
+        "Lap Number": "28",
+        "Driver ID": "bottas",
+        "Time": "1:37.472",
+        "Position": "14"
+    },
+    {
+        "Circuit ID": "suzuka",
+        "Round": "4",
+        "Lap Number": "29",
+        "Driver ID": "bottas",
+        "Time": "1:37.712",
+        "Position": "14"
+    },
+    {
+        "Circuit ID": "suzuka",
+        "Round": "4",
+        "Lap Number": "30",
+        "Driver ID": "bottas",
+        "Time": "1:38.253",
+        "Position": "14"
+    },
+    {
+        "Circuit ID": "suzuka",
+        "Round": "4",
+        "Lap Number": "31",
+        "Driver ID": "bottas",
+        "Time": "1:38.058",
+        "Position": "14"
+    },
+    {
+        "Circuit ID": "suzuka",
+        "Round": "4",
+        "Lap Number": "32",
+        "Driver ID": "bottas",
+        "Time": "1:38.748",
+        "Position": "14"
+    },
+    {
+        "Circuit ID": "suzuka",
+        "Round": "4",
+        "Lap Number": "33",
+        "Driver ID": "bottas",
+        "Time": "1:38.722",
+        "Position": "14"
+    },
+    {
+        "Circuit ID": "suzuka",
+        "Round": "4",
+        "Lap Number": "34",
+        "Driver ID": "bottas",
+        "Time": "1:38.003",
+        "Position": "13"
+    },
+    {
+        "Circuit ID": "suzuka",
+        "Round": "4",
+        "Lap Number": "35",
+        "Driver ID": "bottas",
+        "Time": "1:38.007",
+        "Position": "12"
+    },
+    {
+        "Circuit ID": "suzuka",
+        "Round": "4",
+        "Lap Number": "36",
+        "Driver ID": "bottas",
+        "Time": "1:38.257",
+        "Position": "12"
+    },
+    {
+        "Circuit ID": "suzuka",
+        "Round": "4",
+        "Lap Number": "37",
+        "Driver ID": "bottas",
+        "Time": "1:37.602",
+        "Position": "12"
+    },
+    {
+        "Circuit ID": "suzuka",
+        "Round": "4",
+        "Lap Number": "38",
+        "Driver ID": "bottas",
+        "Time": "1:38.000",
+        "Position": "12"
+    },
+    {
+        "Circuit ID": "suzuka",
+        "Round": "4",
+        "Lap Number": "39",
+        "Driver ID": "bottas",
+        "Time": "1:37.232",
+        "Position": "12"
+    },
+    {
+        "Circuit ID": "suzuka",
+        "Round": "4",
+        "Lap Number": "40",
+        "Driver ID": "bottas",
+        "Time": "1:37.858",
+        "Position": "12"
+    },
+    {
+        "Circuit ID": "suzuka",
+        "Round": "4",
+        "Lap Number": "41",
+        "Driver ID": "bottas",
+        "Time": "1:37.312",
+        "Position": "12"
+    },
+    {
+        "Circuit ID": "suzuka",
+        "Round": "4",
+        "Lap Number": "42",
+        "Driver ID": "bottas",
+        "Time": "1:38.001",
+        "Position": "12"
+    },
+    {
+        "Circuit ID": "suzuka",
+        "Round": "4",
+        "Lap Number": "43",
+        "Driver ID": "bottas",
+        "Time": "1:37.444",
+        "Position": "12"
+    },
+    {
+        "Circuit ID": "suzuka",
+        "Round": "4",
+        "Lap Number": "44",
+        "Driver ID": "bottas",
+        "Time": "1:37.507",
+        "Position": "12"
+    },
+    {
+        "Circuit ID": "suzuka",
+        "Round": "4",
+        "Lap Number": "45",
+        "Driver ID": "bottas",
+        "Time": "1:38.734",
+        "Position": "13"
+    },
+    {
+        "Circuit ID": "suzuka",
+        "Round": "4",
+        "Lap Number": "46",
+        "Driver ID": "bottas",
+        "Time": "1:39.966",
+        "Position": "14"
+    },
+    {
+        "Circuit ID": "suzuka",
+        "Round": "4",
+        "Lap Number": "47",
+        "Driver ID": "bottas",
+        "Time": "1:37.900",
+        "Position": "14"
+    },
+    {
+        "Circuit ID": "suzuka",
+        "Round": "4",
+        "Lap Number": "48",
+        "Driver ID": "bottas",
+        "Time": "1:37.206",
+        "Position": "14"
+    },
+    {
+        "Circuit ID": "suzuka",
+        "Round": "4",
+        "Lap Number": "49",
+        "Driver ID": "bottas",
+        "Time": "1:36.944",
+        "Position": "14"
+    },
+    {
+        "Circuit ID": "suzuka",
+        "Round": "4",
+        "Lap Number": "50",
+        "Driver ID": "bottas",
+        "Time": "1:39.195",
+        "Position": "14"
+    },
+    {
+        "Circuit ID": "suzuka",
+        "Round": "4",
+        "Lap Number": "51",
+        "Driver ID": "bottas",
+        "Time": "1:37.156",
+        "Position": "14"
+    },
+    {
+        "Circuit ID": "suzuka",
+        "Round": "4",
+        "Lap Number": "52",
+        "Driver ID": "bottas",
+        "Time": "1:37.727",
+        "Position": "14"
+    },
+    {
+        "Circuit ID": "suzuka",
+        "Round": "4",
+        "Lap Number": "1",
+        "Driver ID": "ocon",
+        "Time": "2:50.167",
+        "Position": "13"
+    },
+    {
+        "Circuit ID": "suzuka",
+        "Round": "4",
+        "Lap Number": "2",
+        "Driver ID": "ocon",
+        "Time": "28:31.609",
+        "Position": "13"
+    },
+    {
+        "Circuit ID": "suzuka",
+        "Round": "4",
+        "Lap Number": "3",
+        "Driver ID": "ocon",
+        "Time": "2:20.237",
+        "Position": "11"
+    },
+    {
+        "Circuit ID": "suzuka",
+        "Round": "4",
+        "Lap Number": "4",
+        "Driver ID": "ocon",
+        "Time": "1:39.541",
+        "Position": "11"
+    },
+    {
+        "Circuit ID": "suzuka",
+        "Round": "4",
+        "Lap Number": "5",
+        "Driver ID": "ocon",
+        "Time": "1:40.081",
+        "Position": "12"
+    },
+    {
+        "Circuit ID": "suzuka",
+        "Round": "4",
+        "Lap Number": "6",
+        "Driver ID": "ocon",
+        "Time": "1:40.496",
+        "Position": "13"
+    },
+    {
+        "Circuit ID": "suzuka",
+        "Round": "4",
+        "Lap Number": "7",
+        "Driver ID": "ocon",
+        "Time": "1:39.744",
+        "Position": "12"
+    },
+    {
+        "Circuit ID": "suzuka",
+        "Round": "4",
+        "Lap Number": "8",
+        "Driver ID": "ocon",
+        "Time": "1:40.009",
+        "Position": "11"
+    },
+    {
+        "Circuit ID": "suzuka",
+        "Round": "4",
+        "Lap Number": "9",
+        "Driver ID": "ocon",
+        "Time": "1:40.294",
+        "Position": "11"
+    },
+    {
+        "Circuit ID": "suzuka",
+        "Round": "4",
+        "Lap Number": "10",
+        "Driver ID": "ocon",
+        "Time": "1:40.315",
+        "Position": "11"
+    },
+    {
+        "Circuit ID": "suzuka",
+        "Round": "4",
+        "Lap Number": "11",
+        "Driver ID": "ocon",
+        "Time": "1:40.371",
+        "Position": "11"
+    },
+    {
+        "Circuit ID": "suzuka",
+        "Round": "4",
+        "Lap Number": "12",
+        "Driver ID": "ocon",
+        "Time": "1:40.560",
+        "Position": "11"
+    },
+    {
+        "Circuit ID": "suzuka",
+        "Round": "4",
+        "Lap Number": "13",
+        "Driver ID": "ocon",
+        "Time": "1:41.341",
+        "Position": "10"
+    },
+    {
+        "Circuit ID": "suzuka",
+        "Round": "4",
+        "Lap Number": "14",
+        "Driver ID": "ocon",
+        "Time": "1:40.787",
+        "Position": "11"
+    },
+    {
+        "Circuit ID": "suzuka",
+        "Round": "4",
+        "Lap Number": "15",
+        "Driver ID": "ocon",
+        "Time": "1:40.961",
+        "Position": "12"
+    },
+    {
+        "Circuit ID": "suzuka",
+        "Round": "4",
+        "Lap Number": "16",
+        "Driver ID": "ocon",
+        "Time": "1:40.692",
+        "Position": "13"
+    },
+    {
+        "Circuit ID": "suzuka",
+        "Round": "4",
+        "Lap Number": "17",
+        "Driver ID": "ocon",
+        "Time": "1:40.929",
+        "Position": "15"
+    },
+    {
+        "Circuit ID": "suzuka",
+        "Round": "4",
+        "Lap Number": "18",
+        "Driver ID": "ocon",
+        "Time": "1:40.737",
+        "Position": "16"
+    },
+    {
+        "Circuit ID": "suzuka",
+        "Round": "4",
+        "Lap Number": "19",
+        "Driver ID": "ocon",
+        "Time": "1:42.283",
+        "Position": "16"
+    },
+    {
+        "Circuit ID": "suzuka",
+        "Round": "4",
+        "Lap Number": "20",
+        "Driver ID": "ocon",
+        "Time": "1:58.375",
+        "Position": "16"
+    },
+    {
+        "Circuit ID": "suzuka",
+        "Round": "4",
+        "Lap Number": "21",
+        "Driver ID": "ocon",
+        "Time": "1:37.716",
+        "Position": "16"
+    },
+    {
+        "Circuit ID": "suzuka",
+        "Round": "4",
+        "Lap Number": "22",
+        "Driver ID": "ocon",
+        "Time": "1:37.775",
+        "Position": "16"
+    },
+    {
+        "Circuit ID": "suzuka",
+        "Round": "4",
+        "Lap Number": "23",
+        "Driver ID": "ocon",
+        "Time": "1:39.219",
+        "Position": "13"
+    },
+    {
+        "Circuit ID": "suzuka",
+        "Round": "4",
+        "Lap Number": "24",
+        "Driver ID": "ocon",
+        "Time": "1:38.924",
+        "Position": "14"
+    },
+    {
+        "Circuit ID": "suzuka",
+        "Round": "4",
+        "Lap Number": "25",
+        "Driver ID": "ocon",
+        "Time": "1:39.084",
+        "Position": "15"
+    },
+    {
+        "Circuit ID": "suzuka",
+        "Round": "4",
+        "Lap Number": "26",
+        "Driver ID": "ocon",
+        "Time": "1:38.611",
+        "Position": "15"
+    },
+    {
+        "Circuit ID": "suzuka",
+        "Round": "4",
+        "Lap Number": "27",
+        "Driver ID": "ocon",
+        "Time": "1:38.943",
+        "Position": "16"
+    },
+    {
+        "Circuit ID": "suzuka",
+        "Round": "4",
+        "Lap Number": "28",
+        "Driver ID": "ocon",
+        "Time": "1:38.612",
+        "Position": "16"
+    },
+    {
+        "Circuit ID": "suzuka",
+        "Round": "4",
+        "Lap Number": "29",
+        "Driver ID": "ocon",
+        "Time": "1:38.702",
+        "Position": "16"
+    },
+    {
+        "Circuit ID": "suzuka",
+        "Round": "4",
+        "Lap Number": "30",
+        "Driver ID": "ocon",
+        "Time": "1:38.499",
+        "Position": "16"
+    },
+    {
+        "Circuit ID": "suzuka",
+        "Round": "4",
+        "Lap Number": "31",
+        "Driver ID": "ocon",
+        "Time": "1:38.662",
+        "Position": "16"
+    },
+    {
+        "Circuit ID": "suzuka",
+        "Round": "4",
+        "Lap Number": "32",
+        "Driver ID": "ocon",
+        "Time": "1:38.366",
+        "Position": "16"
+    },
+    {
+        "Circuit ID": "suzuka",
+        "Round": "4",
+        "Lap Number": "33",
+        "Driver ID": "ocon",
+        "Time": "1:40.764",
+        "Position": "16"
+    },
+    {
+        "Circuit ID": "suzuka",
+        "Round": "4",
+        "Lap Number": "34",
+        "Driver ID": "ocon",
+        "Time": "1:57.831",
+        "Position": "16"
+    },
+    {
+        "Circuit ID": "suzuka",
+        "Round": "4",
+        "Lap Number": "35",
+        "Driver ID": "ocon",
+        "Time": "1:37.126",
+        "Position": "16"
+    },
+    {
+        "Circuit ID": "suzuka",
+        "Round": "4",
+        "Lap Number": "36",
+        "Driver ID": "ocon",
+        "Time": "1:36.983",
+        "Position": "16"
+    },
+    {
+        "Circuit ID": "suzuka",
+        "Round": "4",
+        "Lap Number": "37",
+        "Driver ID": "ocon",
+        "Time": "1:38.763",
+        "Position": "16"
+    },
+    {
+        "Circuit ID": "suzuka",
+        "Round": "4",
+        "Lap Number": "38",
+        "Driver ID": "ocon",
+        "Time": "1:36.714",
+        "Position": "16"
+    },
+    {
+        "Circuit ID": "suzuka",
+        "Round": "4",
+        "Lap Number": "39",
+        "Driver ID": "ocon",
+        "Time": "1:37.058",
+        "Position": "16"
+    },
+    {
+        "Circuit ID": "suzuka",
+        "Round": "4",
+        "Lap Number": "40",
+        "Driver ID": "ocon",
+        "Time": "1:37.580",
+        "Position": "16"
+    },
+    {
+        "Circuit ID": "suzuka",
+        "Round": "4",
+        "Lap Number": "41",
+        "Driver ID": "ocon",
+        "Time": "1:39.008",
+        "Position": "15"
+    },
+    {
+        "Circuit ID": "suzuka",
+        "Round": "4",
+        "Lap Number": "42",
+        "Driver ID": "ocon",
+        "Time": "1:37.129",
+        "Position": "15"
+    },
+    {
+        "Circuit ID": "suzuka",
+        "Round": "4",
+        "Lap Number": "43",
+        "Driver ID": "ocon",
+        "Time": "1:37.478",
+        "Position": "15"
+    },
+    {
+        "Circuit ID": "suzuka",
+        "Round": "4",
+        "Lap Number": "44",
+        "Driver ID": "ocon",
+        "Time": "1:40.961",
+        "Position": "15"
+    },
+    {
+        "Circuit ID": "suzuka",
+        "Round": "4",
+        "Lap Number": "45",
+        "Driver ID": "ocon",
+        "Time": "1:36.983",
+        "Position": "15"
+    },
+    {
+        "Circuit ID": "suzuka",
+        "Round": "4",
+        "Lap Number": "46",
+        "Driver ID": "ocon",
+        "Time": "1:37.091",
+        "Position": "15"
+    },
+    {
+        "Circuit ID": "suzuka",
+        "Round": "4",
+        "Lap Number": "47",
+        "Driver ID": "ocon",
+        "Time": "1:37.381",
+        "Position": "15"
+    },
+    {
+        "Circuit ID": "suzuka",
+        "Round": "4",
+        "Lap Number": "48",
+        "Driver ID": "ocon",
+        "Time": "1:36.836",
+        "Position": "15"
+    },
+    {
+        "Circuit ID": "suzuka",
+        "Round": "4",
+        "Lap Number": "49",
+        "Driver ID": "ocon",
+        "Time": "1:36.691",
+        "Position": "15"
+    },
+    {
+        "Circuit ID": "suzuka",
+        "Round": "4",
+        "Lap Number": "50",
+        "Driver ID": "ocon",
+        "Time": "1:36.636",
+        "Position": "15"
+    },
+    {
+        "Circuit ID": "suzuka",
+        "Round": "4",
+        "Lap Number": "51",
+        "Driver ID": "ocon",
+        "Time": "1:36.831",
+        "Position": "15"
+    },
+    {
+        "Circuit ID": "suzuka",
+        "Round": "4",
+        "Lap Number": "52",
+        "Driver ID": "ocon",
+        "Time": "1:36.232",
+        "Position": "15"
+    },
+    {
+        "Circuit ID": "suzuka",
+        "Round": "4",
+        "Lap Number": "1",
+        "Driver ID": "gasly",
+        "Time": "2:53.223",
+        "Position": "14"
+    },
+    {
+        "Circuit ID": "suzuka",
+        "Round": "4",
+        "Lap Number": "2",
+        "Driver ID": "gasly",
+        "Time": "28:31.726",
+        "Position": "14"
+    },
+    {
+        "Circuit ID": "suzuka",
+        "Round": "4",
+        "Lap Number": "3",
+        "Driver ID": "gasly",
+        "Time": "2:18.362",
+        "Position": "14"
+    },
+    {
+        "Circuit ID": "suzuka",
+        "Round": "4",
+        "Lap Number": "4",
+        "Driver ID": "gasly",
+        "Time": "1:39.925",
+        "Position": "14"
+    },
+    {
+        "Circuit ID": "suzuka",
+        "Round": "4",
+        "Lap Number": "5",
+        "Driver ID": "gasly",
+        "Time": "1:39.473",
+        "Position": "14"
+    },
+    {
+        "Circuit ID": "suzuka",
+        "Round": "4",
+        "Lap Number": "6",
+        "Driver ID": "gasly",
+        "Time": "1:40.257",
+        "Position": "14"
+    },
+    {
+        "Circuit ID": "suzuka",
+        "Round": "4",
+        "Lap Number": "7",
+        "Driver ID": "gasly",
+        "Time": "1:40.248",
+        "Position": "13"
+    },
+    {
+        "Circuit ID": "suzuka",
+        "Round": "4",
+        "Lap Number": "8",
+        "Driver ID": "gasly",
+        "Time": "1:41.363",
+        "Position": "13"
+    },
+    {
+        "Circuit ID": "suzuka",
+        "Round": "4",
+        "Lap Number": "9",
+        "Driver ID": "gasly",
+        "Time": "1:40.780",
+        "Position": "13"
+    },
+    {
+        "Circuit ID": "suzuka",
+        "Round": "4",
+        "Lap Number": "10",
+        "Driver ID": "gasly",
+        "Time": "1:41.117",
+        "Position": "13"
+    },
+    {
+        "Circuit ID": "suzuka",
+        "Round": "4",
+        "Lap Number": "11",
+        "Driver ID": "gasly",
+        "Time": "1:41.628",
+        "Position": "14"
+    },
+    {
+        "Circuit ID": "suzuka",
+        "Round": "4",
+        "Lap Number": "12",
+        "Driver ID": "gasly",
+        "Time": "1:41.107",
+        "Position": "14"
+    },
+    {
+        "Circuit ID": "suzuka",
+        "Round": "4",
+        "Lap Number": "13",
+        "Driver ID": "gasly",
+        "Time": "1:42.475",
+        "Position": "15"
+    },
+    {
+        "Circuit ID": "suzuka",
+        "Round": "4",
+        "Lap Number": "14",
+        "Driver ID": "gasly",
+        "Time": "1:41.773",
+        "Position": "17"
+    },
+    {
+        "Circuit ID": "suzuka",
+        "Round": "4",
+        "Lap Number": "15",
+        "Driver ID": "gasly",
+        "Time": "1:41.380",
+        "Position": "17"
+    },
+    {
+        "Circuit ID": "suzuka",
+        "Round": "4",
+        "Lap Number": "16",
+        "Driver ID": "gasly",
+        "Time": "1:43.476",
+        "Position": "17"
+    },
+    {
+        "Circuit ID": "suzuka",
+        "Round": "4",
+        "Lap Number": "17",
+        "Driver ID": "gasly",
+        "Time": "1:58.732",
+        "Position": "17"
+    },
+    {
+        "Circuit ID": "suzuka",
+        "Round": "4",
+        "Lap Number": "18",
+        "Driver ID": "gasly",
+        "Time": "1:38.374",
+        "Position": "17"
+    },
+    {
+        "Circuit ID": "suzuka",
+        "Round": "4",
+        "Lap Number": "19",
+        "Driver ID": "gasly",
+        "Time": "1:38.599",
+        "Position": "17"
+    },
+    {
+        "Circuit ID": "suzuka",
+        "Round": "4",
+        "Lap Number": "20",
+        "Driver ID": "gasly",
+        "Time": "1:38.741",
+        "Position": "17"
+    },
+    {
+        "Circuit ID": "suzuka",
+        "Round": "4",
+        "Lap Number": "21",
+        "Driver ID": "gasly",
+        "Time": "1:38.415",
+        "Position": "17"
+    },
+    {
+        "Circuit ID": "suzuka",
+        "Round": "4",
+        "Lap Number": "22",
+        "Driver ID": "gasly",
+        "Time": "1:38.382",
+        "Position": "17"
+    },
+    {
+        "Circuit ID": "suzuka",
+        "Round": "4",
+        "Lap Number": "23",
+        "Driver ID": "gasly",
+        "Time": "1:39.816",
+        "Position": "17"
+    },
+    {
+        "Circuit ID": "suzuka",
+        "Round": "4",
+        "Lap Number": "24",
+        "Driver ID": "gasly",
+        "Time": "1:38.781",
+        "Position": "17"
+    },
+    {
+        "Circuit ID": "suzuka",
+        "Round": "4",
+        "Lap Number": "25",
+        "Driver ID": "gasly",
+        "Time": "1:39.034",
+        "Position": "17"
+    },
+    {
+        "Circuit ID": "suzuka",
+        "Round": "4",
+        "Lap Number": "26",
+        "Driver ID": "gasly",
+        "Time": "1:38.958",
+        "Position": "17"
+    },
+    {
+        "Circuit ID": "suzuka",
+        "Round": "4",
+        "Lap Number": "27",
+        "Driver ID": "gasly",
+        "Time": "1:38.902",
+        "Position": "17"
+    },
+    {
+        "Circuit ID": "suzuka",
+        "Round": "4",
+        "Lap Number": "28",
+        "Driver ID": "gasly",
+        "Time": "1:38.873",
+        "Position": "17"
+    },
+    {
+        "Circuit ID": "suzuka",
+        "Round": "4",
+        "Lap Number": "29",
+        "Driver ID": "gasly",
+        "Time": "1:39.052",
+        "Position": "17"
+    },
+    {
+        "Circuit ID": "suzuka",
+        "Round": "4",
+        "Lap Number": "30",
+        "Driver ID": "gasly",
+        "Time": "1:38.894",
+        "Position": "17"
+    },
+    {
+        "Circuit ID": "suzuka",
+        "Round": "4",
+        "Lap Number": "31",
+        "Driver ID": "gasly",
+        "Time": "1:39.450",
+        "Position": "17"
+    },
+    {
+        "Circuit ID": "suzuka",
+        "Round": "4",
+        "Lap Number": "32",
+        "Driver ID": "gasly",
+        "Time": "1:41.728",
+        "Position": "17"
+    },
+    {
+        "Circuit ID": "suzuka",
+        "Round": "4",
+        "Lap Number": "33",
+        "Driver ID": "gasly",
+        "Time": "1:57.833",
+        "Position": "17"
+    },
+    {
+        "Circuit ID": "suzuka",
+        "Round": "4",
+        "Lap Number": "34",
+        "Driver ID": "gasly",
+        "Time": "1:38.671",
+        "Position": "17"
+    },
+    {
+        "Circuit ID": "suzuka",
+        "Round": "4",
+        "Lap Number": "35",
+        "Driver ID": "gasly",
+        "Time": "1:37.656",
+        "Position": "17"
+    },
+    {
+        "Circuit ID": "suzuka",
+        "Round": "4",
+        "Lap Number": "36",
+        "Driver ID": "gasly",
+        "Time": "1:37.283",
+        "Position": "17"
+    },
+    {
+        "Circuit ID": "suzuka",
+        "Round": "4",
+        "Lap Number": "37",
+        "Driver ID": "gasly",
+        "Time": "1:38.426",
+        "Position": "17"
+    },
+    {
+        "Circuit ID": "suzuka",
+        "Round": "4",
+        "Lap Number": "38",
+        "Driver ID": "gasly",
+        "Time": "1:36.756",
+        "Position": "17"
+    },
+    {
+        "Circuit ID": "suzuka",
+        "Round": "4",
+        "Lap Number": "39",
+        "Driver ID": "gasly",
+        "Time": "1:40.223",
+        "Position": "17"
+    },
+    {
+        "Circuit ID": "suzuka",
+        "Round": "4",
+        "Lap Number": "40",
+        "Driver ID": "gasly",
+        "Time": "1:38.072",
+        "Position": "17"
+    },
+    {
+        "Circuit ID": "suzuka",
+        "Round": "4",
+        "Lap Number": "41",
+        "Driver ID": "gasly",
+        "Time": "1:37.477",
+        "Position": "16"
+    },
+    {
+        "Circuit ID": "suzuka",
+        "Round": "4",
+        "Lap Number": "42",
+        "Driver ID": "gasly",
+        "Time": "1:37.014",
+        "Position": "16"
+    },
+    {
+        "Circuit ID": "suzuka",
+        "Round": "4",
+        "Lap Number": "43",
+        "Driver ID": "gasly",
+        "Time": "1:36.799",
+        "Position": "16"
+    },
+    {
+        "Circuit ID": "suzuka",
+        "Round": "4",
+        "Lap Number": "44",
+        "Driver ID": "gasly",
+        "Time": "1:37.201",
+        "Position": "16"
+    },
+    {
+        "Circuit ID": "suzuka",
+        "Round": "4",
+        "Lap Number": "45",
+        "Driver ID": "gasly",
+        "Time": "1:36.942",
+        "Position": "16"
+    },
+    {
+        "Circuit ID": "suzuka",
+        "Round": "4",
+        "Lap Number": "46",
+        "Driver ID": "gasly",
+        "Time": "1:36.997",
+        "Position": "16"
+    },
+    {
+        "Circuit ID": "suzuka",
+        "Round": "4",
+        "Lap Number": "47",
+        "Driver ID": "gasly",
+        "Time": "1:36.759",
+        "Position": "16"
+    },
+    {
+        "Circuit ID": "suzuka",
+        "Round": "4",
+        "Lap Number": "48",
+        "Driver ID": "gasly",
+        "Time": "1:36.642",
+        "Position": "16"
+    },
+    {
+        "Circuit ID": "suzuka",
+        "Round": "4",
+        "Lap Number": "49",
+        "Driver ID": "gasly",
+        "Time": "1:38.650",
+        "Position": "16"
+    },
+    {
+        "Circuit ID": "suzuka",
+        "Round": "4",
+        "Lap Number": "50",
+        "Driver ID": "gasly",
+        "Time": "1:40.961",
+        "Position": "16"
+    },
+    {
+        "Circuit ID": "suzuka",
+        "Round": "4",
+        "Lap Number": "51",
+        "Driver ID": "gasly",
+        "Time": "1:37.721",
+        "Position": "16"
+    },
+    {
+        "Circuit ID": "suzuka",
+        "Round": "4",
+        "Lap Number": "52",
+        "Driver ID": "gasly",
+        "Time": "1:37.505",
+        "Position": "16"
+    },
+    {
+        "Circuit ID": "suzuka",
+        "Round": "4",
+        "Lap Number": "1",
+        "Driver ID": "sargeant",
+        "Time": "3:08.456",
+        "Position": "17"
+    },
+    {
+        "Circuit ID": "suzuka",
+        "Round": "4",
+        "Lap Number": "2",
+        "Driver ID": "sargeant",
+        "Time": "28:24.529",
+        "Position": "17"
+    },
+    {
+        "Circuit ID": "suzuka",
+        "Round": "4",
+        "Lap Number": "3",
+        "Driver ID": "sargeant",
+        "Time": "2:12.603",
+        "Position": "18"
+    },
+    {
+        "Circuit ID": "suzuka",
+        "Round": "4",
+        "Lap Number": "4",
+        "Driver ID": "sargeant",
+        "Time": "1:40.424",
+        "Position": "18"
+    },
+    {
+        "Circuit ID": "suzuka",
+        "Round": "4",
+        "Lap Number": "5",
+        "Driver ID": "sargeant",
+        "Time": "1:39.668",
+        "Position": "17"
+    },
+    {
+        "Circuit ID": "suzuka",
+        "Round": "4",
+        "Lap Number": "6",
+        "Driver ID": "sargeant",
+        "Time": "1:39.582",
+        "Position": "17"
+    },
+    {
+        "Circuit ID": "suzuka",
+        "Round": "4",
+        "Lap Number": "7",
+        "Driver ID": "sargeant",
+        "Time": "1:40.055",
+        "Position": "15"
+    },
+    {
+        "Circuit ID": "suzuka",
+        "Round": "4",
+        "Lap Number": "8",
+        "Driver ID": "sargeant",
+        "Time": "1:39.655",
+        "Position": "14"
+    },
+    {
+        "Circuit ID": "suzuka",
+        "Round": "4",
+        "Lap Number": "9",
+        "Driver ID": "sargeant",
+        "Time": "1:40.871",
+        "Position": "14"
+    },
+    {
+        "Circuit ID": "suzuka",
+        "Round": "4",
+        "Lap Number": "10",
+        "Driver ID": "sargeant",
+        "Time": "1:40.916",
+        "Position": "14"
+    },
+    {
+        "Circuit ID": "suzuka",
+        "Round": "4",
+        "Lap Number": "11",
+        "Driver ID": "sargeant",
+        "Time": "1:39.348",
+        "Position": "13"
+    },
+    {
+        "Circuit ID": "suzuka",
+        "Round": "4",
+        "Lap Number": "12",
+        "Driver ID": "sargeant",
+        "Time": "1:39.911",
+        "Position": "13"
+    },
+    {
+        "Circuit ID": "suzuka",
+        "Round": "4",
+        "Lap Number": "13",
+        "Driver ID": "sargeant",
+        "Time": "1:40.197",
+        "Position": "12"
+    },
+    {
+        "Circuit ID": "suzuka",
+        "Round": "4",
+        "Lap Number": "14",
+        "Driver ID": "sargeant",
+        "Time": "1:39.713",
+        "Position": "12"
+    },
+    {
+        "Circuit ID": "suzuka",
+        "Round": "4",
+        "Lap Number": "15",
+        "Driver ID": "sargeant",
+        "Time": "1:39.368",
+        "Position": "11"
+    },
+    {
+        "Circuit ID": "suzuka",
+        "Round": "4",
+        "Lap Number": "16",
+        "Driver ID": "sargeant",
+        "Time": "1:39.404",
+        "Position": "11"
+    },
+    {
+        "Circuit ID": "suzuka",
+        "Round": "4",
+        "Lap Number": "17",
+        "Driver ID": "sargeant",
+        "Time": "1:39.216",
+        "Position": "11"
+    },
+    {
+        "Circuit ID": "suzuka",
+        "Round": "4",
+        "Lap Number": "18",
+        "Driver ID": "sargeant",
+        "Time": "1:40.309",
+        "Position": "12"
+    },
+    {
+        "Circuit ID": "suzuka",
+        "Round": "4",
+        "Lap Number": "19",
+        "Driver ID": "sargeant",
+        "Time": "1:39.537",
+        "Position": "12"
+    },
+    {
+        "Circuit ID": "suzuka",
+        "Round": "4",
+        "Lap Number": "20",
+        "Driver ID": "sargeant",
+        "Time": "1:38.968",
+        "Position": "12"
+    },
+    {
+        "Circuit ID": "suzuka",
+        "Round": "4",
+        "Lap Number": "21",
+        "Driver ID": "sargeant",
+        "Time": "1:39.612",
+        "Position": "12"
+    },
+    {
+        "Circuit ID": "suzuka",
+        "Round": "4",
+        "Lap Number": "22",
+        "Driver ID": "sargeant",
+        "Time": "1:41.989",
+        "Position": "12"
+    },
+    {
+        "Circuit ID": "suzuka",
+        "Round": "4",
+        "Lap Number": "23",
+        "Driver ID": "sargeant",
+        "Time": "2:01.843",
+        "Position": "16"
+    },
+    {
+        "Circuit ID": "suzuka",
+        "Round": "4",
+        "Lap Number": "24",
+        "Driver ID": "sargeant",
+        "Time": "1:38.094",
+        "Position": "16"
+    },
+    {
+        "Circuit ID": "suzuka",
+        "Round": "4",
+        "Lap Number": "25",
+        "Driver ID": "sargeant",
+        "Time": "1:38.430",
+        "Position": "16"
+    },
+    {
+        "Circuit ID": "suzuka",
+        "Round": "4",
+        "Lap Number": "26",
+        "Driver ID": "sargeant",
+        "Time": "1:38.485",
+        "Position": "16"
+    },
+    {
+        "Circuit ID": "suzuka",
+        "Round": "4",
+        "Lap Number": "27",
+        "Driver ID": "sargeant",
+        "Time": "1:36.590",
+        "Position": "15"
+    },
+    {
+        "Circuit ID": "suzuka",
+        "Round": "4",
+        "Lap Number": "28",
+        "Driver ID": "sargeant",
+        "Time": "1:37.429",
+        "Position": "15"
+    },
+    {
+        "Circuit ID": "suzuka",
+        "Round": "4",
+        "Lap Number": "29",
+        "Driver ID": "sargeant",
+        "Time": "1:37.679",
+        "Position": "15"
+    },
+    {
+        "Circuit ID": "suzuka",
+        "Round": "4",
+        "Lap Number": "30",
+        "Driver ID": "sargeant",
+        "Time": "1:37.511",
+        "Position": "15"
+    },
+    {
+        "Circuit ID": "suzuka",
+        "Round": "4",
+        "Lap Number": "31",
+        "Driver ID": "sargeant",
+        "Time": "1:37.495",
+        "Position": "15"
+    },
+    {
+        "Circuit ID": "suzuka",
+        "Round": "4",
+        "Lap Number": "32",
+        "Driver ID": "sargeant",
+        "Time": "1:37.761",
+        "Position": "15"
+    },
+    {
+        "Circuit ID": "suzuka",
+        "Round": "4",
+        "Lap Number": "33",
+        "Driver ID": "sargeant",
+        "Time": "1:38.166",
+        "Position": "15"
+    },
+    {
+        "Circuit ID": "suzuka",
+        "Round": "4",
+        "Lap Number": "34",
+        "Driver ID": "sargeant",
+        "Time": "1:40.392",
+        "Position": "14"
+    },
+    {
+        "Circuit ID": "suzuka",
+        "Round": "4",
+        "Lap Number": "35",
+        "Driver ID": "sargeant",
+        "Time": "1:56.181",
+        "Position": "15"
+    },
+    {
+        "Circuit ID": "suzuka",
+        "Round": "4",
+        "Lap Number": "36",
+        "Driver ID": "sargeant",
+        "Time": "1:35.497",
+        "Position": "15"
+    },
+    {
+        "Circuit ID": "suzuka",
+        "Round": "4",
+        "Lap Number": "37",
+        "Driver ID": "sargeant",
+        "Time": "1:36.103",
+        "Position": "15"
+    },
+    {
+        "Circuit ID": "suzuka",
+        "Round": "4",
+        "Lap Number": "38",
+        "Driver ID": "sargeant",
+        "Time": "1:36.149",
+        "Position": "15"
+    },
+    {
+        "Circuit ID": "suzuka",
+        "Round": "4",
+        "Lap Number": "39",
+        "Driver ID": "sargeant",
+        "Time": "1:36.250",
+        "Position": "15"
+    },
+    {
+        "Circuit ID": "suzuka",
+        "Round": "4",
+        "Lap Number": "40",
+        "Driver ID": "sargeant",
+        "Time": "1:36.282",
+        "Position": "15"
+    },
+    {
+        "Circuit ID": "suzuka",
+        "Round": "4",
+        "Lap Number": "41",
+        "Driver ID": "sargeant",
+        "Time": "2:23.782",
+        "Position": "17"
+    },
+    {
+        "Circuit ID": "suzuka",
+        "Round": "4",
+        "Lap Number": "42",
+        "Driver ID": "sargeant",
+        "Time": "1:55.171",
+        "Position": "17"
+    },
+    {
+        "Circuit ID": "suzuka",
+        "Round": "4",
+        "Lap Number": "43",
+        "Driver ID": "sargeant",
+        "Time": "1:34.900",
+        "Position": "17"
+    },
+    {
+        "Circuit ID": "suzuka",
+        "Round": "4",
+        "Lap Number": "44",
+        "Driver ID": "sargeant",
+        "Time": "1:35.087",
+        "Position": "17"
+    },
+    {
+        "Circuit ID": "suzuka",
+        "Round": "4",
+        "Lap Number": "45",
+        "Driver ID": "sargeant",
+        "Time": "1:35.350",
+        "Position": "17"
+    },
+    {
+        "Circuit ID": "suzuka",
+        "Round": "4",
+        "Lap Number": "46",
+        "Driver ID": "sargeant",
+        "Time": "1:35.778",
+        "Position": "17"
+    },
+    {
+        "Circuit ID": "suzuka",
+        "Round": "4",
+        "Lap Number": "47",
+        "Driver ID": "sargeant",
+        "Time": "1:35.701",
+        "Position": "17"
+    },
+    {
+        "Circuit ID": "suzuka",
+        "Round": "4",
+        "Lap Number": "48",
+        "Driver ID": "sargeant",
+        "Time": "1:35.837",
+        "Position": "17"
+    },
+    {
+        "Circuit ID": "suzuka",
+        "Round": "4",
+        "Lap Number": "49",
+        "Driver ID": "sargeant",
+        "Time": "1:35.619",
+        "Position": "17"
+    },
+    {
+        "Circuit ID": "suzuka",
+        "Round": "4",
+        "Lap Number": "50",
+        "Driver ID": "sargeant",
+        "Time": "1:35.490",
+        "Position": "17"
+    },
+    {
+        "Circuit ID": "suzuka",
+        "Round": "4",
+        "Lap Number": "51",
+        "Driver ID": "sargeant",
+        "Time": "1:35.233",
+        "Position": "17"
+    },
+    {
+        "Circuit ID": "suzuka",
+        "Round": "4",
+        "Lap Number": "52",
+        "Driver ID": "sargeant",
+        "Time": "1:37.715",
+        "Position": "17"
+    },
+    {
+        "Circuit ID": "suzuka",
+        "Round": "4",
+        "Lap Number": "1",
+        "Driver ID": "zhou",
+        "Time": "3:15.118",
+        "Position": "18"
+    },
+    {
+        "Circuit ID": "suzuka",
+        "Round": "4",
+        "Lap Number": "2",
+        "Driver ID": "zhou",
+        "Time": "28:19.553",
+        "Position": "18"
+    },
+    {
+        "Circuit ID": "suzuka",
+        "Round": "4",
+        "Lap Number": "3",
+        "Driver ID": "zhou",
+        "Time": "2:09.289",
+        "Position": "16"
+    },
+    {
+        "Circuit ID": "suzuka",
+        "Round": "4",
+        "Lap Number": "4",
+        "Driver ID": "zhou",
+        "Time": "1:40.228",
+        "Position": "16"
+    },
+    {
+        "Circuit ID": "suzuka",
+        "Round": "4",
+        "Lap Number": "5",
+        "Driver ID": "zhou",
+        "Time": "1:39.597",
+        "Position": "16"
+    },
+    {
+        "Circuit ID": "suzuka",
+        "Round": "4",
+        "Lap Number": "6",
+        "Driver ID": "zhou",
+        "Time": "1:39.991",
+        "Position": "16"
+    },
+    {
+        "Circuit ID": "suzuka",
+        "Round": "4",
+        "Lap Number": "7",
+        "Driver ID": "zhou",
+        "Time": "1:42.874",
+        "Position": "16"
+    },
+    {
+        "Circuit ID": "suzuka",
+        "Round": "4",
+        "Lap Number": "8",
+        "Driver ID": "zhou",
+        "Time": "1:58.402",
+        "Position": "18"
+    },
+    {
+        "Circuit ID": "suzuka",
+        "Round": "4",
+        "Lap Number": "9",
+        "Driver ID": "zhou",
+        "Time": "1:37.160",
+        "Position": "18"
+    },
+    {
+        "Circuit ID": "suzuka",
+        "Round": "4",
+        "Lap Number": "10",
+        "Driver ID": "zhou",
+        "Time": "1:37.500",
+        "Position": "18"
+    },
+    {
+        "Circuit ID": "suzuka",
+        "Round": "4",
+        "Lap Number": "11",
+        "Driver ID": "zhou",
+        "Time": "1:41.117",
+        "Position": "18"
+    },
+    {
+        "Circuit ID": "suzuka",
+        "Round": "4",
+        "Lap Number": "12",
+        "Driver ID": "zhou",
+        "Time": "2:08.193",
+        "Position": "18"
+    }
+]

@@ -1,0 +1,6066 @@
+[
+    {
+        "Circuit ID": "interlagos",
+        "Round": "21",
+        "Lap Number": "1",
+        "Driver ID": "max_verstappen",
+        "Time": "1:39.161",
+        "Position": "11"
+    },
+    {
+        "Circuit ID": "interlagos",
+        "Round": "21",
+        "Lap Number": "2",
+        "Driver ID": "max_verstappen",
+        "Time": "1:27.134",
+        "Position": "10"
+    },
+    {
+        "Circuit ID": "interlagos",
+        "Round": "21",
+        "Lap Number": "3",
+        "Driver ID": "max_verstappen",
+        "Time": "1:26.240",
+        "Position": "10"
+    },
+    {
+        "Circuit ID": "interlagos",
+        "Round": "21",
+        "Lap Number": "4",
+        "Driver ID": "max_verstappen",
+        "Time": "1:26.702",
+        "Position": "10"
+    },
+    {
+        "Circuit ID": "interlagos",
+        "Round": "21",
+        "Lap Number": "5",
+        "Driver ID": "max_verstappen",
+        "Time": "1:25.394",
+        "Position": "9"
+    },
+    {
+        "Circuit ID": "interlagos",
+        "Round": "21",
+        "Lap Number": "6",
+        "Driver ID": "max_verstappen",
+        "Time": "1:24.311",
+        "Position": "8"
+    },
+    {
+        "Circuit ID": "interlagos",
+        "Round": "21",
+        "Lap Number": "7",
+        "Driver ID": "max_verstappen",
+        "Time": "1:24.342",
+        "Position": "8"
+    },
+    {
+        "Circuit ID": "interlagos",
+        "Round": "21",
+        "Lap Number": "8",
+        "Driver ID": "max_verstappen",
+        "Time": "1:24.657",
+        "Position": "8"
+    },
+    {
+        "Circuit ID": "interlagos",
+        "Round": "21",
+        "Lap Number": "9",
+        "Driver ID": "max_verstappen",
+        "Time": "1:24.778",
+        "Position": "8"
+    },
+    {
+        "Circuit ID": "interlagos",
+        "Round": "21",
+        "Lap Number": "10",
+        "Driver ID": "max_verstappen",
+        "Time": "1:24.015",
+        "Position": "7"
+    },
+    {
+        "Circuit ID": "interlagos",
+        "Round": "21",
+        "Lap Number": "11",
+        "Driver ID": "max_verstappen",
+        "Time": "1:24.156",
+        "Position": "6"
+    },
+    {
+        "Circuit ID": "interlagos",
+        "Round": "21",
+        "Lap Number": "12",
+        "Driver ID": "max_verstappen",
+        "Time": "1:23.430",
+        "Position": "6"
+    },
+    {
+        "Circuit ID": "interlagos",
+        "Round": "21",
+        "Lap Number": "13",
+        "Driver ID": "max_verstappen",
+        "Time": "1:24.512",
+        "Position": "6"
+    },
+    {
+        "Circuit ID": "interlagos",
+        "Round": "21",
+        "Lap Number": "14",
+        "Driver ID": "max_verstappen",
+        "Time": "1:24.791",
+        "Position": "6"
+    },
+    {
+        "Circuit ID": "interlagos",
+        "Round": "21",
+        "Lap Number": "15",
+        "Driver ID": "max_verstappen",
+        "Time": "1:24.669",
+        "Position": "6"
+    },
+    {
+        "Circuit ID": "interlagos",
+        "Round": "21",
+        "Lap Number": "16",
+        "Driver ID": "max_verstappen",
+        "Time": "1:25.131",
+        "Position": "6"
+    },
+    {
+        "Circuit ID": "interlagos",
+        "Round": "21",
+        "Lap Number": "17",
+        "Driver ID": "max_verstappen",
+        "Time": "1:24.328",
+        "Position": "6"
+    },
+    {
+        "Circuit ID": "interlagos",
+        "Round": "21",
+        "Lap Number": "18",
+        "Driver ID": "max_verstappen",
+        "Time": "1:24.248",
+        "Position": "6"
+    },
+    {
+        "Circuit ID": "interlagos",
+        "Round": "21",
+        "Lap Number": "19",
+        "Driver ID": "max_verstappen",
+        "Time": "1:24.493",
+        "Position": "6"
+    },
+    {
+        "Circuit ID": "interlagos",
+        "Round": "21",
+        "Lap Number": "20",
+        "Driver ID": "max_verstappen",
+        "Time": "1:23.915",
+        "Position": "6"
+    },
+    {
+        "Circuit ID": "interlagos",
+        "Round": "21",
+        "Lap Number": "21",
+        "Driver ID": "max_verstappen",
+        "Time": "1:24.269",
+        "Position": "6"
+    },
+    {
+        "Circuit ID": "interlagos",
+        "Round": "21",
+        "Lap Number": "22",
+        "Driver ID": "max_verstappen",
+        "Time": "1:25.055",
+        "Position": "6"
+    },
+    {
+        "Circuit ID": "interlagos",
+        "Round": "21",
+        "Lap Number": "23",
+        "Driver ID": "max_verstappen",
+        "Time": "1:24.267",
+        "Position": "6"
+    },
+    {
+        "Circuit ID": "interlagos",
+        "Round": "21",
+        "Lap Number": "24",
+        "Driver ID": "max_verstappen",
+        "Time": "1:24.530",
+        "Position": "5"
+    },
+    {
+        "Circuit ID": "interlagos",
+        "Round": "21",
+        "Lap Number": "25",
+        "Driver ID": "max_verstappen",
+        "Time": "1:24.156",
+        "Position": "5"
+    },
+    {
+        "Circuit ID": "interlagos",
+        "Round": "21",
+        "Lap Number": "26",
+        "Driver ID": "max_verstappen",
+        "Time": "1:25.252",
+        "Position": "5"
+    },
+    {
+        "Circuit ID": "interlagos",
+        "Round": "21",
+        "Lap Number": "27",
+        "Driver ID": "max_verstappen",
+        "Time": "1:28.393",
+        "Position": "5"
+    },
+    {
+        "Circuit ID": "interlagos",
+        "Round": "21",
+        "Lap Number": "28",
+        "Driver ID": "max_verstappen",
+        "Time": "1:51.717",
+        "Position": "4"
+    },
+    {
+        "Circuit ID": "interlagos",
+        "Round": "21",
+        "Lap Number": "29",
+        "Driver ID": "max_verstappen",
+        "Time": "1:45.014",
+        "Position": "2"
+    },
+    {
+        "Circuit ID": "interlagos",
+        "Round": "21",
+        "Lap Number": "30",
+        "Driver ID": "max_verstappen",
+        "Time": "1:59.319",
+        "Position": "2"
+    },
+    {
+        "Circuit ID": "interlagos",
+        "Round": "21",
+        "Lap Number": "31",
+        "Driver ID": "max_verstappen",
+        "Time": "2:04.967",
+        "Position": "2"
+    },
+    {
+        "Circuit ID": "interlagos",
+        "Round": "21",
+        "Lap Number": "32",
+        "Driver ID": "max_verstappen",
+        "Time": "2:38.629",
+        "Position": "2"
+    },
+    {
+        "Circuit ID": "interlagos",
+        "Round": "21",
+        "Lap Number": "33",
+        "Driver ID": "max_verstappen",
+        "Time": "25:56.410",
+        "Position": "2"
+    },
+    {
+        "Circuit ID": "interlagos",
+        "Round": "21",
+        "Lap Number": "34",
+        "Driver ID": "max_verstappen",
+        "Time": "1:30.360",
+        "Position": "2"
+    },
+    {
+        "Circuit ID": "interlagos",
+        "Round": "21",
+        "Lap Number": "35",
+        "Driver ID": "max_verstappen",
+        "Time": "1:28.006",
+        "Position": "2"
+    },
+    {
+        "Circuit ID": "interlagos",
+        "Round": "21",
+        "Lap Number": "36",
+        "Driver ID": "max_verstappen",
+        "Time": "1:26.509",
+        "Position": "2"
+    },
+    {
+        "Circuit ID": "interlagos",
+        "Round": "21",
+        "Lap Number": "37",
+        "Driver ID": "max_verstappen",
+        "Time": "1:25.286",
+        "Position": "2"
+    },
+    {
+        "Circuit ID": "interlagos",
+        "Round": "21",
+        "Lap Number": "38",
+        "Driver ID": "max_verstappen",
+        "Time": "1:24.391",
+        "Position": "2"
+    },
+    {
+        "Circuit ID": "interlagos",
+        "Round": "21",
+        "Lap Number": "39",
+        "Driver ID": "max_verstappen",
+        "Time": "1:25.296",
+        "Position": "2"
+    },
+    {
+        "Circuit ID": "interlagos",
+        "Round": "21",
+        "Lap Number": "40",
+        "Driver ID": "max_verstappen",
+        "Time": "2:09.449",
+        "Position": "2"
+    },
+    {
+        "Circuit ID": "interlagos",
+        "Round": "21",
+        "Lap Number": "41",
+        "Driver ID": "max_verstappen",
+        "Time": "2:05.095",
+        "Position": "2"
+    },
+    {
+        "Circuit ID": "interlagos",
+        "Round": "21",
+        "Lap Number": "42",
+        "Driver ID": "max_verstappen",
+        "Time": "2:22.964",
+        "Position": "2"
+    },
+    {
+        "Circuit ID": "interlagos",
+        "Round": "21",
+        "Lap Number": "43",
+        "Driver ID": "max_verstappen",
+        "Time": "1:25.676",
+        "Position": "1"
+    },
+    {
+        "Circuit ID": "interlagos",
+        "Round": "21",
+        "Lap Number": "44",
+        "Driver ID": "max_verstappen",
+        "Time": "1:23.884",
+        "Position": "1"
+    },
+    {
+        "Circuit ID": "interlagos",
+        "Round": "21",
+        "Lap Number": "45",
+        "Driver ID": "max_verstappen",
+        "Time": "1:22.876",
+        "Position": "1"
+    },
+    {
+        "Circuit ID": "interlagos",
+        "Round": "21",
+        "Lap Number": "46",
+        "Driver ID": "max_verstappen",
+        "Time": "1:23.106",
+        "Position": "1"
+    },
+    {
+        "Circuit ID": "interlagos",
+        "Round": "21",
+        "Lap Number": "47",
+        "Driver ID": "max_verstappen",
+        "Time": "1:22.453",
+        "Position": "1"
+    },
+    {
+        "Circuit ID": "interlagos",
+        "Round": "21",
+        "Lap Number": "48",
+        "Driver ID": "max_verstappen",
+        "Time": "1:22.290",
+        "Position": "1"
+    },
+    {
+        "Circuit ID": "interlagos",
+        "Round": "21",
+        "Lap Number": "49",
+        "Driver ID": "max_verstappen",
+        "Time": "1:22.241",
+        "Position": "1"
+    },
+    {
+        "Circuit ID": "interlagos",
+        "Round": "21",
+        "Lap Number": "50",
+        "Driver ID": "max_verstappen",
+        "Time": "1:22.043",
+        "Position": "1"
+    },
+    {
+        "Circuit ID": "interlagos",
+        "Round": "21",
+        "Lap Number": "51",
+        "Driver ID": "max_verstappen",
+        "Time": "1:22.306",
+        "Position": "1"
+    },
+    {
+        "Circuit ID": "interlagos",
+        "Round": "21",
+        "Lap Number": "52",
+        "Driver ID": "max_verstappen",
+        "Time": "1:22.380",
+        "Position": "1"
+    },
+    {
+        "Circuit ID": "interlagos",
+        "Round": "21",
+        "Lap Number": "53",
+        "Driver ID": "max_verstappen",
+        "Time": "1:22.251",
+        "Position": "1"
+    },
+    {
+        "Circuit ID": "interlagos",
+        "Round": "21",
+        "Lap Number": "54",
+        "Driver ID": "max_verstappen",
+        "Time": "1:22.246",
+        "Position": "1"
+    },
+    {
+        "Circuit ID": "interlagos",
+        "Round": "21",
+        "Lap Number": "55",
+        "Driver ID": "max_verstappen",
+        "Time": "1:22.291",
+        "Position": "1"
+    },
+    {
+        "Circuit ID": "interlagos",
+        "Round": "21",
+        "Lap Number": "56",
+        "Driver ID": "max_verstappen",
+        "Time": "1:22.005",
+        "Position": "1"
+    },
+    {
+        "Circuit ID": "interlagos",
+        "Round": "21",
+        "Lap Number": "57",
+        "Driver ID": "max_verstappen",
+        "Time": "1:21.862",
+        "Position": "1"
+    },
+    {
+        "Circuit ID": "interlagos",
+        "Round": "21",
+        "Lap Number": "58",
+        "Driver ID": "max_verstappen",
+        "Time": "1:21.782",
+        "Position": "1"
+    },
+    {
+        "Circuit ID": "interlagos",
+        "Round": "21",
+        "Lap Number": "59",
+        "Driver ID": "max_verstappen",
+        "Time": "1:21.551",
+        "Position": "1"
+    },
+    {
+        "Circuit ID": "interlagos",
+        "Round": "21",
+        "Lap Number": "60",
+        "Driver ID": "max_verstappen",
+        "Time": "1:21.331",
+        "Position": "1"
+    },
+    {
+        "Circuit ID": "interlagos",
+        "Round": "21",
+        "Lap Number": "61",
+        "Driver ID": "max_verstappen",
+        "Time": "1:21.336",
+        "Position": "1"
+    },
+    {
+        "Circuit ID": "interlagos",
+        "Round": "21",
+        "Lap Number": "62",
+        "Driver ID": "max_verstappen",
+        "Time": "1:21.069",
+        "Position": "1"
+    },
+    {
+        "Circuit ID": "interlagos",
+        "Round": "21",
+        "Lap Number": "63",
+        "Driver ID": "max_verstappen",
+        "Time": "1:21.232",
+        "Position": "1"
+    },
+    {
+        "Circuit ID": "interlagos",
+        "Round": "21",
+        "Lap Number": "64",
+        "Driver ID": "max_verstappen",
+        "Time": "1:21.029",
+        "Position": "1"
+    },
+    {
+        "Circuit ID": "interlagos",
+        "Round": "21",
+        "Lap Number": "65",
+        "Driver ID": "max_verstappen",
+        "Time": "1:20.990",
+        "Position": "1"
+    },
+    {
+        "Circuit ID": "interlagos",
+        "Round": "21",
+        "Lap Number": "66",
+        "Driver ID": "max_verstappen",
+        "Time": "1:21.111",
+        "Position": "1"
+    },
+    {
+        "Circuit ID": "interlagos",
+        "Round": "21",
+        "Lap Number": "67",
+        "Driver ID": "max_verstappen",
+        "Time": "1:20.472",
+        "Position": "1"
+    },
+    {
+        "Circuit ID": "interlagos",
+        "Round": "21",
+        "Lap Number": "68",
+        "Driver ID": "max_verstappen",
+        "Time": "1:21.554",
+        "Position": "1"
+    },
+    {
+        "Circuit ID": "interlagos",
+        "Round": "21",
+        "Lap Number": "69",
+        "Driver ID": "max_verstappen",
+        "Time": "1:21.322",
+        "Position": "1"
+    },
+    {
+        "Circuit ID": "interlagos",
+        "Round": "21",
+        "Lap Number": "1",
+        "Driver ID": "ocon",
+        "Time": "1:34.467",
+        "Position": "4"
+    },
+    {
+        "Circuit ID": "interlagos",
+        "Round": "21",
+        "Lap Number": "2",
+        "Driver ID": "ocon",
+        "Time": "1:26.376",
+        "Position": "4"
+    },
+    {
+        "Circuit ID": "interlagos",
+        "Round": "21",
+        "Lap Number": "3",
+        "Driver ID": "ocon",
+        "Time": "1:26.338",
+        "Position": "4"
+    },
+    {
+        "Circuit ID": "interlagos",
+        "Round": "21",
+        "Lap Number": "4",
+        "Driver ID": "ocon",
+        "Time": "1:25.703",
+        "Position": "4"
+    },
+    {
+        "Circuit ID": "interlagos",
+        "Round": "21",
+        "Lap Number": "5",
+        "Driver ID": "ocon",
+        "Time": "1:25.417",
+        "Position": "4"
+    },
+    {
+        "Circuit ID": "interlagos",
+        "Round": "21",
+        "Lap Number": "6",
+        "Driver ID": "ocon",
+        "Time": "1:25.011",
+        "Position": "4"
+    },
+    {
+        "Circuit ID": "interlagos",
+        "Round": "21",
+        "Lap Number": "7",
+        "Driver ID": "ocon",
+        "Time": "1:25.380",
+        "Position": "4"
+    },
+    {
+        "Circuit ID": "interlagos",
+        "Round": "21",
+        "Lap Number": "8",
+        "Driver ID": "ocon",
+        "Time": "1:24.954",
+        "Position": "4"
+    },
+    {
+        "Circuit ID": "interlagos",
+        "Round": "21",
+        "Lap Number": "9",
+        "Driver ID": "ocon",
+        "Time": "1:24.654",
+        "Position": "4"
+    },
+    {
+        "Circuit ID": "interlagos",
+        "Round": "21",
+        "Lap Number": "10",
+        "Driver ID": "ocon",
+        "Time": "1:24.493",
+        "Position": "4"
+    },
+    {
+        "Circuit ID": "interlagos",
+        "Round": "21",
+        "Lap Number": "11",
+        "Driver ID": "ocon",
+        "Time": "1:24.782",
+        "Position": "4"
+    },
+    {
+        "Circuit ID": "interlagos",
+        "Round": "21",
+        "Lap Number": "12",
+        "Driver ID": "ocon",
+        "Time": "1:24.641",
+        "Position": "4"
+    },
+    {
+        "Circuit ID": "interlagos",
+        "Round": "21",
+        "Lap Number": "13",
+        "Driver ID": "ocon",
+        "Time": "1:24.926",
+        "Position": "4"
+    },
+    {
+        "Circuit ID": "interlagos",
+        "Round": "21",
+        "Lap Number": "14",
+        "Driver ID": "ocon",
+        "Time": "1:25.044",
+        "Position": "4"
+    },
+    {
+        "Circuit ID": "interlagos",
+        "Round": "21",
+        "Lap Number": "15",
+        "Driver ID": "ocon",
+        "Time": "1:24.896",
+        "Position": "4"
+    },
+    {
+        "Circuit ID": "interlagos",
+        "Round": "21",
+        "Lap Number": "16",
+        "Driver ID": "ocon",
+        "Time": "1:25.045",
+        "Position": "4"
+    },
+    {
+        "Circuit ID": "interlagos",
+        "Round": "21",
+        "Lap Number": "17",
+        "Driver ID": "ocon",
+        "Time": "1:24.243",
+        "Position": "4"
+    },
+    {
+        "Circuit ID": "interlagos",
+        "Round": "21",
+        "Lap Number": "18",
+        "Driver ID": "ocon",
+        "Time": "1:24.423",
+        "Position": "4"
+    },
+    {
+        "Circuit ID": "interlagos",
+        "Round": "21",
+        "Lap Number": "19",
+        "Driver ID": "ocon",
+        "Time": "1:24.222",
+        "Position": "4"
+    },
+    {
+        "Circuit ID": "interlagos",
+        "Round": "21",
+        "Lap Number": "20",
+        "Driver ID": "ocon",
+        "Time": "1:24.282",
+        "Position": "4"
+    },
+    {
+        "Circuit ID": "interlagos",
+        "Round": "21",
+        "Lap Number": "21",
+        "Driver ID": "ocon",
+        "Time": "1:24.037",
+        "Position": "4"
+    },
+    {
+        "Circuit ID": "interlagos",
+        "Round": "21",
+        "Lap Number": "22",
+        "Driver ID": "ocon",
+        "Time": "1:24.370",
+        "Position": "4"
+    },
+    {
+        "Circuit ID": "interlagos",
+        "Round": "21",
+        "Lap Number": "23",
+        "Driver ID": "ocon",
+        "Time": "1:24.606",
+        "Position": "4"
+    },
+    {
+        "Circuit ID": "interlagos",
+        "Round": "21",
+        "Lap Number": "24",
+        "Driver ID": "ocon",
+        "Time": "1:24.516",
+        "Position": "4"
+    },
+    {
+        "Circuit ID": "interlagos",
+        "Round": "21",
+        "Lap Number": "25",
+        "Driver ID": "ocon",
+        "Time": "1:25.061",
+        "Position": "4"
+    },
+    {
+        "Circuit ID": "interlagos",
+        "Round": "21",
+        "Lap Number": "26",
+        "Driver ID": "ocon",
+        "Time": "1:25.470",
+        "Position": "4"
+    },
+    {
+        "Circuit ID": "interlagos",
+        "Round": "21",
+        "Lap Number": "27",
+        "Driver ID": "ocon",
+        "Time": "1:26.620",
+        "Position": "3"
+    },
+    {
+        "Circuit ID": "interlagos",
+        "Round": "21",
+        "Lap Number": "28",
+        "Driver ID": "ocon",
+        "Time": "1:50.714",
+        "Position": "3"
+    },
+    {
+        "Circuit ID": "interlagos",
+        "Round": "21",
+        "Lap Number": "29",
+        "Driver ID": "ocon",
+        "Time": "1:40.823",
+        "Position": "1"
+    },
+    {
+        "Circuit ID": "interlagos",
+        "Round": "21",
+        "Lap Number": "30",
+        "Driver ID": "ocon",
+        "Time": "1:58.147",
+        "Position": "1"
+    },
+    {
+        "Circuit ID": "interlagos",
+        "Round": "21",
+        "Lap Number": "31",
+        "Driver ID": "ocon",
+        "Time": "2:12.110",
+        "Position": "1"
+    },
+    {
+        "Circuit ID": "interlagos",
+        "Round": "21",
+        "Lap Number": "32",
+        "Driver ID": "ocon",
+        "Time": "2:38.230",
+        "Position": "1"
+    },
+    {
+        "Circuit ID": "interlagos",
+        "Round": "21",
+        "Lap Number": "33",
+        "Driver ID": "ocon",
+        "Time": "25:57.824",
+        "Position": "1"
+    },
+    {
+        "Circuit ID": "interlagos",
+        "Round": "21",
+        "Lap Number": "34",
+        "Driver ID": "ocon",
+        "Time": "1:29.391",
+        "Position": "1"
+    },
+    {
+        "Circuit ID": "interlagos",
+        "Round": "21",
+        "Lap Number": "35",
+        "Driver ID": "ocon",
+        "Time": "1:26.913",
+        "Position": "1"
+    },
+    {
+        "Circuit ID": "interlagos",
+        "Round": "21",
+        "Lap Number": "36",
+        "Driver ID": "ocon",
+        "Time": "1:25.773",
+        "Position": "1"
+    },
+    {
+        "Circuit ID": "interlagos",
+        "Round": "21",
+        "Lap Number": "37",
+        "Driver ID": "ocon",
+        "Time": "1:25.271",
+        "Position": "1"
+    },
+    {
+        "Circuit ID": "interlagos",
+        "Round": "21",
+        "Lap Number": "38",
+        "Driver ID": "ocon",
+        "Time": "1:24.602",
+        "Position": "1"
+    },
+    {
+        "Circuit ID": "interlagos",
+        "Round": "21",
+        "Lap Number": "39",
+        "Driver ID": "ocon",
+        "Time": "1:24.420",
+        "Position": "1"
+    },
+    {
+        "Circuit ID": "interlagos",
+        "Round": "21",
+        "Lap Number": "40",
+        "Driver ID": "ocon",
+        "Time": "2:12.164",
+        "Position": "1"
+    },
+    {
+        "Circuit ID": "interlagos",
+        "Round": "21",
+        "Lap Number": "41",
+        "Driver ID": "ocon",
+        "Time": "2:05.513",
+        "Position": "1"
+    },
+    {
+        "Circuit ID": "interlagos",
+        "Round": "21",
+        "Lap Number": "42",
+        "Driver ID": "ocon",
+        "Time": "2:23.552",
+        "Position": "1"
+    },
+    {
+        "Circuit ID": "interlagos",
+        "Round": "21",
+        "Lap Number": "43",
+        "Driver ID": "ocon",
+        "Time": "1:27.354",
+        "Position": "2"
+    },
+    {
+        "Circuit ID": "interlagos",
+        "Round": "21",
+        "Lap Number": "44",
+        "Driver ID": "ocon",
+        "Time": "1:24.504",
+        "Position": "2"
+    },
+    {
+        "Circuit ID": "interlagos",
+        "Round": "21",
+        "Lap Number": "45",
+        "Driver ID": "ocon",
+        "Time": "1:23.771",
+        "Position": "2"
+    },
+    {
+        "Circuit ID": "interlagos",
+        "Round": "21",
+        "Lap Number": "46",
+        "Driver ID": "ocon",
+        "Time": "1:23.395",
+        "Position": "2"
+    },
+    {
+        "Circuit ID": "interlagos",
+        "Round": "21",
+        "Lap Number": "47",
+        "Driver ID": "ocon",
+        "Time": "1:22.946",
+        "Position": "2"
+    },
+    {
+        "Circuit ID": "interlagos",
+        "Round": "21",
+        "Lap Number": "48",
+        "Driver ID": "ocon",
+        "Time": "1:22.930",
+        "Position": "2"
+    },
+    {
+        "Circuit ID": "interlagos",
+        "Round": "21",
+        "Lap Number": "49",
+        "Driver ID": "ocon",
+        "Time": "1:22.998",
+        "Position": "2"
+    },
+    {
+        "Circuit ID": "interlagos",
+        "Round": "21",
+        "Lap Number": "50",
+        "Driver ID": "ocon",
+        "Time": "1:22.688",
+        "Position": "2"
+    },
+    {
+        "Circuit ID": "interlagos",
+        "Round": "21",
+        "Lap Number": "51",
+        "Driver ID": "ocon",
+        "Time": "1:23.167",
+        "Position": "2"
+    },
+    {
+        "Circuit ID": "interlagos",
+        "Round": "21",
+        "Lap Number": "52",
+        "Driver ID": "ocon",
+        "Time": "1:22.569",
+        "Position": "2"
+    },
+    {
+        "Circuit ID": "interlagos",
+        "Round": "21",
+        "Lap Number": "53",
+        "Driver ID": "ocon",
+        "Time": "1:22.559",
+        "Position": "2"
+    },
+    {
+        "Circuit ID": "interlagos",
+        "Round": "21",
+        "Lap Number": "54",
+        "Driver ID": "ocon",
+        "Time": "1:22.815",
+        "Position": "2"
+    },
+    {
+        "Circuit ID": "interlagos",
+        "Round": "21",
+        "Lap Number": "55",
+        "Driver ID": "ocon",
+        "Time": "1:22.670",
+        "Position": "2"
+    },
+    {
+        "Circuit ID": "interlagos",
+        "Round": "21",
+        "Lap Number": "56",
+        "Driver ID": "ocon",
+        "Time": "1:22.804",
+        "Position": "2"
+    },
+    {
+        "Circuit ID": "interlagos",
+        "Round": "21",
+        "Lap Number": "57",
+        "Driver ID": "ocon",
+        "Time": "1:22.462",
+        "Position": "2"
+    },
+    {
+        "Circuit ID": "interlagos",
+        "Round": "21",
+        "Lap Number": "58",
+        "Driver ID": "ocon",
+        "Time": "1:22.393",
+        "Position": "2"
+    },
+    {
+        "Circuit ID": "interlagos",
+        "Round": "21",
+        "Lap Number": "59",
+        "Driver ID": "ocon",
+        "Time": "1:22.160",
+        "Position": "2"
+    },
+    {
+        "Circuit ID": "interlagos",
+        "Round": "21",
+        "Lap Number": "60",
+        "Driver ID": "ocon",
+        "Time": "1:22.111",
+        "Position": "2"
+    },
+    {
+        "Circuit ID": "interlagos",
+        "Round": "21",
+        "Lap Number": "61",
+        "Driver ID": "ocon",
+        "Time": "1:22.285",
+        "Position": "2"
+    },
+    {
+        "Circuit ID": "interlagos",
+        "Round": "21",
+        "Lap Number": "62",
+        "Driver ID": "ocon",
+        "Time": "1:22.036",
+        "Position": "2"
+    },
+    {
+        "Circuit ID": "interlagos",
+        "Round": "21",
+        "Lap Number": "63",
+        "Driver ID": "ocon",
+        "Time": "1:22.020",
+        "Position": "2"
+    },
+    {
+        "Circuit ID": "interlagos",
+        "Round": "21",
+        "Lap Number": "64",
+        "Driver ID": "ocon",
+        "Time": "1:21.771",
+        "Position": "2"
+    },
+    {
+        "Circuit ID": "interlagos",
+        "Round": "21",
+        "Lap Number": "65",
+        "Driver ID": "ocon",
+        "Time": "1:21.825",
+        "Position": "2"
+    },
+    {
+        "Circuit ID": "interlagos",
+        "Round": "21",
+        "Lap Number": "66",
+        "Driver ID": "ocon",
+        "Time": "1:21.914",
+        "Position": "2"
+    },
+    {
+        "Circuit ID": "interlagos",
+        "Round": "21",
+        "Lap Number": "67",
+        "Driver ID": "ocon",
+        "Time": "1:22.108",
+        "Position": "2"
+    },
+    {
+        "Circuit ID": "interlagos",
+        "Round": "21",
+        "Lap Number": "68",
+        "Driver ID": "ocon",
+        "Time": "1:21.964",
+        "Position": "2"
+    },
+    {
+        "Circuit ID": "interlagos",
+        "Round": "21",
+        "Lap Number": "69",
+        "Driver ID": "ocon",
+        "Time": "1:22.264",
+        "Position": "2"
+    },
+    {
+        "Circuit ID": "interlagos",
+        "Round": "21",
+        "Lap Number": "1",
+        "Driver ID": "russell",
+        "Time": "1:30.516",
+        "Position": "1"
+    },
+    {
+        "Circuit ID": "interlagos",
+        "Round": "21",
+        "Lap Number": "2",
+        "Driver ID": "russell",
+        "Time": "1:25.804",
+        "Position": "1"
+    },
+    {
+        "Circuit ID": "interlagos",
+        "Round": "21",
+        "Lap Number": "3",
+        "Driver ID": "russell",
+        "Time": "1:25.598",
+        "Position": "1"
+    },
+    {
+        "Circuit ID": "interlagos",
+        "Round": "21",
+        "Lap Number": "4",
+        "Driver ID": "russell",
+        "Time": "1:25.642",
+        "Position": "1"
+    },
+    {
+        "Circuit ID": "interlagos",
+        "Round": "21",
+        "Lap Number": "5",
+        "Driver ID": "russell",
+        "Time": "1:25.317",
+        "Position": "1"
+    },
+    {
+        "Circuit ID": "interlagos",
+        "Round": "21",
+        "Lap Number": "6",
+        "Driver ID": "russell",
+        "Time": "1:24.675",
+        "Position": "1"
+    },
+    {
+        "Circuit ID": "interlagos",
+        "Round": "21",
+        "Lap Number": "7",
+        "Driver ID": "russell",
+        "Time": "1:24.854",
+        "Position": "1"
+    },
+    {
+        "Circuit ID": "interlagos",
+        "Round": "21",
+        "Lap Number": "8",
+        "Driver ID": "russell",
+        "Time": "1:24.588",
+        "Position": "1"
+    },
+    {
+        "Circuit ID": "interlagos",
+        "Round": "21",
+        "Lap Number": "9",
+        "Driver ID": "russell",
+        "Time": "1:24.238",
+        "Position": "1"
+    },
+    {
+        "Circuit ID": "interlagos",
+        "Round": "21",
+        "Lap Number": "10",
+        "Driver ID": "russell",
+        "Time": "1:24.295",
+        "Position": "1"
+    },
+    {
+        "Circuit ID": "interlagos",
+        "Round": "21",
+        "Lap Number": "11",
+        "Driver ID": "russell",
+        "Time": "1:23.928",
+        "Position": "1"
+    },
+    {
+        "Circuit ID": "interlagos",
+        "Round": "21",
+        "Lap Number": "12",
+        "Driver ID": "russell",
+        "Time": "1:24.216",
+        "Position": "1"
+    },
+    {
+        "Circuit ID": "interlagos",
+        "Round": "21",
+        "Lap Number": "13",
+        "Driver ID": "russell",
+        "Time": "1:24.672",
+        "Position": "1"
+    },
+    {
+        "Circuit ID": "interlagos",
+        "Round": "21",
+        "Lap Number": "14",
+        "Driver ID": "russell",
+        "Time": "1:24.462",
+        "Position": "1"
+    },
+    {
+        "Circuit ID": "interlagos",
+        "Round": "21",
+        "Lap Number": "15",
+        "Driver ID": "russell",
+        "Time": "1:24.383",
+        "Position": "1"
+    },
+    {
+        "Circuit ID": "interlagos",
+        "Round": "21",
+        "Lap Number": "16",
+        "Driver ID": "russell",
+        "Time": "1:23.984",
+        "Position": "1"
+    },
+    {
+        "Circuit ID": "interlagos",
+        "Round": "21",
+        "Lap Number": "17",
+        "Driver ID": "russell",
+        "Time": "1:24.710",
+        "Position": "1"
+    },
+    {
+        "Circuit ID": "interlagos",
+        "Round": "21",
+        "Lap Number": "18",
+        "Driver ID": "russell",
+        "Time": "1:24.423",
+        "Position": "1"
+    },
+    {
+        "Circuit ID": "interlagos",
+        "Round": "21",
+        "Lap Number": "19",
+        "Driver ID": "russell",
+        "Time": "1:24.338",
+        "Position": "1"
+    },
+    {
+        "Circuit ID": "interlagos",
+        "Round": "21",
+        "Lap Number": "20",
+        "Driver ID": "russell",
+        "Time": "1:23.751",
+        "Position": "1"
+    },
+    {
+        "Circuit ID": "interlagos",
+        "Round": "21",
+        "Lap Number": "21",
+        "Driver ID": "russell",
+        "Time": "1:23.517",
+        "Position": "1"
+    },
+    {
+        "Circuit ID": "interlagos",
+        "Round": "21",
+        "Lap Number": "22",
+        "Driver ID": "russell",
+        "Time": "1:23.883",
+        "Position": "1"
+    },
+    {
+        "Circuit ID": "interlagos",
+        "Round": "21",
+        "Lap Number": "23",
+        "Driver ID": "russell",
+        "Time": "1:24.127",
+        "Position": "1"
+    },
+    {
+        "Circuit ID": "interlagos",
+        "Round": "21",
+        "Lap Number": "24",
+        "Driver ID": "russell",
+        "Time": "1:24.407",
+        "Position": "1"
+    },
+    {
+        "Circuit ID": "interlagos",
+        "Round": "21",
+        "Lap Number": "25",
+        "Driver ID": "russell",
+        "Time": "1:24.470",
+        "Position": "1"
+    },
+    {
+        "Circuit ID": "interlagos",
+        "Round": "21",
+        "Lap Number": "26",
+        "Driver ID": "russell",
+        "Time": "1:25.404",
+        "Position": "1"
+    },
+    {
+        "Circuit ID": "interlagos",
+        "Round": "21",
+        "Lap Number": "27",
+        "Driver ID": "russell",
+        "Time": "1:26.877",
+        "Position": "1"
+    },
+    {
+        "Circuit ID": "interlagos",
+        "Round": "21",
+        "Lap Number": "28",
+        "Driver ID": "russell",
+        "Time": "1:54.428",
+        "Position": "1"
+    },
+    {
+        "Circuit ID": "interlagos",
+        "Round": "21",
+        "Lap Number": "29",
+        "Driver ID": "russell",
+        "Time": "2:02.979",
+        "Position": "4"
+    },
+    {
+        "Circuit ID": "interlagos",
+        "Round": "21",
+        "Lap Number": "30",
+        "Driver ID": "russell",
+        "Time": "2:02.081",
+        "Position": "5"
+    },
+    {
+        "Circuit ID": "interlagos",
+        "Round": "21",
+        "Lap Number": "31",
+        "Driver ID": "russell",
+        "Time": "2:05.485",
+        "Position": "5"
+    },
+    {
+        "Circuit ID": "interlagos",
+        "Round": "21",
+        "Lap Number": "32",
+        "Driver ID": "russell",
+        "Time": "2:42.892",
+        "Position": "5"
+    },
+    {
+        "Circuit ID": "interlagos",
+        "Round": "21",
+        "Lap Number": "33",
+        "Driver ID": "russell",
+        "Time": "25:44.799",
+        "Position": "5"
+    },
+    {
+        "Circuit ID": "interlagos",
+        "Round": "21",
+        "Lap Number": "34",
+        "Driver ID": "russell",
+        "Time": "1:35.067",
+        "Position": "4"
+    },
+    {
+        "Circuit ID": "interlagos",
+        "Round": "21",
+        "Lap Number": "35",
+        "Driver ID": "russell",
+        "Time": "1:28.677",
+        "Position": "4"
+    },
+    {
+        "Circuit ID": "interlagos",
+        "Round": "21",
+        "Lap Number": "36",
+        "Driver ID": "russell",
+        "Time": "1:26.885",
+        "Position": "4"
+    },
+    {
+        "Circuit ID": "interlagos",
+        "Round": "21",
+        "Lap Number": "37",
+        "Driver ID": "russell",
+        "Time": "1:25.886",
+        "Position": "4"
+    },
+    {
+        "Circuit ID": "interlagos",
+        "Round": "21",
+        "Lap Number": "38",
+        "Driver ID": "russell",
+        "Time": "1:24.890",
+        "Position": "4"
+    },
+    {
+        "Circuit ID": "interlagos",
+        "Round": "21",
+        "Lap Number": "39",
+        "Driver ID": "russell",
+        "Time": "1:33.033",
+        "Position": "4"
+    },
+    {
+        "Circuit ID": "interlagos",
+        "Round": "21",
+        "Lap Number": "40",
+        "Driver ID": "russell",
+        "Time": "1:57.269",
+        "Position": "4"
+    },
+    {
+        "Circuit ID": "interlagos",
+        "Round": "21",
+        "Lap Number": "41",
+        "Driver ID": "russell",
+        "Time": "2:05.823",
+        "Position": "4"
+    },
+    {
+        "Circuit ID": "interlagos",
+        "Round": "21",
+        "Lap Number": "42",
+        "Driver ID": "russell",
+        "Time": "2:19.051",
+        "Position": "4"
+    },
+    {
+        "Circuit ID": "interlagos",
+        "Round": "21",
+        "Lap Number": "43",
+        "Driver ID": "russell",
+        "Time": "1:29.684",
+        "Position": "5"
+    },
+    {
+        "Circuit ID": "interlagos",
+        "Round": "21",
+        "Lap Number": "44",
+        "Driver ID": "russell",
+        "Time": "1:25.346",
+        "Position": "5"
+    },
+    {
+        "Circuit ID": "interlagos",
+        "Round": "21",
+        "Lap Number": "45",
+        "Driver ID": "russell",
+        "Time": "1:24.451",
+        "Position": "5"
+    },
+    {
+        "Circuit ID": "interlagos",
+        "Round": "21",
+        "Lap Number": "46",
+        "Driver ID": "russell",
+        "Time": "1:24.385",
+        "Position": "4"
+    },
+    {
+        "Circuit ID": "interlagos",
+        "Round": "21",
+        "Lap Number": "47",
+        "Driver ID": "russell",
+        "Time": "1:22.843",
+        "Position": "4"
+    },
+    {
+        "Circuit ID": "interlagos",
+        "Round": "21",
+        "Lap Number": "48",
+        "Driver ID": "russell",
+        "Time": "1:22.744",
+        "Position": "4"
+    },
+    {
+        "Circuit ID": "interlagos",
+        "Round": "21",
+        "Lap Number": "49",
+        "Driver ID": "russell",
+        "Time": "1:22.552",
+        "Position": "4"
+    },
+    {
+        "Circuit ID": "interlagos",
+        "Round": "21",
+        "Lap Number": "50",
+        "Driver ID": "russell",
+        "Time": "1:22.698",
+        "Position": "4"
+    },
+    {
+        "Circuit ID": "interlagos",
+        "Round": "21",
+        "Lap Number": "51",
+        "Driver ID": "russell",
+        "Time": "1:22.661",
+        "Position": "4"
+    },
+    {
+        "Circuit ID": "interlagos",
+        "Round": "21",
+        "Lap Number": "52",
+        "Driver ID": "russell",
+        "Time": "1:22.953",
+        "Position": "4"
+    },
+    {
+        "Circuit ID": "interlagos",
+        "Round": "21",
+        "Lap Number": "53",
+        "Driver ID": "russell",
+        "Time": "1:22.427",
+        "Position": "4"
+    },
+    {
+        "Circuit ID": "interlagos",
+        "Round": "21",
+        "Lap Number": "54",
+        "Driver ID": "russell",
+        "Time": "1:22.777",
+        "Position": "4"
+    },
+    {
+        "Circuit ID": "interlagos",
+        "Round": "21",
+        "Lap Number": "55",
+        "Driver ID": "russell",
+        "Time": "1:22.527",
+        "Position": "4"
+    },
+    {
+        "Circuit ID": "interlagos",
+        "Round": "21",
+        "Lap Number": "56",
+        "Driver ID": "russell",
+        "Time": "1:22.496",
+        "Position": "4"
+    },
+    {
+        "Circuit ID": "interlagos",
+        "Round": "21",
+        "Lap Number": "57",
+        "Driver ID": "russell",
+        "Time": "1:22.815",
+        "Position": "4"
+    },
+    {
+        "Circuit ID": "interlagos",
+        "Round": "21",
+        "Lap Number": "58",
+        "Driver ID": "russell",
+        "Time": "1:22.430",
+        "Position": "4"
+    },
+    {
+        "Circuit ID": "interlagos",
+        "Round": "21",
+        "Lap Number": "59",
+        "Driver ID": "russell",
+        "Time": "1:22.163",
+        "Position": "4"
+    },
+    {
+        "Circuit ID": "interlagos",
+        "Round": "21",
+        "Lap Number": "60",
+        "Driver ID": "russell",
+        "Time": "1:22.057",
+        "Position": "4"
+    },
+    {
+        "Circuit ID": "interlagos",
+        "Round": "21",
+        "Lap Number": "61",
+        "Driver ID": "russell",
+        "Time": "1:22.161",
+        "Position": "4"
+    },
+    {
+        "Circuit ID": "interlagos",
+        "Round": "21",
+        "Lap Number": "62",
+        "Driver ID": "russell",
+        "Time": "1:22.139",
+        "Position": "4"
+    },
+    {
+        "Circuit ID": "interlagos",
+        "Round": "21",
+        "Lap Number": "63",
+        "Driver ID": "russell",
+        "Time": "1:21.908",
+        "Position": "4"
+    },
+    {
+        "Circuit ID": "interlagos",
+        "Round": "21",
+        "Lap Number": "64",
+        "Driver ID": "russell",
+        "Time": "1:21.780",
+        "Position": "4"
+    },
+    {
+        "Circuit ID": "interlagos",
+        "Round": "21",
+        "Lap Number": "65",
+        "Driver ID": "russell",
+        "Time": "1:21.851",
+        "Position": "4"
+    },
+    {
+        "Circuit ID": "interlagos",
+        "Round": "21",
+        "Lap Number": "66",
+        "Driver ID": "russell",
+        "Time": "1:21.645",
+        "Position": "4"
+    },
+    {
+        "Circuit ID": "interlagos",
+        "Round": "21",
+        "Lap Number": "67",
+        "Driver ID": "russell",
+        "Time": "1:21.886",
+        "Position": "4"
+    },
+    {
+        "Circuit ID": "interlagos",
+        "Round": "21",
+        "Lap Number": "68",
+        "Driver ID": "russell",
+        "Time": "1:21.803",
+        "Position": "4"
+    },
+    {
+        "Circuit ID": "interlagos",
+        "Round": "21",
+        "Lap Number": "69",
+        "Driver ID": "russell",
+        "Time": "1:22.189",
+        "Position": "4"
+    },
+    {
+        "Circuit ID": "interlagos",
+        "Round": "21",
+        "Lap Number": "1",
+        "Driver ID": "leclerc",
+        "Time": "1:34.968",
+        "Position": "5"
+    },
+    {
+        "Circuit ID": "interlagos",
+        "Round": "21",
+        "Lap Number": "2",
+        "Driver ID": "leclerc",
+        "Time": "1:26.521",
+        "Position": "5"
+    },
+    {
+        "Circuit ID": "interlagos",
+        "Round": "21",
+        "Lap Number": "3",
+        "Driver ID": "leclerc",
+        "Time": "1:26.205",
+        "Position": "5"
+    },
+    {
+        "Circuit ID": "interlagos",
+        "Round": "21",
+        "Lap Number": "4",
+        "Driver ID": "leclerc",
+        "Time": "1:26.165",
+        "Position": "5"
+    },
+    {
+        "Circuit ID": "interlagos",
+        "Round": "21",
+        "Lap Number": "5",
+        "Driver ID": "leclerc",
+        "Time": "1:25.018",
+        "Position": "5"
+    },
+    {
+        "Circuit ID": "interlagos",
+        "Round": "21",
+        "Lap Number": "6",
+        "Driver ID": "leclerc",
+        "Time": "1:25.087",
+        "Position": "5"
+    },
+    {
+        "Circuit ID": "interlagos",
+        "Round": "21",
+        "Lap Number": "7",
+        "Driver ID": "leclerc",
+        "Time": "1:25.353",
+        "Position": "5"
+    },
+    {
+        "Circuit ID": "interlagos",
+        "Round": "21",
+        "Lap Number": "8",
+        "Driver ID": "leclerc",
+        "Time": "1:25.076",
+        "Position": "5"
+    },
+    {
+        "Circuit ID": "interlagos",
+        "Round": "21",
+        "Lap Number": "9",
+        "Driver ID": "leclerc",
+        "Time": "1:24.674",
+        "Position": "5"
+    },
+    {
+        "Circuit ID": "interlagos",
+        "Round": "21",
+        "Lap Number": "10",
+        "Driver ID": "leclerc",
+        "Time": "1:24.672",
+        "Position": "5"
+    },
+    {
+        "Circuit ID": "interlagos",
+        "Round": "21",
+        "Lap Number": "11",
+        "Driver ID": "leclerc",
+        "Time": "1:24.432",
+        "Position": "5"
+    },
+    {
+        "Circuit ID": "interlagos",
+        "Round": "21",
+        "Lap Number": "12",
+        "Driver ID": "leclerc",
+        "Time": "1:24.755",
+        "Position": "5"
+    },
+    {
+        "Circuit ID": "interlagos",
+        "Round": "21",
+        "Lap Number": "13",
+        "Driver ID": "leclerc",
+        "Time": "1:24.943",
+        "Position": "5"
+    },
+    {
+        "Circuit ID": "interlagos",
+        "Round": "21",
+        "Lap Number": "14",
+        "Driver ID": "leclerc",
+        "Time": "1:24.948",
+        "Position": "5"
+    },
+    {
+        "Circuit ID": "interlagos",
+        "Round": "21",
+        "Lap Number": "15",
+        "Driver ID": "leclerc",
+        "Time": "1:24.652",
+        "Position": "5"
+    },
+    {
+        "Circuit ID": "interlagos",
+        "Round": "21",
+        "Lap Number": "16",
+        "Driver ID": "leclerc",
+        "Time": "1:25.249",
+        "Position": "5"
+    },
+    {
+        "Circuit ID": "interlagos",
+        "Round": "21",
+        "Lap Number": "17",
+        "Driver ID": "leclerc",
+        "Time": "1:24.271",
+        "Position": "5"
+    },
+    {
+        "Circuit ID": "interlagos",
+        "Round": "21",
+        "Lap Number": "18",
+        "Driver ID": "leclerc",
+        "Time": "1:24.351",
+        "Position": "5"
+    },
+    {
+        "Circuit ID": "interlagos",
+        "Round": "21",
+        "Lap Number": "19",
+        "Driver ID": "leclerc",
+        "Time": "1:24.243",
+        "Position": "5"
+    },
+    {
+        "Circuit ID": "interlagos",
+        "Round": "21",
+        "Lap Number": "20",
+        "Driver ID": "leclerc",
+        "Time": "1:24.231",
+        "Position": "5"
+    },
+    {
+        "Circuit ID": "interlagos",
+        "Round": "21",
+        "Lap Number": "21",
+        "Driver ID": "leclerc",
+        "Time": "1:24.802",
+        "Position": "5"
+    },
+    {
+        "Circuit ID": "interlagos",
+        "Round": "21",
+        "Lap Number": "22",
+        "Driver ID": "leclerc",
+        "Time": "1:24.309",
+        "Position": "5"
+    },
+    {
+        "Circuit ID": "interlagos",
+        "Round": "21",
+        "Lap Number": "23",
+        "Driver ID": "leclerc",
+        "Time": "1:24.137",
+        "Position": "5"
+    },
+    {
+        "Circuit ID": "interlagos",
+        "Round": "21",
+        "Lap Number": "24",
+        "Driver ID": "leclerc",
+        "Time": "1:28.997",
+        "Position": "6"
+    },
+    {
+        "Circuit ID": "interlagos",
+        "Round": "21",
+        "Lap Number": "25",
+        "Driver ID": "leclerc",
+        "Time": "1:45.082",
+        "Position": "13"
+    },
+    {
+        "Circuit ID": "interlagos",
+        "Round": "21",
+        "Lap Number": "26",
+        "Driver ID": "leclerc",
+        "Time": "1:24.479",
+        "Position": "12"
+    },
+    {
+        "Circuit ID": "interlagos",
+        "Round": "21",
+        "Lap Number": "27",
+        "Driver ID": "leclerc",
+        "Time": "1:35.274",
+        "Position": "10"
+    },
+    {
+        "Circuit ID": "interlagos",
+        "Round": "21",
+        "Lap Number": "28",
+        "Driver ID": "leclerc",
+        "Time": "1:46.521",
+        "Position": "8"
+    },
+    {
+        "Circuit ID": "interlagos",
+        "Round": "21",
+        "Lap Number": "29",
+        "Driver ID": "leclerc",
+        "Time": "1:39.370",
+        "Position": "7"
+    },
+    {
+        "Circuit ID": "interlagos",
+        "Round": "21",
+        "Lap Number": "30",
+        "Driver ID": "leclerc",
+        "Time": "1:56.007",
+        "Position": "7"
+    },
+    {
+        "Circuit ID": "interlagos",
+        "Round": "21",
+        "Lap Number": "31",
+        "Driver ID": "leclerc",
+        "Time": "2:00.957",
+        "Position": "7"
+    },
+    {
+        "Circuit ID": "interlagos",
+        "Round": "21",
+        "Lap Number": "32",
+        "Driver ID": "leclerc",
+        "Time": "2:43.725",
+        "Position": "7"
+    },
+    {
+        "Circuit ID": "interlagos",
+        "Round": "21",
+        "Lap Number": "33",
+        "Driver ID": "leclerc",
+        "Time": "25:41.212",
+        "Position": "7"
+    },
+    {
+        "Circuit ID": "interlagos",
+        "Round": "21",
+        "Lap Number": "34",
+        "Driver ID": "leclerc",
+        "Time": "1:37.098",
+        "Position": "6"
+    },
+    {
+        "Circuit ID": "interlagos",
+        "Round": "21",
+        "Lap Number": "35",
+        "Driver ID": "leclerc",
+        "Time": "1:29.146",
+        "Position": "6"
+    },
+    {
+        "Circuit ID": "interlagos",
+        "Round": "21",
+        "Lap Number": "36",
+        "Driver ID": "leclerc",
+        "Time": "1:27.467",
+        "Position": "6"
+    },
+    {
+        "Circuit ID": "interlagos",
+        "Round": "21",
+        "Lap Number": "37",
+        "Driver ID": "leclerc",
+        "Time": "1:26.055",
+        "Position": "6"
+    },
+    {
+        "Circuit ID": "interlagos",
+        "Round": "21",
+        "Lap Number": "38",
+        "Driver ID": "leclerc",
+        "Time": "1:24.880",
+        "Position": "6"
+    },
+    {
+        "Circuit ID": "interlagos",
+        "Round": "21",
+        "Lap Number": "39",
+        "Driver ID": "leclerc",
+        "Time": "1:35.846",
+        "Position": "6"
+    },
+    {
+        "Circuit ID": "interlagos",
+        "Round": "21",
+        "Lap Number": "40",
+        "Driver ID": "leclerc",
+        "Time": "1:55.628",
+        "Position": "6"
+    },
+    {
+        "Circuit ID": "interlagos",
+        "Round": "21",
+        "Lap Number": "41",
+        "Driver ID": "leclerc",
+        "Time": "2:05.604",
+        "Position": "6"
+    },
+    {
+        "Circuit ID": "interlagos",
+        "Round": "21",
+        "Lap Number": "42",
+        "Driver ID": "leclerc",
+        "Time": "2:14.283",
+        "Position": "6"
+    },
+    {
+        "Circuit ID": "interlagos",
+        "Round": "21",
+        "Lap Number": "43",
+        "Driver ID": "leclerc",
+        "Time": "1:28.797",
+        "Position": "4"
+    },
+    {
+        "Circuit ID": "interlagos",
+        "Round": "21",
+        "Lap Number": "44",
+        "Driver ID": "leclerc",
+        "Time": "1:25.195",
+        "Position": "4"
+    },
+    {
+        "Circuit ID": "interlagos",
+        "Round": "21",
+        "Lap Number": "45",
+        "Driver ID": "leclerc",
+        "Time": "1:24.390",
+        "Position": "4"
+    },
+    {
+        "Circuit ID": "interlagos",
+        "Round": "21",
+        "Lap Number": "46",
+        "Driver ID": "leclerc",
+        "Time": "1:27.032",
+        "Position": "5"
+    },
+    {
+        "Circuit ID": "interlagos",
+        "Round": "21",
+        "Lap Number": "47",
+        "Driver ID": "leclerc",
+        "Time": "1:24.145",
+        "Position": "5"
+    },
+    {
+        "Circuit ID": "interlagos",
+        "Round": "21",
+        "Lap Number": "48",
+        "Driver ID": "leclerc",
+        "Time": "1:23.536",
+        "Position": "5"
+    },
+    {
+        "Circuit ID": "interlagos",
+        "Round": "21",
+        "Lap Number": "49",
+        "Driver ID": "leclerc",
+        "Time": "1:23.324",
+        "Position": "5"
+    },
+    {
+        "Circuit ID": "interlagos",
+        "Round": "21",
+        "Lap Number": "50",
+        "Driver ID": "leclerc",
+        "Time": "1:23.720",
+        "Position": "5"
+    },
+    {
+        "Circuit ID": "interlagos",
+        "Round": "21",
+        "Lap Number": "51",
+        "Driver ID": "leclerc",
+        "Time": "1:23.500",
+        "Position": "5"
+    },
+    {
+        "Circuit ID": "interlagos",
+        "Round": "21",
+        "Lap Number": "52",
+        "Driver ID": "leclerc",
+        "Time": "1:23.142",
+        "Position": "5"
+    },
+    {
+        "Circuit ID": "interlagos",
+        "Round": "21",
+        "Lap Number": "53",
+        "Driver ID": "leclerc",
+        "Time": "1:23.118",
+        "Position": "5"
+    },
+    {
+        "Circuit ID": "interlagos",
+        "Round": "21",
+        "Lap Number": "54",
+        "Driver ID": "leclerc",
+        "Time": "1:22.957",
+        "Position": "5"
+    },
+    {
+        "Circuit ID": "interlagos",
+        "Round": "21",
+        "Lap Number": "55",
+        "Driver ID": "leclerc",
+        "Time": "1:22.707",
+        "Position": "5"
+    },
+    {
+        "Circuit ID": "interlagos",
+        "Round": "21",
+        "Lap Number": "56",
+        "Driver ID": "leclerc",
+        "Time": "1:22.728",
+        "Position": "5"
+    },
+    {
+        "Circuit ID": "interlagos",
+        "Round": "21",
+        "Lap Number": "57",
+        "Driver ID": "leclerc",
+        "Time": "1:22.512",
+        "Position": "5"
+    },
+    {
+        "Circuit ID": "interlagos",
+        "Round": "21",
+        "Lap Number": "58",
+        "Driver ID": "leclerc",
+        "Time": "1:22.017",
+        "Position": "5"
+    },
+    {
+        "Circuit ID": "interlagos",
+        "Round": "21",
+        "Lap Number": "59",
+        "Driver ID": "leclerc",
+        "Time": "1:21.893",
+        "Position": "5"
+    },
+    {
+        "Circuit ID": "interlagos",
+        "Round": "21",
+        "Lap Number": "60",
+        "Driver ID": "leclerc",
+        "Time": "1:21.631",
+        "Position": "5"
+    },
+    {
+        "Circuit ID": "interlagos",
+        "Round": "21",
+        "Lap Number": "61",
+        "Driver ID": "leclerc",
+        "Time": "1:21.910",
+        "Position": "5"
+    },
+    {
+        "Circuit ID": "interlagos",
+        "Round": "21",
+        "Lap Number": "62",
+        "Driver ID": "leclerc",
+        "Time": "1:21.789",
+        "Position": "5"
+    },
+    {
+        "Circuit ID": "interlagos",
+        "Round": "21",
+        "Lap Number": "63",
+        "Driver ID": "leclerc",
+        "Time": "1:21.675",
+        "Position": "5"
+    },
+    {
+        "Circuit ID": "interlagos",
+        "Round": "21",
+        "Lap Number": "64",
+        "Driver ID": "leclerc",
+        "Time": "1:21.682",
+        "Position": "5"
+    },
+    {
+        "Circuit ID": "interlagos",
+        "Round": "21",
+        "Lap Number": "65",
+        "Driver ID": "leclerc",
+        "Time": "1:21.752",
+        "Position": "5"
+    },
+    {
+        "Circuit ID": "interlagos",
+        "Round": "21",
+        "Lap Number": "66",
+        "Driver ID": "leclerc",
+        "Time": "1:22.131",
+        "Position": "5"
+    },
+    {
+        "Circuit ID": "interlagos",
+        "Round": "21",
+        "Lap Number": "67",
+        "Driver ID": "leclerc",
+        "Time": "1:21.973",
+        "Position": "5"
+    },
+    {
+        "Circuit ID": "interlagos",
+        "Round": "21",
+        "Lap Number": "68",
+        "Driver ID": "leclerc",
+        "Time": "1:21.664",
+        "Position": "5"
+    },
+    {
+        "Circuit ID": "interlagos",
+        "Round": "21",
+        "Lap Number": "69",
+        "Driver ID": "leclerc",
+        "Time": "1:22.994",
+        "Position": "5"
+    },
+    {
+        "Circuit ID": "interlagos",
+        "Round": "21",
+        "Lap Number": "1",
+        "Driver ID": "norris",
+        "Time": "1:31.803",
+        "Position": "2"
+    },
+    {
+        "Circuit ID": "interlagos",
+        "Round": "21",
+        "Lap Number": "2",
+        "Driver ID": "norris",
+        "Time": "1:26.207",
+        "Position": "2"
+    },
+    {
+        "Circuit ID": "interlagos",
+        "Round": "21",
+        "Lap Number": "3",
+        "Driver ID": "norris",
+        "Time": "1:25.402",
+        "Position": "2"
+    },
+    {
+        "Circuit ID": "interlagos",
+        "Round": "21",
+        "Lap Number": "4",
+        "Driver ID": "norris",
+        "Time": "1:25.165",
+        "Position": "2"
+    },
+    {
+        "Circuit ID": "interlagos",
+        "Round": "21",
+        "Lap Number": "5",
+        "Driver ID": "norris",
+        "Time": "1:25.012",
+        "Position": "2"
+    },
+    {
+        "Circuit ID": "interlagos",
+        "Round": "21",
+        "Lap Number": "6",
+        "Driver ID": "norris",
+        "Time": "1:24.922",
+        "Position": "2"
+    },
+    {
+        "Circuit ID": "interlagos",
+        "Round": "21",
+        "Lap Number": "7",
+        "Driver ID": "norris",
+        "Time": "1:25.001",
+        "Position": "2"
+    },
+    {
+        "Circuit ID": "interlagos",
+        "Round": "21",
+        "Lap Number": "8",
+        "Driver ID": "norris",
+        "Time": "1:24.454",
+        "Position": "2"
+    },
+    {
+        "Circuit ID": "interlagos",
+        "Round": "21",
+        "Lap Number": "9",
+        "Driver ID": "norris",
+        "Time": "1:24.382",
+        "Position": "2"
+    },
+    {
+        "Circuit ID": "interlagos",
+        "Round": "21",
+        "Lap Number": "10",
+        "Driver ID": "norris",
+        "Time": "1:24.088",
+        "Position": "2"
+    },
+    {
+        "Circuit ID": "interlagos",
+        "Round": "21",
+        "Lap Number": "11",
+        "Driver ID": "norris",
+        "Time": "1:24.110",
+        "Position": "2"
+    },
+    {
+        "Circuit ID": "interlagos",
+        "Round": "21",
+        "Lap Number": "12",
+        "Driver ID": "norris",
+        "Time": "1:24.072",
+        "Position": "2"
+    },
+    {
+        "Circuit ID": "interlagos",
+        "Round": "21",
+        "Lap Number": "13",
+        "Driver ID": "norris",
+        "Time": "1:24.725",
+        "Position": "2"
+    },
+    {
+        "Circuit ID": "interlagos",
+        "Round": "21",
+        "Lap Number": "14",
+        "Driver ID": "norris",
+        "Time": "1:24.437",
+        "Position": "2"
+    },
+    {
+        "Circuit ID": "interlagos",
+        "Round": "21",
+        "Lap Number": "15",
+        "Driver ID": "norris",
+        "Time": "1:24.461",
+        "Position": "2"
+    },
+    {
+        "Circuit ID": "interlagos",
+        "Round": "21",
+        "Lap Number": "16",
+        "Driver ID": "norris",
+        "Time": "1:24.484",
+        "Position": "2"
+    },
+    {
+        "Circuit ID": "interlagos",
+        "Round": "21",
+        "Lap Number": "17",
+        "Driver ID": "norris",
+        "Time": "1:23.973",
+        "Position": "2"
+    },
+    {
+        "Circuit ID": "interlagos",
+        "Round": "21",
+        "Lap Number": "18",
+        "Driver ID": "norris",
+        "Time": "1:24.505",
+        "Position": "2"
+    },
+    {
+        "Circuit ID": "interlagos",
+        "Round": "21",
+        "Lap Number": "19",
+        "Driver ID": "norris",
+        "Time": "1:24.465",
+        "Position": "2"
+    },
+    {
+        "Circuit ID": "interlagos",
+        "Round": "21",
+        "Lap Number": "20",
+        "Driver ID": "norris",
+        "Time": "1:24.197",
+        "Position": "2"
+    },
+    {
+        "Circuit ID": "interlagos",
+        "Round": "21",
+        "Lap Number": "21",
+        "Driver ID": "norris",
+        "Time": "1:23.777",
+        "Position": "2"
+    },
+    {
+        "Circuit ID": "interlagos",
+        "Round": "21",
+        "Lap Number": "22",
+        "Driver ID": "norris",
+        "Time": "1:23.592",
+        "Position": "2"
+    },
+    {
+        "Circuit ID": "interlagos",
+        "Round": "21",
+        "Lap Number": "23",
+        "Driver ID": "norris",
+        "Time": "1:23.732",
+        "Position": "2"
+    },
+    {
+        "Circuit ID": "interlagos",
+        "Round": "21",
+        "Lap Number": "24",
+        "Driver ID": "norris",
+        "Time": "1:23.982",
+        "Position": "2"
+    },
+    {
+        "Circuit ID": "interlagos",
+        "Round": "21",
+        "Lap Number": "25",
+        "Driver ID": "norris",
+        "Time": "1:24.877",
+        "Position": "2"
+    },
+    {
+        "Circuit ID": "interlagos",
+        "Round": "21",
+        "Lap Number": "26",
+        "Driver ID": "norris",
+        "Time": "1:25.114",
+        "Position": "2"
+    },
+    {
+        "Circuit ID": "interlagos",
+        "Round": "21",
+        "Lap Number": "27",
+        "Driver ID": "norris",
+        "Time": "1:26.879",
+        "Position": "2"
+    },
+    {
+        "Circuit ID": "interlagos",
+        "Round": "21",
+        "Lap Number": "28",
+        "Driver ID": "norris",
+        "Time": "1:55.212",
+        "Position": "2"
+    },
+    {
+        "Circuit ID": "interlagos",
+        "Round": "21",
+        "Lap Number": "29",
+        "Driver ID": "norris",
+        "Time": "2:02.458",
+        "Position": "5"
+    },
+    {
+        "Circuit ID": "interlagos",
+        "Round": "21",
+        "Lap Number": "30",
+        "Driver ID": "norris",
+        "Time": "1:57.236",
+        "Position": "4"
+    },
+    {
+        "Circuit ID": "interlagos",
+        "Round": "21",
+        "Lap Number": "31",
+        "Driver ID": "norris",
+        "Time": "2:06.964",
+        "Position": "4"
+    },
+    {
+        "Circuit ID": "interlagos",
+        "Round": "21",
+        "Lap Number": "32",
+        "Driver ID": "norris",
+        "Time": "2:39.932",
+        "Position": "4"
+    },
+    {
+        "Circuit ID": "interlagos",
+        "Round": "21",
+        "Lap Number": "33",
+        "Driver ID": "norris",
+        "Time": "25:49.718",
+        "Position": "4"
+    },
+    {
+        "Circuit ID": "interlagos",
+        "Round": "21",
+        "Lap Number": "34",
+        "Driver ID": "norris",
+        "Time": "1:36.887",
+        "Position": "5"
+    },
+    {
+        "Circuit ID": "interlagos",
+        "Round": "21",
+        "Lap Number": "35",
+        "Driver ID": "norris",
+        "Time": "1:29.337",
+        "Position": "5"
+    },
+    {
+        "Circuit ID": "interlagos",
+        "Round": "21",
+        "Lap Number": "36",
+        "Driver ID": "norris",
+        "Time": "1:27.235",
+        "Position": "5"
+    },
+    {
+        "Circuit ID": "interlagos",
+        "Round": "21",
+        "Lap Number": "37",
+        "Driver ID": "norris",
+        "Time": "1:25.337",
+        "Position": "5"
+    },
+    {
+        "Circuit ID": "interlagos",
+        "Round": "21",
+        "Lap Number": "38",
+        "Driver ID": "norris",
+        "Time": "1:25.282",
+        "Position": "5"
+    },
+    {
+        "Circuit ID": "interlagos",
+        "Round": "21",
+        "Lap Number": "39",
+        "Driver ID": "norris",
+        "Time": "1:33.718",
+        "Position": "5"
+    },
+    {
+        "Circuit ID": "interlagos",
+        "Round": "21",
+        "Lap Number": "40",
+        "Driver ID": "norris",
+        "Time": "1:56.606",
+        "Position": "5"
+    },
+    {
+        "Circuit ID": "interlagos",
+        "Round": "21",
+        "Lap Number": "41",
+        "Driver ID": "norris",
+        "Time": "2:05.139",
+        "Position": "5"
+    },
+    {
+        "Circuit ID": "interlagos",
+        "Round": "21",
+        "Lap Number": "42",
+        "Driver ID": "norris",
+        "Time": "2:17.692",
+        "Position": "5"
+    },
+    {
+        "Circuit ID": "interlagos",
+        "Round": "21",
+        "Lap Number": "43",
+        "Driver ID": "norris",
+        "Time": "1:31.039",
+        "Position": "7"
+    },
+    {
+        "Circuit ID": "interlagos",
+        "Round": "21",
+        "Lap Number": "44",
+        "Driver ID": "norris",
+        "Time": "1:25.605",
+        "Position": "7"
+    },
+    {
+        "Circuit ID": "interlagos",
+        "Round": "21",
+        "Lap Number": "45",
+        "Driver ID": "norris",
+        "Time": "1:24.446",
+        "Position": "7"
+    },
+    {
+        "Circuit ID": "interlagos",
+        "Round": "21",
+        "Lap Number": "46",
+        "Driver ID": "norris",
+        "Time": "1:24.879",
+        "Position": "6"
+    },
+    {
+        "Circuit ID": "interlagos",
+        "Round": "21",
+        "Lap Number": "47",
+        "Driver ID": "norris",
+        "Time": "1:24.475",
+        "Position": "6"
+    },
+    {
+        "Circuit ID": "interlagos",
+        "Round": "21",
+        "Lap Number": "48",
+        "Driver ID": "norris",
+        "Time": "1:23.990",
+        "Position": "6"
+    },
+    {
+        "Circuit ID": "interlagos",
+        "Round": "21",
+        "Lap Number": "49",
+        "Driver ID": "norris",
+        "Time": "1:23.272",
+        "Position": "6"
+    },
+    {
+        "Circuit ID": "interlagos",
+        "Round": "21",
+        "Lap Number": "50",
+        "Driver ID": "norris",
+        "Time": "1:23.373",
+        "Position": "6"
+    },
+    {
+        "Circuit ID": "interlagos",
+        "Round": "21",
+        "Lap Number": "51",
+        "Driver ID": "norris",
+        "Time": "1:23.443",
+        "Position": "6"
+    },
+    {
+        "Circuit ID": "interlagos",
+        "Round": "21",
+        "Lap Number": "52",
+        "Driver ID": "norris",
+        "Time": "1:23.349",
+        "Position": "6"
+    },
+    {
+        "Circuit ID": "interlagos",
+        "Round": "21",
+        "Lap Number": "53",
+        "Driver ID": "norris",
+        "Time": "1:23.615",
+        "Position": "6"
+    },
+    {
+        "Circuit ID": "interlagos",
+        "Round": "21",
+        "Lap Number": "54",
+        "Driver ID": "norris",
+        "Time": "1:22.817",
+        "Position": "6"
+    },
+    {
+        "Circuit ID": "interlagos",
+        "Round": "21",
+        "Lap Number": "55",
+        "Driver ID": "norris",
+        "Time": "1:22.710",
+        "Position": "6"
+    },
+    {
+        "Circuit ID": "interlagos",
+        "Round": "21",
+        "Lap Number": "56",
+        "Driver ID": "norris",
+        "Time": "1:22.985",
+        "Position": "6"
+    },
+    {
+        "Circuit ID": "interlagos",
+        "Round": "21",
+        "Lap Number": "57",
+        "Driver ID": "norris",
+        "Time": "1:22.411",
+        "Position": "6"
+    },
+    {
+        "Circuit ID": "interlagos",
+        "Round": "21",
+        "Lap Number": "58",
+        "Driver ID": "norris",
+        "Time": "1:22.420",
+        "Position": "6"
+    },
+    {
+        "Circuit ID": "interlagos",
+        "Round": "21",
+        "Lap Number": "59",
+        "Driver ID": "norris",
+        "Time": "1:22.137",
+        "Position": "6"
+    },
+    {
+        "Circuit ID": "interlagos",
+        "Round": "21",
+        "Lap Number": "60",
+        "Driver ID": "norris",
+        "Time": "1:21.759",
+        "Position": "6"
+    },
+    {
+        "Circuit ID": "interlagos",
+        "Round": "21",
+        "Lap Number": "61",
+        "Driver ID": "norris",
+        "Time": "1:21.756",
+        "Position": "6"
+    },
+    {
+        "Circuit ID": "interlagos",
+        "Round": "21",
+        "Lap Number": "62",
+        "Driver ID": "norris",
+        "Time": "1:22.541",
+        "Position": "6"
+    },
+    {
+        "Circuit ID": "interlagos",
+        "Round": "21",
+        "Lap Number": "63",
+        "Driver ID": "norris",
+        "Time": "1:21.791",
+        "Position": "6"
+    },
+    {
+        "Circuit ID": "interlagos",
+        "Round": "21",
+        "Lap Number": "64",
+        "Driver ID": "norris",
+        "Time": "1:21.538",
+        "Position": "6"
+    },
+    {
+        "Circuit ID": "interlagos",
+        "Round": "21",
+        "Lap Number": "65",
+        "Driver ID": "norris",
+        "Time": "1:21.640",
+        "Position": "6"
+    },
+    {
+        "Circuit ID": "interlagos",
+        "Round": "21",
+        "Lap Number": "66",
+        "Driver ID": "norris",
+        "Time": "1:22.018",
+        "Position": "6"
+    },
+    {
+        "Circuit ID": "interlagos",
+        "Round": "21",
+        "Lap Number": "67",
+        "Driver ID": "norris",
+        "Time": "1:21.517",
+        "Position": "6"
+    },
+    {
+        "Circuit ID": "interlagos",
+        "Round": "21",
+        "Lap Number": "68",
+        "Driver ID": "norris",
+        "Time": "1:21.886",
+        "Position": "6"
+    },
+    {
+        "Circuit ID": "interlagos",
+        "Round": "21",
+        "Lap Number": "69",
+        "Driver ID": "norris",
+        "Time": "1:21.819",
+        "Position": "6"
+    },
+    {
+        "Circuit ID": "interlagos",
+        "Round": "21",
+        "Lap Number": "1",
+        "Driver ID": "tsunoda",
+        "Time": "1:33.749",
+        "Position": "3"
+    },
+    {
+        "Circuit ID": "interlagos",
+        "Round": "21",
+        "Lap Number": "2",
+        "Driver ID": "tsunoda",
+        "Time": "1:26.351",
+        "Position": "3"
+    },
+    {
+        "Circuit ID": "interlagos",
+        "Round": "21",
+        "Lap Number": "3",
+        "Driver ID": "tsunoda",
+        "Time": "1:26.018",
+        "Position": "3"
+    },
+    {
+        "Circuit ID": "interlagos",
+        "Round": "21",
+        "Lap Number": "4",
+        "Driver ID": "tsunoda",
+        "Time": "1:25.425",
+        "Position": "3"
+    },
+    {
+        "Circuit ID": "interlagos",
+        "Round": "21",
+        "Lap Number": "5",
+        "Driver ID": "tsunoda",
+        "Time": "1:25.429",
+        "Position": "3"
+    },
+    {
+        "Circuit ID": "interlagos",
+        "Round": "21",
+        "Lap Number": "6",
+        "Driver ID": "tsunoda",
+        "Time": "1:24.903",
+        "Position": "3"
+    },
+    {
+        "Circuit ID": "interlagos",
+        "Round": "21",
+        "Lap Number": "7",
+        "Driver ID": "tsunoda",
+        "Time": "1:25.024",
+        "Position": "3"
+    },
+    {
+        "Circuit ID": "interlagos",
+        "Round": "21",
+        "Lap Number": "8",
+        "Driver ID": "tsunoda",
+        "Time": "1:25.280",
+        "Position": "3"
+    },
+    {
+        "Circuit ID": "interlagos",
+        "Round": "21",
+        "Lap Number": "9",
+        "Driver ID": "tsunoda",
+        "Time": "1:24.832",
+        "Position": "3"
+    },
+    {
+        "Circuit ID": "interlagos",
+        "Round": "21",
+        "Lap Number": "10",
+        "Driver ID": "tsunoda",
+        "Time": "1:24.592",
+        "Position": "3"
+    },
+    {
+        "Circuit ID": "interlagos",
+        "Round": "21",
+        "Lap Number": "11",
+        "Driver ID": "tsunoda",
+        "Time": "1:24.953",
+        "Position": "3"
+    },
+    {
+        "Circuit ID": "interlagos",
+        "Round": "21",
+        "Lap Number": "12",
+        "Driver ID": "tsunoda",
+        "Time": "1:24.877",
+        "Position": "3"
+    },
+    {
+        "Circuit ID": "interlagos",
+        "Round": "21",
+        "Lap Number": "13",
+        "Driver ID": "tsunoda",
+        "Time": "1:25.172",
+        "Position": "3"
+    },
+    {
+        "Circuit ID": "interlagos",
+        "Round": "21",
+        "Lap Number": "14",
+        "Driver ID": "tsunoda",
+        "Time": "1:24.827",
+        "Position": "3"
+    },
+    {
+        "Circuit ID": "interlagos",
+        "Round": "21",
+        "Lap Number": "15",
+        "Driver ID": "tsunoda",
+        "Time": "1:24.635",
+        "Position": "3"
+    },
+    {
+        "Circuit ID": "interlagos",
+        "Round": "21",
+        "Lap Number": "16",
+        "Driver ID": "tsunoda",
+        "Time": "1:24.762",
+        "Position": "3"
+    },
+    {
+        "Circuit ID": "interlagos",
+        "Round": "21",
+        "Lap Number": "17",
+        "Driver ID": "tsunoda",
+        "Time": "1:24.724",
+        "Position": "3"
+    },
+    {
+        "Circuit ID": "interlagos",
+        "Round": "21",
+        "Lap Number": "18",
+        "Driver ID": "tsunoda",
+        "Time": "1:24.547",
+        "Position": "3"
+    },
+    {
+        "Circuit ID": "interlagos",
+        "Round": "21",
+        "Lap Number": "19",
+        "Driver ID": "tsunoda",
+        "Time": "1:24.275",
+        "Position": "3"
+    },
+    {
+        "Circuit ID": "interlagos",
+        "Round": "21",
+        "Lap Number": "20",
+        "Driver ID": "tsunoda",
+        "Time": "1:24.163",
+        "Position": "3"
+    },
+    {
+        "Circuit ID": "interlagos",
+        "Round": "21",
+        "Lap Number": "21",
+        "Driver ID": "tsunoda",
+        "Time": "1:24.179",
+        "Position": "3"
+    },
+    {
+        "Circuit ID": "interlagos",
+        "Round": "21",
+        "Lap Number": "22",
+        "Driver ID": "tsunoda",
+        "Time": "1:24.390",
+        "Position": "3"
+    },
+    {
+        "Circuit ID": "interlagos",
+        "Round": "21",
+        "Lap Number": "23",
+        "Driver ID": "tsunoda",
+        "Time": "1:24.543",
+        "Position": "3"
+    },
+    {
+        "Circuit ID": "interlagos",
+        "Round": "21",
+        "Lap Number": "24",
+        "Driver ID": "tsunoda",
+        "Time": "1:24.617",
+        "Position": "3"
+    },
+    {
+        "Circuit ID": "interlagos",
+        "Round": "21",
+        "Lap Number": "25",
+        "Driver ID": "tsunoda",
+        "Time": "1:24.910",
+        "Position": "3"
+    },
+    {
+        "Circuit ID": "interlagos",
+        "Round": "21",
+        "Lap Number": "26",
+        "Driver ID": "tsunoda",
+        "Time": "1:25.424",
+        "Position": "3"
+    },
+    {
+        "Circuit ID": "interlagos",
+        "Round": "21",
+        "Lap Number": "27",
+        "Driver ID": "tsunoda",
+        "Time": "1:28.833",
+        "Position": "4"
+    },
+    {
+        "Circuit ID": "interlagos",
+        "Round": "21",
+        "Lap Number": "28",
+        "Driver ID": "tsunoda",
+        "Time": "1:57.034",
+        "Position": "5"
+    },
+    {
+        "Circuit ID": "interlagos",
+        "Round": "21",
+        "Lap Number": "29",
+        "Driver ID": "tsunoda",
+        "Time": "1:55.413",
+        "Position": "6"
+    },
+    {
+        "Circuit ID": "interlagos",
+        "Round": "21",
+        "Lap Number": "30",
+        "Driver ID": "tsunoda",
+        "Time": "1:54.797",
+        "Position": "6"
+    },
+    {
+        "Circuit ID": "interlagos",
+        "Round": "21",
+        "Lap Number": "31",
+        "Driver ID": "tsunoda",
+        "Time": "2:05.198",
+        "Position": "6"
+    },
+    {
+        "Circuit ID": "interlagos",
+        "Round": "21",
+        "Lap Number": "32",
+        "Driver ID": "tsunoda",
+        "Time": "2:43.084",
+        "Position": "6"
+    },
+    {
+        "Circuit ID": "interlagos",
+        "Round": "21",
+        "Lap Number": "33",
+        "Driver ID": "tsunoda",
+        "Time": "25:43.702",
+        "Position": "6"
+    },
+    {
+        "Circuit ID": "interlagos",
+        "Round": "21",
+        "Lap Number": "34",
+        "Driver ID": "tsunoda",
+        "Time": "1:39.418",
+        "Position": "8"
+    },
+    {
+        "Circuit ID": "interlagos",
+        "Round": "21",
+        "Lap Number": "35",
+        "Driver ID": "tsunoda",
+        "Time": "1:31.883",
+        "Position": "8"
+    },
+    {
+        "Circuit ID": "interlagos",
+        "Round": "21",
+        "Lap Number": "36",
+        "Driver ID": "tsunoda",
+        "Time": "1:29.062",
+        "Position": "8"
+    },
+    {
+        "Circuit ID": "interlagos",
+        "Round": "21",
+        "Lap Number": "37",
+        "Driver ID": "tsunoda",
+        "Time": "1:26.916",
+        "Position": "8"
+    },
+    {
+        "Circuit ID": "interlagos",
+        "Round": "21",
+        "Lap Number": "38",
+        "Driver ID": "tsunoda",
+        "Time": "1:25.788",
+        "Position": "8"
+    },
+    {
+        "Circuit ID": "interlagos",
+        "Round": "21",
+        "Lap Number": "39",
+        "Driver ID": "tsunoda",
+        "Time": "1:37.004",
+        "Position": "8"
+    },
+    {
+        "Circuit ID": "interlagos",
+        "Round": "21",
+        "Lap Number": "40",
+        "Driver ID": "tsunoda",
+        "Time": "1:51.544",
+        "Position": "8"
+    },
+    {
+        "Circuit ID": "interlagos",
+        "Round": "21",
+        "Lap Number": "41",
+        "Driver ID": "tsunoda",
+        "Time": "2:05.331",
+        "Position": "8"
+    },
+    {
+        "Circuit ID": "interlagos",
+        "Round": "21",
+        "Lap Number": "42",
+        "Driver ID": "tsunoda",
+        "Time": "2:09.387",
+        "Position": "8"
+    },
+    {
+        "Circuit ID": "interlagos",
+        "Round": "21",
+        "Lap Number": "43",
+        "Driver ID": "tsunoda",
+        "Time": "1:31.609",
+        "Position": "8"
+    },
+    {
+        "Circuit ID": "interlagos",
+        "Round": "21",
+        "Lap Number": "44",
+        "Driver ID": "tsunoda",
+        "Time": "1:26.547",
+        "Position": "8"
+    },
+    {
+        "Circuit ID": "interlagos",
+        "Round": "21",
+        "Lap Number": "45",
+        "Driver ID": "tsunoda",
+        "Time": "1:24.985",
+        "Position": "8"
+    },
+    {
+        "Circuit ID": "interlagos",
+        "Round": "21",
+        "Lap Number": "46",
+        "Driver ID": "tsunoda",
+        "Time": "1:24.787",
+        "Position": "8"
+    },
+    {
+        "Circuit ID": "interlagos",
+        "Round": "21",
+        "Lap Number": "47",
+        "Driver ID": "tsunoda",
+        "Time": "1:24.402",
+        "Position": "8"
+    },
+    {
+        "Circuit ID": "interlagos",
+        "Round": "21",
+        "Lap Number": "48",
+        "Driver ID": "tsunoda",
+        "Time": "1:24.293",
+        "Position": "8"
+    },
+    {
+        "Circuit ID": "interlagos",
+        "Round": "21",
+        "Lap Number": "49",
+        "Driver ID": "tsunoda",
+        "Time": "1:23.943",
+        "Position": "8"
+    },
+    {
+        "Circuit ID": "interlagos",
+        "Round": "21",
+        "Lap Number": "50",
+        "Driver ID": "tsunoda",
+        "Time": "1:23.596",
+        "Position": "8"
+    },
+    {
+        "Circuit ID": "interlagos",
+        "Round": "21",
+        "Lap Number": "51",
+        "Driver ID": "tsunoda",
+        "Time": "1:23.717",
+        "Position": "8"
+    },
+    {
+        "Circuit ID": "interlagos",
+        "Round": "21",
+        "Lap Number": "52",
+        "Driver ID": "tsunoda",
+        "Time": "1:24.536",
+        "Position": "8"
+    },
+    {
+        "Circuit ID": "interlagos",
+        "Round": "21",
+        "Lap Number": "53",
+        "Driver ID": "tsunoda",
+        "Time": "1:23.545",
+        "Position": "8"
+    },
+    {
+        "Circuit ID": "interlagos",
+        "Round": "21",
+        "Lap Number": "54",
+        "Driver ID": "tsunoda",
+        "Time": "1:23.512",
+        "Position": "8"
+    },
+    {
+        "Circuit ID": "interlagos",
+        "Round": "21",
+        "Lap Number": "55",
+        "Driver ID": "tsunoda",
+        "Time": "1:23.118",
+        "Position": "8"
+    },
+    {
+        "Circuit ID": "interlagos",
+        "Round": "21",
+        "Lap Number": "56",
+        "Driver ID": "tsunoda",
+        "Time": "1:23.061",
+        "Position": "8"
+    },
+    {
+        "Circuit ID": "interlagos",
+        "Round": "21",
+        "Lap Number": "57",
+        "Driver ID": "tsunoda",
+        "Time": "1:22.766",
+        "Position": "8"
+    },
+    {
+        "Circuit ID": "interlagos",
+        "Round": "21",
+        "Lap Number": "58",
+        "Driver ID": "tsunoda",
+        "Time": "1:23.000",
+        "Position": "8"
+    },
+    {
+        "Circuit ID": "interlagos",
+        "Round": "21",
+        "Lap Number": "59",
+        "Driver ID": "tsunoda",
+        "Time": "1:22.872",
+        "Position": "8"
+    },
+    {
+        "Circuit ID": "interlagos",
+        "Round": "21",
+        "Lap Number": "60",
+        "Driver ID": "tsunoda",
+        "Time": "1:22.664",
+        "Position": "8"
+    },
+    {
+        "Circuit ID": "interlagos",
+        "Round": "21",
+        "Lap Number": "61",
+        "Driver ID": "tsunoda",
+        "Time": "1:22.405",
+        "Position": "8"
+    },
+    {
+        "Circuit ID": "interlagos",
+        "Round": "21",
+        "Lap Number": "62",
+        "Driver ID": "tsunoda",
+        "Time": "1:22.236",
+        "Position": "8"
+    },
+    {
+        "Circuit ID": "interlagos",
+        "Round": "21",
+        "Lap Number": "63",
+        "Driver ID": "tsunoda",
+        "Time": "1:22.047",
+        "Position": "8"
+    },
+    {
+        "Circuit ID": "interlagos",
+        "Round": "21",
+        "Lap Number": "64",
+        "Driver ID": "tsunoda",
+        "Time": "1:22.035",
+        "Position": "8"
+    },
+    {
+        "Circuit ID": "interlagos",
+        "Round": "21",
+        "Lap Number": "65",
+        "Driver ID": "tsunoda",
+        "Time": "1:21.955",
+        "Position": "8"
+    },
+    {
+        "Circuit ID": "interlagos",
+        "Round": "21",
+        "Lap Number": "66",
+        "Driver ID": "tsunoda",
+        "Time": "1:22.159",
+        "Position": "8"
+    },
+    {
+        "Circuit ID": "interlagos",
+        "Round": "21",
+        "Lap Number": "67",
+        "Driver ID": "tsunoda",
+        "Time": "1:21.894",
+        "Position": "8"
+    },
+    {
+        "Circuit ID": "interlagos",
+        "Round": "21",
+        "Lap Number": "68",
+        "Driver ID": "tsunoda",
+        "Time": "1:21.979",
+        "Position": "8"
+    },
+    {
+        "Circuit ID": "interlagos",
+        "Round": "21",
+        "Lap Number": "69",
+        "Driver ID": "tsunoda",
+        "Time": "1:21.828",
+        "Position": "8"
+    },
+    {
+        "Circuit ID": "interlagos",
+        "Round": "21",
+        "Lap Number": "1",
+        "Driver ID": "lawson",
+        "Time": "1:35.992",
+        "Position": "6"
+    },
+    {
+        "Circuit ID": "interlagos",
+        "Round": "21",
+        "Lap Number": "2",
+        "Driver ID": "lawson",
+        "Time": "1:26.807",
+        "Position": "6"
+    },
+    {
+        "Circuit ID": "interlagos",
+        "Round": "21",
+        "Lap Number": "3",
+        "Driver ID": "lawson",
+        "Time": "1:26.348",
+        "Position": "6"
+    },
+    {
+        "Circuit ID": "interlagos",
+        "Round": "21",
+        "Lap Number": "4",
+        "Driver ID": "lawson",
+        "Time": "1:26.217",
+        "Position": "6"
+    },
+    {
+        "Circuit ID": "interlagos",
+        "Round": "21",
+        "Lap Number": "5",
+        "Driver ID": "lawson",
+        "Time": "1:25.366",
+        "Position": "6"
+    },
+    {
+        "Circuit ID": "interlagos",
+        "Round": "21",
+        "Lap Number": "6",
+        "Driver ID": "lawson",
+        "Time": "1:25.072",
+        "Position": "6"
+    },
+    {
+        "Circuit ID": "interlagos",
+        "Round": "21",
+        "Lap Number": "7",
+        "Driver ID": "lawson",
+        "Time": "1:25.411",
+        "Position": "6"
+    },
+    {
+        "Circuit ID": "interlagos",
+        "Round": "21",
+        "Lap Number": "8",
+        "Driver ID": "lawson",
+        "Time": "1:25.237",
+        "Position": "6"
+    },
+    {
+        "Circuit ID": "interlagos",
+        "Round": "21",
+        "Lap Number": "9",
+        "Driver ID": "lawson",
+        "Time": "1:24.682",
+        "Position": "6"
+    },
+    {
+        "Circuit ID": "interlagos",
+        "Round": "21",
+        "Lap Number": "10",
+        "Driver ID": "lawson",
+        "Time": "1:24.976",
+        "Position": "6"
+    },
+    {
+        "Circuit ID": "interlagos",
+        "Round": "21",
+        "Lap Number": "11",
+        "Driver ID": "lawson",
+        "Time": "1:26.020",
+        "Position": "7"
+    },
+    {
+        "Circuit ID": "interlagos",
+        "Round": "21",
+        "Lap Number": "12",
+        "Driver ID": "lawson",
+        "Time": "1:24.834",
+        "Position": "7"
+    },
+    {
+        "Circuit ID": "interlagos",
+        "Round": "21",
+        "Lap Number": "13",
+        "Driver ID": "lawson",
+        "Time": "1:25.210",
+        "Position": "7"
+    },
+    {
+        "Circuit ID": "interlagos",
+        "Round": "21",
+        "Lap Number": "14",
+        "Driver ID": "lawson",
+        "Time": "1:24.813",
+        "Position": "7"
+    },
+    {
+        "Circuit ID": "interlagos",
+        "Round": "21",
+        "Lap Number": "15",
+        "Driver ID": "lawson",
+        "Time": "1:25.154",
+        "Position": "7"
+    },
+    {
+        "Circuit ID": "interlagos",
+        "Round": "21",
+        "Lap Number": "16",
+        "Driver ID": "lawson",
+        "Time": "1:24.984",
+        "Position": "7"
+    },
+    {
+        "Circuit ID": "interlagos",
+        "Round": "21",
+        "Lap Number": "17",
+        "Driver ID": "lawson",
+        "Time": "1:24.525",
+        "Position": "7"
+    },
+    {
+        "Circuit ID": "interlagos",
+        "Round": "21",
+        "Lap Number": "18",
+        "Driver ID": "lawson",
+        "Time": "1:24.682",
+        "Position": "7"
+    },
+    {
+        "Circuit ID": "interlagos",
+        "Round": "21",
+        "Lap Number": "19",
+        "Driver ID": "lawson",
+        "Time": "1:24.607",
+        "Position": "7"
+    },
+    {
+        "Circuit ID": "interlagos",
+        "Round": "21",
+        "Lap Number": "20",
+        "Driver ID": "lawson",
+        "Time": "1:24.034",
+        "Position": "7"
+    },
+    {
+        "Circuit ID": "interlagos",
+        "Round": "21",
+        "Lap Number": "21",
+        "Driver ID": "lawson",
+        "Time": "1:24.170",
+        "Position": "7"
+    },
+    {
+        "Circuit ID": "interlagos",
+        "Round": "21",
+        "Lap Number": "22",
+        "Driver ID": "lawson",
+        "Time": "1:24.365",
+        "Position": "7"
+    },
+    {
+        "Circuit ID": "interlagos",
+        "Round": "21",
+        "Lap Number": "23",
+        "Driver ID": "lawson",
+        "Time": "1:25.000",
+        "Position": "7"
+    },
+    {
+        "Circuit ID": "interlagos",
+        "Round": "21",
+        "Lap Number": "24",
+        "Driver ID": "lawson",
+        "Time": "1:24.757",
+        "Position": "7"
+    },
+    {
+        "Circuit ID": "interlagos",
+        "Round": "21",
+        "Lap Number": "25",
+        "Driver ID": "lawson",
+        "Time": "1:24.915",
+        "Position": "6"
+    },
+    {
+        "Circuit ID": "interlagos",
+        "Round": "21",
+        "Lap Number": "26",
+        "Driver ID": "lawson",
+        "Time": "1:32.246",
+        "Position": "9"
+    },
+    {
+        "Circuit ID": "interlagos",
+        "Round": "21",
+        "Lap Number": "27",
+        "Driver ID": "lawson",
+        "Time": "1:37.664",
+        "Position": "9"
+    },
+    {
+        "Circuit ID": "interlagos",
+        "Round": "21",
+        "Lap Number": "28",
+        "Driver ID": "lawson",
+        "Time": "1:53.045",
+        "Position": "7"
+    },
+    {
+        "Circuit ID": "interlagos",
+        "Round": "21",
+        "Lap Number": "29",
+        "Driver ID": "lawson",
+        "Time": "2:05.322",
+        "Position": "11"
+    },
+    {
+        "Circuit ID": "interlagos",
+        "Round": "21",
+        "Lap Number": "30",
+        "Driver ID": "lawson",
+        "Time": "1:54.922",
+        "Position": "10"
+    },
+    {
+        "Circuit ID": "interlagos",
+        "Round": "21",
+        "Lap Number": "31",
+        "Driver ID": "lawson",
+        "Time": "1:52.061",
+        "Position": "10"
+    },
+    {
+        "Circuit ID": "interlagos",
+        "Round": "21",
+        "Lap Number": "32",
+        "Driver ID": "lawson",
+        "Time": "2:38.789",
+        "Position": "10"
+    },
+    {
+        "Circuit ID": "interlagos",
+        "Round": "21",
+        "Lap Number": "33",
+        "Driver ID": "lawson",
+        "Time": "25:34.389",
+        "Position": "10"
+    },
+    {
+        "Circuit ID": "interlagos",
+        "Round": "21",
+        "Lap Number": "34",
+        "Driver ID": "lawson",
+        "Time": "1:39.368",
+        "Position": "11"
+    },
+    {
+        "Circuit ID": "interlagos",
+        "Round": "21",
+        "Lap Number": "35",
+        "Driver ID": "lawson",
+        "Time": "1:32.634",
+        "Position": "11"
+    },
+    {
+        "Circuit ID": "interlagos",
+        "Round": "21",
+        "Lap Number": "36",
+        "Driver ID": "lawson",
+        "Time": "1:29.301",
+        "Position": "11"
+    },
+    {
+        "Circuit ID": "interlagos",
+        "Round": "21",
+        "Lap Number": "37",
+        "Driver ID": "lawson",
+        "Time": "1:28.046",
+        "Position": "11"
+    },
+    {
+        "Circuit ID": "interlagos",
+        "Round": "21",
+        "Lap Number": "38",
+        "Driver ID": "lawson",
+        "Time": "1:26.873",
+        "Position": "11"
+    },
+    {
+        "Circuit ID": "interlagos",
+        "Round": "21",
+        "Lap Number": "39",
+        "Driver ID": "lawson",
+        "Time": "1:39.603",
+        "Position": "11"
+    },
+    {
+        "Circuit ID": "interlagos",
+        "Round": "21",
+        "Lap Number": "40",
+        "Driver ID": "lawson",
+        "Time": "1:50.352",
+        "Position": "11"
+    },
+    {
+        "Circuit ID": "interlagos",
+        "Round": "21",
+        "Lap Number": "41",
+        "Driver ID": "lawson",
+        "Time": "2:04.355",
+        "Position": "11"
+    },
+    {
+        "Circuit ID": "interlagos",
+        "Round": "21",
+        "Lap Number": "42",
+        "Driver ID": "lawson",
+        "Time": "2:05.853",
+        "Position": "11"
+    },
+    {
+        "Circuit ID": "interlagos",
+        "Round": "21",
+        "Lap Number": "43",
+        "Driver ID": "lawson",
+        "Time": "1:30.558",
+        "Position": "9"
+    },
+    {
+        "Circuit ID": "interlagos",
+        "Round": "21",
+        "Lap Number": "44",
+        "Driver ID": "lawson",
+        "Time": "1:26.375",
+        "Position": "9"
+    },
+    {
+        "Circuit ID": "interlagos",
+        "Round": "21",
+        "Lap Number": "45",
+        "Driver ID": "lawson",
+        "Time": "1:25.120",
+        "Position": "9"
+    },
+    {
+        "Circuit ID": "interlagos",
+        "Round": "21",
+        "Lap Number": "46",
+        "Driver ID": "lawson",
+        "Time": "1:24.814",
+        "Position": "9"
+    },
+    {
+        "Circuit ID": "interlagos",
+        "Round": "21",
+        "Lap Number": "47",
+        "Driver ID": "lawson",
+        "Time": "1:24.404",
+        "Position": "9"
+    },
+    {
+        "Circuit ID": "interlagos",
+        "Round": "21",
+        "Lap Number": "48",
+        "Driver ID": "lawson",
+        "Time": "1:24.324",
+        "Position": "9"
+    },
+    {
+        "Circuit ID": "interlagos",
+        "Round": "21",
+        "Lap Number": "49",
+        "Driver ID": "lawson",
+        "Time": "1:24.049",
+        "Position": "9"
+    },
+    {
+        "Circuit ID": "interlagos",
+        "Round": "21",
+        "Lap Number": "50",
+        "Driver ID": "lawson",
+        "Time": "1:23.687",
+        "Position": "9"
+    },
+    {
+        "Circuit ID": "interlagos",
+        "Round": "21",
+        "Lap Number": "51",
+        "Driver ID": "lawson",
+        "Time": "1:24.090",
+        "Position": "9"
+    },
+    {
+        "Circuit ID": "interlagos",
+        "Round": "21",
+        "Lap Number": "52",
+        "Driver ID": "lawson",
+        "Time": "1:24.199",
+        "Position": "9"
+    },
+    {
+        "Circuit ID": "interlagos",
+        "Round": "21",
+        "Lap Number": "53",
+        "Driver ID": "lawson",
+        "Time": "1:24.048",
+        "Position": "9"
+    },
+    {
+        "Circuit ID": "interlagos",
+        "Round": "21",
+        "Lap Number": "54",
+        "Driver ID": "lawson",
+        "Time": "1:23.942",
+        "Position": "9"
+    },
+    {
+        "Circuit ID": "interlagos",
+        "Round": "21",
+        "Lap Number": "55",
+        "Driver ID": "lawson",
+        "Time": "1:23.697",
+        "Position": "9"
+    },
+    {
+        "Circuit ID": "interlagos",
+        "Round": "21",
+        "Lap Number": "56",
+        "Driver ID": "lawson",
+        "Time": "1:23.385",
+        "Position": "9"
+    },
+    {
+        "Circuit ID": "interlagos",
+        "Round": "21",
+        "Lap Number": "57",
+        "Driver ID": "lawson",
+        "Time": "1:22.953",
+        "Position": "9"
+    },
+    {
+        "Circuit ID": "interlagos",
+        "Round": "21",
+        "Lap Number": "58",
+        "Driver ID": "lawson",
+        "Time": "1:23.769",
+        "Position": "9"
+    },
+    {
+        "Circuit ID": "interlagos",
+        "Round": "21",
+        "Lap Number": "59",
+        "Driver ID": "lawson",
+        "Time": "1:23.152",
+        "Position": "9"
+    },
+    {
+        "Circuit ID": "interlagos",
+        "Round": "21",
+        "Lap Number": "60",
+        "Driver ID": "lawson",
+        "Time": "1:23.100",
+        "Position": "9"
+    },
+    {
+        "Circuit ID": "interlagos",
+        "Round": "21",
+        "Lap Number": "61",
+        "Driver ID": "lawson",
+        "Time": "1:22.653",
+        "Position": "9"
+    },
+    {
+        "Circuit ID": "interlagos",
+        "Round": "21",
+        "Lap Number": "62",
+        "Driver ID": "lawson",
+        "Time": "1:22.729",
+        "Position": "9"
+    },
+    {
+        "Circuit ID": "interlagos",
+        "Round": "21",
+        "Lap Number": "63",
+        "Driver ID": "lawson",
+        "Time": "1:22.292",
+        "Position": "9"
+    },
+    {
+        "Circuit ID": "interlagos",
+        "Round": "21",
+        "Lap Number": "64",
+        "Driver ID": "lawson",
+        "Time": "1:22.427",
+        "Position": "9"
+    },
+    {
+        "Circuit ID": "interlagos",
+        "Round": "21",
+        "Lap Number": "65",
+        "Driver ID": "lawson",
+        "Time": "1:22.515",
+        "Position": "9"
+    },
+    {
+        "Circuit ID": "interlagos",
+        "Round": "21",
+        "Lap Number": "66",
+        "Driver ID": "lawson",
+        "Time": "1:22.652",
+        "Position": "9"
+    },
+    {
+        "Circuit ID": "interlagos",
+        "Round": "21",
+        "Lap Number": "67",
+        "Driver ID": "lawson",
+        "Time": "1:22.123",
+        "Position": "9"
+    },
+    {
+        "Circuit ID": "interlagos",
+        "Round": "21",
+        "Lap Number": "68",
+        "Driver ID": "lawson",
+        "Time": "1:22.291",
+        "Position": "9"
+    },
+    {
+        "Circuit ID": "interlagos",
+        "Round": "21",
+        "Lap Number": "69",
+        "Driver ID": "lawson",
+        "Time": "1:22.533",
+        "Position": "9"
+    },
+    {
+        "Circuit ID": "interlagos",
+        "Round": "21",
+        "Lap Number": "1",
+        "Driver ID": "hamilton",
+        "Time": "1:38.874",
+        "Position": "10"
+    },
+    {
+        "Circuit ID": "interlagos",
+        "Round": "21",
+        "Lap Number": "2",
+        "Driver ID": "hamilton",
+        "Time": "1:27.832",
+        "Position": "11"
+    },
+    {
+        "Circuit ID": "interlagos",
+        "Round": "21",
+        "Lap Number": "3",
+        "Driver ID": "hamilton",
+        "Time": "1:26.853",
+        "Position": "11"
+    },
+    {
+        "Circuit ID": "interlagos",
+        "Round": "21",
+        "Lap Number": "4",
+        "Driver ID": "hamilton",
+        "Time": "1:26.659",
+        "Position": "11"
+    },
+    {
+        "Circuit ID": "interlagos",
+        "Round": "21",
+        "Lap Number": "5",
+        "Driver ID": "hamilton",
+        "Time": "1:25.992",
+        "Position": "11"
+    },
+    {
+        "Circuit ID": "interlagos",
+        "Round": "21",
+        "Lap Number": "6",
+        "Driver ID": "hamilton",
+        "Time": "1:26.101",
+        "Position": "11"
+    },
+    {
+        "Circuit ID": "interlagos",
+        "Round": "21",
+        "Lap Number": "7",
+        "Driver ID": "hamilton",
+        "Time": "1:25.254",
+        "Position": "11"
+    },
+    {
+        "Circuit ID": "interlagos",
+        "Round": "21",
+        "Lap Number": "8",
+        "Driver ID": "hamilton",
+        "Time": "1:25.153",
+        "Position": "11"
+    },
+    {
+        "Circuit ID": "interlagos",
+        "Round": "21",
+        "Lap Number": "9",
+        "Driver ID": "hamilton",
+        "Time": "1:24.646",
+        "Position": "11"
+    },
+    {
+        "Circuit ID": "interlagos",
+        "Round": "21",
+        "Lap Number": "10",
+        "Driver ID": "hamilton",
+        "Time": "1:25.330",
+        "Position": "11"
+    },
+    {
+        "Circuit ID": "interlagos",
+        "Round": "21",
+        "Lap Number": "11",
+        "Driver ID": "hamilton",
+        "Time": "1:31.858",
+        "Position": "12"
+    },
+    {
+        "Circuit ID": "interlagos",
+        "Round": "21",
+        "Lap Number": "12",
+        "Driver ID": "hamilton",
+        "Time": "1:26.433",
+        "Position": "13"
+    },
+    {
+        "Circuit ID": "interlagos",
+        "Round": "21",
+        "Lap Number": "13",
+        "Driver ID": "hamilton",
+        "Time": "1:24.559",
+        "Position": "13"
+    },
+    {
+        "Circuit ID": "interlagos",
+        "Round": "21",
+        "Lap Number": "14",
+        "Driver ID": "hamilton",
+        "Time": "1:24.510",
+        "Position": "13"
+    },
+    {
+        "Circuit ID": "interlagos",
+        "Round": "21",
+        "Lap Number": "15",
+        "Driver ID": "hamilton",
+        "Time": "1:25.793",
+        "Position": "13"
+    },
+    {
+        "Circuit ID": "interlagos",
+        "Round": "21",
+        "Lap Number": "16",
+        "Driver ID": "hamilton",
+        "Time": "1:25.448",
+        "Position": "13"
+    },
+    {
+        "Circuit ID": "interlagos",
+        "Round": "21",
+        "Lap Number": "17",
+        "Driver ID": "hamilton",
+        "Time": "1:24.732",
+        "Position": "13"
+    },
+    {
+        "Circuit ID": "interlagos",
+        "Round": "21",
+        "Lap Number": "18",
+        "Driver ID": "hamilton",
+        "Time": "1:26.035",
+        "Position": "14"
+    },
+    {
+        "Circuit ID": "interlagos",
+        "Round": "21",
+        "Lap Number": "19",
+        "Driver ID": "hamilton",
+        "Time": "1:26.872",
+        "Position": "15"
+    },
+    {
+        "Circuit ID": "interlagos",
+        "Round": "21",
+        "Lap Number": "20",
+        "Driver ID": "hamilton",
+        "Time": "1:24.315",
+        "Position": "15"
+    },
+    {
+        "Circuit ID": "interlagos",
+        "Round": "21",
+        "Lap Number": "21",
+        "Driver ID": "hamilton",
+        "Time": "1:24.385",
+        "Position": "15"
+    },
+    {
+        "Circuit ID": "interlagos",
+        "Round": "21",
+        "Lap Number": "22",
+        "Driver ID": "hamilton",
+        "Time": "1:24.506",
+        "Position": "14"
+    },
+    {
+        "Circuit ID": "interlagos",
+        "Round": "21",
+        "Lap Number": "23",
+        "Driver ID": "hamilton",
+        "Time": "1:24.555",
+        "Position": "13"
+    },
+    {
+        "Circuit ID": "interlagos",
+        "Round": "21",
+        "Lap Number": "24",
+        "Driver ID": "hamilton",
+        "Time": "1:23.973",
+        "Position": "13"
+    },
+    {
+        "Circuit ID": "interlagos",
+        "Round": "21",
+        "Lap Number": "25",
+        "Driver ID": "hamilton",
+        "Time": "1:25.165",
+        "Position": "12"
+    },
+    {
+        "Circuit ID": "interlagos",
+        "Round": "21",
+        "Lap Number": "26",
+        "Driver ID": "hamilton",
+        "Time": "1:24.983",
+        "Position": "11"
+    },
+    {
+        "Circuit ID": "interlagos",
+        "Round": "21",
+        "Lap Number": "27",
+        "Driver ID": "hamilton",
+        "Time": "1:40.067",
+        "Position": "12"
+    },
+    {
+        "Circuit ID": "interlagos",
+        "Round": "21",
+        "Lap Number": "28",
+        "Driver ID": "hamilton",
+        "Time": "1:59.838",
+        "Position": "12"
+    },
+    {
+        "Circuit ID": "interlagos",
+        "Round": "21",
+        "Lap Number": "29",
+        "Driver ID": "hamilton",
+        "Time": "1:45.316",
+        "Position": "10"
+    },
+    {
+        "Circuit ID": "interlagos",
+        "Round": "21",
+        "Lap Number": "30",
+        "Driver ID": "hamilton",
+        "Time": "1:56.004",
+        "Position": "11"
+    },
+    {
+        "Circuit ID": "interlagos",
+        "Round": "21",
+        "Lap Number": "31",
+        "Driver ID": "hamilton",
+        "Time": "1:52.031",
+        "Position": "11"
+    },
+    {
+        "Circuit ID": "interlagos",
+        "Round": "21",
+        "Lap Number": "32",
+        "Driver ID": "hamilton",
+        "Time": "2:40.982",
+        "Position": "11"
+    },
+    {
+        "Circuit ID": "interlagos",
+        "Round": "21",
+        "Lap Number": "33",
+        "Driver ID": "hamilton",
+        "Time": "25:32.480",
+        "Position": "11"
+    },
+    {
+        "Circuit ID": "interlagos",
+        "Round": "21",
+        "Lap Number": "34",
+        "Driver ID": "hamilton",
+        "Time": "1:37.691",
+        "Position": "9"
+    },
+    {
+        "Circuit ID": "interlagos",
+        "Round": "21",
+        "Lap Number": "35",
+        "Driver ID": "hamilton",
+        "Time": "1:31.457",
+        "Position": "9"
+    },
+    {
+        "Circuit ID": "interlagos",
+        "Round": "21",
+        "Lap Number": "36",
+        "Driver ID": "hamilton",
+        "Time": "1:28.763",
+        "Position": "9"
+    },
+    {
+        "Circuit ID": "interlagos",
+        "Round": "21",
+        "Lap Number": "37",
+        "Driver ID": "hamilton",
+        "Time": "1:27.526",
+        "Position": "9"
+    },
+    {
+        "Circuit ID": "interlagos",
+        "Round": "21",
+        "Lap Number": "38",
+        "Driver ID": "hamilton",
+        "Time": "1:26.370",
+        "Position": "9"
+    },
+    {
+        "Circuit ID": "interlagos",
+        "Round": "21",
+        "Lap Number": "39",
+        "Driver ID": "hamilton",
+        "Time": "1:38.741",
+        "Position": "9"
+    },
+    {
+        "Circuit ID": "interlagos",
+        "Round": "21",
+        "Lap Number": "40",
+        "Driver ID": "hamilton",
+        "Time": "1:49.874",
+        "Position": "9"
+    },
+    {
+        "Circuit ID": "interlagos",
+        "Round": "21",
+        "Lap Number": "41",
+        "Driver ID": "hamilton",
+        "Time": "2:05.297",
+        "Position": "9"
+    },
+    {
+        "Circuit ID": "interlagos",
+        "Round": "21",
+        "Lap Number": "42",
+        "Driver ID": "hamilton",
+        "Time": "2:08.111",
+        "Position": "9"
+    },
+    {
+        "Circuit ID": "interlagos",
+        "Round": "21",
+        "Lap Number": "43",
+        "Driver ID": "hamilton",
+        "Time": "1:34.637",
+        "Position": "11"
+    },
+    {
+        "Circuit ID": "interlagos",
+        "Round": "21",
+        "Lap Number": "44",
+        "Driver ID": "hamilton",
+        "Time": "1:25.777",
+        "Position": "11"
+    },
+    {
+        "Circuit ID": "interlagos",
+        "Round": "21",
+        "Lap Number": "45",
+        "Driver ID": "hamilton",
+        "Time": "1:24.825",
+        "Position": "11"
+    },
+    {
+        "Circuit ID": "interlagos",
+        "Round": "21",
+        "Lap Number": "46",
+        "Driver ID": "hamilton",
+        "Time": "1:24.622",
+        "Position": "11"
+    },
+    {
+        "Circuit ID": "interlagos",
+        "Round": "21",
+        "Lap Number": "47",
+        "Driver ID": "hamilton",
+        "Time": "1:24.794",
+        "Position": "11"
+    },
+    {
+        "Circuit ID": "interlagos",
+        "Round": "21",
+        "Lap Number": "48",
+        "Driver ID": "hamilton",
+        "Time": "1:24.246",
+        "Position": "11"
+    },
+    {
+        "Circuit ID": "interlagos",
+        "Round": "21",
+        "Lap Number": "49",
+        "Driver ID": "hamilton",
+        "Time": "1:24.020",
+        "Position": "11"
+    },
+    {
+        "Circuit ID": "interlagos",
+        "Round": "21",
+        "Lap Number": "50",
+        "Driver ID": "hamilton",
+        "Time": "1:23.698",
+        "Position": "11"
+    },
+    {
+        "Circuit ID": "interlagos",
+        "Round": "21",
+        "Lap Number": "51",
+        "Driver ID": "hamilton",
+        "Time": "1:23.963",
+        "Position": "11"
+    },
+    {
+        "Circuit ID": "interlagos",
+        "Round": "21",
+        "Lap Number": "52",
+        "Driver ID": "hamilton",
+        "Time": "1:24.276",
+        "Position": "11"
+    },
+    {
+        "Circuit ID": "interlagos",
+        "Round": "21",
+        "Lap Number": "53",
+        "Driver ID": "hamilton",
+        "Time": "1:23.840",
+        "Position": "11"
+    },
+    {
+        "Circuit ID": "interlagos",
+        "Round": "21",
+        "Lap Number": "54",
+        "Driver ID": "hamilton",
+        "Time": "1:23.528",
+        "Position": "11"
+    },
+    {
+        "Circuit ID": "interlagos",
+        "Round": "21",
+        "Lap Number": "55",
+        "Driver ID": "hamilton",
+        "Time": "1:23.659",
+        "Position": "10"
+    },
+    {
+        "Circuit ID": "interlagos",
+        "Round": "21",
+        "Lap Number": "56",
+        "Driver ID": "hamilton",
+        "Time": "1:22.945",
+        "Position": "10"
+    },
+    {
+        "Circuit ID": "interlagos",
+        "Round": "21",
+        "Lap Number": "57",
+        "Driver ID": "hamilton",
+        "Time": "1:22.901",
+        "Position": "10"
+    },
+    {
+        "Circuit ID": "interlagos",
+        "Round": "21",
+        "Lap Number": "58",
+        "Driver ID": "hamilton",
+        "Time": "1:23.888",
+        "Position": "10"
+    },
+    {
+        "Circuit ID": "interlagos",
+        "Round": "21",
+        "Lap Number": "59",
+        "Driver ID": "hamilton",
+        "Time": "1:23.028",
+        "Position": "10"
+    },
+    {
+        "Circuit ID": "interlagos",
+        "Round": "21",
+        "Lap Number": "60",
+        "Driver ID": "hamilton",
+        "Time": "1:23.122",
+        "Position": "10"
+    },
+    {
+        "Circuit ID": "interlagos",
+        "Round": "21",
+        "Lap Number": "61",
+        "Driver ID": "hamilton",
+        "Time": "1:22.747",
+        "Position": "10"
+    },
+    {
+        "Circuit ID": "interlagos",
+        "Round": "21",
+        "Lap Number": "62",
+        "Driver ID": "hamilton",
+        "Time": "1:22.583",
+        "Position": "10"
+    },
+    {
+        "Circuit ID": "interlagos",
+        "Round": "21",
+        "Lap Number": "63",
+        "Driver ID": "hamilton",
+        "Time": "1:22.611",
+        "Position": "10"
+    },
+    {
+        "Circuit ID": "interlagos",
+        "Round": "21",
+        "Lap Number": "64",
+        "Driver ID": "hamilton",
+        "Time": "1:22.197",
+        "Position": "10"
+    },
+    {
+        "Circuit ID": "interlagos",
+        "Round": "21",
+        "Lap Number": "65",
+        "Driver ID": "hamilton",
+        "Time": "1:22.422",
+        "Position": "10"
+    },
+    {
+        "Circuit ID": "interlagos",
+        "Round": "21",
+        "Lap Number": "66",
+        "Driver ID": "hamilton",
+        "Time": "1:22.731",
+        "Position": "10"
+    },
+    {
+        "Circuit ID": "interlagos",
+        "Round": "21",
+        "Lap Number": "67",
+        "Driver ID": "hamilton",
+        "Time": "1:22.614",
+        "Position": "10"
+    },
+    {
+        "Circuit ID": "interlagos",
+        "Round": "21",
+        "Lap Number": "68",
+        "Driver ID": "hamilton",
+        "Time": "1:22.104",
+        "Position": "10"
+    },
+    {
+        "Circuit ID": "interlagos",
+        "Round": "21",
+        "Lap Number": "69",
+        "Driver ID": "hamilton",
+        "Time": "1:22.041",
+        "Position": "10"
+    },
+    {
+        "Circuit ID": "interlagos",
+        "Round": "21",
+        "Lap Number": "1",
+        "Driver ID": "perez",
+        "Time": "1:49.387",
+        "Position": "18"
+    },
+    {
+        "Circuit ID": "interlagos",
+        "Round": "21",
+        "Lap Number": "2",
+        "Driver ID": "perez",
+        "Time": "1:27.047",
+        "Position": "18"
+    },
+    {
+        "Circuit ID": "interlagos",
+        "Round": "21",
+        "Lap Number": "3",
+        "Driver ID": "perez",
+        "Time": "1:25.891",
+        "Position": "18"
+    },
+    {
+        "Circuit ID": "interlagos",
+        "Round": "21",
+        "Lap Number": "4",
+        "Driver ID": "perez",
+        "Time": "1:26.274",
+        "Position": "18"
+    },
+    {
+        "Circuit ID": "interlagos",
+        "Round": "21",
+        "Lap Number": "5",
+        "Driver ID": "perez",
+        "Time": "1:26.062",
+        "Position": "17"
+    },
+    {
+        "Circuit ID": "interlagos",
+        "Round": "21",
+        "Lap Number": "6",
+        "Driver ID": "perez",
+        "Time": "1:26.304",
+        "Position": "17"
+    },
+    {
+        "Circuit ID": "interlagos",
+        "Round": "21",
+        "Lap Number": "7",
+        "Driver ID": "perez",
+        "Time": "1:25.830",
+        "Position": "17"
+    },
+    {
+        "Circuit ID": "interlagos",
+        "Round": "21",
+        "Lap Number": "8",
+        "Driver ID": "perez",
+        "Time": "1:25.102",
+        "Position": "17"
+    },
+    {
+        "Circuit ID": "interlagos",
+        "Round": "21",
+        "Lap Number": "9",
+        "Driver ID": "perez",
+        "Time": "1:25.253",
+        "Position": "17"
+    },
+    {
+        "Circuit ID": "interlagos",
+        "Round": "21",
+        "Lap Number": "10",
+        "Driver ID": "perez",
+        "Time": "1:24.911",
+        "Position": "17"
+    },
+    {
+        "Circuit ID": "interlagos",
+        "Round": "21",
+        "Lap Number": "11",
+        "Driver ID": "perez",
+        "Time": "1:26.025",
+        "Position": "17"
+    },
+    {
+        "Circuit ID": "interlagos",
+        "Round": "21",
+        "Lap Number": "12",
+        "Driver ID": "perez",
+        "Time": "1:25.993",
+        "Position": "16"
+    },
+    {
+        "Circuit ID": "interlagos",
+        "Round": "21",
+        "Lap Number": "13",
+        "Driver ID": "perez",
+        "Time": "1:25.641",
+        "Position": "16"
+    },
+    {
+        "Circuit ID": "interlagos",
+        "Round": "21",
+        "Lap Number": "14",
+        "Driver ID": "perez",
+        "Time": "1:25.755",
+        "Position": "16"
+    },
+    {
+        "Circuit ID": "interlagos",
+        "Round": "21",
+        "Lap Number": "15",
+        "Driver ID": "perez",
+        "Time": "1:25.279",
+        "Position": "16"
+    },
+    {
+        "Circuit ID": "interlagos",
+        "Round": "21",
+        "Lap Number": "16",
+        "Driver ID": "perez",
+        "Time": "1:24.469",
+        "Position": "16"
+    },
+    {
+        "Circuit ID": "interlagos",
+        "Round": "21",
+        "Lap Number": "17",
+        "Driver ID": "perez",
+        "Time": "1:24.395",
+        "Position": "16"
+    },
+    {
+        "Circuit ID": "interlagos",
+        "Round": "21",
+        "Lap Number": "18",
+        "Driver ID": "perez",
+        "Time": "1:25.850",
+        "Position": "16"
+    },
+    {
+        "Circuit ID": "interlagos",
+        "Round": "21",
+        "Lap Number": "19",
+        "Driver ID": "perez",
+        "Time": "1:24.414",
+        "Position": "16"
+    },
+    {
+        "Circuit ID": "interlagos",
+        "Round": "21",
+        "Lap Number": "20",
+        "Driver ID": "perez",
+        "Time": "1:24.522",
+        "Position": "16"
+    },
+    {
+        "Circuit ID": "interlagos",
+        "Round": "21",
+        "Lap Number": "21",
+        "Driver ID": "perez",
+        "Time": "1:24.408",
+        "Position": "16"
+    },
+    {
+        "Circuit ID": "interlagos",
+        "Round": "21",
+        "Lap Number": "22",
+        "Driver ID": "perez",
+        "Time": "1:25.382",
+        "Position": "16"
+    },
+    {
+        "Circuit ID": "interlagos",
+        "Round": "21",
+        "Lap Number": "23",
+        "Driver ID": "perez",
+        "Time": "1:25.158",
+        "Position": "16"
+    },
+    {
+        "Circuit ID": "interlagos",
+        "Round": "21",
+        "Lap Number": "24",
+        "Driver ID": "perez",
+        "Time": "1:25.871",
+        "Position": "16"
+    },
+    {
+        "Circuit ID": "interlagos",
+        "Round": "21",
+        "Lap Number": "25",
+        "Driver ID": "perez",
+        "Time": "1:26.257",
+        "Position": "16"
+    },
+    {
+        "Circuit ID": "interlagos",
+        "Round": "21",
+        "Lap Number": "26",
+        "Driver ID": "perez",
+        "Time": "1:26.572",
+        "Position": "14"
+    },
+    {
+        "Circuit ID": "interlagos",
+        "Round": "21",
+        "Lap Number": "27",
+        "Driver ID": "perez",
+        "Time": "1:42.155",
+        "Position": "14"
+    },
+    {
+        "Circuit ID": "interlagos",
+        "Round": "21",
+        "Lap Number": "28",
+        "Driver ID": "perez",
+        "Time": "2:00.667",
+        "Position": "15"
+    },
+    {
+        "Circuit ID": "interlagos",
+        "Round": "21",
+        "Lap Number": "29",
+        "Driver ID": "perez",
+        "Time": "1:41.662",
+        "Position": "14"
+    },
+    {
+        "Circuit ID": "interlagos",
+        "Round": "21",
+        "Lap Number": "30",
+        "Driver ID": "perez",
+        "Time": "2:08.473",
+        "Position": "14"
+    },
+    {
+        "Circuit ID": "interlagos",
+        "Round": "21",
+        "Lap Number": "31",
+        "Driver ID": "perez",
+        "Time": "1:51.015",
+        "Position": "14"
+    },
+    {
+        "Circuit ID": "interlagos",
+        "Round": "21",
+        "Lap Number": "32",
+        "Driver ID": "perez",
+        "Time": "2:36.778",
+        "Position": "14"
+    },
+    {
+        "Circuit ID": "interlagos",
+        "Round": "21",
+        "Lap Number": "33",
+        "Driver ID": "perez",
+        "Time": "25:20.559",
+        "Position": "14"
+    },
+    {
+        "Circuit ID": "interlagos",
+        "Round": "21",
+        "Lap Number": "34",
+        "Driver ID": "perez",
+        "Time": "1:37.821",
+        "Position": "12"
+    },
+    {
+        "Circuit ID": "interlagos",
+        "Round": "21",
+        "Lap Number": "35",
+        "Driver ID": "perez",
+        "Time": "1:32.534",
+        "Position": "12"
+    },
+    {
+        "Circuit ID": "interlagos",
+        "Round": "21",
+        "Lap Number": "36",
+        "Driver ID": "perez",
+        "Time": "1:29.093",
+        "Position": "12"
+    },
+    {
+        "Circuit ID": "interlagos",
+        "Round": "21",
+        "Lap Number": "37",
+        "Driver ID": "perez",
+        "Time": "1:27.886",
+        "Position": "12"
+    },
+    {
+        "Circuit ID": "interlagos",
+        "Round": "21",
+        "Lap Number": "38",
+        "Driver ID": "perez",
+        "Time": "1:27.244",
+        "Position": "12"
+    },
+    {
+        "Circuit ID": "interlagos",
+        "Round": "21",
+        "Lap Number": "39",
+        "Driver ID": "perez",
+        "Time": "1:41.208",
+        "Position": "12"
+    },
+    {
+        "Circuit ID": "interlagos",
+        "Round": "21",
+        "Lap Number": "40",
+        "Driver ID": "perez",
+        "Time": "1:48.850",
+        "Position": "12"
+    },
+    {
+        "Circuit ID": "interlagos",
+        "Round": "21",
+        "Lap Number": "41",
+        "Driver ID": "perez",
+        "Time": "2:05.017",
+        "Position": "12"
+    },
+    {
+        "Circuit ID": "interlagos",
+        "Round": "21",
+        "Lap Number": "42",
+        "Driver ID": "perez",
+        "Time": "2:04.054",
+        "Position": "12"
+    },
+    {
+        "Circuit ID": "interlagos",
+        "Round": "21",
+        "Lap Number": "43",
+        "Driver ID": "perez",
+        "Time": "1:32.206",
+        "Position": "10"
+    },
+    {
+        "Circuit ID": "interlagos",
+        "Round": "21",
+        "Lap Number": "44",
+        "Driver ID": "perez",
+        "Time": "1:25.233",
+        "Position": "10"
+    },
+    {
+        "Circuit ID": "interlagos",
+        "Round": "21",
+        "Lap Number": "45",
+        "Driver ID": "perez",
+        "Time": "1:25.156",
+        "Position": "10"
+    },
+    {
+        "Circuit ID": "interlagos",
+        "Round": "21",
+        "Lap Number": "46",
+        "Driver ID": "perez",
+        "Time": "1:24.858",
+        "Position": "10"
+    },
+    {
+        "Circuit ID": "interlagos",
+        "Round": "21",
+        "Lap Number": "47",
+        "Driver ID": "perez",
+        "Time": "1:24.656",
+        "Position": "10"
+    },
+    {
+        "Circuit ID": "interlagos",
+        "Round": "21",
+        "Lap Number": "48",
+        "Driver ID": "perez",
+        "Time": "1:23.911",
+        "Position": "10"
+    },
+    {
+        "Circuit ID": "interlagos",
+        "Round": "21",
+        "Lap Number": "49",
+        "Driver ID": "perez",
+        "Time": "1:24.142",
+        "Position": "10"
+    },
+    {
+        "Circuit ID": "interlagos",
+        "Round": "21",
+        "Lap Number": "50",
+        "Driver ID": "perez",
+        "Time": "1:23.686",
+        "Position": "10"
+    },
+    {
+        "Circuit ID": "interlagos",
+        "Round": "21",
+        "Lap Number": "51",
+        "Driver ID": "perez",
+        "Time": "1:24.085",
+        "Position": "10"
+    },
+    {
+        "Circuit ID": "interlagos",
+        "Round": "21",
+        "Lap Number": "52",
+        "Driver ID": "perez",
+        "Time": "1:24.086",
+        "Position": "10"
+    },
+    {
+        "Circuit ID": "interlagos",
+        "Round": "21",
+        "Lap Number": "53",
+        "Driver ID": "perez",
+        "Time": "1:24.023",
+        "Position": "10"
+    },
+    {
+        "Circuit ID": "interlagos",
+        "Round": "21",
+        "Lap Number": "54",
+        "Driver ID": "perez",
+        "Time": "1:23.744",
+        "Position": "10"
+    },
+    {
+        "Circuit ID": "interlagos",
+        "Round": "21",
+        "Lap Number": "55",
+        "Driver ID": "perez",
+        "Time": "1:25.533",
+        "Position": "11"
+    },
+    {
+        "Circuit ID": "interlagos",
+        "Round": "21",
+        "Lap Number": "56",
+        "Driver ID": "perez",
+        "Time": "1:22.757",
+        "Position": "11"
+    },
+    {
+        "Circuit ID": "interlagos",
+        "Round": "21",
+        "Lap Number": "57",
+        "Driver ID": "perez",
+        "Time": "1:22.777",
+        "Position": "11"
+    },
+    {
+        "Circuit ID": "interlagos",
+        "Round": "21",
+        "Lap Number": "58",
+        "Driver ID": "perez",
+        "Time": "1:23.714",
+        "Position": "11"
+    },
+    {
+        "Circuit ID": "interlagos",
+        "Round": "21",
+        "Lap Number": "59",
+        "Driver ID": "perez",
+        "Time": "1:23.086",
+        "Position": "11"
+    },
+    {
+        "Circuit ID": "interlagos",
+        "Round": "21",
+        "Lap Number": "60",
+        "Driver ID": "perez",
+        "Time": "1:23.112",
+        "Position": "11"
+    },
+    {
+        "Circuit ID": "interlagos",
+        "Round": "21",
+        "Lap Number": "61",
+        "Driver ID": "perez",
+        "Time": "1:22.715",
+        "Position": "11"
+    },
+    {
+        "Circuit ID": "interlagos",
+        "Round": "21",
+        "Lap Number": "62",
+        "Driver ID": "perez",
+        "Time": "1:22.892",
+        "Position": "11"
+    },
+    {
+        "Circuit ID": "interlagos",
+        "Round": "21",
+        "Lap Number": "63",
+        "Driver ID": "perez",
+        "Time": "1:22.373",
+        "Position": "11"
+    },
+    {
+        "Circuit ID": "interlagos",
+        "Round": "21",
+        "Lap Number": "64",
+        "Driver ID": "perez",
+        "Time": "1:22.322",
+        "Position": "11"
+    },
+    {
+        "Circuit ID": "interlagos",
+        "Round": "21",
+        "Lap Number": "65",
+        "Driver ID": "perez",
+        "Time": "1:22.220",
+        "Position": "11"
+    },
+    {
+        "Circuit ID": "interlagos",
+        "Round": "21",
+        "Lap Number": "66",
+        "Driver ID": "perez",
+        "Time": "1:22.978",
+        "Position": "11"
+    },
+    {
+        "Circuit ID": "interlagos",
+        "Round": "21",
+        "Lap Number": "67",
+        "Driver ID": "perez",
+        "Time": "1:22.143",
+        "Position": "11"
+    },
+    {
+        "Circuit ID": "interlagos",
+        "Round": "21",
+        "Lap Number": "68",
+        "Driver ID": "perez",
+        "Time": "1:22.263",
+        "Position": "11"
+    },
+    {
+        "Circuit ID": "interlagos",
+        "Round": "21",
+        "Lap Number": "69",
+        "Driver ID": "perez",
+        "Time": "1:22.222",
+        "Position": "11"
+    },
+    {
+        "Circuit ID": "interlagos",
+        "Round": "21",
+        "Lap Number": "1",
+        "Driver ID": "bearman",
+        "Time": "1:40.491",
+        "Position": "13"
+    },
+    {
+        "Circuit ID": "interlagos",
+        "Round": "21",
+        "Lap Number": "2",
+        "Driver ID": "bearman",
+        "Time": "1:28.376",
+        "Position": "13"
+    },
+    {
+        "Circuit ID": "interlagos",
+        "Round": "21",
+        "Lap Number": "3",
+        "Driver ID": "bearman",
+        "Time": "1:26.798",
+        "Position": "13"
+    },
+    {
+        "Circuit ID": "interlagos",
+        "Round": "21",
+        "Lap Number": "4",
+        "Driver ID": "bearman",
+        "Time": "1:32.155",
+        "Position": "17"
+    },
+    {
+        "Circuit ID": "interlagos",
+        "Round": "21",
+        "Lap Number": "5",
+        "Driver ID": "bearman",
+        "Time": "1:26.485",
+        "Position": "16"
+    },
+    {
+        "Circuit ID": "interlagos",
+        "Round": "21",
+        "Lap Number": "6",
+        "Driver ID": "bearman",
+        "Time": "1:25.728",
+        "Position": "16"
+    },
+    {
+        "Circuit ID": "interlagos",
+        "Round": "21",
+        "Lap Number": "7",
+        "Driver ID": "bearman",
+        "Time": "1:25.412",
+        "Position": "16"
+    },
+    {
+        "Circuit ID": "interlagos",
+        "Round": "21",
+        "Lap Number": "8",
+        "Driver ID": "bearman",
+        "Time": "1:25.421",
+        "Position": "16"
+    },
+    {
+        "Circuit ID": "interlagos",
+        "Round": "21",
+        "Lap Number": "9",
+        "Driver ID": "bearman",
+        "Time": "1:25.164",
+        "Position": "16"
+    },
+    {
+        "Circuit ID": "interlagos",
+        "Round": "21",
+        "Lap Number": "10",
+        "Driver ID": "bearman",
+        "Time": "1:25.115",
+        "Position": "16"
+    },
+    {
+        "Circuit ID": "interlagos",
+        "Round": "21",
+        "Lap Number": "11",
+        "Driver ID": "bearman",
+        "Time": "1:26.216",
+        "Position": "16"
+    },
+    {
+        "Circuit ID": "interlagos",
+        "Round": "21",
+        "Lap Number": "12",
+        "Driver ID": "bearman",
+        "Time": "1:25.992",
+        "Position": "15"
+    },
+    {
+        "Circuit ID": "interlagos",
+        "Round": "21",
+        "Lap Number": "13",
+        "Driver ID": "bearman",
+        "Time": "1:25.215",
+        "Position": "15"
+    },
+    {
+        "Circuit ID": "interlagos",
+        "Round": "21",
+        "Lap Number": "14",
+        "Driver ID": "bearman",
+        "Time": "1:24.365",
+        "Position": "15"
+    },
+    {
+        "Circuit ID": "interlagos",
+        "Round": "21",
+        "Lap Number": "15",
+        "Driver ID": "bearman",
+        "Time": "1:24.730",
+        "Position": "15"
+    },
+    {
+        "Circuit ID": "interlagos",
+        "Round": "21",
+        "Lap Number": "16",
+        "Driver ID": "bearman",
+        "Time": "1:25.055",
+        "Position": "15"
+    },
+    {
+        "Circuit ID": "interlagos",
+        "Round": "21",
+        "Lap Number": "17",
+        "Driver ID": "bearman",
+        "Time": "1:24.941",
+        "Position": "15"
+    },
+    {
+        "Circuit ID": "interlagos",
+        "Round": "21",
+        "Lap Number": "18",
+        "Driver ID": "bearman",
+        "Time": "1:24.883",
+        "Position": "15"
+    },
+    {
+        "Circuit ID": "interlagos",
+        "Round": "21",
+        "Lap Number": "19",
+        "Driver ID": "bearman",
+        "Time": "1:25.601",
+        "Position": "14"
+    },
+    {
+        "Circuit ID": "interlagos",
+        "Round": "21",
+        "Lap Number": "20",
+        "Driver ID": "bearman",
+        "Time": "1:24.414",
+        "Position": "14"
+    },
+    {
+        "Circuit ID": "interlagos",
+        "Round": "21",
+        "Lap Number": "21",
+        "Driver ID": "bearman",
+        "Time": "1:24.482",
+        "Position": "14"
+    },
+    {
+        "Circuit ID": "interlagos",
+        "Round": "21",
+        "Lap Number": "22",
+        "Driver ID": "bearman",
+        "Time": "1:24.517",
+        "Position": "13"
+    },
+    {
+        "Circuit ID": "interlagos",
+        "Round": "21",
+        "Lap Number": "23",
+        "Driver ID": "bearman",
+        "Time": "1:24.306",
+        "Position": "12"
+    },
+    {
+        "Circuit ID": "interlagos",
+        "Round": "21",
+        "Lap Number": "24",
+        "Driver ID": "bearman",
+        "Time": "1:24.429",
+        "Position": "12"
+    },
+    {
+        "Circuit ID": "interlagos",
+        "Round": "21",
+        "Lap Number": "25",
+        "Driver ID": "bearman",
+        "Time": "1:24.737",
+        "Position": "11"
+    },
+    {
+        "Circuit ID": "interlagos",
+        "Round": "21",
+        "Lap Number": "26",
+        "Driver ID": "bearman",
+        "Time": "1:25.027",
+        "Position": "10"
+    },
+    {
+        "Circuit ID": "interlagos",
+        "Round": "21",
+        "Lap Number": "27",
+        "Driver ID": "bearman",
+        "Time": "1:38.431",
+        "Position": "11"
+    },
+    {
+        "Circuit ID": "interlagos",
+        "Round": "21",
+        "Lap Number": "28",
+        "Driver ID": "bearman",
+        "Time": "2:11.553",
+        "Position": "14"
+    },
+    {
+        "Circuit ID": "interlagos",
+        "Round": "21",
+        "Lap Number": "29",
+        "Driver ID": "bearman",
+        "Time": "1:43.986",
+        "Position": "15"
+    },
+    {
+        "Circuit ID": "interlagos",
+        "Round": "21",
+        "Lap Number": "30",
+        "Driver ID": "bearman",
+        "Time": "2:08.143",
+        "Position": "15"
+    },
+    {
+        "Circuit ID": "interlagos",
+        "Round": "21",
+        "Lap Number": "31",
+        "Driver ID": "bearman",
+        "Time": "1:52.001",
+        "Position": "15"
+    },
+    {
+        "Circuit ID": "interlagos",
+        "Round": "21",
+        "Lap Number": "32",
+        "Driver ID": "bearman",
+        "Time": "2:38.790",
+        "Position": "15"
+    },
+    {
+        "Circuit ID": "interlagos",
+        "Round": "21",
+        "Lap Number": "33",
+        "Driver ID": "bearman",
+        "Time": "25:24.788",
+        "Position": "16"
+    },
+    {
+        "Circuit ID": "interlagos",
+        "Round": "21",
+        "Lap Number": "34",
+        "Driver ID": "bearman",
+        "Time": "1:32.730",
+        "Position": "15"
+    },
+    {
+        "Circuit ID": "interlagos",
+        "Round": "21",
+        "Lap Number": "35",
+        "Driver ID": "bearman",
+        "Time": "1:31.578",
+        "Position": "14"
+    },
+    {
+        "Circuit ID": "interlagos",
+        "Round": "21",
+        "Lap Number": "36",
+        "Driver ID": "bearman",
+        "Time": "1:47.937",
+        "Position": "16"
+    },
+    {
+        "Circuit ID": "interlagos",
+        "Round": "21",
+        "Lap Number": "37",
+        "Driver ID": "bearman",
+        "Time": "1:31.737",
+        "Position": "16"
+    },
+    {
+        "Circuit ID": "interlagos",
+        "Round": "21",
+        "Lap Number": "38",
+        "Driver ID": "bearman",
+        "Time": "1:27.141",
+        "Position": "16"
+    },
+    {
+        "Circuit ID": "interlagos",
+        "Round": "21",
+        "Lap Number": "39",
+        "Driver ID": "bearman",
+        "Time": "1:44.520",
+        "Position": "15"
+    },
+    {
+        "Circuit ID": "interlagos",
+        "Round": "21",
+        "Lap Number": "40",
+        "Driver ID": "bearman",
+        "Time": "1:52.287",
+        "Position": "15"
+    },
+    {
+        "Circuit ID": "interlagos",
+        "Round": "21",
+        "Lap Number": "41",
+        "Driver ID": "bearman",
+        "Time": "1:38.426",
+        "Position": "15"
+    },
+    {
+        "Circuit ID": "interlagos",
+        "Round": "21",
+        "Lap Number": "42",
+        "Driver ID": "bearman",
+        "Time": "1:59.934",
+        "Position": "15"
+    },
+    {
+        "Circuit ID": "interlagos",
+        "Round": "21",
+        "Lap Number": "43",
+        "Driver ID": "bearman",
+        "Time": "1:32.190",
+        "Position": "12"
+    },
+    {
+        "Circuit ID": "interlagos",
+        "Round": "21",
+        "Lap Number": "44",
+        "Driver ID": "bearman",
+        "Time": "1:27.016",
+        "Position": "12"
+    },
+    {
+        "Circuit ID": "interlagos",
+        "Round": "21",
+        "Lap Number": "45",
+        "Driver ID": "bearman",
+        "Time": "1:25.307",
+        "Position": "12"
+    },
+    {
+        "Circuit ID": "interlagos",
+        "Round": "21",
+        "Lap Number": "46",
+        "Driver ID": "bearman",
+        "Time": "1:24.578",
+        "Position": "12"
+    },
+    {
+        "Circuit ID": "interlagos",
+        "Round": "21",
+        "Lap Number": "47",
+        "Driver ID": "bearman",
+        "Time": "1:24.616",
+        "Position": "12"
+    },
+    {
+        "Circuit ID": "interlagos",
+        "Round": "21",
+        "Lap Number": "48",
+        "Driver ID": "bearman",
+        "Time": "1:23.945",
+        "Position": "12"
+    },
+    {
+        "Circuit ID": "interlagos",
+        "Round": "21",
+        "Lap Number": "49",
+        "Driver ID": "bearman",
+        "Time": "1:24.035",
+        "Position": "12"
+    },
+    {
+        "Circuit ID": "interlagos",
+        "Round": "21",
+        "Lap Number": "50",
+        "Driver ID": "bearman",
+        "Time": "1:24.172",
+        "Position": "12"
+    },
+    {
+        "Circuit ID": "interlagos",
+        "Round": "21",
+        "Lap Number": "51",
+        "Driver ID": "bearman",
+        "Time": "1:25.085",
+        "Position": "12"
+    },
+    {
+        "Circuit ID": "interlagos",
+        "Round": "21",
+        "Lap Number": "52",
+        "Driver ID": "bearman",
+        "Time": "1:23.909",
+        "Position": "12"
+    },
+    {
+        "Circuit ID": "interlagos",
+        "Round": "21",
+        "Lap Number": "53",
+        "Driver ID": "bearman",
+        "Time": "1:23.969",
+        "Position": "12"
+    },
+    {
+        "Circuit ID": "interlagos",
+        "Round": "21",
+        "Lap Number": "54",
+        "Driver ID": "bearman",
+        "Time": "1:23.601",
+        "Position": "12"
+    },
+    {
+        "Circuit ID": "interlagos",
+        "Round": "21",
+        "Lap Number": "55",
+        "Driver ID": "bearman",
+        "Time": "1:23.815",
+        "Position": "12"
+    },
+    {
+        "Circuit ID": "interlagos",
+        "Round": "21",
+        "Lap Number": "56",
+        "Driver ID": "bearman",
+        "Time": "1:23.140",
+        "Position": "12"
+    },
+    {
+        "Circuit ID": "interlagos",
+        "Round": "21",
+        "Lap Number": "57",
+        "Driver ID": "bearman",
+        "Time": "1:23.395",
+        "Position": "12"
+    },
+    {
+        "Circuit ID": "interlagos",
+        "Round": "21",
+        "Lap Number": "58",
+        "Driver ID": "bearman",
+        "Time": "1:22.992",
+        "Position": "12"
+    },
+    {
+        "Circuit ID": "interlagos",
+        "Round": "21",
+        "Lap Number": "59",
+        "Driver ID": "bearman",
+        "Time": "1:22.897",
+        "Position": "12"
+    },
+    {
+        "Circuit ID": "interlagos",
+        "Round": "21",
+        "Lap Number": "60",
+        "Driver ID": "bearman",
+        "Time": "1:22.944",
+        "Position": "12"
+    },
+    {
+        "Circuit ID": "interlagos",
+        "Round": "21",
+        "Lap Number": "61",
+        "Driver ID": "bearman",
+        "Time": "1:24.192",
+        "Position": "12"
+    },
+    {
+        "Circuit ID": "interlagos",
+        "Round": "21",
+        "Lap Number": "62",
+        "Driver ID": "bearman",
+        "Time": "1:22.816",
+        "Position": "12"
+    },
+    {
+        "Circuit ID": "interlagos",
+        "Round": "21",
+        "Lap Number": "63",
+        "Driver ID": "bearman",
+        "Time": "1:22.837",
+        "Position": "12"
+    },
+    {
+        "Circuit ID": "interlagos",
+        "Round": "21",
+        "Lap Number": "64",
+        "Driver ID": "bearman",
+        "Time": "1:22.494",
+        "Position": "12"
+    },
+    {
+        "Circuit ID": "interlagos",
+        "Round": "21",
+        "Lap Number": "65",
+        "Driver ID": "bearman",
+        "Time": "1:22.981",
+        "Position": "12"
+    },
+    {
+        "Circuit ID": "interlagos",
+        "Round": "21",
+        "Lap Number": "66",
+        "Driver ID": "bearman",
+        "Time": "1:22.510",
+        "Position": "12"
+    },
+    {
+        "Circuit ID": "interlagos",
+        "Round": "21",
+        "Lap Number": "67",
+        "Driver ID": "bearman",
+        "Time": "1:22.533",
+        "Position": "12"
+    },
+    {
+        "Circuit ID": "interlagos",
+        "Round": "21",
+        "Lap Number": "68",
+        "Driver ID": "bearman",
+        "Time": "1:22.670",
+        "Position": "12"
+    },
+    {
+        "Circuit ID": "interlagos",
+        "Round": "21",
+        "Lap Number": "69",
+        "Driver ID": "bearman",
+        "Time": "1:22.839",
+        "Position": "12"
+    },
+    {
+        "Circuit ID": "interlagos",
+        "Round": "21",
+        "Lap Number": "1",
+        "Driver ID": "sainz",
+        "Time": "1:43.434",
+        "Position": "17"
+    },
+    {
+        "Circuit ID": "interlagos",
+        "Round": "21",
+        "Lap Number": "2",
+        "Driver ID": "sainz",
+        "Time": "1:29.021",
+        "Position": "17"
+    },
+    {
+        "Circuit ID": "interlagos",
+        "Round": "21",
+        "Lap Number": "3",
+        "Driver ID": "sainz",
+        "Time": "1:26.884",
+        "Position": "17"
+    },
+    {
+        "Circuit ID": "interlagos",
+        "Round": "21",
+        "Lap Number": "4",
+        "Driver ID": "sainz",
+        "Time": "1:26.540",
+        "Position": "15"
+    },
+    {
+        "Circuit ID": "interlagos",
+        "Round": "21",
+        "Lap Number": "5",
+        "Driver ID": "sainz",
+        "Time": "1:26.185",
+        "Position": "15"
+    },
+    {
+        "Circuit ID": "interlagos",
+        "Round": "21",
+        "Lap Number": "6",
+        "Driver ID": "sainz",
+        "Time": "1:26.915",
+        "Position": "15"
+    },
+    {
+        "Circuit ID": "interlagos",
+        "Round": "21",
+        "Lap Number": "7",
+        "Driver ID": "sainz",
+        "Time": "1:25.419",
+        "Position": "15"
+    },
+    {
+        "Circuit ID": "interlagos",
+        "Round": "21",
+        "Lap Number": "8",
+        "Driver ID": "sainz",
+        "Time": "1:25.454",
+        "Position": "15"
+    },
+    {
+        "Circuit ID": "interlagos",
+        "Round": "21",
+        "Lap Number": "9",
+        "Driver ID": "sainz",
+        "Time": "1:25.191",
+        "Position": "15"
+    },
+    {
+        "Circuit ID": "interlagos",
+        "Round": "21",
+        "Lap Number": "10",
+        "Driver ID": "sainz",
+        "Time": "1:25.406",
+        "Position": "15"
+    },
+    {
+        "Circuit ID": "interlagos",
+        "Round": "21",
+        "Lap Number": "11",
+        "Driver ID": "sainz",
+        "Time": "1:26.203",
+        "Position": "15"
+    },
+    {
+        "Circuit ID": "interlagos",
+        "Round": "21",
+        "Lap Number": "12",
+        "Driver ID": "sainz",
+        "Time": "1:25.633",
+        "Position": "14"
+    },
+    {
+        "Circuit ID": "interlagos",
+        "Round": "21",
+        "Lap Number": "13",
+        "Driver ID": "sainz",
+        "Time": "1:24.293",
+        "Position": "14"
+    },
+    {
+        "Circuit ID": "interlagos",
+        "Round": "21",
+        "Lap Number": "14",
+        "Driver ID": "sainz",
+        "Time": "1:24.312",
+        "Position": "14"
+    },
+    {
+        "Circuit ID": "interlagos",
+        "Round": "21",
+        "Lap Number": "15",
+        "Driver ID": "sainz",
+        "Time": "1:25.434",
+        "Position": "14"
+    },
+    {
+        "Circuit ID": "interlagos",
+        "Round": "21",
+        "Lap Number": "16",
+        "Driver ID": "sainz",
+        "Time": "1:25.792",
+        "Position": "14"
+    },
+    {
+        "Circuit ID": "interlagos",
+        "Round": "21",
+        "Lap Number": "17",
+        "Driver ID": "sainz",
+        "Time": "1:24.667",
+        "Position": "14"
+    },
+    {
+        "Circuit ID": "interlagos",
+        "Round": "21",
+        "Lap Number": "18",
+        "Driver ID": "sainz",
+        "Time": "1:24.874",
+        "Position": "13"
+    },
+    {
+        "Circuit ID": "interlagos",
+        "Round": "21",
+        "Lap Number": "19",
+        "Driver ID": "sainz",
+        "Time": "1:24.201",
+        "Position": "13"
+    },
+    {
+        "Circuit ID": "interlagos",
+        "Round": "21",
+        "Lap Number": "20",
+        "Driver ID": "sainz",
+        "Time": "1:25.301",
+        "Position": "13"
+    },
+    {
+        "Circuit ID": "interlagos",
+        "Round": "21",
+        "Lap Number": "21",
+        "Driver ID": "sainz",
+        "Time": "1:24.631",
+        "Position": "13"
+    },
+    {
+        "Circuit ID": "interlagos",
+        "Round": "21",
+        "Lap Number": "22",
+        "Driver ID": "sainz",
+        "Time": "1:27.774",
+        "Position": "15"
+    },
+    {
+        "Circuit ID": "interlagos",
+        "Round": "21",
+        "Lap Number": "23",
+        "Driver ID": "sainz",
+        "Time": "1:25.187",
+        "Position": "15"
+    },
+    {
+        "Circuit ID": "interlagos",
+        "Round": "21",
+        "Lap Number": "24",
+        "Driver ID": "sainz",
+        "Time": "1:25.684",
+        "Position": "15"
+    },
+    {
+        "Circuit ID": "interlagos",
+        "Round": "21",
+        "Lap Number": "25",
+        "Driver ID": "sainz",
+        "Time": "1:25.396",
+        "Position": "15"
+    },
+    {
+        "Circuit ID": "interlagos",
+        "Round": "21",
+        "Lap Number": "26",
+        "Driver ID": "sainz",
+        "Time": "1:26.167",
+        "Position": "13"
+    },
+    {
+        "Circuit ID": "interlagos",
+        "Round": "21",
+        "Lap Number": "27",
+        "Driver ID": "sainz",
+        "Time": "1:41.195",
+        "Position": "13"
+    },
+    {
+        "Circuit ID": "interlagos",
+        "Round": "21",
+        "Lap Number": "28",
+        "Driver ID": "sainz",
+        "Time": "2:02.820",
+        "Position": "13"
+    },
+    {
+        "Circuit ID": "interlagos",
+        "Round": "21",
+        "Lap Number": "29",
+        "Driver ID": "sainz",
+        "Time": "1:42.131",
+        "Position": "13"
+    },
+    {
+        "Circuit ID": "interlagos",
+        "Round": "21",
+        "Lap Number": "30",
+        "Driver ID": "sainz",
+        "Time": "2:07.308",
+        "Position": "13"
+    },
+    {
+        "Circuit ID": "interlagos",
+        "Round": "21",
+        "Lap Number": "31",
+        "Driver ID": "sainz",
+        "Time": "1:51.416",
+        "Position": "13"
+    },
+    {
+        "Circuit ID": "interlagos",
+        "Round": "21",
+        "Lap Number": "32",
+        "Driver ID": "sainz",
+        "Time": "2:34.208",
+        "Position": "13"
+    },
+    {
+        "Circuit ID": "interlagos",
+        "Round": "21",
+        "Lap Number": "33",
+        "Driver ID": "sainz",
+        "Time": "25:24.273",
+        "Position": "13"
+    },
+    {
+        "Circuit ID": "interlagos",
+        "Round": "21",
+        "Lap Number": "34",
+        "Driver ID": "sainz",
+        "Time": "1:40.313",
+        "Position": "14"
+    },
+    {
+        "Circuit ID": "interlagos",
+        "Round": "21",
+        "Lap Number": "35",
+        "Driver ID": "sainz",
+        "Time": "1:31.779",
+        "Position": "13"
+    },
+    {
+        "Circuit ID": "interlagos",
+        "Round": "21",
+        "Lap Number": "36",
+        "Driver ID": "sainz",
+        "Time": "1:28.886",
+        "Position": "13"
+    },
+    {
+        "Circuit ID": "interlagos",
+        "Round": "21",
+        "Lap Number": "37",
+        "Driver ID": "sainz",
+        "Time": "1:27.101",
+        "Position": "13"
+    },
+    {
+        "Circuit ID": "interlagos",
+        "Round": "21",
+        "Lap Number": "38",
+        "Driver ID": "sainz",
+        "Time": "1:26.771",
+        "Position": "13"
+    },
+    {
+        "Circuit ID": "interlagos",
+        "Round": "21",
+        "Lap Number": "1",
+        "Driver ID": "colapinto",
+        "Time": "1:39.943",
+        "Position": "12"
+    },
+    {
+        "Circuit ID": "interlagos",
+        "Round": "21",
+        "Lap Number": "2",
+        "Driver ID": "colapinto",
+        "Time": "1:27.983",
+        "Position": "12"
+    },
+    {
+        "Circuit ID": "interlagos",
+        "Round": "21",
+        "Lap Number": "3",
+        "Driver ID": "colapinto",
+        "Time": "1:27.140",
+        "Position": "12"
+    },
+    {
+        "Circuit ID": "interlagos",
+        "Round": "21",
+        "Lap Number": "4",
+        "Driver ID": "colapinto",
+        "Time": "1:27.685",
+        "Position": "12"
+    },
+    {
+        "Circuit ID": "interlagos",
+        "Round": "21",
+        "Lap Number": "5",
+        "Driver ID": "colapinto",
+        "Time": "1:26.684",
+        "Position": "12"
+    },
+    {
+        "Circuit ID": "interlagos",
+        "Round": "21",
+        "Lap Number": "6",
+        "Driver ID": "colapinto",
+        "Time": "1:27.143",
+        "Position": "13"
+    },
+    {
+        "Circuit ID": "interlagos",
+        "Round": "21",
+        "Lap Number": "7",
+        "Driver ID": "colapinto",
+        "Time": "1:25.837",
+        "Position": "13"
+    },
+    {
+        "Circuit ID": "interlagos",
+        "Round": "21",
+        "Lap Number": "8",
+        "Driver ID": "colapinto",
+        "Time": "1:25.762",
+        "Position": "13"
+    },
+    {
+        "Circuit ID": "interlagos",
+        "Round": "21",
+        "Lap Number": "9",
+        "Driver ID": "colapinto",
+        "Time": "1:25.048",
+        "Position": "13"
+    },
+    {
+        "Circuit ID": "interlagos",
+        "Round": "21",
+        "Lap Number": "10",
+        "Driver ID": "colapinto",
+        "Time": "1:25.975",
+        "Position": "13"
+    },
+    {
+        "Circuit ID": "interlagos",
+        "Round": "21",
+        "Lap Number": "11",
+        "Driver ID": "colapinto",
+        "Time": "1:25.549",
+        "Position": "13"
+    },
+    {
+        "Circuit ID": "interlagos",
+        "Round": "21",
+        "Lap Number": "12",
+        "Driver ID": "colapinto",
+        "Time": "1:25.418",
+        "Position": "12"
+    },
+    {
+        "Circuit ID": "interlagos",
+        "Round": "21",
+        "Lap Number": "13",
+        "Driver ID": "colapinto",
+        "Time": "1:24.565",
+        "Position": "12"
+    },
+    {
+        "Circuit ID": "interlagos",
+        "Round": "21",
+        "Lap Number": "14",
+        "Driver ID": "colapinto",
+        "Time": "1:24.750",
+        "Position": "12"
+    },
+    {
+        "Circuit ID": "interlagos",
+        "Round": "21",
+        "Lap Number": "15",
+        "Driver ID": "colapinto",
+        "Time": "1:25.655",
+        "Position": "12"
+    },
+    {
+        "Circuit ID": "interlagos",
+        "Round": "21",
+        "Lap Number": "16",
+        "Driver ID": "colapinto",
+        "Time": "1:25.338",
+        "Position": "12"
+    },
+    {
+        "Circuit ID": "interlagos",
+        "Round": "21",
+        "Lap Number": "17",
+        "Driver ID": "colapinto",
+        "Time": "1:24.967",
+        "Position": "12"
+    },
+    {
+        "Circuit ID": "interlagos",
+        "Round": "21",
+        "Lap Number": "18",
+        "Driver ID": "colapinto",
+        "Time": "1:24.836",
+        "Position": "12"
+    },
+    {
+        "Circuit ID": "interlagos",
+        "Round": "21",
+        "Lap Number": "19",
+        "Driver ID": "colapinto",
+        "Time": "1:25.028",
+        "Position": "12"
+    },
+    {
+        "Circuit ID": "interlagos",
+        "Round": "21",
+        "Lap Number": "20",
+        "Driver ID": "colapinto",
+        "Time": "1:25.366",
+        "Position": "12"
+    },
+    {
+        "Circuit ID": "interlagos",
+        "Round": "21",
+        "Lap Number": "21",
+        "Driver ID": "colapinto",
+        "Time": "1:24.296",
+        "Position": "12"
+    },
+    {
+        "Circuit ID": "interlagos",
+        "Round": "21",
+        "Lap Number": "22",
+        "Driver ID": "colapinto",
+        "Time": "1:24.878",
+        "Position": "12"
+    },
+    {
+        "Circuit ID": "interlagos",
+        "Round": "21",
+        "Lap Number": "23",
+        "Driver ID": "colapinto",
+        "Time": "1:28.291",
+        "Position": "14"
+    },
+    {
+        "Circuit ID": "interlagos",
+        "Round": "21",
+        "Lap Number": "24",
+        "Driver ID": "colapinto",
+        "Time": "1:25.116",
+        "Position": "14"
+    },
+    {
+        "Circuit ID": "interlagos",
+        "Round": "21",
+        "Lap Number": "25",
+        "Driver ID": "colapinto",
+        "Time": "1:25.835",
+        "Position": "14"
+    },
+    {
+        "Circuit ID": "interlagos",
+        "Round": "21",
+        "Lap Number": "26",
+        "Driver ID": "colapinto",
+        "Time": "1:29.885",
+        "Position": "15"
+    },
+    {
+        "Circuit ID": "interlagos",
+        "Round": "21",
+        "Lap Number": "27",
+        "Driver ID": "colapinto",
+        "Time": "2:02.141",
+        "Position": "16"
+    },
+    {
+        "Circuit ID": "interlagos",
+        "Round": "21",
+        "Lap Number": "28",
+        "Driver ID": "colapinto",
+        "Time": "1:42.804",
+        "Position": "16"
+    },
+    {
+        "Circuit ID": "interlagos",
+        "Round": "21",
+        "Lap Number": "29",
+        "Driver ID": "colapinto",
+        "Time": "1:43.469",
+        "Position": "16"
+    },
+    {
+        "Circuit ID": "interlagos",
+        "Round": "21",
+        "Lap Number": "30",
+        "Driver ID": "colapinto",
+        "Time": "2:10.874",
+        "Position": "16"
+    }
+]

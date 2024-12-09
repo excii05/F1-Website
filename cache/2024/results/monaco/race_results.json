@@ -7,11 +7,7 @@
         "Points": "25",
         "Fastest Lap": {
             "Time": null,
-            "Lap": null,
-            "Average Speed": {
-                "Speed": null,
-                "Unit": null
-            }
+            "Lap": null
         },
         "DNF": null
     },
@@ -23,11 +19,7 @@
         "Points": "18",
         "Fastest Lap": {
             "Time": null,
-            "Lap": null,
-            "Average Speed": {
-                "Speed": null,
-                "Unit": null
-            }
+            "Lap": null
         },
         "DNF": null
     },
@@ -39,11 +31,7 @@
         "Points": "15",
         "Fastest Lap": {
             "Time": null,
-            "Lap": null,
-            "Average Speed": {
-                "Speed": null,
-                "Unit": null
-            }
+            "Lap": null
         },
         "DNF": null
     },
@@ -55,11 +43,7 @@
         "Points": "12",
         "Fastest Lap": {
             "Time": null,
-            "Lap": null,
-            "Average Speed": {
-                "Speed": null,
-                "Unit": null
-            }
+            "Lap": null
         },
         "DNF": null
     },
@@ -71,11 +55,7 @@
         "Points": "10",
         "Fastest Lap": {
             "Time": null,
-            "Lap": null,
-            "Average Speed": {
-                "Speed": null,
-                "Unit": null
-            }
+            "Lap": null
         },
         "DNF": null
     },
@@ -87,11 +67,7 @@
         "Points": "8",
         "Fastest Lap": {
             "Time": null,
-            "Lap": null,
-            "Average Speed": {
-                "Speed": null,
-                "Unit": null
-            }
+            "Lap": null
         },
         "DNF": null
     },
@@ -103,11 +79,7 @@
         "Points": "7",
         "Fastest Lap": {
             "Time": null,
-            "Lap": null,
-            "Average Speed": {
-                "Speed": null,
-                "Unit": null
-            }
+            "Lap": null
         },
         "DNF": null
     },
@@ -119,11 +91,7 @@
         "Points": "4",
         "Fastest Lap": {
             "Time": null,
-            "Lap": null,
-            "Average Speed": {
-                "Speed": null,
-                "Unit": null
-            }
+            "Lap": null
         },
         "DNF": "+1 Lap"
     },
@@ -135,11 +103,7 @@
         "Points": "2",
         "Fastest Lap": {
             "Time": null,
-            "Lap": null,
-            "Average Speed": {
-                "Speed": null,
-                "Unit": null
-            }
+            "Lap": null
         },
         "DNF": "+1 Lap"
     },
@@ -151,11 +115,7 @@
         "Points": "1",
         "Fastest Lap": {
             "Time": null,
-            "Lap": null,
-            "Average Speed": {
-                "Speed": null,
-                "Unit": null
-            }
+            "Lap": null
         },
         "DNF": "+1 Lap"
     },
@@ -167,11 +127,7 @@
         "Points": "0",
         "Fastest Lap": {
             "Time": null,
-            "Lap": null,
-            "Average Speed": {
-                "Speed": null,
-                "Unit": null
-            }
+            "Lap": null
         },
         "DNF": "+2 Laps"
     },
@@ -183,11 +139,7 @@
         "Points": "0",
         "Fastest Lap": {
             "Time": null,
-            "Lap": null,
-            "Average Speed": {
-                "Speed": null,
-                "Unit": null
-            }
+            "Lap": null
         },
         "DNF": "+2 Laps"
     },
@@ -199,11 +151,7 @@
         "Points": "0",
         "Fastest Lap": {
             "Time": null,
-            "Lap": null,
-            "Average Speed": {
-                "Speed": null,
-                "Unit": null
-            }
+            "Lap": null
         },
         "DNF": "+2 Laps"
     },
@@ -215,11 +163,7 @@
         "Points": "0",
         "Fastest Lap": {
             "Time": null,
-            "Lap": null,
-            "Average Speed": {
-                "Speed": null,
-                "Unit": null
-            }
+            "Lap": null
         },
         "DNF": "+2 Laps"
     },
@@ -231,11 +175,7 @@
         "Points": "0",
         "Fastest Lap": {
             "Time": null,
-            "Lap": null,
-            "Average Speed": {
-                "Speed": null,
-                "Unit": null
-            }
+            "Lap": null
         },
         "DNF": "+2 Laps"
     },
@@ -247,11 +187,7 @@
         "Points": "0",
         "Fastest Lap": {
             "Time": null,
-            "Lap": null,
-            "Average Speed": {
-                "Speed": null,
-                "Unit": null
-            }
+            "Lap": null
         },
         "DNF": "+2 Laps"
     },
@@ -263,11 +199,7 @@
         "Points": "0",
         "Fastest Lap": {
             "Time": null,
-            "Lap": null,
-            "Average Speed": {
-                "Speed": null,
-                "Unit": null
-            }
+            "Lap": null
         },
         "DNF": "Collision"
     },
@@ -279,11 +211,7 @@
         "Points": "0",
         "Fastest Lap": {
             "Time": null,
-            "Lap": null,
-            "Average Speed": {
-                "Speed": null,
-                "Unit": null
-            }
+            "Lap": null
         },
         "DNF": "Collision"
     },
@@ -295,11 +223,7 @@
         "Points": "0",
         "Fastest Lap": {
             "Time": null,
-            "Lap": null,
-            "Average Speed": {
-                "Speed": null,
-                "Unit": null
-            }
+            "Lap": null
         },
         "DNF": "Collision"
     },
@@ -311,11 +235,7 @@
         "Points": "0",
         "Fastest Lap": {
             "Time": null,
-            "Lap": null,
-            "Average Speed": {
-                "Speed": null,
-                "Unit": null
-            }
+            "Lap": null
         },
         "DNF": "Collision"
     }

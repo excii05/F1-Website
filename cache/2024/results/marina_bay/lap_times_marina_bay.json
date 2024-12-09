@@ -1,0 +1,6954 @@
+[
+    {
+        "Circuit ID": "marina_bay",
+        "Round": "18",
+        "Lap Number": "1",
+        "Driver ID": "max_verstappen",
+        "Time": "1:41.413",
+        "Position": "2"
+    },
+    {
+        "Circuit ID": "marina_bay",
+        "Round": "18",
+        "Lap Number": "2",
+        "Driver ID": "max_verstappen",
+        "Time": "1:38.790",
+        "Position": "2"
+    },
+    {
+        "Circuit ID": "marina_bay",
+        "Round": "18",
+        "Lap Number": "3",
+        "Driver ID": "max_verstappen",
+        "Time": "1:38.917",
+        "Position": "2"
+    },
+    {
+        "Circuit ID": "marina_bay",
+        "Round": "18",
+        "Lap Number": "4",
+        "Driver ID": "max_verstappen",
+        "Time": "1:38.470",
+        "Position": "2"
+    },
+    {
+        "Circuit ID": "marina_bay",
+        "Round": "18",
+        "Lap Number": "5",
+        "Driver ID": "max_verstappen",
+        "Time": "1:37.906",
+        "Position": "2"
+    },
+    {
+        "Circuit ID": "marina_bay",
+        "Round": "18",
+        "Lap Number": "6",
+        "Driver ID": "max_verstappen",
+        "Time": "1:37.997",
+        "Position": "2"
+    },
+    {
+        "Circuit ID": "marina_bay",
+        "Round": "18",
+        "Lap Number": "7",
+        "Driver ID": "max_verstappen",
+        "Time": "1:37.774",
+        "Position": "2"
+    },
+    {
+        "Circuit ID": "marina_bay",
+        "Round": "18",
+        "Lap Number": "8",
+        "Driver ID": "max_verstappen",
+        "Time": "1:37.669",
+        "Position": "2"
+    },
+    {
+        "Circuit ID": "marina_bay",
+        "Round": "18",
+        "Lap Number": "9",
+        "Driver ID": "max_verstappen",
+        "Time": "1:37.890",
+        "Position": "2"
+    },
+    {
+        "Circuit ID": "marina_bay",
+        "Round": "18",
+        "Lap Number": "10",
+        "Driver ID": "max_verstappen",
+        "Time": "1:37.739",
+        "Position": "2"
+    },
+    {
+        "Circuit ID": "marina_bay",
+        "Round": "18",
+        "Lap Number": "11",
+        "Driver ID": "max_verstappen",
+        "Time": "1:37.593",
+        "Position": "2"
+    },
+    {
+        "Circuit ID": "marina_bay",
+        "Round": "18",
+        "Lap Number": "12",
+        "Driver ID": "max_verstappen",
+        "Time": "1:37.778",
+        "Position": "2"
+    },
+    {
+        "Circuit ID": "marina_bay",
+        "Round": "18",
+        "Lap Number": "13",
+        "Driver ID": "max_verstappen",
+        "Time": "1:37.701",
+        "Position": "2"
+    },
+    {
+        "Circuit ID": "marina_bay",
+        "Round": "18",
+        "Lap Number": "14",
+        "Driver ID": "max_verstappen",
+        "Time": "1:37.707",
+        "Position": "2"
+    },
+    {
+        "Circuit ID": "marina_bay",
+        "Round": "18",
+        "Lap Number": "15",
+        "Driver ID": "max_verstappen",
+        "Time": "1:37.826",
+        "Position": "2"
+    },
+    {
+        "Circuit ID": "marina_bay",
+        "Round": "18",
+        "Lap Number": "16",
+        "Driver ID": "max_verstappen",
+        "Time": "1:37.851",
+        "Position": "2"
+    },
+    {
+        "Circuit ID": "marina_bay",
+        "Round": "18",
+        "Lap Number": "17",
+        "Driver ID": "max_verstappen",
+        "Time": "1:37.987",
+        "Position": "2"
+    },
+    {
+        "Circuit ID": "marina_bay",
+        "Round": "18",
+        "Lap Number": "18",
+        "Driver ID": "max_verstappen",
+        "Time": "1:38.068",
+        "Position": "2"
+    },
+    {
+        "Circuit ID": "marina_bay",
+        "Round": "18",
+        "Lap Number": "19",
+        "Driver ID": "max_verstappen",
+        "Time": "1:38.017",
+        "Position": "2"
+    },
+    {
+        "Circuit ID": "marina_bay",
+        "Round": "18",
+        "Lap Number": "20",
+        "Driver ID": "max_verstappen",
+        "Time": "1:38.123",
+        "Position": "2"
+    },
+    {
+        "Circuit ID": "marina_bay",
+        "Round": "18",
+        "Lap Number": "21",
+        "Driver ID": "max_verstappen",
+        "Time": "1:38.172",
+        "Position": "2"
+    },
+    {
+        "Circuit ID": "marina_bay",
+        "Round": "18",
+        "Lap Number": "22",
+        "Driver ID": "max_verstappen",
+        "Time": "1:38.192",
+        "Position": "2"
+    },
+    {
+        "Circuit ID": "marina_bay",
+        "Round": "18",
+        "Lap Number": "23",
+        "Driver ID": "max_verstappen",
+        "Time": "1:38.231",
+        "Position": "2"
+    },
+    {
+        "Circuit ID": "marina_bay",
+        "Round": "18",
+        "Lap Number": "24",
+        "Driver ID": "max_verstappen",
+        "Time": "1:38.399",
+        "Position": "2"
+    },
+    {
+        "Circuit ID": "marina_bay",
+        "Round": "18",
+        "Lap Number": "25",
+        "Driver ID": "max_verstappen",
+        "Time": "1:38.641",
+        "Position": "2"
+    },
+    {
+        "Circuit ID": "marina_bay",
+        "Round": "18",
+        "Lap Number": "26",
+        "Driver ID": "max_verstappen",
+        "Time": "1:38.575",
+        "Position": "2"
+    },
+    {
+        "Circuit ID": "marina_bay",
+        "Round": "18",
+        "Lap Number": "27",
+        "Driver ID": "max_verstappen",
+        "Time": "1:38.927",
+        "Position": "2"
+    },
+    {
+        "Circuit ID": "marina_bay",
+        "Round": "18",
+        "Lap Number": "28",
+        "Driver ID": "max_verstappen",
+        "Time": "1:39.265",
+        "Position": "2"
+    },
+    {
+        "Circuit ID": "marina_bay",
+        "Round": "18",
+        "Lap Number": "29",
+        "Driver ID": "max_verstappen",
+        "Time": "1:47.873",
+        "Position": "2"
+    },
+    {
+        "Circuit ID": "marina_bay",
+        "Round": "18",
+        "Lap Number": "30",
+        "Driver ID": "max_verstappen",
+        "Time": "1:58.989",
+        "Position": "3"
+    },
+    {
+        "Circuit ID": "marina_bay",
+        "Round": "18",
+        "Lap Number": "31",
+        "Driver ID": "max_verstappen",
+        "Time": "1:36.688",
+        "Position": "3"
+    },
+    {
+        "Circuit ID": "marina_bay",
+        "Round": "18",
+        "Lap Number": "32",
+        "Driver ID": "max_verstappen",
+        "Time": "1:36.824",
+        "Position": "3"
+    },
+    {
+        "Circuit ID": "marina_bay",
+        "Round": "18",
+        "Lap Number": "33",
+        "Driver ID": "max_verstappen",
+        "Time": "1:37.022",
+        "Position": "3"
+    },
+    {
+        "Circuit ID": "marina_bay",
+        "Round": "18",
+        "Lap Number": "34",
+        "Driver ID": "max_verstappen",
+        "Time": "1:36.871",
+        "Position": "3"
+    },
+    {
+        "Circuit ID": "marina_bay",
+        "Round": "18",
+        "Lap Number": "35",
+        "Driver ID": "max_verstappen",
+        "Time": "1:37.100",
+        "Position": "3"
+    },
+    {
+        "Circuit ID": "marina_bay",
+        "Round": "18",
+        "Lap Number": "36",
+        "Driver ID": "max_verstappen",
+        "Time": "1:36.968",
+        "Position": "3"
+    },
+    {
+        "Circuit ID": "marina_bay",
+        "Round": "18",
+        "Lap Number": "37",
+        "Driver ID": "max_verstappen",
+        "Time": "1:36.984",
+        "Position": "3"
+    },
+    {
+        "Circuit ID": "marina_bay",
+        "Round": "18",
+        "Lap Number": "38",
+        "Driver ID": "max_verstappen",
+        "Time": "1:37.071",
+        "Position": "3"
+    },
+    {
+        "Circuit ID": "marina_bay",
+        "Round": "18",
+        "Lap Number": "39",
+        "Driver ID": "max_verstappen",
+        "Time": "1:36.957",
+        "Position": "2"
+    },
+    {
+        "Circuit ID": "marina_bay",
+        "Round": "18",
+        "Lap Number": "40",
+        "Driver ID": "max_verstappen",
+        "Time": "1:36.962",
+        "Position": "2"
+    },
+    {
+        "Circuit ID": "marina_bay",
+        "Round": "18",
+        "Lap Number": "41",
+        "Driver ID": "max_verstappen",
+        "Time": "1:37.380",
+        "Position": "2"
+    },
+    {
+        "Circuit ID": "marina_bay",
+        "Round": "18",
+        "Lap Number": "42",
+        "Driver ID": "max_verstappen",
+        "Time": "1:36.865",
+        "Position": "2"
+    },
+    {
+        "Circuit ID": "marina_bay",
+        "Round": "18",
+        "Lap Number": "43",
+        "Driver ID": "max_verstappen",
+        "Time": "1:36.582",
+        "Position": "2"
+    },
+    {
+        "Circuit ID": "marina_bay",
+        "Round": "18",
+        "Lap Number": "44",
+        "Driver ID": "max_verstappen",
+        "Time": "1:36.414",
+        "Position": "2"
+    },
+    {
+        "Circuit ID": "marina_bay",
+        "Round": "18",
+        "Lap Number": "45",
+        "Driver ID": "max_verstappen",
+        "Time": "1:36.618",
+        "Position": "2"
+    },
+    {
+        "Circuit ID": "marina_bay",
+        "Round": "18",
+        "Lap Number": "46",
+        "Driver ID": "max_verstappen",
+        "Time": "1:36.500",
+        "Position": "2"
+    },
+    {
+        "Circuit ID": "marina_bay",
+        "Round": "18",
+        "Lap Number": "47",
+        "Driver ID": "max_verstappen",
+        "Time": "1:36.628",
+        "Position": "2"
+    },
+    {
+        "Circuit ID": "marina_bay",
+        "Round": "18",
+        "Lap Number": "48",
+        "Driver ID": "max_verstappen",
+        "Time": "1:36.739",
+        "Position": "2"
+    },
+    {
+        "Circuit ID": "marina_bay",
+        "Round": "18",
+        "Lap Number": "49",
+        "Driver ID": "max_verstappen",
+        "Time": "1:36.602",
+        "Position": "2"
+    },
+    {
+        "Circuit ID": "marina_bay",
+        "Round": "18",
+        "Lap Number": "50",
+        "Driver ID": "max_verstappen",
+        "Time": "1:37.055",
+        "Position": "2"
+    },
+    {
+        "Circuit ID": "marina_bay",
+        "Round": "18",
+        "Lap Number": "51",
+        "Driver ID": "max_verstappen",
+        "Time": "1:37.132",
+        "Position": "2"
+    },
+    {
+        "Circuit ID": "marina_bay",
+        "Round": "18",
+        "Lap Number": "52",
+        "Driver ID": "max_verstappen",
+        "Time": "1:36.842",
+        "Position": "2"
+    },
+    {
+        "Circuit ID": "marina_bay",
+        "Round": "18",
+        "Lap Number": "53",
+        "Driver ID": "max_verstappen",
+        "Time": "1:36.843",
+        "Position": "2"
+    },
+    {
+        "Circuit ID": "marina_bay",
+        "Round": "18",
+        "Lap Number": "54",
+        "Driver ID": "max_verstappen",
+        "Time": "1:36.748",
+        "Position": "2"
+    },
+    {
+        "Circuit ID": "marina_bay",
+        "Round": "18",
+        "Lap Number": "55",
+        "Driver ID": "max_verstappen",
+        "Time": "1:36.427",
+        "Position": "2"
+    },
+    {
+        "Circuit ID": "marina_bay",
+        "Round": "18",
+        "Lap Number": "56",
+        "Driver ID": "max_verstappen",
+        "Time": "1:36.387",
+        "Position": "2"
+    },
+    {
+        "Circuit ID": "marina_bay",
+        "Round": "18",
+        "Lap Number": "57",
+        "Driver ID": "max_verstappen",
+        "Time": "1:36.402",
+        "Position": "2"
+    },
+    {
+        "Circuit ID": "marina_bay",
+        "Round": "18",
+        "Lap Number": "58",
+        "Driver ID": "max_verstappen",
+        "Time": "1:36.171",
+        "Position": "2"
+    },
+    {
+        "Circuit ID": "marina_bay",
+        "Round": "18",
+        "Lap Number": "59",
+        "Driver ID": "max_verstappen",
+        "Time": "1:35.967",
+        "Position": "2"
+    },
+    {
+        "Circuit ID": "marina_bay",
+        "Round": "18",
+        "Lap Number": "60",
+        "Driver ID": "max_verstappen",
+        "Time": "1:36.343",
+        "Position": "2"
+    },
+    {
+        "Circuit ID": "marina_bay",
+        "Round": "18",
+        "Lap Number": "61",
+        "Driver ID": "max_verstappen",
+        "Time": "1:36.013",
+        "Position": "2"
+    },
+    {
+        "Circuit ID": "marina_bay",
+        "Round": "18",
+        "Lap Number": "62",
+        "Driver ID": "max_verstappen",
+        "Time": "1:36.931",
+        "Position": "2"
+    },
+    {
+        "Circuit ID": "marina_bay",
+        "Round": "18",
+        "Lap Number": "1",
+        "Driver ID": "piastri",
+        "Time": "1:45.268",
+        "Position": "5"
+    },
+    {
+        "Circuit ID": "marina_bay",
+        "Round": "18",
+        "Lap Number": "2",
+        "Driver ID": "piastri",
+        "Time": "1:38.939",
+        "Position": "5"
+    },
+    {
+        "Circuit ID": "marina_bay",
+        "Round": "18",
+        "Lap Number": "3",
+        "Driver ID": "piastri",
+        "Time": "1:39.350",
+        "Position": "5"
+    },
+    {
+        "Circuit ID": "marina_bay",
+        "Round": "18",
+        "Lap Number": "4",
+        "Driver ID": "piastri",
+        "Time": "1:39.356",
+        "Position": "5"
+    },
+    {
+        "Circuit ID": "marina_bay",
+        "Round": "18",
+        "Lap Number": "5",
+        "Driver ID": "piastri",
+        "Time": "1:38.667",
+        "Position": "5"
+    },
+    {
+        "Circuit ID": "marina_bay",
+        "Round": "18",
+        "Lap Number": "6",
+        "Driver ID": "piastri",
+        "Time": "1:38.778",
+        "Position": "5"
+    },
+    {
+        "Circuit ID": "marina_bay",
+        "Round": "18",
+        "Lap Number": "7",
+        "Driver ID": "piastri",
+        "Time": "1:38.419",
+        "Position": "5"
+    },
+    {
+        "Circuit ID": "marina_bay",
+        "Round": "18",
+        "Lap Number": "8",
+        "Driver ID": "piastri",
+        "Time": "1:37.873",
+        "Position": "5"
+    },
+    {
+        "Circuit ID": "marina_bay",
+        "Round": "18",
+        "Lap Number": "9",
+        "Driver ID": "piastri",
+        "Time": "1:38.446",
+        "Position": "5"
+    },
+    {
+        "Circuit ID": "marina_bay",
+        "Round": "18",
+        "Lap Number": "10",
+        "Driver ID": "piastri",
+        "Time": "1:38.429",
+        "Position": "5"
+    },
+    {
+        "Circuit ID": "marina_bay",
+        "Round": "18",
+        "Lap Number": "11",
+        "Driver ID": "piastri",
+        "Time": "1:38.269",
+        "Position": "5"
+    },
+    {
+        "Circuit ID": "marina_bay",
+        "Round": "18",
+        "Lap Number": "12",
+        "Driver ID": "piastri",
+        "Time": "1:38.151",
+        "Position": "5"
+    },
+    {
+        "Circuit ID": "marina_bay",
+        "Round": "18",
+        "Lap Number": "13",
+        "Driver ID": "piastri",
+        "Time": "1:38.215",
+        "Position": "5"
+    },
+    {
+        "Circuit ID": "marina_bay",
+        "Round": "18",
+        "Lap Number": "14",
+        "Driver ID": "piastri",
+        "Time": "1:37.651",
+        "Position": "5"
+    },
+    {
+        "Circuit ID": "marina_bay",
+        "Round": "18",
+        "Lap Number": "15",
+        "Driver ID": "piastri",
+        "Time": "1:38.435",
+        "Position": "5"
+    },
+    {
+        "Circuit ID": "marina_bay",
+        "Round": "18",
+        "Lap Number": "16",
+        "Driver ID": "piastri",
+        "Time": "1:38.088",
+        "Position": "5"
+    },
+    {
+        "Circuit ID": "marina_bay",
+        "Round": "18",
+        "Lap Number": "17",
+        "Driver ID": "piastri",
+        "Time": "1:38.532",
+        "Position": "4"
+    },
+    {
+        "Circuit ID": "marina_bay",
+        "Round": "18",
+        "Lap Number": "18",
+        "Driver ID": "piastri",
+        "Time": "1:38.188",
+        "Position": "4"
+    },
+    {
+        "Circuit ID": "marina_bay",
+        "Round": "18",
+        "Lap Number": "19",
+        "Driver ID": "piastri",
+        "Time": "1:38.749",
+        "Position": "4"
+    },
+    {
+        "Circuit ID": "marina_bay",
+        "Round": "18",
+        "Lap Number": "20",
+        "Driver ID": "piastri",
+        "Time": "1:38.317",
+        "Position": "4"
+    },
+    {
+        "Circuit ID": "marina_bay",
+        "Round": "18",
+        "Lap Number": "21",
+        "Driver ID": "piastri",
+        "Time": "1:38.275",
+        "Position": "4"
+    },
+    {
+        "Circuit ID": "marina_bay",
+        "Round": "18",
+        "Lap Number": "22",
+        "Driver ID": "piastri",
+        "Time": "1:38.415",
+        "Position": "4"
+    },
+    {
+        "Circuit ID": "marina_bay",
+        "Round": "18",
+        "Lap Number": "23",
+        "Driver ID": "piastri",
+        "Time": "1:38.262",
+        "Position": "4"
+    },
+    {
+        "Circuit ID": "marina_bay",
+        "Round": "18",
+        "Lap Number": "24",
+        "Driver ID": "piastri",
+        "Time": "1:38.403",
+        "Position": "4"
+    },
+    {
+        "Circuit ID": "marina_bay",
+        "Round": "18",
+        "Lap Number": "25",
+        "Driver ID": "piastri",
+        "Time": "1:38.516",
+        "Position": "4"
+    },
+    {
+        "Circuit ID": "marina_bay",
+        "Round": "18",
+        "Lap Number": "26",
+        "Driver ID": "piastri",
+        "Time": "1:38.839",
+        "Position": "4"
+    },
+    {
+        "Circuit ID": "marina_bay",
+        "Round": "18",
+        "Lap Number": "27",
+        "Driver ID": "piastri",
+        "Time": "1:38.644",
+        "Position": "3"
+    },
+    {
+        "Circuit ID": "marina_bay",
+        "Round": "18",
+        "Lap Number": "28",
+        "Driver ID": "piastri",
+        "Time": "1:37.700",
+        "Position": "3"
+    },
+    {
+        "Circuit ID": "marina_bay",
+        "Round": "18",
+        "Lap Number": "29",
+        "Driver ID": "piastri",
+        "Time": "1:37.944",
+        "Position": "3"
+    },
+    {
+        "Circuit ID": "marina_bay",
+        "Round": "18",
+        "Lap Number": "30",
+        "Driver ID": "piastri",
+        "Time": "1:38.290",
+        "Position": "2"
+    },
+    {
+        "Circuit ID": "marina_bay",
+        "Round": "18",
+        "Lap Number": "31",
+        "Driver ID": "piastri",
+        "Time": "1:38.149",
+        "Position": "2"
+    },
+    {
+        "Circuit ID": "marina_bay",
+        "Round": "18",
+        "Lap Number": "32",
+        "Driver ID": "piastri",
+        "Time": "1:38.194",
+        "Position": "2"
+    },
+    {
+        "Circuit ID": "marina_bay",
+        "Round": "18",
+        "Lap Number": "33",
+        "Driver ID": "piastri",
+        "Time": "1:38.288",
+        "Position": "2"
+    },
+    {
+        "Circuit ID": "marina_bay",
+        "Round": "18",
+        "Lap Number": "34",
+        "Driver ID": "piastri",
+        "Time": "1:38.038",
+        "Position": "2"
+    },
+    {
+        "Circuit ID": "marina_bay",
+        "Round": "18",
+        "Lap Number": "35",
+        "Driver ID": "piastri",
+        "Time": "1:38.322",
+        "Position": "2"
+    },
+    {
+        "Circuit ID": "marina_bay",
+        "Round": "18",
+        "Lap Number": "36",
+        "Driver ID": "piastri",
+        "Time": "1:38.147",
+        "Position": "2"
+    },
+    {
+        "Circuit ID": "marina_bay",
+        "Round": "18",
+        "Lap Number": "37",
+        "Driver ID": "piastri",
+        "Time": "1:38.437",
+        "Position": "2"
+    },
+    {
+        "Circuit ID": "marina_bay",
+        "Round": "18",
+        "Lap Number": "38",
+        "Driver ID": "piastri",
+        "Time": "1:46.395",
+        "Position": "2"
+    },
+    {
+        "Circuit ID": "marina_bay",
+        "Round": "18",
+        "Lap Number": "39",
+        "Driver ID": "piastri",
+        "Time": "1:57.551",
+        "Position": "5"
+    },
+    {
+        "Circuit ID": "marina_bay",
+        "Round": "18",
+        "Lap Number": "40",
+        "Driver ID": "piastri",
+        "Time": "1:36.610",
+        "Position": "4"
+    },
+    {
+        "Circuit ID": "marina_bay",
+        "Round": "18",
+        "Lap Number": "41",
+        "Driver ID": "piastri",
+        "Time": "1:36.265",
+        "Position": "4"
+    },
+    {
+        "Circuit ID": "marina_bay",
+        "Round": "18",
+        "Lap Number": "42",
+        "Driver ID": "piastri",
+        "Time": "1:35.888",
+        "Position": "4"
+    },
+    {
+        "Circuit ID": "marina_bay",
+        "Round": "18",
+        "Lap Number": "43",
+        "Driver ID": "piastri",
+        "Time": "1:36.167",
+        "Position": "4"
+    },
+    {
+        "Circuit ID": "marina_bay",
+        "Round": "18",
+        "Lap Number": "44",
+        "Driver ID": "piastri",
+        "Time": "1:37.363",
+        "Position": "4"
+    },
+    {
+        "Circuit ID": "marina_bay",
+        "Round": "18",
+        "Lap Number": "45",
+        "Driver ID": "piastri",
+        "Time": "1:37.258",
+        "Position": "3"
+    },
+    {
+        "Circuit ID": "marina_bay",
+        "Round": "18",
+        "Lap Number": "46",
+        "Driver ID": "piastri",
+        "Time": "1:36.324",
+        "Position": "3"
+    },
+    {
+        "Circuit ID": "marina_bay",
+        "Round": "18",
+        "Lap Number": "47",
+        "Driver ID": "piastri",
+        "Time": "1:36.330",
+        "Position": "3"
+    },
+    {
+        "Circuit ID": "marina_bay",
+        "Round": "18",
+        "Lap Number": "48",
+        "Driver ID": "piastri",
+        "Time": "1:35.745",
+        "Position": "3"
+    },
+    {
+        "Circuit ID": "marina_bay",
+        "Round": "18",
+        "Lap Number": "49",
+        "Driver ID": "piastri",
+        "Time": "1:35.881",
+        "Position": "3"
+    },
+    {
+        "Circuit ID": "marina_bay",
+        "Round": "18",
+        "Lap Number": "50",
+        "Driver ID": "piastri",
+        "Time": "1:38.310",
+        "Position": "3"
+    },
+    {
+        "Circuit ID": "marina_bay",
+        "Round": "18",
+        "Lap Number": "51",
+        "Driver ID": "piastri",
+        "Time": "1:37.269",
+        "Position": "3"
+    },
+    {
+        "Circuit ID": "marina_bay",
+        "Round": "18",
+        "Lap Number": "52",
+        "Driver ID": "piastri",
+        "Time": "1:36.856",
+        "Position": "3"
+    },
+    {
+        "Circuit ID": "marina_bay",
+        "Round": "18",
+        "Lap Number": "53",
+        "Driver ID": "piastri",
+        "Time": "1:37.406",
+        "Position": "3"
+    },
+    {
+        "Circuit ID": "marina_bay",
+        "Round": "18",
+        "Lap Number": "54",
+        "Driver ID": "piastri",
+        "Time": "1:36.841",
+        "Position": "3"
+    },
+    {
+        "Circuit ID": "marina_bay",
+        "Round": "18",
+        "Lap Number": "55",
+        "Driver ID": "piastri",
+        "Time": "1:35.995",
+        "Position": "3"
+    },
+    {
+        "Circuit ID": "marina_bay",
+        "Round": "18",
+        "Lap Number": "56",
+        "Driver ID": "piastri",
+        "Time": "1:36.355",
+        "Position": "3"
+    },
+    {
+        "Circuit ID": "marina_bay",
+        "Round": "18",
+        "Lap Number": "57",
+        "Driver ID": "piastri",
+        "Time": "1:36.070",
+        "Position": "3"
+    },
+    {
+        "Circuit ID": "marina_bay",
+        "Round": "18",
+        "Lap Number": "58",
+        "Driver ID": "piastri",
+        "Time": "1:36.056",
+        "Position": "3"
+    },
+    {
+        "Circuit ID": "marina_bay",
+        "Round": "18",
+        "Lap Number": "59",
+        "Driver ID": "piastri",
+        "Time": "1:37.009",
+        "Position": "3"
+    },
+    {
+        "Circuit ID": "marina_bay",
+        "Round": "18",
+        "Lap Number": "60",
+        "Driver ID": "piastri",
+        "Time": "1:37.191",
+        "Position": "3"
+    },
+    {
+        "Circuit ID": "marina_bay",
+        "Round": "18",
+        "Lap Number": "61",
+        "Driver ID": "piastri",
+        "Time": "1:37.407",
+        "Position": "3"
+    },
+    {
+        "Circuit ID": "marina_bay",
+        "Round": "18",
+        "Lap Number": "62",
+        "Driver ID": "piastri",
+        "Time": "1:36.869",
+        "Position": "3"
+    },
+    {
+        "Circuit ID": "marina_bay",
+        "Round": "18",
+        "Lap Number": "1",
+        "Driver ID": "russell",
+        "Time": "1:43.822",
+        "Position": "4"
+    },
+    {
+        "Circuit ID": "marina_bay",
+        "Round": "18",
+        "Lap Number": "2",
+        "Driver ID": "russell",
+        "Time": "1:38.489",
+        "Position": "4"
+    },
+    {
+        "Circuit ID": "marina_bay",
+        "Round": "18",
+        "Lap Number": "3",
+        "Driver ID": "russell",
+        "Time": "1:39.712",
+        "Position": "4"
+    },
+    {
+        "Circuit ID": "marina_bay",
+        "Round": "18",
+        "Lap Number": "4",
+        "Driver ID": "russell",
+        "Time": "1:39.170",
+        "Position": "4"
+    },
+    {
+        "Circuit ID": "marina_bay",
+        "Round": "18",
+        "Lap Number": "5",
+        "Driver ID": "russell",
+        "Time": "1:38.604",
+        "Position": "4"
+    },
+    {
+        "Circuit ID": "marina_bay",
+        "Round": "18",
+        "Lap Number": "6",
+        "Driver ID": "russell",
+        "Time": "1:38.372",
+        "Position": "4"
+    },
+    {
+        "Circuit ID": "marina_bay",
+        "Round": "18",
+        "Lap Number": "7",
+        "Driver ID": "russell",
+        "Time": "1:38.365",
+        "Position": "4"
+    },
+    {
+        "Circuit ID": "marina_bay",
+        "Round": "18",
+        "Lap Number": "8",
+        "Driver ID": "russell",
+        "Time": "1:38.260",
+        "Position": "4"
+    },
+    {
+        "Circuit ID": "marina_bay",
+        "Round": "18",
+        "Lap Number": "9",
+        "Driver ID": "russell",
+        "Time": "1:38.174",
+        "Position": "4"
+    },
+    {
+        "Circuit ID": "marina_bay",
+        "Round": "18",
+        "Lap Number": "10",
+        "Driver ID": "russell",
+        "Time": "1:38.332",
+        "Position": "4"
+    },
+    {
+        "Circuit ID": "marina_bay",
+        "Round": "18",
+        "Lap Number": "11",
+        "Driver ID": "russell",
+        "Time": "1:38.179",
+        "Position": "4"
+    },
+    {
+        "Circuit ID": "marina_bay",
+        "Round": "18",
+        "Lap Number": "12",
+        "Driver ID": "russell",
+        "Time": "1:38.091",
+        "Position": "4"
+    },
+    {
+        "Circuit ID": "marina_bay",
+        "Round": "18",
+        "Lap Number": "13",
+        "Driver ID": "russell",
+        "Time": "1:38.050",
+        "Position": "4"
+    },
+    {
+        "Circuit ID": "marina_bay",
+        "Round": "18",
+        "Lap Number": "14",
+        "Driver ID": "russell",
+        "Time": "1:38.173",
+        "Position": "4"
+    },
+    {
+        "Circuit ID": "marina_bay",
+        "Round": "18",
+        "Lap Number": "15",
+        "Driver ID": "russell",
+        "Time": "1:38.459",
+        "Position": "4"
+    },
+    {
+        "Circuit ID": "marina_bay",
+        "Round": "18",
+        "Lap Number": "16",
+        "Driver ID": "russell",
+        "Time": "1:38.526",
+        "Position": "4"
+    },
+    {
+        "Circuit ID": "marina_bay",
+        "Round": "18",
+        "Lap Number": "17",
+        "Driver ID": "russell",
+        "Time": "1:38.855",
+        "Position": "3"
+    },
+    {
+        "Circuit ID": "marina_bay",
+        "Round": "18",
+        "Lap Number": "18",
+        "Driver ID": "russell",
+        "Time": "1:38.404",
+        "Position": "3"
+    },
+    {
+        "Circuit ID": "marina_bay",
+        "Round": "18",
+        "Lap Number": "19",
+        "Driver ID": "russell",
+        "Time": "1:38.224",
+        "Position": "3"
+    },
+    {
+        "Circuit ID": "marina_bay",
+        "Round": "18",
+        "Lap Number": "20",
+        "Driver ID": "russell",
+        "Time": "1:38.336",
+        "Position": "3"
+    },
+    {
+        "Circuit ID": "marina_bay",
+        "Round": "18",
+        "Lap Number": "21",
+        "Driver ID": "russell",
+        "Time": "1:38.464",
+        "Position": "3"
+    },
+    {
+        "Circuit ID": "marina_bay",
+        "Round": "18",
+        "Lap Number": "22",
+        "Driver ID": "russell",
+        "Time": "1:38.364",
+        "Position": "3"
+    },
+    {
+        "Circuit ID": "marina_bay",
+        "Round": "18",
+        "Lap Number": "23",
+        "Driver ID": "russell",
+        "Time": "1:38.417",
+        "Position": "3"
+    },
+    {
+        "Circuit ID": "marina_bay",
+        "Round": "18",
+        "Lap Number": "24",
+        "Driver ID": "russell",
+        "Time": "1:38.518",
+        "Position": "3"
+    },
+    {
+        "Circuit ID": "marina_bay",
+        "Round": "18",
+        "Lap Number": "25",
+        "Driver ID": "russell",
+        "Time": "1:38.892",
+        "Position": "3"
+    },
+    {
+        "Circuit ID": "marina_bay",
+        "Round": "18",
+        "Lap Number": "26",
+        "Driver ID": "russell",
+        "Time": "1:38.757",
+        "Position": "3"
+    },
+    {
+        "Circuit ID": "marina_bay",
+        "Round": "18",
+        "Lap Number": "27",
+        "Driver ID": "russell",
+        "Time": "1:46.903",
+        "Position": "4"
+    },
+    {
+        "Circuit ID": "marina_bay",
+        "Round": "18",
+        "Lap Number": "28",
+        "Driver ID": "russell",
+        "Time": "1:57.061",
+        "Position": "7"
+    },
+    {
+        "Circuit ID": "marina_bay",
+        "Round": "18",
+        "Lap Number": "29",
+        "Driver ID": "russell",
+        "Time": "1:37.097",
+        "Position": "5"
+    },
+    {
+        "Circuit ID": "marina_bay",
+        "Round": "18",
+        "Lap Number": "30",
+        "Driver ID": "russell",
+        "Time": "1:37.047",
+        "Position": "5"
+    },
+    {
+        "Circuit ID": "marina_bay",
+        "Round": "18",
+        "Lap Number": "31",
+        "Driver ID": "russell",
+        "Time": "1:37.404",
+        "Position": "5"
+    },
+    {
+        "Circuit ID": "marina_bay",
+        "Round": "18",
+        "Lap Number": "32",
+        "Driver ID": "russell",
+        "Time": "1:37.348",
+        "Position": "5"
+    },
+    {
+        "Circuit ID": "marina_bay",
+        "Round": "18",
+        "Lap Number": "33",
+        "Driver ID": "russell",
+        "Time": "1:37.449",
+        "Position": "5"
+    },
+    {
+        "Circuit ID": "marina_bay",
+        "Round": "18",
+        "Lap Number": "34",
+        "Driver ID": "russell",
+        "Time": "1:38.356",
+        "Position": "5"
+    },
+    {
+        "Circuit ID": "marina_bay",
+        "Round": "18",
+        "Lap Number": "35",
+        "Driver ID": "russell",
+        "Time": "1:39.168",
+        "Position": "5"
+    },
+    {
+        "Circuit ID": "marina_bay",
+        "Round": "18",
+        "Lap Number": "36",
+        "Driver ID": "russell",
+        "Time": "1:39.164",
+        "Position": "4"
+    },
+    {
+        "Circuit ID": "marina_bay",
+        "Round": "18",
+        "Lap Number": "37",
+        "Driver ID": "russell",
+        "Time": "1:37.786",
+        "Position": "4"
+    },
+    {
+        "Circuit ID": "marina_bay",
+        "Round": "18",
+        "Lap Number": "38",
+        "Driver ID": "russell",
+        "Time": "1:37.577",
+        "Position": "4"
+    },
+    {
+        "Circuit ID": "marina_bay",
+        "Round": "18",
+        "Lap Number": "39",
+        "Driver ID": "russell",
+        "Time": "1:37.369",
+        "Position": "3"
+    },
+    {
+        "Circuit ID": "marina_bay",
+        "Round": "18",
+        "Lap Number": "40",
+        "Driver ID": "russell",
+        "Time": "1:37.545",
+        "Position": "3"
+    },
+    {
+        "Circuit ID": "marina_bay",
+        "Round": "18",
+        "Lap Number": "41",
+        "Driver ID": "russell",
+        "Time": "1:37.224",
+        "Position": "3"
+    },
+    {
+        "Circuit ID": "marina_bay",
+        "Round": "18",
+        "Lap Number": "42",
+        "Driver ID": "russell",
+        "Time": "1:37.316",
+        "Position": "3"
+    },
+    {
+        "Circuit ID": "marina_bay",
+        "Round": "18",
+        "Lap Number": "43",
+        "Driver ID": "russell",
+        "Time": "1:37.236",
+        "Position": "3"
+    },
+    {
+        "Circuit ID": "marina_bay",
+        "Round": "18",
+        "Lap Number": "44",
+        "Driver ID": "russell",
+        "Time": "1:37.701",
+        "Position": "3"
+    },
+    {
+        "Circuit ID": "marina_bay",
+        "Round": "18",
+        "Lap Number": "45",
+        "Driver ID": "russell",
+        "Time": "1:39.372",
+        "Position": "4"
+    },
+    {
+        "Circuit ID": "marina_bay",
+        "Round": "18",
+        "Lap Number": "46",
+        "Driver ID": "russell",
+        "Time": "1:38.413",
+        "Position": "4"
+    },
+    {
+        "Circuit ID": "marina_bay",
+        "Round": "18",
+        "Lap Number": "47",
+        "Driver ID": "russell",
+        "Time": "1:37.636",
+        "Position": "4"
+    },
+    {
+        "Circuit ID": "marina_bay",
+        "Round": "18",
+        "Lap Number": "48",
+        "Driver ID": "russell",
+        "Time": "1:37.596",
+        "Position": "4"
+    },
+    {
+        "Circuit ID": "marina_bay",
+        "Round": "18",
+        "Lap Number": "49",
+        "Driver ID": "russell",
+        "Time": "1:37.408",
+        "Position": "4"
+    },
+    {
+        "Circuit ID": "marina_bay",
+        "Round": "18",
+        "Lap Number": "50",
+        "Driver ID": "russell",
+        "Time": "1:38.007",
+        "Position": "4"
+    },
+    {
+        "Circuit ID": "marina_bay",
+        "Round": "18",
+        "Lap Number": "51",
+        "Driver ID": "russell",
+        "Time": "1:37.545",
+        "Position": "4"
+    },
+    {
+        "Circuit ID": "marina_bay",
+        "Round": "18",
+        "Lap Number": "52",
+        "Driver ID": "russell",
+        "Time": "1:37.299",
+        "Position": "4"
+    },
+    {
+        "Circuit ID": "marina_bay",
+        "Round": "18",
+        "Lap Number": "53",
+        "Driver ID": "russell",
+        "Time": "1:37.497",
+        "Position": "4"
+    },
+    {
+        "Circuit ID": "marina_bay",
+        "Round": "18",
+        "Lap Number": "54",
+        "Driver ID": "russell",
+        "Time": "1:37.380",
+        "Position": "4"
+    },
+    {
+        "Circuit ID": "marina_bay",
+        "Round": "18",
+        "Lap Number": "55",
+        "Driver ID": "russell",
+        "Time": "1:37.311",
+        "Position": "4"
+    },
+    {
+        "Circuit ID": "marina_bay",
+        "Round": "18",
+        "Lap Number": "56",
+        "Driver ID": "russell",
+        "Time": "1:37.381",
+        "Position": "4"
+    },
+    {
+        "Circuit ID": "marina_bay",
+        "Round": "18",
+        "Lap Number": "57",
+        "Driver ID": "russell",
+        "Time": "1:37.575",
+        "Position": "4"
+    },
+    {
+        "Circuit ID": "marina_bay",
+        "Round": "18",
+        "Lap Number": "58",
+        "Driver ID": "russell",
+        "Time": "1:37.796",
+        "Position": "4"
+    },
+    {
+        "Circuit ID": "marina_bay",
+        "Round": "18",
+        "Lap Number": "59",
+        "Driver ID": "russell",
+        "Time": "1:38.326",
+        "Position": "4"
+    },
+    {
+        "Circuit ID": "marina_bay",
+        "Round": "18",
+        "Lap Number": "60",
+        "Driver ID": "russell",
+        "Time": "1:37.872",
+        "Position": "4"
+    },
+    {
+        "Circuit ID": "marina_bay",
+        "Round": "18",
+        "Lap Number": "61",
+        "Driver ID": "russell",
+        "Time": "1:38.282",
+        "Position": "4"
+    },
+    {
+        "Circuit ID": "marina_bay",
+        "Round": "18",
+        "Lap Number": "62",
+        "Driver ID": "russell",
+        "Time": "1:38.155",
+        "Position": "4"
+    },
+    {
+        "Circuit ID": "marina_bay",
+        "Round": "18",
+        "Lap Number": "1",
+        "Driver ID": "leclerc",
+        "Time": "1:47.090",
+        "Position": "8"
+    },
+    {
+        "Circuit ID": "marina_bay",
+        "Round": "18",
+        "Lap Number": "2",
+        "Driver ID": "leclerc",
+        "Time": "1:39.775",
+        "Position": "8"
+    },
+    {
+        "Circuit ID": "marina_bay",
+        "Round": "18",
+        "Lap Number": "3",
+        "Driver ID": "leclerc",
+        "Time": "1:39.140",
+        "Position": "8"
+    },
+    {
+        "Circuit ID": "marina_bay",
+        "Round": "18",
+        "Lap Number": "4",
+        "Driver ID": "leclerc",
+        "Time": "1:39.310",
+        "Position": "8"
+    },
+    {
+        "Circuit ID": "marina_bay",
+        "Round": "18",
+        "Lap Number": "5",
+        "Driver ID": "leclerc",
+        "Time": "1:39.041",
+        "Position": "8"
+    },
+    {
+        "Circuit ID": "marina_bay",
+        "Round": "18",
+        "Lap Number": "6",
+        "Driver ID": "leclerc",
+        "Time": "1:38.797",
+        "Position": "8"
+    },
+    {
+        "Circuit ID": "marina_bay",
+        "Round": "18",
+        "Lap Number": "7",
+        "Driver ID": "leclerc",
+        "Time": "1:38.645",
+        "Position": "8"
+    },
+    {
+        "Circuit ID": "marina_bay",
+        "Round": "18",
+        "Lap Number": "8",
+        "Driver ID": "leclerc",
+        "Time": "1:38.727",
+        "Position": "8"
+    },
+    {
+        "Circuit ID": "marina_bay",
+        "Round": "18",
+        "Lap Number": "9",
+        "Driver ID": "leclerc",
+        "Time": "1:38.691",
+        "Position": "8"
+    },
+    {
+        "Circuit ID": "marina_bay",
+        "Round": "18",
+        "Lap Number": "10",
+        "Driver ID": "leclerc",
+        "Time": "1:38.582",
+        "Position": "8"
+    },
+    {
+        "Circuit ID": "marina_bay",
+        "Round": "18",
+        "Lap Number": "11",
+        "Driver ID": "leclerc",
+        "Time": "1:38.913",
+        "Position": "8"
+    },
+    {
+        "Circuit ID": "marina_bay",
+        "Round": "18",
+        "Lap Number": "12",
+        "Driver ID": "leclerc",
+        "Time": "1:38.776",
+        "Position": "8"
+    },
+    {
+        "Circuit ID": "marina_bay",
+        "Round": "18",
+        "Lap Number": "13",
+        "Driver ID": "leclerc",
+        "Time": "1:38.671",
+        "Position": "8"
+    },
+    {
+        "Circuit ID": "marina_bay",
+        "Round": "18",
+        "Lap Number": "14",
+        "Driver ID": "leclerc",
+        "Time": "1:38.707",
+        "Position": "8"
+    },
+    {
+        "Circuit ID": "marina_bay",
+        "Round": "18",
+        "Lap Number": "15",
+        "Driver ID": "leclerc",
+        "Time": "1:38.515",
+        "Position": "8"
+    },
+    {
+        "Circuit ID": "marina_bay",
+        "Round": "18",
+        "Lap Number": "16",
+        "Driver ID": "leclerc",
+        "Time": "1:38.904",
+        "Position": "8"
+    },
+    {
+        "Circuit ID": "marina_bay",
+        "Round": "18",
+        "Lap Number": "17",
+        "Driver ID": "leclerc",
+        "Time": "1:39.561",
+        "Position": "8"
+    },
+    {
+        "Circuit ID": "marina_bay",
+        "Round": "18",
+        "Lap Number": "18",
+        "Driver ID": "leclerc",
+        "Time": "1:38.814",
+        "Position": "7"
+    },
+    {
+        "Circuit ID": "marina_bay",
+        "Round": "18",
+        "Lap Number": "19",
+        "Driver ID": "leclerc",
+        "Time": "1:38.734",
+        "Position": "7"
+    },
+    {
+        "Circuit ID": "marina_bay",
+        "Round": "18",
+        "Lap Number": "20",
+        "Driver ID": "leclerc",
+        "Time": "1:39.087",
+        "Position": "7"
+    },
+    {
+        "Circuit ID": "marina_bay",
+        "Round": "18",
+        "Lap Number": "21",
+        "Driver ID": "leclerc",
+        "Time": "1:39.315",
+        "Position": "7"
+    },
+    {
+        "Circuit ID": "marina_bay",
+        "Round": "18",
+        "Lap Number": "22",
+        "Driver ID": "leclerc",
+        "Time": "1:39.008",
+        "Position": "7"
+    },
+    {
+        "Circuit ID": "marina_bay",
+        "Round": "18",
+        "Lap Number": "23",
+        "Driver ID": "leclerc",
+        "Time": "1:39.688",
+        "Position": "7"
+    },
+    {
+        "Circuit ID": "marina_bay",
+        "Round": "18",
+        "Lap Number": "24",
+        "Driver ID": "leclerc",
+        "Time": "1:39.372",
+        "Position": "7"
+    },
+    {
+        "Circuit ID": "marina_bay",
+        "Round": "18",
+        "Lap Number": "25",
+        "Driver ID": "leclerc",
+        "Time": "1:40.029",
+        "Position": "6"
+    },
+    {
+        "Circuit ID": "marina_bay",
+        "Round": "18",
+        "Lap Number": "26",
+        "Driver ID": "leclerc",
+        "Time": "1:38.867",
+        "Position": "6"
+    },
+    {
+        "Circuit ID": "marina_bay",
+        "Round": "18",
+        "Lap Number": "27",
+        "Driver ID": "leclerc",
+        "Time": "1:39.153",
+        "Position": "6"
+    },
+    {
+        "Circuit ID": "marina_bay",
+        "Round": "18",
+        "Lap Number": "28",
+        "Driver ID": "leclerc",
+        "Time": "1:39.795",
+        "Position": "4"
+    },
+    {
+        "Circuit ID": "marina_bay",
+        "Round": "18",
+        "Lap Number": "29",
+        "Driver ID": "leclerc",
+        "Time": "1:38.371",
+        "Position": "4"
+    },
+    {
+        "Circuit ID": "marina_bay",
+        "Round": "18",
+        "Lap Number": "30",
+        "Driver ID": "leclerc",
+        "Time": "1:39.543",
+        "Position": "4"
+    },
+    {
+        "Circuit ID": "marina_bay",
+        "Round": "18",
+        "Lap Number": "31",
+        "Driver ID": "leclerc",
+        "Time": "1:39.214",
+        "Position": "4"
+    },
+    {
+        "Circuit ID": "marina_bay",
+        "Round": "18",
+        "Lap Number": "32",
+        "Driver ID": "leclerc",
+        "Time": "1:38.505",
+        "Position": "4"
+    },
+    {
+        "Circuit ID": "marina_bay",
+        "Round": "18",
+        "Lap Number": "33",
+        "Driver ID": "leclerc",
+        "Time": "1:38.187",
+        "Position": "4"
+    },
+    {
+        "Circuit ID": "marina_bay",
+        "Round": "18",
+        "Lap Number": "34",
+        "Driver ID": "leclerc",
+        "Time": "1:38.494",
+        "Position": "4"
+    },
+    {
+        "Circuit ID": "marina_bay",
+        "Round": "18",
+        "Lap Number": "35",
+        "Driver ID": "leclerc",
+        "Time": "1:39.264",
+        "Position": "4"
+    },
+    {
+        "Circuit ID": "marina_bay",
+        "Round": "18",
+        "Lap Number": "36",
+        "Driver ID": "leclerc",
+        "Time": "1:47.084",
+        "Position": "6"
+    },
+    {
+        "Circuit ID": "marina_bay",
+        "Round": "18",
+        "Lap Number": "37",
+        "Driver ID": "leclerc",
+        "Time": "1:57.168",
+        "Position": "8"
+    },
+    {
+        "Circuit ID": "marina_bay",
+        "Round": "18",
+        "Lap Number": "38",
+        "Driver ID": "leclerc",
+        "Time": "1:36.556",
+        "Position": "8"
+    },
+    {
+        "Circuit ID": "marina_bay",
+        "Round": "18",
+        "Lap Number": "39",
+        "Driver ID": "leclerc",
+        "Time": "1:36.287",
+        "Position": "8"
+    },
+    {
+        "Circuit ID": "marina_bay",
+        "Round": "18",
+        "Lap Number": "40",
+        "Driver ID": "leclerc",
+        "Time": "1:37.480",
+        "Position": "7"
+    },
+    {
+        "Circuit ID": "marina_bay",
+        "Round": "18",
+        "Lap Number": "41",
+        "Driver ID": "leclerc",
+        "Time": "1:36.166",
+        "Position": "7"
+    },
+    {
+        "Circuit ID": "marina_bay",
+        "Round": "18",
+        "Lap Number": "42",
+        "Driver ID": "leclerc",
+        "Time": "1:37.266",
+        "Position": "6"
+    },
+    {
+        "Circuit ID": "marina_bay",
+        "Round": "18",
+        "Lap Number": "43",
+        "Driver ID": "leclerc",
+        "Time": "1:35.849",
+        "Position": "6"
+    },
+    {
+        "Circuit ID": "marina_bay",
+        "Round": "18",
+        "Lap Number": "44",
+        "Driver ID": "leclerc",
+        "Time": "1:35.639",
+        "Position": "6"
+    },
+    {
+        "Circuit ID": "marina_bay",
+        "Round": "18",
+        "Lap Number": "45",
+        "Driver ID": "leclerc",
+        "Time": "1:35.716",
+        "Position": "6"
+    },
+    {
+        "Circuit ID": "marina_bay",
+        "Round": "18",
+        "Lap Number": "46",
+        "Driver ID": "leclerc",
+        "Time": "1:35.371",
+        "Position": "6"
+    },
+    {
+        "Circuit ID": "marina_bay",
+        "Round": "18",
+        "Lap Number": "47",
+        "Driver ID": "leclerc",
+        "Time": "1:35.758",
+        "Position": "6"
+    },
+    {
+        "Circuit ID": "marina_bay",
+        "Round": "18",
+        "Lap Number": "48",
+        "Driver ID": "leclerc",
+        "Time": "1:35.792",
+        "Position": "6"
+    },
+    {
+        "Circuit ID": "marina_bay",
+        "Round": "18",
+        "Lap Number": "49",
+        "Driver ID": "leclerc",
+        "Time": "1:36.252",
+        "Position": "6"
+    },
+    {
+        "Circuit ID": "marina_bay",
+        "Round": "18",
+        "Lap Number": "50",
+        "Driver ID": "leclerc",
+        "Time": "1:37.530",
+        "Position": "5"
+    },
+    {
+        "Circuit ID": "marina_bay",
+        "Round": "18",
+        "Lap Number": "51",
+        "Driver ID": "leclerc",
+        "Time": "1:36.424",
+        "Position": "5"
+    },
+    {
+        "Circuit ID": "marina_bay",
+        "Round": "18",
+        "Lap Number": "52",
+        "Driver ID": "leclerc",
+        "Time": "1:36.020",
+        "Position": "5"
+    },
+    {
+        "Circuit ID": "marina_bay",
+        "Round": "18",
+        "Lap Number": "53",
+        "Driver ID": "leclerc",
+        "Time": "1:36.099",
+        "Position": "5"
+    },
+    {
+        "Circuit ID": "marina_bay",
+        "Round": "18",
+        "Lap Number": "54",
+        "Driver ID": "leclerc",
+        "Time": "1:36.454",
+        "Position": "5"
+    },
+    {
+        "Circuit ID": "marina_bay",
+        "Round": "18",
+        "Lap Number": "55",
+        "Driver ID": "leclerc",
+        "Time": "1:36.560",
+        "Position": "5"
+    },
+    {
+        "Circuit ID": "marina_bay",
+        "Round": "18",
+        "Lap Number": "56",
+        "Driver ID": "leclerc",
+        "Time": "1:36.497",
+        "Position": "5"
+    },
+    {
+        "Circuit ID": "marina_bay",
+        "Round": "18",
+        "Lap Number": "57",
+        "Driver ID": "leclerc",
+        "Time": "1:36.802",
+        "Position": "5"
+    },
+    {
+        "Circuit ID": "marina_bay",
+        "Round": "18",
+        "Lap Number": "58",
+        "Driver ID": "leclerc",
+        "Time": "1:37.510",
+        "Position": "5"
+    },
+    {
+        "Circuit ID": "marina_bay",
+        "Round": "18",
+        "Lap Number": "59",
+        "Driver ID": "leclerc",
+        "Time": "1:38.218",
+        "Position": "5"
+    },
+    {
+        "Circuit ID": "marina_bay",
+        "Round": "18",
+        "Lap Number": "60",
+        "Driver ID": "leclerc",
+        "Time": "1:38.166",
+        "Position": "5"
+    },
+    {
+        "Circuit ID": "marina_bay",
+        "Round": "18",
+        "Lap Number": "61",
+        "Driver ID": "leclerc",
+        "Time": "1:38.326",
+        "Position": "5"
+    },
+    {
+        "Circuit ID": "marina_bay",
+        "Round": "18",
+        "Lap Number": "62",
+        "Driver ID": "leclerc",
+        "Time": "1:38.726",
+        "Position": "5"
+    },
+    {
+        "Circuit ID": "marina_bay",
+        "Round": "18",
+        "Lap Number": "1",
+        "Driver ID": "alonso",
+        "Time": "1:46.384",
+        "Position": "7"
+    },
+    {
+        "Circuit ID": "marina_bay",
+        "Round": "18",
+        "Lap Number": "2",
+        "Driver ID": "alonso",
+        "Time": "1:39.584",
+        "Position": "7"
+    },
+    {
+        "Circuit ID": "marina_bay",
+        "Round": "18",
+        "Lap Number": "3",
+        "Driver ID": "alonso",
+        "Time": "1:39.286",
+        "Position": "7"
+    },
+    {
+        "Circuit ID": "marina_bay",
+        "Round": "18",
+        "Lap Number": "4",
+        "Driver ID": "alonso",
+        "Time": "1:39.395",
+        "Position": "7"
+    },
+    {
+        "Circuit ID": "marina_bay",
+        "Round": "18",
+        "Lap Number": "5",
+        "Driver ID": "alonso",
+        "Time": "1:39.036",
+        "Position": "7"
+    },
+    {
+        "Circuit ID": "marina_bay",
+        "Round": "18",
+        "Lap Number": "6",
+        "Driver ID": "alonso",
+        "Time": "1:38.795",
+        "Position": "7"
+    },
+    {
+        "Circuit ID": "marina_bay",
+        "Round": "18",
+        "Lap Number": "7",
+        "Driver ID": "alonso",
+        "Time": "1:38.720",
+        "Position": "7"
+    },
+    {
+        "Circuit ID": "marina_bay",
+        "Round": "18",
+        "Lap Number": "8",
+        "Driver ID": "alonso",
+        "Time": "1:38.542",
+        "Position": "7"
+    },
+    {
+        "Circuit ID": "marina_bay",
+        "Round": "18",
+        "Lap Number": "9",
+        "Driver ID": "alonso",
+        "Time": "1:38.644",
+        "Position": "7"
+    },
+    {
+        "Circuit ID": "marina_bay",
+        "Round": "18",
+        "Lap Number": "10",
+        "Driver ID": "alonso",
+        "Time": "1:38.765",
+        "Position": "7"
+    },
+    {
+        "Circuit ID": "marina_bay",
+        "Round": "18",
+        "Lap Number": "11",
+        "Driver ID": "alonso",
+        "Time": "1:38.666",
+        "Position": "7"
+    },
+    {
+        "Circuit ID": "marina_bay",
+        "Round": "18",
+        "Lap Number": "12",
+        "Driver ID": "alonso",
+        "Time": "1:38.874",
+        "Position": "7"
+    },
+    {
+        "Circuit ID": "marina_bay",
+        "Round": "18",
+        "Lap Number": "13",
+        "Driver ID": "alonso",
+        "Time": "1:38.719",
+        "Position": "7"
+    },
+    {
+        "Circuit ID": "marina_bay",
+        "Round": "18",
+        "Lap Number": "14",
+        "Driver ID": "alonso",
+        "Time": "1:38.524",
+        "Position": "7"
+    },
+    {
+        "Circuit ID": "marina_bay",
+        "Round": "18",
+        "Lap Number": "15",
+        "Driver ID": "alonso",
+        "Time": "1:39.008",
+        "Position": "7"
+    },
+    {
+        "Circuit ID": "marina_bay",
+        "Round": "18",
+        "Lap Number": "16",
+        "Driver ID": "alonso",
+        "Time": "1:38.862",
+        "Position": "7"
+    },
+    {
+        "Circuit ID": "marina_bay",
+        "Round": "18",
+        "Lap Number": "17",
+        "Driver ID": "alonso",
+        "Time": "1:38.811",
+        "Position": "7"
+    },
+    {
+        "Circuit ID": "marina_bay",
+        "Round": "18",
+        "Lap Number": "18",
+        "Driver ID": "alonso",
+        "Time": "1:38.718",
+        "Position": "6"
+    },
+    {
+        "Circuit ID": "marina_bay",
+        "Round": "18",
+        "Lap Number": "19",
+        "Driver ID": "alonso",
+        "Time": "1:39.283",
+        "Position": "6"
+    },
+    {
+        "Circuit ID": "marina_bay",
+        "Round": "18",
+        "Lap Number": "20",
+        "Driver ID": "alonso",
+        "Time": "1:39.367",
+        "Position": "6"
+    },
+    {
+        "Circuit ID": "marina_bay",
+        "Round": "18",
+        "Lap Number": "21",
+        "Driver ID": "alonso",
+        "Time": "1:39.264",
+        "Position": "6"
+    },
+    {
+        "Circuit ID": "marina_bay",
+        "Round": "18",
+        "Lap Number": "22",
+        "Driver ID": "alonso",
+        "Time": "1:39.272",
+        "Position": "6"
+    },
+    {
+        "Circuit ID": "marina_bay",
+        "Round": "18",
+        "Lap Number": "23",
+        "Driver ID": "alonso",
+        "Time": "1:39.243",
+        "Position": "6"
+    },
+    {
+        "Circuit ID": "marina_bay",
+        "Round": "18",
+        "Lap Number": "24",
+        "Driver ID": "alonso",
+        "Time": "1:39.597",
+        "Position": "6"
+    },
+    {
+        "Circuit ID": "marina_bay",
+        "Round": "18",
+        "Lap Number": "25",
+        "Driver ID": "alonso",
+        "Time": "1:48.707",
+        "Position": "9"
+    },
+    {
+        "Circuit ID": "marina_bay",
+        "Round": "18",
+        "Lap Number": "26",
+        "Driver ID": "alonso",
+        "Time": "1:58.688",
+        "Position": "15"
+    },
+    {
+        "Circuit ID": "marina_bay",
+        "Round": "18",
+        "Lap Number": "27",
+        "Driver ID": "alonso",
+        "Time": "1:38.490",
+        "Position": "14"
+    },
+    {
+        "Circuit ID": "marina_bay",
+        "Round": "18",
+        "Lap Number": "28",
+        "Driver ID": "alonso",
+        "Time": "1:38.826",
+        "Position": "13"
+    },
+    {
+        "Circuit ID": "marina_bay",
+        "Round": "18",
+        "Lap Number": "29",
+        "Driver ID": "alonso",
+        "Time": "1:38.614",
+        "Position": "11"
+    },
+    {
+        "Circuit ID": "marina_bay",
+        "Round": "18",
+        "Lap Number": "30",
+        "Driver ID": "alonso",
+        "Time": "1:38.562",
+        "Position": "9"
+    },
+    {
+        "Circuit ID": "marina_bay",
+        "Round": "18",
+        "Lap Number": "31",
+        "Driver ID": "alonso",
+        "Time": "1:38.432",
+        "Position": "9"
+    },
+    {
+        "Circuit ID": "marina_bay",
+        "Round": "18",
+        "Lap Number": "32",
+        "Driver ID": "alonso",
+        "Time": "1:38.603",
+        "Position": "9"
+    },
+    {
+        "Circuit ID": "marina_bay",
+        "Round": "18",
+        "Lap Number": "33",
+        "Driver ID": "alonso",
+        "Time": "1:38.161",
+        "Position": "8"
+    },
+    {
+        "Circuit ID": "marina_bay",
+        "Round": "18",
+        "Lap Number": "34",
+        "Driver ID": "alonso",
+        "Time": "1:38.487",
+        "Position": "8"
+    },
+    {
+        "Circuit ID": "marina_bay",
+        "Round": "18",
+        "Lap Number": "35",
+        "Driver ID": "alonso",
+        "Time": "1:38.140",
+        "Position": "8"
+    },
+    {
+        "Circuit ID": "marina_bay",
+        "Round": "18",
+        "Lap Number": "36",
+        "Driver ID": "alonso",
+        "Time": "1:38.211",
+        "Position": "8"
+    },
+    {
+        "Circuit ID": "marina_bay",
+        "Round": "18",
+        "Lap Number": "37",
+        "Driver ID": "alonso",
+        "Time": "1:37.928",
+        "Position": "7"
+    },
+    {
+        "Circuit ID": "marina_bay",
+        "Round": "18",
+        "Lap Number": "38",
+        "Driver ID": "alonso",
+        "Time": "1:38.223",
+        "Position": "7"
+    },
+    {
+        "Circuit ID": "marina_bay",
+        "Round": "18",
+        "Lap Number": "39",
+        "Driver ID": "alonso",
+        "Time": "1:38.210",
+        "Position": "7"
+    },
+    {
+        "Circuit ID": "marina_bay",
+        "Round": "18",
+        "Lap Number": "40",
+        "Driver ID": "alonso",
+        "Time": "1:39.282",
+        "Position": "8"
+    },
+    {
+        "Circuit ID": "marina_bay",
+        "Round": "18",
+        "Lap Number": "41",
+        "Driver ID": "alonso",
+        "Time": "1:38.311",
+        "Position": "8"
+    },
+    {
+        "Circuit ID": "marina_bay",
+        "Round": "18",
+        "Lap Number": "42",
+        "Driver ID": "alonso",
+        "Time": "1:39.186",
+        "Position": "8"
+    },
+    {
+        "Circuit ID": "marina_bay",
+        "Round": "18",
+        "Lap Number": "43",
+        "Driver ID": "alonso",
+        "Time": "1:38.122",
+        "Position": "8"
+    },
+    {
+        "Circuit ID": "marina_bay",
+        "Round": "18",
+        "Lap Number": "44",
+        "Driver ID": "alonso",
+        "Time": "1:38.217",
+        "Position": "8"
+    },
+    {
+        "Circuit ID": "marina_bay",
+        "Round": "18",
+        "Lap Number": "45",
+        "Driver ID": "alonso",
+        "Time": "1:38.118",
+        "Position": "8"
+    },
+    {
+        "Circuit ID": "marina_bay",
+        "Round": "18",
+        "Lap Number": "46",
+        "Driver ID": "alonso",
+        "Time": "1:37.988",
+        "Position": "8"
+    },
+    {
+        "Circuit ID": "marina_bay",
+        "Round": "18",
+        "Lap Number": "47",
+        "Driver ID": "alonso",
+        "Time": "1:38.119",
+        "Position": "8"
+    },
+    {
+        "Circuit ID": "marina_bay",
+        "Round": "18",
+        "Lap Number": "48",
+        "Driver ID": "alonso",
+        "Time": "1:38.010",
+        "Position": "8"
+    },
+    {
+        "Circuit ID": "marina_bay",
+        "Round": "18",
+        "Lap Number": "49",
+        "Driver ID": "alonso",
+        "Time": "1:38.240",
+        "Position": "8"
+    },
+    {
+        "Circuit ID": "marina_bay",
+        "Round": "18",
+        "Lap Number": "50",
+        "Driver ID": "alonso",
+        "Time": "1:38.540",
+        "Position": "8"
+    },
+    {
+        "Circuit ID": "marina_bay",
+        "Round": "18",
+        "Lap Number": "51",
+        "Driver ID": "alonso",
+        "Time": "1:37.882",
+        "Position": "8"
+    },
+    {
+        "Circuit ID": "marina_bay",
+        "Round": "18",
+        "Lap Number": "52",
+        "Driver ID": "alonso",
+        "Time": "1:37.995",
+        "Position": "8"
+    },
+    {
+        "Circuit ID": "marina_bay",
+        "Round": "18",
+        "Lap Number": "53",
+        "Driver ID": "alonso",
+        "Time": "1:37.886",
+        "Position": "8"
+    },
+    {
+        "Circuit ID": "marina_bay",
+        "Round": "18",
+        "Lap Number": "54",
+        "Driver ID": "alonso",
+        "Time": "1:37.741",
+        "Position": "8"
+    },
+    {
+        "Circuit ID": "marina_bay",
+        "Round": "18",
+        "Lap Number": "55",
+        "Driver ID": "alonso",
+        "Time": "1:37.951",
+        "Position": "8"
+    },
+    {
+        "Circuit ID": "marina_bay",
+        "Round": "18",
+        "Lap Number": "56",
+        "Driver ID": "alonso",
+        "Time": "1:37.912",
+        "Position": "8"
+    },
+    {
+        "Circuit ID": "marina_bay",
+        "Round": "18",
+        "Lap Number": "57",
+        "Driver ID": "alonso",
+        "Time": "1:38.082",
+        "Position": "8"
+    },
+    {
+        "Circuit ID": "marina_bay",
+        "Round": "18",
+        "Lap Number": "58",
+        "Driver ID": "alonso",
+        "Time": "1:38.265",
+        "Position": "8"
+    },
+    {
+        "Circuit ID": "marina_bay",
+        "Round": "18",
+        "Lap Number": "59",
+        "Driver ID": "alonso",
+        "Time": "1:38.101",
+        "Position": "8"
+    },
+    {
+        "Circuit ID": "marina_bay",
+        "Round": "18",
+        "Lap Number": "60",
+        "Driver ID": "alonso",
+        "Time": "1:38.573",
+        "Position": "8"
+    },
+    {
+        "Circuit ID": "marina_bay",
+        "Round": "18",
+        "Lap Number": "61",
+        "Driver ID": "alonso",
+        "Time": "1:41.282",
+        "Position": "8"
+    },
+    {
+        "Circuit ID": "marina_bay",
+        "Round": "18",
+        "Lap Number": "1",
+        "Driver ID": "hulkenberg",
+        "Time": "1:45.723",
+        "Position": "6"
+    },
+    {
+        "Circuit ID": "marina_bay",
+        "Round": "18",
+        "Lap Number": "2",
+        "Driver ID": "hulkenberg",
+        "Time": "1:39.449",
+        "Position": "6"
+    },
+    {
+        "Circuit ID": "marina_bay",
+        "Round": "18",
+        "Lap Number": "3",
+        "Driver ID": "hulkenberg",
+        "Time": "1:39.222",
+        "Position": "6"
+    },
+    {
+        "Circuit ID": "marina_bay",
+        "Round": "18",
+        "Lap Number": "4",
+        "Driver ID": "hulkenberg",
+        "Time": "1:39.510",
+        "Position": "6"
+    },
+    {
+        "Circuit ID": "marina_bay",
+        "Round": "18",
+        "Lap Number": "5",
+        "Driver ID": "hulkenberg",
+        "Time": "1:38.649",
+        "Position": "6"
+    },
+    {
+        "Circuit ID": "marina_bay",
+        "Round": "18",
+        "Lap Number": "6",
+        "Driver ID": "hulkenberg",
+        "Time": "1:38.903",
+        "Position": "6"
+    },
+    {
+        "Circuit ID": "marina_bay",
+        "Round": "18",
+        "Lap Number": "7",
+        "Driver ID": "hulkenberg",
+        "Time": "1:38.736",
+        "Position": "6"
+    },
+    {
+        "Circuit ID": "marina_bay",
+        "Round": "18",
+        "Lap Number": "8",
+        "Driver ID": "hulkenberg",
+        "Time": "1:38.821",
+        "Position": "6"
+    },
+    {
+        "Circuit ID": "marina_bay",
+        "Round": "18",
+        "Lap Number": "9",
+        "Driver ID": "hulkenberg",
+        "Time": "1:38.404",
+        "Position": "6"
+    },
+    {
+        "Circuit ID": "marina_bay",
+        "Round": "18",
+        "Lap Number": "10",
+        "Driver ID": "hulkenberg",
+        "Time": "1:38.798",
+        "Position": "6"
+    },
+    {
+        "Circuit ID": "marina_bay",
+        "Round": "18",
+        "Lap Number": "11",
+        "Driver ID": "hulkenberg",
+        "Time": "1:38.688",
+        "Position": "6"
+    },
+    {
+        "Circuit ID": "marina_bay",
+        "Round": "18",
+        "Lap Number": "12",
+        "Driver ID": "hulkenberg",
+        "Time": "1:38.887",
+        "Position": "6"
+    },
+    {
+        "Circuit ID": "marina_bay",
+        "Round": "18",
+        "Lap Number": "13",
+        "Driver ID": "hulkenberg",
+        "Time": "1:38.721",
+        "Position": "6"
+    },
+    {
+        "Circuit ID": "marina_bay",
+        "Round": "18",
+        "Lap Number": "14",
+        "Driver ID": "hulkenberg",
+        "Time": "1:38.607",
+        "Position": "6"
+    },
+    {
+        "Circuit ID": "marina_bay",
+        "Round": "18",
+        "Lap Number": "15",
+        "Driver ID": "hulkenberg",
+        "Time": "1:38.799",
+        "Position": "6"
+    },
+    {
+        "Circuit ID": "marina_bay",
+        "Round": "18",
+        "Lap Number": "16",
+        "Driver ID": "hulkenberg",
+        "Time": "1:39.054",
+        "Position": "6"
+    },
+    {
+        "Circuit ID": "marina_bay",
+        "Round": "18",
+        "Lap Number": "17",
+        "Driver ID": "hulkenberg",
+        "Time": "1:38.771",
+        "Position": "6"
+    },
+    {
+        "Circuit ID": "marina_bay",
+        "Round": "18",
+        "Lap Number": "18",
+        "Driver ID": "hulkenberg",
+        "Time": "1:38.858",
+        "Position": "5"
+    },
+    {
+        "Circuit ID": "marina_bay",
+        "Round": "18",
+        "Lap Number": "19",
+        "Driver ID": "hulkenberg",
+        "Time": "1:39.143",
+        "Position": "5"
+    },
+    {
+        "Circuit ID": "marina_bay",
+        "Round": "18",
+        "Lap Number": "20",
+        "Driver ID": "hulkenberg",
+        "Time": "1:39.438",
+        "Position": "5"
+    },
+    {
+        "Circuit ID": "marina_bay",
+        "Round": "18",
+        "Lap Number": "21",
+        "Driver ID": "hulkenberg",
+        "Time": "1:39.250",
+        "Position": "5"
+    },
+    {
+        "Circuit ID": "marina_bay",
+        "Round": "18",
+        "Lap Number": "22",
+        "Driver ID": "hulkenberg",
+        "Time": "1:39.128",
+        "Position": "5"
+    },
+    {
+        "Circuit ID": "marina_bay",
+        "Round": "18",
+        "Lap Number": "23",
+        "Driver ID": "hulkenberg",
+        "Time": "1:39.465",
+        "Position": "5"
+    },
+    {
+        "Circuit ID": "marina_bay",
+        "Round": "18",
+        "Lap Number": "24",
+        "Driver ID": "hulkenberg",
+        "Time": "1:39.268",
+        "Position": "5"
+    },
+    {
+        "Circuit ID": "marina_bay",
+        "Round": "18",
+        "Lap Number": "25",
+        "Driver ID": "hulkenberg",
+        "Time": "1:39.691",
+        "Position": "5"
+    },
+    {
+        "Circuit ID": "marina_bay",
+        "Round": "18",
+        "Lap Number": "26",
+        "Driver ID": "hulkenberg",
+        "Time": "1:39.569",
+        "Position": "5"
+    },
+    {
+        "Circuit ID": "marina_bay",
+        "Round": "18",
+        "Lap Number": "27",
+        "Driver ID": "hulkenberg",
+        "Time": "1:39.773",
+        "Position": "5"
+    },
+    {
+        "Circuit ID": "marina_bay",
+        "Round": "18",
+        "Lap Number": "28",
+        "Driver ID": "hulkenberg",
+        "Time": "1:41.269",
+        "Position": "5"
+    },
+    {
+        "Circuit ID": "marina_bay",
+        "Round": "18",
+        "Lap Number": "29",
+        "Driver ID": "hulkenberg",
+        "Time": "1:48.550",
+        "Position": "6"
+    },
+    {
+        "Circuit ID": "marina_bay",
+        "Round": "18",
+        "Lap Number": "30",
+        "Driver ID": "hulkenberg",
+        "Time": "2:01.641",
+        "Position": "10"
+    },
+    {
+        "Circuit ID": "marina_bay",
+        "Round": "18",
+        "Lap Number": "31",
+        "Driver ID": "hulkenberg",
+        "Time": "1:38.546",
+        "Position": "10"
+    },
+    {
+        "Circuit ID": "marina_bay",
+        "Round": "18",
+        "Lap Number": "32",
+        "Driver ID": "hulkenberg",
+        "Time": "1:38.385",
+        "Position": "10"
+    },
+    {
+        "Circuit ID": "marina_bay",
+        "Round": "18",
+        "Lap Number": "33",
+        "Driver ID": "hulkenberg",
+        "Time": "1:37.800",
+        "Position": "10"
+    },
+    {
+        "Circuit ID": "marina_bay",
+        "Round": "18",
+        "Lap Number": "34",
+        "Driver ID": "hulkenberg",
+        "Time": "1:38.002",
+        "Position": "9"
+    },
+    {
+        "Circuit ID": "marina_bay",
+        "Round": "18",
+        "Lap Number": "35",
+        "Driver ID": "hulkenberg",
+        "Time": "1:37.470",
+        "Position": "9"
+    },
+    {
+        "Circuit ID": "marina_bay",
+        "Round": "18",
+        "Lap Number": "36",
+        "Driver ID": "hulkenberg",
+        "Time": "1:37.827",
+        "Position": "9"
+    },
+    {
+        "Circuit ID": "marina_bay",
+        "Round": "18",
+        "Lap Number": "37",
+        "Driver ID": "hulkenberg",
+        "Time": "1:38.490",
+        "Position": "9"
+    },
+    {
+        "Circuit ID": "marina_bay",
+        "Round": "18",
+        "Lap Number": "38",
+        "Driver ID": "hulkenberg",
+        "Time": "1:37.941",
+        "Position": "9"
+    },
+    {
+        "Circuit ID": "marina_bay",
+        "Round": "18",
+        "Lap Number": "39",
+        "Driver ID": "hulkenberg",
+        "Time": "1:37.811",
+        "Position": "9"
+    },
+    {
+        "Circuit ID": "marina_bay",
+        "Round": "18",
+        "Lap Number": "40",
+        "Driver ID": "hulkenberg",
+        "Time": "1:37.919",
+        "Position": "9"
+    },
+    {
+        "Circuit ID": "marina_bay",
+        "Round": "18",
+        "Lap Number": "41",
+        "Driver ID": "hulkenberg",
+        "Time": "1:37.994",
+        "Position": "9"
+    },
+    {
+        "Circuit ID": "marina_bay",
+        "Round": "18",
+        "Lap Number": "42",
+        "Driver ID": "hulkenberg",
+        "Time": "1:37.911",
+        "Position": "9"
+    },
+    {
+        "Circuit ID": "marina_bay",
+        "Round": "18",
+        "Lap Number": "43",
+        "Driver ID": "hulkenberg",
+        "Time": "1:38.072",
+        "Position": "9"
+    },
+    {
+        "Circuit ID": "marina_bay",
+        "Round": "18",
+        "Lap Number": "44",
+        "Driver ID": "hulkenberg",
+        "Time": "1:37.795",
+        "Position": "9"
+    },
+    {
+        "Circuit ID": "marina_bay",
+        "Round": "18",
+        "Lap Number": "45",
+        "Driver ID": "hulkenberg",
+        "Time": "1:37.714",
+        "Position": "9"
+    },
+    {
+        "Circuit ID": "marina_bay",
+        "Round": "18",
+        "Lap Number": "46",
+        "Driver ID": "hulkenberg",
+        "Time": "1:37.919",
+        "Position": "9"
+    },
+    {
+        "Circuit ID": "marina_bay",
+        "Round": "18",
+        "Lap Number": "47",
+        "Driver ID": "hulkenberg",
+        "Time": "1:37.743",
+        "Position": "9"
+    },
+    {
+        "Circuit ID": "marina_bay",
+        "Round": "18",
+        "Lap Number": "48",
+        "Driver ID": "hulkenberg",
+        "Time": "1:38.022",
+        "Position": "9"
+    },
+    {
+        "Circuit ID": "marina_bay",
+        "Round": "18",
+        "Lap Number": "49",
+        "Driver ID": "hulkenberg",
+        "Time": "1:38.147",
+        "Position": "9"
+    },
+    {
+        "Circuit ID": "marina_bay",
+        "Round": "18",
+        "Lap Number": "50",
+        "Driver ID": "hulkenberg",
+        "Time": "1:38.705",
+        "Position": "9"
+    },
+    {
+        "Circuit ID": "marina_bay",
+        "Round": "18",
+        "Lap Number": "51",
+        "Driver ID": "hulkenberg",
+        "Time": "1:38.235",
+        "Position": "9"
+    },
+    {
+        "Circuit ID": "marina_bay",
+        "Round": "18",
+        "Lap Number": "52",
+        "Driver ID": "hulkenberg",
+        "Time": "1:38.144",
+        "Position": "9"
+    },
+    {
+        "Circuit ID": "marina_bay",
+        "Round": "18",
+        "Lap Number": "53",
+        "Driver ID": "hulkenberg",
+        "Time": "1:38.136",
+        "Position": "9"
+    },
+    {
+        "Circuit ID": "marina_bay",
+        "Round": "18",
+        "Lap Number": "54",
+        "Driver ID": "hulkenberg",
+        "Time": "1:38.051",
+        "Position": "9"
+    },
+    {
+        "Circuit ID": "marina_bay",
+        "Round": "18",
+        "Lap Number": "55",
+        "Driver ID": "hulkenberg",
+        "Time": "1:38.511",
+        "Position": "9"
+    },
+    {
+        "Circuit ID": "marina_bay",
+        "Round": "18",
+        "Lap Number": "56",
+        "Driver ID": "hulkenberg",
+        "Time": "1:38.312",
+        "Position": "9"
+    },
+    {
+        "Circuit ID": "marina_bay",
+        "Round": "18",
+        "Lap Number": "57",
+        "Driver ID": "hulkenberg",
+        "Time": "1:38.109",
+        "Position": "9"
+    },
+    {
+        "Circuit ID": "marina_bay",
+        "Round": "18",
+        "Lap Number": "58",
+        "Driver ID": "hulkenberg",
+        "Time": "1:38.075",
+        "Position": "9"
+    },
+    {
+        "Circuit ID": "marina_bay",
+        "Round": "18",
+        "Lap Number": "59",
+        "Driver ID": "hulkenberg",
+        "Time": "1:37.915",
+        "Position": "9"
+    },
+    {
+        "Circuit ID": "marina_bay",
+        "Round": "18",
+        "Lap Number": "60",
+        "Driver ID": "hulkenberg",
+        "Time": "1:40.502",
+        "Position": "9"
+    },
+    {
+        "Circuit ID": "marina_bay",
+        "Round": "18",
+        "Lap Number": "61",
+        "Driver ID": "hulkenberg",
+        "Time": "1:38.723",
+        "Position": "9"
+    },
+    {
+        "Circuit ID": "marina_bay",
+        "Round": "18",
+        "Lap Number": "1",
+        "Driver ID": "perez",
+        "Time": "1:48.150",
+        "Position": "10"
+    },
+    {
+        "Circuit ID": "marina_bay",
+        "Round": "18",
+        "Lap Number": "2",
+        "Driver ID": "perez",
+        "Time": "1:39.896",
+        "Position": "10"
+    },
+    {
+        "Circuit ID": "marina_bay",
+        "Round": "18",
+        "Lap Number": "3",
+        "Driver ID": "perez",
+        "Time": "1:39.629",
+        "Position": "10"
+    },
+    {
+        "Circuit ID": "marina_bay",
+        "Round": "18",
+        "Lap Number": "4",
+        "Driver ID": "perez",
+        "Time": "1:39.151",
+        "Position": "10"
+    },
+    {
+        "Circuit ID": "marina_bay",
+        "Round": "18",
+        "Lap Number": "5",
+        "Driver ID": "perez",
+        "Time": "1:39.064",
+        "Position": "10"
+    },
+    {
+        "Circuit ID": "marina_bay",
+        "Round": "18",
+        "Lap Number": "6",
+        "Driver ID": "perez",
+        "Time": "1:39.256",
+        "Position": "10"
+    },
+    {
+        "Circuit ID": "marina_bay",
+        "Round": "18",
+        "Lap Number": "7",
+        "Driver ID": "perez",
+        "Time": "1:39.133",
+        "Position": "10"
+    },
+    {
+        "Circuit ID": "marina_bay",
+        "Round": "18",
+        "Lap Number": "8",
+        "Driver ID": "perez",
+        "Time": "1:38.357",
+        "Position": "10"
+    },
+    {
+        "Circuit ID": "marina_bay",
+        "Round": "18",
+        "Lap Number": "9",
+        "Driver ID": "perez",
+        "Time": "1:38.681",
+        "Position": "10"
+    },
+    {
+        "Circuit ID": "marina_bay",
+        "Round": "18",
+        "Lap Number": "10",
+        "Driver ID": "perez",
+        "Time": "1:38.934",
+        "Position": "10"
+    },
+    {
+        "Circuit ID": "marina_bay",
+        "Round": "18",
+        "Lap Number": "11",
+        "Driver ID": "perez",
+        "Time": "1:39.067",
+        "Position": "10"
+    },
+    {
+        "Circuit ID": "marina_bay",
+        "Round": "18",
+        "Lap Number": "12",
+        "Driver ID": "perez",
+        "Time": "1:38.864",
+        "Position": "10"
+    },
+    {
+        "Circuit ID": "marina_bay",
+        "Round": "18",
+        "Lap Number": "13",
+        "Driver ID": "perez",
+        "Time": "1:39.592",
+        "Position": "10"
+    },
+    {
+        "Circuit ID": "marina_bay",
+        "Round": "18",
+        "Lap Number": "14",
+        "Driver ID": "perez",
+        "Time": "1:39.142",
+        "Position": "10"
+    },
+    {
+        "Circuit ID": "marina_bay",
+        "Round": "18",
+        "Lap Number": "15",
+        "Driver ID": "perez",
+        "Time": "1:39.102",
+        "Position": "10"
+    },
+    {
+        "Circuit ID": "marina_bay",
+        "Round": "18",
+        "Lap Number": "16",
+        "Driver ID": "perez",
+        "Time": "1:39.204",
+        "Position": "10"
+    },
+    {
+        "Circuit ID": "marina_bay",
+        "Round": "18",
+        "Lap Number": "17",
+        "Driver ID": "perez",
+        "Time": "1:39.431",
+        "Position": "10"
+    },
+    {
+        "Circuit ID": "marina_bay",
+        "Round": "18",
+        "Lap Number": "18",
+        "Driver ID": "perez",
+        "Time": "1:39.343",
+        "Position": "9"
+    },
+    {
+        "Circuit ID": "marina_bay",
+        "Round": "18",
+        "Lap Number": "19",
+        "Driver ID": "perez",
+        "Time": "1:39.479",
+        "Position": "9"
+    },
+    {
+        "Circuit ID": "marina_bay",
+        "Round": "18",
+        "Lap Number": "20",
+        "Driver ID": "perez",
+        "Time": "1:39.013",
+        "Position": "9"
+    },
+    {
+        "Circuit ID": "marina_bay",
+        "Round": "18",
+        "Lap Number": "21",
+        "Driver ID": "perez",
+        "Time": "1:39.166",
+        "Position": "9"
+    },
+    {
+        "Circuit ID": "marina_bay",
+        "Round": "18",
+        "Lap Number": "22",
+        "Driver ID": "perez",
+        "Time": "1:39.435",
+        "Position": "9"
+    },
+    {
+        "Circuit ID": "marina_bay",
+        "Round": "18",
+        "Lap Number": "23",
+        "Driver ID": "perez",
+        "Time": "1:39.432",
+        "Position": "9"
+    },
+    {
+        "Circuit ID": "marina_bay",
+        "Round": "18",
+        "Lap Number": "24",
+        "Driver ID": "perez",
+        "Time": "1:39.672",
+        "Position": "9"
+    },
+    {
+        "Circuit ID": "marina_bay",
+        "Round": "18",
+        "Lap Number": "25",
+        "Driver ID": "perez",
+        "Time": "1:39.784",
+        "Position": "8"
+    },
+    {
+        "Circuit ID": "marina_bay",
+        "Round": "18",
+        "Lap Number": "26",
+        "Driver ID": "perez",
+        "Time": "1:40.035",
+        "Position": "8"
+    },
+    {
+        "Circuit ID": "marina_bay",
+        "Round": "18",
+        "Lap Number": "27",
+        "Driver ID": "perez",
+        "Time": "1:39.713",
+        "Position": "8"
+    },
+    {
+        "Circuit ID": "marina_bay",
+        "Round": "18",
+        "Lap Number": "28",
+        "Driver ID": "perez",
+        "Time": "1:47.385",
+        "Position": "10"
+    },
+    {
+        "Circuit ID": "marina_bay",
+        "Round": "18",
+        "Lap Number": "29",
+        "Driver ID": "perez",
+        "Time": "1:57.269",
+        "Position": "14"
+    },
+    {
+        "Circuit ID": "marina_bay",
+        "Round": "18",
+        "Lap Number": "30",
+        "Driver ID": "perez",
+        "Time": "1:39.589",
+        "Position": "11"
+    },
+    {
+        "Circuit ID": "marina_bay",
+        "Round": "18",
+        "Lap Number": "31",
+        "Driver ID": "perez",
+        "Time": "1:38.404",
+        "Position": "11"
+    },
+    {
+        "Circuit ID": "marina_bay",
+        "Round": "18",
+        "Lap Number": "32",
+        "Driver ID": "perez",
+        "Time": "1:38.407",
+        "Position": "11"
+    },
+    {
+        "Circuit ID": "marina_bay",
+        "Round": "18",
+        "Lap Number": "33",
+        "Driver ID": "perez",
+        "Time": "1:37.477",
+        "Position": "11"
+    },
+    {
+        "Circuit ID": "marina_bay",
+        "Round": "18",
+        "Lap Number": "34",
+        "Driver ID": "perez",
+        "Time": "1:37.992",
+        "Position": "10"
+    },
+    {
+        "Circuit ID": "marina_bay",
+        "Round": "18",
+        "Lap Number": "35",
+        "Driver ID": "perez",
+        "Time": "1:37.858",
+        "Position": "10"
+    },
+    {
+        "Circuit ID": "marina_bay",
+        "Round": "18",
+        "Lap Number": "36",
+        "Driver ID": "perez",
+        "Time": "1:38.556",
+        "Position": "10"
+    },
+    {
+        "Circuit ID": "marina_bay",
+        "Round": "18",
+        "Lap Number": "37",
+        "Driver ID": "perez",
+        "Time": "1:38.175",
+        "Position": "10"
+    },
+    {
+        "Circuit ID": "marina_bay",
+        "Round": "18",
+        "Lap Number": "38",
+        "Driver ID": "perez",
+        "Time": "1:38.133",
+        "Position": "10"
+    },
+    {
+        "Circuit ID": "marina_bay",
+        "Round": "18",
+        "Lap Number": "39",
+        "Driver ID": "perez",
+        "Time": "1:37.840",
+        "Position": "10"
+    },
+    {
+        "Circuit ID": "marina_bay",
+        "Round": "18",
+        "Lap Number": "40",
+        "Driver ID": "perez",
+        "Time": "1:37.878",
+        "Position": "10"
+    },
+    {
+        "Circuit ID": "marina_bay",
+        "Round": "18",
+        "Lap Number": "41",
+        "Driver ID": "perez",
+        "Time": "1:37.821",
+        "Position": "10"
+    },
+    {
+        "Circuit ID": "marina_bay",
+        "Round": "18",
+        "Lap Number": "42",
+        "Driver ID": "perez",
+        "Time": "1:37.649",
+        "Position": "10"
+    },
+    {
+        "Circuit ID": "marina_bay",
+        "Round": "18",
+        "Lap Number": "43",
+        "Driver ID": "perez",
+        "Time": "1:37.672",
+        "Position": "10"
+    },
+    {
+        "Circuit ID": "marina_bay",
+        "Round": "18",
+        "Lap Number": "44",
+        "Driver ID": "perez",
+        "Time": "1:37.783",
+        "Position": "10"
+    },
+    {
+        "Circuit ID": "marina_bay",
+        "Round": "18",
+        "Lap Number": "45",
+        "Driver ID": "perez",
+        "Time": "1:37.600",
+        "Position": "10"
+    },
+    {
+        "Circuit ID": "marina_bay",
+        "Round": "18",
+        "Lap Number": "46",
+        "Driver ID": "perez",
+        "Time": "1:37.959",
+        "Position": "10"
+    },
+    {
+        "Circuit ID": "marina_bay",
+        "Round": "18",
+        "Lap Number": "47",
+        "Driver ID": "perez",
+        "Time": "1:37.754",
+        "Position": "10"
+    },
+    {
+        "Circuit ID": "marina_bay",
+        "Round": "18",
+        "Lap Number": "48",
+        "Driver ID": "perez",
+        "Time": "1:37.981",
+        "Position": "10"
+    },
+    {
+        "Circuit ID": "marina_bay",
+        "Round": "18",
+        "Lap Number": "49",
+        "Driver ID": "perez",
+        "Time": "1:38.074",
+        "Position": "10"
+    },
+    {
+        "Circuit ID": "marina_bay",
+        "Round": "18",
+        "Lap Number": "50",
+        "Driver ID": "perez",
+        "Time": "1:38.722",
+        "Position": "10"
+    },
+    {
+        "Circuit ID": "marina_bay",
+        "Round": "18",
+        "Lap Number": "51",
+        "Driver ID": "perez",
+        "Time": "1:38.057",
+        "Position": "10"
+    },
+    {
+        "Circuit ID": "marina_bay",
+        "Round": "18",
+        "Lap Number": "52",
+        "Driver ID": "perez",
+        "Time": "1:38.236",
+        "Position": "10"
+    },
+    {
+        "Circuit ID": "marina_bay",
+        "Round": "18",
+        "Lap Number": "53",
+        "Driver ID": "perez",
+        "Time": "1:38.121",
+        "Position": "10"
+    },
+    {
+        "Circuit ID": "marina_bay",
+        "Round": "18",
+        "Lap Number": "54",
+        "Driver ID": "perez",
+        "Time": "1:38.018",
+        "Position": "10"
+    },
+    {
+        "Circuit ID": "marina_bay",
+        "Round": "18",
+        "Lap Number": "55",
+        "Driver ID": "perez",
+        "Time": "1:38.499",
+        "Position": "10"
+    },
+    {
+        "Circuit ID": "marina_bay",
+        "Round": "18",
+        "Lap Number": "56",
+        "Driver ID": "perez",
+        "Time": "1:39.127",
+        "Position": "10"
+    },
+    {
+        "Circuit ID": "marina_bay",
+        "Round": "18",
+        "Lap Number": "57",
+        "Driver ID": "perez",
+        "Time": "1:38.347",
+        "Position": "10"
+    },
+    {
+        "Circuit ID": "marina_bay",
+        "Round": "18",
+        "Lap Number": "58",
+        "Driver ID": "perez",
+        "Time": "1:38.012",
+        "Position": "10"
+    },
+    {
+        "Circuit ID": "marina_bay",
+        "Round": "18",
+        "Lap Number": "59",
+        "Driver ID": "perez",
+        "Time": "1:40.652",
+        "Position": "10"
+    },
+    {
+        "Circuit ID": "marina_bay",
+        "Round": "18",
+        "Lap Number": "60",
+        "Driver ID": "perez",
+        "Time": "1:38.149",
+        "Position": "10"
+    },
+    {
+        "Circuit ID": "marina_bay",
+        "Round": "18",
+        "Lap Number": "61",
+        "Driver ID": "perez",
+        "Time": "1:38.274",
+        "Position": "10"
+    },
+    {
+        "Circuit ID": "marina_bay",
+        "Round": "18",
+        "Lap Number": "1",
+        "Driver ID": "colapinto",
+        "Time": "1:47.696",
+        "Position": "9"
+    },
+    {
+        "Circuit ID": "marina_bay",
+        "Round": "18",
+        "Lap Number": "2",
+        "Driver ID": "colapinto",
+        "Time": "1:39.890",
+        "Position": "9"
+    },
+    {
+        "Circuit ID": "marina_bay",
+        "Round": "18",
+        "Lap Number": "3",
+        "Driver ID": "colapinto",
+        "Time": "1:39.371",
+        "Position": "9"
+    },
+    {
+        "Circuit ID": "marina_bay",
+        "Round": "18",
+        "Lap Number": "4",
+        "Driver ID": "colapinto",
+        "Time": "1:39.290",
+        "Position": "9"
+    },
+    {
+        "Circuit ID": "marina_bay",
+        "Round": "18",
+        "Lap Number": "5",
+        "Driver ID": "colapinto",
+        "Time": "1:38.954",
+        "Position": "9"
+    },
+    {
+        "Circuit ID": "marina_bay",
+        "Round": "18",
+        "Lap Number": "6",
+        "Driver ID": "colapinto",
+        "Time": "1:39.060",
+        "Position": "9"
+    },
+    {
+        "Circuit ID": "marina_bay",
+        "Round": "18",
+        "Lap Number": "7",
+        "Driver ID": "colapinto",
+        "Time": "1:38.940",
+        "Position": "9"
+    },
+    {
+        "Circuit ID": "marina_bay",
+        "Round": "18",
+        "Lap Number": "8",
+        "Driver ID": "colapinto",
+        "Time": "1:38.934",
+        "Position": "9"
+    },
+    {
+        "Circuit ID": "marina_bay",
+        "Round": "18",
+        "Lap Number": "9",
+        "Driver ID": "colapinto",
+        "Time": "1:38.730",
+        "Position": "9"
+    },
+    {
+        "Circuit ID": "marina_bay",
+        "Round": "18",
+        "Lap Number": "10",
+        "Driver ID": "colapinto",
+        "Time": "1:38.833",
+        "Position": "9"
+    },
+    {
+        "Circuit ID": "marina_bay",
+        "Round": "18",
+        "Lap Number": "11",
+        "Driver ID": "colapinto",
+        "Time": "1:38.756",
+        "Position": "9"
+    },
+    {
+        "Circuit ID": "marina_bay",
+        "Round": "18",
+        "Lap Number": "12",
+        "Driver ID": "colapinto",
+        "Time": "1:38.894",
+        "Position": "9"
+    },
+    {
+        "Circuit ID": "marina_bay",
+        "Round": "18",
+        "Lap Number": "13",
+        "Driver ID": "colapinto",
+        "Time": "1:38.940",
+        "Position": "9"
+    },
+    {
+        "Circuit ID": "marina_bay",
+        "Round": "18",
+        "Lap Number": "14",
+        "Driver ID": "colapinto",
+        "Time": "1:39.139",
+        "Position": "9"
+    },
+    {
+        "Circuit ID": "marina_bay",
+        "Round": "18",
+        "Lap Number": "15",
+        "Driver ID": "colapinto",
+        "Time": "1:38.858",
+        "Position": "9"
+    },
+    {
+        "Circuit ID": "marina_bay",
+        "Round": "18",
+        "Lap Number": "16",
+        "Driver ID": "colapinto",
+        "Time": "1:38.865",
+        "Position": "9"
+    },
+    {
+        "Circuit ID": "marina_bay",
+        "Round": "18",
+        "Lap Number": "17",
+        "Driver ID": "colapinto",
+        "Time": "1:39.210",
+        "Position": "9"
+    },
+    {
+        "Circuit ID": "marina_bay",
+        "Round": "18",
+        "Lap Number": "18",
+        "Driver ID": "colapinto",
+        "Time": "1:39.078",
+        "Position": "8"
+    },
+    {
+        "Circuit ID": "marina_bay",
+        "Round": "18",
+        "Lap Number": "19",
+        "Driver ID": "colapinto",
+        "Time": "1:39.024",
+        "Position": "8"
+    },
+    {
+        "Circuit ID": "marina_bay",
+        "Round": "18",
+        "Lap Number": "20",
+        "Driver ID": "colapinto",
+        "Time": "1:38.682",
+        "Position": "8"
+    },
+    {
+        "Circuit ID": "marina_bay",
+        "Round": "18",
+        "Lap Number": "21",
+        "Driver ID": "colapinto",
+        "Time": "1:39.327",
+        "Position": "8"
+    },
+    {
+        "Circuit ID": "marina_bay",
+        "Round": "18",
+        "Lap Number": "22",
+        "Driver ID": "colapinto",
+        "Time": "1:38.959",
+        "Position": "8"
+    },
+    {
+        "Circuit ID": "marina_bay",
+        "Round": "18",
+        "Lap Number": "23",
+        "Driver ID": "colapinto",
+        "Time": "1:39.621",
+        "Position": "8"
+    },
+    {
+        "Circuit ID": "marina_bay",
+        "Round": "18",
+        "Lap Number": "24",
+        "Driver ID": "colapinto",
+        "Time": "1:39.047",
+        "Position": "8"
+    },
+    {
+        "Circuit ID": "marina_bay",
+        "Round": "18",
+        "Lap Number": "25",
+        "Driver ID": "colapinto",
+        "Time": "1:39.886",
+        "Position": "7"
+    },
+    {
+        "Circuit ID": "marina_bay",
+        "Round": "18",
+        "Lap Number": "26",
+        "Driver ID": "colapinto",
+        "Time": "1:39.427",
+        "Position": "7"
+    },
+    {
+        "Circuit ID": "marina_bay",
+        "Round": "18",
+        "Lap Number": "27",
+        "Driver ID": "colapinto",
+        "Time": "1:39.701",
+        "Position": "7"
+    },
+    {
+        "Circuit ID": "marina_bay",
+        "Round": "18",
+        "Lap Number": "28",
+        "Driver ID": "colapinto",
+        "Time": "1:39.813",
+        "Position": "6"
+    },
+    {
+        "Circuit ID": "marina_bay",
+        "Round": "18",
+        "Lap Number": "29",
+        "Driver ID": "colapinto",
+        "Time": "1:48.344",
+        "Position": "8"
+    },
+    {
+        "Circuit ID": "marina_bay",
+        "Round": "18",
+        "Lap Number": "30",
+        "Driver ID": "colapinto",
+        "Time": "2:01.584",
+        "Position": "13"
+    },
+    {
+        "Circuit ID": "marina_bay",
+        "Round": "18",
+        "Lap Number": "31",
+        "Driver ID": "colapinto",
+        "Time": "1:40.451",
+        "Position": "12"
+    },
+    {
+        "Circuit ID": "marina_bay",
+        "Round": "18",
+        "Lap Number": "32",
+        "Driver ID": "colapinto",
+        "Time": "1:38.081",
+        "Position": "12"
+    },
+    {
+        "Circuit ID": "marina_bay",
+        "Round": "18",
+        "Lap Number": "33",
+        "Driver ID": "colapinto",
+        "Time": "1:37.739",
+        "Position": "12"
+    },
+    {
+        "Circuit ID": "marina_bay",
+        "Round": "18",
+        "Lap Number": "34",
+        "Driver ID": "colapinto",
+        "Time": "1:37.983",
+        "Position": "11"
+    },
+    {
+        "Circuit ID": "marina_bay",
+        "Round": "18",
+        "Lap Number": "35",
+        "Driver ID": "colapinto",
+        "Time": "1:37.262",
+        "Position": "11"
+    },
+    {
+        "Circuit ID": "marina_bay",
+        "Round": "18",
+        "Lap Number": "36",
+        "Driver ID": "colapinto",
+        "Time": "1:37.789",
+        "Position": "11"
+    },
+    {
+        "Circuit ID": "marina_bay",
+        "Round": "18",
+        "Lap Number": "37",
+        "Driver ID": "colapinto",
+        "Time": "1:39.435",
+        "Position": "11"
+    },
+    {
+        "Circuit ID": "marina_bay",
+        "Round": "18",
+        "Lap Number": "38",
+        "Driver ID": "colapinto",
+        "Time": "1:37.707",
+        "Position": "11"
+    },
+    {
+        "Circuit ID": "marina_bay",
+        "Round": "18",
+        "Lap Number": "39",
+        "Driver ID": "colapinto",
+        "Time": "1:37.679",
+        "Position": "11"
+    },
+    {
+        "Circuit ID": "marina_bay",
+        "Round": "18",
+        "Lap Number": "40",
+        "Driver ID": "colapinto",
+        "Time": "1:37.555",
+        "Position": "11"
+    },
+    {
+        "Circuit ID": "marina_bay",
+        "Round": "18",
+        "Lap Number": "41",
+        "Driver ID": "colapinto",
+        "Time": "1:37.659",
+        "Position": "11"
+    },
+    {
+        "Circuit ID": "marina_bay",
+        "Round": "18",
+        "Lap Number": "42",
+        "Driver ID": "colapinto",
+        "Time": "1:37.721",
+        "Position": "11"
+    },
+    {
+        "Circuit ID": "marina_bay",
+        "Round": "18",
+        "Lap Number": "43",
+        "Driver ID": "colapinto",
+        "Time": "1:37.793",
+        "Position": "11"
+    },
+    {
+        "Circuit ID": "marina_bay",
+        "Round": "18",
+        "Lap Number": "44",
+        "Driver ID": "colapinto",
+        "Time": "1:37.637",
+        "Position": "11"
+    },
+    {
+        "Circuit ID": "marina_bay",
+        "Round": "18",
+        "Lap Number": "45",
+        "Driver ID": "colapinto",
+        "Time": "1:37.956",
+        "Position": "11"
+    },
+    {
+        "Circuit ID": "marina_bay",
+        "Round": "18",
+        "Lap Number": "46",
+        "Driver ID": "colapinto",
+        "Time": "1:37.550",
+        "Position": "11"
+    },
+    {
+        "Circuit ID": "marina_bay",
+        "Round": "18",
+        "Lap Number": "47",
+        "Driver ID": "colapinto",
+        "Time": "1:37.458",
+        "Position": "11"
+    },
+    {
+        "Circuit ID": "marina_bay",
+        "Round": "18",
+        "Lap Number": "48",
+        "Driver ID": "colapinto",
+        "Time": "1:37.936",
+        "Position": "11"
+    },
+    {
+        "Circuit ID": "marina_bay",
+        "Round": "18",
+        "Lap Number": "49",
+        "Driver ID": "colapinto",
+        "Time": "1:37.800",
+        "Position": "11"
+    },
+    {
+        "Circuit ID": "marina_bay",
+        "Round": "18",
+        "Lap Number": "50",
+        "Driver ID": "colapinto",
+        "Time": "1:38.692",
+        "Position": "11"
+    },
+    {
+        "Circuit ID": "marina_bay",
+        "Round": "18",
+        "Lap Number": "51",
+        "Driver ID": "colapinto",
+        "Time": "1:38.940",
+        "Position": "11"
+    },
+    {
+        "Circuit ID": "marina_bay",
+        "Round": "18",
+        "Lap Number": "52",
+        "Driver ID": "colapinto",
+        "Time": "1:38.348",
+        "Position": "11"
+    },
+    {
+        "Circuit ID": "marina_bay",
+        "Round": "18",
+        "Lap Number": "53",
+        "Driver ID": "colapinto",
+        "Time": "1:37.856",
+        "Position": "11"
+    },
+    {
+        "Circuit ID": "marina_bay",
+        "Round": "18",
+        "Lap Number": "54",
+        "Driver ID": "colapinto",
+        "Time": "1:37.790",
+        "Position": "11"
+    },
+    {
+        "Circuit ID": "marina_bay",
+        "Round": "18",
+        "Lap Number": "55",
+        "Driver ID": "colapinto",
+        "Time": "1:38.057",
+        "Position": "11"
+    },
+    {
+        "Circuit ID": "marina_bay",
+        "Round": "18",
+        "Lap Number": "56",
+        "Driver ID": "colapinto",
+        "Time": "1:41.189",
+        "Position": "11"
+    },
+    {
+        "Circuit ID": "marina_bay",
+        "Round": "18",
+        "Lap Number": "57",
+        "Driver ID": "colapinto",
+        "Time": "1:38.823",
+        "Position": "11"
+    },
+    {
+        "Circuit ID": "marina_bay",
+        "Round": "18",
+        "Lap Number": "58",
+        "Driver ID": "colapinto",
+        "Time": "1:37.844",
+        "Position": "11"
+    },
+    {
+        "Circuit ID": "marina_bay",
+        "Round": "18",
+        "Lap Number": "59",
+        "Driver ID": "colapinto",
+        "Time": "1:38.485",
+        "Position": "11"
+    },
+    {
+        "Circuit ID": "marina_bay",
+        "Round": "18",
+        "Lap Number": "60",
+        "Driver ID": "colapinto",
+        "Time": "1:38.712",
+        "Position": "11"
+    },
+    {
+        "Circuit ID": "marina_bay",
+        "Round": "18",
+        "Lap Number": "61",
+        "Driver ID": "colapinto",
+        "Time": "1:38.075",
+        "Position": "11"
+    },
+    {
+        "Circuit ID": "marina_bay",
+        "Round": "18",
+        "Lap Number": "1",
+        "Driver ID": "stroll",
+        "Time": "1:52.609",
+        "Position": "18"
+    },
+    {
+        "Circuit ID": "marina_bay",
+        "Round": "18",
+        "Lap Number": "2",
+        "Driver ID": "stroll",
+        "Time": "1:41.184",
+        "Position": "18"
+    },
+    {
+        "Circuit ID": "marina_bay",
+        "Round": "18",
+        "Lap Number": "3",
+        "Driver ID": "stroll",
+        "Time": "1:40.400",
+        "Position": "18"
+    },
+    {
+        "Circuit ID": "marina_bay",
+        "Round": "18",
+        "Lap Number": "4",
+        "Driver ID": "stroll",
+        "Time": "1:39.543",
+        "Position": "18"
+    },
+    {
+        "Circuit ID": "marina_bay",
+        "Round": "18",
+        "Lap Number": "5",
+        "Driver ID": "stroll",
+        "Time": "1:39.613",
+        "Position": "18"
+    },
+    {
+        "Circuit ID": "marina_bay",
+        "Round": "18",
+        "Lap Number": "6",
+        "Driver ID": "stroll",
+        "Time": "1:39.766",
+        "Position": "18"
+    },
+    {
+        "Circuit ID": "marina_bay",
+        "Round": "18",
+        "Lap Number": "7",
+        "Driver ID": "stroll",
+        "Time": "1:39.735",
+        "Position": "18"
+    },
+    {
+        "Circuit ID": "marina_bay",
+        "Round": "18",
+        "Lap Number": "8",
+        "Driver ID": "stroll",
+        "Time": "1:39.738",
+        "Position": "18"
+    },
+    {
+        "Circuit ID": "marina_bay",
+        "Round": "18",
+        "Lap Number": "9",
+        "Driver ID": "stroll",
+        "Time": "1:40.781",
+        "Position": "18"
+    },
+    {
+        "Circuit ID": "marina_bay",
+        "Round": "18",
+        "Lap Number": "10",
+        "Driver ID": "stroll",
+        "Time": "1:39.514",
+        "Position": "17"
+    },
+    {
+        "Circuit ID": "marina_bay",
+        "Round": "18",
+        "Lap Number": "11",
+        "Driver ID": "stroll",
+        "Time": "1:39.689",
+        "Position": "16"
+    },
+    {
+        "Circuit ID": "marina_bay",
+        "Round": "18",
+        "Lap Number": "12",
+        "Driver ID": "stroll",
+        "Time": "1:39.738",
+        "Position": "16"
+    },
+    {
+        "Circuit ID": "marina_bay",
+        "Round": "18",
+        "Lap Number": "13",
+        "Driver ID": "stroll",
+        "Time": "1:39.511",
+        "Position": "16"
+    },
+    {
+        "Circuit ID": "marina_bay",
+        "Round": "18",
+        "Lap Number": "14",
+        "Driver ID": "stroll",
+        "Time": "1:39.795",
+        "Position": "15"
+    },
+    {
+        "Circuit ID": "marina_bay",
+        "Round": "18",
+        "Lap Number": "15",
+        "Driver ID": "stroll",
+        "Time": "1:39.494",
+        "Position": "15"
+    },
+    {
+        "Circuit ID": "marina_bay",
+        "Round": "18",
+        "Lap Number": "16",
+        "Driver ID": "stroll",
+        "Time": "1:39.923",
+        "Position": "15"
+    },
+    {
+        "Circuit ID": "marina_bay",
+        "Round": "18",
+        "Lap Number": "17",
+        "Driver ID": "stroll",
+        "Time": "1:39.933",
+        "Position": "15"
+    },
+    {
+        "Circuit ID": "marina_bay",
+        "Round": "18",
+        "Lap Number": "18",
+        "Driver ID": "stroll",
+        "Time": "1:40.015",
+        "Position": "15"
+    },
+    {
+        "Circuit ID": "marina_bay",
+        "Round": "18",
+        "Lap Number": "19",
+        "Driver ID": "stroll",
+        "Time": "1:39.960",
+        "Position": "15"
+    },
+    {
+        "Circuit ID": "marina_bay",
+        "Round": "18",
+        "Lap Number": "20",
+        "Driver ID": "stroll",
+        "Time": "1:39.929",
+        "Position": "15"
+    },
+    {
+        "Circuit ID": "marina_bay",
+        "Round": "18",
+        "Lap Number": "21",
+        "Driver ID": "stroll",
+        "Time": "1:41.423",
+        "Position": "16"
+    },
+    {
+        "Circuit ID": "marina_bay",
+        "Round": "18",
+        "Lap Number": "22",
+        "Driver ID": "stroll",
+        "Time": "1:40.433",
+        "Position": "16"
+    },
+    {
+        "Circuit ID": "marina_bay",
+        "Round": "18",
+        "Lap Number": "23",
+        "Driver ID": "stroll",
+        "Time": "1:40.328",
+        "Position": "16"
+    },
+    {
+        "Circuit ID": "marina_bay",
+        "Round": "18",
+        "Lap Number": "24",
+        "Driver ID": "stroll",
+        "Time": "1:40.183",
+        "Position": "16"
+    },
+    {
+        "Circuit ID": "marina_bay",
+        "Round": "18",
+        "Lap Number": "25",
+        "Driver ID": "stroll",
+        "Time": "1:40.487",
+        "Position": "16"
+    },
+    {
+        "Circuit ID": "marina_bay",
+        "Round": "18",
+        "Lap Number": "26",
+        "Driver ID": "stroll",
+        "Time": "1:48.829",
+        "Position": "19"
+    },
+    {
+        "Circuit ID": "marina_bay",
+        "Round": "18",
+        "Lap Number": "27",
+        "Driver ID": "stroll",
+        "Time": "2:00.401",
+        "Position": "19"
+    },
+    {
+        "Circuit ID": "marina_bay",
+        "Round": "18",
+        "Lap Number": "28",
+        "Driver ID": "stroll",
+        "Time": "1:39.233",
+        "Position": "19"
+    },
+    {
+        "Circuit ID": "marina_bay",
+        "Round": "18",
+        "Lap Number": "29",
+        "Driver ID": "stroll",
+        "Time": "1:39.389",
+        "Position": "19"
+    },
+    {
+        "Circuit ID": "marina_bay",
+        "Round": "18",
+        "Lap Number": "30",
+        "Driver ID": "stroll",
+        "Time": "1:38.917",
+        "Position": "19"
+    },
+    {
+        "Circuit ID": "marina_bay",
+        "Round": "18",
+        "Lap Number": "31",
+        "Driver ID": "stroll",
+        "Time": "1:38.495",
+        "Position": "19"
+    },
+    {
+        "Circuit ID": "marina_bay",
+        "Round": "18",
+        "Lap Number": "32",
+        "Driver ID": "stroll",
+        "Time": "1:38.159",
+        "Position": "19"
+    },
+    {
+        "Circuit ID": "marina_bay",
+        "Round": "18",
+        "Lap Number": "33",
+        "Driver ID": "stroll",
+        "Time": "1:38.162",
+        "Position": "19"
+    },
+    {
+        "Circuit ID": "marina_bay",
+        "Round": "18",
+        "Lap Number": "34",
+        "Driver ID": "stroll",
+        "Time": "1:38.286",
+        "Position": "18"
+    },
+    {
+        "Circuit ID": "marina_bay",
+        "Round": "18",
+        "Lap Number": "35",
+        "Driver ID": "stroll",
+        "Time": "1:37.924",
+        "Position": "17"
+    },
+    {
+        "Circuit ID": "marina_bay",
+        "Round": "18",
+        "Lap Number": "36",
+        "Driver ID": "stroll",
+        "Time": "1:37.851",
+        "Position": "17"
+    },
+    {
+        "Circuit ID": "marina_bay",
+        "Round": "18",
+        "Lap Number": "37",
+        "Driver ID": "stroll",
+        "Time": "1:38.917",
+        "Position": "16"
+    },
+    {
+        "Circuit ID": "marina_bay",
+        "Round": "18",
+        "Lap Number": "38",
+        "Driver ID": "stroll",
+        "Time": "1:41.692",
+        "Position": "16"
+    },
+    {
+        "Circuit ID": "marina_bay",
+        "Round": "18",
+        "Lap Number": "39",
+        "Driver ID": "stroll",
+        "Time": "1:38.261",
+        "Position": "16"
+    },
+    {
+        "Circuit ID": "marina_bay",
+        "Round": "18",
+        "Lap Number": "40",
+        "Driver ID": "stroll",
+        "Time": "1:38.508",
+        "Position": "16"
+    },
+    {
+        "Circuit ID": "marina_bay",
+        "Round": "18",
+        "Lap Number": "41",
+        "Driver ID": "stroll",
+        "Time": "1:39.745",
+        "Position": "16"
+    },
+    {
+        "Circuit ID": "marina_bay",
+        "Round": "18",
+        "Lap Number": "42",
+        "Driver ID": "stroll",
+        "Time": "1:38.024",
+        "Position": "16"
+    },
+    {
+        "Circuit ID": "marina_bay",
+        "Round": "18",
+        "Lap Number": "43",
+        "Driver ID": "stroll",
+        "Time": "1:38.182",
+        "Position": "16"
+    },
+    {
+        "Circuit ID": "marina_bay",
+        "Round": "18",
+        "Lap Number": "44",
+        "Driver ID": "stroll",
+        "Time": "1:38.203",
+        "Position": "16"
+    },
+    {
+        "Circuit ID": "marina_bay",
+        "Round": "18",
+        "Lap Number": "45",
+        "Driver ID": "stroll",
+        "Time": "1:38.817",
+        "Position": "16"
+    },
+    {
+        "Circuit ID": "marina_bay",
+        "Round": "18",
+        "Lap Number": "46",
+        "Driver ID": "stroll",
+        "Time": "1:39.289",
+        "Position": "15"
+    },
+    {
+        "Circuit ID": "marina_bay",
+        "Round": "18",
+        "Lap Number": "47",
+        "Driver ID": "stroll",
+        "Time": "1:38.365",
+        "Position": "15"
+    },
+    {
+        "Circuit ID": "marina_bay",
+        "Round": "18",
+        "Lap Number": "48",
+        "Driver ID": "stroll",
+        "Time": "1:37.928",
+        "Position": "15"
+    },
+    {
+        "Circuit ID": "marina_bay",
+        "Round": "18",
+        "Lap Number": "49",
+        "Driver ID": "stroll",
+        "Time": "1:38.532",
+        "Position": "14"
+    },
+    {
+        "Circuit ID": "marina_bay",
+        "Round": "18",
+        "Lap Number": "50",
+        "Driver ID": "stroll",
+        "Time": "1:40.140",
+        "Position": "14"
+    },
+    {
+        "Circuit ID": "marina_bay",
+        "Round": "18",
+        "Lap Number": "51",
+        "Driver ID": "stroll",
+        "Time": "1:38.309",
+        "Position": "14"
+    },
+    {
+        "Circuit ID": "marina_bay",
+        "Round": "18",
+        "Lap Number": "52",
+        "Driver ID": "stroll",
+        "Time": "1:38.030",
+        "Position": "14"
+    },
+    {
+        "Circuit ID": "marina_bay",
+        "Round": "18",
+        "Lap Number": "53",
+        "Driver ID": "stroll",
+        "Time": "1:38.555",
+        "Position": "14"
+    },
+    {
+        "Circuit ID": "marina_bay",
+        "Round": "18",
+        "Lap Number": "54",
+        "Driver ID": "stroll",
+        "Time": "1:38.178",
+        "Position": "14"
+    },
+    {
+        "Circuit ID": "marina_bay",
+        "Round": "18",
+        "Lap Number": "55",
+        "Driver ID": "stroll",
+        "Time": "1:38.320",
+        "Position": "14"
+    },
+    {
+        "Circuit ID": "marina_bay",
+        "Round": "18",
+        "Lap Number": "56",
+        "Driver ID": "stroll",
+        "Time": "1:38.584",
+        "Position": "14"
+    },
+    {
+        "Circuit ID": "marina_bay",
+        "Round": "18",
+        "Lap Number": "57",
+        "Driver ID": "stroll",
+        "Time": "1:38.646",
+        "Position": "14"
+    },
+    {
+        "Circuit ID": "marina_bay",
+        "Round": "18",
+        "Lap Number": "58",
+        "Driver ID": "stroll",
+        "Time": "1:38.516",
+        "Position": "14"
+    },
+    {
+        "Circuit ID": "marina_bay",
+        "Round": "18",
+        "Lap Number": "59",
+        "Driver ID": "stroll",
+        "Time": "1:40.255",
+        "Position": "14"
+    },
+    {
+        "Circuit ID": "marina_bay",
+        "Round": "18",
+        "Lap Number": "60",
+        "Driver ID": "stroll",
+        "Time": "1:38.931",
+        "Position": "14"
+    },
+    {
+        "Circuit ID": "marina_bay",
+        "Round": "18",
+        "Lap Number": "61",
+        "Driver ID": "stroll",
+        "Time": "1:39.845",
+        "Position": "14"
+    },
+    {
+        "Circuit ID": "marina_bay",
+        "Round": "18",
+        "Lap Number": "1",
+        "Driver ID": "zhou",
+        "Time": "1:53.822",
+        "Position": "20"
+    },
+    {
+        "Circuit ID": "marina_bay",
+        "Round": "18",
+        "Lap Number": "2",
+        "Driver ID": "zhou",
+        "Time": "1:41.595",
+        "Position": "20"
+    },
+    {
+        "Circuit ID": "marina_bay",
+        "Round": "18",
+        "Lap Number": "3",
+        "Driver ID": "zhou",
+        "Time": "1:40.701",
+        "Position": "20"
+    },
+    {
+        "Circuit ID": "marina_bay",
+        "Round": "18",
+        "Lap Number": "4",
+        "Driver ID": "zhou",
+        "Time": "1:39.955",
+        "Position": "20"
+    },
+    {
+        "Circuit ID": "marina_bay",
+        "Round": "18",
+        "Lap Number": "5",
+        "Driver ID": "zhou",
+        "Time": "1:39.892",
+        "Position": "20"
+    },
+    {
+        "Circuit ID": "marina_bay",
+        "Round": "18",
+        "Lap Number": "6",
+        "Driver ID": "zhou",
+        "Time": "1:40.062",
+        "Position": "19"
+    },
+    {
+        "Circuit ID": "marina_bay",
+        "Round": "18",
+        "Lap Number": "7",
+        "Driver ID": "zhou",
+        "Time": "1:39.832",
+        "Position": "19"
+    },
+    {
+        "Circuit ID": "marina_bay",
+        "Round": "18",
+        "Lap Number": "8",
+        "Driver ID": "zhou",
+        "Time": "1:39.487",
+        "Position": "19"
+    },
+    {
+        "Circuit ID": "marina_bay",
+        "Round": "18",
+        "Lap Number": "9",
+        "Driver ID": "zhou",
+        "Time": "1:39.743",
+        "Position": "19"
+    },
+    {
+        "Circuit ID": "marina_bay",
+        "Round": "18",
+        "Lap Number": "10",
+        "Driver ID": "zhou",
+        "Time": "1:39.360",
+        "Position": "18"
+    },
+    {
+        "Circuit ID": "marina_bay",
+        "Round": "18",
+        "Lap Number": "11",
+        "Driver ID": "zhou",
+        "Time": "1:39.654",
+        "Position": "18"
+    },
+    {
+        "Circuit ID": "marina_bay",
+        "Round": "18",
+        "Lap Number": "12",
+        "Driver ID": "zhou",
+        "Time": "1:39.909",
+        "Position": "17"
+    },
+    {
+        "Circuit ID": "marina_bay",
+        "Round": "18",
+        "Lap Number": "13",
+        "Driver ID": "zhou",
+        "Time": "1:40.337",
+        "Position": "17"
+    },
+    {
+        "Circuit ID": "marina_bay",
+        "Round": "18",
+        "Lap Number": "14",
+        "Driver ID": "zhou",
+        "Time": "1:39.820",
+        "Position": "16"
+    },
+    {
+        "Circuit ID": "marina_bay",
+        "Round": "18",
+        "Lap Number": "15",
+        "Driver ID": "zhou",
+        "Time": "1:39.610",
+        "Position": "16"
+    },
+    {
+        "Circuit ID": "marina_bay",
+        "Round": "18",
+        "Lap Number": "16",
+        "Driver ID": "zhou",
+        "Time": "1:39.727",
+        "Position": "16"
+    },
+    {
+        "Circuit ID": "marina_bay",
+        "Round": "18",
+        "Lap Number": "17",
+        "Driver ID": "zhou",
+        "Time": "1:40.174",
+        "Position": "16"
+    },
+    {
+        "Circuit ID": "marina_bay",
+        "Round": "18",
+        "Lap Number": "18",
+        "Driver ID": "zhou",
+        "Time": "1:40.059",
+        "Position": "16"
+    },
+    {
+        "Circuit ID": "marina_bay",
+        "Round": "18",
+        "Lap Number": "19",
+        "Driver ID": "zhou",
+        "Time": "1:41.195",
+        "Position": "17"
+    },
+    {
+        "Circuit ID": "marina_bay",
+        "Round": "18",
+        "Lap Number": "20",
+        "Driver ID": "zhou",
+        "Time": "1:40.581",
+        "Position": "17"
+    },
+    {
+        "Circuit ID": "marina_bay",
+        "Round": "18",
+        "Lap Number": "21",
+        "Driver ID": "zhou",
+        "Time": "1:40.465",
+        "Position": "17"
+    },
+    {
+        "Circuit ID": "marina_bay",
+        "Round": "18",
+        "Lap Number": "22",
+        "Driver ID": "zhou",
+        "Time": "1:40.115",
+        "Position": "17"
+    },
+    {
+        "Circuit ID": "marina_bay",
+        "Round": "18",
+        "Lap Number": "23",
+        "Driver ID": "zhou",
+        "Time": "1:40.026",
+        "Position": "17"
+    },
+    {
+        "Circuit ID": "marina_bay",
+        "Round": "18",
+        "Lap Number": "24",
+        "Driver ID": "zhou",
+        "Time": "1:40.047",
+        "Position": "17"
+    },
+    {
+        "Circuit ID": "marina_bay",
+        "Round": "18",
+        "Lap Number": "25",
+        "Driver ID": "zhou",
+        "Time": "1:40.219",
+        "Position": "17"
+    },
+    {
+        "Circuit ID": "marina_bay",
+        "Round": "18",
+        "Lap Number": "26",
+        "Driver ID": "zhou",
+        "Time": "1:40.400",
+        "Position": "16"
+    },
+    {
+        "Circuit ID": "marina_bay",
+        "Round": "18",
+        "Lap Number": "27",
+        "Driver ID": "zhou",
+        "Time": "1:40.189",
+        "Position": "16"
+    },
+    {
+        "Circuit ID": "marina_bay",
+        "Round": "18",
+        "Lap Number": "28",
+        "Driver ID": "zhou",
+        "Time": "1:39.965",
+        "Position": "15"
+    },
+    {
+        "Circuit ID": "marina_bay",
+        "Round": "18",
+        "Lap Number": "29",
+        "Driver ID": "zhou",
+        "Time": "1:41.094",
+        "Position": "15"
+    },
+    {
+        "Circuit ID": "marina_bay",
+        "Round": "18",
+        "Lap Number": "30",
+        "Driver ID": "zhou",
+        "Time": "1:40.857",
+        "Position": "14"
+    },
+    {
+        "Circuit ID": "marina_bay",
+        "Round": "18",
+        "Lap Number": "31",
+        "Driver ID": "zhou",
+        "Time": "1:42.290",
+        "Position": "15"
+    },
+    {
+        "Circuit ID": "marina_bay",
+        "Round": "18",
+        "Lap Number": "32",
+        "Driver ID": "zhou",
+        "Time": "1:41.210",
+        "Position": "15"
+    },
+    {
+        "Circuit ID": "marina_bay",
+        "Round": "18",
+        "Lap Number": "33",
+        "Driver ID": "zhou",
+        "Time": "1:41.039",
+        "Position": "15"
+    },
+    {
+        "Circuit ID": "marina_bay",
+        "Round": "18",
+        "Lap Number": "34",
+        "Driver ID": "zhou",
+        "Time": "1:48.825",
+        "Position": "17"
+    },
+    {
+        "Circuit ID": "marina_bay",
+        "Round": "18",
+        "Lap Number": "35",
+        "Driver ID": "zhou",
+        "Time": "1:59.614",
+        "Position": "18"
+    },
+    {
+        "Circuit ID": "marina_bay",
+        "Round": "18",
+        "Lap Number": "36",
+        "Driver ID": "zhou",
+        "Time": "1:38.362",
+        "Position": "18"
+    },
+    {
+        "Circuit ID": "marina_bay",
+        "Round": "18",
+        "Lap Number": "37",
+        "Driver ID": "zhou",
+        "Time": "1:38.329",
+        "Position": "18"
+    },
+    {
+        "Circuit ID": "marina_bay",
+        "Round": "18",
+        "Lap Number": "38",
+        "Driver ID": "zhou",
+        "Time": "1:37.976",
+        "Position": "17"
+    },
+    {
+        "Circuit ID": "marina_bay",
+        "Round": "18",
+        "Lap Number": "39",
+        "Driver ID": "zhou",
+        "Time": "1:38.314",
+        "Position": "17"
+    },
+    {
+        "Circuit ID": "marina_bay",
+        "Round": "18",
+        "Lap Number": "40",
+        "Driver ID": "zhou",
+        "Time": "1:38.573",
+        "Position": "17"
+    },
+    {
+        "Circuit ID": "marina_bay",
+        "Round": "18",
+        "Lap Number": "41",
+        "Driver ID": "zhou",
+        "Time": "1:39.616",
+        "Position": "17"
+    },
+    {
+        "Circuit ID": "marina_bay",
+        "Round": "18",
+        "Lap Number": "42",
+        "Driver ID": "zhou",
+        "Time": "1:38.721",
+        "Position": "17"
+    },
+    {
+        "Circuit ID": "marina_bay",
+        "Round": "18",
+        "Lap Number": "43",
+        "Driver ID": "zhou",
+        "Time": "1:37.960",
+        "Position": "17"
+    },
+    {
+        "Circuit ID": "marina_bay",
+        "Round": "18",
+        "Lap Number": "44",
+        "Driver ID": "zhou",
+        "Time": "1:37.600",
+        "Position": "17"
+    },
+    {
+        "Circuit ID": "marina_bay",
+        "Round": "18",
+        "Lap Number": "45",
+        "Driver ID": "zhou",
+        "Time": "1:37.831",
+        "Position": "17"
+    },
+    {
+        "Circuit ID": "marina_bay",
+        "Round": "18",
+        "Lap Number": "46",
+        "Driver ID": "zhou",
+        "Time": "1:37.864",
+        "Position": "17"
+    },
+    {
+        "Circuit ID": "marina_bay",
+        "Round": "18",
+        "Lap Number": "47",
+        "Driver ID": "zhou",
+        "Time": "1:37.461",
+        "Position": "16"
+    },
+    {
+        "Circuit ID": "marina_bay",
+        "Round": "18",
+        "Lap Number": "48",
+        "Driver ID": "zhou",
+        "Time": "1:38.680",
+        "Position": "16"
+    },
+    {
+        "Circuit ID": "marina_bay",
+        "Round": "18",
+        "Lap Number": "49",
+        "Driver ID": "zhou",
+        "Time": "1:39.122",
+        "Position": "15"
+    },
+    {
+        "Circuit ID": "marina_bay",
+        "Round": "18",
+        "Lap Number": "50",
+        "Driver ID": "zhou",
+        "Time": "1:38.599",
+        "Position": "15"
+    },
+    {
+        "Circuit ID": "marina_bay",
+        "Round": "18",
+        "Lap Number": "51",
+        "Driver ID": "zhou",
+        "Time": "1:38.016",
+        "Position": "15"
+    },
+    {
+        "Circuit ID": "marina_bay",
+        "Round": "18",
+        "Lap Number": "52",
+        "Driver ID": "zhou",
+        "Time": "1:38.299",
+        "Position": "15"
+    },
+    {
+        "Circuit ID": "marina_bay",
+        "Round": "18",
+        "Lap Number": "53",
+        "Driver ID": "zhou",
+        "Time": "1:39.707",
+        "Position": "15"
+    },
+    {
+        "Circuit ID": "marina_bay",
+        "Round": "18",
+        "Lap Number": "54",
+        "Driver ID": "zhou",
+        "Time": "1:38.218",
+        "Position": "15"
+    },
+    {
+        "Circuit ID": "marina_bay",
+        "Round": "18",
+        "Lap Number": "55",
+        "Driver ID": "zhou",
+        "Time": "1:38.167",
+        "Position": "15"
+    },
+    {
+        "Circuit ID": "marina_bay",
+        "Round": "18",
+        "Lap Number": "56",
+        "Driver ID": "zhou",
+        "Time": "1:38.309",
+        "Position": "15"
+    },
+    {
+        "Circuit ID": "marina_bay",
+        "Round": "18",
+        "Lap Number": "57",
+        "Driver ID": "zhou",
+        "Time": "1:37.875",
+        "Position": "15"
+    },
+    {
+        "Circuit ID": "marina_bay",
+        "Round": "18",
+        "Lap Number": "58",
+        "Driver ID": "zhou",
+        "Time": "1:37.758",
+        "Position": "15"
+    },
+    {
+        "Circuit ID": "marina_bay",
+        "Round": "18",
+        "Lap Number": "59",
+        "Driver ID": "zhou",
+        "Time": "1:37.759",
+        "Position": "15"
+    },
+    {
+        "Circuit ID": "marina_bay",
+        "Round": "18",
+        "Lap Number": "60",
+        "Driver ID": "zhou",
+        "Time": "1:39.830",
+        "Position": "15"
+    },
+    {
+        "Circuit ID": "marina_bay",
+        "Round": "18",
+        "Lap Number": "61",
+        "Driver ID": "zhou",
+        "Time": "1:38.975",
+        "Position": "15"
+    },
+    {
+        "Circuit ID": "marina_bay",
+        "Round": "18",
+        "Lap Number": "1",
+        "Driver ID": "bottas",
+        "Time": "1:53.361",
+        "Position": "19"
+    },
+    {
+        "Circuit ID": "marina_bay",
+        "Round": "18",
+        "Lap Number": "2",
+        "Driver ID": "bottas",
+        "Time": "1:41.165",
+        "Position": "19"
+    },
+    {
+        "Circuit ID": "marina_bay",
+        "Round": "18",
+        "Lap Number": "3",
+        "Driver ID": "bottas",
+        "Time": "1:40.651",
+        "Position": "19"
+    },
+    {
+        "Circuit ID": "marina_bay",
+        "Round": "18",
+        "Lap Number": "4",
+        "Driver ID": "bottas",
+        "Time": "1:40.126",
+        "Position": "19"
+    },
+    {
+        "Circuit ID": "marina_bay",
+        "Round": "18",
+        "Lap Number": "5",
+        "Driver ID": "bottas",
+        "Time": "1:39.848",
+        "Position": "19"
+    },
+    {
+        "Circuit ID": "marina_bay",
+        "Round": "18",
+        "Lap Number": "6",
+        "Driver ID": "bottas",
+        "Time": "1:42.474",
+        "Position": "20"
+    },
+    {
+        "Circuit ID": "marina_bay",
+        "Round": "18",
+        "Lap Number": "7",
+        "Driver ID": "bottas",
+        "Time": "1:40.283",
+        "Position": "20"
+    },
+    {
+        "Circuit ID": "marina_bay",
+        "Round": "18",
+        "Lap Number": "8",
+        "Driver ID": "bottas",
+        "Time": "1:40.319",
+        "Position": "20"
+    },
+    {
+        "Circuit ID": "marina_bay",
+        "Round": "18",
+        "Lap Number": "9",
+        "Driver ID": "bottas",
+        "Time": "1:39.859",
+        "Position": "20"
+    },
+    {
+        "Circuit ID": "marina_bay",
+        "Round": "18",
+        "Lap Number": "10",
+        "Driver ID": "bottas",
+        "Time": "1:39.914",
+        "Position": "20"
+    },
+    {
+        "Circuit ID": "marina_bay",
+        "Round": "18",
+        "Lap Number": "11",
+        "Driver ID": "bottas",
+        "Time": "1:40.009",
+        "Position": "19"
+    },
+    {
+        "Circuit ID": "marina_bay",
+        "Round": "18",
+        "Lap Number": "12",
+        "Driver ID": "bottas",
+        "Time": "1:40.044",
+        "Position": "18"
+    },
+    {
+        "Circuit ID": "marina_bay",
+        "Round": "18",
+        "Lap Number": "13",
+        "Driver ID": "bottas",
+        "Time": "1:40.007",
+        "Position": "18"
+    },
+    {
+        "Circuit ID": "marina_bay",
+        "Round": "18",
+        "Lap Number": "14",
+        "Driver ID": "bottas",
+        "Time": "1:39.879",
+        "Position": "17"
+    },
+    {
+        "Circuit ID": "marina_bay",
+        "Round": "18",
+        "Lap Number": "15",
+        "Driver ID": "bottas",
+        "Time": "1:39.404",
+        "Position": "17"
+    },
+    {
+        "Circuit ID": "marina_bay",
+        "Round": "18",
+        "Lap Number": "16",
+        "Driver ID": "bottas",
+        "Time": "1:39.706",
+        "Position": "17"
+    },
+    {
+        "Circuit ID": "marina_bay",
+        "Round": "18",
+        "Lap Number": "17",
+        "Driver ID": "bottas",
+        "Time": "1:41.626",
+        "Position": "18"
+    },
+    {
+        "Circuit ID": "marina_bay",
+        "Round": "18",
+        "Lap Number": "18",
+        "Driver ID": "bottas",
+        "Time": "1:40.278",
+        "Position": "18"
+    },
+    {
+        "Circuit ID": "marina_bay",
+        "Round": "18",
+        "Lap Number": "19",
+        "Driver ID": "bottas",
+        "Time": "1:40.180",
+        "Position": "18"
+    },
+    {
+        "Circuit ID": "marina_bay",
+        "Round": "18",
+        "Lap Number": "20",
+        "Driver ID": "bottas",
+        "Time": "1:40.404",
+        "Position": "18"
+    },
+    {
+        "Circuit ID": "marina_bay",
+        "Round": "18",
+        "Lap Number": "21",
+        "Driver ID": "bottas",
+        "Time": "1:39.985",
+        "Position": "18"
+    },
+    {
+        "Circuit ID": "marina_bay",
+        "Round": "18",
+        "Lap Number": "22",
+        "Driver ID": "bottas",
+        "Time": "1:39.661",
+        "Position": "18"
+    },
+    {
+        "Circuit ID": "marina_bay",
+        "Round": "18",
+        "Lap Number": "23",
+        "Driver ID": "bottas",
+        "Time": "1:40.115",
+        "Position": "18"
+    },
+    {
+        "Circuit ID": "marina_bay",
+        "Round": "18",
+        "Lap Number": "24",
+        "Driver ID": "bottas",
+        "Time": "1:39.916",
+        "Position": "18"
+    },
+    {
+        "Circuit ID": "marina_bay",
+        "Round": "18",
+        "Lap Number": "25",
+        "Driver ID": "bottas",
+        "Time": "1:40.085",
+        "Position": "18"
+    },
+    {
+        "Circuit ID": "marina_bay",
+        "Round": "18",
+        "Lap Number": "26",
+        "Driver ID": "bottas",
+        "Time": "1:40.156",
+        "Position": "17"
+    },
+    {
+        "Circuit ID": "marina_bay",
+        "Round": "18",
+        "Lap Number": "27",
+        "Driver ID": "bottas",
+        "Time": "1:40.272",
+        "Position": "17"
+    },
+    {
+        "Circuit ID": "marina_bay",
+        "Round": "18",
+        "Lap Number": "28",
+        "Driver ID": "bottas",
+        "Time": "1:40.242",
+        "Position": "17"
+    },
+    {
+        "Circuit ID": "marina_bay",
+        "Round": "18",
+        "Lap Number": "29",
+        "Driver ID": "bottas",
+        "Time": "1:42.061",
+        "Position": "17"
+    },
+    {
+        "Circuit ID": "marina_bay",
+        "Round": "18",
+        "Lap Number": "30",
+        "Driver ID": "bottas",
+        "Time": "1:40.933",
+        "Position": "16"
+    },
+    {
+        "Circuit ID": "marina_bay",
+        "Round": "18",
+        "Lap Number": "31",
+        "Driver ID": "bottas",
+        "Time": "1:40.974",
+        "Position": "16"
+    },
+    {
+        "Circuit ID": "marina_bay",
+        "Round": "18",
+        "Lap Number": "32",
+        "Driver ID": "bottas",
+        "Time": "1:40.831",
+        "Position": "16"
+    },
+    {
+        "Circuit ID": "marina_bay",
+        "Round": "18",
+        "Lap Number": "33",
+        "Driver ID": "bottas",
+        "Time": "1:48.688",
+        "Position": "18"
+    },
+    {
+        "Circuit ID": "marina_bay",
+        "Round": "18",
+        "Lap Number": "34",
+        "Driver ID": "bottas",
+        "Time": "1:59.526",
+        "Position": "19"
+    },
+    {
+        "Circuit ID": "marina_bay",
+        "Round": "18",
+        "Lap Number": "35",
+        "Driver ID": "bottas",
+        "Time": "1:39.292",
+        "Position": "19"
+    },
+    {
+        "Circuit ID": "marina_bay",
+        "Round": "18",
+        "Lap Number": "36",
+        "Driver ID": "bottas",
+        "Time": "1:39.076",
+        "Position": "19"
+    },
+    {
+        "Circuit ID": "marina_bay",
+        "Round": "18",
+        "Lap Number": "37",
+        "Driver ID": "bottas",
+        "Time": "1:38.311",
+        "Position": "19"
+    },
+    {
+        "Circuit ID": "marina_bay",
+        "Round": "18",
+        "Lap Number": "38",
+        "Driver ID": "bottas",
+        "Time": "1:38.364",
+        "Position": "18"
+    },
+    {
+        "Circuit ID": "marina_bay",
+        "Round": "18",
+        "Lap Number": "39",
+        "Driver ID": "bottas",
+        "Time": "1:38.287",
+        "Position": "18"
+    },
+    {
+        "Circuit ID": "marina_bay",
+        "Round": "18",
+        "Lap Number": "40",
+        "Driver ID": "bottas",
+        "Time": "1:38.107",
+        "Position": "18"
+    },
+    {
+        "Circuit ID": "marina_bay",
+        "Round": "18",
+        "Lap Number": "41",
+        "Driver ID": "bottas",
+        "Time": "1:40.019",
+        "Position": "18"
+    },
+    {
+        "Circuit ID": "marina_bay",
+        "Round": "18",
+        "Lap Number": "42",
+        "Driver ID": "bottas",
+        "Time": "1:37.986",
+        "Position": "18"
+    },
+    {
+        "Circuit ID": "marina_bay",
+        "Round": "18",
+        "Lap Number": "43",
+        "Driver ID": "bottas",
+        "Time": "1:37.988",
+        "Position": "18"
+    },
+    {
+        "Circuit ID": "marina_bay",
+        "Round": "18",
+        "Lap Number": "44",
+        "Driver ID": "bottas",
+        "Time": "1:37.755",
+        "Position": "18"
+    },
+    {
+        "Circuit ID": "marina_bay",
+        "Round": "18",
+        "Lap Number": "45",
+        "Driver ID": "bottas",
+        "Time": "1:37.897",
+        "Position": "18"
+    },
+    {
+        "Circuit ID": "marina_bay",
+        "Round": "18",
+        "Lap Number": "46",
+        "Driver ID": "bottas",
+        "Time": "1:37.524",
+        "Position": "18"
+    },
+    {
+        "Circuit ID": "marina_bay",
+        "Round": "18",
+        "Lap Number": "47",
+        "Driver ID": "bottas",
+        "Time": "1:38.235",
+        "Position": "17"
+    },
+    {
+        "Circuit ID": "marina_bay",
+        "Round": "18",
+        "Lap Number": "48",
+        "Driver ID": "bottas",
+        "Time": "1:38.500",
+        "Position": "17"
+    },
+    {
+        "Circuit ID": "marina_bay",
+        "Round": "18",
+        "Lap Number": "49",
+        "Driver ID": "bottas",
+        "Time": "1:38.523",
+        "Position": "16"
+    },
+    {
+        "Circuit ID": "marina_bay",
+        "Round": "18",
+        "Lap Number": "50",
+        "Driver ID": "bottas",
+        "Time": "1:38.642",
+        "Position": "16"
+    },
+    {
+        "Circuit ID": "marina_bay",
+        "Round": "18",
+        "Lap Number": "51",
+        "Driver ID": "bottas",
+        "Time": "1:38.274",
+        "Position": "16"
+    },
+    {
+        "Circuit ID": "marina_bay",
+        "Round": "18",
+        "Lap Number": "52",
+        "Driver ID": "bottas",
+        "Time": "1:38.148",
+        "Position": "16"
+    },
+    {
+        "Circuit ID": "marina_bay",
+        "Round": "18",
+        "Lap Number": "53",
+        "Driver ID": "bottas",
+        "Time": "1:39.736",
+        "Position": "16"
+    },
+    {
+        "Circuit ID": "marina_bay",
+        "Round": "18",
+        "Lap Number": "54",
+        "Driver ID": "bottas",
+        "Time": "1:38.340",
+        "Position": "16"
+    },
+    {
+        "Circuit ID": "marina_bay",
+        "Round": "18",
+        "Lap Number": "55",
+        "Driver ID": "bottas",
+        "Time": "1:38.195",
+        "Position": "16"
+    },
+    {
+        "Circuit ID": "marina_bay",
+        "Round": "18",
+        "Lap Number": "56",
+        "Driver ID": "bottas",
+        "Time": "1:38.163",
+        "Position": "16"
+    },
+    {
+        "Circuit ID": "marina_bay",
+        "Round": "18",
+        "Lap Number": "57",
+        "Driver ID": "bottas",
+        "Time": "1:37.941",
+        "Position": "16"
+    },
+    {
+        "Circuit ID": "marina_bay",
+        "Round": "18",
+        "Lap Number": "58",
+        "Driver ID": "bottas",
+        "Time": "1:37.859",
+        "Position": "16"
+    },
+    {
+        "Circuit ID": "marina_bay",
+        "Round": "18",
+        "Lap Number": "59",
+        "Driver ID": "bottas",
+        "Time": "1:38.364",
+        "Position": "16"
+    },
+    {
+        "Circuit ID": "marina_bay",
+        "Round": "18",
+        "Lap Number": "60",
+        "Driver ID": "bottas",
+        "Time": "1:39.121",
+        "Position": "16"
+    },
+    {
+        "Circuit ID": "marina_bay",
+        "Round": "18",
+        "Lap Number": "61",
+        "Driver ID": "bottas",
+        "Time": "1:38.771",
+        "Position": "16"
+    },
+    {
+        "Circuit ID": "marina_bay",
+        "Round": "18",
+        "Lap Number": "1",
+        "Driver ID": "gasly",
+        "Time": "1:51.981",
+        "Position": "17"
+    },
+    {
+        "Circuit ID": "marina_bay",
+        "Round": "18",
+        "Lap Number": "2",
+        "Driver ID": "gasly",
+        "Time": "1:40.948",
+        "Position": "17"
+    },
+    {
+        "Circuit ID": "marina_bay",
+        "Round": "18",
+        "Lap Number": "3",
+        "Driver ID": "gasly",
+        "Time": "1:40.394",
+        "Position": "17"
+    },
+    {
+        "Circuit ID": "marina_bay",
+        "Round": "18",
+        "Lap Number": "4",
+        "Driver ID": "gasly",
+        "Time": "1:39.479",
+        "Position": "17"
+    },
+    {
+        "Circuit ID": "marina_bay",
+        "Round": "18",
+        "Lap Number": "5",
+        "Driver ID": "gasly",
+        "Time": "1:39.582",
+        "Position": "17"
+    },
+    {
+        "Circuit ID": "marina_bay",
+        "Round": "18",
+        "Lap Number": "6",
+        "Driver ID": "gasly",
+        "Time": "1:39.724",
+        "Position": "17"
+    },
+    {
+        "Circuit ID": "marina_bay",
+        "Round": "18",
+        "Lap Number": "7",
+        "Driver ID": "gasly",
+        "Time": "1:39.621",
+        "Position": "17"
+    },
+    {
+        "Circuit ID": "marina_bay",
+        "Round": "18",
+        "Lap Number": "8",
+        "Driver ID": "gasly",
+        "Time": "1:39.663",
+        "Position": "17"
+    },
+    {
+        "Circuit ID": "marina_bay",
+        "Round": "18",
+        "Lap Number": "9",
+        "Driver ID": "gasly",
+        "Time": "1:40.929",
+        "Position": "17"
+    },
+    {
+        "Circuit ID": "marina_bay",
+        "Round": "18",
+        "Lap Number": "10",
+        "Driver ID": "gasly",
+        "Time": "1:39.488",
+        "Position": "16"
+    },
+    {
+        "Circuit ID": "marina_bay",
+        "Round": "18",
+        "Lap Number": "11",
+        "Driver ID": "gasly",
+        "Time": "1:39.263",
+        "Position": "15"
+    },
+    {
+        "Circuit ID": "marina_bay",
+        "Round": "18",
+        "Lap Number": "12",
+        "Driver ID": "gasly",
+        "Time": "1:39.234",
+        "Position": "15"
+    },
+    {
+        "Circuit ID": "marina_bay",
+        "Round": "18",
+        "Lap Number": "13",
+        "Driver ID": "gasly",
+        "Time": "1:39.315",
+        "Position": "15"
+    },
+    {
+        "Circuit ID": "marina_bay",
+        "Round": "18",
+        "Lap Number": "14",
+        "Driver ID": "gasly",
+        "Time": "1:39.340",
+        "Position": "14"
+    },
+    {
+        "Circuit ID": "marina_bay",
+        "Round": "18",
+        "Lap Number": "15",
+        "Driver ID": "gasly",
+        "Time": "1:39.491",
+        "Position": "14"
+    },
+    {
+        "Circuit ID": "marina_bay",
+        "Round": "18",
+        "Lap Number": "16",
+        "Driver ID": "gasly",
+        "Time": "1:39.178",
+        "Position": "14"
+    },
+    {
+        "Circuit ID": "marina_bay",
+        "Round": "18",
+        "Lap Number": "17",
+        "Driver ID": "gasly",
+        "Time": "1:39.106",
+        "Position": "14"
+    },
+    {
+        "Circuit ID": "marina_bay",
+        "Round": "18",
+        "Lap Number": "18",
+        "Driver ID": "gasly",
+        "Time": "1:39.980",
+        "Position": "14"
+    },
+    {
+        "Circuit ID": "marina_bay",
+        "Round": "18",
+        "Lap Number": "19",
+        "Driver ID": "gasly",
+        "Time": "1:39.619",
+        "Position": "14"
+    },
+    {
+        "Circuit ID": "marina_bay",
+        "Round": "18",
+        "Lap Number": "20",
+        "Driver ID": "gasly",
+        "Time": "1:39.776",
+        "Position": "14"
+    },
+    {
+        "Circuit ID": "marina_bay",
+        "Round": "18",
+        "Lap Number": "21",
+        "Driver ID": "gasly",
+        "Time": "1:39.529",
+        "Position": "14"
+    },
+    {
+        "Circuit ID": "marina_bay",
+        "Round": "18",
+        "Lap Number": "22",
+        "Driver ID": "gasly",
+        "Time": "1:39.831",
+        "Position": "14"
+    },
+    {
+        "Circuit ID": "marina_bay",
+        "Round": "18",
+        "Lap Number": "23",
+        "Driver ID": "gasly",
+        "Time": "1:40.239",
+        "Position": "14"
+    },
+    {
+        "Circuit ID": "marina_bay",
+        "Round": "18",
+        "Lap Number": "24",
+        "Driver ID": "gasly",
+        "Time": "1:40.166",
+        "Position": "14"
+    },
+    {
+        "Circuit ID": "marina_bay",
+        "Round": "18",
+        "Lap Number": "25",
+        "Driver ID": "gasly",
+        "Time": "1:41.407",
+        "Position": "15"
+    },
+    {
+        "Circuit ID": "marina_bay",
+        "Round": "18",
+        "Lap Number": "26",
+        "Driver ID": "gasly",
+        "Time": "1:40.906",
+        "Position": "14"
+    },
+    {
+        "Circuit ID": "marina_bay",
+        "Round": "18",
+        "Lap Number": "27",
+        "Driver ID": "gasly",
+        "Time": "1:41.737",
+        "Position": "15"
+    },
+    {
+        "Circuit ID": "marina_bay",
+        "Round": "18",
+        "Lap Number": "28",
+        "Driver ID": "gasly",
+        "Time": "1:41.081",
+        "Position": "14"
+    },
+    {
+        "Circuit ID": "marina_bay",
+        "Round": "18",
+        "Lap Number": "29",
+        "Driver ID": "gasly",
+        "Time": "1:40.484",
+        "Position": "12"
+    },
+    {
+        "Circuit ID": "marina_bay",
+        "Round": "18",
+        "Lap Number": "30",
+        "Driver ID": "gasly",
+        "Time": "1:43.135",
+        "Position": "12"
+    },
+    {
+        "Circuit ID": "marina_bay",
+        "Round": "18",
+        "Lap Number": "31",
+        "Driver ID": "gasly",
+        "Time": "1:43.156",
+        "Position": "13"
+    },
+    {
+        "Circuit ID": "marina_bay",
+        "Round": "18",
+        "Lap Number": "32",
+        "Driver ID": "gasly",
+        "Time": "1:40.685",
+        "Position": "13"
+    },
+    {
+        "Circuit ID": "marina_bay",
+        "Round": "18",
+        "Lap Number": "33",
+        "Driver ID": "gasly",
+        "Time": "1:40.261",
+        "Position": "13"
+    },
+    {
+        "Circuit ID": "marina_bay",
+        "Round": "18",
+        "Lap Number": "34",
+        "Driver ID": "gasly",
+        "Time": "1:40.822",
+        "Position": "12"
+    },
+    {
+        "Circuit ID": "marina_bay",
+        "Round": "18",
+        "Lap Number": "35",
+        "Driver ID": "gasly",
+        "Time": "1:40.699",
+        "Position": "12"
+    },
+    {
+        "Circuit ID": "marina_bay",
+        "Round": "18",
+        "Lap Number": "36",
+        "Driver ID": "gasly",
+        "Time": "1:42.881",
+        "Position": "13"
+    },
+    {
+        "Circuit ID": "marina_bay",
+        "Round": "18",
+        "Lap Number": "37",
+        "Driver ID": "gasly",
+        "Time": "1:52.264",
+        "Position": "17"
+    },
+    {
+        "Circuit ID": "marina_bay",
+        "Round": "18",
+        "Lap Number": "38",
+        "Driver ID": "gasly",
+        "Time": "2:01.644",
+        "Position": "19"
+    },
+    {
+        "Circuit ID": "marina_bay",
+        "Round": "18",
+        "Lap Number": "39",
+        "Driver ID": "gasly",
+        "Time": "1:38.029",
+        "Position": "19"
+    },
+    {
+        "Circuit ID": "marina_bay",
+        "Round": "18",
+        "Lap Number": "40",
+        "Driver ID": "gasly",
+        "Time": "1:37.823",
+        "Position": "19"
+    },
+    {
+        "Circuit ID": "marina_bay",
+        "Round": "18",
+        "Lap Number": "41",
+        "Driver ID": "gasly",
+        "Time": "1:37.562",
+        "Position": "19"
+    },
+    {
+        "Circuit ID": "marina_bay",
+        "Round": "18",
+        "Lap Number": "42",
+        "Driver ID": "gasly",
+        "Time": "1:37.328",
+        "Position": "19"
+    },
+    {
+        "Circuit ID": "marina_bay",
+        "Round": "18",
+        "Lap Number": "43",
+        "Driver ID": "gasly",
+        "Time": "1:37.638",
+        "Position": "19"
+    },
+    {
+        "Circuit ID": "marina_bay",
+        "Round": "18",
+        "Lap Number": "44",
+        "Driver ID": "gasly",
+        "Time": "1:37.130",
+        "Position": "19"
+    },
+    {
+        "Circuit ID": "marina_bay",
+        "Round": "18",
+        "Lap Number": "45",
+        "Driver ID": "gasly",
+        "Time": "1:37.149",
+        "Position": "19"
+    },
+    {
+        "Circuit ID": "marina_bay",
+        "Round": "18",
+        "Lap Number": "46",
+        "Driver ID": "gasly",
+        "Time": "1:36.927",
+        "Position": "19"
+    },
+    {
+        "Circuit ID": "marina_bay",
+        "Round": "18",
+        "Lap Number": "47",
+        "Driver ID": "gasly",
+        "Time": "1:37.995",
+        "Position": "18"
+    },
+    {
+        "Circuit ID": "marina_bay",
+        "Round": "18",
+        "Lap Number": "48",
+        "Driver ID": "gasly",
+        "Time": "1:37.328",
+        "Position": "18"
+    },
+    {
+        "Circuit ID": "marina_bay",
+        "Round": "18",
+        "Lap Number": "49",
+        "Driver ID": "gasly",
+        "Time": "1:38.000",
+        "Position": "17"
+    },
+    {
+        "Circuit ID": "marina_bay",
+        "Round": "18",
+        "Lap Number": "50",
+        "Driver ID": "gasly",
+        "Time": "1:37.971",
+        "Position": "17"
+    },
+    {
+        "Circuit ID": "marina_bay",
+        "Round": "18",
+        "Lap Number": "51",
+        "Driver ID": "gasly",
+        "Time": "1:38.948",
+        "Position": "17"
+    },
+    {
+        "Circuit ID": "marina_bay",
+        "Round": "18",
+        "Lap Number": "52",
+        "Driver ID": "gasly",
+        "Time": "1:38.652",
+        "Position": "17"
+    },
+    {
+        "Circuit ID": "marina_bay",
+        "Round": "18",
+        "Lap Number": "53",
+        "Driver ID": "gasly",
+        "Time": "1:38.692",
+        "Position": "17"
+    },
+    {
+        "Circuit ID": "marina_bay",
+        "Round": "18",
+        "Lap Number": "54",
+        "Driver ID": "gasly",
+        "Time": "1:38.591",
+        "Position": "17"
+    },
+    {
+        "Circuit ID": "marina_bay",
+        "Round": "18",
+        "Lap Number": "55",
+        "Driver ID": "gasly",
+        "Time": "1:37.972",
+        "Position": "17"
+    },
+    {
+        "Circuit ID": "marina_bay",
+        "Round": "18",
+        "Lap Number": "56",
+        "Driver ID": "gasly",
+        "Time": "1:40.387",
+        "Position": "17"
+    },
+    {
+        "Circuit ID": "marina_bay",
+        "Round": "18",
+        "Lap Number": "57",
+        "Driver ID": "gasly",
+        "Time": "1:37.416",
+        "Position": "17"
+    },
+    {
+        "Circuit ID": "marina_bay",
+        "Round": "18",
+        "Lap Number": "58",
+        "Driver ID": "gasly",
+        "Time": "1:37.621",
+        "Position": "17"
+    },
+    {
+        "Circuit ID": "marina_bay",
+        "Round": "18",
+        "Lap Number": "59",
+        "Driver ID": "gasly",
+        "Time": "1:37.746",
+        "Position": "17"
+    },
+    {
+        "Circuit ID": "marina_bay",
+        "Round": "18",
+        "Lap Number": "60",
+        "Driver ID": "gasly",
+        "Time": "1:38.189",
+        "Position": "17"
+    },
+    {
+        "Circuit ID": "marina_bay",
+        "Round": "18",
+        "Lap Number": "61",
+        "Driver ID": "gasly",
+        "Time": "1:39.498",
+        "Position": "17"
+    },
+    {
+        "Circuit ID": "marina_bay",
+        "Round": "18",
+        "Lap Number": "1",
+        "Driver ID": "ricciardo",
+        "Time": "1:51.319",
+        "Position": "16"
+    },
+    {
+        "Circuit ID": "marina_bay",
+        "Round": "18",
+        "Lap Number": "2",
+        "Driver ID": "ricciardo",
+        "Time": "1:40.947",
+        "Position": "16"
+    },
+    {
+        "Circuit ID": "marina_bay",
+        "Round": "18",
+        "Lap Number": "3",
+        "Driver ID": "ricciardo",
+        "Time": "1:40.057",
+        "Position": "16"
+    },
+    {
+        "Circuit ID": "marina_bay",
+        "Round": "18",
+        "Lap Number": "4",
+        "Driver ID": "ricciardo",
+        "Time": "1:39.545",
+        "Position": "16"
+    },
+    {
+        "Circuit ID": "marina_bay",
+        "Round": "18",
+        "Lap Number": "5",
+        "Driver ID": "ricciardo",
+        "Time": "1:39.585",
+        "Position": "16"
+    },
+    {
+        "Circuit ID": "marina_bay",
+        "Round": "18",
+        "Lap Number": "6",
+        "Driver ID": "ricciardo",
+        "Time": "1:39.223",
+        "Position": "16"
+    },
+    {
+        "Circuit ID": "marina_bay",
+        "Round": "18",
+        "Lap Number": "7",
+        "Driver ID": "ricciardo",
+        "Time": "1:39.598",
+        "Position": "16"
+    },
+    {
+        "Circuit ID": "marina_bay",
+        "Round": "18",
+        "Lap Number": "8",
+        "Driver ID": "ricciardo",
+        "Time": "1:39.615",
+        "Position": "16"
+    },
+    {
+        "Circuit ID": "marina_bay",
+        "Round": "18",
+        "Lap Number": "9",
+        "Driver ID": "ricciardo",
+        "Time": "1:39.598",
+        "Position": "16"
+    },
+    {
+        "Circuit ID": "marina_bay",
+        "Round": "18",
+        "Lap Number": "10",
+        "Driver ID": "ricciardo",
+        "Time": "1:47.680",
+        "Position": "19"
+    },
+    {
+        "Circuit ID": "marina_bay",
+        "Round": "18",
+        "Lap Number": "11",
+        "Driver ID": "ricciardo",
+        "Time": "2:00.481",
+        "Position": "20"
+    },
+    {
+        "Circuit ID": "marina_bay",
+        "Round": "18",
+        "Lap Number": "12",
+        "Driver ID": "ricciardo",
+        "Time": "1:38.589",
+        "Position": "20"
+    },
+    {
+        "Circuit ID": "marina_bay",
+        "Round": "18",
+        "Lap Number": "13",
+        "Driver ID": "ricciardo",
+        "Time": "1:38.644",
+        "Position": "20"
+    },
+    {
+        "Circuit ID": "marina_bay",
+        "Round": "18",
+        "Lap Number": "14",
+        "Driver ID": "ricciardo",
+        "Time": "1:38.660",
+        "Position": "20"
+    },
+    {
+        "Circuit ID": "marina_bay",
+        "Round": "18",
+        "Lap Number": "15",
+        "Driver ID": "ricciardo",
+        "Time": "1:38.774",
+        "Position": "19"
+    },
+    {
+        "Circuit ID": "marina_bay",
+        "Round": "18",
+        "Lap Number": "16",
+        "Driver ID": "ricciardo",
+        "Time": "1:38.420",
+        "Position": "19"
+    },
+    {
+        "Circuit ID": "marina_bay",
+        "Round": "18",
+        "Lap Number": "17",
+        "Driver ID": "ricciardo",
+        "Time": "1:38.406",
+        "Position": "19"
+    },
+    {
+        "Circuit ID": "marina_bay",
+        "Round": "18",
+        "Lap Number": "18",
+        "Driver ID": "ricciardo",
+        "Time": "1:38.261",
+        "Position": "19"
+    },
+    {
+        "Circuit ID": "marina_bay",
+        "Round": "18",
+        "Lap Number": "19",
+        "Driver ID": "ricciardo",
+        "Time": "1:38.639",
+        "Position": "19"
+    },
+    {
+        "Circuit ID": "marina_bay",
+        "Round": "18",
+        "Lap Number": "20",
+        "Driver ID": "ricciardo",
+        "Time": "1:38.892",
+        "Position": "19"
+    },
+    {
+        "Circuit ID": "marina_bay",
+        "Round": "18",
+        "Lap Number": "21",
+        "Driver ID": "ricciardo",
+        "Time": "1:38.801",
+        "Position": "19"
+    },
+    {
+        "Circuit ID": "marina_bay",
+        "Round": "18",
+        "Lap Number": "22",
+        "Driver ID": "ricciardo",
+        "Time": "1:38.625",
+        "Position": "19"
+    },
+    {
+        "Circuit ID": "marina_bay",
+        "Round": "18",
+        "Lap Number": "23",
+        "Driver ID": "ricciardo",
+        "Time": "1:38.992",
+        "Position": "19"
+    },
+    {
+        "Circuit ID": "marina_bay",
+        "Round": "18",
+        "Lap Number": "24",
+        "Driver ID": "ricciardo",
+        "Time": "1:39.074",
+        "Position": "19"
+    },
+    {
+        "Circuit ID": "marina_bay",
+        "Round": "18",
+        "Lap Number": "25",
+        "Driver ID": "ricciardo",
+        "Time": "1:39.495",
+        "Position": "19"
+    },
+    {
+        "Circuit ID": "marina_bay",
+        "Round": "18",
+        "Lap Number": "26",
+        "Driver ID": "ricciardo",
+        "Time": "1:40.181",
+        "Position": "18"
+    },
+    {
+        "Circuit ID": "marina_bay",
+        "Round": "18",
+        "Lap Number": "27",
+        "Driver ID": "ricciardo",
+        "Time": "1:40.285",
+        "Position": "18"
+    },
+    {
+        "Circuit ID": "marina_bay",
+        "Round": "18",
+        "Lap Number": "28",
+        "Driver ID": "ricciardo",
+        "Time": "1:40.194",
+        "Position": "18"
+    },
+    {
+        "Circuit ID": "marina_bay",
+        "Round": "18",
+        "Lap Number": "29",
+        "Driver ID": "ricciardo",
+        "Time": "1:39.251",
+        "Position": "16"
+    },
+    {
+        "Circuit ID": "marina_bay",
+        "Round": "18",
+        "Lap Number": "30",
+        "Driver ID": "ricciardo",
+        "Time": "1:39.563",
+        "Position": "15"
+    },
+    {
+        "Circuit ID": "marina_bay",
+        "Round": "18",
+        "Lap Number": "31",
+        "Driver ID": "ricciardo",
+        "Time": "1:41.160",
+        "Position": "14"
+    },
+    {
+        "Circuit ID": "marina_bay",
+        "Round": "18",
+        "Lap Number": "32",
+        "Driver ID": "ricciardo",
+        "Time": "1:39.528",
+        "Position": "14"
+    },
+    {
+        "Circuit ID": "marina_bay",
+        "Round": "18",
+        "Lap Number": "33",
+        "Driver ID": "ricciardo",
+        "Time": "1:39.378",
+        "Position": "14"
+    },
+    {
+        "Circuit ID": "marina_bay",
+        "Round": "18",
+        "Lap Number": "34",
+        "Driver ID": "ricciardo",
+        "Time": "1:40.561",
+        "Position": "13"
+    },
+    {
+        "Circuit ID": "marina_bay",
+        "Round": "18",
+        "Lap Number": "35",
+        "Driver ID": "ricciardo",
+        "Time": "1:40.666",
+        "Position": "13"
+    },
+    {
+        "Circuit ID": "marina_bay",
+        "Round": "18",
+        "Lap Number": "36",
+        "Driver ID": "ricciardo",
+        "Time": "1:40.011",
+        "Position": "12"
+    },
+    {
+        "Circuit ID": "marina_bay",
+        "Round": "18",
+        "Lap Number": "37",
+        "Driver ID": "ricciardo",
+        "Time": "1:38.639",
+        "Position": "12"
+    },
+    {
+        "Circuit ID": "marina_bay",
+        "Round": "18",
+        "Lap Number": "38",
+        "Driver ID": "ricciardo",
+        "Time": "1:38.286",
+        "Position": "12"
+    },
+    {
+        "Circuit ID": "marina_bay",
+        "Round": "18",
+        "Lap Number": "39",
+        "Driver ID": "ricciardo",
+        "Time": "1:38.564",
+        "Position": "12"
+    },
+    {
+        "Circuit ID": "marina_bay",
+        "Round": "18",
+        "Lap Number": "40",
+        "Driver ID": "ricciardo",
+        "Time": "1:38.602",
+        "Position": "12"
+    },
+    {
+        "Circuit ID": "marina_bay",
+        "Round": "18",
+        "Lap Number": "41",
+        "Driver ID": "ricciardo",
+        "Time": "1:41.769",
+        "Position": "13"
+    },
+    {
+        "Circuit ID": "marina_bay",
+        "Round": "18",
+        "Lap Number": "42",
+        "Driver ID": "ricciardo",
+        "Time": "1:41.223",
+        "Position": "13"
+    },
+    {
+        "Circuit ID": "marina_bay",
+        "Round": "18",
+        "Lap Number": "43",
+        "Driver ID": "ricciardo",
+        "Time": "1:39.045",
+        "Position": "13"
+    },
+    {
+        "Circuit ID": "marina_bay",
+        "Round": "18",
+        "Lap Number": "44",
+        "Driver ID": "ricciardo",
+        "Time": "1:38.963",
+        "Position": "13"
+    },
+    {
+        "Circuit ID": "marina_bay",
+        "Round": "18",
+        "Lap Number": "45",
+        "Driver ID": "ricciardo",
+        "Time": "1:43.383",
+        "Position": "15"
+    },
+    {
+        "Circuit ID": "marina_bay",
+        "Round": "18",
+        "Lap Number": "46",
+        "Driver ID": "ricciardo",
+        "Time": "1:50.550",
+        "Position": "16"
+    },
+    {
+        "Circuit ID": "marina_bay",
+        "Round": "18",
+        "Lap Number": "47",
+        "Driver ID": "ricciardo",
+        "Time": "1:59.494",
+        "Position": "19"
+    },
+    {
+        "Circuit ID": "marina_bay",
+        "Round": "18",
+        "Lap Number": "48",
+        "Driver ID": "ricciardo",
+        "Time": "1:37.010",
+        "Position": "19"
+    },
+    {
+        "Circuit ID": "marina_bay",
+        "Round": "18",
+        "Lap Number": "49",
+        "Driver ID": "ricciardo",
+        "Time": "1:37.411",
+        "Position": "18"
+    },
+    {
+        "Circuit ID": "marina_bay",
+        "Round": "18",
+        "Lap Number": "50",
+        "Driver ID": "ricciardo",
+        "Time": "1:37.247",
+        "Position": "18"
+    },
+    {
+        "Circuit ID": "marina_bay",
+        "Round": "18",
+        "Lap Number": "51",
+        "Driver ID": "ricciardo",
+        "Time": "1:36.765",
+        "Position": "18"
+    },
+    {
+        "Circuit ID": "marina_bay",
+        "Round": "18",
+        "Lap Number": "52",
+        "Driver ID": "ricciardo",
+        "Time": "1:37.348",
+        "Position": "18"
+    },
+    {
+        "Circuit ID": "marina_bay",
+        "Round": "18",
+        "Lap Number": "53",
+        "Driver ID": "ricciardo",
+        "Time": "1:37.382",
+        "Position": "18"
+    },
+    {
+        "Circuit ID": "marina_bay",
+        "Round": "18",
+        "Lap Number": "54",
+        "Driver ID": "ricciardo",
+        "Time": "1:40.450",
+        "Position": "18"
+    },
+    {
+        "Circuit ID": "marina_bay",
+        "Round": "18",
+        "Lap Number": "55",
+        "Driver ID": "ricciardo",
+        "Time": "1:38.263",
+        "Position": "18"
+    },
+    {
+        "Circuit ID": "marina_bay",
+        "Round": "18",
+        "Lap Number": "56",
+        "Driver ID": "ricciardo",
+        "Time": "1:37.061",
+        "Position": "18"
+    },
+    {
+        "Circuit ID": "marina_bay",
+        "Round": "18",
+        "Lap Number": "57",
+        "Driver ID": "ricciardo",
+        "Time": "1:36.357",
+        "Position": "18"
+    },
+    {
+        "Circuit ID": "marina_bay",
+        "Round": "18",
+        "Lap Number": "58",
+        "Driver ID": "ricciardo",
+        "Time": "1:44.940",
+        "Position": "18"
+    },
+    {
+        "Circuit ID": "marina_bay",
+        "Round": "18",
+        "Lap Number": "59",
+        "Driver ID": "ricciardo",
+        "Time": "1:58.881",
+        "Position": "18"
+    },
+    {
+        "Circuit ID": "marina_bay",
+        "Round": "18",
+        "Lap Number": "60",
+        "Driver ID": "ricciardo",
+        "Time": "1:34.486",
+        "Position": "18"
+    },
+    {
+        "Circuit ID": "marina_bay",
+        "Round": "18",
+        "Lap Number": "61",
+        "Driver ID": "ricciardo",
+        "Time": "1:39.550",
+        "Position": "18"
+    },
+    {
+        "Circuit ID": "marina_bay",
+        "Round": "18",
+        "Lap Number": "1",
+        "Driver ID": "kevin_magnussen",
+        "Time": "1:50.409",
+        "Position": "14"
+    },
+    {
+        "Circuit ID": "marina_bay",
+        "Round": "18",
+        "Lap Number": "2",
+        "Driver ID": "kevin_magnussen",
+        "Time": "1:40.386",
+        "Position": "14"
+    },
+    {
+        "Circuit ID": "marina_bay",
+        "Round": "18",
+        "Lap Number": "3",
+        "Driver ID": "kevin_magnussen",
+        "Time": "1:39.696",
+        "Position": "14"
+    },
+    {
+        "Circuit ID": "marina_bay",
+        "Round": "18",
+        "Lap Number": "4",
+        "Driver ID": "kevin_magnussen",
+        "Time": "1:39.489",
+        "Position": "14"
+    },
+    {
+        "Circuit ID": "marina_bay",
+        "Round": "18",
+        "Lap Number": "5",
+        "Driver ID": "kevin_magnussen",
+        "Time": "1:38.948",
+        "Position": "14"
+    },
+    {
+        "Circuit ID": "marina_bay",
+        "Round": "18",
+        "Lap Number": "6",
+        "Driver ID": "kevin_magnussen",
+        "Time": "1:39.467",
+        "Position": "14"
+    },
+    {
+        "Circuit ID": "marina_bay",
+        "Round": "18",
+        "Lap Number": "7",
+        "Driver ID": "kevin_magnussen",
+        "Time": "1:39.156",
+        "Position": "14"
+    },
+    {
+        "Circuit ID": "marina_bay",
+        "Round": "18",
+        "Lap Number": "8",
+        "Driver ID": "kevin_magnussen",
+        "Time": "1:39.436",
+        "Position": "14"
+    },
+    {
+        "Circuit ID": "marina_bay",
+        "Round": "18",
+        "Lap Number": "9",
+        "Driver ID": "kevin_magnussen",
+        "Time": "1:39.858",
+        "Position": "14"
+    },
+    {
+        "Circuit ID": "marina_bay",
+        "Round": "18",
+        "Lap Number": "10",
+        "Driver ID": "kevin_magnussen",
+        "Time": "1:39.263",
+        "Position": "14"
+    },
+    {
+        "Circuit ID": "marina_bay",
+        "Round": "18",
+        "Lap Number": "11",
+        "Driver ID": "kevin_magnussen",
+        "Time": "1:39.735",
+        "Position": "14"
+    },
+    {
+        "Circuit ID": "marina_bay",
+        "Round": "18",
+        "Lap Number": "12",
+        "Driver ID": "kevin_magnussen",
+        "Time": "1:39.708",
+        "Position": "14"
+    },
+    {
+        "Circuit ID": "marina_bay",
+        "Round": "18",
+        "Lap Number": "13",
+        "Driver ID": "kevin_magnussen",
+        "Time": "1:39.637",
+        "Position": "13"
+    },
+    {
+        "Circuit ID": "marina_bay",
+        "Round": "18",
+        "Lap Number": "14",
+        "Driver ID": "kevin_magnussen",
+        "Time": "1:39.568",
+        "Position": "13"
+    },
+    {
+        "Circuit ID": "marina_bay",
+        "Round": "18",
+        "Lap Number": "15",
+        "Driver ID": "kevin_magnussen",
+        "Time": "1:39.385",
+        "Position": "13"
+    },
+    {
+        "Circuit ID": "marina_bay",
+        "Round": "18",
+        "Lap Number": "16",
+        "Driver ID": "kevin_magnussen",
+        "Time": "1:39.274",
+        "Position": "13"
+    },
+    {
+        "Circuit ID": "marina_bay",
+        "Round": "18",
+        "Lap Number": "17",
+        "Driver ID": "kevin_magnussen",
+        "Time": "1:39.441",
+        "Position": "13"
+    },
+    {
+        "Circuit ID": "marina_bay",
+        "Round": "18",
+        "Lap Number": "18",
+        "Driver ID": "kevin_magnussen",
+        "Time": "1:39.706",
+        "Position": "12"
+    },
+    {
+        "Circuit ID": "marina_bay",
+        "Round": "18",
+        "Lap Number": "19",
+        "Driver ID": "kevin_magnussen",
+        "Time": "1:40.700",
+        "Position": "13"
+    },
+    {
+        "Circuit ID": "marina_bay",
+        "Round": "18",
+        "Lap Number": "20",
+        "Driver ID": "kevin_magnussen",
+        "Time": "1:40.283",
+        "Position": "13"
+    },
+    {
+        "Circuit ID": "marina_bay",
+        "Round": "18",
+        "Lap Number": "21",
+        "Driver ID": "kevin_magnussen",
+        "Time": "1:40.483",
+        "Position": "13"
+    },
+    {
+        "Circuit ID": "marina_bay",
+        "Round": "18",
+        "Lap Number": "22",
+        "Driver ID": "kevin_magnussen",
+        "Time": "1:40.347",
+        "Position": "13"
+    },
+    {
+        "Circuit ID": "marina_bay",
+        "Round": "18",
+        "Lap Number": "23",
+        "Driver ID": "kevin_magnussen",
+        "Time": "1:40.303",
+        "Position": "13"
+    },
+    {
+        "Circuit ID": "marina_bay",
+        "Round": "18",
+        "Lap Number": "24",
+        "Driver ID": "kevin_magnussen",
+        "Time": "1:40.508",
+        "Position": "13"
+    },
+    {
+        "Circuit ID": "marina_bay",
+        "Round": "18",
+        "Lap Number": "25",
+        "Driver ID": "kevin_magnussen",
+        "Time": "1:40.389",
+        "Position": "13"
+    },
+    {
+        "Circuit ID": "marina_bay",
+        "Round": "18",
+        "Lap Number": "26",
+        "Driver ID": "kevin_magnussen",
+        "Time": "1:42.209",
+        "Position": "13"
+    },
+    {
+        "Circuit ID": "marina_bay",
+        "Round": "18",
+        "Lap Number": "27",
+        "Driver ID": "kevin_magnussen",
+        "Time": "1:40.970",
+        "Position": "13"
+    },
+    {
+        "Circuit ID": "marina_bay",
+        "Round": "18",
+        "Lap Number": "28",
+        "Driver ID": "kevin_magnussen",
+        "Time": "1:49.569",
+        "Position": "16"
+    },
+    {
+        "Circuit ID": "marina_bay",
+        "Round": "18",
+        "Lap Number": "29",
+        "Driver ID": "kevin_magnussen",
+        "Time": "1:59.915",
+        "Position": "18"
+    },
+    {
+        "Circuit ID": "marina_bay",
+        "Round": "18",
+        "Lap Number": "30",
+        "Driver ID": "kevin_magnussen",
+        "Time": "1:38.131",
+        "Position": "18"
+    },
+    {
+        "Circuit ID": "marina_bay",
+        "Round": "18",
+        "Lap Number": "31",
+        "Driver ID": "kevin_magnussen",
+        "Time": "1:38.206",
+        "Position": "18"
+    },
+    {
+        "Circuit ID": "marina_bay",
+        "Round": "18",
+        "Lap Number": "32",
+        "Driver ID": "kevin_magnussen",
+        "Time": "1:38.472",
+        "Position": "18"
+    },
+    {
+        "Circuit ID": "marina_bay",
+        "Round": "18",
+        "Lap Number": "33",
+        "Driver ID": "kevin_magnussen",
+        "Time": "1:38.360",
+        "Position": "17"
+    },
+    {
+        "Circuit ID": "marina_bay",
+        "Round": "18",
+        "Lap Number": "34",
+        "Driver ID": "kevin_magnussen",
+        "Time": "1:37.926",
+        "Position": "16"
+    },
+    {
+        "Circuit ID": "marina_bay",
+        "Round": "18",
+        "Lap Number": "35",
+        "Driver ID": "kevin_magnussen",
+        "Time": "1:38.293",
+        "Position": "16"
+    },
+    {
+        "Circuit ID": "marina_bay",
+        "Round": "18",
+        "Lap Number": "36",
+        "Driver ID": "kevin_magnussen",
+        "Time": "1:38.536",
+        "Position": "16"
+    },
+    {
+        "Circuit ID": "marina_bay",
+        "Round": "18",
+        "Lap Number": "37",
+        "Driver ID": "kevin_magnussen",
+        "Time": "1:40.825",
+        "Position": "15"
+    },
+    {
+        "Circuit ID": "marina_bay",
+        "Round": "18",
+        "Lap Number": "38",
+        "Driver ID": "kevin_magnussen",
+        "Time": "1:38.615",
+        "Position": "15"
+    },
+    {
+        "Circuit ID": "marina_bay",
+        "Round": "18",
+        "Lap Number": "39",
+        "Driver ID": "kevin_magnussen",
+        "Time": "1:38.560",
+        "Position": "15"
+    },
+    {
+        "Circuit ID": "marina_bay",
+        "Round": "18",
+        "Lap Number": "40",
+        "Driver ID": "kevin_magnussen",
+        "Time": "1:39.835",
+        "Position": "15"
+    },
+    {
+        "Circuit ID": "marina_bay",
+        "Round": "18",
+        "Lap Number": "41",
+        "Driver ID": "kevin_magnussen",
+        "Time": "1:38.197",
+        "Position": "15"
+    },
+    {
+        "Circuit ID": "marina_bay",
+        "Round": "18",
+        "Lap Number": "42",
+        "Driver ID": "kevin_magnussen",
+        "Time": "1:38.166",
+        "Position": "15"
+    },
+    {
+        "Circuit ID": "marina_bay",
+        "Round": "18",
+        "Lap Number": "43",
+        "Driver ID": "kevin_magnussen",
+        "Time": "1:38.083",
+        "Position": "15"
+    },
+    {
+        "Circuit ID": "marina_bay",
+        "Round": "18",
+        "Lap Number": "44",
+        "Driver ID": "kevin_magnussen",
+        "Time": "1:38.812",
+        "Position": "15"
+    },
+    {
+        "Circuit ID": "marina_bay",
+        "Round": "18",
+        "Lap Number": "45",
+        "Driver ID": "kevin_magnussen",
+        "Time": "1:40.315",
+        "Position": "14"
+    },
+    {
+        "Circuit ID": "marina_bay",
+        "Round": "18",
+        "Lap Number": "46",
+        "Driver ID": "kevin_magnussen",
+        "Time": "1:38.655",
+        "Position": "14"
+    },
+    {
+        "Circuit ID": "marina_bay",
+        "Round": "18",
+        "Lap Number": "47",
+        "Driver ID": "kevin_magnussen",
+        "Time": "1:38.264",
+        "Position": "14"
+    },
+    {
+        "Circuit ID": "marina_bay",
+        "Round": "18",
+        "Lap Number": "48",
+        "Driver ID": "kevin_magnussen",
+        "Time": "1:38.204",
+        "Position": "14"
+    },
+    {
+        "Circuit ID": "marina_bay",
+        "Round": "18",
+        "Lap Number": "49",
+        "Driver ID": "kevin_magnussen",
+        "Time": "2:50.660",
+        "Position": "19"
+    },
+    {
+        "Circuit ID": "marina_bay",
+        "Round": "18",
+        "Lap Number": "50",
+        "Driver ID": "kevin_magnussen",
+        "Time": "2:14.785",
+        "Position": "19"
+    },
+    {
+        "Circuit ID": "marina_bay",
+        "Round": "18",
+        "Lap Number": "51",
+        "Driver ID": "kevin_magnussen",
+        "Time": "1:34.754",
+        "Position": "19"
+    },
+    {
+        "Circuit ID": "marina_bay",
+        "Round": "18",
+        "Lap Number": "52",
+        "Driver ID": "kevin_magnussen",
+        "Time": "1:37.425",
+        "Position": "19"
+    },
+    {
+        "Circuit ID": "marina_bay",
+        "Round": "18",
+        "Lap Number": "53",
+        "Driver ID": "kevin_magnussen",
+        "Time": "1:38.089",
+        "Position": "19"
+    },
+    {
+        "Circuit ID": "marina_bay",
+        "Round": "18",
+        "Lap Number": "54",
+        "Driver ID": "kevin_magnussen",
+        "Time": "1:38.134",
+        "Position": "19"
+    },
+    {
+        "Circuit ID": "marina_bay",
+        "Round": "18",
+        "Lap Number": "55",
+        "Driver ID": "kevin_magnussen",
+        "Time": "1:38.526",
+        "Position": "19"
+    },
+    {
+        "Circuit ID": "marina_bay",
+        "Round": "18",
+        "Lap Number": "56",
+        "Driver ID": "kevin_magnussen",
+        "Time": "1:38.431",
+        "Position": "19"
+    },
+    {
+        "Circuit ID": "marina_bay",
+        "Round": "18",
+        "Lap Number": "57",
+        "Driver ID": "kevin_magnussen",
+        "Time": "1:48.409",
+        "Position": "19"
+    },
+    {
+        "Circuit ID": "marina_bay",
+        "Round": "18",
+        "Lap Number": "1",
+        "Driver ID": "albon",
+        "Time": "1:50.771",
+        "Position": "15"
+    },
+    {
+        "Circuit ID": "marina_bay",
+        "Round": "18",
+        "Lap Number": "2",
+        "Driver ID": "albon",
+        "Time": "1:40.750",
+        "Position": "15"
+    },
+    {
+        "Circuit ID": "marina_bay",
+        "Round": "18",
+        "Lap Number": "3",
+        "Driver ID": "albon",
+        "Time": "1:39.762",
+        "Position": "15"
+    },
+    {
+        "Circuit ID": "marina_bay",
+        "Round": "18",
+        "Lap Number": "4",
+        "Driver ID": "albon",
+        "Time": "1:39.285",
+        "Position": "15"
+    },
+    {
+        "Circuit ID": "marina_bay",
+        "Round": "18",
+        "Lap Number": "5",
+        "Driver ID": "albon",
+        "Time": "1:39.252",
+        "Position": "15"
+    },
+    {
+        "Circuit ID": "marina_bay",
+        "Round": "18",
+        "Lap Number": "6",
+        "Driver ID": "albon",
+        "Time": "1:39.267",
+        "Position": "15"
+    },
+    {
+        "Circuit ID": "marina_bay",
+        "Round": "18",
+        "Lap Number": "7",
+        "Driver ID": "albon",
+        "Time": "1:39.039",
+        "Position": "15"
+    },
+    {
+        "Circuit ID": "marina_bay",
+        "Round": "18",
+        "Lap Number": "8",
+        "Driver ID": "albon",
+        "Time": "1:39.316",
+        "Position": "15"
+    },
+    {
+        "Circuit ID": "marina_bay",
+        "Round": "18",
+        "Lap Number": "9",
+        "Driver ID": "albon",
+        "Time": "1:39.767",
+        "Position": "15"
+    },
+    {
+        "Circuit ID": "marina_bay",
+        "Round": "18",
+        "Lap Number": "10",
+        "Driver ID": "albon",
+        "Time": "1:39.896",
+        "Position": "15"
+    },
+    {
+        "Circuit ID": "marina_bay",
+        "Round": "18",
+        "Lap Number": "11",
+        "Driver ID": "albon",
+        "Time": "1:46.666",
+        "Position": "17"
+    },
+    {
+        "Circuit ID": "marina_bay",
+        "Round": "18",
+        "Lap Number": "12",
+        "Driver ID": "albon",
+        "Time": "1:58.026",
+        "Position": "19"
+    },
+    {
+        "Circuit ID": "marina_bay",
+        "Round": "18",
+        "Lap Number": "13",
+        "Driver ID": "albon",
+        "Time": "1:36.888",
+        "Position": "19"
+    },
+    {
+        "Circuit ID": "marina_bay",
+        "Round": "18",
+        "Lap Number": "14",
+        "Driver ID": "albon",
+        "Time": "1:38.740",
+        "Position": "19"
+    },
+    {
+        "Circuit ID": "marina_bay",
+        "Round": "18",
+        "Lap Number": "15",
+        "Driver ID": "albon",
+        "Time": "2:13.278",
+        "Position": "20"
+    }
+]

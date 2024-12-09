@@ -1,0 +1,4618 @@
+[
+    {
+        "Circuit ID": "spa",
+        "Round": "14",
+        "Lap Number": "1",
+        "Driver ID": "hamilton",
+        "Time": "1:52.700",
+        "Position": "2"
+    },
+    {
+        "Circuit ID": "spa",
+        "Round": "14",
+        "Lap Number": "2",
+        "Driver ID": "hamilton",
+        "Time": "1:49.849",
+        "Position": "2"
+    },
+    {
+        "Circuit ID": "spa",
+        "Round": "14",
+        "Lap Number": "3",
+        "Driver ID": "hamilton",
+        "Time": "1:49.109",
+        "Position": "1"
+    },
+    {
+        "Circuit ID": "spa",
+        "Round": "14",
+        "Lap Number": "4",
+        "Driver ID": "hamilton",
+        "Time": "1:49.808",
+        "Position": "1"
+    },
+    {
+        "Circuit ID": "spa",
+        "Round": "14",
+        "Lap Number": "5",
+        "Driver ID": "hamilton",
+        "Time": "1:49.376",
+        "Position": "1"
+    },
+    {
+        "Circuit ID": "spa",
+        "Round": "14",
+        "Lap Number": "6",
+        "Driver ID": "hamilton",
+        "Time": "1:49.400",
+        "Position": "1"
+    },
+    {
+        "Circuit ID": "spa",
+        "Round": "14",
+        "Lap Number": "7",
+        "Driver ID": "hamilton",
+        "Time": "1:49.357",
+        "Position": "1"
+    },
+    {
+        "Circuit ID": "spa",
+        "Round": "14",
+        "Lap Number": "8",
+        "Driver ID": "hamilton",
+        "Time": "1:49.666",
+        "Position": "1"
+    },
+    {
+        "Circuit ID": "spa",
+        "Round": "14",
+        "Lap Number": "9",
+        "Driver ID": "hamilton",
+        "Time": "1:49.704",
+        "Position": "1"
+    },
+    {
+        "Circuit ID": "spa",
+        "Round": "14",
+        "Lap Number": "10",
+        "Driver ID": "hamilton",
+        "Time": "1:49.951",
+        "Position": "1"
+    },
+    {
+        "Circuit ID": "spa",
+        "Round": "14",
+        "Lap Number": "11",
+        "Driver ID": "hamilton",
+        "Time": "1:54.328",
+        "Position": "2"
+    },
+    {
+        "Circuit ID": "spa",
+        "Round": "14",
+        "Lap Number": "12",
+        "Driver ID": "hamilton",
+        "Time": "2:04.792",
+        "Position": "5"
+    },
+    {
+        "Circuit ID": "spa",
+        "Round": "14",
+        "Lap Number": "13",
+        "Driver ID": "hamilton",
+        "Time": "1:48.204",
+        "Position": "3"
+    },
+    {
+        "Circuit ID": "spa",
+        "Round": "14",
+        "Lap Number": "14",
+        "Driver ID": "hamilton",
+        "Time": "1:48.124",
+        "Position": "3"
+    },
+    {
+        "Circuit ID": "spa",
+        "Round": "14",
+        "Lap Number": "15",
+        "Driver ID": "hamilton",
+        "Time": "1:48.150",
+        "Position": "3"
+    },
+    {
+        "Circuit ID": "spa",
+        "Round": "14",
+        "Lap Number": "16",
+        "Driver ID": "hamilton",
+        "Time": "1:47.973",
+        "Position": "2"
+    },
+    {
+        "Circuit ID": "spa",
+        "Round": "14",
+        "Lap Number": "17",
+        "Driver ID": "hamilton",
+        "Time": "1:47.957",
+        "Position": "2"
+    },
+    {
+        "Circuit ID": "spa",
+        "Round": "14",
+        "Lap Number": "18",
+        "Driver ID": "hamilton",
+        "Time": "1:47.910",
+        "Position": "2"
+    },
+    {
+        "Circuit ID": "spa",
+        "Round": "14",
+        "Lap Number": "19",
+        "Driver ID": "hamilton",
+        "Time": "1:48.040",
+        "Position": "2"
+    },
+    {
+        "Circuit ID": "spa",
+        "Round": "14",
+        "Lap Number": "20",
+        "Driver ID": "hamilton",
+        "Time": "1:48.237",
+        "Position": "1"
+    },
+    {
+        "Circuit ID": "spa",
+        "Round": "14",
+        "Lap Number": "21",
+        "Driver ID": "hamilton",
+        "Time": "1:48.396",
+        "Position": "1"
+    },
+    {
+        "Circuit ID": "spa",
+        "Round": "14",
+        "Lap Number": "22",
+        "Driver ID": "hamilton",
+        "Time": "1:48.368",
+        "Position": "1"
+    },
+    {
+        "Circuit ID": "spa",
+        "Round": "14",
+        "Lap Number": "23",
+        "Driver ID": "hamilton",
+        "Time": "1:48.338",
+        "Position": "1"
+    },
+    {
+        "Circuit ID": "spa",
+        "Round": "14",
+        "Lap Number": "24",
+        "Driver ID": "hamilton",
+        "Time": "1:48.028",
+        "Position": "1"
+    },
+    {
+        "Circuit ID": "spa",
+        "Round": "14",
+        "Lap Number": "25",
+        "Driver ID": "hamilton",
+        "Time": "1:47.845",
+        "Position": "1"
+    },
+    {
+        "Circuit ID": "spa",
+        "Round": "14",
+        "Lap Number": "26",
+        "Driver ID": "hamilton",
+        "Time": "1:52.047",
+        "Position": "1"
+    },
+    {
+        "Circuit ID": "spa",
+        "Round": "14",
+        "Lap Number": "27",
+        "Driver ID": "hamilton",
+        "Time": "2:01.300",
+        "Position": "6"
+    },
+    {
+        "Circuit ID": "spa",
+        "Round": "14",
+        "Lap Number": "28",
+        "Driver ID": "hamilton",
+        "Time": "1:47.396",
+        "Position": "5"
+    },
+    {
+        "Circuit ID": "spa",
+        "Round": "14",
+        "Lap Number": "29",
+        "Driver ID": "hamilton",
+        "Time": "1:47.429",
+        "Position": "4"
+    },
+    {
+        "Circuit ID": "spa",
+        "Round": "14",
+        "Lap Number": "30",
+        "Driver ID": "hamilton",
+        "Time": "1:47.031",
+        "Position": "3"
+    },
+    {
+        "Circuit ID": "spa",
+        "Round": "14",
+        "Lap Number": "31",
+        "Driver ID": "hamilton",
+        "Time": "1:47.182",
+        "Position": "2"
+    },
+    {
+        "Circuit ID": "spa",
+        "Round": "14",
+        "Lap Number": "32",
+        "Driver ID": "hamilton",
+        "Time": "1:47.003",
+        "Position": "2"
+    },
+    {
+        "Circuit ID": "spa",
+        "Round": "14",
+        "Lap Number": "33",
+        "Driver ID": "hamilton",
+        "Time": "1:46.653",
+        "Position": "2"
+    },
+    {
+        "Circuit ID": "spa",
+        "Round": "14",
+        "Lap Number": "34",
+        "Driver ID": "hamilton",
+        "Time": "1:46.856",
+        "Position": "2"
+    },
+    {
+        "Circuit ID": "spa",
+        "Round": "14",
+        "Lap Number": "35",
+        "Driver ID": "hamilton",
+        "Time": "1:46.729",
+        "Position": "2"
+    },
+    {
+        "Circuit ID": "spa",
+        "Round": "14",
+        "Lap Number": "36",
+        "Driver ID": "hamilton",
+        "Time": "1:46.931",
+        "Position": "2"
+    },
+    {
+        "Circuit ID": "spa",
+        "Round": "14",
+        "Lap Number": "37",
+        "Driver ID": "hamilton",
+        "Time": "1:47.042",
+        "Position": "2"
+    },
+    {
+        "Circuit ID": "spa",
+        "Round": "14",
+        "Lap Number": "38",
+        "Driver ID": "hamilton",
+        "Time": "1:46.747",
+        "Position": "2"
+    },
+    {
+        "Circuit ID": "spa",
+        "Round": "14",
+        "Lap Number": "39",
+        "Driver ID": "hamilton",
+        "Time": "1:47.054",
+        "Position": "2"
+    },
+    {
+        "Circuit ID": "spa",
+        "Round": "14",
+        "Lap Number": "40",
+        "Driver ID": "hamilton",
+        "Time": "1:47.125",
+        "Position": "2"
+    },
+    {
+        "Circuit ID": "spa",
+        "Round": "14",
+        "Lap Number": "41",
+        "Driver ID": "hamilton",
+        "Time": "1:47.622",
+        "Position": "2"
+    },
+    {
+        "Circuit ID": "spa",
+        "Round": "14",
+        "Lap Number": "42",
+        "Driver ID": "hamilton",
+        "Time": "1:47.387",
+        "Position": "2"
+    },
+    {
+        "Circuit ID": "spa",
+        "Round": "14",
+        "Lap Number": "43",
+        "Driver ID": "hamilton",
+        "Time": "1:47.388",
+        "Position": "2"
+    },
+    {
+        "Circuit ID": "spa",
+        "Round": "14",
+        "Lap Number": "44",
+        "Driver ID": "hamilton",
+        "Time": "1:47.034",
+        "Position": "2"
+    },
+    {
+        "Circuit ID": "spa",
+        "Round": "14",
+        "Lap Number": "1",
+        "Driver ID": "piastri",
+        "Time": "1:54.248",
+        "Position": "4"
+    },
+    {
+        "Circuit ID": "spa",
+        "Round": "14",
+        "Lap Number": "2",
+        "Driver ID": "piastri",
+        "Time": "1:50.164",
+        "Position": "4"
+    },
+    {
+        "Circuit ID": "spa",
+        "Round": "14",
+        "Lap Number": "3",
+        "Driver ID": "piastri",
+        "Time": "1:49.971",
+        "Position": "4"
+    },
+    {
+        "Circuit ID": "spa",
+        "Round": "14",
+        "Lap Number": "4",
+        "Driver ID": "piastri",
+        "Time": "1:49.847",
+        "Position": "4"
+    },
+    {
+        "Circuit ID": "spa",
+        "Round": "14",
+        "Lap Number": "5",
+        "Driver ID": "piastri",
+        "Time": "1:50.085",
+        "Position": "4"
+    },
+    {
+        "Circuit ID": "spa",
+        "Round": "14",
+        "Lap Number": "6",
+        "Driver ID": "piastri",
+        "Time": "1:49.963",
+        "Position": "4"
+    },
+    {
+        "Circuit ID": "spa",
+        "Round": "14",
+        "Lap Number": "7",
+        "Driver ID": "piastri",
+        "Time": "1:50.030",
+        "Position": "4"
+    },
+    {
+        "Circuit ID": "spa",
+        "Round": "14",
+        "Lap Number": "8",
+        "Driver ID": "piastri",
+        "Time": "1:50.062",
+        "Position": "4"
+    },
+    {
+        "Circuit ID": "spa",
+        "Round": "14",
+        "Lap Number": "9",
+        "Driver ID": "piastri",
+        "Time": "1:50.481",
+        "Position": "4"
+    },
+    {
+        "Circuit ID": "spa",
+        "Round": "14",
+        "Lap Number": "10",
+        "Driver ID": "piastri",
+        "Time": "1:50.045",
+        "Position": "4"
+    },
+    {
+        "Circuit ID": "spa",
+        "Round": "14",
+        "Lap Number": "11",
+        "Driver ID": "piastri",
+        "Time": "1:54.271",
+        "Position": "6"
+    },
+    {
+        "Circuit ID": "spa",
+        "Round": "14",
+        "Lap Number": "12",
+        "Driver ID": "piastri",
+        "Time": "2:03.103",
+        "Position": "7"
+    },
+    {
+        "Circuit ID": "spa",
+        "Round": "14",
+        "Lap Number": "13",
+        "Driver ID": "piastri",
+        "Time": "1:47.565",
+        "Position": "5"
+    },
+    {
+        "Circuit ID": "spa",
+        "Round": "14",
+        "Lap Number": "14",
+        "Driver ID": "piastri",
+        "Time": "1:48.239",
+        "Position": "5"
+    },
+    {
+        "Circuit ID": "spa",
+        "Round": "14",
+        "Lap Number": "15",
+        "Driver ID": "piastri",
+        "Time": "1:48.070",
+        "Position": "5"
+    },
+    {
+        "Circuit ID": "spa",
+        "Round": "14",
+        "Lap Number": "16",
+        "Driver ID": "piastri",
+        "Time": "1:48.355",
+        "Position": "4"
+    },
+    {
+        "Circuit ID": "spa",
+        "Round": "14",
+        "Lap Number": "17",
+        "Driver ID": "piastri",
+        "Time": "1:48.473",
+        "Position": "4"
+    },
+    {
+        "Circuit ID": "spa",
+        "Round": "14",
+        "Lap Number": "18",
+        "Driver ID": "piastri",
+        "Time": "1:48.153",
+        "Position": "4"
+    },
+    {
+        "Circuit ID": "spa",
+        "Round": "14",
+        "Lap Number": "19",
+        "Driver ID": "piastri",
+        "Time": "1:48.233",
+        "Position": "4"
+    },
+    {
+        "Circuit ID": "spa",
+        "Round": "14",
+        "Lap Number": "20",
+        "Driver ID": "piastri",
+        "Time": "1:48.175",
+        "Position": "4"
+    },
+    {
+        "Circuit ID": "spa",
+        "Round": "14",
+        "Lap Number": "21",
+        "Driver ID": "piastri",
+        "Time": "1:48.376",
+        "Position": "3"
+    },
+    {
+        "Circuit ID": "spa",
+        "Round": "14",
+        "Lap Number": "22",
+        "Driver ID": "piastri",
+        "Time": "1:48.179",
+        "Position": "3"
+    },
+    {
+        "Circuit ID": "spa",
+        "Round": "14",
+        "Lap Number": "23",
+        "Driver ID": "piastri",
+        "Time": "1:48.352",
+        "Position": "3"
+    },
+    {
+        "Circuit ID": "spa",
+        "Round": "14",
+        "Lap Number": "24",
+        "Driver ID": "piastri",
+        "Time": "1:48.163",
+        "Position": "3"
+    },
+    {
+        "Circuit ID": "spa",
+        "Round": "14",
+        "Lap Number": "25",
+        "Driver ID": "piastri",
+        "Time": "1:47.980",
+        "Position": "2"
+    },
+    {
+        "Circuit ID": "spa",
+        "Round": "14",
+        "Lap Number": "26",
+        "Driver ID": "piastri",
+        "Time": "1:47.519",
+        "Position": "2"
+    },
+    {
+        "Circuit ID": "spa",
+        "Round": "14",
+        "Lap Number": "27",
+        "Driver ID": "piastri",
+        "Time": "1:47.024",
+        "Position": "1"
+    },
+    {
+        "Circuit ID": "spa",
+        "Round": "14",
+        "Lap Number": "28",
+        "Driver ID": "piastri",
+        "Time": "1:47.609",
+        "Position": "1"
+    },
+    {
+        "Circuit ID": "spa",
+        "Round": "14",
+        "Lap Number": "29",
+        "Driver ID": "piastri",
+        "Time": "1:47.653",
+        "Position": "1"
+    },
+    {
+        "Circuit ID": "spa",
+        "Round": "14",
+        "Lap Number": "30",
+        "Driver ID": "piastri",
+        "Time": "1:51.738",
+        "Position": "1"
+    },
+    {
+        "Circuit ID": "spa",
+        "Round": "14",
+        "Lap Number": "31",
+        "Driver ID": "piastri",
+        "Time": "2:01.424",
+        "Position": "4"
+    },
+    {
+        "Circuit ID": "spa",
+        "Round": "14",
+        "Lap Number": "32",
+        "Driver ID": "piastri",
+        "Time": "1:45.840",
+        "Position": "4"
+    },
+    {
+        "Circuit ID": "spa",
+        "Round": "14",
+        "Lap Number": "33",
+        "Driver ID": "piastri",
+        "Time": "1:46.265",
+        "Position": "4"
+    },
+    {
+        "Circuit ID": "spa",
+        "Round": "14",
+        "Lap Number": "34",
+        "Driver ID": "piastri",
+        "Time": "1:46.528",
+        "Position": "4"
+    },
+    {
+        "Circuit ID": "spa",
+        "Round": "14",
+        "Lap Number": "35",
+        "Driver ID": "piastri",
+        "Time": "1:48.312",
+        "Position": "4"
+    },
+    {
+        "Circuit ID": "spa",
+        "Round": "14",
+        "Lap Number": "36",
+        "Driver ID": "piastri",
+        "Time": "1:47.179",
+        "Position": "3"
+    },
+    {
+        "Circuit ID": "spa",
+        "Round": "14",
+        "Lap Number": "37",
+        "Driver ID": "piastri",
+        "Time": "1:47.136",
+        "Position": "3"
+    },
+    {
+        "Circuit ID": "spa",
+        "Round": "14",
+        "Lap Number": "38",
+        "Driver ID": "piastri",
+        "Time": "1:46.648",
+        "Position": "3"
+    },
+    {
+        "Circuit ID": "spa",
+        "Round": "14",
+        "Lap Number": "39",
+        "Driver ID": "piastri",
+        "Time": "1:46.445",
+        "Position": "3"
+    },
+    {
+        "Circuit ID": "spa",
+        "Round": "14",
+        "Lap Number": "40",
+        "Driver ID": "piastri",
+        "Time": "1:46.409",
+        "Position": "3"
+    },
+    {
+        "Circuit ID": "spa",
+        "Round": "14",
+        "Lap Number": "41",
+        "Driver ID": "piastri",
+        "Time": "1:46.390",
+        "Position": "3"
+    },
+    {
+        "Circuit ID": "spa",
+        "Round": "14",
+        "Lap Number": "42",
+        "Driver ID": "piastri",
+        "Time": "1:46.262",
+        "Position": "3"
+    },
+    {
+        "Circuit ID": "spa",
+        "Round": "14",
+        "Lap Number": "43",
+        "Driver ID": "piastri",
+        "Time": "1:46.621",
+        "Position": "3"
+    },
+    {
+        "Circuit ID": "spa",
+        "Round": "14",
+        "Lap Number": "44",
+        "Driver ID": "piastri",
+        "Time": "1:46.628",
+        "Position": "3"
+    },
+    {
+        "Circuit ID": "spa",
+        "Round": "14",
+        "Lap Number": "1",
+        "Driver ID": "leclerc",
+        "Time": "1:51.912",
+        "Position": "1"
+    },
+    {
+        "Circuit ID": "spa",
+        "Round": "14",
+        "Lap Number": "2",
+        "Driver ID": "leclerc",
+        "Time": "1:50.240",
+        "Position": "1"
+    },
+    {
+        "Circuit ID": "spa",
+        "Round": "14",
+        "Lap Number": "3",
+        "Driver ID": "leclerc",
+        "Time": "1:50.519",
+        "Position": "2"
+    },
+    {
+        "Circuit ID": "spa",
+        "Round": "14",
+        "Lap Number": "4",
+        "Driver ID": "leclerc",
+        "Time": "1:49.796",
+        "Position": "2"
+    },
+    {
+        "Circuit ID": "spa",
+        "Round": "14",
+        "Lap Number": "5",
+        "Driver ID": "leclerc",
+        "Time": "1:49.494",
+        "Position": "2"
+    },
+    {
+        "Circuit ID": "spa",
+        "Round": "14",
+        "Lap Number": "6",
+        "Driver ID": "leclerc",
+        "Time": "1:49.658",
+        "Position": "2"
+    },
+    {
+        "Circuit ID": "spa",
+        "Round": "14",
+        "Lap Number": "7",
+        "Driver ID": "leclerc",
+        "Time": "1:49.798",
+        "Position": "2"
+    },
+    {
+        "Circuit ID": "spa",
+        "Round": "14",
+        "Lap Number": "8",
+        "Driver ID": "leclerc",
+        "Time": "1:49.549",
+        "Position": "2"
+    },
+    {
+        "Circuit ID": "spa",
+        "Round": "14",
+        "Lap Number": "9",
+        "Driver ID": "leclerc",
+        "Time": "1:50.096",
+        "Position": "2"
+    },
+    {
+        "Circuit ID": "spa",
+        "Round": "14",
+        "Lap Number": "10",
+        "Driver ID": "leclerc",
+        "Time": "1:49.963",
+        "Position": "2"
+    },
+    {
+        "Circuit ID": "spa",
+        "Round": "14",
+        "Lap Number": "11",
+        "Driver ID": "leclerc",
+        "Time": "1:49.967",
+        "Position": "1"
+    },
+    {
+        "Circuit ID": "spa",
+        "Round": "14",
+        "Lap Number": "12",
+        "Driver ID": "leclerc",
+        "Time": "1:54.091",
+        "Position": "1"
+    },
+    {
+        "Circuit ID": "spa",
+        "Round": "14",
+        "Lap Number": "13",
+        "Driver ID": "leclerc",
+        "Time": "2:02.667",
+        "Position": "4"
+    },
+    {
+        "Circuit ID": "spa",
+        "Round": "14",
+        "Lap Number": "14",
+        "Driver ID": "leclerc",
+        "Time": "1:48.227",
+        "Position": "4"
+    },
+    {
+        "Circuit ID": "spa",
+        "Round": "14",
+        "Lap Number": "15",
+        "Driver ID": "leclerc",
+        "Time": "1:48.021",
+        "Position": "4"
+    },
+    {
+        "Circuit ID": "spa",
+        "Round": "14",
+        "Lap Number": "16",
+        "Driver ID": "leclerc",
+        "Time": "1:47.982",
+        "Position": "3"
+    },
+    {
+        "Circuit ID": "spa",
+        "Round": "14",
+        "Lap Number": "17",
+        "Driver ID": "leclerc",
+        "Time": "1:47.981",
+        "Position": "3"
+    },
+    {
+        "Circuit ID": "spa",
+        "Round": "14",
+        "Lap Number": "18",
+        "Driver ID": "leclerc",
+        "Time": "1:47.971",
+        "Position": "3"
+    },
+    {
+        "Circuit ID": "spa",
+        "Round": "14",
+        "Lap Number": "19",
+        "Driver ID": "leclerc",
+        "Time": "1:48.346",
+        "Position": "3"
+    },
+    {
+        "Circuit ID": "spa",
+        "Round": "14",
+        "Lap Number": "20",
+        "Driver ID": "leclerc",
+        "Time": "1:48.279",
+        "Position": "2"
+    },
+    {
+        "Circuit ID": "spa",
+        "Round": "14",
+        "Lap Number": "21",
+        "Driver ID": "leclerc",
+        "Time": "1:48.380",
+        "Position": "2"
+    },
+    {
+        "Circuit ID": "spa",
+        "Round": "14",
+        "Lap Number": "22",
+        "Driver ID": "leclerc",
+        "Time": "1:48.356",
+        "Position": "2"
+    },
+    {
+        "Circuit ID": "spa",
+        "Round": "14",
+        "Lap Number": "23",
+        "Driver ID": "leclerc",
+        "Time": "1:48.449",
+        "Position": "2"
+    },
+    {
+        "Circuit ID": "spa",
+        "Round": "14",
+        "Lap Number": "24",
+        "Driver ID": "leclerc",
+        "Time": "1:48.444",
+        "Position": "2"
+    },
+    {
+        "Circuit ID": "spa",
+        "Round": "14",
+        "Lap Number": "25",
+        "Driver ID": "leclerc",
+        "Time": "1:52.358",
+        "Position": "3"
+    },
+    {
+        "Circuit ID": "spa",
+        "Round": "14",
+        "Lap Number": "26",
+        "Driver ID": "leclerc",
+        "Time": "2:01.972",
+        "Position": "7"
+    },
+    {
+        "Circuit ID": "spa",
+        "Round": "14",
+        "Lap Number": "27",
+        "Driver ID": "leclerc",
+        "Time": "1:47.034",
+        "Position": "7"
+    },
+    {
+        "Circuit ID": "spa",
+        "Round": "14",
+        "Lap Number": "28",
+        "Driver ID": "leclerc",
+        "Time": "1:47.039",
+        "Position": "6"
+    },
+    {
+        "Circuit ID": "spa",
+        "Round": "14",
+        "Lap Number": "29",
+        "Driver ID": "leclerc",
+        "Time": "1:47.517",
+        "Position": "5"
+    },
+    {
+        "Circuit ID": "spa",
+        "Round": "14",
+        "Lap Number": "30",
+        "Driver ID": "leclerc",
+        "Time": "1:47.311",
+        "Position": "4"
+    },
+    {
+        "Circuit ID": "spa",
+        "Round": "14",
+        "Lap Number": "31",
+        "Driver ID": "leclerc",
+        "Time": "1:47.018",
+        "Position": "3"
+    },
+    {
+        "Circuit ID": "spa",
+        "Round": "14",
+        "Lap Number": "32",
+        "Driver ID": "leclerc",
+        "Time": "1:47.064",
+        "Position": "3"
+    },
+    {
+        "Circuit ID": "spa",
+        "Round": "14",
+        "Lap Number": "33",
+        "Driver ID": "leclerc",
+        "Time": "1:47.013",
+        "Position": "3"
+    },
+    {
+        "Circuit ID": "spa",
+        "Round": "14",
+        "Lap Number": "34",
+        "Driver ID": "leclerc",
+        "Time": "1:47.023",
+        "Position": "3"
+    },
+    {
+        "Circuit ID": "spa",
+        "Round": "14",
+        "Lap Number": "35",
+        "Driver ID": "leclerc",
+        "Time": "1:48.321",
+        "Position": "3"
+    },
+    {
+        "Circuit ID": "spa",
+        "Round": "14",
+        "Lap Number": "36",
+        "Driver ID": "leclerc",
+        "Time": "1:49.289",
+        "Position": "4"
+    },
+    {
+        "Circuit ID": "spa",
+        "Round": "14",
+        "Lap Number": "37",
+        "Driver ID": "leclerc",
+        "Time": "1:47.601",
+        "Position": "4"
+    },
+    {
+        "Circuit ID": "spa",
+        "Round": "14",
+        "Lap Number": "38",
+        "Driver ID": "leclerc",
+        "Time": "1:47.142",
+        "Position": "4"
+    },
+    {
+        "Circuit ID": "spa",
+        "Round": "14",
+        "Lap Number": "39",
+        "Driver ID": "leclerc",
+        "Time": "1:47.539",
+        "Position": "4"
+    },
+    {
+        "Circuit ID": "spa",
+        "Round": "14",
+        "Lap Number": "40",
+        "Driver ID": "leclerc",
+        "Time": "1:47.354",
+        "Position": "4"
+    },
+    {
+        "Circuit ID": "spa",
+        "Round": "14",
+        "Lap Number": "41",
+        "Driver ID": "leclerc",
+        "Time": "1:47.460",
+        "Position": "4"
+    },
+    {
+        "Circuit ID": "spa",
+        "Round": "14",
+        "Lap Number": "42",
+        "Driver ID": "leclerc",
+        "Time": "1:47.216",
+        "Position": "4"
+    },
+    {
+        "Circuit ID": "spa",
+        "Round": "14",
+        "Lap Number": "43",
+        "Driver ID": "leclerc",
+        "Time": "1:47.071",
+        "Position": "4"
+    },
+    {
+        "Circuit ID": "spa",
+        "Round": "14",
+        "Lap Number": "44",
+        "Driver ID": "leclerc",
+        "Time": "1:47.061",
+        "Position": "4"
+    },
+    {
+        "Circuit ID": "spa",
+        "Round": "14",
+        "Lap Number": "1",
+        "Driver ID": "max_verstappen",
+        "Time": "1:57.183",
+        "Position": "9"
+    },
+    {
+        "Circuit ID": "spa",
+        "Round": "14",
+        "Lap Number": "2",
+        "Driver ID": "max_verstappen",
+        "Time": "1:49.828",
+        "Position": "8"
+    },
+    {
+        "Circuit ID": "spa",
+        "Round": "14",
+        "Lap Number": "3",
+        "Driver ID": "max_verstappen",
+        "Time": "1:50.141",
+        "Position": "8"
+    },
+    {
+        "Circuit ID": "spa",
+        "Round": "14",
+        "Lap Number": "4",
+        "Driver ID": "max_verstappen",
+        "Time": "1:50.055",
+        "Position": "8"
+    },
+    {
+        "Circuit ID": "spa",
+        "Round": "14",
+        "Lap Number": "5",
+        "Driver ID": "max_verstappen",
+        "Time": "1:50.138",
+        "Position": "8"
+    },
+    {
+        "Circuit ID": "spa",
+        "Round": "14",
+        "Lap Number": "6",
+        "Driver ID": "max_verstappen",
+        "Time": "1:50.073",
+        "Position": "8"
+    },
+    {
+        "Circuit ID": "spa",
+        "Round": "14",
+        "Lap Number": "7",
+        "Driver ID": "max_verstappen",
+        "Time": "1:50.146",
+        "Position": "8"
+    },
+    {
+        "Circuit ID": "spa",
+        "Round": "14",
+        "Lap Number": "8",
+        "Driver ID": "max_verstappen",
+        "Time": "1:50.094",
+        "Position": "8"
+    },
+    {
+        "Circuit ID": "spa",
+        "Round": "14",
+        "Lap Number": "9",
+        "Driver ID": "max_verstappen",
+        "Time": "1:50.609",
+        "Position": "8"
+    },
+    {
+        "Circuit ID": "spa",
+        "Round": "14",
+        "Lap Number": "10",
+        "Driver ID": "max_verstappen",
+        "Time": "1:54.655",
+        "Position": "8"
+    },
+    {
+        "Circuit ID": "spa",
+        "Round": "14",
+        "Lap Number": "11",
+        "Driver ID": "max_verstappen",
+        "Time": "2:02.789",
+        "Position": "13"
+    },
+    {
+        "Circuit ID": "spa",
+        "Round": "14",
+        "Lap Number": "12",
+        "Driver ID": "max_verstappen",
+        "Time": "1:48.403",
+        "Position": "10"
+    },
+    {
+        "Circuit ID": "spa",
+        "Round": "14",
+        "Lap Number": "13",
+        "Driver ID": "max_verstappen",
+        "Time": "1:48.431",
+        "Position": "9"
+    },
+    {
+        "Circuit ID": "spa",
+        "Round": "14",
+        "Lap Number": "14",
+        "Driver ID": "max_verstappen",
+        "Time": "1:48.153",
+        "Position": "8"
+    },
+    {
+        "Circuit ID": "spa",
+        "Round": "14",
+        "Lap Number": "15",
+        "Driver ID": "max_verstappen",
+        "Time": "1:48.229",
+        "Position": "8"
+    },
+    {
+        "Circuit ID": "spa",
+        "Round": "14",
+        "Lap Number": "16",
+        "Driver ID": "max_verstappen",
+        "Time": "1:48.509",
+        "Position": "7"
+    },
+    {
+        "Circuit ID": "spa",
+        "Round": "14",
+        "Lap Number": "17",
+        "Driver ID": "max_verstappen",
+        "Time": "1:48.431",
+        "Position": "7"
+    },
+    {
+        "Circuit ID": "spa",
+        "Round": "14",
+        "Lap Number": "18",
+        "Driver ID": "max_verstappen",
+        "Time": "1:48.896",
+        "Position": "7"
+    },
+    {
+        "Circuit ID": "spa",
+        "Round": "14",
+        "Lap Number": "19",
+        "Driver ID": "max_verstappen",
+        "Time": "1:48.578",
+        "Position": "7"
+    },
+    {
+        "Circuit ID": "spa",
+        "Round": "14",
+        "Lap Number": "20",
+        "Driver ID": "max_verstappen",
+        "Time": "1:49.134",
+        "Position": "7"
+    },
+    {
+        "Circuit ID": "spa",
+        "Round": "14",
+        "Lap Number": "21",
+        "Driver ID": "max_verstappen",
+        "Time": "1:49.273",
+        "Position": "5"
+    },
+    {
+        "Circuit ID": "spa",
+        "Round": "14",
+        "Lap Number": "22",
+        "Driver ID": "max_verstappen",
+        "Time": "1:48.448",
+        "Position": "5"
+    },
+    {
+        "Circuit ID": "spa",
+        "Round": "14",
+        "Lap Number": "23",
+        "Driver ID": "max_verstappen",
+        "Time": "1:48.494",
+        "Position": "5"
+    },
+    {
+        "Circuit ID": "spa",
+        "Round": "14",
+        "Lap Number": "24",
+        "Driver ID": "max_verstappen",
+        "Time": "1:48.154",
+        "Position": "5"
+    },
+    {
+        "Circuit ID": "spa",
+        "Round": "14",
+        "Lap Number": "25",
+        "Driver ID": "max_verstappen",
+        "Time": "1:47.921",
+        "Position": "5"
+    },
+    {
+        "Circuit ID": "spa",
+        "Round": "14",
+        "Lap Number": "26",
+        "Driver ID": "max_verstappen",
+        "Time": "1:47.815",
+        "Position": "4"
+    },
+    {
+        "Circuit ID": "spa",
+        "Round": "14",
+        "Lap Number": "27",
+        "Driver ID": "max_verstappen",
+        "Time": "1:47.431",
+        "Position": "3"
+    },
+    {
+        "Circuit ID": "spa",
+        "Round": "14",
+        "Lap Number": "28",
+        "Driver ID": "max_verstappen",
+        "Time": "1:52.026",
+        "Position": "4"
+    },
+    {
+        "Circuit ID": "spa",
+        "Round": "14",
+        "Lap Number": "29",
+        "Driver ID": "max_verstappen",
+        "Time": "2:00.489",
+        "Position": "7"
+    },
+    {
+        "Circuit ID": "spa",
+        "Round": "14",
+        "Lap Number": "30",
+        "Driver ID": "max_verstappen",
+        "Time": "1:46.447",
+        "Position": "5"
+    },
+    {
+        "Circuit ID": "spa",
+        "Round": "14",
+        "Lap Number": "31",
+        "Driver ID": "max_verstappen",
+        "Time": "1:46.363",
+        "Position": "5"
+    },
+    {
+        "Circuit ID": "spa",
+        "Round": "14",
+        "Lap Number": "32",
+        "Driver ID": "max_verstappen",
+        "Time": "1:46.128",
+        "Position": "5"
+    },
+    {
+        "Circuit ID": "spa",
+        "Round": "14",
+        "Lap Number": "33",
+        "Driver ID": "max_verstappen",
+        "Time": "1:46.417",
+        "Position": "5"
+    },
+    {
+        "Circuit ID": "spa",
+        "Round": "14",
+        "Lap Number": "34",
+        "Driver ID": "max_verstappen",
+        "Time": "1:46.630",
+        "Position": "5"
+    },
+    {
+        "Circuit ID": "spa",
+        "Round": "14",
+        "Lap Number": "35",
+        "Driver ID": "max_verstappen",
+        "Time": "1:47.009",
+        "Position": "5"
+    },
+    {
+        "Circuit ID": "spa",
+        "Round": "14",
+        "Lap Number": "36",
+        "Driver ID": "max_verstappen",
+        "Time": "1:47.156",
+        "Position": "5"
+    },
+    {
+        "Circuit ID": "spa",
+        "Round": "14",
+        "Lap Number": "37",
+        "Driver ID": "max_verstappen",
+        "Time": "1:47.200",
+        "Position": "5"
+    },
+    {
+        "Circuit ID": "spa",
+        "Round": "14",
+        "Lap Number": "38",
+        "Driver ID": "max_verstappen",
+        "Time": "1:47.177",
+        "Position": "5"
+    },
+    {
+        "Circuit ID": "spa",
+        "Round": "14",
+        "Lap Number": "39",
+        "Driver ID": "max_verstappen",
+        "Time": "1:47.244",
+        "Position": "5"
+    },
+    {
+        "Circuit ID": "spa",
+        "Round": "14",
+        "Lap Number": "40",
+        "Driver ID": "max_verstappen",
+        "Time": "1:47.227",
+        "Position": "5"
+    },
+    {
+        "Circuit ID": "spa",
+        "Round": "14",
+        "Lap Number": "41",
+        "Driver ID": "max_verstappen",
+        "Time": "1:47.354",
+        "Position": "5"
+    },
+    {
+        "Circuit ID": "spa",
+        "Round": "14",
+        "Lap Number": "42",
+        "Driver ID": "max_verstappen",
+        "Time": "1:47.387",
+        "Position": "5"
+    },
+    {
+        "Circuit ID": "spa",
+        "Round": "14",
+        "Lap Number": "43",
+        "Driver ID": "max_verstappen",
+        "Time": "1:47.102",
+        "Position": "5"
+    },
+    {
+        "Circuit ID": "spa",
+        "Round": "14",
+        "Lap Number": "44",
+        "Driver ID": "max_verstappen",
+        "Time": "1:46.899",
+        "Position": "5"
+    },
+    {
+        "Circuit ID": "spa",
+        "Round": "14",
+        "Lap Number": "1",
+        "Driver ID": "perez",
+        "Time": "1:53.439",
+        "Position": "3"
+    },
+    {
+        "Circuit ID": "spa",
+        "Round": "14",
+        "Lap Number": "2",
+        "Driver ID": "perez",
+        "Time": "1:50.240",
+        "Position": "3"
+    },
+    {
+        "Circuit ID": "spa",
+        "Round": "14",
+        "Lap Number": "3",
+        "Driver ID": "perez",
+        "Time": "1:49.983",
+        "Position": "3"
+    },
+    {
+        "Circuit ID": "spa",
+        "Round": "14",
+        "Lap Number": "4",
+        "Driver ID": "perez",
+        "Time": "1:49.790",
+        "Position": "3"
+    },
+    {
+        "Circuit ID": "spa",
+        "Round": "14",
+        "Lap Number": "5",
+        "Driver ID": "perez",
+        "Time": "1:49.896",
+        "Position": "3"
+    },
+    {
+        "Circuit ID": "spa",
+        "Round": "14",
+        "Lap Number": "6",
+        "Driver ID": "perez",
+        "Time": "1:50.129",
+        "Position": "3"
+    },
+    {
+        "Circuit ID": "spa",
+        "Round": "14",
+        "Lap Number": "7",
+        "Driver ID": "perez",
+        "Time": "1:49.637",
+        "Position": "3"
+    },
+    {
+        "Circuit ID": "spa",
+        "Round": "14",
+        "Lap Number": "8",
+        "Driver ID": "perez",
+        "Time": "1:49.912",
+        "Position": "3"
+    },
+    {
+        "Circuit ID": "spa",
+        "Round": "14",
+        "Lap Number": "9",
+        "Driver ID": "perez",
+        "Time": "1:50.286",
+        "Position": "3"
+    },
+    {
+        "Circuit ID": "spa",
+        "Round": "14",
+        "Lap Number": "10",
+        "Driver ID": "perez",
+        "Time": "1:50.057",
+        "Position": "3"
+    },
+    {
+        "Circuit ID": "spa",
+        "Round": "14",
+        "Lap Number": "11",
+        "Driver ID": "perez",
+        "Time": "1:54.844",
+        "Position": "5"
+    },
+    {
+        "Circuit ID": "spa",
+        "Round": "14",
+        "Lap Number": "12",
+        "Driver ID": "perez",
+        "Time": "2:03.704",
+        "Position": "6"
+    },
+    {
+        "Circuit ID": "spa",
+        "Round": "14",
+        "Lap Number": "13",
+        "Driver ID": "perez",
+        "Time": "1:48.772",
+        "Position": "7"
+    },
+    {
+        "Circuit ID": "spa",
+        "Round": "14",
+        "Lap Number": "14",
+        "Driver ID": "perez",
+        "Time": "1:48.394",
+        "Position": "6"
+    },
+    {
+        "Circuit ID": "spa",
+        "Round": "14",
+        "Lap Number": "15",
+        "Driver ID": "perez",
+        "Time": "1:48.305",
+        "Position": "6"
+    },
+    {
+        "Circuit ID": "spa",
+        "Round": "14",
+        "Lap Number": "16",
+        "Driver ID": "perez",
+        "Time": "1:48.504",
+        "Position": "5"
+    },
+    {
+        "Circuit ID": "spa",
+        "Round": "14",
+        "Lap Number": "17",
+        "Driver ID": "perez",
+        "Time": "1:48.492",
+        "Position": "5"
+    },
+    {
+        "Circuit ID": "spa",
+        "Round": "14",
+        "Lap Number": "18",
+        "Driver ID": "perez",
+        "Time": "1:48.554",
+        "Position": "5"
+    },
+    {
+        "Circuit ID": "spa",
+        "Round": "14",
+        "Lap Number": "19",
+        "Driver ID": "perez",
+        "Time": "1:48.695",
+        "Position": "5"
+    },
+    {
+        "Circuit ID": "spa",
+        "Round": "14",
+        "Lap Number": "20",
+        "Driver ID": "perez",
+        "Time": "1:49.663",
+        "Position": "5"
+    },
+    {
+        "Circuit ID": "spa",
+        "Round": "14",
+        "Lap Number": "21",
+        "Driver ID": "perez",
+        "Time": "1:54.682",
+        "Position": "7"
+    },
+    {
+        "Circuit ID": "spa",
+        "Round": "14",
+        "Lap Number": "22",
+        "Driver ID": "perez",
+        "Time": "2:01.831",
+        "Position": "8"
+    },
+    {
+        "Circuit ID": "spa",
+        "Round": "14",
+        "Lap Number": "23",
+        "Driver ID": "perez",
+        "Time": "1:47.223",
+        "Position": "8"
+    },
+    {
+        "Circuit ID": "spa",
+        "Round": "14",
+        "Lap Number": "24",
+        "Driver ID": "perez",
+        "Time": "1:47.822",
+        "Position": "8"
+    },
+    {
+        "Circuit ID": "spa",
+        "Round": "14",
+        "Lap Number": "25",
+        "Driver ID": "perez",
+        "Time": "1:47.667",
+        "Position": "8"
+    },
+    {
+        "Circuit ID": "spa",
+        "Round": "14",
+        "Lap Number": "26",
+        "Driver ID": "perez",
+        "Time": "1:48.048",
+        "Position": "8"
+    },
+    {
+        "Circuit ID": "spa",
+        "Round": "14",
+        "Lap Number": "27",
+        "Driver ID": "perez",
+        "Time": "1:47.625",
+        "Position": "8"
+    },
+    {
+        "Circuit ID": "spa",
+        "Round": "14",
+        "Lap Number": "28",
+        "Driver ID": "perez",
+        "Time": "1:47.700",
+        "Position": "8"
+    },
+    {
+        "Circuit ID": "spa",
+        "Round": "14",
+        "Lap Number": "29",
+        "Driver ID": "perez",
+        "Time": "1:47.470",
+        "Position": "6"
+    },
+    {
+        "Circuit ID": "spa",
+        "Round": "14",
+        "Lap Number": "30",
+        "Driver ID": "perez",
+        "Time": "1:48.878",
+        "Position": "6"
+    },
+    {
+        "Circuit ID": "spa",
+        "Round": "14",
+        "Lap Number": "31",
+        "Driver ID": "perez",
+        "Time": "1:48.335",
+        "Position": "7"
+    },
+    {
+        "Circuit ID": "spa",
+        "Round": "14",
+        "Lap Number": "32",
+        "Driver ID": "perez",
+        "Time": "1:48.016",
+        "Position": "7"
+    },
+    {
+        "Circuit ID": "spa",
+        "Round": "14",
+        "Lap Number": "33",
+        "Driver ID": "perez",
+        "Time": "1:47.630",
+        "Position": "7"
+    },
+    {
+        "Circuit ID": "spa",
+        "Round": "14",
+        "Lap Number": "34",
+        "Driver ID": "perez",
+        "Time": "1:48.217",
+        "Position": "7"
+    },
+    {
+        "Circuit ID": "spa",
+        "Round": "14",
+        "Lap Number": "35",
+        "Driver ID": "perez",
+        "Time": "1:47.843",
+        "Position": "7"
+    },
+    {
+        "Circuit ID": "spa",
+        "Round": "14",
+        "Lap Number": "36",
+        "Driver ID": "perez",
+        "Time": "1:48.014",
+        "Position": "7"
+    },
+    {
+        "Circuit ID": "spa",
+        "Round": "14",
+        "Lap Number": "37",
+        "Driver ID": "perez",
+        "Time": "1:48.057",
+        "Position": "7"
+    },
+    {
+        "Circuit ID": "spa",
+        "Round": "14",
+        "Lap Number": "38",
+        "Driver ID": "perez",
+        "Time": "1:47.783",
+        "Position": "7"
+    },
+    {
+        "Circuit ID": "spa",
+        "Round": "14",
+        "Lap Number": "39",
+        "Driver ID": "perez",
+        "Time": "1:49.272",
+        "Position": "8"
+    },
+    {
+        "Circuit ID": "spa",
+        "Round": "14",
+        "Lap Number": "40",
+        "Driver ID": "perez",
+        "Time": "1:47.896",
+        "Position": "8"
+    },
+    {
+        "Circuit ID": "spa",
+        "Round": "14",
+        "Lap Number": "41",
+        "Driver ID": "perez",
+        "Time": "1:47.840",
+        "Position": "8"
+    },
+    {
+        "Circuit ID": "spa",
+        "Round": "14",
+        "Lap Number": "42",
+        "Driver ID": "perez",
+        "Time": "1:52.866",
+        "Position": "8"
+    },
+    {
+        "Circuit ID": "spa",
+        "Round": "14",
+        "Lap Number": "43",
+        "Driver ID": "perez",
+        "Time": "2:03.523",
+        "Position": "8"
+    },
+    {
+        "Circuit ID": "spa",
+        "Round": "14",
+        "Lap Number": "44",
+        "Driver ID": "perez",
+        "Time": "1:44.701",
+        "Position": "8"
+    },
+    {
+        "Circuit ID": "spa",
+        "Round": "14",
+        "Lap Number": "1",
+        "Driver ID": "alonso",
+        "Time": "1:56.577",
+        "Position": "8"
+    },
+    {
+        "Circuit ID": "spa",
+        "Round": "14",
+        "Lap Number": "2",
+        "Driver ID": "alonso",
+        "Time": "1:51.316",
+        "Position": "9"
+    },
+    {
+        "Circuit ID": "spa",
+        "Round": "14",
+        "Lap Number": "3",
+        "Driver ID": "alonso",
+        "Time": "1:50.204",
+        "Position": "9"
+    },
+    {
+        "Circuit ID": "spa",
+        "Round": "14",
+        "Lap Number": "4",
+        "Driver ID": "alonso",
+        "Time": "1:50.421",
+        "Position": "9"
+    },
+    {
+        "Circuit ID": "spa",
+        "Round": "14",
+        "Lap Number": "5",
+        "Driver ID": "alonso",
+        "Time": "1:50.690",
+        "Position": "9"
+    },
+    {
+        "Circuit ID": "spa",
+        "Round": "14",
+        "Lap Number": "6",
+        "Driver ID": "alonso",
+        "Time": "1:50.751",
+        "Position": "9"
+    },
+    {
+        "Circuit ID": "spa",
+        "Round": "14",
+        "Lap Number": "7",
+        "Driver ID": "alonso",
+        "Time": "1:50.778",
+        "Position": "9"
+    },
+    {
+        "Circuit ID": "spa",
+        "Round": "14",
+        "Lap Number": "8",
+        "Driver ID": "alonso",
+        "Time": "1:50.826",
+        "Position": "9"
+    },
+    {
+        "Circuit ID": "spa",
+        "Round": "14",
+        "Lap Number": "9",
+        "Driver ID": "alonso",
+        "Time": "1:51.232",
+        "Position": "9"
+    },
+    {
+        "Circuit ID": "spa",
+        "Round": "14",
+        "Lap Number": "10",
+        "Driver ID": "alonso",
+        "Time": "1:50.915",
+        "Position": "9"
+    },
+    {
+        "Circuit ID": "spa",
+        "Round": "14",
+        "Lap Number": "11",
+        "Driver ID": "alonso",
+        "Time": "1:50.682",
+        "Position": "7"
+    },
+    {
+        "Circuit ID": "spa",
+        "Round": "14",
+        "Lap Number": "12",
+        "Driver ID": "alonso",
+        "Time": "1:50.891",
+        "Position": "4"
+    },
+    {
+        "Circuit ID": "spa",
+        "Round": "14",
+        "Lap Number": "13",
+        "Driver ID": "alonso",
+        "Time": "1:54.654",
+        "Position": "6"
+    },
+    {
+        "Circuit ID": "spa",
+        "Round": "14",
+        "Lap Number": "14",
+        "Driver ID": "alonso",
+        "Time": "2:03.993",
+        "Position": "13"
+    },
+    {
+        "Circuit ID": "spa",
+        "Round": "14",
+        "Lap Number": "15",
+        "Driver ID": "alonso",
+        "Time": "1:49.469",
+        "Position": "12"
+    },
+    {
+        "Circuit ID": "spa",
+        "Round": "14",
+        "Lap Number": "16",
+        "Driver ID": "alonso",
+        "Time": "1:49.540",
+        "Position": "12"
+    },
+    {
+        "Circuit ID": "spa",
+        "Round": "14",
+        "Lap Number": "17",
+        "Driver ID": "alonso",
+        "Time": "1:50.031",
+        "Position": "11"
+    },
+    {
+        "Circuit ID": "spa",
+        "Round": "14",
+        "Lap Number": "18",
+        "Driver ID": "alonso",
+        "Time": "1:49.962",
+        "Position": "11"
+    },
+    {
+        "Circuit ID": "spa",
+        "Round": "14",
+        "Lap Number": "19",
+        "Driver ID": "alonso",
+        "Time": "1:49.791",
+        "Position": "11"
+    },
+    {
+        "Circuit ID": "spa",
+        "Round": "14",
+        "Lap Number": "20",
+        "Driver ID": "alonso",
+        "Time": "1:51.210",
+        "Position": "12"
+    },
+    {
+        "Circuit ID": "spa",
+        "Round": "14",
+        "Lap Number": "21",
+        "Driver ID": "alonso",
+        "Time": "1:50.195",
+        "Position": "11"
+    },
+    {
+        "Circuit ID": "spa",
+        "Round": "14",
+        "Lap Number": "22",
+        "Driver ID": "alonso",
+        "Time": "1:49.932",
+        "Position": "11"
+    },
+    {
+        "Circuit ID": "spa",
+        "Round": "14",
+        "Lap Number": "23",
+        "Driver ID": "alonso",
+        "Time": "1:50.016",
+        "Position": "10"
+    },
+    {
+        "Circuit ID": "spa",
+        "Round": "14",
+        "Lap Number": "24",
+        "Driver ID": "alonso",
+        "Time": "1:49.353",
+        "Position": "10"
+    },
+    {
+        "Circuit ID": "spa",
+        "Round": "14",
+        "Lap Number": "25",
+        "Driver ID": "alonso",
+        "Time": "1:48.926",
+        "Position": "10"
+    },
+    {
+        "Circuit ID": "spa",
+        "Round": "14",
+        "Lap Number": "26",
+        "Driver ID": "alonso",
+        "Time": "1:49.254",
+        "Position": "10"
+    },
+    {
+        "Circuit ID": "spa",
+        "Round": "14",
+        "Lap Number": "27",
+        "Driver ID": "alonso",
+        "Time": "1:49.067",
+        "Position": "10"
+    },
+    {
+        "Circuit ID": "spa",
+        "Round": "14",
+        "Lap Number": "28",
+        "Driver ID": "alonso",
+        "Time": "1:49.040",
+        "Position": "10"
+    },
+    {
+        "Circuit ID": "spa",
+        "Round": "14",
+        "Lap Number": "29",
+        "Driver ID": "alonso",
+        "Time": "1:49.297",
+        "Position": "10"
+    },
+    {
+        "Circuit ID": "spa",
+        "Round": "14",
+        "Lap Number": "30",
+        "Driver ID": "alonso",
+        "Time": "1:48.872",
+        "Position": "10"
+    },
+    {
+        "Circuit ID": "spa",
+        "Round": "14",
+        "Lap Number": "31",
+        "Driver ID": "alonso",
+        "Time": "1:48.957",
+        "Position": "9"
+    },
+    {
+        "Circuit ID": "spa",
+        "Round": "14",
+        "Lap Number": "32",
+        "Driver ID": "alonso",
+        "Time": "1:48.921",
+        "Position": "9"
+    },
+    {
+        "Circuit ID": "spa",
+        "Round": "14",
+        "Lap Number": "33",
+        "Driver ID": "alonso",
+        "Time": "1:48.645",
+        "Position": "9"
+    },
+    {
+        "Circuit ID": "spa",
+        "Round": "14",
+        "Lap Number": "34",
+        "Driver ID": "alonso",
+        "Time": "1:48.979",
+        "Position": "9"
+    },
+    {
+        "Circuit ID": "spa",
+        "Round": "14",
+        "Lap Number": "35",
+        "Driver ID": "alonso",
+        "Time": "1:48.582",
+        "Position": "9"
+    },
+    {
+        "Circuit ID": "spa",
+        "Round": "14",
+        "Lap Number": "36",
+        "Driver ID": "alonso",
+        "Time": "1:48.727",
+        "Position": "9"
+    },
+    {
+        "Circuit ID": "spa",
+        "Round": "14",
+        "Lap Number": "37",
+        "Driver ID": "alonso",
+        "Time": "1:48.490",
+        "Position": "9"
+    },
+    {
+        "Circuit ID": "spa",
+        "Round": "14",
+        "Lap Number": "38",
+        "Driver ID": "alonso",
+        "Time": "1:48.414",
+        "Position": "9"
+    },
+    {
+        "Circuit ID": "spa",
+        "Round": "14",
+        "Lap Number": "39",
+        "Driver ID": "alonso",
+        "Time": "1:48.523",
+        "Position": "9"
+    },
+    {
+        "Circuit ID": "spa",
+        "Round": "14",
+        "Lap Number": "40",
+        "Driver ID": "alonso",
+        "Time": "1:48.278",
+        "Position": "9"
+    },
+    {
+        "Circuit ID": "spa",
+        "Round": "14",
+        "Lap Number": "41",
+        "Driver ID": "alonso",
+        "Time": "1:48.326",
+        "Position": "9"
+    },
+    {
+        "Circuit ID": "spa",
+        "Round": "14",
+        "Lap Number": "42",
+        "Driver ID": "alonso",
+        "Time": "1:48.051",
+        "Position": "9"
+    },
+    {
+        "Circuit ID": "spa",
+        "Round": "14",
+        "Lap Number": "43",
+        "Driver ID": "alonso",
+        "Time": "1:48.157",
+        "Position": "9"
+    },
+    {
+        "Circuit ID": "spa",
+        "Round": "14",
+        "Lap Number": "44",
+        "Driver ID": "alonso",
+        "Time": "1:48.068",
+        "Position": "9"
+    },
+    {
+        "Circuit ID": "spa",
+        "Round": "14",
+        "Lap Number": "1",
+        "Driver ID": "ocon",
+        "Time": "1:57.847",
+        "Position": "11"
+    },
+    {
+        "Circuit ID": "spa",
+        "Round": "14",
+        "Lap Number": "2",
+        "Driver ID": "ocon",
+        "Time": "1:51.312",
+        "Position": "11"
+    },
+    {
+        "Circuit ID": "spa",
+        "Round": "14",
+        "Lap Number": "3",
+        "Driver ID": "ocon",
+        "Time": "1:50.518",
+        "Position": "11"
+    },
+    {
+        "Circuit ID": "spa",
+        "Round": "14",
+        "Lap Number": "4",
+        "Driver ID": "ocon",
+        "Time": "1:50.371",
+        "Position": "11"
+    },
+    {
+        "Circuit ID": "spa",
+        "Round": "14",
+        "Lap Number": "5",
+        "Driver ID": "ocon",
+        "Time": "1:50.636",
+        "Position": "11"
+    },
+    {
+        "Circuit ID": "spa",
+        "Round": "14",
+        "Lap Number": "6",
+        "Driver ID": "ocon",
+        "Time": "1:50.908",
+        "Position": "11"
+    },
+    {
+        "Circuit ID": "spa",
+        "Round": "14",
+        "Lap Number": "7",
+        "Driver ID": "ocon",
+        "Time": "1:51.095",
+        "Position": "11"
+    },
+    {
+        "Circuit ID": "spa",
+        "Round": "14",
+        "Lap Number": "8",
+        "Driver ID": "ocon",
+        "Time": "1:51.110",
+        "Position": "10"
+    },
+    {
+        "Circuit ID": "spa",
+        "Round": "14",
+        "Lap Number": "9",
+        "Driver ID": "ocon",
+        "Time": "1:51.305",
+        "Position": "10"
+    },
+    {
+        "Circuit ID": "spa",
+        "Round": "14",
+        "Lap Number": "10",
+        "Driver ID": "ocon",
+        "Time": "1:51.085",
+        "Position": "10"
+    },
+    {
+        "Circuit ID": "spa",
+        "Round": "14",
+        "Lap Number": "11",
+        "Driver ID": "ocon",
+        "Time": "1:50.932",
+        "Position": "8"
+    },
+    {
+        "Circuit ID": "spa",
+        "Round": "14",
+        "Lap Number": "12",
+        "Driver ID": "ocon",
+        "Time": "1:55.525",
+        "Position": "8"
+    },
+    {
+        "Circuit ID": "spa",
+        "Round": "14",
+        "Lap Number": "13",
+        "Driver ID": "ocon",
+        "Time": "2:03.593",
+        "Position": "17"
+    },
+    {
+        "Circuit ID": "spa",
+        "Round": "14",
+        "Lap Number": "14",
+        "Driver ID": "ocon",
+        "Time": "1:49.999",
+        "Position": "16"
+    },
+    {
+        "Circuit ID": "spa",
+        "Round": "14",
+        "Lap Number": "15",
+        "Driver ID": "ocon",
+        "Time": "1:49.476",
+        "Position": "14"
+    },
+    {
+        "Circuit ID": "spa",
+        "Round": "14",
+        "Lap Number": "16",
+        "Driver ID": "ocon",
+        "Time": "1:48.997",
+        "Position": "13"
+    },
+    {
+        "Circuit ID": "spa",
+        "Round": "14",
+        "Lap Number": "17",
+        "Driver ID": "ocon",
+        "Time": "1:49.430",
+        "Position": "13"
+    },
+    {
+        "Circuit ID": "spa",
+        "Round": "14",
+        "Lap Number": "18",
+        "Driver ID": "ocon",
+        "Time": "1:49.480",
+        "Position": "12"
+    },
+    {
+        "Circuit ID": "spa",
+        "Round": "14",
+        "Lap Number": "19",
+        "Driver ID": "ocon",
+        "Time": "1:49.728",
+        "Position": "12"
+    },
+    {
+        "Circuit ID": "spa",
+        "Round": "14",
+        "Lap Number": "20",
+        "Driver ID": "ocon",
+        "Time": "1:49.499",
+        "Position": "11"
+    },
+    {
+        "Circuit ID": "spa",
+        "Round": "14",
+        "Lap Number": "21",
+        "Driver ID": "ocon",
+        "Time": "1:49.599",
+        "Position": "10"
+    },
+    {
+        "Circuit ID": "spa",
+        "Round": "14",
+        "Lap Number": "22",
+        "Driver ID": "ocon",
+        "Time": "1:49.428",
+        "Position": "10"
+    },
+    {
+        "Circuit ID": "spa",
+        "Round": "14",
+        "Lap Number": "23",
+        "Driver ID": "ocon",
+        "Time": "1:49.651",
+        "Position": "9"
+    },
+    {
+        "Circuit ID": "spa",
+        "Round": "14",
+        "Lap Number": "24",
+        "Driver ID": "ocon",
+        "Time": "1:48.745",
+        "Position": "9"
+    },
+    {
+        "Circuit ID": "spa",
+        "Round": "14",
+        "Lap Number": "25",
+        "Driver ID": "ocon",
+        "Time": "1:48.745",
+        "Position": "9"
+    },
+    {
+        "Circuit ID": "spa",
+        "Round": "14",
+        "Lap Number": "26",
+        "Driver ID": "ocon",
+        "Time": "1:48.517",
+        "Position": "9"
+    },
+    {
+        "Circuit ID": "spa",
+        "Round": "14",
+        "Lap Number": "27",
+        "Driver ID": "ocon",
+        "Time": "1:48.419",
+        "Position": "9"
+    },
+    {
+        "Circuit ID": "spa",
+        "Round": "14",
+        "Lap Number": "28",
+        "Driver ID": "ocon",
+        "Time": "1:48.555",
+        "Position": "9"
+    },
+    {
+        "Circuit ID": "spa",
+        "Round": "14",
+        "Lap Number": "29",
+        "Driver ID": "ocon",
+        "Time": "1:48.788",
+        "Position": "9"
+    },
+    {
+        "Circuit ID": "spa",
+        "Round": "14",
+        "Lap Number": "30",
+        "Driver ID": "ocon",
+        "Time": "1:52.671",
+        "Position": "9"
+    },
+    {
+        "Circuit ID": "spa",
+        "Round": "14",
+        "Lap Number": "31",
+        "Driver ID": "ocon",
+        "Time": "2:02.496",
+        "Position": "14"
+    },
+    {
+        "Circuit ID": "spa",
+        "Round": "14",
+        "Lap Number": "32",
+        "Driver ID": "ocon",
+        "Time": "1:46.992",
+        "Position": "13"
+    },
+    {
+        "Circuit ID": "spa",
+        "Round": "14",
+        "Lap Number": "33",
+        "Driver ID": "ocon",
+        "Time": "1:47.478",
+        "Position": "13"
+    },
+    {
+        "Circuit ID": "spa",
+        "Round": "14",
+        "Lap Number": "34",
+        "Driver ID": "ocon",
+        "Time": "1:48.300",
+        "Position": "13"
+    },
+    {
+        "Circuit ID": "spa",
+        "Round": "14",
+        "Lap Number": "35",
+        "Driver ID": "ocon",
+        "Time": "1:49.241",
+        "Position": "12"
+    },
+    {
+        "Circuit ID": "spa",
+        "Round": "14",
+        "Lap Number": "36",
+        "Driver ID": "ocon",
+        "Time": "1:48.983",
+        "Position": "12"
+    },
+    {
+        "Circuit ID": "spa",
+        "Round": "14",
+        "Lap Number": "37",
+        "Driver ID": "ocon",
+        "Time": "1:49.611",
+        "Position": "12"
+    },
+    {
+        "Circuit ID": "spa",
+        "Round": "14",
+        "Lap Number": "38",
+        "Driver ID": "ocon",
+        "Time": "1:46.958",
+        "Position": "11"
+    },
+    {
+        "Circuit ID": "spa",
+        "Round": "14",
+        "Lap Number": "39",
+        "Driver ID": "ocon",
+        "Time": "1:47.225",
+        "Position": "11"
+    },
+    {
+        "Circuit ID": "spa",
+        "Round": "14",
+        "Lap Number": "40",
+        "Driver ID": "ocon",
+        "Time": "1:47.364",
+        "Position": "11"
+    },
+    {
+        "Circuit ID": "spa",
+        "Round": "14",
+        "Lap Number": "41",
+        "Driver ID": "ocon",
+        "Time": "1:47.320",
+        "Position": "10"
+    },
+    {
+        "Circuit ID": "spa",
+        "Round": "14",
+        "Lap Number": "42",
+        "Driver ID": "ocon",
+        "Time": "1:47.175",
+        "Position": "10"
+    },
+    {
+        "Circuit ID": "spa",
+        "Round": "14",
+        "Lap Number": "43",
+        "Driver ID": "ocon",
+        "Time": "1:46.957",
+        "Position": "10"
+    },
+    {
+        "Circuit ID": "spa",
+        "Round": "14",
+        "Lap Number": "44",
+        "Driver ID": "ocon",
+        "Time": "1:47.528",
+        "Position": "10"
+    },
+    {
+        "Circuit ID": "spa",
+        "Round": "14",
+        "Lap Number": "1",
+        "Driver ID": "ricciardo",
+        "Time": "1:59.256",
+        "Position": "14"
+    },
+    {
+        "Circuit ID": "spa",
+        "Round": "14",
+        "Lap Number": "2",
+        "Driver ID": "ricciardo",
+        "Time": "1:51.541",
+        "Position": "14"
+    },
+    {
+        "Circuit ID": "spa",
+        "Round": "14",
+        "Lap Number": "3",
+        "Driver ID": "ricciardo",
+        "Time": "1:51.215",
+        "Position": "14"
+    },
+    {
+        "Circuit ID": "spa",
+        "Round": "14",
+        "Lap Number": "4",
+        "Driver ID": "ricciardo",
+        "Time": "1:50.715",
+        "Position": "14"
+    },
+    {
+        "Circuit ID": "spa",
+        "Round": "14",
+        "Lap Number": "5",
+        "Driver ID": "ricciardo",
+        "Time": "1:50.314",
+        "Position": "14"
+    },
+    {
+        "Circuit ID": "spa",
+        "Round": "14",
+        "Lap Number": "6",
+        "Driver ID": "ricciardo",
+        "Time": "1:50.960",
+        "Position": "14"
+    },
+    {
+        "Circuit ID": "spa",
+        "Round": "14",
+        "Lap Number": "7",
+        "Driver ID": "ricciardo",
+        "Time": "1:51.290",
+        "Position": "14"
+    },
+    {
+        "Circuit ID": "spa",
+        "Round": "14",
+        "Lap Number": "8",
+        "Driver ID": "ricciardo",
+        "Time": "1:55.595",
+        "Position": "17"
+    },
+    {
+        "Circuit ID": "spa",
+        "Round": "14",
+        "Lap Number": "9",
+        "Driver ID": "ricciardo",
+        "Time": "2:03.019",
+        "Position": "17"
+    },
+    {
+        "Circuit ID": "spa",
+        "Round": "14",
+        "Lap Number": "10",
+        "Driver ID": "ricciardo",
+        "Time": "1:49.689",
+        "Position": "16"
+    },
+    {
+        "Circuit ID": "spa",
+        "Round": "14",
+        "Lap Number": "11",
+        "Driver ID": "ricciardo",
+        "Time": "1:49.945",
+        "Position": "16"
+    },
+    {
+        "Circuit ID": "spa",
+        "Round": "14",
+        "Lap Number": "12",
+        "Driver ID": "ricciardo",
+        "Time": "1:49.946",
+        "Position": "15"
+    },
+    {
+        "Circuit ID": "spa",
+        "Round": "14",
+        "Lap Number": "13",
+        "Driver ID": "ricciardo",
+        "Time": "1:49.823",
+        "Position": "13"
+    },
+    {
+        "Circuit ID": "spa",
+        "Round": "14",
+        "Lap Number": "14",
+        "Driver ID": "ricciardo",
+        "Time": "1:49.471",
+        "Position": "12"
+    },
+    {
+        "Circuit ID": "spa",
+        "Round": "14",
+        "Lap Number": "15",
+        "Driver ID": "ricciardo",
+        "Time": "1:50.011",
+        "Position": "11"
+    },
+    {
+        "Circuit ID": "spa",
+        "Round": "14",
+        "Lap Number": "16",
+        "Driver ID": "ricciardo",
+        "Time": "1:49.495",
+        "Position": "11"
+    },
+    {
+        "Circuit ID": "spa",
+        "Round": "14",
+        "Lap Number": "17",
+        "Driver ID": "ricciardo",
+        "Time": "1:49.728",
+        "Position": "10"
+    },
+    {
+        "Circuit ID": "spa",
+        "Round": "14",
+        "Lap Number": "18",
+        "Driver ID": "ricciardo",
+        "Time": "1:49.973",
+        "Position": "10"
+    },
+    {
+        "Circuit ID": "spa",
+        "Round": "14",
+        "Lap Number": "19",
+        "Driver ID": "ricciardo",
+        "Time": "1:49.876",
+        "Position": "10"
+    },
+    {
+        "Circuit ID": "spa",
+        "Round": "14",
+        "Lap Number": "20",
+        "Driver ID": "ricciardo",
+        "Time": "1:50.202",
+        "Position": "10"
+    },
+    {
+        "Circuit ID": "spa",
+        "Round": "14",
+        "Lap Number": "21",
+        "Driver ID": "ricciardo",
+        "Time": "1:54.387",
+        "Position": "13"
+    },
+    {
+        "Circuit ID": "spa",
+        "Round": "14",
+        "Lap Number": "22",
+        "Driver ID": "ricciardo",
+        "Time": "2:04.465",
+        "Position": "17"
+    },
+    {
+        "Circuit ID": "spa",
+        "Round": "14",
+        "Lap Number": "23",
+        "Driver ID": "ricciardo",
+        "Time": "1:48.322",
+        "Position": "16"
+    },
+    {
+        "Circuit ID": "spa",
+        "Round": "14",
+        "Lap Number": "24",
+        "Driver ID": "ricciardo",
+        "Time": "1:48.562",
+        "Position": "15"
+    },
+    {
+        "Circuit ID": "spa",
+        "Round": "14",
+        "Lap Number": "25",
+        "Driver ID": "ricciardo",
+        "Time": "1:48.279",
+        "Position": "15"
+    },
+    {
+        "Circuit ID": "spa",
+        "Round": "14",
+        "Lap Number": "26",
+        "Driver ID": "ricciardo",
+        "Time": "1:48.229",
+        "Position": "14"
+    },
+    {
+        "Circuit ID": "spa",
+        "Round": "14",
+        "Lap Number": "27",
+        "Driver ID": "ricciardo",
+        "Time": "1:48.723",
+        "Position": "14"
+    },
+    {
+        "Circuit ID": "spa",
+        "Round": "14",
+        "Lap Number": "28",
+        "Driver ID": "ricciardo",
+        "Time": "1:48.431",
+        "Position": "14"
+    },
+    {
+        "Circuit ID": "spa",
+        "Round": "14",
+        "Lap Number": "29",
+        "Driver ID": "ricciardo",
+        "Time": "1:48.513",
+        "Position": "13"
+    },
+    {
+        "Circuit ID": "spa",
+        "Round": "14",
+        "Lap Number": "30",
+        "Driver ID": "ricciardo",
+        "Time": "1:48.221",
+        "Position": "13"
+    },
+    {
+        "Circuit ID": "spa",
+        "Round": "14",
+        "Lap Number": "31",
+        "Driver ID": "ricciardo",
+        "Time": "1:48.237",
+        "Position": "12"
+    },
+    {
+        "Circuit ID": "spa",
+        "Round": "14",
+        "Lap Number": "32",
+        "Driver ID": "ricciardo",
+        "Time": "1:47.883",
+        "Position": "12"
+    },
+    {
+        "Circuit ID": "spa",
+        "Round": "14",
+        "Lap Number": "33",
+        "Driver ID": "ricciardo",
+        "Time": "1:47.875",
+        "Position": "12"
+    },
+    {
+        "Circuit ID": "spa",
+        "Round": "14",
+        "Lap Number": "34",
+        "Driver ID": "ricciardo",
+        "Time": "1:48.412",
+        "Position": "12"
+    },
+    {
+        "Circuit ID": "spa",
+        "Round": "14",
+        "Lap Number": "35",
+        "Driver ID": "ricciardo",
+        "Time": "1:49.425",
+        "Position": "11"
+    },
+    {
+        "Circuit ID": "spa",
+        "Round": "14",
+        "Lap Number": "36",
+        "Driver ID": "ricciardo",
+        "Time": "1:48.860",
+        "Position": "11"
+    },
+    {
+        "Circuit ID": "spa",
+        "Round": "14",
+        "Lap Number": "37",
+        "Driver ID": "ricciardo",
+        "Time": "1:47.435",
+        "Position": "10"
+    },
+    {
+        "Circuit ID": "spa",
+        "Round": "14",
+        "Lap Number": "38",
+        "Driver ID": "ricciardo",
+        "Time": "1:48.079",
+        "Position": "10"
+    },
+    {
+        "Circuit ID": "spa",
+        "Round": "14",
+        "Lap Number": "39",
+        "Driver ID": "ricciardo",
+        "Time": "1:47.843",
+        "Position": "10"
+    },
+    {
+        "Circuit ID": "spa",
+        "Round": "14",
+        "Lap Number": "40",
+        "Driver ID": "ricciardo",
+        "Time": "1:47.652",
+        "Position": "10"
+    },
+    {
+        "Circuit ID": "spa",
+        "Round": "14",
+        "Lap Number": "41",
+        "Driver ID": "ricciardo",
+        "Time": "1:49.163",
+        "Position": "11"
+    },
+    {
+        "Circuit ID": "spa",
+        "Round": "14",
+        "Lap Number": "42",
+        "Driver ID": "ricciardo",
+        "Time": "1:47.685",
+        "Position": "11"
+    },
+    {
+        "Circuit ID": "spa",
+        "Round": "14",
+        "Lap Number": "43",
+        "Driver ID": "ricciardo",
+        "Time": "1:47.546",
+        "Position": "11"
+    },
+    {
+        "Circuit ID": "spa",
+        "Round": "14",
+        "Lap Number": "44",
+        "Driver ID": "ricciardo",
+        "Time": "1:47.675",
+        "Position": "11"
+    },
+    {
+        "Circuit ID": "spa",
+        "Round": "14",
+        "Lap Number": "1",
+        "Driver ID": "gasly",
+        "Time": "1:58.554",
+        "Position": "12"
+    },
+    {
+        "Circuit ID": "spa",
+        "Round": "14",
+        "Lap Number": "2",
+        "Driver ID": "gasly",
+        "Time": "1:51.273",
+        "Position": "12"
+    },
+    {
+        "Circuit ID": "spa",
+        "Round": "14",
+        "Lap Number": "3",
+        "Driver ID": "gasly",
+        "Time": "1:50.757",
+        "Position": "12"
+    },
+    {
+        "Circuit ID": "spa",
+        "Round": "14",
+        "Lap Number": "4",
+        "Driver ID": "gasly",
+        "Time": "1:50.366",
+        "Position": "12"
+    },
+    {
+        "Circuit ID": "spa",
+        "Round": "14",
+        "Lap Number": "5",
+        "Driver ID": "gasly",
+        "Time": "1:50.528",
+        "Position": "12"
+    },
+    {
+        "Circuit ID": "spa",
+        "Round": "14",
+        "Lap Number": "6",
+        "Driver ID": "gasly",
+        "Time": "1:51.092",
+        "Position": "12"
+    },
+    {
+        "Circuit ID": "spa",
+        "Round": "14",
+        "Lap Number": "7",
+        "Driver ID": "gasly",
+        "Time": "1:51.149",
+        "Position": "12"
+    },
+    {
+        "Circuit ID": "spa",
+        "Round": "14",
+        "Lap Number": "8",
+        "Driver ID": "gasly",
+        "Time": "1:51.388",
+        "Position": "11"
+    },
+    {
+        "Circuit ID": "spa",
+        "Round": "14",
+        "Lap Number": "9",
+        "Driver ID": "gasly",
+        "Time": "1:56.010",
+        "Position": "14"
+    },
+    {
+        "Circuit ID": "spa",
+        "Round": "14",
+        "Lap Number": "10",
+        "Driver ID": "gasly",
+        "Time": "2:04.826",
+        "Position": "18"
+    },
+    {
+        "Circuit ID": "spa",
+        "Round": "14",
+        "Lap Number": "11",
+        "Driver ID": "gasly",
+        "Time": "1:49.589",
+        "Position": "18"
+    },
+    {
+        "Circuit ID": "spa",
+        "Round": "14",
+        "Lap Number": "12",
+        "Driver ID": "gasly",
+        "Time": "1:49.780",
+        "Position": "17"
+    },
+    {
+        "Circuit ID": "spa",
+        "Round": "14",
+        "Lap Number": "13",
+        "Driver ID": "gasly",
+        "Time": "1:50.048",
+        "Position": "15"
+    },
+    {
+        "Circuit ID": "spa",
+        "Round": "14",
+        "Lap Number": "14",
+        "Driver ID": "gasly",
+        "Time": "1:50.633",
+        "Position": "15"
+    },
+    {
+        "Circuit ID": "spa",
+        "Round": "14",
+        "Lap Number": "15",
+        "Driver ID": "gasly",
+        "Time": "1:50.429",
+        "Position": "15"
+    },
+    {
+        "Circuit ID": "spa",
+        "Round": "14",
+        "Lap Number": "16",
+        "Driver ID": "gasly",
+        "Time": "1:50.113",
+        "Position": "15"
+    },
+    {
+        "Circuit ID": "spa",
+        "Round": "14",
+        "Lap Number": "17",
+        "Driver ID": "gasly",
+        "Time": "1:49.835",
+        "Position": "14"
+    },
+    {
+        "Circuit ID": "spa",
+        "Round": "14",
+        "Lap Number": "18",
+        "Driver ID": "gasly",
+        "Time": "1:50.051",
+        "Position": "13"
+    },
+    {
+        "Circuit ID": "spa",
+        "Round": "14",
+        "Lap Number": "19",
+        "Driver ID": "gasly",
+        "Time": "1:49.951",
+        "Position": "13"
+    },
+    {
+        "Circuit ID": "spa",
+        "Round": "14",
+        "Lap Number": "20",
+        "Driver ID": "gasly",
+        "Time": "1:49.883",
+        "Position": "13"
+    },
+    {
+        "Circuit ID": "spa",
+        "Round": "14",
+        "Lap Number": "21",
+        "Driver ID": "gasly",
+        "Time": "1:50.060",
+        "Position": "12"
+    },
+    {
+        "Circuit ID": "spa",
+        "Round": "14",
+        "Lap Number": "22",
+        "Driver ID": "gasly",
+        "Time": "1:49.953",
+        "Position": "12"
+    },
+    {
+        "Circuit ID": "spa",
+        "Round": "14",
+        "Lap Number": "23",
+        "Driver ID": "gasly",
+        "Time": "1:49.729",
+        "Position": "12"
+    },
+    {
+        "Circuit ID": "spa",
+        "Round": "14",
+        "Lap Number": "24",
+        "Driver ID": "gasly",
+        "Time": "1:49.508",
+        "Position": "11"
+    },
+    {
+        "Circuit ID": "spa",
+        "Round": "14",
+        "Lap Number": "25",
+        "Driver ID": "gasly",
+        "Time": "1:49.287",
+        "Position": "11"
+    },
+    {
+        "Circuit ID": "spa",
+        "Round": "14",
+        "Lap Number": "26",
+        "Driver ID": "gasly",
+        "Time": "1:49.336",
+        "Position": "11"
+    },
+    {
+        "Circuit ID": "spa",
+        "Round": "14",
+        "Lap Number": "27",
+        "Driver ID": "gasly",
+        "Time": "1:49.392",
+        "Position": "11"
+    },
+    {
+        "Circuit ID": "spa",
+        "Round": "14",
+        "Lap Number": "28",
+        "Driver ID": "gasly",
+        "Time": "1:53.715",
+        "Position": "13"
+    },
+    {
+        "Circuit ID": "spa",
+        "Round": "14",
+        "Lap Number": "29",
+        "Driver ID": "gasly",
+        "Time": "2:02.540",
+        "Position": "17"
+    },
+    {
+        "Circuit ID": "spa",
+        "Round": "14",
+        "Lap Number": "30",
+        "Driver ID": "gasly",
+        "Time": "1:47.418",
+        "Position": "16"
+    },
+    {
+        "Circuit ID": "spa",
+        "Round": "14",
+        "Lap Number": "31",
+        "Driver ID": "gasly",
+        "Time": "1:48.153",
+        "Position": "16"
+    },
+    {
+        "Circuit ID": "spa",
+        "Round": "14",
+        "Lap Number": "32",
+        "Driver ID": "gasly",
+        "Time": "1:48.213",
+        "Position": "16"
+    },
+    {
+        "Circuit ID": "spa",
+        "Round": "14",
+        "Lap Number": "33",
+        "Driver ID": "gasly",
+        "Time": "1:48.011",
+        "Position": "16"
+    },
+    {
+        "Circuit ID": "spa",
+        "Round": "14",
+        "Lap Number": "34",
+        "Driver ID": "gasly",
+        "Time": "1:47.890",
+        "Position": "16"
+    },
+    {
+        "Circuit ID": "spa",
+        "Round": "14",
+        "Lap Number": "35",
+        "Driver ID": "gasly",
+        "Time": "1:47.858",
+        "Position": "16"
+    },
+    {
+        "Circuit ID": "spa",
+        "Round": "14",
+        "Lap Number": "36",
+        "Driver ID": "gasly",
+        "Time": "1:48.241",
+        "Position": "15"
+    },
+    {
+        "Circuit ID": "spa",
+        "Round": "14",
+        "Lap Number": "37",
+        "Driver ID": "gasly",
+        "Time": "1:48.250",
+        "Position": "15"
+    },
+    {
+        "Circuit ID": "spa",
+        "Round": "14",
+        "Lap Number": "38",
+        "Driver ID": "gasly",
+        "Time": "1:48.553",
+        "Position": "15"
+    },
+    {
+        "Circuit ID": "spa",
+        "Round": "14",
+        "Lap Number": "39",
+        "Driver ID": "gasly",
+        "Time": "1:48.667",
+        "Position": "15"
+    },
+    {
+        "Circuit ID": "spa",
+        "Round": "14",
+        "Lap Number": "40",
+        "Driver ID": "gasly",
+        "Time": "1:48.507",
+        "Position": "15"
+    },
+    {
+        "Circuit ID": "spa",
+        "Round": "14",
+        "Lap Number": "41",
+        "Driver ID": "gasly",
+        "Time": "1:47.598",
+        "Position": "14"
+    },
+    {
+        "Circuit ID": "spa",
+        "Round": "14",
+        "Lap Number": "42",
+        "Driver ID": "gasly",
+        "Time": "1:48.398",
+        "Position": "14"
+    },
+    {
+        "Circuit ID": "spa",
+        "Round": "14",
+        "Lap Number": "43",
+        "Driver ID": "gasly",
+        "Time": "1:47.977",
+        "Position": "14"
+    },
+    {
+        "Circuit ID": "spa",
+        "Round": "14",
+        "Lap Number": "44",
+        "Driver ID": "gasly",
+        "Time": "1:47.896",
+        "Position": "14"
+    },
+    {
+        "Circuit ID": "spa",
+        "Round": "14",
+        "Lap Number": "1",
+        "Driver ID": "kevin_magnussen",
+        "Time": "2:00.748",
+        "Position": "17"
+    },
+    {
+        "Circuit ID": "spa",
+        "Round": "14",
+        "Lap Number": "2",
+        "Driver ID": "kevin_magnussen",
+        "Time": "1:51.732",
+        "Position": "17"
+    },
+    {
+        "Circuit ID": "spa",
+        "Round": "14",
+        "Lap Number": "3",
+        "Driver ID": "kevin_magnussen",
+        "Time": "1:51.314",
+        "Position": "17"
+    },
+    {
+        "Circuit ID": "spa",
+        "Round": "14",
+        "Lap Number": "4",
+        "Driver ID": "kevin_magnussen",
+        "Time": "1:51.004",
+        "Position": "17"
+    },
+    {
+        "Circuit ID": "spa",
+        "Round": "14",
+        "Lap Number": "5",
+        "Driver ID": "kevin_magnussen",
+        "Time": "1:50.787",
+        "Position": "17"
+    },
+    {
+        "Circuit ID": "spa",
+        "Round": "14",
+        "Lap Number": "6",
+        "Driver ID": "kevin_magnussen",
+        "Time": "1:51.355",
+        "Position": "17"
+    },
+    {
+        "Circuit ID": "spa",
+        "Round": "14",
+        "Lap Number": "7",
+        "Driver ID": "kevin_magnussen",
+        "Time": "1:51.277",
+        "Position": "16"
+    },
+    {
+        "Circuit ID": "spa",
+        "Round": "14",
+        "Lap Number": "8",
+        "Driver ID": "kevin_magnussen",
+        "Time": "1:51.285",
+        "Position": "15"
+    },
+    {
+        "Circuit ID": "spa",
+        "Round": "14",
+        "Lap Number": "9",
+        "Driver ID": "kevin_magnussen",
+        "Time": "1:51.189",
+        "Position": "13"
+    },
+    {
+        "Circuit ID": "spa",
+        "Round": "14",
+        "Lap Number": "10",
+        "Driver ID": "kevin_magnussen",
+        "Time": "1:51.712",
+        "Position": "13"
+    },
+    {
+        "Circuit ID": "spa",
+        "Round": "14",
+        "Lap Number": "11",
+        "Driver ID": "kevin_magnussen",
+        "Time": "1:51.920",
+        "Position": "12"
+    },
+    {
+        "Circuit ID": "spa",
+        "Round": "14",
+        "Lap Number": "12",
+        "Driver ID": "kevin_magnussen",
+        "Time": "1:52.134",
+        "Position": "12"
+    },
+    {
+        "Circuit ID": "spa",
+        "Round": "14",
+        "Lap Number": "13",
+        "Driver ID": "kevin_magnussen",
+        "Time": "1:50.993",
+        "Position": "10"
+    },
+    {
+        "Circuit ID": "spa",
+        "Round": "14",
+        "Lap Number": "14",
+        "Driver ID": "kevin_magnussen",
+        "Time": "1:50.867",
+        "Position": "9"
+    },
+    {
+        "Circuit ID": "spa",
+        "Round": "14",
+        "Lap Number": "15",
+        "Driver ID": "kevin_magnussen",
+        "Time": "1:50.743",
+        "Position": "9"
+    },
+    {
+        "Circuit ID": "spa",
+        "Round": "14",
+        "Lap Number": "16",
+        "Driver ID": "kevin_magnussen",
+        "Time": "1:50.473",
+        "Position": "9"
+    },
+    {
+        "Circuit ID": "spa",
+        "Round": "14",
+        "Lap Number": "17",
+        "Driver ID": "kevin_magnussen",
+        "Time": "1:54.556",
+        "Position": "12"
+    },
+    {
+        "Circuit ID": "spa",
+        "Round": "14",
+        "Lap Number": "18",
+        "Driver ID": "kevin_magnussen",
+        "Time": "2:04.382",
+        "Position": "18"
+    },
+    {
+        "Circuit ID": "spa",
+        "Round": "14",
+        "Lap Number": "19",
+        "Driver ID": "kevin_magnussen",
+        "Time": "1:49.093",
+        "Position": "18"
+    },
+    {
+        "Circuit ID": "spa",
+        "Round": "14",
+        "Lap Number": "20",
+        "Driver ID": "kevin_magnussen",
+        "Time": "1:49.957",
+        "Position": "18"
+    },
+    {
+        "Circuit ID": "spa",
+        "Round": "14",
+        "Lap Number": "21",
+        "Driver ID": "kevin_magnussen",
+        "Time": "1:50.385",
+        "Position": "17"
+    },
+    {
+        "Circuit ID": "spa",
+        "Round": "14",
+        "Lap Number": "22",
+        "Driver ID": "kevin_magnussen",
+        "Time": "1:50.189",
+        "Position": "15"
+    },
+    {
+        "Circuit ID": "spa",
+        "Round": "14",
+        "Lap Number": "23",
+        "Driver ID": "kevin_magnussen",
+        "Time": "1:49.372",
+        "Position": "15"
+    },
+    {
+        "Circuit ID": "spa",
+        "Round": "14",
+        "Lap Number": "24",
+        "Driver ID": "kevin_magnussen",
+        "Time": "1:49.208",
+        "Position": "14"
+    },
+    {
+        "Circuit ID": "spa",
+        "Round": "14",
+        "Lap Number": "25",
+        "Driver ID": "kevin_magnussen",
+        "Time": "1:48.861",
+        "Position": "14"
+    },
+    {
+        "Circuit ID": "spa",
+        "Round": "14",
+        "Lap Number": "26",
+        "Driver ID": "kevin_magnussen",
+        "Time": "1:49.903",
+        "Position": "15"
+    },
+    {
+        "Circuit ID": "spa",
+        "Round": "14",
+        "Lap Number": "27",
+        "Driver ID": "kevin_magnussen",
+        "Time": "1:50.071",
+        "Position": "16"
+    },
+    {
+        "Circuit ID": "spa",
+        "Round": "14",
+        "Lap Number": "28",
+        "Driver ID": "kevin_magnussen",
+        "Time": "1:48.970",
+        "Position": "16"
+    },
+    {
+        "Circuit ID": "spa",
+        "Round": "14",
+        "Lap Number": "29",
+        "Driver ID": "kevin_magnussen",
+        "Time": "1:48.846",
+        "Position": "15"
+    },
+    {
+        "Circuit ID": "spa",
+        "Round": "14",
+        "Lap Number": "30",
+        "Driver ID": "kevin_magnussen",
+        "Time": "1:48.469",
+        "Position": "15"
+    },
+    {
+        "Circuit ID": "spa",
+        "Round": "14",
+        "Lap Number": "31",
+        "Driver ID": "kevin_magnussen",
+        "Time": "1:49.229",
+        "Position": "15"
+    },
+    {
+        "Circuit ID": "spa",
+        "Round": "14",
+        "Lap Number": "32",
+        "Driver ID": "kevin_magnussen",
+        "Time": "1:48.624",
+        "Position": "15"
+    },
+    {
+        "Circuit ID": "spa",
+        "Round": "14",
+        "Lap Number": "33",
+        "Driver ID": "kevin_magnussen",
+        "Time": "1:48.658",
+        "Position": "15"
+    },
+    {
+        "Circuit ID": "spa",
+        "Round": "14",
+        "Lap Number": "34",
+        "Driver ID": "kevin_magnussen",
+        "Time": "1:48.522",
+        "Position": "15"
+    },
+    {
+        "Circuit ID": "spa",
+        "Round": "14",
+        "Lap Number": "35",
+        "Driver ID": "kevin_magnussen",
+        "Time": "1:48.437",
+        "Position": "15"
+    },
+    {
+        "Circuit ID": "spa",
+        "Round": "14",
+        "Lap Number": "36",
+        "Driver ID": "kevin_magnussen",
+        "Time": "1:48.701",
+        "Position": "14"
+    },
+    {
+        "Circuit ID": "spa",
+        "Round": "14",
+        "Lap Number": "37",
+        "Driver ID": "kevin_magnussen",
+        "Time": "1:48.916",
+        "Position": "14"
+    },
+    {
+        "Circuit ID": "spa",
+        "Round": "14",
+        "Lap Number": "38",
+        "Driver ID": "kevin_magnussen",
+        "Time": "1:48.742",
+        "Position": "14"
+    },
+    {
+        "Circuit ID": "spa",
+        "Round": "14",
+        "Lap Number": "39",
+        "Driver ID": "kevin_magnussen",
+        "Time": "1:48.906",
+        "Position": "14"
+    },
+    {
+        "Circuit ID": "spa",
+        "Round": "14",
+        "Lap Number": "40",
+        "Driver ID": "kevin_magnussen",
+        "Time": "1:48.616",
+        "Position": "14"
+    },
+    {
+        "Circuit ID": "spa",
+        "Round": "14",
+        "Lap Number": "41",
+        "Driver ID": "kevin_magnussen",
+        "Time": "1:49.651",
+        "Position": "15"
+    },
+    {
+        "Circuit ID": "spa",
+        "Round": "14",
+        "Lap Number": "42",
+        "Driver ID": "kevin_magnussen",
+        "Time": "1:48.869",
+        "Position": "15"
+    },
+    {
+        "Circuit ID": "spa",
+        "Round": "14",
+        "Lap Number": "43",
+        "Driver ID": "kevin_magnussen",
+        "Time": "1:48.157",
+        "Position": "15"
+    },
+    {
+        "Circuit ID": "spa",
+        "Round": "14",
+        "Lap Number": "44",
+        "Driver ID": "kevin_magnussen",
+        "Time": "1:47.848",
+        "Position": "15"
+    },
+    {
+        "Circuit ID": "spa",
+        "Round": "14",
+        "Lap Number": "1",
+        "Driver ID": "bottas",
+        "Time": "1:58.761",
+        "Position": "13"
+    },
+    {
+        "Circuit ID": "spa",
+        "Round": "14",
+        "Lap Number": "2",
+        "Driver ID": "bottas",
+        "Time": "1:51.452",
+        "Position": "13"
+    },
+    {
+        "Circuit ID": "spa",
+        "Round": "14",
+        "Lap Number": "3",
+        "Driver ID": "bottas",
+        "Time": "1:51.085",
+        "Position": "13"
+    },
+    {
+        "Circuit ID": "spa",
+        "Round": "14",
+        "Lap Number": "4",
+        "Driver ID": "bottas",
+        "Time": "1:50.527",
+        "Position": "13"
+    },
+    {
+        "Circuit ID": "spa",
+        "Round": "14",
+        "Lap Number": "5",
+        "Driver ID": "bottas",
+        "Time": "1:50.462",
+        "Position": "13"
+    },
+    {
+        "Circuit ID": "spa",
+        "Round": "14",
+        "Lap Number": "6",
+        "Driver ID": "bottas",
+        "Time": "1:51.097",
+        "Position": "13"
+    },
+    {
+        "Circuit ID": "spa",
+        "Round": "14",
+        "Lap Number": "7",
+        "Driver ID": "bottas",
+        "Time": "1:51.179",
+        "Position": "13"
+    },
+    {
+        "Circuit ID": "spa",
+        "Round": "14",
+        "Lap Number": "8",
+        "Driver ID": "bottas",
+        "Time": "1:51.417",
+        "Position": "12"
+    },
+    {
+        "Circuit ID": "spa",
+        "Round": "14",
+        "Lap Number": "9",
+        "Driver ID": "bottas",
+        "Time": "1:51.409",
+        "Position": "11"
+    },
+    {
+        "Circuit ID": "spa",
+        "Round": "14",
+        "Lap Number": "10",
+        "Driver ID": "bottas",
+        "Time": "1:50.863",
+        "Position": "11"
+    },
+    {
+        "Circuit ID": "spa",
+        "Round": "14",
+        "Lap Number": "11",
+        "Driver ID": "bottas",
+        "Time": "1:55.226",
+        "Position": "11"
+    },
+    {
+        "Circuit ID": "spa",
+        "Round": "14",
+        "Lap Number": "12",
+        "Driver ID": "bottas",
+        "Time": "2:02.971",
+        "Position": "18"
+    },
+    {
+        "Circuit ID": "spa",
+        "Round": "14",
+        "Lap Number": "13",
+        "Driver ID": "bottas",
+        "Time": "1:49.373",
+        "Position": "16"
+    },
+    {
+        "Circuit ID": "spa",
+        "Round": "14",
+        "Lap Number": "14",
+        "Driver ID": "bottas",
+        "Time": "1:51.793",
+        "Position": "17"
+    },
+    {
+        "Circuit ID": "spa",
+        "Round": "14",
+        "Lap Number": "15",
+        "Driver ID": "bottas",
+        "Time": "1:49.881",
+        "Position": "17"
+    },
+    {
+        "Circuit ID": "spa",
+        "Round": "14",
+        "Lap Number": "16",
+        "Driver ID": "bottas",
+        "Time": "1:49.947",
+        "Position": "16"
+    },
+    {
+        "Circuit ID": "spa",
+        "Round": "14",
+        "Lap Number": "17",
+        "Driver ID": "bottas",
+        "Time": "1:50.175",
+        "Position": "16"
+    },
+    {
+        "Circuit ID": "spa",
+        "Round": "14",
+        "Lap Number": "18",
+        "Driver ID": "bottas",
+        "Time": "1:50.391",
+        "Position": "15"
+    },
+    {
+        "Circuit ID": "spa",
+        "Round": "14",
+        "Lap Number": "19",
+        "Driver ID": "bottas",
+        "Time": "1:49.320",
+        "Position": "14"
+    },
+    {
+        "Circuit ID": "spa",
+        "Round": "14",
+        "Lap Number": "20",
+        "Driver ID": "bottas",
+        "Time": "1:49.950",
+        "Position": "14"
+    },
+    {
+        "Circuit ID": "spa",
+        "Round": "14",
+        "Lap Number": "21",
+        "Driver ID": "bottas",
+        "Time": "1:49.981",
+        "Position": "14"
+    },
+    {
+        "Circuit ID": "spa",
+        "Round": "14",
+        "Lap Number": "22",
+        "Driver ID": "bottas",
+        "Time": "1:49.808",
+        "Position": "13"
+    },
+    {
+        "Circuit ID": "spa",
+        "Round": "14",
+        "Lap Number": "23",
+        "Driver ID": "bottas",
+        "Time": "1:49.887",
+        "Position": "13"
+    },
+    {
+        "Circuit ID": "spa",
+        "Round": "14",
+        "Lap Number": "24",
+        "Driver ID": "bottas",
+        "Time": "1:49.757",
+        "Position": "12"
+    },
+    {
+        "Circuit ID": "spa",
+        "Round": "14",
+        "Lap Number": "25",
+        "Driver ID": "bottas",
+        "Time": "1:49.460",
+        "Position": "12"
+    },
+    {
+        "Circuit ID": "spa",
+        "Round": "14",
+        "Lap Number": "26",
+        "Driver ID": "bottas",
+        "Time": "1:49.591",
+        "Position": "12"
+    },
+    {
+        "Circuit ID": "spa",
+        "Round": "14",
+        "Lap Number": "27",
+        "Driver ID": "bottas",
+        "Time": "1:49.400",
+        "Position": "12"
+    },
+    {
+        "Circuit ID": "spa",
+        "Round": "14",
+        "Lap Number": "28",
+        "Driver ID": "bottas",
+        "Time": "1:49.571",
+        "Position": "11"
+    },
+    {
+        "Circuit ID": "spa",
+        "Round": "14",
+        "Lap Number": "29",
+        "Driver ID": "bottas",
+        "Time": "1:49.357",
+        "Position": "11"
+    },
+    {
+        "Circuit ID": "spa",
+        "Round": "14",
+        "Lap Number": "30",
+        "Driver ID": "bottas",
+        "Time": "1:48.766",
+        "Position": "11"
+    },
+    {
+        "Circuit ID": "spa",
+        "Round": "14",
+        "Lap Number": "31",
+        "Driver ID": "bottas",
+        "Time": "1:48.943",
+        "Position": "10"
+    },
+    {
+        "Circuit ID": "spa",
+        "Round": "14",
+        "Lap Number": "32",
+        "Driver ID": "bottas",
+        "Time": "1:48.951",
+        "Position": "10"
+    },
+    {
+        "Circuit ID": "spa",
+        "Round": "14",
+        "Lap Number": "33",
+        "Driver ID": "bottas",
+        "Time": "1:48.804",
+        "Position": "10"
+    },
+    {
+        "Circuit ID": "spa",
+        "Round": "14",
+        "Lap Number": "34",
+        "Driver ID": "bottas",
+        "Time": "1:49.512",
+        "Position": "10"
+    },
+    {
+        "Circuit ID": "spa",
+        "Round": "14",
+        "Lap Number": "35",
+        "Driver ID": "bottas",
+        "Time": "1:53.284",
+        "Position": "14"
+    },
+    {
+        "Circuit ID": "spa",
+        "Round": "14",
+        "Lap Number": "36",
+        "Driver ID": "bottas",
+        "Time": "2:02.192",
+        "Position": "17"
+    },
+    {
+        "Circuit ID": "spa",
+        "Round": "14",
+        "Lap Number": "37",
+        "Driver ID": "bottas",
+        "Time": "1:47.019",
+        "Position": "16"
+    },
+    {
+        "Circuit ID": "spa",
+        "Round": "14",
+        "Lap Number": "38",
+        "Driver ID": "bottas",
+        "Time": "1:47.672",
+        "Position": "16"
+    },
+    {
+        "Circuit ID": "spa",
+        "Round": "14",
+        "Lap Number": "39",
+        "Driver ID": "bottas",
+        "Time": "1:47.777",
+        "Position": "16"
+    },
+    {
+        "Circuit ID": "spa",
+        "Round": "14",
+        "Lap Number": "40",
+        "Driver ID": "bottas",
+        "Time": "1:48.110",
+        "Position": "16"
+    },
+    {
+        "Circuit ID": "spa",
+        "Round": "14",
+        "Lap Number": "41",
+        "Driver ID": "bottas",
+        "Time": "1:48.818",
+        "Position": "16"
+    },
+    {
+        "Circuit ID": "spa",
+        "Round": "14",
+        "Lap Number": "42",
+        "Driver ID": "bottas",
+        "Time": "1:48.334",
+        "Position": "16"
+    },
+    {
+        "Circuit ID": "spa",
+        "Round": "14",
+        "Lap Number": "43",
+        "Driver ID": "bottas",
+        "Time": "1:47.889",
+        "Position": "16"
+    },
+    {
+        "Circuit ID": "spa",
+        "Round": "14",
+        "Lap Number": "44",
+        "Driver ID": "bottas",
+        "Time": "1:47.516",
+        "Position": "16"
+    },
+    {
+        "Circuit ID": "spa",
+        "Round": "14",
+        "Lap Number": "1",
+        "Driver ID": "tsunoda",
+        "Time": "2:01.641",
+        "Position": "19"
+    },
+    {
+        "Circuit ID": "spa",
+        "Round": "14",
+        "Lap Number": "2",
+        "Driver ID": "tsunoda",
+        "Time": "1:52.391",
+        "Position": "19"
+    },
+    {
+        "Circuit ID": "spa",
+        "Round": "14",
+        "Lap Number": "3",
+        "Driver ID": "tsunoda",
+        "Time": "1:51.051",
+        "Position": "18"
+    },
+    {
+        "Circuit ID": "spa",
+        "Round": "14",
+        "Lap Number": "4",
+        "Driver ID": "tsunoda",
+        "Time": "1:50.858",
+        "Position": "18"
+    },
+    {
+        "Circuit ID": "spa",
+        "Round": "14",
+        "Lap Number": "5",
+        "Driver ID": "tsunoda",
+        "Time": "1:50.956",
+        "Position": "18"
+    },
+    {
+        "Circuit ID": "spa",
+        "Round": "14",
+        "Lap Number": "6",
+        "Driver ID": "tsunoda",
+        "Time": "1:51.318",
+        "Position": "18"
+    },
+    {
+        "Circuit ID": "spa",
+        "Round": "14",
+        "Lap Number": "7",
+        "Driver ID": "tsunoda",
+        "Time": "1:51.179",
+        "Position": "17"
+    },
+    {
+        "Circuit ID": "spa",
+        "Round": "14",
+        "Lap Number": "8",
+        "Driver ID": "tsunoda",
+        "Time": "1:51.369",
+        "Position": "16"
+    },
+    {
+        "Circuit ID": "spa",
+        "Round": "14",
+        "Lap Number": "9",
+        "Driver ID": "tsunoda",
+        "Time": "1:51.690",
+        "Position": "15"
+    },
+    {
+        "Circuit ID": "spa",
+        "Round": "14",
+        "Lap Number": "10",
+        "Driver ID": "tsunoda",
+        "Time": "1:51.514",
+        "Position": "14"
+    },
+    {
+        "Circuit ID": "spa",
+        "Round": "14",
+        "Lap Number": "11",
+        "Driver ID": "tsunoda",
+        "Time": "1:52.479",
+        "Position": "14"
+    },
+    {
+        "Circuit ID": "spa",
+        "Round": "14",
+        "Lap Number": "12",
+        "Driver ID": "tsunoda",
+        "Time": "1:51.556",
+        "Position": "13"
+    },
+    {
+        "Circuit ID": "spa",
+        "Round": "14",
+        "Lap Number": "13",
+        "Driver ID": "tsunoda",
+        "Time": "1:51.380",
+        "Position": "11"
+    },
+    {
+        "Circuit ID": "spa",
+        "Round": "14",
+        "Lap Number": "14",
+        "Driver ID": "tsunoda",
+        "Time": "1:51.117",
+        "Position": "10"
+    },
+    {
+        "Circuit ID": "spa",
+        "Round": "14",
+        "Lap Number": "15",
+        "Driver ID": "tsunoda",
+        "Time": "1:56.408",
+        "Position": "16"
+    },
+    {
+        "Circuit ID": "spa",
+        "Round": "14",
+        "Lap Number": "16",
+        "Driver ID": "tsunoda",
+        "Time": "2:04.840",
+        "Position": "19"
+    },
+    {
+        "Circuit ID": "spa",
+        "Round": "14",
+        "Lap Number": "17",
+        "Driver ID": "tsunoda",
+        "Time": "1:49.415",
+        "Position": "19"
+    },
+    {
+        "Circuit ID": "spa",
+        "Round": "14",
+        "Lap Number": "18",
+        "Driver ID": "tsunoda",
+        "Time": "1:49.660",
+        "Position": "19"
+    },
+    {
+        "Circuit ID": "spa",
+        "Round": "14",
+        "Lap Number": "19",
+        "Driver ID": "tsunoda",
+        "Time": "1:49.388",
+        "Position": "19"
+    },
+    {
+        "Circuit ID": "spa",
+        "Round": "14",
+        "Lap Number": "20",
+        "Driver ID": "tsunoda",
+        "Time": "1:49.621",
+        "Position": "19"
+    },
+    {
+        "Circuit ID": "spa",
+        "Round": "14",
+        "Lap Number": "21",
+        "Driver ID": "tsunoda",
+        "Time": "1:49.633",
+        "Position": "18"
+    },
+    {
+        "Circuit ID": "spa",
+        "Round": "14",
+        "Lap Number": "22",
+        "Driver ID": "tsunoda",
+        "Time": "1:51.803",
+        "Position": "18"
+    },
+    {
+        "Circuit ID": "spa",
+        "Round": "14",
+        "Lap Number": "23",
+        "Driver ID": "tsunoda",
+        "Time": "1:51.085",
+        "Position": "18"
+    },
+    {
+        "Circuit ID": "spa",
+        "Round": "14",
+        "Lap Number": "24",
+        "Driver ID": "tsunoda",
+        "Time": "1:51.096",
+        "Position": "17"
+    },
+    {
+        "Circuit ID": "spa",
+        "Round": "14",
+        "Lap Number": "25",
+        "Driver ID": "tsunoda",
+        "Time": "1:49.135",
+        "Position": "17"
+    },
+    {
+        "Circuit ID": "spa",
+        "Round": "14",
+        "Lap Number": "26",
+        "Driver ID": "tsunoda",
+        "Time": "1:49.180",
+        "Position": "17"
+    },
+    {
+        "Circuit ID": "spa",
+        "Round": "14",
+        "Lap Number": "27",
+        "Driver ID": "tsunoda",
+        "Time": "1:49.162",
+        "Position": "17"
+    },
+    {
+        "Circuit ID": "spa",
+        "Round": "14",
+        "Lap Number": "28",
+        "Driver ID": "tsunoda",
+        "Time": "1:49.156",
+        "Position": "17"
+    },
+    {
+        "Circuit ID": "spa",
+        "Round": "14",
+        "Lap Number": "29",
+        "Driver ID": "tsunoda",
+        "Time": "1:49.252",
+        "Position": "16"
+    },
+    {
+        "Circuit ID": "spa",
+        "Round": "14",
+        "Lap Number": "30",
+        "Driver ID": "tsunoda",
+        "Time": "1:49.936",
+        "Position": "17"
+    },
+    {
+        "Circuit ID": "spa",
+        "Round": "14",
+        "Lap Number": "31",
+        "Driver ID": "tsunoda",
+        "Time": "1:49.338",
+        "Position": "17"
+    },
+    {
+        "Circuit ID": "spa",
+        "Round": "14",
+        "Lap Number": "32",
+        "Driver ID": "tsunoda",
+        "Time": "1:49.085",
+        "Position": "17"
+    },
+    {
+        "Circuit ID": "spa",
+        "Round": "14",
+        "Lap Number": "33",
+        "Driver ID": "tsunoda",
+        "Time": "1:49.017",
+        "Position": "17"
+    },
+    {
+        "Circuit ID": "spa",
+        "Round": "14",
+        "Lap Number": "34",
+        "Driver ID": "tsunoda",
+        "Time": "1:49.011",
+        "Position": "17"
+    },
+    {
+        "Circuit ID": "spa",
+        "Round": "14",
+        "Lap Number": "35",
+        "Driver ID": "tsunoda",
+        "Time": "1:49.095",
+        "Position": "17"
+    },
+    {
+        "Circuit ID": "spa",
+        "Round": "14",
+        "Lap Number": "36",
+        "Driver ID": "tsunoda",
+        "Time": "1:49.145",
+        "Position": "16"
+    },
+    {
+        "Circuit ID": "spa",
+        "Round": "14",
+        "Lap Number": "37",
+        "Driver ID": "tsunoda",
+        "Time": "1:50.004",
+        "Position": "17"
+    },
+    {
+        "Circuit ID": "spa",
+        "Round": "14",
+        "Lap Number": "38",
+        "Driver ID": "tsunoda",
+        "Time": "1:48.964",
+        "Position": "17"
+    },
+    {
+        "Circuit ID": "spa",
+        "Round": "14",
+        "Lap Number": "39",
+        "Driver ID": "tsunoda",
+        "Time": "1:48.767",
+        "Position": "17"
+    },
+    {
+        "Circuit ID": "spa",
+        "Round": "14",
+        "Lap Number": "40",
+        "Driver ID": "tsunoda",
+        "Time": "1:48.760",
+        "Position": "17"
+    },
+    {
+        "Circuit ID": "spa",
+        "Round": "14",
+        "Lap Number": "41",
+        "Driver ID": "tsunoda",
+        "Time": "1:48.567",
+        "Position": "17"
+    },
+    {
+        "Circuit ID": "spa",
+        "Round": "14",
+        "Lap Number": "42",
+        "Driver ID": "tsunoda",
+        "Time": "1:48.574",
+        "Position": "17"
+    },
+    {
+        "Circuit ID": "spa",
+        "Round": "14",
+        "Lap Number": "43",
+        "Driver ID": "tsunoda",
+        "Time": "1:48.212",
+        "Position": "17"
+    },
+    {
+        "Circuit ID": "spa",
+        "Round": "14",
+        "Lap Number": "44",
+        "Driver ID": "tsunoda",
+        "Time": "1:47.969",
+        "Position": "17"
+    },
+    {
+        "Circuit ID": "spa",
+        "Round": "14",
+        "Lap Number": "1",
+        "Driver ID": "zhou",
+        "Time": "2:01.121",
+        "Position": "18"
+    },
+    {
+        "Circuit ID": "spa",
+        "Round": "14",
+        "Lap Number": "2",
+        "Driver ID": "zhou",
+        "Time": "1:52.099",
+        "Position": "18"
+    },
+    {
+        "Circuit ID": "spa",
+        "Round": "14",
+        "Lap Number": "3",
+        "Driver ID": "zhou",
+        "Time": "3:01.122",
+        "Position": "20"
+    },
+    {
+        "Circuit ID": "spa",
+        "Round": "14",
+        "Lap Number": "4",
+        "Driver ID": "zhou",
+        "Time": "1:52.376",
+        "Position": "20"
+    },
+    {
+        "Circuit ID": "spa",
+        "Round": "14",
+        "Lap Number": "5",
+        "Driver ID": "zhou",
+        "Time": "2:13.633",
+        "Position": "20"
+    },
+    {
+        "Circuit ID": "spa",
+        "Round": "14",
+        "Lap Number": "1",
+        "Driver ID": "russell",
+        "Time": "1:54.763",
+        "Position": "5"
+    },
+    {
+        "Circuit ID": "spa",
+        "Round": "14",
+        "Lap Number": "2",
+        "Driver ID": "russell",
+        "Time": "1:50.160",
+        "Position": "5"
+    },
+    {
+        "Circuit ID": "spa",
+        "Round": "14",
+        "Lap Number": "3",
+        "Driver ID": "russell",
+        "Time": "1:50.012",
+        "Position": "5"
+    },
+    {
+        "Circuit ID": "spa",
+        "Round": "14",
+        "Lap Number": "4",
+        "Driver ID": "russell",
+        "Time": "1:50.057",
+        "Position": "5"
+    },
+    {
+        "Circuit ID": "spa",
+        "Round": "14",
+        "Lap Number": "5",
+        "Driver ID": "russell",
+        "Time": "1:50.185",
+        "Position": "5"
+    },
+    {
+        "Circuit ID": "spa",
+        "Round": "14",
+        "Lap Number": "6",
+        "Driver ID": "russell",
+        "Time": "1:50.090",
+        "Position": "5"
+    },
+    {
+        "Circuit ID": "spa",
+        "Round": "14",
+        "Lap Number": "7",
+        "Driver ID": "russell",
+        "Time": "1:49.912",
+        "Position": "5"
+    },
+    {
+        "Circuit ID": "spa",
+        "Round": "14",
+        "Lap Number": "8",
+        "Driver ID": "russell",
+        "Time": "1:50.548",
+        "Position": "5"
+    },
+    {
+        "Circuit ID": "spa",
+        "Round": "14",
+        "Lap Number": "9",
+        "Driver ID": "russell",
+        "Time": "1:50.142",
+        "Position": "5"
+    },
+    {
+        "Circuit ID": "spa",
+        "Round": "14",
+        "Lap Number": "10",
+        "Driver ID": "russell",
+        "Time": "1:54.652",
+        "Position": "7"
+    },
+    {
+        "Circuit ID": "spa",
+        "Round": "14",
+        "Lap Number": "11",
+        "Driver ID": "russell",
+        "Time": "2:02.456",
+        "Position": "10"
+    },
+    {
+        "Circuit ID": "spa",
+        "Round": "14",
+        "Lap Number": "12",
+        "Driver ID": "russell",
+        "Time": "1:49.872",
+        "Position": "9"
+    },
+    {
+        "Circuit ID": "spa",
+        "Round": "14",
+        "Lap Number": "13",
+        "Driver ID": "russell",
+        "Time": "1:48.702",
+        "Position": "8"
+    },
+    {
+        "Circuit ID": "spa",
+        "Round": "14",
+        "Lap Number": "14",
+        "Driver ID": "russell",
+        "Time": "1:48.265",
+        "Position": "7"
+    },
+    {
+        "Circuit ID": "spa",
+        "Round": "14",
+        "Lap Number": "15",
+        "Driver ID": "russell",
+        "Time": "1:48.315",
+        "Position": "7"
+    },
+    {
+        "Circuit ID": "spa",
+        "Round": "14",
+        "Lap Number": "16",
+        "Driver ID": "russell",
+        "Time": "1:48.606",
+        "Position": "6"
+    },
+    {
+        "Circuit ID": "spa",
+        "Round": "14",
+        "Lap Number": "17",
+        "Driver ID": "russell",
+        "Time": "1:48.460",
+        "Position": "6"
+    },
+    {
+        "Circuit ID": "spa",
+        "Round": "14",
+        "Lap Number": "18",
+        "Driver ID": "russell",
+        "Time": "1:48.556",
+        "Position": "6"
+    },
+    {
+        "Circuit ID": "spa",
+        "Round": "14",
+        "Lap Number": "19",
+        "Driver ID": "russell",
+        "Time": "1:48.499",
+        "Position": "6"
+    },
+    {
+        "Circuit ID": "spa",
+        "Round": "14",
+        "Lap Number": "20",
+        "Driver ID": "russell",
+        "Time": "1:49.605",
+        "Position": "6"
+    },
+    {
+        "Circuit ID": "spa",
+        "Round": "14",
+        "Lap Number": "21",
+        "Driver ID": "russell",
+        "Time": "1:47.763",
+        "Position": "4"
+    },
+    {
+        "Circuit ID": "spa",
+        "Round": "14",
+        "Lap Number": "22",
+        "Driver ID": "russell",
+        "Time": "1:48.588",
+        "Position": "4"
+    },
+    {
+        "Circuit ID": "spa",
+        "Round": "14",
+        "Lap Number": "23",
+        "Driver ID": "russell",
+        "Time": "1:48.412",
+        "Position": "4"
+    },
+    {
+        "Circuit ID": "spa",
+        "Round": "14",
+        "Lap Number": "24",
+        "Driver ID": "russell",
+        "Time": "1:48.325",
+        "Position": "4"
+    },
+    {
+        "Circuit ID": "spa",
+        "Round": "14",
+        "Lap Number": "25",
+        "Driver ID": "russell",
+        "Time": "1:47.992",
+        "Position": "4"
+    },
+    {
+        "Circuit ID": "spa",
+        "Round": "14",
+        "Lap Number": "26",
+        "Driver ID": "russell",
+        "Time": "1:47.759",
+        "Position": "3"
+    },
+    {
+        "Circuit ID": "spa",
+        "Round": "14",
+        "Lap Number": "27",
+        "Driver ID": "russell",
+        "Time": "1:47.707",
+        "Position": "2"
+    },
+    {
+        "Circuit ID": "spa",
+        "Round": "14",
+        "Lap Number": "28",
+        "Driver ID": "russell",
+        "Time": "1:47.665",
+        "Position": "2"
+    },
+    {
+        "Circuit ID": "spa",
+        "Round": "14",
+        "Lap Number": "29",
+        "Driver ID": "russell",
+        "Time": "1:47.760",
+        "Position": "2"
+    },
+    {
+        "Circuit ID": "spa",
+        "Round": "14",
+        "Lap Number": "30",
+        "Driver ID": "russell",
+        "Time": "1:47.628",
+        "Position": "2"
+    },
+    {
+        "Circuit ID": "spa",
+        "Round": "14",
+        "Lap Number": "31",
+        "Driver ID": "russell",
+        "Time": "1:47.480",
+        "Position": "1"
+    },
+    {
+        "Circuit ID": "spa",
+        "Round": "14",
+        "Lap Number": "32",
+        "Driver ID": "russell",
+        "Time": "1:47.596",
+        "Position": "1"
+    },
+    {
+        "Circuit ID": "spa",
+        "Round": "14",
+        "Lap Number": "33",
+        "Driver ID": "russell",
+        "Time": "1:47.315",
+        "Position": "1"
+    },
+    {
+        "Circuit ID": "spa",
+        "Round": "14",
+        "Lap Number": "34",
+        "Driver ID": "russell",
+        "Time": "1:47.432",
+        "Position": "1"
+    },
+    {
+        "Circuit ID": "spa",
+        "Round": "14",
+        "Lap Number": "35",
+        "Driver ID": "russell",
+        "Time": "1:47.562",
+        "Position": "1"
+    },
+    {
+        "Circuit ID": "spa",
+        "Round": "14",
+        "Lap Number": "36",
+        "Driver ID": "russell",
+        "Time": "1:47.620",
+        "Position": "1"
+    },
+    {
+        "Circuit ID": "spa",
+        "Round": "14",
+        "Lap Number": "37",
+        "Driver ID": "russell",
+        "Time": "1:47.919",
+        "Position": "1"
+    },
+    {
+        "Circuit ID": "spa",
+        "Round": "14",
+        "Lap Number": "38",
+        "Driver ID": "russell",
+        "Time": "1:47.600",
+        "Position": "1"
+    },
+    {
+        "Circuit ID": "spa",
+        "Round": "14",
+        "Lap Number": "39",
+        "Driver ID": "russell",
+        "Time": "1:47.796",
+        "Position": "1"
+    },
+    {
+        "Circuit ID": "spa",
+        "Round": "14",
+        "Lap Number": "40",
+        "Driver ID": "russell",
+        "Time": "1:47.631",
+        "Position": "1"
+    },
+    {
+        "Circuit ID": "spa",
+        "Round": "14",
+        "Lap Number": "41",
+        "Driver ID": "russell",
+        "Time": "1:47.754",
+        "Position": "1"
+    },
+    {
+        "Circuit ID": "spa",
+        "Round": "14",
+        "Lap Number": "42",
+        "Driver ID": "russell",
+        "Time": "1:47.465",
+        "Position": "1"
+    },
+    {
+        "Circuit ID": "spa",
+        "Round": "14",
+        "Lap Number": "43",
+        "Driver ID": "russell",
+        "Time": "1:47.301",
+        "Position": "1"
+    },
+    {
+        "Circuit ID": "spa",
+        "Round": "14",
+        "Lap Number": "44",
+        "Driver ID": "russell",
+        "Time": "1:47.113",
+        "Position": "1"
+    }
+]

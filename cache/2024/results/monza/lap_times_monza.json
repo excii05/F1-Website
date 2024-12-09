@@ -1,0 +1,5546 @@
+[
+    {
+        "Circuit ID": "monza",
+        "Round": "16",
+        "Lap Number": "1",
+        "Driver ID": "leclerc",
+        "Time": "1:28.179",
+        "Position": "2"
+    },
+    {
+        "Circuit ID": "monza",
+        "Round": "16",
+        "Lap Number": "2",
+        "Driver ID": "leclerc",
+        "Time": "1:25.396",
+        "Position": "2"
+    },
+    {
+        "Circuit ID": "monza",
+        "Round": "16",
+        "Lap Number": "3",
+        "Driver ID": "leclerc",
+        "Time": "1:25.179",
+        "Position": "2"
+    },
+    {
+        "Circuit ID": "monza",
+        "Round": "16",
+        "Lap Number": "4",
+        "Driver ID": "leclerc",
+        "Time": "1:24.810",
+        "Position": "2"
+    },
+    {
+        "Circuit ID": "monza",
+        "Round": "16",
+        "Lap Number": "5",
+        "Driver ID": "leclerc",
+        "Time": "1:24.603",
+        "Position": "2"
+    },
+    {
+        "Circuit ID": "monza",
+        "Round": "16",
+        "Lap Number": "6",
+        "Driver ID": "leclerc",
+        "Time": "1:24.663",
+        "Position": "2"
+    },
+    {
+        "Circuit ID": "monza",
+        "Round": "16",
+        "Lap Number": "7",
+        "Driver ID": "leclerc",
+        "Time": "1:24.434",
+        "Position": "2"
+    },
+    {
+        "Circuit ID": "monza",
+        "Round": "16",
+        "Lap Number": "8",
+        "Driver ID": "leclerc",
+        "Time": "1:24.569",
+        "Position": "2"
+    },
+    {
+        "Circuit ID": "monza",
+        "Round": "16",
+        "Lap Number": "9",
+        "Driver ID": "leclerc",
+        "Time": "1:24.362",
+        "Position": "2"
+    },
+    {
+        "Circuit ID": "monza",
+        "Round": "16",
+        "Lap Number": "10",
+        "Driver ID": "leclerc",
+        "Time": "1:24.432",
+        "Position": "2"
+    },
+    {
+        "Circuit ID": "monza",
+        "Round": "16",
+        "Lap Number": "11",
+        "Driver ID": "leclerc",
+        "Time": "1:24.846",
+        "Position": "2"
+    },
+    {
+        "Circuit ID": "monza",
+        "Round": "16",
+        "Lap Number": "12",
+        "Driver ID": "leclerc",
+        "Time": "1:24.916",
+        "Position": "2"
+    },
+    {
+        "Circuit ID": "monza",
+        "Round": "16",
+        "Lap Number": "13",
+        "Driver ID": "leclerc",
+        "Time": "1:25.529",
+        "Position": "2"
+    },
+    {
+        "Circuit ID": "monza",
+        "Round": "16",
+        "Lap Number": "14",
+        "Driver ID": "leclerc",
+        "Time": "1:25.606",
+        "Position": "2"
+    },
+    {
+        "Circuit ID": "monza",
+        "Round": "16",
+        "Lap Number": "15",
+        "Driver ID": "leclerc",
+        "Time": "1:30.192",
+        "Position": "3"
+    },
+    {
+        "Circuit ID": "monza",
+        "Round": "16",
+        "Lap Number": "16",
+        "Driver ID": "leclerc",
+        "Time": "1:44.888",
+        "Position": "7"
+    },
+    {
+        "Circuit ID": "monza",
+        "Round": "16",
+        "Lap Number": "17",
+        "Driver ID": "leclerc",
+        "Time": "1:24.270",
+        "Position": "6"
+    },
+    {
+        "Circuit ID": "monza",
+        "Round": "16",
+        "Lap Number": "18",
+        "Driver ID": "leclerc",
+        "Time": "1:23.875",
+        "Position": "6"
+    },
+    {
+        "Circuit ID": "monza",
+        "Round": "16",
+        "Lap Number": "19",
+        "Driver ID": "leclerc",
+        "Time": "1:24.203",
+        "Position": "6"
+    },
+    {
+        "Circuit ID": "monza",
+        "Round": "16",
+        "Lap Number": "20",
+        "Driver ID": "leclerc",
+        "Time": "1:23.826",
+        "Position": "5"
+    },
+    {
+        "Circuit ID": "monza",
+        "Round": "16",
+        "Lap Number": "21",
+        "Driver ID": "leclerc",
+        "Time": "1:23.880",
+        "Position": "5"
+    },
+    {
+        "Circuit ID": "monza",
+        "Round": "16",
+        "Lap Number": "22",
+        "Driver ID": "leclerc",
+        "Time": "1:23.768",
+        "Position": "5"
+    },
+    {
+        "Circuit ID": "monza",
+        "Round": "16",
+        "Lap Number": "23",
+        "Driver ID": "leclerc",
+        "Time": "1:23.864",
+        "Position": "3"
+    },
+    {
+        "Circuit ID": "monza",
+        "Round": "16",
+        "Lap Number": "24",
+        "Driver ID": "leclerc",
+        "Time": "1:23.640",
+        "Position": "3"
+    },
+    {
+        "Circuit ID": "monza",
+        "Round": "16",
+        "Lap Number": "25",
+        "Driver ID": "leclerc",
+        "Time": "1:23.590",
+        "Position": "3"
+    },
+    {
+        "Circuit ID": "monza",
+        "Round": "16",
+        "Lap Number": "26",
+        "Driver ID": "leclerc",
+        "Time": "1:23.321",
+        "Position": "3"
+    },
+    {
+        "Circuit ID": "monza",
+        "Round": "16",
+        "Lap Number": "27",
+        "Driver ID": "leclerc",
+        "Time": "1:23.534",
+        "Position": "3"
+    },
+    {
+        "Circuit ID": "monza",
+        "Round": "16",
+        "Lap Number": "28",
+        "Driver ID": "leclerc",
+        "Time": "1:23.284",
+        "Position": "3"
+    },
+    {
+        "Circuit ID": "monza",
+        "Round": "16",
+        "Lap Number": "29",
+        "Driver ID": "leclerc",
+        "Time": "1:23.229",
+        "Position": "3"
+    },
+    {
+        "Circuit ID": "monza",
+        "Round": "16",
+        "Lap Number": "30",
+        "Driver ID": "leclerc",
+        "Time": "1:23.359",
+        "Position": "3"
+    },
+    {
+        "Circuit ID": "monza",
+        "Round": "16",
+        "Lap Number": "31",
+        "Driver ID": "leclerc",
+        "Time": "1:23.972",
+        "Position": "3"
+    },
+    {
+        "Circuit ID": "monza",
+        "Round": "16",
+        "Lap Number": "32",
+        "Driver ID": "leclerc",
+        "Time": "1:23.274",
+        "Position": "2"
+    },
+    {
+        "Circuit ID": "monza",
+        "Round": "16",
+        "Lap Number": "33",
+        "Driver ID": "leclerc",
+        "Time": "1:23.226",
+        "Position": "2"
+    },
+    {
+        "Circuit ID": "monza",
+        "Round": "16",
+        "Lap Number": "34",
+        "Driver ID": "leclerc",
+        "Time": "1:23.430",
+        "Position": "2"
+    },
+    {
+        "Circuit ID": "monza",
+        "Round": "16",
+        "Lap Number": "35",
+        "Driver ID": "leclerc",
+        "Time": "1:23.681",
+        "Position": "2"
+    },
+    {
+        "Circuit ID": "monza",
+        "Round": "16",
+        "Lap Number": "36",
+        "Driver ID": "leclerc",
+        "Time": "1:23.714",
+        "Position": "2"
+    },
+    {
+        "Circuit ID": "monza",
+        "Round": "16",
+        "Lap Number": "37",
+        "Driver ID": "leclerc",
+        "Time": "1:23.550",
+        "Position": "2"
+    },
+    {
+        "Circuit ID": "monza",
+        "Round": "16",
+        "Lap Number": "38",
+        "Driver ID": "leclerc",
+        "Time": "1:23.624",
+        "Position": "2"
+    },
+    {
+        "Circuit ID": "monza",
+        "Round": "16",
+        "Lap Number": "39",
+        "Driver ID": "leclerc",
+        "Time": "1:23.718",
+        "Position": "1"
+    },
+    {
+        "Circuit ID": "monza",
+        "Round": "16",
+        "Lap Number": "40",
+        "Driver ID": "leclerc",
+        "Time": "1:23.690",
+        "Position": "1"
+    },
+    {
+        "Circuit ID": "monza",
+        "Round": "16",
+        "Lap Number": "41",
+        "Driver ID": "leclerc",
+        "Time": "1:23.611",
+        "Position": "1"
+    },
+    {
+        "Circuit ID": "monza",
+        "Round": "16",
+        "Lap Number": "42",
+        "Driver ID": "leclerc",
+        "Time": "1:23.670",
+        "Position": "1"
+    },
+    {
+        "Circuit ID": "monza",
+        "Round": "16",
+        "Lap Number": "43",
+        "Driver ID": "leclerc",
+        "Time": "1:23.867",
+        "Position": "1"
+    },
+    {
+        "Circuit ID": "monza",
+        "Round": "16",
+        "Lap Number": "44",
+        "Driver ID": "leclerc",
+        "Time": "1:23.430",
+        "Position": "1"
+    },
+    {
+        "Circuit ID": "monza",
+        "Round": "16",
+        "Lap Number": "45",
+        "Driver ID": "leclerc",
+        "Time": "1:23.731",
+        "Position": "1"
+    },
+    {
+        "Circuit ID": "monza",
+        "Round": "16",
+        "Lap Number": "46",
+        "Driver ID": "leclerc",
+        "Time": "1:23.597",
+        "Position": "1"
+    },
+    {
+        "Circuit ID": "monza",
+        "Round": "16",
+        "Lap Number": "47",
+        "Driver ID": "leclerc",
+        "Time": "1:23.676",
+        "Position": "1"
+    },
+    {
+        "Circuit ID": "monza",
+        "Round": "16",
+        "Lap Number": "48",
+        "Driver ID": "leclerc",
+        "Time": "1:23.518",
+        "Position": "1"
+    },
+    {
+        "Circuit ID": "monza",
+        "Round": "16",
+        "Lap Number": "49",
+        "Driver ID": "leclerc",
+        "Time": "1:23.467",
+        "Position": "1"
+    },
+    {
+        "Circuit ID": "monza",
+        "Round": "16",
+        "Lap Number": "50",
+        "Driver ID": "leclerc",
+        "Time": "1:23.461",
+        "Position": "1"
+    },
+    {
+        "Circuit ID": "monza",
+        "Round": "16",
+        "Lap Number": "51",
+        "Driver ID": "leclerc",
+        "Time": "1:23.555",
+        "Position": "1"
+    },
+    {
+        "Circuit ID": "monza",
+        "Round": "16",
+        "Lap Number": "52",
+        "Driver ID": "leclerc",
+        "Time": "1:23.750",
+        "Position": "1"
+    },
+    {
+        "Circuit ID": "monza",
+        "Round": "16",
+        "Lap Number": "53",
+        "Driver ID": "leclerc",
+        "Time": "1:23.268",
+        "Position": "1"
+    },
+    {
+        "Circuit ID": "monza",
+        "Round": "16",
+        "Lap Number": "1",
+        "Driver ID": "piastri",
+        "Time": "1:27.623",
+        "Position": "1"
+    },
+    {
+        "Circuit ID": "monza",
+        "Round": "16",
+        "Lap Number": "2",
+        "Driver ID": "piastri",
+        "Time": "1:25.116",
+        "Position": "1"
+    },
+    {
+        "Circuit ID": "monza",
+        "Round": "16",
+        "Lap Number": "3",
+        "Driver ID": "piastri",
+        "Time": "1:25.261",
+        "Position": "1"
+    },
+    {
+        "Circuit ID": "monza",
+        "Round": "16",
+        "Lap Number": "4",
+        "Driver ID": "piastri",
+        "Time": "1:24.695",
+        "Position": "1"
+    },
+    {
+        "Circuit ID": "monza",
+        "Round": "16",
+        "Lap Number": "5",
+        "Driver ID": "piastri",
+        "Time": "1:24.660",
+        "Position": "1"
+    },
+    {
+        "Circuit ID": "monza",
+        "Round": "16",
+        "Lap Number": "6",
+        "Driver ID": "piastri",
+        "Time": "1:24.603",
+        "Position": "1"
+    },
+    {
+        "Circuit ID": "monza",
+        "Round": "16",
+        "Lap Number": "7",
+        "Driver ID": "piastri",
+        "Time": "1:24.418",
+        "Position": "1"
+    },
+    {
+        "Circuit ID": "monza",
+        "Round": "16",
+        "Lap Number": "8",
+        "Driver ID": "piastri",
+        "Time": "1:24.570",
+        "Position": "1"
+    },
+    {
+        "Circuit ID": "monza",
+        "Round": "16",
+        "Lap Number": "9",
+        "Driver ID": "piastri",
+        "Time": "1:24.375",
+        "Position": "1"
+    },
+    {
+        "Circuit ID": "monza",
+        "Round": "16",
+        "Lap Number": "10",
+        "Driver ID": "piastri",
+        "Time": "1:24.077",
+        "Position": "1"
+    },
+    {
+        "Circuit ID": "monza",
+        "Round": "16",
+        "Lap Number": "11",
+        "Driver ID": "piastri",
+        "Time": "1:24.247",
+        "Position": "1"
+    },
+    {
+        "Circuit ID": "monza",
+        "Round": "16",
+        "Lap Number": "12",
+        "Driver ID": "piastri",
+        "Time": "1:24.748",
+        "Position": "1"
+    },
+    {
+        "Circuit ID": "monza",
+        "Round": "16",
+        "Lap Number": "13",
+        "Driver ID": "piastri",
+        "Time": "1:24.670",
+        "Position": "1"
+    },
+    {
+        "Circuit ID": "monza",
+        "Round": "16",
+        "Lap Number": "14",
+        "Driver ID": "piastri",
+        "Time": "1:25.048",
+        "Position": "1"
+    },
+    {
+        "Circuit ID": "monza",
+        "Round": "16",
+        "Lap Number": "15",
+        "Driver ID": "piastri",
+        "Time": "1:25.166",
+        "Position": "1"
+    },
+    {
+        "Circuit ID": "monza",
+        "Round": "16",
+        "Lap Number": "16",
+        "Driver ID": "piastri",
+        "Time": "1:29.939",
+        "Position": "1"
+    },
+    {
+        "Circuit ID": "monza",
+        "Round": "16",
+        "Lap Number": "17",
+        "Driver ID": "piastri",
+        "Time": "1:44.250",
+        "Position": "4"
+    },
+    {
+        "Circuit ID": "monza",
+        "Round": "16",
+        "Lap Number": "18",
+        "Driver ID": "piastri",
+        "Time": "1:24.028",
+        "Position": "4"
+    },
+    {
+        "Circuit ID": "monza",
+        "Round": "16",
+        "Lap Number": "19",
+        "Driver ID": "piastri",
+        "Time": "1:24.602",
+        "Position": "4"
+    },
+    {
+        "Circuit ID": "monza",
+        "Round": "16",
+        "Lap Number": "20",
+        "Driver ID": "piastri",
+        "Time": "1:23.986",
+        "Position": "3"
+    },
+    {
+        "Circuit ID": "monza",
+        "Round": "16",
+        "Lap Number": "21",
+        "Driver ID": "piastri",
+        "Time": "1:23.903",
+        "Position": "3"
+    },
+    {
+        "Circuit ID": "monza",
+        "Round": "16",
+        "Lap Number": "22",
+        "Driver ID": "piastri",
+        "Time": "1:23.647",
+        "Position": "3"
+    },
+    {
+        "Circuit ID": "monza",
+        "Round": "16",
+        "Lap Number": "23",
+        "Driver ID": "piastri",
+        "Time": "1:23.660",
+        "Position": "1"
+    },
+    {
+        "Circuit ID": "monza",
+        "Round": "16",
+        "Lap Number": "24",
+        "Driver ID": "piastri",
+        "Time": "1:23.315",
+        "Position": "1"
+    },
+    {
+        "Circuit ID": "monza",
+        "Round": "16",
+        "Lap Number": "25",
+        "Driver ID": "piastri",
+        "Time": "1:23.230",
+        "Position": "1"
+    },
+    {
+        "Circuit ID": "monza",
+        "Round": "16",
+        "Lap Number": "26",
+        "Driver ID": "piastri",
+        "Time": "1:23.133",
+        "Position": "1"
+    },
+    {
+        "Circuit ID": "monza",
+        "Round": "16",
+        "Lap Number": "27",
+        "Driver ID": "piastri",
+        "Time": "1:23.088",
+        "Position": "1"
+    },
+    {
+        "Circuit ID": "monza",
+        "Round": "16",
+        "Lap Number": "28",
+        "Driver ID": "piastri",
+        "Time": "1:23.168",
+        "Position": "1"
+    },
+    {
+        "Circuit ID": "monza",
+        "Round": "16",
+        "Lap Number": "29",
+        "Driver ID": "piastri",
+        "Time": "1:23.066",
+        "Position": "1"
+    },
+    {
+        "Circuit ID": "monza",
+        "Round": "16",
+        "Lap Number": "30",
+        "Driver ID": "piastri",
+        "Time": "1:22.968",
+        "Position": "1"
+    },
+    {
+        "Circuit ID": "monza",
+        "Round": "16",
+        "Lap Number": "31",
+        "Driver ID": "piastri",
+        "Time": "1:23.221",
+        "Position": "1"
+    },
+    {
+        "Circuit ID": "monza",
+        "Round": "16",
+        "Lap Number": "32",
+        "Driver ID": "piastri",
+        "Time": "1:23.480",
+        "Position": "1"
+    },
+    {
+        "Circuit ID": "monza",
+        "Round": "16",
+        "Lap Number": "33",
+        "Driver ID": "piastri",
+        "Time": "1:23.148",
+        "Position": "1"
+    },
+    {
+        "Circuit ID": "monza",
+        "Round": "16",
+        "Lap Number": "34",
+        "Driver ID": "piastri",
+        "Time": "1:23.456",
+        "Position": "1"
+    },
+    {
+        "Circuit ID": "monza",
+        "Round": "16",
+        "Lap Number": "35",
+        "Driver ID": "piastri",
+        "Time": "1:23.409",
+        "Position": "1"
+    },
+    {
+        "Circuit ID": "monza",
+        "Round": "16",
+        "Lap Number": "36",
+        "Driver ID": "piastri",
+        "Time": "1:23.746",
+        "Position": "1"
+    },
+    {
+        "Circuit ID": "monza",
+        "Round": "16",
+        "Lap Number": "37",
+        "Driver ID": "piastri",
+        "Time": "1:23.691",
+        "Position": "1"
+    },
+    {
+        "Circuit ID": "monza",
+        "Round": "16",
+        "Lap Number": "38",
+        "Driver ID": "piastri",
+        "Time": "1:28.125",
+        "Position": "1"
+    },
+    {
+        "Circuit ID": "monza",
+        "Round": "16",
+        "Lap Number": "39",
+        "Driver ID": "piastri",
+        "Time": "1:43.438",
+        "Position": "3"
+    },
+    {
+        "Circuit ID": "monza",
+        "Round": "16",
+        "Lap Number": "40",
+        "Driver ID": "piastri",
+        "Time": "1:22.264",
+        "Position": "3"
+    },
+    {
+        "Circuit ID": "monza",
+        "Round": "16",
+        "Lap Number": "41",
+        "Driver ID": "piastri",
+        "Time": "1:22.066",
+        "Position": "3"
+    },
+    {
+        "Circuit ID": "monza",
+        "Round": "16",
+        "Lap Number": "42",
+        "Driver ID": "piastri",
+        "Time": "1:22.331",
+        "Position": "3"
+    },
+    {
+        "Circuit ID": "monza",
+        "Round": "16",
+        "Lap Number": "43",
+        "Driver ID": "piastri",
+        "Time": "1:22.092",
+        "Position": "3"
+    },
+    {
+        "Circuit ID": "monza",
+        "Round": "16",
+        "Lap Number": "44",
+        "Driver ID": "piastri",
+        "Time": "1:22.628",
+        "Position": "3"
+    },
+    {
+        "Circuit ID": "monza",
+        "Round": "16",
+        "Lap Number": "45",
+        "Driver ID": "piastri",
+        "Time": "1:23.675",
+        "Position": "2"
+    },
+    {
+        "Circuit ID": "monza",
+        "Round": "16",
+        "Lap Number": "46",
+        "Driver ID": "piastri",
+        "Time": "1:22.537",
+        "Position": "2"
+    },
+    {
+        "Circuit ID": "monza",
+        "Round": "16",
+        "Lap Number": "47",
+        "Driver ID": "piastri",
+        "Time": "1:22.253",
+        "Position": "2"
+    },
+    {
+        "Circuit ID": "monza",
+        "Round": "16",
+        "Lap Number": "48",
+        "Driver ID": "piastri",
+        "Time": "1:22.725",
+        "Position": "2"
+    },
+    {
+        "Circuit ID": "monza",
+        "Round": "16",
+        "Lap Number": "49",
+        "Driver ID": "piastri",
+        "Time": "1:22.945",
+        "Position": "2"
+    },
+    {
+        "Circuit ID": "monza",
+        "Round": "16",
+        "Lap Number": "50",
+        "Driver ID": "piastri",
+        "Time": "1:22.586",
+        "Position": "2"
+    },
+    {
+        "Circuit ID": "monza",
+        "Round": "16",
+        "Lap Number": "51",
+        "Driver ID": "piastri",
+        "Time": "1:22.424",
+        "Position": "2"
+    },
+    {
+        "Circuit ID": "monza",
+        "Round": "16",
+        "Lap Number": "52",
+        "Driver ID": "piastri",
+        "Time": "1:21.948",
+        "Position": "2"
+    },
+    {
+        "Circuit ID": "monza",
+        "Round": "16",
+        "Lap Number": "53",
+        "Driver ID": "piastri",
+        "Time": "1:21.943",
+        "Position": "2"
+    },
+    {
+        "Circuit ID": "monza",
+        "Round": "16",
+        "Lap Number": "1",
+        "Driver ID": "norris",
+        "Time": "1:28.971",
+        "Position": "3"
+    },
+    {
+        "Circuit ID": "monza",
+        "Round": "16",
+        "Lap Number": "2",
+        "Driver ID": "norris",
+        "Time": "1:25.458",
+        "Position": "3"
+    },
+    {
+        "Circuit ID": "monza",
+        "Round": "16",
+        "Lap Number": "3",
+        "Driver ID": "norris",
+        "Time": "1:25.110",
+        "Position": "3"
+    },
+    {
+        "Circuit ID": "monza",
+        "Round": "16",
+        "Lap Number": "4",
+        "Driver ID": "norris",
+        "Time": "1:25.168",
+        "Position": "3"
+    },
+    {
+        "Circuit ID": "monza",
+        "Round": "16",
+        "Lap Number": "5",
+        "Driver ID": "norris",
+        "Time": "1:24.674",
+        "Position": "3"
+    },
+    {
+        "Circuit ID": "monza",
+        "Round": "16",
+        "Lap Number": "6",
+        "Driver ID": "norris",
+        "Time": "1:24.768",
+        "Position": "3"
+    },
+    {
+        "Circuit ID": "monza",
+        "Round": "16",
+        "Lap Number": "7",
+        "Driver ID": "norris",
+        "Time": "1:24.531",
+        "Position": "3"
+    },
+    {
+        "Circuit ID": "monza",
+        "Round": "16",
+        "Lap Number": "8",
+        "Driver ID": "norris",
+        "Time": "1:24.674",
+        "Position": "3"
+    },
+    {
+        "Circuit ID": "monza",
+        "Round": "16",
+        "Lap Number": "9",
+        "Driver ID": "norris",
+        "Time": "1:24.664",
+        "Position": "3"
+    },
+    {
+        "Circuit ID": "monza",
+        "Round": "16",
+        "Lap Number": "10",
+        "Driver ID": "norris",
+        "Time": "1:24.391",
+        "Position": "3"
+    },
+    {
+        "Circuit ID": "monza",
+        "Round": "16",
+        "Lap Number": "11",
+        "Driver ID": "norris",
+        "Time": "1:24.448",
+        "Position": "3"
+    },
+    {
+        "Circuit ID": "monza",
+        "Round": "16",
+        "Lap Number": "12",
+        "Driver ID": "norris",
+        "Time": "1:24.655",
+        "Position": "3"
+    },
+    {
+        "Circuit ID": "monza",
+        "Round": "16",
+        "Lap Number": "13",
+        "Driver ID": "norris",
+        "Time": "1:25.359",
+        "Position": "3"
+    },
+    {
+        "Circuit ID": "monza",
+        "Round": "16",
+        "Lap Number": "14",
+        "Driver ID": "norris",
+        "Time": "1:29.417",
+        "Position": "4"
+    },
+    {
+        "Circuit ID": "monza",
+        "Round": "16",
+        "Lap Number": "15",
+        "Driver ID": "norris",
+        "Time": "1:43.840",
+        "Position": "8"
+    },
+    {
+        "Circuit ID": "monza",
+        "Round": "16",
+        "Lap Number": "16",
+        "Driver ID": "norris",
+        "Time": "1:24.154",
+        "Position": "6"
+    },
+    {
+        "Circuit ID": "monza",
+        "Round": "16",
+        "Lap Number": "17",
+        "Driver ID": "norris",
+        "Time": "1:25.585",
+        "Position": "5"
+    },
+    {
+        "Circuit ID": "monza",
+        "Round": "16",
+        "Lap Number": "18",
+        "Driver ID": "norris",
+        "Time": "1:23.920",
+        "Position": "5"
+    },
+    {
+        "Circuit ID": "monza",
+        "Round": "16",
+        "Lap Number": "19",
+        "Driver ID": "norris",
+        "Time": "1:24.152",
+        "Position": "5"
+    },
+    {
+        "Circuit ID": "monza",
+        "Round": "16",
+        "Lap Number": "20",
+        "Driver ID": "norris",
+        "Time": "1:23.882",
+        "Position": "4"
+    },
+    {
+        "Circuit ID": "monza",
+        "Round": "16",
+        "Lap Number": "21",
+        "Driver ID": "norris",
+        "Time": "1:23.753",
+        "Position": "4"
+    },
+    {
+        "Circuit ID": "monza",
+        "Round": "16",
+        "Lap Number": "22",
+        "Driver ID": "norris",
+        "Time": "1:23.652",
+        "Position": "4"
+    },
+    {
+        "Circuit ID": "monza",
+        "Round": "16",
+        "Lap Number": "23",
+        "Driver ID": "norris",
+        "Time": "1:23.581",
+        "Position": "2"
+    },
+    {
+        "Circuit ID": "monza",
+        "Round": "16",
+        "Lap Number": "24",
+        "Driver ID": "norris",
+        "Time": "1:23.601",
+        "Position": "2"
+    },
+    {
+        "Circuit ID": "monza",
+        "Round": "16",
+        "Lap Number": "25",
+        "Driver ID": "norris",
+        "Time": "1:23.321",
+        "Position": "2"
+    },
+    {
+        "Circuit ID": "monza",
+        "Round": "16",
+        "Lap Number": "26",
+        "Driver ID": "norris",
+        "Time": "1:23.469",
+        "Position": "2"
+    },
+    {
+        "Circuit ID": "monza",
+        "Round": "16",
+        "Lap Number": "27",
+        "Driver ID": "norris",
+        "Time": "1:23.267",
+        "Position": "2"
+    },
+    {
+        "Circuit ID": "monza",
+        "Round": "16",
+        "Lap Number": "28",
+        "Driver ID": "norris",
+        "Time": "1:23.067",
+        "Position": "2"
+    },
+    {
+        "Circuit ID": "monza",
+        "Round": "16",
+        "Lap Number": "29",
+        "Driver ID": "norris",
+        "Time": "1:23.300",
+        "Position": "2"
+    },
+    {
+        "Circuit ID": "monza",
+        "Round": "16",
+        "Lap Number": "30",
+        "Driver ID": "norris",
+        "Time": "1:23.614",
+        "Position": "2"
+    },
+    {
+        "Circuit ID": "monza",
+        "Round": "16",
+        "Lap Number": "31",
+        "Driver ID": "norris",
+        "Time": "1:24.940",
+        "Position": "2"
+    },
+    {
+        "Circuit ID": "monza",
+        "Round": "16",
+        "Lap Number": "32",
+        "Driver ID": "norris",
+        "Time": "1:27.414",
+        "Position": "3"
+    },
+    {
+        "Circuit ID": "monza",
+        "Round": "16",
+        "Lap Number": "33",
+        "Driver ID": "norris",
+        "Time": "1:44.073",
+        "Position": "6"
+    },
+    {
+        "Circuit ID": "monza",
+        "Round": "16",
+        "Lap Number": "34",
+        "Driver ID": "norris",
+        "Time": "1:22.837",
+        "Position": "6"
+    },
+    {
+        "Circuit ID": "monza",
+        "Round": "16",
+        "Lap Number": "35",
+        "Driver ID": "norris",
+        "Time": "1:23.137",
+        "Position": "6"
+    },
+    {
+        "Circuit ID": "monza",
+        "Round": "16",
+        "Lap Number": "36",
+        "Driver ID": "norris",
+        "Time": "1:23.114",
+        "Position": "6"
+    },
+    {
+        "Circuit ID": "monza",
+        "Round": "16",
+        "Lap Number": "37",
+        "Driver ID": "norris",
+        "Time": "1:23.178",
+        "Position": "6"
+    },
+    {
+        "Circuit ID": "monza",
+        "Round": "16",
+        "Lap Number": "38",
+        "Driver ID": "norris",
+        "Time": "1:23.133",
+        "Position": "5"
+    },
+    {
+        "Circuit ID": "monza",
+        "Round": "16",
+        "Lap Number": "39",
+        "Driver ID": "norris",
+        "Time": "1:23.061",
+        "Position": "5"
+    },
+    {
+        "Circuit ID": "monza",
+        "Round": "16",
+        "Lap Number": "40",
+        "Driver ID": "norris",
+        "Time": "1:24.162",
+        "Position": "5"
+    },
+    {
+        "Circuit ID": "monza",
+        "Round": "16",
+        "Lap Number": "41",
+        "Driver ID": "norris",
+        "Time": "1:22.234",
+        "Position": "4"
+    },
+    {
+        "Circuit ID": "monza",
+        "Round": "16",
+        "Lap Number": "42",
+        "Driver ID": "norris",
+        "Time": "1:22.678",
+        "Position": "4"
+    },
+    {
+        "Circuit ID": "monza",
+        "Round": "16",
+        "Lap Number": "43",
+        "Driver ID": "norris",
+        "Time": "1:22.250",
+        "Position": "4"
+    },
+    {
+        "Circuit ID": "monza",
+        "Round": "16",
+        "Lap Number": "44",
+        "Driver ID": "norris",
+        "Time": "1:22.403",
+        "Position": "4"
+    },
+    {
+        "Circuit ID": "monza",
+        "Round": "16",
+        "Lap Number": "45",
+        "Driver ID": "norris",
+        "Time": "1:22.398",
+        "Position": "4"
+    },
+    {
+        "Circuit ID": "monza",
+        "Round": "16",
+        "Lap Number": "46",
+        "Driver ID": "norris",
+        "Time": "1:22.041",
+        "Position": "4"
+    },
+    {
+        "Circuit ID": "monza",
+        "Round": "16",
+        "Lap Number": "47",
+        "Driver ID": "norris",
+        "Time": "1:23.852",
+        "Position": "4"
+    },
+    {
+        "Circuit ID": "monza",
+        "Round": "16",
+        "Lap Number": "48",
+        "Driver ID": "norris",
+        "Time": "1:21.824",
+        "Position": "3"
+    },
+    {
+        "Circuit ID": "monza",
+        "Round": "16",
+        "Lap Number": "49",
+        "Driver ID": "norris",
+        "Time": "1:22.436",
+        "Position": "3"
+    },
+    {
+        "Circuit ID": "monza",
+        "Round": "16",
+        "Lap Number": "50",
+        "Driver ID": "norris",
+        "Time": "1:23.266",
+        "Position": "3"
+    },
+    {
+        "Circuit ID": "monza",
+        "Round": "16",
+        "Lap Number": "51",
+        "Driver ID": "norris",
+        "Time": "1:22.269",
+        "Position": "3"
+    },
+    {
+        "Circuit ID": "monza",
+        "Round": "16",
+        "Lap Number": "52",
+        "Driver ID": "norris",
+        "Time": "1:22.302",
+        "Position": "3"
+    },
+    {
+        "Circuit ID": "monza",
+        "Round": "16",
+        "Lap Number": "53",
+        "Driver ID": "norris",
+        "Time": "1:21.432",
+        "Position": "3"
+    },
+    {
+        "Circuit ID": "monza",
+        "Round": "16",
+        "Lap Number": "1",
+        "Driver ID": "sainz",
+        "Time": "1:29.345",
+        "Position": "4"
+    },
+    {
+        "Circuit ID": "monza",
+        "Round": "16",
+        "Lap Number": "2",
+        "Driver ID": "sainz",
+        "Time": "1:25.731",
+        "Position": "4"
+    },
+    {
+        "Circuit ID": "monza",
+        "Round": "16",
+        "Lap Number": "3",
+        "Driver ID": "sainz",
+        "Time": "1:25.358",
+        "Position": "4"
+    },
+    {
+        "Circuit ID": "monza",
+        "Round": "16",
+        "Lap Number": "4",
+        "Driver ID": "sainz",
+        "Time": "1:25.086",
+        "Position": "4"
+    },
+    {
+        "Circuit ID": "monza",
+        "Round": "16",
+        "Lap Number": "5",
+        "Driver ID": "sainz",
+        "Time": "1:25.006",
+        "Position": "4"
+    },
+    {
+        "Circuit ID": "monza",
+        "Round": "16",
+        "Lap Number": "6",
+        "Driver ID": "sainz",
+        "Time": "1:24.642",
+        "Position": "4"
+    },
+    {
+        "Circuit ID": "monza",
+        "Round": "16",
+        "Lap Number": "7",
+        "Driver ID": "sainz",
+        "Time": "1:24.715",
+        "Position": "4"
+    },
+    {
+        "Circuit ID": "monza",
+        "Round": "16",
+        "Lap Number": "8",
+        "Driver ID": "sainz",
+        "Time": "1:24.870",
+        "Position": "4"
+    },
+    {
+        "Circuit ID": "monza",
+        "Round": "16",
+        "Lap Number": "9",
+        "Driver ID": "sainz",
+        "Time": "1:24.774",
+        "Position": "4"
+    },
+    {
+        "Circuit ID": "monza",
+        "Round": "16",
+        "Lap Number": "10",
+        "Driver ID": "sainz",
+        "Time": "1:24.684",
+        "Position": "4"
+    },
+    {
+        "Circuit ID": "monza",
+        "Round": "16",
+        "Lap Number": "11",
+        "Driver ID": "sainz",
+        "Time": "1:25.066",
+        "Position": "4"
+    },
+    {
+        "Circuit ID": "monza",
+        "Round": "16",
+        "Lap Number": "12",
+        "Driver ID": "sainz",
+        "Time": "1:25.276",
+        "Position": "4"
+    },
+    {
+        "Circuit ID": "monza",
+        "Round": "16",
+        "Lap Number": "13",
+        "Driver ID": "sainz",
+        "Time": "1:25.423",
+        "Position": "4"
+    },
+    {
+        "Circuit ID": "monza",
+        "Round": "16",
+        "Lap Number": "14",
+        "Driver ID": "sainz",
+        "Time": "1:25.234",
+        "Position": "3"
+    },
+    {
+        "Circuit ID": "monza",
+        "Round": "16",
+        "Lap Number": "15",
+        "Driver ID": "sainz",
+        "Time": "1:25.183",
+        "Position": "2"
+    },
+    {
+        "Circuit ID": "monza",
+        "Round": "16",
+        "Lap Number": "16",
+        "Driver ID": "sainz",
+        "Time": "1:25.341",
+        "Position": "2"
+    },
+    {
+        "Circuit ID": "monza",
+        "Round": "16",
+        "Lap Number": "17",
+        "Driver ID": "sainz",
+        "Time": "1:25.407",
+        "Position": "1"
+    },
+    {
+        "Circuit ID": "monza",
+        "Round": "16",
+        "Lap Number": "18",
+        "Driver ID": "sainz",
+        "Time": "1:25.678",
+        "Position": "1"
+    },
+    {
+        "Circuit ID": "monza",
+        "Round": "16",
+        "Lap Number": "19",
+        "Driver ID": "sainz",
+        "Time": "1:30.388",
+        "Position": "2"
+    },
+    {
+        "Circuit ID": "monza",
+        "Round": "16",
+        "Lap Number": "20",
+        "Driver ID": "sainz",
+        "Time": "1:44.811",
+        "Position": "6"
+    },
+    {
+        "Circuit ID": "monza",
+        "Round": "16",
+        "Lap Number": "21",
+        "Driver ID": "sainz",
+        "Time": "1:24.499",
+        "Position": "6"
+    },
+    {
+        "Circuit ID": "monza",
+        "Round": "16",
+        "Lap Number": "22",
+        "Driver ID": "sainz",
+        "Time": "1:24.226",
+        "Position": "6"
+    },
+    {
+        "Circuit ID": "monza",
+        "Round": "16",
+        "Lap Number": "23",
+        "Driver ID": "sainz",
+        "Time": "1:24.557",
+        "Position": "5"
+    },
+    {
+        "Circuit ID": "monza",
+        "Round": "16",
+        "Lap Number": "24",
+        "Driver ID": "sainz",
+        "Time": "1:23.682",
+        "Position": "4"
+    },
+    {
+        "Circuit ID": "monza",
+        "Round": "16",
+        "Lap Number": "25",
+        "Driver ID": "sainz",
+        "Time": "1:23.687",
+        "Position": "4"
+    },
+    {
+        "Circuit ID": "monza",
+        "Round": "16",
+        "Lap Number": "26",
+        "Driver ID": "sainz",
+        "Time": "1:23.503",
+        "Position": "4"
+    },
+    {
+        "Circuit ID": "monza",
+        "Round": "16",
+        "Lap Number": "27",
+        "Driver ID": "sainz",
+        "Time": "1:23.503",
+        "Position": "4"
+    },
+    {
+        "Circuit ID": "monza",
+        "Round": "16",
+        "Lap Number": "28",
+        "Driver ID": "sainz",
+        "Time": "1:23.751",
+        "Position": "4"
+    },
+    {
+        "Circuit ID": "monza",
+        "Round": "16",
+        "Lap Number": "29",
+        "Driver ID": "sainz",
+        "Time": "1:23.473",
+        "Position": "4"
+    },
+    {
+        "Circuit ID": "monza",
+        "Round": "16",
+        "Lap Number": "30",
+        "Driver ID": "sainz",
+        "Time": "1:23.584",
+        "Position": "4"
+    },
+    {
+        "Circuit ID": "monza",
+        "Round": "16",
+        "Lap Number": "31",
+        "Driver ID": "sainz",
+        "Time": "1:23.330",
+        "Position": "4"
+    },
+    {
+        "Circuit ID": "monza",
+        "Round": "16",
+        "Lap Number": "32",
+        "Driver ID": "sainz",
+        "Time": "1:23.354",
+        "Position": "4"
+    },
+    {
+        "Circuit ID": "monza",
+        "Round": "16",
+        "Lap Number": "33",
+        "Driver ID": "sainz",
+        "Time": "1:23.412",
+        "Position": "3"
+    },
+    {
+        "Circuit ID": "monza",
+        "Round": "16",
+        "Lap Number": "34",
+        "Driver ID": "sainz",
+        "Time": "1:23.285",
+        "Position": "3"
+    },
+    {
+        "Circuit ID": "monza",
+        "Round": "16",
+        "Lap Number": "35",
+        "Driver ID": "sainz",
+        "Time": "1:23.334",
+        "Position": "3"
+    },
+    {
+        "Circuit ID": "monza",
+        "Round": "16",
+        "Lap Number": "36",
+        "Driver ID": "sainz",
+        "Time": "1:23.270",
+        "Position": "3"
+    },
+    {
+        "Circuit ID": "monza",
+        "Round": "16",
+        "Lap Number": "37",
+        "Driver ID": "sainz",
+        "Time": "1:23.290",
+        "Position": "3"
+    },
+    {
+        "Circuit ID": "monza",
+        "Round": "16",
+        "Lap Number": "38",
+        "Driver ID": "sainz",
+        "Time": "1:23.551",
+        "Position": "3"
+    },
+    {
+        "Circuit ID": "monza",
+        "Round": "16",
+        "Lap Number": "39",
+        "Driver ID": "sainz",
+        "Time": "1:23.809",
+        "Position": "2"
+    },
+    {
+        "Circuit ID": "monza",
+        "Round": "16",
+        "Lap Number": "40",
+        "Driver ID": "sainz",
+        "Time": "1:23.803",
+        "Position": "2"
+    },
+    {
+        "Circuit ID": "monza",
+        "Round": "16",
+        "Lap Number": "41",
+        "Driver ID": "sainz",
+        "Time": "1:23.337",
+        "Position": "2"
+    },
+    {
+        "Circuit ID": "monza",
+        "Round": "16",
+        "Lap Number": "42",
+        "Driver ID": "sainz",
+        "Time": "1:23.838",
+        "Position": "2"
+    },
+    {
+        "Circuit ID": "monza",
+        "Round": "16",
+        "Lap Number": "43",
+        "Driver ID": "sainz",
+        "Time": "1:23.793",
+        "Position": "2"
+    },
+    {
+        "Circuit ID": "monza",
+        "Round": "16",
+        "Lap Number": "44",
+        "Driver ID": "sainz",
+        "Time": "1:23.931",
+        "Position": "2"
+    },
+    {
+        "Circuit ID": "monza",
+        "Round": "16",
+        "Lap Number": "45",
+        "Driver ID": "sainz",
+        "Time": "1:25.113",
+        "Position": "3"
+    },
+    {
+        "Circuit ID": "monza",
+        "Round": "16",
+        "Lap Number": "46",
+        "Driver ID": "sainz",
+        "Time": "1:24.001",
+        "Position": "3"
+    },
+    {
+        "Circuit ID": "monza",
+        "Round": "16",
+        "Lap Number": "47",
+        "Driver ID": "sainz",
+        "Time": "1:24.090",
+        "Position": "3"
+    },
+    {
+        "Circuit ID": "monza",
+        "Round": "16",
+        "Lap Number": "48",
+        "Driver ID": "sainz",
+        "Time": "1:24.939",
+        "Position": "4"
+    },
+    {
+        "Circuit ID": "monza",
+        "Round": "16",
+        "Lap Number": "49",
+        "Driver ID": "sainz",
+        "Time": "1:23.921",
+        "Position": "4"
+    },
+    {
+        "Circuit ID": "monza",
+        "Round": "16",
+        "Lap Number": "50",
+        "Driver ID": "sainz",
+        "Time": "1:23.769",
+        "Position": "4"
+    },
+    {
+        "Circuit ID": "monza",
+        "Round": "16",
+        "Lap Number": "51",
+        "Driver ID": "sainz",
+        "Time": "1:23.754",
+        "Position": "4"
+    },
+    {
+        "Circuit ID": "monza",
+        "Round": "16",
+        "Lap Number": "52",
+        "Driver ID": "sainz",
+        "Time": "1:23.722",
+        "Position": "4"
+    },
+    {
+        "Circuit ID": "monza",
+        "Round": "16",
+        "Lap Number": "53",
+        "Driver ID": "sainz",
+        "Time": "1:23.219",
+        "Position": "4"
+    },
+    {
+        "Circuit ID": "monza",
+        "Round": "16",
+        "Lap Number": "1",
+        "Driver ID": "hamilton",
+        "Time": "1:29.674",
+        "Position": "5"
+    },
+    {
+        "Circuit ID": "monza",
+        "Round": "16",
+        "Lap Number": "2",
+        "Driver ID": "hamilton",
+        "Time": "1:26.043",
+        "Position": "5"
+    },
+    {
+        "Circuit ID": "monza",
+        "Round": "16",
+        "Lap Number": "3",
+        "Driver ID": "hamilton",
+        "Time": "1:25.630",
+        "Position": "5"
+    },
+    {
+        "Circuit ID": "monza",
+        "Round": "16",
+        "Lap Number": "4",
+        "Driver ID": "hamilton",
+        "Time": "1:25.722",
+        "Position": "5"
+    },
+    {
+        "Circuit ID": "monza",
+        "Round": "16",
+        "Lap Number": "5",
+        "Driver ID": "hamilton",
+        "Time": "1:24.771",
+        "Position": "5"
+    },
+    {
+        "Circuit ID": "monza",
+        "Round": "16",
+        "Lap Number": "6",
+        "Driver ID": "hamilton",
+        "Time": "1:24.919",
+        "Position": "5"
+    },
+    {
+        "Circuit ID": "monza",
+        "Round": "16",
+        "Lap Number": "7",
+        "Driver ID": "hamilton",
+        "Time": "1:25.205",
+        "Position": "5"
+    },
+    {
+        "Circuit ID": "monza",
+        "Round": "16",
+        "Lap Number": "8",
+        "Driver ID": "hamilton",
+        "Time": "1:24.871",
+        "Position": "5"
+    },
+    {
+        "Circuit ID": "monza",
+        "Round": "16",
+        "Lap Number": "9",
+        "Driver ID": "hamilton",
+        "Time": "1:25.035",
+        "Position": "5"
+    },
+    {
+        "Circuit ID": "monza",
+        "Round": "16",
+        "Lap Number": "10",
+        "Driver ID": "hamilton",
+        "Time": "1:24.909",
+        "Position": "5"
+    },
+    {
+        "Circuit ID": "monza",
+        "Round": "16",
+        "Lap Number": "11",
+        "Driver ID": "hamilton",
+        "Time": "1:24.938",
+        "Position": "5"
+    },
+    {
+        "Circuit ID": "monza",
+        "Round": "16",
+        "Lap Number": "12",
+        "Driver ID": "hamilton",
+        "Time": "1:24.932",
+        "Position": "5"
+    },
+    {
+        "Circuit ID": "monza",
+        "Round": "16",
+        "Lap Number": "13",
+        "Driver ID": "hamilton",
+        "Time": "1:25.329",
+        "Position": "5"
+    },
+    {
+        "Circuit ID": "monza",
+        "Round": "16",
+        "Lap Number": "14",
+        "Driver ID": "hamilton",
+        "Time": "1:25.817",
+        "Position": "5"
+    },
+    {
+        "Circuit ID": "monza",
+        "Round": "16",
+        "Lap Number": "15",
+        "Driver ID": "hamilton",
+        "Time": "1:30.365",
+        "Position": "6"
+    },
+    {
+        "Circuit ID": "monza",
+        "Round": "16",
+        "Lap Number": "16",
+        "Driver ID": "hamilton",
+        "Time": "1:45.664",
+        "Position": "10"
+    },
+    {
+        "Circuit ID": "monza",
+        "Round": "16",
+        "Lap Number": "17",
+        "Driver ID": "hamilton",
+        "Time": "1:24.843",
+        "Position": "10"
+    },
+    {
+        "Circuit ID": "monza",
+        "Round": "16",
+        "Lap Number": "18",
+        "Driver ID": "hamilton",
+        "Time": "1:24.831",
+        "Position": "8"
+    },
+    {
+        "Circuit ID": "monza",
+        "Round": "16",
+        "Lap Number": "19",
+        "Driver ID": "hamilton",
+        "Time": "1:24.649",
+        "Position": "8"
+    },
+    {
+        "Circuit ID": "monza",
+        "Round": "16",
+        "Lap Number": "20",
+        "Driver ID": "hamilton",
+        "Time": "1:24.640",
+        "Position": "7"
+    },
+    {
+        "Circuit ID": "monza",
+        "Round": "16",
+        "Lap Number": "21",
+        "Driver ID": "hamilton",
+        "Time": "1:24.915",
+        "Position": "7"
+    },
+    {
+        "Circuit ID": "monza",
+        "Round": "16",
+        "Lap Number": "22",
+        "Driver ID": "hamilton",
+        "Time": "1:24.613",
+        "Position": "7"
+    },
+    {
+        "Circuit ID": "monza",
+        "Round": "16",
+        "Lap Number": "23",
+        "Driver ID": "hamilton",
+        "Time": "1:24.132",
+        "Position": "6"
+    },
+    {
+        "Circuit ID": "monza",
+        "Round": "16",
+        "Lap Number": "24",
+        "Driver ID": "hamilton",
+        "Time": "1:23.818",
+        "Position": "5"
+    },
+    {
+        "Circuit ID": "monza",
+        "Round": "16",
+        "Lap Number": "25",
+        "Driver ID": "hamilton",
+        "Time": "1:23.804",
+        "Position": "5"
+    },
+    {
+        "Circuit ID": "monza",
+        "Round": "16",
+        "Lap Number": "26",
+        "Driver ID": "hamilton",
+        "Time": "1:23.673",
+        "Position": "5"
+    },
+    {
+        "Circuit ID": "monza",
+        "Round": "16",
+        "Lap Number": "27",
+        "Driver ID": "hamilton",
+        "Time": "1:23.495",
+        "Position": "5"
+    },
+    {
+        "Circuit ID": "monza",
+        "Round": "16",
+        "Lap Number": "28",
+        "Driver ID": "hamilton",
+        "Time": "1:23.640",
+        "Position": "5"
+    },
+    {
+        "Circuit ID": "monza",
+        "Round": "16",
+        "Lap Number": "29",
+        "Driver ID": "hamilton",
+        "Time": "1:23.507",
+        "Position": "5"
+    },
+    {
+        "Circuit ID": "monza",
+        "Round": "16",
+        "Lap Number": "30",
+        "Driver ID": "hamilton",
+        "Time": "1:23.445",
+        "Position": "5"
+    },
+    {
+        "Circuit ID": "monza",
+        "Round": "16",
+        "Lap Number": "31",
+        "Driver ID": "hamilton",
+        "Time": "1:23.360",
+        "Position": "5"
+    },
+    {
+        "Circuit ID": "monza",
+        "Round": "16",
+        "Lap Number": "32",
+        "Driver ID": "hamilton",
+        "Time": "1:23.328",
+        "Position": "5"
+    },
+    {
+        "Circuit ID": "monza",
+        "Round": "16",
+        "Lap Number": "33",
+        "Driver ID": "hamilton",
+        "Time": "1:23.397",
+        "Position": "4"
+    },
+    {
+        "Circuit ID": "monza",
+        "Round": "16",
+        "Lap Number": "34",
+        "Driver ID": "hamilton",
+        "Time": "1:23.531",
+        "Position": "4"
+    },
+    {
+        "Circuit ID": "monza",
+        "Round": "16",
+        "Lap Number": "35",
+        "Driver ID": "hamilton",
+        "Time": "1:23.378",
+        "Position": "4"
+    },
+    {
+        "Circuit ID": "monza",
+        "Round": "16",
+        "Lap Number": "36",
+        "Driver ID": "hamilton",
+        "Time": "1:23.601",
+        "Position": "4"
+    },
+    {
+        "Circuit ID": "monza",
+        "Round": "16",
+        "Lap Number": "37",
+        "Driver ID": "hamilton",
+        "Time": "1:28.349",
+        "Position": "4"
+    },
+    {
+        "Circuit ID": "monza",
+        "Round": "16",
+        "Lap Number": "38",
+        "Driver ID": "hamilton",
+        "Time": "1:42.426",
+        "Position": "6"
+    },
+    {
+        "Circuit ID": "monza",
+        "Round": "16",
+        "Lap Number": "39",
+        "Driver ID": "hamilton",
+        "Time": "1:22.968",
+        "Position": "6"
+    },
+    {
+        "Circuit ID": "monza",
+        "Round": "16",
+        "Lap Number": "40",
+        "Driver ID": "hamilton",
+        "Time": "1:23.012",
+        "Position": "6"
+    },
+    {
+        "Circuit ID": "monza",
+        "Round": "16",
+        "Lap Number": "41",
+        "Driver ID": "hamilton",
+        "Time": "1:22.927",
+        "Position": "6"
+    },
+    {
+        "Circuit ID": "monza",
+        "Round": "16",
+        "Lap Number": "42",
+        "Driver ID": "hamilton",
+        "Time": "1:22.520",
+        "Position": "5"
+    },
+    {
+        "Circuit ID": "monza",
+        "Round": "16",
+        "Lap Number": "43",
+        "Driver ID": "hamilton",
+        "Time": "1:22.396",
+        "Position": "5"
+    },
+    {
+        "Circuit ID": "monza",
+        "Round": "16",
+        "Lap Number": "44",
+        "Driver ID": "hamilton",
+        "Time": "1:22.136",
+        "Position": "5"
+    },
+    {
+        "Circuit ID": "monza",
+        "Round": "16",
+        "Lap Number": "45",
+        "Driver ID": "hamilton",
+        "Time": "1:22.176",
+        "Position": "5"
+    },
+    {
+        "Circuit ID": "monza",
+        "Round": "16",
+        "Lap Number": "46",
+        "Driver ID": "hamilton",
+        "Time": "1:22.307",
+        "Position": "5"
+    },
+    {
+        "Circuit ID": "monza",
+        "Round": "16",
+        "Lap Number": "47",
+        "Driver ID": "hamilton",
+        "Time": "1:22.471",
+        "Position": "5"
+    },
+    {
+        "Circuit ID": "monza",
+        "Round": "16",
+        "Lap Number": "48",
+        "Driver ID": "hamilton",
+        "Time": "1:22.794",
+        "Position": "5"
+    },
+    {
+        "Circuit ID": "monza",
+        "Round": "16",
+        "Lap Number": "49",
+        "Driver ID": "hamilton",
+        "Time": "1:22.446",
+        "Position": "5"
+    },
+    {
+        "Circuit ID": "monza",
+        "Round": "16",
+        "Lap Number": "50",
+        "Driver ID": "hamilton",
+        "Time": "1:22.243",
+        "Position": "5"
+    },
+    {
+        "Circuit ID": "monza",
+        "Round": "16",
+        "Lap Number": "51",
+        "Driver ID": "hamilton",
+        "Time": "1:22.737",
+        "Position": "5"
+    },
+    {
+        "Circuit ID": "monza",
+        "Round": "16",
+        "Lap Number": "52",
+        "Driver ID": "hamilton",
+        "Time": "1:25.703",
+        "Position": "5"
+    },
+    {
+        "Circuit ID": "monza",
+        "Round": "16",
+        "Lap Number": "53",
+        "Driver ID": "hamilton",
+        "Time": "1:21.512",
+        "Position": "5"
+    },
+    {
+        "Circuit ID": "monza",
+        "Round": "16",
+        "Lap Number": "1",
+        "Driver ID": "perez",
+        "Time": "1:31.698",
+        "Position": "8"
+    },
+    {
+        "Circuit ID": "monza",
+        "Round": "16",
+        "Lap Number": "2",
+        "Driver ID": "perez",
+        "Time": "1:26.411",
+        "Position": "8"
+    },
+    {
+        "Circuit ID": "monza",
+        "Round": "16",
+        "Lap Number": "3",
+        "Driver ID": "perez",
+        "Time": "1:25.757",
+        "Position": "8"
+    },
+    {
+        "Circuit ID": "monza",
+        "Round": "16",
+        "Lap Number": "4",
+        "Driver ID": "perez",
+        "Time": "1:25.805",
+        "Position": "8"
+    },
+    {
+        "Circuit ID": "monza",
+        "Round": "16",
+        "Lap Number": "5",
+        "Driver ID": "perez",
+        "Time": "1:25.447",
+        "Position": "8"
+    },
+    {
+        "Circuit ID": "monza",
+        "Round": "16",
+        "Lap Number": "6",
+        "Driver ID": "perez",
+        "Time": "1:25.105",
+        "Position": "8"
+    },
+    {
+        "Circuit ID": "monza",
+        "Round": "16",
+        "Lap Number": "7",
+        "Driver ID": "perez",
+        "Time": "1:25.434",
+        "Position": "8"
+    },
+    {
+        "Circuit ID": "monza",
+        "Round": "16",
+        "Lap Number": "8",
+        "Driver ID": "perez",
+        "Time": "1:25.186",
+        "Position": "8"
+    },
+    {
+        "Circuit ID": "monza",
+        "Round": "16",
+        "Lap Number": "9",
+        "Driver ID": "perez",
+        "Time": "1:24.977",
+        "Position": "8"
+    },
+    {
+        "Circuit ID": "monza",
+        "Round": "16",
+        "Lap Number": "10",
+        "Driver ID": "perez",
+        "Time": "1:24.841",
+        "Position": "8"
+    },
+    {
+        "Circuit ID": "monza",
+        "Round": "16",
+        "Lap Number": "11",
+        "Driver ID": "perez",
+        "Time": "1:24.773",
+        "Position": "7"
+    },
+    {
+        "Circuit ID": "monza",
+        "Round": "16",
+        "Lap Number": "12",
+        "Driver ID": "perez",
+        "Time": "1:24.654",
+        "Position": "7"
+    },
+    {
+        "Circuit ID": "monza",
+        "Round": "16",
+        "Lap Number": "13",
+        "Driver ID": "perez",
+        "Time": "1:25.041",
+        "Position": "7"
+    },
+    {
+        "Circuit ID": "monza",
+        "Round": "16",
+        "Lap Number": "14",
+        "Driver ID": "perez",
+        "Time": "1:25.229",
+        "Position": "7"
+    },
+    {
+        "Circuit ID": "monza",
+        "Round": "16",
+        "Lap Number": "15",
+        "Driver ID": "perez",
+        "Time": "1:25.543",
+        "Position": "5"
+    },
+    {
+        "Circuit ID": "monza",
+        "Round": "16",
+        "Lap Number": "16",
+        "Driver ID": "perez",
+        "Time": "1:25.434",
+        "Position": "4"
+    },
+    {
+        "Circuit ID": "monza",
+        "Round": "16",
+        "Lap Number": "17",
+        "Driver ID": "perez",
+        "Time": "1:25.444",
+        "Position": "3"
+    },
+    {
+        "Circuit ID": "monza",
+        "Round": "16",
+        "Lap Number": "18",
+        "Driver ID": "perez",
+        "Time": "1:25.448",
+        "Position": "3"
+    },
+    {
+        "Circuit ID": "monza",
+        "Round": "16",
+        "Lap Number": "19",
+        "Driver ID": "perez",
+        "Time": "1:25.683",
+        "Position": "3"
+    },
+    {
+        "Circuit ID": "monza",
+        "Round": "16",
+        "Lap Number": "20",
+        "Driver ID": "perez",
+        "Time": "1:26.111",
+        "Position": "2"
+    },
+    {
+        "Circuit ID": "monza",
+        "Round": "16",
+        "Lap Number": "21",
+        "Driver ID": "perez",
+        "Time": "1:25.864",
+        "Position": "2"
+    },
+    {
+        "Circuit ID": "monza",
+        "Round": "16",
+        "Lap Number": "22",
+        "Driver ID": "perez",
+        "Time": "1:25.709",
+        "Position": "1"
+    },
+    {
+        "Circuit ID": "monza",
+        "Round": "16",
+        "Lap Number": "23",
+        "Driver ID": "perez",
+        "Time": "1:29.869",
+        "Position": "4"
+    },
+    {
+        "Circuit ID": "monza",
+        "Round": "16",
+        "Lap Number": "24",
+        "Driver ID": "perez",
+        "Time": "1:45.017",
+        "Position": "8"
+    },
+    {
+        "Circuit ID": "monza",
+        "Round": "16",
+        "Lap Number": "25",
+        "Driver ID": "perez",
+        "Time": "1:24.109",
+        "Position": "7"
+    },
+    {
+        "Circuit ID": "monza",
+        "Round": "16",
+        "Lap Number": "26",
+        "Driver ID": "perez",
+        "Time": "1:23.975",
+        "Position": "7"
+    },
+    {
+        "Circuit ID": "monza",
+        "Round": "16",
+        "Lap Number": "27",
+        "Driver ID": "perez",
+        "Time": "1:23.784",
+        "Position": "7"
+    },
+    {
+        "Circuit ID": "monza",
+        "Round": "16",
+        "Lap Number": "28",
+        "Driver ID": "perez",
+        "Time": "1:23.598",
+        "Position": "7"
+    },
+    {
+        "Circuit ID": "monza",
+        "Round": "16",
+        "Lap Number": "29",
+        "Driver ID": "perez",
+        "Time": "1:23.854",
+        "Position": "7"
+    },
+    {
+        "Circuit ID": "monza",
+        "Round": "16",
+        "Lap Number": "30",
+        "Driver ID": "perez",
+        "Time": "1:23.474",
+        "Position": "7"
+    },
+    {
+        "Circuit ID": "monza",
+        "Round": "16",
+        "Lap Number": "31",
+        "Driver ID": "perez",
+        "Time": "1:25.086",
+        "Position": "7"
+    },
+    {
+        "Circuit ID": "monza",
+        "Round": "16",
+        "Lap Number": "32",
+        "Driver ID": "perez",
+        "Time": "1:23.825",
+        "Position": "7"
+    },
+    {
+        "Circuit ID": "monza",
+        "Round": "16",
+        "Lap Number": "33",
+        "Driver ID": "perez",
+        "Time": "1:23.473",
+        "Position": "7"
+    },
+    {
+        "Circuit ID": "monza",
+        "Round": "16",
+        "Lap Number": "34",
+        "Driver ID": "perez",
+        "Time": "1:23.611",
+        "Position": "7"
+    },
+    {
+        "Circuit ID": "monza",
+        "Round": "16",
+        "Lap Number": "35",
+        "Driver ID": "perez",
+        "Time": "1:28.255",
+        "Position": "7"
+    },
+    {
+        "Circuit ID": "monza",
+        "Round": "16",
+        "Lap Number": "36",
+        "Driver ID": "perez",
+        "Time": "1:44.074",
+        "Position": "9"
+    },
+    {
+        "Circuit ID": "monza",
+        "Round": "16",
+        "Lap Number": "37",
+        "Driver ID": "perez",
+        "Time": "1:23.291",
+        "Position": "8"
+    },
+    {
+        "Circuit ID": "monza",
+        "Round": "16",
+        "Lap Number": "38",
+        "Driver ID": "perez",
+        "Time": "1:26.243",
+        "Position": "9"
+    },
+    {
+        "Circuit ID": "monza",
+        "Round": "16",
+        "Lap Number": "39",
+        "Driver ID": "perez",
+        "Time": "1:23.707",
+        "Position": "9"
+    },
+    {
+        "Circuit ID": "monza",
+        "Round": "16",
+        "Lap Number": "40",
+        "Driver ID": "perez",
+        "Time": "1:23.393",
+        "Position": "9"
+    },
+    {
+        "Circuit ID": "monza",
+        "Round": "16",
+        "Lap Number": "41",
+        "Driver ID": "perez",
+        "Time": "1:23.267",
+        "Position": "9"
+    },
+    {
+        "Circuit ID": "monza",
+        "Round": "16",
+        "Lap Number": "42",
+        "Driver ID": "perez",
+        "Time": "1:23.908",
+        "Position": "9"
+    },
+    {
+        "Circuit ID": "monza",
+        "Round": "16",
+        "Lap Number": "43",
+        "Driver ID": "perez",
+        "Time": "1:24.537",
+        "Position": "9"
+    },
+    {
+        "Circuit ID": "monza",
+        "Round": "16",
+        "Lap Number": "44",
+        "Driver ID": "perez",
+        "Time": "1:23.617",
+        "Position": "8"
+    },
+    {
+        "Circuit ID": "monza",
+        "Round": "16",
+        "Lap Number": "45",
+        "Driver ID": "perez",
+        "Time": "1:23.033",
+        "Position": "8"
+    },
+    {
+        "Circuit ID": "monza",
+        "Round": "16",
+        "Lap Number": "46",
+        "Driver ID": "perez",
+        "Time": "1:22.996",
+        "Position": "8"
+    },
+    {
+        "Circuit ID": "monza",
+        "Round": "16",
+        "Lap Number": "47",
+        "Driver ID": "perez",
+        "Time": "1:22.971",
+        "Position": "8"
+    },
+    {
+        "Circuit ID": "monza",
+        "Round": "16",
+        "Lap Number": "48",
+        "Driver ID": "perez",
+        "Time": "1:23.315",
+        "Position": "8"
+    },
+    {
+        "Circuit ID": "monza",
+        "Round": "16",
+        "Lap Number": "49",
+        "Driver ID": "perez",
+        "Time": "1:23.612",
+        "Position": "8"
+    },
+    {
+        "Circuit ID": "monza",
+        "Round": "16",
+        "Lap Number": "50",
+        "Driver ID": "perez",
+        "Time": "1:23.390",
+        "Position": "8"
+    },
+    {
+        "Circuit ID": "monza",
+        "Round": "16",
+        "Lap Number": "51",
+        "Driver ID": "perez",
+        "Time": "1:23.415",
+        "Position": "8"
+    },
+    {
+        "Circuit ID": "monza",
+        "Round": "16",
+        "Lap Number": "52",
+        "Driver ID": "perez",
+        "Time": "1:24.071",
+        "Position": "8"
+    },
+    {
+        "Circuit ID": "monza",
+        "Round": "16",
+        "Lap Number": "53",
+        "Driver ID": "perez",
+        "Time": "1:24.511",
+        "Position": "8"
+    },
+    {
+        "Circuit ID": "monza",
+        "Round": "16",
+        "Lap Number": "1",
+        "Driver ID": "albon",
+        "Time": "1:31.965",
+        "Position": "9"
+    },
+    {
+        "Circuit ID": "monza",
+        "Round": "16",
+        "Lap Number": "2",
+        "Driver ID": "albon",
+        "Time": "1:27.011",
+        "Position": "9"
+    },
+    {
+        "Circuit ID": "monza",
+        "Round": "16",
+        "Lap Number": "3",
+        "Driver ID": "albon",
+        "Time": "1:26.282",
+        "Position": "9"
+    },
+    {
+        "Circuit ID": "monza",
+        "Round": "16",
+        "Lap Number": "4",
+        "Driver ID": "albon",
+        "Time": "1:26.527",
+        "Position": "9"
+    },
+    {
+        "Circuit ID": "monza",
+        "Round": "16",
+        "Lap Number": "5",
+        "Driver ID": "albon",
+        "Time": "1:26.039",
+        "Position": "9"
+    },
+    {
+        "Circuit ID": "monza",
+        "Round": "16",
+        "Lap Number": "6",
+        "Driver ID": "albon",
+        "Time": "1:25.946",
+        "Position": "9"
+    },
+    {
+        "Circuit ID": "monza",
+        "Round": "16",
+        "Lap Number": "7",
+        "Driver ID": "albon",
+        "Time": "1:25.990",
+        "Position": "9"
+    },
+    {
+        "Circuit ID": "monza",
+        "Round": "16",
+        "Lap Number": "8",
+        "Driver ID": "albon",
+        "Time": "1:25.963",
+        "Position": "9"
+    },
+    {
+        "Circuit ID": "monza",
+        "Round": "16",
+        "Lap Number": "9",
+        "Driver ID": "albon",
+        "Time": "1:25.666",
+        "Position": "9"
+    },
+    {
+        "Circuit ID": "monza",
+        "Round": "16",
+        "Lap Number": "10",
+        "Driver ID": "albon",
+        "Time": "1:25.711",
+        "Position": "9"
+    },
+    {
+        "Circuit ID": "monza",
+        "Round": "16",
+        "Lap Number": "11",
+        "Driver ID": "albon",
+        "Time": "1:25.734",
+        "Position": "9"
+    },
+    {
+        "Circuit ID": "monza",
+        "Round": "16",
+        "Lap Number": "12",
+        "Driver ID": "albon",
+        "Time": "1:25.468",
+        "Position": "8"
+    },
+    {
+        "Circuit ID": "monza",
+        "Round": "16",
+        "Lap Number": "13",
+        "Driver ID": "albon",
+        "Time": "1:25.533",
+        "Position": "8"
+    },
+    {
+        "Circuit ID": "monza",
+        "Round": "16",
+        "Lap Number": "14",
+        "Driver ID": "albon",
+        "Time": "1:26.140",
+        "Position": "8"
+    },
+    {
+        "Circuit ID": "monza",
+        "Round": "16",
+        "Lap Number": "15",
+        "Driver ID": "albon",
+        "Time": "1:26.463",
+        "Position": "7"
+    },
+    {
+        "Circuit ID": "monza",
+        "Round": "16",
+        "Lap Number": "16",
+        "Driver ID": "albon",
+        "Time": "1:26.454",
+        "Position": "5"
+    },
+    {
+        "Circuit ID": "monza",
+        "Round": "16",
+        "Lap Number": "17",
+        "Driver ID": "albon",
+        "Time": "1:31.436",
+        "Position": "7"
+    },
+    {
+        "Circuit ID": "monza",
+        "Round": "16",
+        "Lap Number": "18",
+        "Driver ID": "albon",
+        "Time": "1:46.033",
+        "Position": "13"
+    },
+    {
+        "Circuit ID": "monza",
+        "Round": "16",
+        "Lap Number": "19",
+        "Driver ID": "albon",
+        "Time": "1:25.254",
+        "Position": "13"
+    },
+    {
+        "Circuit ID": "monza",
+        "Round": "16",
+        "Lap Number": "20",
+        "Driver ID": "albon",
+        "Time": "1:25.074",
+        "Position": "12"
+    },
+    {
+        "Circuit ID": "monza",
+        "Round": "16",
+        "Lap Number": "21",
+        "Driver ID": "albon",
+        "Time": "1:24.860",
+        "Position": "12"
+    },
+    {
+        "Circuit ID": "monza",
+        "Round": "16",
+        "Lap Number": "22",
+        "Driver ID": "albon",
+        "Time": "1:25.053",
+        "Position": "12"
+    },
+    {
+        "Circuit ID": "monza",
+        "Round": "16",
+        "Lap Number": "23",
+        "Driver ID": "albon",
+        "Time": "1:25.132",
+        "Position": "12"
+    },
+    {
+        "Circuit ID": "monza",
+        "Round": "16",
+        "Lap Number": "24",
+        "Driver ID": "albon",
+        "Time": "1:25.196",
+        "Position": "12"
+    },
+    {
+        "Circuit ID": "monza",
+        "Round": "16",
+        "Lap Number": "25",
+        "Driver ID": "albon",
+        "Time": "1:24.707",
+        "Position": "11"
+    },
+    {
+        "Circuit ID": "monza",
+        "Round": "16",
+        "Lap Number": "26",
+        "Driver ID": "albon",
+        "Time": "1:25.065",
+        "Position": "11"
+    },
+    {
+        "Circuit ID": "monza",
+        "Round": "16",
+        "Lap Number": "27",
+        "Driver ID": "albon",
+        "Time": "1:24.949",
+        "Position": "11"
+    },
+    {
+        "Circuit ID": "monza",
+        "Round": "16",
+        "Lap Number": "28",
+        "Driver ID": "albon",
+        "Time": "1:24.793",
+        "Position": "11"
+    },
+    {
+        "Circuit ID": "monza",
+        "Round": "16",
+        "Lap Number": "29",
+        "Driver ID": "albon",
+        "Time": "1:24.871",
+        "Position": "11"
+    },
+    {
+        "Circuit ID": "monza",
+        "Round": "16",
+        "Lap Number": "30",
+        "Driver ID": "albon",
+        "Time": "1:24.754",
+        "Position": "11"
+    },
+    {
+        "Circuit ID": "monza",
+        "Round": "16",
+        "Lap Number": "31",
+        "Driver ID": "albon",
+        "Time": "1:25.229",
+        "Position": "10"
+    },
+    {
+        "Circuit ID": "monza",
+        "Round": "16",
+        "Lap Number": "32",
+        "Driver ID": "albon",
+        "Time": "1:24.412",
+        "Position": "10"
+    },
+    {
+        "Circuit ID": "monza",
+        "Round": "16",
+        "Lap Number": "33",
+        "Driver ID": "albon",
+        "Time": "1:26.282",
+        "Position": "11"
+    },
+    {
+        "Circuit ID": "monza",
+        "Round": "16",
+        "Lap Number": "34",
+        "Driver ID": "albon",
+        "Time": "1:25.570",
+        "Position": "10"
+    },
+    {
+        "Circuit ID": "monza",
+        "Round": "16",
+        "Lap Number": "35",
+        "Driver ID": "albon",
+        "Time": "1:24.994",
+        "Position": "10"
+    },
+    {
+        "Circuit ID": "monza",
+        "Round": "16",
+        "Lap Number": "36",
+        "Driver ID": "albon",
+        "Time": "1:24.748",
+        "Position": "8"
+    },
+    {
+        "Circuit ID": "monza",
+        "Round": "16",
+        "Lap Number": "37",
+        "Driver ID": "albon",
+        "Time": "1:25.882",
+        "Position": "10"
+    },
+    {
+        "Circuit ID": "monza",
+        "Round": "16",
+        "Lap Number": "38",
+        "Driver ID": "albon",
+        "Time": "1:25.214",
+        "Position": "10"
+    },
+    {
+        "Circuit ID": "monza",
+        "Round": "16",
+        "Lap Number": "39",
+        "Driver ID": "albon",
+        "Time": "1:24.971",
+        "Position": "10"
+    },
+    {
+        "Circuit ID": "monza",
+        "Round": "16",
+        "Lap Number": "40",
+        "Driver ID": "albon",
+        "Time": "1:24.552",
+        "Position": "10"
+    },
+    {
+        "Circuit ID": "monza",
+        "Round": "16",
+        "Lap Number": "41",
+        "Driver ID": "albon",
+        "Time": "1:24.372",
+        "Position": "10"
+    },
+    {
+        "Circuit ID": "monza",
+        "Round": "16",
+        "Lap Number": "42",
+        "Driver ID": "albon",
+        "Time": "1:24.874",
+        "Position": "10"
+    },
+    {
+        "Circuit ID": "monza",
+        "Round": "16",
+        "Lap Number": "43",
+        "Driver ID": "albon",
+        "Time": "1:24.669",
+        "Position": "10"
+    },
+    {
+        "Circuit ID": "monza",
+        "Round": "16",
+        "Lap Number": "44",
+        "Driver ID": "albon",
+        "Time": "1:24.678",
+        "Position": "10"
+    },
+    {
+        "Circuit ID": "monza",
+        "Round": "16",
+        "Lap Number": "45",
+        "Driver ID": "albon",
+        "Time": "1:24.569",
+        "Position": "10"
+    },
+    {
+        "Circuit ID": "monza",
+        "Round": "16",
+        "Lap Number": "46",
+        "Driver ID": "albon",
+        "Time": "1:24.554",
+        "Position": "10"
+    },
+    {
+        "Circuit ID": "monza",
+        "Round": "16",
+        "Lap Number": "47",
+        "Driver ID": "albon",
+        "Time": "1:24.383",
+        "Position": "10"
+    },
+    {
+        "Circuit ID": "monza",
+        "Round": "16",
+        "Lap Number": "48",
+        "Driver ID": "albon",
+        "Time": "1:24.149",
+        "Position": "10"
+    },
+    {
+        "Circuit ID": "monza",
+        "Round": "16",
+        "Lap Number": "49",
+        "Driver ID": "albon",
+        "Time": "1:24.262",
+        "Position": "10"
+    },
+    {
+        "Circuit ID": "monza",
+        "Round": "16",
+        "Lap Number": "50",
+        "Driver ID": "albon",
+        "Time": "1:23.956",
+        "Position": "10"
+    },
+    {
+        "Circuit ID": "monza",
+        "Round": "16",
+        "Lap Number": "51",
+        "Driver ID": "albon",
+        "Time": "1:23.921",
+        "Position": "10"
+    },
+    {
+        "Circuit ID": "monza",
+        "Round": "16",
+        "Lap Number": "52",
+        "Driver ID": "albon",
+        "Time": "1:23.955",
+        "Position": "10"
+    },
+    {
+        "Circuit ID": "monza",
+        "Round": "16",
+        "Lap Number": "53",
+        "Driver ID": "albon",
+        "Time": "1:23.918",
+        "Position": "10"
+    },
+    {
+        "Circuit ID": "monza",
+        "Round": "16",
+        "Lap Number": "1",
+        "Driver ID": "kevin_magnussen",
+        "Time": "1:33.931",
+        "Position": "12"
+    },
+    {
+        "Circuit ID": "monza",
+        "Round": "16",
+        "Lap Number": "2",
+        "Driver ID": "kevin_magnussen",
+        "Time": "1:27.205",
+        "Position": "12"
+    },
+    {
+        "Circuit ID": "monza",
+        "Round": "16",
+        "Lap Number": "3",
+        "Driver ID": "kevin_magnussen",
+        "Time": "1:26.584",
+        "Position": "12"
+    },
+    {
+        "Circuit ID": "monza",
+        "Round": "16",
+        "Lap Number": "4",
+        "Driver ID": "kevin_magnussen",
+        "Time": "1:26.372",
+        "Position": "12"
+    },
+    {
+        "Circuit ID": "monza",
+        "Round": "16",
+        "Lap Number": "5",
+        "Driver ID": "kevin_magnussen",
+        "Time": "1:26.142",
+        "Position": "12"
+    },
+    {
+        "Circuit ID": "monza",
+        "Round": "16",
+        "Lap Number": "6",
+        "Driver ID": "kevin_magnussen",
+        "Time": "1:25.902",
+        "Position": "12"
+    },
+    {
+        "Circuit ID": "monza",
+        "Round": "16",
+        "Lap Number": "7",
+        "Driver ID": "kevin_magnussen",
+        "Time": "1:25.825",
+        "Position": "12"
+    },
+    {
+        "Circuit ID": "monza",
+        "Round": "16",
+        "Lap Number": "8",
+        "Driver ID": "kevin_magnussen",
+        "Time": "1:25.966",
+        "Position": "12"
+    },
+    {
+        "Circuit ID": "monza",
+        "Round": "16",
+        "Lap Number": "9",
+        "Driver ID": "kevin_magnussen",
+        "Time": "1:25.785",
+        "Position": "12"
+    },
+    {
+        "Circuit ID": "monza",
+        "Round": "16",
+        "Lap Number": "10",
+        "Driver ID": "kevin_magnussen",
+        "Time": "1:25.799",
+        "Position": "12"
+    },
+    {
+        "Circuit ID": "monza",
+        "Round": "16",
+        "Lap Number": "11",
+        "Driver ID": "kevin_magnussen",
+        "Time": "1:26.040",
+        "Position": "11"
+    },
+    {
+        "Circuit ID": "monza",
+        "Round": "16",
+        "Lap Number": "12",
+        "Driver ID": "kevin_magnussen",
+        "Time": "1:26.145",
+        "Position": "9"
+    },
+    {
+        "Circuit ID": "monza",
+        "Round": "16",
+        "Lap Number": "13",
+        "Driver ID": "kevin_magnussen",
+        "Time": "1:26.286",
+        "Position": "9"
+    },
+    {
+        "Circuit ID": "monza",
+        "Round": "16",
+        "Lap Number": "14",
+        "Driver ID": "kevin_magnussen",
+        "Time": "1:29.943",
+        "Position": "11"
+    },
+    {
+        "Circuit ID": "monza",
+        "Round": "16",
+        "Lap Number": "15",
+        "Driver ID": "kevin_magnussen",
+        "Time": "1:47.023",
+        "Position": "17"
+    },
+    {
+        "Circuit ID": "monza",
+        "Round": "16",
+        "Lap Number": "16",
+        "Driver ID": "kevin_magnussen",
+        "Time": "1:25.644",
+        "Position": "16"
+    },
+    {
+        "Circuit ID": "monza",
+        "Round": "16",
+        "Lap Number": "17",
+        "Driver ID": "kevin_magnussen",
+        "Time": "1:24.769",
+        "Position": "15"
+    },
+    {
+        "Circuit ID": "monza",
+        "Round": "16",
+        "Lap Number": "18",
+        "Driver ID": "kevin_magnussen",
+        "Time": "1:26.533",
+        "Position": "15"
+    },
+    {
+        "Circuit ID": "monza",
+        "Round": "16",
+        "Lap Number": "19",
+        "Driver ID": "kevin_magnussen",
+        "Time": "1:25.109",
+        "Position": "15"
+    },
+    {
+        "Circuit ID": "monza",
+        "Round": "16",
+        "Lap Number": "20",
+        "Driver ID": "kevin_magnussen",
+        "Time": "1:25.154",
+        "Position": "14"
+    },
+    {
+        "Circuit ID": "monza",
+        "Round": "16",
+        "Lap Number": "21",
+        "Driver ID": "kevin_magnussen",
+        "Time": "1:24.793",
+        "Position": "14"
+    },
+    {
+        "Circuit ID": "monza",
+        "Round": "16",
+        "Lap Number": "22",
+        "Driver ID": "kevin_magnussen",
+        "Time": "1:25.071",
+        "Position": "14"
+    },
+    {
+        "Circuit ID": "monza",
+        "Round": "16",
+        "Lap Number": "23",
+        "Driver ID": "kevin_magnussen",
+        "Time": "1:25.057",
+        "Position": "13"
+    },
+    {
+        "Circuit ID": "monza",
+        "Round": "16",
+        "Lap Number": "24",
+        "Driver ID": "kevin_magnussen",
+        "Time": "1:25.131",
+        "Position": "13"
+    },
+    {
+        "Circuit ID": "monza",
+        "Round": "16",
+        "Lap Number": "25",
+        "Driver ID": "kevin_magnussen",
+        "Time": "1:25.504",
+        "Position": "13"
+    },
+    {
+        "Circuit ID": "monza",
+        "Round": "16",
+        "Lap Number": "26",
+        "Driver ID": "kevin_magnussen",
+        "Time": "1:25.199",
+        "Position": "12"
+    },
+    {
+        "Circuit ID": "monza",
+        "Round": "16",
+        "Lap Number": "27",
+        "Driver ID": "kevin_magnussen",
+        "Time": "1:24.640",
+        "Position": "12"
+    },
+    {
+        "Circuit ID": "monza",
+        "Round": "16",
+        "Lap Number": "28",
+        "Driver ID": "kevin_magnussen",
+        "Time": "1:24.415",
+        "Position": "12"
+    },
+    {
+        "Circuit ID": "monza",
+        "Round": "16",
+        "Lap Number": "29",
+        "Driver ID": "kevin_magnussen",
+        "Time": "1:24.799",
+        "Position": "12"
+    },
+    {
+        "Circuit ID": "monza",
+        "Round": "16",
+        "Lap Number": "30",
+        "Driver ID": "kevin_magnussen",
+        "Time": "1:24.573",
+        "Position": "12"
+    },
+    {
+        "Circuit ID": "monza",
+        "Round": "16",
+        "Lap Number": "31",
+        "Driver ID": "kevin_magnussen",
+        "Time": "1:24.458",
+        "Position": "11"
+    },
+    {
+        "Circuit ID": "monza",
+        "Round": "16",
+        "Lap Number": "32",
+        "Driver ID": "kevin_magnussen",
+        "Time": "1:24.408",
+        "Position": "11"
+    },
+    {
+        "Circuit ID": "monza",
+        "Round": "16",
+        "Lap Number": "33",
+        "Driver ID": "kevin_magnussen",
+        "Time": "1:24.853",
+        "Position": "10"
+    },
+    {
+        "Circuit ID": "monza",
+        "Round": "16",
+        "Lap Number": "34",
+        "Driver ID": "kevin_magnussen",
+        "Time": "1:24.702",
+        "Position": "9"
+    },
+    {
+        "Circuit ID": "monza",
+        "Round": "16",
+        "Lap Number": "35",
+        "Driver ID": "kevin_magnussen",
+        "Time": "1:24.170",
+        "Position": "8"
+    },
+    {
+        "Circuit ID": "monza",
+        "Round": "16",
+        "Lap Number": "36",
+        "Driver ID": "kevin_magnussen",
+        "Time": "1:24.276",
+        "Position": "7"
+    },
+    {
+        "Circuit ID": "monza",
+        "Round": "16",
+        "Lap Number": "37",
+        "Driver ID": "kevin_magnussen",
+        "Time": "1:23.950",
+        "Position": "7"
+    },
+    {
+        "Circuit ID": "monza",
+        "Round": "16",
+        "Lap Number": "38",
+        "Driver ID": "kevin_magnussen",
+        "Time": "1:24.803",
+        "Position": "7"
+    },
+    {
+        "Circuit ID": "monza",
+        "Round": "16",
+        "Lap Number": "39",
+        "Driver ID": "kevin_magnussen",
+        "Time": "1:24.463",
+        "Position": "7"
+    },
+    {
+        "Circuit ID": "monza",
+        "Round": "16",
+        "Lap Number": "40",
+        "Driver ID": "kevin_magnussen",
+        "Time": "1:24.282",
+        "Position": "7"
+    },
+    {
+        "Circuit ID": "monza",
+        "Round": "16",
+        "Lap Number": "41",
+        "Driver ID": "kevin_magnussen",
+        "Time": "1:24.625",
+        "Position": "7"
+    },
+    {
+        "Circuit ID": "monza",
+        "Round": "16",
+        "Lap Number": "42",
+        "Driver ID": "kevin_magnussen",
+        "Time": "1:24.628",
+        "Position": "8"
+    },
+    {
+        "Circuit ID": "monza",
+        "Round": "16",
+        "Lap Number": "43",
+        "Driver ID": "kevin_magnussen",
+        "Time": "1:24.605",
+        "Position": "8"
+    },
+    {
+        "Circuit ID": "monza",
+        "Round": "16",
+        "Lap Number": "44",
+        "Driver ID": "kevin_magnussen",
+        "Time": "1:25.205",
+        "Position": "9"
+    },
+    {
+        "Circuit ID": "monza",
+        "Round": "16",
+        "Lap Number": "45",
+        "Driver ID": "kevin_magnussen",
+        "Time": "1:24.272",
+        "Position": "9"
+    },
+    {
+        "Circuit ID": "monza",
+        "Round": "16",
+        "Lap Number": "46",
+        "Driver ID": "kevin_magnussen",
+        "Time": "1:24.124",
+        "Position": "9"
+    },
+    {
+        "Circuit ID": "monza",
+        "Round": "16",
+        "Lap Number": "47",
+        "Driver ID": "kevin_magnussen",
+        "Time": "1:23.971",
+        "Position": "9"
+    },
+    {
+        "Circuit ID": "monza",
+        "Round": "16",
+        "Lap Number": "48",
+        "Driver ID": "kevin_magnussen",
+        "Time": "1:23.741",
+        "Position": "9"
+    },
+    {
+        "Circuit ID": "monza",
+        "Round": "16",
+        "Lap Number": "49",
+        "Driver ID": "kevin_magnussen",
+        "Time": "1:23.708",
+        "Position": "9"
+    },
+    {
+        "Circuit ID": "monza",
+        "Round": "16",
+        "Lap Number": "50",
+        "Driver ID": "kevin_magnussen",
+        "Time": "1:23.603",
+        "Position": "9"
+    },
+    {
+        "Circuit ID": "monza",
+        "Round": "16",
+        "Lap Number": "51",
+        "Driver ID": "kevin_magnussen",
+        "Time": "1:23.437",
+        "Position": "9"
+    },
+    {
+        "Circuit ID": "monza",
+        "Round": "16",
+        "Lap Number": "52",
+        "Driver ID": "kevin_magnussen",
+        "Time": "1:23.691",
+        "Position": "9"
+    },
+    {
+        "Circuit ID": "monza",
+        "Round": "16",
+        "Lap Number": "53",
+        "Driver ID": "kevin_magnussen",
+        "Time": "1:23.715",
+        "Position": "9"
+    },
+    {
+        "Circuit ID": "monza",
+        "Round": "16",
+        "Lap Number": "1",
+        "Driver ID": "alonso",
+        "Time": "1:32.411",
+        "Position": "10"
+    },
+    {
+        "Circuit ID": "monza",
+        "Round": "16",
+        "Lap Number": "2",
+        "Driver ID": "alonso",
+        "Time": "1:27.236",
+        "Position": "10"
+    },
+    {
+        "Circuit ID": "monza",
+        "Round": "16",
+        "Lap Number": "3",
+        "Driver ID": "alonso",
+        "Time": "1:26.410",
+        "Position": "10"
+    },
+    {
+        "Circuit ID": "monza",
+        "Round": "16",
+        "Lap Number": "4",
+        "Driver ID": "alonso",
+        "Time": "1:26.411",
+        "Position": "10"
+    },
+    {
+        "Circuit ID": "monza",
+        "Round": "16",
+        "Lap Number": "5",
+        "Driver ID": "alonso",
+        "Time": "1:26.218",
+        "Position": "10"
+    },
+    {
+        "Circuit ID": "monza",
+        "Round": "16",
+        "Lap Number": "6",
+        "Driver ID": "alonso",
+        "Time": "1:25.911",
+        "Position": "10"
+    },
+    {
+        "Circuit ID": "monza",
+        "Round": "16",
+        "Lap Number": "7",
+        "Driver ID": "alonso",
+        "Time": "1:25.950",
+        "Position": "10"
+    },
+    {
+        "Circuit ID": "monza",
+        "Round": "16",
+        "Lap Number": "8",
+        "Driver ID": "alonso",
+        "Time": "1:25.693",
+        "Position": "10"
+    },
+    {
+        "Circuit ID": "monza",
+        "Round": "16",
+        "Lap Number": "9",
+        "Driver ID": "alonso",
+        "Time": "1:25.969",
+        "Position": "10"
+    },
+    {
+        "Circuit ID": "monza",
+        "Round": "16",
+        "Lap Number": "10",
+        "Driver ID": "alonso",
+        "Time": "1:25.832",
+        "Position": "10"
+    },
+    {
+        "Circuit ID": "monza",
+        "Round": "16",
+        "Lap Number": "11",
+        "Driver ID": "alonso",
+        "Time": "1:25.758",
+        "Position": "10"
+    },
+    {
+        "Circuit ID": "monza",
+        "Round": "16",
+        "Lap Number": "12",
+        "Driver ID": "alonso",
+        "Time": "1:29.740",
+        "Position": "11"
+    },
+    {
+        "Circuit ID": "monza",
+        "Round": "16",
+        "Lap Number": "13",
+        "Driver ID": "alonso",
+        "Time": "1:45.594",
+        "Position": "15"
+    },
+    {
+        "Circuit ID": "monza",
+        "Round": "16",
+        "Lap Number": "14",
+        "Driver ID": "alonso",
+        "Time": "1:25.832",
+        "Position": "16"
+    },
+    {
+        "Circuit ID": "monza",
+        "Round": "16",
+        "Lap Number": "15",
+        "Driver ID": "alonso",
+        "Time": "1:24.670",
+        "Position": "15"
+    },
+    {
+        "Circuit ID": "monza",
+        "Round": "16",
+        "Lap Number": "16",
+        "Driver ID": "alonso",
+        "Time": "1:24.614",
+        "Position": "14"
+    },
+    {
+        "Circuit ID": "monza",
+        "Round": "16",
+        "Lap Number": "17",
+        "Driver ID": "alonso",
+        "Time": "1:24.574",
+        "Position": "13"
+    },
+    {
+        "Circuit ID": "monza",
+        "Round": "16",
+        "Lap Number": "18",
+        "Driver ID": "alonso",
+        "Time": "1:24.882",
+        "Position": "12"
+    },
+    {
+        "Circuit ID": "monza",
+        "Round": "16",
+        "Lap Number": "19",
+        "Driver ID": "alonso",
+        "Time": "1:25.314",
+        "Position": "12"
+    },
+    {
+        "Circuit ID": "monza",
+        "Round": "16",
+        "Lap Number": "20",
+        "Driver ID": "alonso",
+        "Time": "1:25.676",
+        "Position": "11"
+    },
+    {
+        "Circuit ID": "monza",
+        "Round": "16",
+        "Lap Number": "21",
+        "Driver ID": "alonso",
+        "Time": "1:25.297",
+        "Position": "11"
+    },
+    {
+        "Circuit ID": "monza",
+        "Round": "16",
+        "Lap Number": "22",
+        "Driver ID": "alonso",
+        "Time": "1:25.451",
+        "Position": "10"
+    },
+    {
+        "Circuit ID": "monza",
+        "Round": "16",
+        "Lap Number": "23",
+        "Driver ID": "alonso",
+        "Time": "1:25.017",
+        "Position": "10"
+    },
+    {
+        "Circuit ID": "monza",
+        "Round": "16",
+        "Lap Number": "24",
+        "Driver ID": "alonso",
+        "Time": "1:24.588",
+        "Position": "10"
+    },
+    {
+        "Circuit ID": "monza",
+        "Round": "16",
+        "Lap Number": "25",
+        "Driver ID": "alonso",
+        "Time": "1:24.504",
+        "Position": "10"
+    },
+    {
+        "Circuit ID": "monza",
+        "Round": "16",
+        "Lap Number": "26",
+        "Driver ID": "alonso",
+        "Time": "1:24.937",
+        "Position": "10"
+    },
+    {
+        "Circuit ID": "monza",
+        "Round": "16",
+        "Lap Number": "27",
+        "Driver ID": "alonso",
+        "Time": "1:24.891",
+        "Position": "9"
+    },
+    {
+        "Circuit ID": "monza",
+        "Round": "16",
+        "Lap Number": "28",
+        "Driver ID": "alonso",
+        "Time": "1:24.725",
+        "Position": "9"
+    },
+    {
+        "Circuit ID": "monza",
+        "Round": "16",
+        "Lap Number": "29",
+        "Driver ID": "alonso",
+        "Time": "1:25.011",
+        "Position": "9"
+    },
+    {
+        "Circuit ID": "monza",
+        "Round": "16",
+        "Lap Number": "30",
+        "Driver ID": "alonso",
+        "Time": "1:25.039",
+        "Position": "9"
+    },
+    {
+        "Circuit ID": "monza",
+        "Round": "16",
+        "Lap Number": "31",
+        "Driver ID": "alonso",
+        "Time": "1:25.128",
+        "Position": "9"
+    },
+    {
+        "Circuit ID": "monza",
+        "Round": "16",
+        "Lap Number": "32",
+        "Driver ID": "alonso",
+        "Time": "1:25.099",
+        "Position": "9"
+    },
+    {
+        "Circuit ID": "monza",
+        "Round": "16",
+        "Lap Number": "33",
+        "Driver ID": "alonso",
+        "Time": "1:25.289",
+        "Position": "9"
+    },
+    {
+        "Circuit ID": "monza",
+        "Round": "16",
+        "Lap Number": "34",
+        "Driver ID": "alonso",
+        "Time": "1:25.083",
+        "Position": "8"
+    },
+    {
+        "Circuit ID": "monza",
+        "Round": "16",
+        "Lap Number": "35",
+        "Driver ID": "alonso",
+        "Time": "1:29.799",
+        "Position": "9"
+    },
+    {
+        "Circuit ID": "monza",
+        "Round": "16",
+        "Lap Number": "36",
+        "Driver ID": "alonso",
+        "Time": "1:44.152",
+        "Position": "14"
+    },
+    {
+        "Circuit ID": "monza",
+        "Round": "16",
+        "Lap Number": "37",
+        "Driver ID": "alonso",
+        "Time": "1:23.703",
+        "Position": "13"
+    },
+    {
+        "Circuit ID": "monza",
+        "Round": "16",
+        "Lap Number": "38",
+        "Driver ID": "alonso",
+        "Time": "1:23.847",
+        "Position": "13"
+    },
+    {
+        "Circuit ID": "monza",
+        "Round": "16",
+        "Lap Number": "39",
+        "Driver ID": "alonso",
+        "Time": "1:23.770",
+        "Position": "13"
+    },
+    {
+        "Circuit ID": "monza",
+        "Round": "16",
+        "Lap Number": "40",
+        "Driver ID": "alonso",
+        "Time": "1:23.683",
+        "Position": "13"
+    },
+    {
+        "Circuit ID": "monza",
+        "Round": "16",
+        "Lap Number": "41",
+        "Driver ID": "alonso",
+        "Time": "1:23.822",
+        "Position": "13"
+    },
+    {
+        "Circuit ID": "monza",
+        "Round": "16",
+        "Lap Number": "42",
+        "Driver ID": "alonso",
+        "Time": "1:23.637",
+        "Position": "13"
+    },
+    {
+        "Circuit ID": "monza",
+        "Round": "16",
+        "Lap Number": "43",
+        "Driver ID": "alonso",
+        "Time": "1:23.681",
+        "Position": "12"
+    },
+    {
+        "Circuit ID": "monza",
+        "Round": "16",
+        "Lap Number": "44",
+        "Driver ID": "alonso",
+        "Time": "1:23.529",
+        "Position": "12"
+    },
+    {
+        "Circuit ID": "monza",
+        "Round": "16",
+        "Lap Number": "45",
+        "Driver ID": "alonso",
+        "Time": "1:23.484",
+        "Position": "12"
+    },
+    {
+        "Circuit ID": "monza",
+        "Round": "16",
+        "Lap Number": "46",
+        "Driver ID": "alonso",
+        "Time": "1:22.944",
+        "Position": "11"
+    },
+    {
+        "Circuit ID": "monza",
+        "Round": "16",
+        "Lap Number": "47",
+        "Driver ID": "alonso",
+        "Time": "1:23.221",
+        "Position": "11"
+    },
+    {
+        "Circuit ID": "monza",
+        "Round": "16",
+        "Lap Number": "48",
+        "Driver ID": "alonso",
+        "Time": "1:23.245",
+        "Position": "11"
+    },
+    {
+        "Circuit ID": "monza",
+        "Round": "16",
+        "Lap Number": "49",
+        "Driver ID": "alonso",
+        "Time": "1:23.525",
+        "Position": "11"
+    },
+    {
+        "Circuit ID": "monza",
+        "Round": "16",
+        "Lap Number": "50",
+        "Driver ID": "alonso",
+        "Time": "1:23.511",
+        "Position": "11"
+    },
+    {
+        "Circuit ID": "monza",
+        "Round": "16",
+        "Lap Number": "51",
+        "Driver ID": "alonso",
+        "Time": "1:23.468",
+        "Position": "11"
+    },
+    {
+        "Circuit ID": "monza",
+        "Round": "16",
+        "Lap Number": "52",
+        "Driver ID": "alonso",
+        "Time": "1:23.761",
+        "Position": "11"
+    },
+    {
+        "Circuit ID": "monza",
+        "Round": "16",
+        "Lap Number": "53",
+        "Driver ID": "alonso",
+        "Time": "1:23.686",
+        "Position": "11"
+    },
+    {
+        "Circuit ID": "monza",
+        "Round": "16",
+        "Lap Number": "1",
+        "Driver ID": "ricciardo",
+        "Time": "1:33.104",
+        "Position": "11"
+    },
+    {
+        "Circuit ID": "monza",
+        "Round": "16",
+        "Lap Number": "2",
+        "Driver ID": "ricciardo",
+        "Time": "1:27.177",
+        "Position": "11"
+    },
+    {
+        "Circuit ID": "monza",
+        "Round": "16",
+        "Lap Number": "3",
+        "Driver ID": "ricciardo",
+        "Time": "1:26.588",
+        "Position": "11"
+    },
+    {
+        "Circuit ID": "monza",
+        "Round": "16",
+        "Lap Number": "4",
+        "Driver ID": "ricciardo",
+        "Time": "1:26.488",
+        "Position": "11"
+    },
+    {
+        "Circuit ID": "monza",
+        "Round": "16",
+        "Lap Number": "5",
+        "Driver ID": "ricciardo",
+        "Time": "1:26.251",
+        "Position": "11"
+    },
+    {
+        "Circuit ID": "monza",
+        "Round": "16",
+        "Lap Number": "6",
+        "Driver ID": "ricciardo",
+        "Time": "1:25.899",
+        "Position": "11"
+    },
+    {
+        "Circuit ID": "monza",
+        "Round": "16",
+        "Lap Number": "7",
+        "Driver ID": "ricciardo",
+        "Time": "1:25.713",
+        "Position": "11"
+    },
+    {
+        "Circuit ID": "monza",
+        "Round": "16",
+        "Lap Number": "8",
+        "Driver ID": "ricciardo",
+        "Time": "1:25.993",
+        "Position": "11"
+    },
+    {
+        "Circuit ID": "monza",
+        "Round": "16",
+        "Lap Number": "9",
+        "Driver ID": "ricciardo",
+        "Time": "1:25.815",
+        "Position": "11"
+    },
+    {
+        "Circuit ID": "monza",
+        "Round": "16",
+        "Lap Number": "10",
+        "Driver ID": "ricciardo",
+        "Time": "1:26.111",
+        "Position": "11"
+    },
+    {
+        "Circuit ID": "monza",
+        "Round": "16",
+        "Lap Number": "11",
+        "Driver ID": "ricciardo",
+        "Time": "1:31.962",
+        "Position": "14"
+    },
+    {
+        "Circuit ID": "monza",
+        "Round": "16",
+        "Lap Number": "12",
+        "Driver ID": "ricciardo",
+        "Time": "1:52.188",
+        "Position": "18"
+    },
+    {
+        "Circuit ID": "monza",
+        "Round": "16",
+        "Lap Number": "13",
+        "Driver ID": "ricciardo",
+        "Time": "1:26.122",
+        "Position": "18"
+    },
+    {
+        "Circuit ID": "monza",
+        "Round": "16",
+        "Lap Number": "14",
+        "Driver ID": "ricciardo",
+        "Time": "1:25.827",
+        "Position": "18"
+    },
+    {
+        "Circuit ID": "monza",
+        "Round": "16",
+        "Lap Number": "15",
+        "Driver ID": "ricciardo",
+        "Time": "1:25.572",
+        "Position": "18"
+    },
+    {
+        "Circuit ID": "monza",
+        "Round": "16",
+        "Lap Number": "16",
+        "Driver ID": "ricciardo",
+        "Time": "1:25.398",
+        "Position": "17"
+    },
+    {
+        "Circuit ID": "monza",
+        "Round": "16",
+        "Lap Number": "17",
+        "Driver ID": "ricciardo",
+        "Time": "1:25.028",
+        "Position": "16"
+    },
+    {
+        "Circuit ID": "monza",
+        "Round": "16",
+        "Lap Number": "18",
+        "Driver ID": "ricciardo",
+        "Time": "1:25.062",
+        "Position": "16"
+    },
+    {
+        "Circuit ID": "monza",
+        "Round": "16",
+        "Lap Number": "19",
+        "Driver ID": "ricciardo",
+        "Time": "1:24.897",
+        "Position": "16"
+    },
+    {
+        "Circuit ID": "monza",
+        "Round": "16",
+        "Lap Number": "20",
+        "Driver ID": "ricciardo",
+        "Time": "1:24.753",
+        "Position": "15"
+    },
+    {
+        "Circuit ID": "monza",
+        "Round": "16",
+        "Lap Number": "21",
+        "Driver ID": "ricciardo",
+        "Time": "1:24.991",
+        "Position": "15"
+    },
+    {
+        "Circuit ID": "monza",
+        "Round": "16",
+        "Lap Number": "22",
+        "Driver ID": "ricciardo",
+        "Time": "1:25.080",
+        "Position": "15"
+    },
+    {
+        "Circuit ID": "monza",
+        "Round": "16",
+        "Lap Number": "23",
+        "Driver ID": "ricciardo",
+        "Time": "1:24.848",
+        "Position": "15"
+    },
+    {
+        "Circuit ID": "monza",
+        "Round": "16",
+        "Lap Number": "24",
+        "Driver ID": "ricciardo",
+        "Time": "1:24.931",
+        "Position": "15"
+    },
+    {
+        "Circuit ID": "monza",
+        "Round": "16",
+        "Lap Number": "25",
+        "Driver ID": "ricciardo",
+        "Time": "1:25.047",
+        "Position": "15"
+    },
+    {
+        "Circuit ID": "monza",
+        "Round": "16",
+        "Lap Number": "26",
+        "Driver ID": "ricciardo",
+        "Time": "1:24.906",
+        "Position": "15"
+    },
+    {
+        "Circuit ID": "monza",
+        "Round": "16",
+        "Lap Number": "27",
+        "Driver ID": "ricciardo",
+        "Time": "1:25.595",
+        "Position": "14"
+    },
+    {
+        "Circuit ID": "monza",
+        "Round": "16",
+        "Lap Number": "28",
+        "Driver ID": "ricciardo",
+        "Time": "1:25.380",
+        "Position": "14"
+    },
+    {
+        "Circuit ID": "monza",
+        "Round": "16",
+        "Lap Number": "29",
+        "Driver ID": "ricciardo",
+        "Time": "1:24.835",
+        "Position": "13"
+    },
+    {
+        "Circuit ID": "monza",
+        "Round": "16",
+        "Lap Number": "30",
+        "Driver ID": "ricciardo",
+        "Time": "1:24.970",
+        "Position": "13"
+    },
+    {
+        "Circuit ID": "monza",
+        "Round": "16",
+        "Lap Number": "31",
+        "Driver ID": "ricciardo",
+        "Time": "1:24.875",
+        "Position": "13"
+    },
+    {
+        "Circuit ID": "monza",
+        "Round": "16",
+        "Lap Number": "32",
+        "Driver ID": "ricciardo",
+        "Time": "1:24.690",
+        "Position": "12"
+    },
+    {
+        "Circuit ID": "monza",
+        "Round": "16",
+        "Lap Number": "33",
+        "Driver ID": "ricciardo",
+        "Time": "1:24.662",
+        "Position": "12"
+    },
+    {
+        "Circuit ID": "monza",
+        "Round": "16",
+        "Lap Number": "34",
+        "Driver ID": "ricciardo",
+        "Time": "1:24.777",
+        "Position": "11"
+    },
+    {
+        "Circuit ID": "monza",
+        "Round": "16",
+        "Lap Number": "35",
+        "Driver ID": "ricciardo",
+        "Time": "1:25.588",
+        "Position": "12"
+    },
+    {
+        "Circuit ID": "monza",
+        "Round": "16",
+        "Lap Number": "36",
+        "Driver ID": "ricciardo",
+        "Time": "1:25.081",
+        "Position": "11"
+    },
+    {
+        "Circuit ID": "monza",
+        "Round": "16",
+        "Lap Number": "37",
+        "Driver ID": "ricciardo",
+        "Time": "1:25.095",
+        "Position": "11"
+    },
+    {
+        "Circuit ID": "monza",
+        "Round": "16",
+        "Lap Number": "38",
+        "Driver ID": "ricciardo",
+        "Time": "1:25.288",
+        "Position": "11"
+    },
+    {
+        "Circuit ID": "monza",
+        "Round": "16",
+        "Lap Number": "39",
+        "Driver ID": "ricciardo",
+        "Time": "1:25.033",
+        "Position": "11"
+    },
+    {
+        "Circuit ID": "monza",
+        "Round": "16",
+        "Lap Number": "40",
+        "Driver ID": "ricciardo",
+        "Time": "1:25.025",
+        "Position": "11"
+    },
+    {
+        "Circuit ID": "monza",
+        "Round": "16",
+        "Lap Number": "41",
+        "Driver ID": "ricciardo",
+        "Time": "1:24.945",
+        "Position": "11"
+    },
+    {
+        "Circuit ID": "monza",
+        "Round": "16",
+        "Lap Number": "42",
+        "Driver ID": "ricciardo",
+        "Time": "1:24.954",
+        "Position": "11"
+    },
+    {
+        "Circuit ID": "monza",
+        "Round": "16",
+        "Lap Number": "43",
+        "Driver ID": "ricciardo",
+        "Time": "1:25.179",
+        "Position": "11"
+    },
+    {
+        "Circuit ID": "monza",
+        "Round": "16",
+        "Lap Number": "44",
+        "Driver ID": "ricciardo",
+        "Time": "1:24.776",
+        "Position": "11"
+    },
+    {
+        "Circuit ID": "monza",
+        "Round": "16",
+        "Lap Number": "45",
+        "Driver ID": "ricciardo",
+        "Time": "1:25.063",
+        "Position": "11"
+    },
+    {
+        "Circuit ID": "monza",
+        "Round": "16",
+        "Lap Number": "46",
+        "Driver ID": "ricciardo",
+        "Time": "1:25.685",
+        "Position": "12"
+    },
+    {
+        "Circuit ID": "monza",
+        "Round": "16",
+        "Lap Number": "47",
+        "Driver ID": "ricciardo",
+        "Time": "1:24.775",
+        "Position": "12"
+    },
+    {
+        "Circuit ID": "monza",
+        "Round": "16",
+        "Lap Number": "48",
+        "Driver ID": "ricciardo",
+        "Time": "1:24.518",
+        "Position": "12"
+    },
+    {
+        "Circuit ID": "monza",
+        "Round": "16",
+        "Lap Number": "49",
+        "Driver ID": "ricciardo",
+        "Time": "1:24.617",
+        "Position": "12"
+    },
+    {
+        "Circuit ID": "monza",
+        "Round": "16",
+        "Lap Number": "50",
+        "Driver ID": "ricciardo",
+        "Time": "1:24.817",
+        "Position": "12"
+    },
+    {
+        "Circuit ID": "monza",
+        "Round": "16",
+        "Lap Number": "51",
+        "Driver ID": "ricciardo",
+        "Time": "1:24.639",
+        "Position": "12"
+    },
+    {
+        "Circuit ID": "monza",
+        "Round": "16",
+        "Lap Number": "52",
+        "Driver ID": "ricciardo",
+        "Time": "1:24.219",
+        "Position": "12"
+    },
+    {
+        "Circuit ID": "monza",
+        "Round": "16",
+        "Lap Number": "53",
+        "Driver ID": "ricciardo",
+        "Time": "1:24.347",
+        "Position": "12"
+    },
+    {
+        "Circuit ID": "monza",
+        "Round": "16",
+        "Lap Number": "1",
+        "Driver ID": "ocon",
+        "Time": "1:35.432",
+        "Position": "15"
+    },
+    {
+        "Circuit ID": "monza",
+        "Round": "16",
+        "Lap Number": "2",
+        "Driver ID": "ocon",
+        "Time": "1:26.837",
+        "Position": "14"
+    },
+    {
+        "Circuit ID": "monza",
+        "Round": "16",
+        "Lap Number": "3",
+        "Driver ID": "ocon",
+        "Time": "1:26.466",
+        "Position": "14"
+    },
+    {
+        "Circuit ID": "monza",
+        "Round": "16",
+        "Lap Number": "4",
+        "Driver ID": "ocon",
+        "Time": "1:26.297",
+        "Position": "14"
+    },
+    {
+        "Circuit ID": "monza",
+        "Round": "16",
+        "Lap Number": "5",
+        "Driver ID": "ocon",
+        "Time": "1:26.568",
+        "Position": "14"
+    },
+    {
+        "Circuit ID": "monza",
+        "Round": "16",
+        "Lap Number": "6",
+        "Driver ID": "ocon",
+        "Time": "1:25.684",
+        "Position": "14"
+    },
+    {
+        "Circuit ID": "monza",
+        "Round": "16",
+        "Lap Number": "7",
+        "Driver ID": "ocon",
+        "Time": "1:26.006",
+        "Position": "14"
+    },
+    {
+        "Circuit ID": "monza",
+        "Round": "16",
+        "Lap Number": "8",
+        "Driver ID": "ocon",
+        "Time": "1:26.053",
+        "Position": "14"
+    },
+    {
+        "Circuit ID": "monza",
+        "Round": "16",
+        "Lap Number": "9",
+        "Driver ID": "ocon",
+        "Time": "1:25.369",
+        "Position": "13"
+    },
+    {
+        "Circuit ID": "monza",
+        "Round": "16",
+        "Lap Number": "10",
+        "Driver ID": "ocon",
+        "Time": "1:26.035",
+        "Position": "13"
+    },
+    {
+        "Circuit ID": "monza",
+        "Round": "16",
+        "Lap Number": "11",
+        "Driver ID": "ocon",
+        "Time": "1:26.349",
+        "Position": "12"
+    },
+    {
+        "Circuit ID": "monza",
+        "Round": "16",
+        "Lap Number": "12",
+        "Driver ID": "ocon",
+        "Time": "1:25.954",
+        "Position": "10"
+    },
+    {
+        "Circuit ID": "monza",
+        "Round": "16",
+        "Lap Number": "13",
+        "Driver ID": "ocon",
+        "Time": "1:26.059",
+        "Position": "10"
+    },
+    {
+        "Circuit ID": "monza",
+        "Round": "16",
+        "Lap Number": "14",
+        "Driver ID": "ocon",
+        "Time": "1:26.307",
+        "Position": "9"
+    },
+    {
+        "Circuit ID": "monza",
+        "Round": "16",
+        "Lap Number": "15",
+        "Driver ID": "ocon",
+        "Time": "1:26.677",
+        "Position": "9"
+    },
+    {
+        "Circuit ID": "monza",
+        "Round": "16",
+        "Lap Number": "16",
+        "Driver ID": "ocon",
+        "Time": "1:26.694",
+        "Position": "8"
+    },
+    {
+        "Circuit ID": "monza",
+        "Round": "16",
+        "Lap Number": "17",
+        "Driver ID": "ocon",
+        "Time": "1:26.002",
+        "Position": "8"
+    },
+    {
+        "Circuit ID": "monza",
+        "Round": "16",
+        "Lap Number": "18",
+        "Driver ID": "ocon",
+        "Time": "1:26.234",
+        "Position": "7"
+    },
+    {
+        "Circuit ID": "monza",
+        "Round": "16",
+        "Lap Number": "19",
+        "Driver ID": "ocon",
+        "Time": "1:26.174",
+        "Position": "7"
+    },
+    {
+        "Circuit ID": "monza",
+        "Round": "16",
+        "Lap Number": "20",
+        "Driver ID": "ocon",
+        "Time": "1:27.326",
+        "Position": "8"
+    },
+    {
+        "Circuit ID": "monza",
+        "Round": "16",
+        "Lap Number": "21",
+        "Driver ID": "ocon",
+        "Time": "1:26.450",
+        "Position": "8"
+    },
+    {
+        "Circuit ID": "monza",
+        "Round": "16",
+        "Lap Number": "22",
+        "Driver ID": "ocon",
+        "Time": "1:26.327",
+        "Position": "8"
+    },
+    {
+        "Circuit ID": "monza",
+        "Round": "16",
+        "Lap Number": "23",
+        "Driver ID": "ocon",
+        "Time": "1:26.201",
+        "Position": "7"
+    },
+    {
+        "Circuit ID": "monza",
+        "Round": "16",
+        "Lap Number": "24",
+        "Driver ID": "ocon",
+        "Time": "1:26.770",
+        "Position": "7"
+    },
+    {
+        "Circuit ID": "monza",
+        "Round": "16",
+        "Lap Number": "25",
+        "Driver ID": "ocon",
+        "Time": "1:27.519",
+        "Position": "9"
+    },
+    {
+        "Circuit ID": "monza",
+        "Round": "16",
+        "Lap Number": "26",
+        "Driver ID": "ocon",
+        "Time": "1:26.383",
+        "Position": "9"
+    },
+    {
+        "Circuit ID": "monza",
+        "Round": "16",
+        "Lap Number": "27",
+        "Driver ID": "ocon",
+        "Time": "1:26.725",
+        "Position": "10"
+    },
+    {
+        "Circuit ID": "monza",
+        "Round": "16",
+        "Lap Number": "28",
+        "Driver ID": "ocon",
+        "Time": "1:26.013",
+        "Position": "10"
+    },
+    {
+        "Circuit ID": "monza",
+        "Round": "16",
+        "Lap Number": "29",
+        "Driver ID": "ocon",
+        "Time": "1:26.099",
+        "Position": "10"
+    },
+    {
+        "Circuit ID": "monza",
+        "Round": "16",
+        "Lap Number": "30",
+        "Driver ID": "ocon",
+        "Time": "1:26.025",
+        "Position": "10"
+    },
+    {
+        "Circuit ID": "monza",
+        "Round": "16",
+        "Lap Number": "31",
+        "Driver ID": "ocon",
+        "Time": "1:30.757",
+        "Position": "12"
+    },
+    {
+        "Circuit ID": "monza",
+        "Round": "16",
+        "Lap Number": "32",
+        "Driver ID": "ocon",
+        "Time": "1:44.710",
+        "Position": "16"
+    },
+    {
+        "Circuit ID": "monza",
+        "Round": "16",
+        "Lap Number": "33",
+        "Driver ID": "ocon",
+        "Time": "1:24.652",
+        "Position": "16"
+    },
+    {
+        "Circuit ID": "monza",
+        "Round": "16",
+        "Lap Number": "34",
+        "Driver ID": "ocon",
+        "Time": "1:24.965",
+        "Position": "15"
+    },
+    {
+        "Circuit ID": "monza",
+        "Round": "16",
+        "Lap Number": "35",
+        "Driver ID": "ocon",
+        "Time": "1:25.019",
+        "Position": "15"
+    },
+    {
+        "Circuit ID": "monza",
+        "Round": "16",
+        "Lap Number": "36",
+        "Driver ID": "ocon",
+        "Time": "1:24.942",
+        "Position": "15"
+    },
+    {
+        "Circuit ID": "monza",
+        "Round": "16",
+        "Lap Number": "37",
+        "Driver ID": "ocon",
+        "Time": "1:24.613",
+        "Position": "14"
+    },
+    {
+        "Circuit ID": "monza",
+        "Round": "16",
+        "Lap Number": "38",
+        "Driver ID": "ocon",
+        "Time": "1:24.845",
+        "Position": "14"
+    },
+    {
+        "Circuit ID": "monza",
+        "Round": "16",
+        "Lap Number": "39",
+        "Driver ID": "ocon",
+        "Time": "1:25.267",
+        "Position": "14"
+    },
+    {
+        "Circuit ID": "monza",
+        "Round": "16",
+        "Lap Number": "40",
+        "Driver ID": "ocon",
+        "Time": "1:25.211",
+        "Position": "14"
+    },
+    {
+        "Circuit ID": "monza",
+        "Round": "16",
+        "Lap Number": "41",
+        "Driver ID": "ocon",
+        "Time": "1:25.060",
+        "Position": "14"
+    },
+    {
+        "Circuit ID": "monza",
+        "Round": "16",
+        "Lap Number": "42",
+        "Driver ID": "ocon",
+        "Time": "1:25.119",
+        "Position": "14"
+    },
+    {
+        "Circuit ID": "monza",
+        "Round": "16",
+        "Lap Number": "43",
+        "Driver ID": "ocon",
+        "Time": "1:26.111",
+        "Position": "14"
+    },
+    {
+        "Circuit ID": "monza",
+        "Round": "16",
+        "Lap Number": "44",
+        "Driver ID": "ocon",
+        "Time": "1:24.669",
+        "Position": "14"
+    },
+    {
+        "Circuit ID": "monza",
+        "Round": "16",
+        "Lap Number": "45",
+        "Driver ID": "ocon",
+        "Time": "1:24.587",
+        "Position": "14"
+    },
+    {
+        "Circuit ID": "monza",
+        "Round": "16",
+        "Lap Number": "46",
+        "Driver ID": "ocon",
+        "Time": "1:24.449",
+        "Position": "14"
+    },
+    {
+        "Circuit ID": "monza",
+        "Round": "16",
+        "Lap Number": "47",
+        "Driver ID": "ocon",
+        "Time": "1:24.506",
+        "Position": "14"
+    },
+    {
+        "Circuit ID": "monza",
+        "Round": "16",
+        "Lap Number": "48",
+        "Driver ID": "ocon",
+        "Time": "1:24.458",
+        "Position": "14"
+    },
+    {
+        "Circuit ID": "monza",
+        "Round": "16",
+        "Lap Number": "49",
+        "Driver ID": "ocon",
+        "Time": "1:25.790",
+        "Position": "14"
+    },
+    {
+        "Circuit ID": "monza",
+        "Round": "16",
+        "Lap Number": "50",
+        "Driver ID": "ocon",
+        "Time": "1:25.688",
+        "Position": "14"
+    },
+    {
+        "Circuit ID": "monza",
+        "Round": "16",
+        "Lap Number": "51",
+        "Driver ID": "ocon",
+        "Time": "1:24.590",
+        "Position": "14"
+    },
+    {
+        "Circuit ID": "monza",
+        "Round": "16",
+        "Lap Number": "52",
+        "Driver ID": "ocon",
+        "Time": "1:24.343",
+        "Position": "14"
+    },
+    {
+        "Circuit ID": "monza",
+        "Round": "16",
+        "Lap Number": "1",
+        "Driver ID": "gasly",
+        "Time": "1:34.873",
+        "Position": "13"
+    },
+    {
+        "Circuit ID": "monza",
+        "Round": "16",
+        "Lap Number": "2",
+        "Driver ID": "gasly",
+        "Time": "1:26.606",
+        "Position": "13"
+    },
+    {
+        "Circuit ID": "monza",
+        "Round": "16",
+        "Lap Number": "3",
+        "Driver ID": "gasly",
+        "Time": "1:26.646",
+        "Position": "13"
+    },
+    {
+        "Circuit ID": "monza",
+        "Round": "16",
+        "Lap Number": "4",
+        "Driver ID": "gasly",
+        "Time": "1:26.395",
+        "Position": "13"
+    },
+    {
+        "Circuit ID": "monza",
+        "Round": "16",
+        "Lap Number": "5",
+        "Driver ID": "gasly",
+        "Time": "1:26.361",
+        "Position": "13"
+    },
+    {
+        "Circuit ID": "monza",
+        "Round": "16",
+        "Lap Number": "6",
+        "Driver ID": "gasly",
+        "Time": "1:26.042",
+        "Position": "13"
+    },
+    {
+        "Circuit ID": "monza",
+        "Round": "16",
+        "Lap Number": "7",
+        "Driver ID": "gasly",
+        "Time": "1:25.820",
+        "Position": "13"
+    },
+    {
+        "Circuit ID": "monza",
+        "Round": "16",
+        "Lap Number": "8",
+        "Driver ID": "gasly",
+        "Time": "1:26.465",
+        "Position": "13"
+    },
+    {
+        "Circuit ID": "monza",
+        "Round": "16",
+        "Lap Number": "9",
+        "Driver ID": "gasly",
+        "Time": "1:27.148",
+        "Position": "14"
+    },
+    {
+        "Circuit ID": "monza",
+        "Round": "16",
+        "Lap Number": "10",
+        "Driver ID": "gasly",
+        "Time": "1:31.535",
+        "Position": "17"
+    },
+    {
+        "Circuit ID": "monza",
+        "Round": "16",
+        "Lap Number": "11",
+        "Driver ID": "gasly",
+        "Time": "1:45.677",
+        "Position": "18"
+    },
+    {
+        "Circuit ID": "monza",
+        "Round": "16",
+        "Lap Number": "12",
+        "Driver ID": "gasly",
+        "Time": "1:25.070",
+        "Position": "17"
+    },
+    {
+        "Circuit ID": "monza",
+        "Round": "16",
+        "Lap Number": "13",
+        "Driver ID": "gasly",
+        "Time": "1:24.816",
+        "Position": "17"
+    },
+    {
+        "Circuit ID": "monza",
+        "Round": "16",
+        "Lap Number": "14",
+        "Driver ID": "gasly",
+        "Time": "1:25.214",
+        "Position": "17"
+    },
+    {
+        "Circuit ID": "monza",
+        "Round": "16",
+        "Lap Number": "15",
+        "Driver ID": "gasly",
+        "Time": "1:25.529",
+        "Position": "16"
+    },
+    {
+        "Circuit ID": "monza",
+        "Round": "16",
+        "Lap Number": "16",
+        "Driver ID": "gasly",
+        "Time": "1:25.537",
+        "Position": "15"
+    },
+    {
+        "Circuit ID": "monza",
+        "Round": "16",
+        "Lap Number": "17",
+        "Driver ID": "gasly",
+        "Time": "1:25.165",
+        "Position": "14"
+    },
+    {
+        "Circuit ID": "monza",
+        "Round": "16",
+        "Lap Number": "18",
+        "Driver ID": "gasly",
+        "Time": "1:26.182",
+        "Position": "14"
+    },
+    {
+        "Circuit ID": "monza",
+        "Round": "16",
+        "Lap Number": "19",
+        "Driver ID": "gasly",
+        "Time": "1:25.403",
+        "Position": "14"
+    },
+    {
+        "Circuit ID": "monza",
+        "Round": "16",
+        "Lap Number": "20",
+        "Driver ID": "gasly",
+        "Time": "1:25.058",
+        "Position": "13"
+    },
+    {
+        "Circuit ID": "monza",
+        "Round": "16",
+        "Lap Number": "21",
+        "Driver ID": "gasly",
+        "Time": "1:24.878",
+        "Position": "13"
+    },
+    {
+        "Circuit ID": "monza",
+        "Round": "16",
+        "Lap Number": "22",
+        "Driver ID": "gasly",
+        "Time": "1:25.105",
+        "Position": "13"
+    },
+    {
+        "Circuit ID": "monza",
+        "Round": "16",
+        "Lap Number": "23",
+        "Driver ID": "gasly",
+        "Time": "1:26.161",
+        "Position": "14"
+    },
+    {
+        "Circuit ID": "monza",
+        "Round": "16",
+        "Lap Number": "24",
+        "Driver ID": "gasly",
+        "Time": "1:25.882",
+        "Position": "14"
+    },
+    {
+        "Circuit ID": "monza",
+        "Round": "16",
+        "Lap Number": "25",
+        "Driver ID": "gasly",
+        "Time": "1:25.988",
+        "Position": "14"
+    },
+    {
+        "Circuit ID": "monza",
+        "Round": "16",
+        "Lap Number": "26",
+        "Driver ID": "gasly",
+        "Time": "1:25.742",
+        "Position": "14"
+    },
+    {
+        "Circuit ID": "monza",
+        "Round": "16",
+        "Lap Number": "27",
+        "Driver ID": "gasly",
+        "Time": "1:27.191",
+        "Position": "15"
+    },
+    {
+        "Circuit ID": "monza",
+        "Round": "16",
+        "Lap Number": "28",
+        "Driver ID": "gasly",
+        "Time": "1:25.823",
+        "Position": "15"
+    },
+    {
+        "Circuit ID": "monza",
+        "Round": "16",
+        "Lap Number": "29",
+        "Driver ID": "gasly",
+        "Time": "1:26.079",
+        "Position": "15"
+    },
+    {
+        "Circuit ID": "monza",
+        "Round": "16",
+        "Lap Number": "30",
+        "Driver ID": "gasly",
+        "Time": "1:31.004",
+        "Position": "17"
+    },
+    {
+        "Circuit ID": "monza",
+        "Round": "16",
+        "Lap Number": "31",
+        "Driver ID": "gasly",
+        "Time": "1:45.757",
+        "Position": "19"
+    },
+    {
+        "Circuit ID": "monza",
+        "Round": "16",
+        "Lap Number": "32",
+        "Driver ID": "gasly",
+        "Time": "1:24.423",
+        "Position": "19"
+    },
+    {
+        "Circuit ID": "monza",
+        "Round": "16",
+        "Lap Number": "33",
+        "Driver ID": "gasly",
+        "Time": "1:24.252",
+        "Position": "18"
+    },
+    {
+        "Circuit ID": "monza",
+        "Round": "16",
+        "Lap Number": "34",
+        "Driver ID": "gasly",
+        "Time": "1:24.383",
+        "Position": "17"
+    },
+    {
+        "Circuit ID": "monza",
+        "Round": "16",
+        "Lap Number": "35",
+        "Driver ID": "gasly",
+        "Time": "1:24.822",
+        "Position": "17"
+    },
+    {
+        "Circuit ID": "monza",
+        "Round": "16",
+        "Lap Number": "36",
+        "Driver ID": "gasly",
+        "Time": "1:25.591",
+        "Position": "17"
+    },
+    {
+        "Circuit ID": "monza",
+        "Round": "16",
+        "Lap Number": "37",
+        "Driver ID": "gasly",
+        "Time": "1:24.386",
+        "Position": "16"
+    },
+    {
+        "Circuit ID": "monza",
+        "Round": "16",
+        "Lap Number": "38",
+        "Driver ID": "gasly",
+        "Time": "1:25.229",
+        "Position": "17"
+    },
+    {
+        "Circuit ID": "monza",
+        "Round": "16",
+        "Lap Number": "39",
+        "Driver ID": "gasly",
+        "Time": "1:24.591",
+        "Position": "17"
+    },
+    {
+        "Circuit ID": "monza",
+        "Round": "16",
+        "Lap Number": "40",
+        "Driver ID": "gasly",
+        "Time": "1:25.104",
+        "Position": "17"
+    },
+    {
+        "Circuit ID": "monza",
+        "Round": "16",
+        "Lap Number": "41",
+        "Driver ID": "gasly",
+        "Time": "1:25.772",
+        "Position": "17"
+    },
+    {
+        "Circuit ID": "monza",
+        "Round": "16",
+        "Lap Number": "42",
+        "Driver ID": "gasly",
+        "Time": "1:24.605",
+        "Position": "16"
+    },
+    {
+        "Circuit ID": "monza",
+        "Round": "16",
+        "Lap Number": "43",
+        "Driver ID": "gasly",
+        "Time": "1:25.142",
+        "Position": "16"
+    },
+    {
+        "Circuit ID": "monza",
+        "Round": "16",
+        "Lap Number": "44",
+        "Driver ID": "gasly",
+        "Time": "1:26.175",
+        "Position": "16"
+    },
+    {
+        "Circuit ID": "monza",
+        "Round": "16",
+        "Lap Number": "45",
+        "Driver ID": "gasly",
+        "Time": "1:25.425",
+        "Position": "16"
+    },
+    {
+        "Circuit ID": "monza",
+        "Round": "16",
+        "Lap Number": "46",
+        "Driver ID": "gasly",
+        "Time": "1:24.403",
+        "Position": "16"
+    },
+    {
+        "Circuit ID": "monza",
+        "Round": "16",
+        "Lap Number": "47",
+        "Driver ID": "gasly",
+        "Time": "1:23.923",
+        "Position": "16"
+    },
+    {
+        "Circuit ID": "monza",
+        "Round": "16",
+        "Lap Number": "48",
+        "Driver ID": "gasly",
+        "Time": "1:24.036",
+        "Position": "16"
+    },
+    {
+        "Circuit ID": "monza",
+        "Round": "16",
+        "Lap Number": "49",
+        "Driver ID": "gasly",
+        "Time": "1:23.852",
+        "Position": "16"
+    },
+    {
+        "Circuit ID": "monza",
+        "Round": "16",
+        "Lap Number": "50",
+        "Driver ID": "gasly",
+        "Time": "1:24.077",
+        "Position": "16"
+    },
+    {
+        "Circuit ID": "monza",
+        "Round": "16",
+        "Lap Number": "51",
+        "Driver ID": "gasly",
+        "Time": "1:23.755",
+        "Position": "15"
+    },
+    {
+        "Circuit ID": "monza",
+        "Round": "16",
+        "Lap Number": "52",
+        "Driver ID": "gasly",
+        "Time": "1:23.973",
+        "Position": "15"
+    },
+    {
+        "Circuit ID": "monza",
+        "Round": "16",
+        "Lap Number": "1",
+        "Driver ID": "bottas",
+        "Time": "1:36.375",
+        "Position": "19"
+    },
+    {
+        "Circuit ID": "monza",
+        "Round": "16",
+        "Lap Number": "2",
+        "Driver ID": "bottas",
+        "Time": "1:28.377",
+        "Position": "19"
+    },
+    {
+        "Circuit ID": "monza",
+        "Round": "16",
+        "Lap Number": "3",
+        "Driver ID": "bottas",
+        "Time": "1:26.918",
+        "Position": "19"
+    },
+    {
+        "Circuit ID": "monza",
+        "Round": "16",
+        "Lap Number": "4",
+        "Driver ID": "bottas",
+        "Time": "1:26.324",
+        "Position": "19"
+    },
+    {
+        "Circuit ID": "monza",
+        "Round": "16",
+        "Lap Number": "5",
+        "Driver ID": "bottas",
+        "Time": "1:28.242",
+        "Position": "17"
+    },
+    {
+        "Circuit ID": "monza",
+        "Round": "16",
+        "Lap Number": "6",
+        "Driver ID": "bottas",
+        "Time": "1:26.499",
+        "Position": "17"
+    },
+    {
+        "Circuit ID": "monza",
+        "Round": "16",
+        "Lap Number": "7",
+        "Driver ID": "bottas",
+        "Time": "1:26.359",
+        "Position": "17"
+    },
+    {
+        "Circuit ID": "monza",
+        "Round": "16",
+        "Lap Number": "8",
+        "Driver ID": "bottas",
+        "Time": "1:26.206",
+        "Position": "17"
+    },
+    {
+        "Circuit ID": "monza",
+        "Round": "16",
+        "Lap Number": "9",
+        "Driver ID": "bottas",
+        "Time": "1:26.188",
+        "Position": "17"
+    },
+    {
+        "Circuit ID": "monza",
+        "Round": "16",
+        "Lap Number": "10",
+        "Driver ID": "bottas",
+        "Time": "1:26.118",
+        "Position": "16"
+    },
+    {
+        "Circuit ID": "monza",
+        "Round": "16",
+        "Lap Number": "11",
+        "Driver ID": "bottas",
+        "Time": "1:26.470",
+        "Position": "16"
+    },
+    {
+        "Circuit ID": "monza",
+        "Round": "16",
+        "Lap Number": "12",
+        "Driver ID": "bottas",
+        "Time": "1:26.207",
+        "Position": "14"
+    },
+    {
+        "Circuit ID": "monza",
+        "Round": "16",
+        "Lap Number": "13",
+        "Driver ID": "bottas",
+        "Time": "1:26.349",
+        "Position": "13"
+    },
+    {
+        "Circuit ID": "monza",
+        "Round": "16",
+        "Lap Number": "14",
+        "Driver ID": "bottas",
+        "Time": "1:26.481",
+        "Position": "13"
+    },
+    {
+        "Circuit ID": "monza",
+        "Round": "16",
+        "Lap Number": "15",
+        "Driver ID": "bottas",
+        "Time": "1:26.790",
+        "Position": "12"
+    },
+    {
+        "Circuit ID": "monza",
+        "Round": "16",
+        "Lap Number": "16",
+        "Driver ID": "bottas",
+        "Time": "1:26.569",
+        "Position": "11"
+    },
+    {
+        "Circuit ID": "monza",
+        "Round": "16",
+        "Lap Number": "17",
+        "Driver ID": "bottas",
+        "Time": "1:26.396",
+        "Position": "11"
+    },
+    {
+        "Circuit ID": "monza",
+        "Round": "16",
+        "Lap Number": "18",
+        "Driver ID": "bottas",
+        "Time": "1:26.359",
+        "Position": "10"
+    },
+    {
+        "Circuit ID": "monza",
+        "Round": "16",
+        "Lap Number": "19",
+        "Driver ID": "bottas",
+        "Time": "1:26.456",
+        "Position": "9"
+    },
+    {
+        "Circuit ID": "monza",
+        "Round": "16",
+        "Lap Number": "20",
+        "Driver ID": "bottas",
+        "Time": "1:26.803",
+        "Position": "9"
+    },
+    {
+        "Circuit ID": "monza",
+        "Round": "16",
+        "Lap Number": "21",
+        "Driver ID": "bottas",
+        "Time": "1:27.230",
+        "Position": "10"
+    },
+    {
+        "Circuit ID": "monza",
+        "Round": "16",
+        "Lap Number": "22",
+        "Driver ID": "bottas",
+        "Time": "1:27.404",
+        "Position": "11"
+    },
+    {
+        "Circuit ID": "monza",
+        "Round": "16",
+        "Lap Number": "23",
+        "Driver ID": "bottas",
+        "Time": "1:26.943",
+        "Position": "11"
+    },
+    {
+        "Circuit ID": "monza",
+        "Round": "16",
+        "Lap Number": "24",
+        "Driver ID": "bottas",
+        "Time": "1:26.542",
+        "Position": "11"
+    },
+    {
+        "Circuit ID": "monza",
+        "Round": "16",
+        "Lap Number": "25",
+        "Driver ID": "bottas",
+        "Time": "1:26.863",
+        "Position": "12"
+    },
+    {
+        "Circuit ID": "monza",
+        "Round": "16",
+        "Lap Number": "26",
+        "Driver ID": "bottas",
+        "Time": "1:26.885",
+        "Position": "13"
+    },
+    {
+        "Circuit ID": "monza",
+        "Round": "16",
+        "Lap Number": "27",
+        "Driver ID": "bottas",
+        "Time": "1:26.309",
+        "Position": "13"
+    },
+    {
+        "Circuit ID": "monza",
+        "Round": "16",
+        "Lap Number": "28",
+        "Driver ID": "bottas",
+        "Time": "1:25.804",
+        "Position": "13"
+    },
+    {
+        "Circuit ID": "monza",
+        "Round": "16",
+        "Lap Number": "29",
+        "Driver ID": "bottas",
+        "Time": "1:26.827",
+        "Position": "14"
+    },
+    {
+        "Circuit ID": "monza",
+        "Round": "16",
+        "Lap Number": "30",
+        "Driver ID": "bottas",
+        "Time": "1:26.022",
+        "Position": "14"
+    },
+    {
+        "Circuit ID": "monza",
+        "Round": "16",
+        "Lap Number": "31",
+        "Driver ID": "bottas",
+        "Time": "1:26.004",
+        "Position": "14"
+    },
+    {
+        "Circuit ID": "monza",
+        "Round": "16",
+        "Lap Number": "32",
+        "Driver ID": "bottas",
+        "Time": "1:27.859",
+        "Position": "15"
+    },
+    {
+        "Circuit ID": "monza",
+        "Round": "16",
+        "Lap Number": "33",
+        "Driver ID": "bottas",
+        "Time": "1:30.924",
+        "Position": "15"
+    },
+    {
+        "Circuit ID": "monza",
+        "Round": "16",
+        "Lap Number": "34",
+        "Driver ID": "bottas",
+        "Time": "1:45.462",
+        "Position": "18"
+    },
+    {
+        "Circuit ID": "monza",
+        "Round": "16",
+        "Lap Number": "35",
+        "Driver ID": "bottas",
+        "Time": "1:25.336",
+        "Position": "18"
+    },
+    {
+        "Circuit ID": "monza",
+        "Round": "16",
+        "Lap Number": "36",
+        "Driver ID": "bottas",
+        "Time": "1:25.114",
+        "Position": "18"
+    },
+    {
+        "Circuit ID": "monza",
+        "Round": "16",
+        "Lap Number": "37",
+        "Driver ID": "bottas",
+        "Time": "1:25.213",
+        "Position": "18"
+    },
+    {
+        "Circuit ID": "monza",
+        "Round": "16",
+        "Lap Number": "38",
+        "Driver ID": "bottas",
+        "Time": "1:26.704",
+        "Position": "18"
+    },
+    {
+        "Circuit ID": "monza",
+        "Round": "16",
+        "Lap Number": "39",
+        "Driver ID": "bottas",
+        "Time": "1:25.081",
+        "Position": "18"
+    },
+    {
+        "Circuit ID": "monza",
+        "Round": "16",
+        "Lap Number": "40",
+        "Driver ID": "bottas",
+        "Time": "1:25.160",
+        "Position": "18"
+    },
+    {
+        "Circuit ID": "monza",
+        "Round": "16",
+        "Lap Number": "41",
+        "Driver ID": "bottas",
+        "Time": "1:26.310",
+        "Position": "18"
+    },
+    {
+        "Circuit ID": "monza",
+        "Round": "16",
+        "Lap Number": "42",
+        "Driver ID": "bottas",
+        "Time": "1:26.036",
+        "Position": "18"
+    },
+    {
+        "Circuit ID": "monza",
+        "Round": "16",
+        "Lap Number": "43",
+        "Driver ID": "bottas",
+        "Time": "1:24.637",
+        "Position": "18"
+    },
+    {
+        "Circuit ID": "monza",
+        "Round": "16",
+        "Lap Number": "44",
+        "Driver ID": "bottas",
+        "Time": "1:24.792",
+        "Position": "18"
+    },
+    {
+        "Circuit ID": "monza",
+        "Round": "16",
+        "Lap Number": "45",
+        "Driver ID": "bottas",
+        "Time": "1:24.588",
+        "Position": "18"
+    },
+    {
+        "Circuit ID": "monza",
+        "Round": "16",
+        "Lap Number": "46",
+        "Driver ID": "bottas",
+        "Time": "1:24.358",
+        "Position": "18"
+    },
+    {
+        "Circuit ID": "monza",
+        "Round": "16",
+        "Lap Number": "47",
+        "Driver ID": "bottas",
+        "Time": "1:24.089",
+        "Position": "17"
+    },
+    {
+        "Circuit ID": "monza",
+        "Round": "16",
+        "Lap Number": "48",
+        "Driver ID": "bottas",
+        "Time": "1:25.126",
+        "Position": "17"
+    },
+    {
+        "Circuit ID": "monza",
+        "Round": "16",
+        "Lap Number": "49",
+        "Driver ID": "bottas",
+        "Time": "1:23.885",
+        "Position": "17"
+    },
+    {
+        "Circuit ID": "monza",
+        "Round": "16",
+        "Lap Number": "50",
+        "Driver ID": "bottas",
+        "Time": "1:24.357",
+        "Position": "17"
+    },
+    {
+        "Circuit ID": "monza",
+        "Round": "16",
+        "Lap Number": "51",
+        "Driver ID": "bottas",
+        "Time": "1:23.979",
+        "Position": "16"
+    },
+    {
+        "Circuit ID": "monza",
+        "Round": "16",
+        "Lap Number": "52",
+        "Driver ID": "bottas",
+        "Time": "1:23.609",
+        "Position": "16"
+    },
+    {
+        "Circuit ID": "monza",
+        "Round": "16",
+        "Lap Number": "1",
+        "Driver ID": "tsunoda",
+        "Time": "1:35.235",
+        "Position": "14"
+    },
+    {
+        "Circuit ID": "monza",
+        "Round": "16",
+        "Lap Number": "2",
+        "Driver ID": "tsunoda",
+        "Time": "1:27.538",
+        "Position": "15"
+    },
+    {
+        "Circuit ID": "monza",
+        "Round": "16",
+        "Lap Number": "3",
+        "Driver ID": "tsunoda",
+        "Time": "1:26.665",
+        "Position": "15"
+    },
+    {
+        "Circuit ID": "monza",
+        "Round": "16",
+        "Lap Number": "4",
+        "Driver ID": "tsunoda",
+        "Time": "1:26.198",
+        "Position": "15"
+    },
+    {
+        "Circuit ID": "monza",
+        "Round": "16",
+        "Lap Number": "5",
+        "Driver ID": "tsunoda",
+        "Time": "1:32.241",
+        "Position": "19"
+    },
+    {
+        "Circuit ID": "monza",
+        "Round": "16",
+        "Lap Number": "6",
+        "Driver ID": "tsunoda",
+        "Time": "1:28.473",
+        "Position": "19"
+    },
+    {
+        "Circuit ID": "monza",
+        "Round": "16",
+        "Lap Number": "7",
+        "Driver ID": "tsunoda",
+        "Time": "1:40.319",
+        "Position": "19"
+    }
+]

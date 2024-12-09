@@ -7,11 +7,7 @@
         "Points": "25",
         "Fastest Lap": {
             "Time": "1:20.366",
-            "Lap": "38",
-            "Average Speed": {
-                "Speed": "219.898",
-                "Unit": "kph"
-            }
+            "Lap": "38"
         },
         "DNF": null
     },
@@ -23,11 +19,7 @@
         "Points": "18",
         "Fastest Lap": {
             "Time": "1:19.994",
-            "Lap": "54",
-            "Average Speed": {
-                "Speed": "220.921",
-                "Unit": "kph"
-            }
+            "Lap": "54"
         },
         "DNF": null
     },
@@ -39,11 +31,7 @@
         "Points": "15",
         "Fastest Lap": {
             "Time": "1:19.935",
-            "Lap": "27",
-            "Average Speed": {
-                "Speed": "221.084",
-                "Unit": "kph"
-            }
+            "Lap": "27"
         },
         "DNF": null
     },
@@ -55,11 +43,7 @@
         "Points": "12",
         "Fastest Lap": {
             "Time": "1:19.907",
-            "Lap": "25",
-            "Average Speed": {
-                "Speed": "221.162",
-                "Unit": "kph"
-            }
+            "Lap": "25"
         },
         "DNF": null
     },
@@ -71,11 +55,7 @@
         "Points": "10",
         "Fastest Lap": {
             "Time": "1:20.220",
-            "Lap": "63",
-            "Average Speed": {
-                "Speed": "220.299",
-                "Unit": "kph"
-            }
+            "Lap": "63"
         },
         "DNF": null
     },
@@ -87,11 +67,7 @@
         "Points": "8",
         "Fastest Lap": {
             "Time": "1:20.331",
-            "Lap": "43",
-            "Average Speed": {
-                "Speed": "219.994",
-                "Unit": "kph"
-            }
+            "Lap": "43"
         },
         "DNF": null
     },
@@ -103,11 +79,7 @@
         "Points": "7",
         "Fastest Lap": {
             "Time": "1:18.589",
-            "Lap": "54",
-            "Average Speed": {
-                "Speed": "224.871",
-                "Unit": "kph"
-            }
+            "Lap": "54"
         },
         "DNF": null
     },
@@ -119,11 +91,7 @@
         "Points": "4",
         "Fastest Lap": {
             "Time": "1:19.686",
-            "Lap": "52",
-            "Average Speed": {
-                "Speed": "221.775",
-                "Unit": "kph"
-            }
+            "Lap": "52"
         },
         "DNF": null
     },
@@ -135,11 +103,7 @@
         "Points": "2",
         "Fastest Lap": {
             "Time": "1:20.570",
-            "Lap": "58",
-            "Average Speed": {
-                "Speed": "219.342",
-                "Unit": "kph"
-            }
+            "Lap": "58"
         },
         "DNF": null
     },
@@ -151,11 +115,7 @@
         "Points": "1",
         "Fastest Lap": {
             "Time": "1:20.936",
-            "Lap": "14",
-            "Average Speed": {
-                "Speed": "218.350",
-                "Unit": "kph"
-            }
+            "Lap": "14"
         },
         "DNF": "+1 Lap"
     },
@@ -167,11 +127,7 @@
         "Points": "0",
         "Fastest Lap": {
             "Time": "1:21.700",
-            "Lap": "3",
-            "Average Speed": {
-                "Speed": "216.308",
-                "Unit": "kph"
-            }
+            "Lap": "3"
         },
         "DNF": "+1 Lap"
     },
@@ -183,11 +139,7 @@
         "Points": "0",
         "Fastest Lap": {
             "Time": "1:21.009",
-            "Lap": "58",
-            "Average Speed": {
-                "Speed": "218.153",
-                "Unit": "kph"
-            }
+            "Lap": "58"
         },
         "DNF": "+1 Lap"
     },
@@ -199,11 +151,7 @@
         "Points": "0",
         "Fastest Lap": {
             "Time": "1:21.569",
-            "Lap": "13",
-            "Average Speed": {
-                "Speed": "216.655",
-                "Unit": "kph"
-            }
+            "Lap": "13"
         },
         "DNF": "+1 Lap"
     },
@@ -215,11 +163,7 @@
         "Points": "0",
         "Fastest Lap": {
             "Time": "1:21.304",
-            "Lap": "37",
-            "Average Speed": {
-                "Speed": "217.361",
-                "Unit": "kph"
-            }
+            "Lap": "37"
         },
         "DNF": "+1 Lap"
     },
@@ -231,11 +175,7 @@
         "Points": "0",
         "Fastest Lap": {
             "Time": "1:21.016",
-            "Lap": "37",
-            "Average Speed": {
-                "Speed": "218.134",
-                "Unit": "kph"
-            }
+            "Lap": "37"
         },
         "DNF": "+1 Lap"
     },
@@ -247,11 +187,7 @@
         "Points": "0",
         "Fastest Lap": {
             "Time": "1:21.371",
-            "Lap": "10",
-            "Average Speed": {
-                "Speed": "217.183",
-                "Unit": "kph"
-            }
+            "Lap": "10"
         },
         "DNF": "+1 Lap"
     },
@@ -263,11 +199,7 @@
         "Points": "0",
         "Fastest Lap": {
             "Time": "1:21.229",
-            "Lap": "55",
-            "Average Speed": {
-                "Speed": "217.562",
-                "Unit": "kph"
-            }
+            "Lap": "55"
         },
         "DNF": "+1 Lap"
     },
@@ -279,11 +211,7 @@
         "Points": "0",
         "Fastest Lap": {
             "Time": "1:21.455",
-            "Lap": "11",
-            "Average Speed": {
-                "Speed": "216.959",
-                "Unit": "kph"
-            }
+            "Lap": "11"
         },
         "DNF": "+1 Lap"
     },
@@ -295,11 +223,7 @@
         "Points": "0",
         "Fastest Lap": {
             "Time": "1:19.004",
-            "Lap": "62",
-            "Average Speed": {
-                "Speed": "223.689",
-                "Unit": "kph"
-            }
+            "Lap": "62"
         },
         "DNF": "+1 Lap"
     },
@@ -311,11 +235,7 @@
         "Points": "0",
         "Fastest Lap": {
             "Time": "1:21.274",
-            "Lap": "48",
-            "Average Speed": {
-                "Speed": "217.442",
-                "Unit": "kph"
-            }
+            "Lap": "48"
         },
         "DNF": "Retired"
     }

@@ -1,0 +1,5170 @@
+[
+    {
+        "Circuit ID": "losail",
+        "Round": "23",
+        "Lap Number": "1",
+        "Driver ID": "max_verstappen",
+        "Time": "1:51.344",
+        "Position": "1"
+    },
+    {
+        "Circuit ID": "losail",
+        "Round": "23",
+        "Lap Number": "2",
+        "Driver ID": "max_verstappen",
+        "Time": "2:21.257",
+        "Position": "1"
+    },
+    {
+        "Circuit ID": "losail",
+        "Round": "23",
+        "Lap Number": "3",
+        "Driver ID": "max_verstappen",
+        "Time": "2:17.390",
+        "Position": "1"
+    },
+    {
+        "Circuit ID": "losail",
+        "Round": "23",
+        "Lap Number": "4",
+        "Driver ID": "max_verstappen",
+        "Time": "2:33.079",
+        "Position": "1"
+    },
+    {
+        "Circuit ID": "losail",
+        "Round": "23",
+        "Lap Number": "5",
+        "Driver ID": "max_verstappen",
+        "Time": "1:26.724",
+        "Position": "1"
+    },
+    {
+        "Circuit ID": "losail",
+        "Round": "23",
+        "Lap Number": "6",
+        "Driver ID": "max_verstappen",
+        "Time": "1:26.502",
+        "Position": "1"
+    },
+    {
+        "Circuit ID": "losail",
+        "Round": "23",
+        "Lap Number": "7",
+        "Driver ID": "max_verstappen",
+        "Time": "1:26.376",
+        "Position": "1"
+    },
+    {
+        "Circuit ID": "losail",
+        "Round": "23",
+        "Lap Number": "8",
+        "Driver ID": "max_verstappen",
+        "Time": "1:26.280",
+        "Position": "1"
+    },
+    {
+        "Circuit ID": "losail",
+        "Round": "23",
+        "Lap Number": "9",
+        "Driver ID": "max_verstappen",
+        "Time": "1:26.200",
+        "Position": "1"
+    },
+    {
+        "Circuit ID": "losail",
+        "Round": "23",
+        "Lap Number": "10",
+        "Driver ID": "max_verstappen",
+        "Time": "1:25.973",
+        "Position": "1"
+    },
+    {
+        "Circuit ID": "losail",
+        "Round": "23",
+        "Lap Number": "11",
+        "Driver ID": "max_verstappen",
+        "Time": "1:25.808",
+        "Position": "1"
+    },
+    {
+        "Circuit ID": "losail",
+        "Round": "23",
+        "Lap Number": "12",
+        "Driver ID": "max_verstappen",
+        "Time": "1:25.903",
+        "Position": "1"
+    },
+    {
+        "Circuit ID": "losail",
+        "Round": "23",
+        "Lap Number": "13",
+        "Driver ID": "max_verstappen",
+        "Time": "1:25.843",
+        "Position": "1"
+    },
+    {
+        "Circuit ID": "losail",
+        "Round": "23",
+        "Lap Number": "14",
+        "Driver ID": "max_verstappen",
+        "Time": "1:25.812",
+        "Position": "1"
+    },
+    {
+        "Circuit ID": "losail",
+        "Round": "23",
+        "Lap Number": "15",
+        "Driver ID": "max_verstappen",
+        "Time": "1:25.698",
+        "Position": "1"
+    },
+    {
+        "Circuit ID": "losail",
+        "Round": "23",
+        "Lap Number": "16",
+        "Driver ID": "max_verstappen",
+        "Time": "1:25.605",
+        "Position": "1"
+    },
+    {
+        "Circuit ID": "losail",
+        "Round": "23",
+        "Lap Number": "17",
+        "Driver ID": "max_verstappen",
+        "Time": "1:25.460",
+        "Position": "1"
+    },
+    {
+        "Circuit ID": "losail",
+        "Round": "23",
+        "Lap Number": "18",
+        "Driver ID": "max_verstappen",
+        "Time": "1:25.079",
+        "Position": "1"
+    },
+    {
+        "Circuit ID": "losail",
+        "Round": "23",
+        "Lap Number": "19",
+        "Driver ID": "max_verstappen",
+        "Time": "1:25.309",
+        "Position": "1"
+    },
+    {
+        "Circuit ID": "losail",
+        "Round": "23",
+        "Lap Number": "20",
+        "Driver ID": "max_verstappen",
+        "Time": "1:24.896",
+        "Position": "1"
+    },
+    {
+        "Circuit ID": "losail",
+        "Round": "23",
+        "Lap Number": "21",
+        "Driver ID": "max_verstappen",
+        "Time": "1:24.970",
+        "Position": "1"
+    },
+    {
+        "Circuit ID": "losail",
+        "Round": "23",
+        "Lap Number": "22",
+        "Driver ID": "max_verstappen",
+        "Time": "1:24.908",
+        "Position": "1"
+    },
+    {
+        "Circuit ID": "losail",
+        "Round": "23",
+        "Lap Number": "23",
+        "Driver ID": "max_verstappen",
+        "Time": "1:24.856",
+        "Position": "1"
+    },
+    {
+        "Circuit ID": "losail",
+        "Round": "23",
+        "Lap Number": "24",
+        "Driver ID": "max_verstappen",
+        "Time": "1:24.825",
+        "Position": "1"
+    },
+    {
+        "Circuit ID": "losail",
+        "Round": "23",
+        "Lap Number": "25",
+        "Driver ID": "max_verstappen",
+        "Time": "1:24.702",
+        "Position": "1"
+    },
+    {
+        "Circuit ID": "losail",
+        "Round": "23",
+        "Lap Number": "26",
+        "Driver ID": "max_verstappen",
+        "Time": "1:24.775",
+        "Position": "1"
+    },
+    {
+        "Circuit ID": "losail",
+        "Round": "23",
+        "Lap Number": "27",
+        "Driver ID": "max_verstappen",
+        "Time": "1:24.720",
+        "Position": "1"
+    },
+    {
+        "Circuit ID": "losail",
+        "Round": "23",
+        "Lap Number": "28",
+        "Driver ID": "max_verstappen",
+        "Time": "1:24.719",
+        "Position": "1"
+    },
+    {
+        "Circuit ID": "losail",
+        "Round": "23",
+        "Lap Number": "29",
+        "Driver ID": "max_verstappen",
+        "Time": "1:24.861",
+        "Position": "1"
+    },
+    {
+        "Circuit ID": "losail",
+        "Round": "23",
+        "Lap Number": "30",
+        "Driver ID": "max_verstappen",
+        "Time": "1:25.127",
+        "Position": "1"
+    },
+    {
+        "Circuit ID": "losail",
+        "Round": "23",
+        "Lap Number": "31",
+        "Driver ID": "max_verstappen",
+        "Time": "1:24.413",
+        "Position": "1"
+    },
+    {
+        "Circuit ID": "losail",
+        "Round": "23",
+        "Lap Number": "32",
+        "Driver ID": "max_verstappen",
+        "Time": "1:24.427",
+        "Position": "1"
+    },
+    {
+        "Circuit ID": "losail",
+        "Round": "23",
+        "Lap Number": "33",
+        "Driver ID": "max_verstappen",
+        "Time": "1:24.350",
+        "Position": "1"
+    },
+    {
+        "Circuit ID": "losail",
+        "Round": "23",
+        "Lap Number": "34",
+        "Driver ID": "max_verstappen",
+        "Time": "1:24.468",
+        "Position": "1"
+    },
+    {
+        "Circuit ID": "losail",
+        "Round": "23",
+        "Lap Number": "35",
+        "Driver ID": "max_verstappen",
+        "Time": "1:32.307",
+        "Position": "1"
+    },
+    {
+        "Circuit ID": "losail",
+        "Round": "23",
+        "Lap Number": "36",
+        "Driver ID": "max_verstappen",
+        "Time": "2:49.155",
+        "Position": "1"
+    },
+    {
+        "Circuit ID": "losail",
+        "Round": "23",
+        "Lap Number": "37",
+        "Driver ID": "max_verstappen",
+        "Time": "2:48.652",
+        "Position": "1"
+    },
+    {
+        "Circuit ID": "losail",
+        "Round": "23",
+        "Lap Number": "38",
+        "Driver ID": "max_verstappen",
+        "Time": "2:31.089",
+        "Position": "1"
+    },
+    {
+        "Circuit ID": "losail",
+        "Round": "23",
+        "Lap Number": "39",
+        "Driver ID": "max_verstappen",
+        "Time": "2:26.153",
+        "Position": "1"
+    },
+    {
+        "Circuit ID": "losail",
+        "Round": "23",
+        "Lap Number": "40",
+        "Driver ID": "max_verstappen",
+        "Time": "1:39.436",
+        "Position": "1"
+    },
+    {
+        "Circuit ID": "losail",
+        "Round": "23",
+        "Lap Number": "41",
+        "Driver ID": "max_verstappen",
+        "Time": "2:16.076",
+        "Position": "1"
+    },
+    {
+        "Circuit ID": "losail",
+        "Round": "23",
+        "Lap Number": "42",
+        "Driver ID": "max_verstappen",
+        "Time": "2:29.083",
+        "Position": "1"
+    },
+    {
+        "Circuit ID": "losail",
+        "Round": "23",
+        "Lap Number": "43",
+        "Driver ID": "max_verstappen",
+        "Time": "1:24.509",
+        "Position": "1"
+    },
+    {
+        "Circuit ID": "losail",
+        "Round": "23",
+        "Lap Number": "44",
+        "Driver ID": "max_verstappen",
+        "Time": "1:23.533",
+        "Position": "1"
+    },
+    {
+        "Circuit ID": "losail",
+        "Round": "23",
+        "Lap Number": "45",
+        "Driver ID": "max_verstappen",
+        "Time": "1:23.393",
+        "Position": "1"
+    },
+    {
+        "Circuit ID": "losail",
+        "Round": "23",
+        "Lap Number": "46",
+        "Driver ID": "max_verstappen",
+        "Time": "1:23.370",
+        "Position": "1"
+    },
+    {
+        "Circuit ID": "losail",
+        "Round": "23",
+        "Lap Number": "47",
+        "Driver ID": "max_verstappen",
+        "Time": "1:23.303",
+        "Position": "1"
+    },
+    {
+        "Circuit ID": "losail",
+        "Round": "23",
+        "Lap Number": "48",
+        "Driver ID": "max_verstappen",
+        "Time": "1:23.423",
+        "Position": "1"
+    },
+    {
+        "Circuit ID": "losail",
+        "Round": "23",
+        "Lap Number": "49",
+        "Driver ID": "max_verstappen",
+        "Time": "1:23.468",
+        "Position": "1"
+    },
+    {
+        "Circuit ID": "losail",
+        "Round": "23",
+        "Lap Number": "50",
+        "Driver ID": "max_verstappen",
+        "Time": "1:23.321",
+        "Position": "1"
+    },
+    {
+        "Circuit ID": "losail",
+        "Round": "23",
+        "Lap Number": "51",
+        "Driver ID": "max_verstappen",
+        "Time": "1:23.043",
+        "Position": "1"
+    },
+    {
+        "Circuit ID": "losail",
+        "Round": "23",
+        "Lap Number": "52",
+        "Driver ID": "max_verstappen",
+        "Time": "1:23.162",
+        "Position": "1"
+    },
+    {
+        "Circuit ID": "losail",
+        "Round": "23",
+        "Lap Number": "53",
+        "Driver ID": "max_verstappen",
+        "Time": "1:23.132",
+        "Position": "1"
+    },
+    {
+        "Circuit ID": "losail",
+        "Round": "23",
+        "Lap Number": "54",
+        "Driver ID": "max_verstappen",
+        "Time": "1:23.006",
+        "Position": "1"
+    },
+    {
+        "Circuit ID": "losail",
+        "Round": "23",
+        "Lap Number": "55",
+        "Driver ID": "max_verstappen",
+        "Time": "1:22.905",
+        "Position": "1"
+    },
+    {
+        "Circuit ID": "losail",
+        "Round": "23",
+        "Lap Number": "56",
+        "Driver ID": "max_verstappen",
+        "Time": "1:23.369",
+        "Position": "1"
+    },
+    {
+        "Circuit ID": "losail",
+        "Round": "23",
+        "Lap Number": "57",
+        "Driver ID": "max_verstappen",
+        "Time": "1:23.776",
+        "Position": "1"
+    },
+    {
+        "Circuit ID": "losail",
+        "Round": "23",
+        "Lap Number": "1",
+        "Driver ID": "leclerc",
+        "Time": "1:57.439",
+        "Position": "4"
+    },
+    {
+        "Circuit ID": "losail",
+        "Round": "23",
+        "Lap Number": "2",
+        "Driver ID": "leclerc",
+        "Time": "2:22.075",
+        "Position": "4"
+    },
+    {
+        "Circuit ID": "losail",
+        "Round": "23",
+        "Lap Number": "3",
+        "Driver ID": "leclerc",
+        "Time": "2:17.488",
+        "Position": "4"
+    },
+    {
+        "Circuit ID": "losail",
+        "Round": "23",
+        "Lap Number": "4",
+        "Driver ID": "leclerc",
+        "Time": "2:27.558",
+        "Position": "4"
+    },
+    {
+        "Circuit ID": "losail",
+        "Round": "23",
+        "Lap Number": "5",
+        "Driver ID": "leclerc",
+        "Time": "1:29.202",
+        "Position": "5"
+    },
+    {
+        "Circuit ID": "losail",
+        "Round": "23",
+        "Lap Number": "6",
+        "Driver ID": "leclerc",
+        "Time": "1:27.556",
+        "Position": "5"
+    },
+    {
+        "Circuit ID": "losail",
+        "Round": "23",
+        "Lap Number": "7",
+        "Driver ID": "leclerc",
+        "Time": "1:26.887",
+        "Position": "5"
+    },
+    {
+        "Circuit ID": "losail",
+        "Round": "23",
+        "Lap Number": "8",
+        "Driver ID": "leclerc",
+        "Time": "1:27.190",
+        "Position": "5"
+    },
+    {
+        "Circuit ID": "losail",
+        "Round": "23",
+        "Lap Number": "9",
+        "Driver ID": "leclerc",
+        "Time": "1:26.914",
+        "Position": "5"
+    },
+    {
+        "Circuit ID": "losail",
+        "Round": "23",
+        "Lap Number": "10",
+        "Driver ID": "leclerc",
+        "Time": "1:26.435",
+        "Position": "5"
+    },
+    {
+        "Circuit ID": "losail",
+        "Round": "23",
+        "Lap Number": "11",
+        "Driver ID": "leclerc",
+        "Time": "1:26.381",
+        "Position": "5"
+    },
+    {
+        "Circuit ID": "losail",
+        "Round": "23",
+        "Lap Number": "12",
+        "Driver ID": "leclerc",
+        "Time": "1:26.027",
+        "Position": "5"
+    },
+    {
+        "Circuit ID": "losail",
+        "Round": "23",
+        "Lap Number": "13",
+        "Driver ID": "leclerc",
+        "Time": "1:26.272",
+        "Position": "5"
+    },
+    {
+        "Circuit ID": "losail",
+        "Round": "23",
+        "Lap Number": "14",
+        "Driver ID": "leclerc",
+        "Time": "1:25.660",
+        "Position": "5"
+    },
+    {
+        "Circuit ID": "losail",
+        "Round": "23",
+        "Lap Number": "15",
+        "Driver ID": "leclerc",
+        "Time": "1:25.805",
+        "Position": "5"
+    },
+    {
+        "Circuit ID": "losail",
+        "Round": "23",
+        "Lap Number": "16",
+        "Driver ID": "leclerc",
+        "Time": "1:25.930",
+        "Position": "5"
+    },
+    {
+        "Circuit ID": "losail",
+        "Round": "23",
+        "Lap Number": "17",
+        "Driver ID": "leclerc",
+        "Time": "1:25.835",
+        "Position": "5"
+    },
+    {
+        "Circuit ID": "losail",
+        "Round": "23",
+        "Lap Number": "18",
+        "Driver ID": "leclerc",
+        "Time": "1:25.496",
+        "Position": "5"
+    },
+    {
+        "Circuit ID": "losail",
+        "Round": "23",
+        "Lap Number": "19",
+        "Driver ID": "leclerc",
+        "Time": "1:25.647",
+        "Position": "5"
+    },
+    {
+        "Circuit ID": "losail",
+        "Round": "23",
+        "Lap Number": "20",
+        "Driver ID": "leclerc",
+        "Time": "1:25.467",
+        "Position": "5"
+    },
+    {
+        "Circuit ID": "losail",
+        "Round": "23",
+        "Lap Number": "21",
+        "Driver ID": "leclerc",
+        "Time": "1:25.323",
+        "Position": "5"
+    },
+    {
+        "Circuit ID": "losail",
+        "Round": "23",
+        "Lap Number": "22",
+        "Driver ID": "leclerc",
+        "Time": "1:25.036",
+        "Position": "5"
+    },
+    {
+        "Circuit ID": "losail",
+        "Round": "23",
+        "Lap Number": "23",
+        "Driver ID": "leclerc",
+        "Time": "1:25.189",
+        "Position": "4"
+    },
+    {
+        "Circuit ID": "losail",
+        "Round": "23",
+        "Lap Number": "24",
+        "Driver ID": "leclerc",
+        "Time": "1:25.133",
+        "Position": "4"
+    },
+    {
+        "Circuit ID": "losail",
+        "Round": "23",
+        "Lap Number": "25",
+        "Driver ID": "leclerc",
+        "Time": "1:24.801",
+        "Position": "4"
+    },
+    {
+        "Circuit ID": "losail",
+        "Round": "23",
+        "Lap Number": "26",
+        "Driver ID": "leclerc",
+        "Time": "1:25.099",
+        "Position": "4"
+    },
+    {
+        "Circuit ID": "losail",
+        "Round": "23",
+        "Lap Number": "27",
+        "Driver ID": "leclerc",
+        "Time": "1:24.749",
+        "Position": "4"
+    },
+    {
+        "Circuit ID": "losail",
+        "Round": "23",
+        "Lap Number": "28",
+        "Driver ID": "leclerc",
+        "Time": "1:24.909",
+        "Position": "4"
+    },
+    {
+        "Circuit ID": "losail",
+        "Round": "23",
+        "Lap Number": "29",
+        "Driver ID": "leclerc",
+        "Time": "1:24.653",
+        "Position": "4"
+    },
+    {
+        "Circuit ID": "losail",
+        "Round": "23",
+        "Lap Number": "30",
+        "Driver ID": "leclerc",
+        "Time": "1:25.168",
+        "Position": "4"
+    },
+    {
+        "Circuit ID": "losail",
+        "Round": "23",
+        "Lap Number": "31",
+        "Driver ID": "leclerc",
+        "Time": "1:24.710",
+        "Position": "4"
+    },
+    {
+        "Circuit ID": "losail",
+        "Round": "23",
+        "Lap Number": "32",
+        "Driver ID": "leclerc",
+        "Time": "1:24.679",
+        "Position": "4"
+    },
+    {
+        "Circuit ID": "losail",
+        "Round": "23",
+        "Lap Number": "33",
+        "Driver ID": "leclerc",
+        "Time": "1:24.900",
+        "Position": "4"
+    },
+    {
+        "Circuit ID": "losail",
+        "Round": "23",
+        "Lap Number": "34",
+        "Driver ID": "leclerc",
+        "Time": "1:24.754",
+        "Position": "3"
+    },
+    {
+        "Circuit ID": "losail",
+        "Round": "23",
+        "Lap Number": "35",
+        "Driver ID": "leclerc",
+        "Time": "1:38.515",
+        "Position": "3"
+    },
+    {
+        "Circuit ID": "losail",
+        "Round": "23",
+        "Lap Number": "36",
+        "Driver ID": "leclerc",
+        "Time": "2:37.723",
+        "Position": "3"
+    },
+    {
+        "Circuit ID": "losail",
+        "Round": "23",
+        "Lap Number": "37",
+        "Driver ID": "leclerc",
+        "Time": "2:46.965",
+        "Position": "3"
+    },
+    {
+        "Circuit ID": "losail",
+        "Round": "23",
+        "Lap Number": "38",
+        "Driver ID": "leclerc",
+        "Time": "2:28.350",
+        "Position": "3"
+    },
+    {
+        "Circuit ID": "losail",
+        "Round": "23",
+        "Lap Number": "39",
+        "Driver ID": "leclerc",
+        "Time": "2:22.818",
+        "Position": "3"
+    },
+    {
+        "Circuit ID": "losail",
+        "Round": "23",
+        "Lap Number": "40",
+        "Driver ID": "leclerc",
+        "Time": "1:41.971",
+        "Position": "3"
+    },
+    {
+        "Circuit ID": "losail",
+        "Round": "23",
+        "Lap Number": "41",
+        "Driver ID": "leclerc",
+        "Time": "2:15.614",
+        "Position": "3"
+    },
+    {
+        "Circuit ID": "losail",
+        "Round": "23",
+        "Lap Number": "42",
+        "Driver ID": "leclerc",
+        "Time": "2:27.125",
+        "Position": "3"
+    },
+    {
+        "Circuit ID": "losail",
+        "Round": "23",
+        "Lap Number": "43",
+        "Driver ID": "leclerc",
+        "Time": "1:25.854",
+        "Position": "3"
+    },
+    {
+        "Circuit ID": "losail",
+        "Round": "23",
+        "Lap Number": "44",
+        "Driver ID": "leclerc",
+        "Time": "1:24.012",
+        "Position": "3"
+    },
+    {
+        "Circuit ID": "losail",
+        "Round": "23",
+        "Lap Number": "45",
+        "Driver ID": "leclerc",
+        "Time": "1:23.937",
+        "Position": "2"
+    },
+    {
+        "Circuit ID": "losail",
+        "Round": "23",
+        "Lap Number": "46",
+        "Driver ID": "leclerc",
+        "Time": "1:23.665",
+        "Position": "2"
+    },
+    {
+        "Circuit ID": "losail",
+        "Round": "23",
+        "Lap Number": "47",
+        "Driver ID": "leclerc",
+        "Time": "1:23.722",
+        "Position": "2"
+    },
+    {
+        "Circuit ID": "losail",
+        "Round": "23",
+        "Lap Number": "48",
+        "Driver ID": "leclerc",
+        "Time": "1:23.680",
+        "Position": "2"
+    },
+    {
+        "Circuit ID": "losail",
+        "Round": "23",
+        "Lap Number": "49",
+        "Driver ID": "leclerc",
+        "Time": "1:23.470",
+        "Position": "2"
+    },
+    {
+        "Circuit ID": "losail",
+        "Round": "23",
+        "Lap Number": "50",
+        "Driver ID": "leclerc",
+        "Time": "1:23.405",
+        "Position": "2"
+    },
+    {
+        "Circuit ID": "losail",
+        "Round": "23",
+        "Lap Number": "51",
+        "Driver ID": "leclerc",
+        "Time": "1:23.332",
+        "Position": "2"
+    },
+    {
+        "Circuit ID": "losail",
+        "Round": "23",
+        "Lap Number": "52",
+        "Driver ID": "leclerc",
+        "Time": "1:23.720",
+        "Position": "2"
+    },
+    {
+        "Circuit ID": "losail",
+        "Round": "23",
+        "Lap Number": "53",
+        "Driver ID": "leclerc",
+        "Time": "1:23.242",
+        "Position": "2"
+    },
+    {
+        "Circuit ID": "losail",
+        "Round": "23",
+        "Lap Number": "54",
+        "Driver ID": "leclerc",
+        "Time": "1:23.454",
+        "Position": "2"
+    },
+    {
+        "Circuit ID": "losail",
+        "Round": "23",
+        "Lap Number": "55",
+        "Driver ID": "leclerc",
+        "Time": "1:23.498",
+        "Position": "2"
+    },
+    {
+        "Circuit ID": "losail",
+        "Round": "23",
+        "Lap Number": "56",
+        "Driver ID": "leclerc",
+        "Time": "1:23.356",
+        "Position": "2"
+    },
+    {
+        "Circuit ID": "losail",
+        "Round": "23",
+        "Lap Number": "57",
+        "Driver ID": "leclerc",
+        "Time": "1:23.559",
+        "Position": "2"
+    },
+    {
+        "Circuit ID": "losail",
+        "Round": "23",
+        "Lap Number": "1",
+        "Driver ID": "piastri",
+        "Time": "1:58.513",
+        "Position": "5"
+    },
+    {
+        "Circuit ID": "losail",
+        "Round": "23",
+        "Lap Number": "2",
+        "Driver ID": "piastri",
+        "Time": "2:22.913",
+        "Position": "5"
+    },
+    {
+        "Circuit ID": "losail",
+        "Round": "23",
+        "Lap Number": "3",
+        "Driver ID": "piastri",
+        "Time": "2:17.707",
+        "Position": "5"
+    },
+    {
+        "Circuit ID": "losail",
+        "Round": "23",
+        "Lap Number": "4",
+        "Driver ID": "piastri",
+        "Time": "2:25.626",
+        "Position": "5"
+    },
+    {
+        "Circuit ID": "losail",
+        "Round": "23",
+        "Lap Number": "5",
+        "Driver ID": "piastri",
+        "Time": "1:27.603",
+        "Position": "4"
+    },
+    {
+        "Circuit ID": "losail",
+        "Round": "23",
+        "Lap Number": "6",
+        "Driver ID": "piastri",
+        "Time": "1:27.020",
+        "Position": "4"
+    },
+    {
+        "Circuit ID": "losail",
+        "Round": "23",
+        "Lap Number": "7",
+        "Driver ID": "piastri",
+        "Time": "1:26.851",
+        "Position": "4"
+    },
+    {
+        "Circuit ID": "losail",
+        "Round": "23",
+        "Lap Number": "8",
+        "Driver ID": "piastri",
+        "Time": "1:26.322",
+        "Position": "4"
+    },
+    {
+        "Circuit ID": "losail",
+        "Round": "23",
+        "Lap Number": "9",
+        "Driver ID": "piastri",
+        "Time": "1:26.464",
+        "Position": "4"
+    },
+    {
+        "Circuit ID": "losail",
+        "Round": "23",
+        "Lap Number": "10",
+        "Driver ID": "piastri",
+        "Time": "1:26.169",
+        "Position": "4"
+    },
+    {
+        "Circuit ID": "losail",
+        "Round": "23",
+        "Lap Number": "11",
+        "Driver ID": "piastri",
+        "Time": "1:26.382",
+        "Position": "4"
+    },
+    {
+        "Circuit ID": "losail",
+        "Round": "23",
+        "Lap Number": "12",
+        "Driver ID": "piastri",
+        "Time": "1:26.288",
+        "Position": "4"
+    },
+    {
+        "Circuit ID": "losail",
+        "Round": "23",
+        "Lap Number": "13",
+        "Driver ID": "piastri",
+        "Time": "1:26.035",
+        "Position": "4"
+    },
+    {
+        "Circuit ID": "losail",
+        "Round": "23",
+        "Lap Number": "14",
+        "Driver ID": "piastri",
+        "Time": "1:26.056",
+        "Position": "4"
+    },
+    {
+        "Circuit ID": "losail",
+        "Round": "23",
+        "Lap Number": "15",
+        "Driver ID": "piastri",
+        "Time": "1:25.803",
+        "Position": "4"
+    },
+    {
+        "Circuit ID": "losail",
+        "Round": "23",
+        "Lap Number": "16",
+        "Driver ID": "piastri",
+        "Time": "1:26.474",
+        "Position": "4"
+    },
+    {
+        "Circuit ID": "losail",
+        "Round": "23",
+        "Lap Number": "17",
+        "Driver ID": "piastri",
+        "Time": "1:26.031",
+        "Position": "4"
+    },
+    {
+        "Circuit ID": "losail",
+        "Round": "23",
+        "Lap Number": "18",
+        "Driver ID": "piastri",
+        "Time": "1:25.703",
+        "Position": "4"
+    },
+    {
+        "Circuit ID": "losail",
+        "Round": "23",
+        "Lap Number": "19",
+        "Driver ID": "piastri",
+        "Time": "1:25.494",
+        "Position": "4"
+    },
+    {
+        "Circuit ID": "losail",
+        "Round": "23",
+        "Lap Number": "20",
+        "Driver ID": "piastri",
+        "Time": "1:25.517",
+        "Position": "4"
+    },
+    {
+        "Circuit ID": "losail",
+        "Round": "23",
+        "Lap Number": "21",
+        "Driver ID": "piastri",
+        "Time": "1:25.366",
+        "Position": "4"
+    },
+    {
+        "Circuit ID": "losail",
+        "Round": "23",
+        "Lap Number": "22",
+        "Driver ID": "piastri",
+        "Time": "1:25.218",
+        "Position": "4"
+    },
+    {
+        "Circuit ID": "losail",
+        "Round": "23",
+        "Lap Number": "23",
+        "Driver ID": "piastri",
+        "Time": "1:25.634",
+        "Position": "3"
+    },
+    {
+        "Circuit ID": "losail",
+        "Round": "23",
+        "Lap Number": "24",
+        "Driver ID": "piastri",
+        "Time": "1:24.750",
+        "Position": "3"
+    },
+    {
+        "Circuit ID": "losail",
+        "Round": "23",
+        "Lap Number": "25",
+        "Driver ID": "piastri",
+        "Time": "1:24.897",
+        "Position": "3"
+    },
+    {
+        "Circuit ID": "losail",
+        "Round": "23",
+        "Lap Number": "26",
+        "Driver ID": "piastri",
+        "Time": "1:24.898",
+        "Position": "3"
+    },
+    {
+        "Circuit ID": "losail",
+        "Round": "23",
+        "Lap Number": "27",
+        "Driver ID": "piastri",
+        "Time": "1:24.727",
+        "Position": "3"
+    },
+    {
+        "Circuit ID": "losail",
+        "Round": "23",
+        "Lap Number": "28",
+        "Driver ID": "piastri",
+        "Time": "1:24.710",
+        "Position": "3"
+    },
+    {
+        "Circuit ID": "losail",
+        "Round": "23",
+        "Lap Number": "29",
+        "Driver ID": "piastri",
+        "Time": "1:24.761",
+        "Position": "3"
+    },
+    {
+        "Circuit ID": "losail",
+        "Round": "23",
+        "Lap Number": "30",
+        "Driver ID": "piastri",
+        "Time": "1:25.129",
+        "Position": "3"
+    },
+    {
+        "Circuit ID": "losail",
+        "Round": "23",
+        "Lap Number": "31",
+        "Driver ID": "piastri",
+        "Time": "1:24.883",
+        "Position": "3"
+    },
+    {
+        "Circuit ID": "losail",
+        "Round": "23",
+        "Lap Number": "32",
+        "Driver ID": "piastri",
+        "Time": "1:24.894",
+        "Position": "3"
+    },
+    {
+        "Circuit ID": "losail",
+        "Round": "23",
+        "Lap Number": "33",
+        "Driver ID": "piastri",
+        "Time": "1:25.284",
+        "Position": "3"
+    },
+    {
+        "Circuit ID": "losail",
+        "Round": "23",
+        "Lap Number": "34",
+        "Driver ID": "piastri",
+        "Time": "1:29.340",
+        "Position": "4"
+    },
+    {
+        "Circuit ID": "losail",
+        "Round": "23",
+        "Lap Number": "35",
+        "Driver ID": "piastri",
+        "Time": "2:07.624",
+        "Position": "5"
+    },
+    {
+        "Circuit ID": "losail",
+        "Round": "23",
+        "Lap Number": "36",
+        "Driver ID": "piastri",
+        "Time": "2:08.140",
+        "Position": "4"
+    },
+    {
+        "Circuit ID": "losail",
+        "Round": "23",
+        "Lap Number": "37",
+        "Driver ID": "piastri",
+        "Time": "2:45.540",
+        "Position": "4"
+    },
+    {
+        "Circuit ID": "losail",
+        "Round": "23",
+        "Lap Number": "38",
+        "Driver ID": "piastri",
+        "Time": "2:28.280",
+        "Position": "4"
+    },
+    {
+        "Circuit ID": "losail",
+        "Round": "23",
+        "Lap Number": "39",
+        "Driver ID": "piastri",
+        "Time": "2:21.872",
+        "Position": "4"
+    },
+    {
+        "Circuit ID": "losail",
+        "Round": "23",
+        "Lap Number": "40",
+        "Driver ID": "piastri",
+        "Time": "1:43.378",
+        "Position": "4"
+    },
+    {
+        "Circuit ID": "losail",
+        "Round": "23",
+        "Lap Number": "41",
+        "Driver ID": "piastri",
+        "Time": "2:15.810",
+        "Position": "4"
+    },
+    {
+        "Circuit ID": "losail",
+        "Round": "23",
+        "Lap Number": "42",
+        "Driver ID": "piastri",
+        "Time": "2:25.878",
+        "Position": "4"
+    },
+    {
+        "Circuit ID": "losail",
+        "Round": "23",
+        "Lap Number": "43",
+        "Driver ID": "piastri",
+        "Time": "1:26.116",
+        "Position": "4"
+    },
+    {
+        "Circuit ID": "losail",
+        "Round": "23",
+        "Lap Number": "44",
+        "Driver ID": "piastri",
+        "Time": "1:24.301",
+        "Position": "4"
+    },
+    {
+        "Circuit ID": "losail",
+        "Round": "23",
+        "Lap Number": "45",
+        "Driver ID": "piastri",
+        "Time": "1:23.980",
+        "Position": "3"
+    },
+    {
+        "Circuit ID": "losail",
+        "Round": "23",
+        "Lap Number": "46",
+        "Driver ID": "piastri",
+        "Time": "1:23.909",
+        "Position": "3"
+    },
+    {
+        "Circuit ID": "losail",
+        "Round": "23",
+        "Lap Number": "47",
+        "Driver ID": "piastri",
+        "Time": "1:23.568",
+        "Position": "3"
+    },
+    {
+        "Circuit ID": "losail",
+        "Round": "23",
+        "Lap Number": "48",
+        "Driver ID": "piastri",
+        "Time": "1:23.624",
+        "Position": "3"
+    },
+    {
+        "Circuit ID": "losail",
+        "Round": "23",
+        "Lap Number": "49",
+        "Driver ID": "piastri",
+        "Time": "1:23.623",
+        "Position": "3"
+    },
+    {
+        "Circuit ID": "losail",
+        "Round": "23",
+        "Lap Number": "50",
+        "Driver ID": "piastri",
+        "Time": "1:23.625",
+        "Position": "3"
+    },
+    {
+        "Circuit ID": "losail",
+        "Round": "23",
+        "Lap Number": "51",
+        "Driver ID": "piastri",
+        "Time": "1:23.218",
+        "Position": "3"
+    },
+    {
+        "Circuit ID": "losail",
+        "Round": "23",
+        "Lap Number": "52",
+        "Driver ID": "piastri",
+        "Time": "1:23.478",
+        "Position": "3"
+    },
+    {
+        "Circuit ID": "losail",
+        "Round": "23",
+        "Lap Number": "53",
+        "Driver ID": "piastri",
+        "Time": "1:23.523",
+        "Position": "3"
+    },
+    {
+        "Circuit ID": "losail",
+        "Round": "23",
+        "Lap Number": "54",
+        "Driver ID": "piastri",
+        "Time": "1:23.370",
+        "Position": "3"
+    },
+    {
+        "Circuit ID": "losail",
+        "Round": "23",
+        "Lap Number": "55",
+        "Driver ID": "piastri",
+        "Time": "1:23.269",
+        "Position": "3"
+    },
+    {
+        "Circuit ID": "losail",
+        "Round": "23",
+        "Lap Number": "56",
+        "Driver ID": "piastri",
+        "Time": "1:23.313",
+        "Position": "3"
+    },
+    {
+        "Circuit ID": "losail",
+        "Round": "23",
+        "Lap Number": "57",
+        "Driver ID": "piastri",
+        "Time": "1:23.241",
+        "Position": "3"
+    },
+    {
+        "Circuit ID": "losail",
+        "Round": "23",
+        "Lap Number": "1",
+        "Driver ID": "russell",
+        "Time": "1:55.631",
+        "Position": "3"
+    },
+    {
+        "Circuit ID": "losail",
+        "Round": "23",
+        "Lap Number": "2",
+        "Driver ID": "russell",
+        "Time": "2:21.375",
+        "Position": "3"
+    },
+    {
+        "Circuit ID": "losail",
+        "Round": "23",
+        "Lap Number": "3",
+        "Driver ID": "russell",
+        "Time": "2:17.726",
+        "Position": "3"
+    },
+    {
+        "Circuit ID": "losail",
+        "Round": "23",
+        "Lap Number": "4",
+        "Driver ID": "russell",
+        "Time": "2:29.191",
+        "Position": "3"
+    },
+    {
+        "Circuit ID": "losail",
+        "Round": "23",
+        "Lap Number": "5",
+        "Driver ID": "russell",
+        "Time": "1:27.948",
+        "Position": "3"
+    },
+    {
+        "Circuit ID": "losail",
+        "Round": "23",
+        "Lap Number": "6",
+        "Driver ID": "russell",
+        "Time": "1:26.797",
+        "Position": "3"
+    },
+    {
+        "Circuit ID": "losail",
+        "Round": "23",
+        "Lap Number": "7",
+        "Driver ID": "russell",
+        "Time": "1:26.561",
+        "Position": "3"
+    },
+    {
+        "Circuit ID": "losail",
+        "Round": "23",
+        "Lap Number": "8",
+        "Driver ID": "russell",
+        "Time": "1:26.433",
+        "Position": "3"
+    },
+    {
+        "Circuit ID": "losail",
+        "Round": "23",
+        "Lap Number": "9",
+        "Driver ID": "russell",
+        "Time": "1:26.498",
+        "Position": "3"
+    },
+    {
+        "Circuit ID": "losail",
+        "Round": "23",
+        "Lap Number": "10",
+        "Driver ID": "russell",
+        "Time": "1:26.274",
+        "Position": "3"
+    },
+    {
+        "Circuit ID": "losail",
+        "Round": "23",
+        "Lap Number": "11",
+        "Driver ID": "russell",
+        "Time": "1:26.214",
+        "Position": "3"
+    },
+    {
+        "Circuit ID": "losail",
+        "Round": "23",
+        "Lap Number": "12",
+        "Driver ID": "russell",
+        "Time": "1:25.989",
+        "Position": "3"
+    },
+    {
+        "Circuit ID": "losail",
+        "Round": "23",
+        "Lap Number": "13",
+        "Driver ID": "russell",
+        "Time": "1:26.182",
+        "Position": "3"
+    },
+    {
+        "Circuit ID": "losail",
+        "Round": "23",
+        "Lap Number": "14",
+        "Driver ID": "russell",
+        "Time": "1:26.240",
+        "Position": "3"
+    },
+    {
+        "Circuit ID": "losail",
+        "Round": "23",
+        "Lap Number": "15",
+        "Driver ID": "russell",
+        "Time": "1:25.958",
+        "Position": "3"
+    },
+    {
+        "Circuit ID": "losail",
+        "Round": "23",
+        "Lap Number": "16",
+        "Driver ID": "russell",
+        "Time": "1:26.022",
+        "Position": "3"
+    },
+    {
+        "Circuit ID": "losail",
+        "Round": "23",
+        "Lap Number": "17",
+        "Driver ID": "russell",
+        "Time": "1:25.749",
+        "Position": "3"
+    },
+    {
+        "Circuit ID": "losail",
+        "Round": "23",
+        "Lap Number": "18",
+        "Driver ID": "russell",
+        "Time": "1:25.560",
+        "Position": "3"
+    },
+    {
+        "Circuit ID": "losail",
+        "Round": "23",
+        "Lap Number": "19",
+        "Driver ID": "russell",
+        "Time": "1:25.546",
+        "Position": "3"
+    },
+    {
+        "Circuit ID": "losail",
+        "Round": "23",
+        "Lap Number": "20",
+        "Driver ID": "russell",
+        "Time": "1:25.760",
+        "Position": "3"
+    },
+    {
+        "Circuit ID": "losail",
+        "Round": "23",
+        "Lap Number": "21",
+        "Driver ID": "russell",
+        "Time": "1:25.721",
+        "Position": "3"
+    },
+    {
+        "Circuit ID": "losail",
+        "Round": "23",
+        "Lap Number": "22",
+        "Driver ID": "russell",
+        "Time": "1:25.576",
+        "Position": "3"
+    },
+    {
+        "Circuit ID": "losail",
+        "Round": "23",
+        "Lap Number": "23",
+        "Driver ID": "russell",
+        "Time": "1:29.591",
+        "Position": "5"
+    },
+    {
+        "Circuit ID": "losail",
+        "Round": "23",
+        "Lap Number": "24",
+        "Driver ID": "russell",
+        "Time": "1:53.294",
+        "Position": "11"
+    },
+    {
+        "Circuit ID": "losail",
+        "Round": "23",
+        "Lap Number": "25",
+        "Driver ID": "russell",
+        "Time": "1:25.514",
+        "Position": "11"
+    },
+    {
+        "Circuit ID": "losail",
+        "Round": "23",
+        "Lap Number": "26",
+        "Driver ID": "russell",
+        "Time": "1:25.973",
+        "Position": "11"
+    },
+    {
+        "Circuit ID": "losail",
+        "Round": "23",
+        "Lap Number": "27",
+        "Driver ID": "russell",
+        "Time": "1:26.155",
+        "Position": "11"
+    },
+    {
+        "Circuit ID": "losail",
+        "Round": "23",
+        "Lap Number": "28",
+        "Driver ID": "russell",
+        "Time": "1:25.867",
+        "Position": "10"
+    },
+    {
+        "Circuit ID": "losail",
+        "Round": "23",
+        "Lap Number": "29",
+        "Driver ID": "russell",
+        "Time": "1:25.916",
+        "Position": "10"
+    },
+    {
+        "Circuit ID": "losail",
+        "Round": "23",
+        "Lap Number": "30",
+        "Driver ID": "russell",
+        "Time": "1:26.145",
+        "Position": "10"
+    },
+    {
+        "Circuit ID": "losail",
+        "Round": "23",
+        "Lap Number": "31",
+        "Driver ID": "russell",
+        "Time": "1:25.811",
+        "Position": "10"
+    },
+    {
+        "Circuit ID": "losail",
+        "Round": "23",
+        "Lap Number": "32",
+        "Driver ID": "russell",
+        "Time": "1:25.583",
+        "Position": "10"
+    },
+    {
+        "Circuit ID": "losail",
+        "Round": "23",
+        "Lap Number": "33",
+        "Driver ID": "russell",
+        "Time": "1:25.498",
+        "Position": "10"
+    },
+    {
+        "Circuit ID": "losail",
+        "Round": "23",
+        "Lap Number": "34",
+        "Driver ID": "russell",
+        "Time": "1:25.972",
+        "Position": "8"
+    },
+    {
+        "Circuit ID": "losail",
+        "Round": "23",
+        "Lap Number": "35",
+        "Driver ID": "russell",
+        "Time": "1:54.752",
+        "Position": "7"
+    },
+    {
+        "Circuit ID": "losail",
+        "Round": "23",
+        "Lap Number": "36",
+        "Driver ID": "russell",
+        "Time": "2:22.188",
+        "Position": "7"
+    },
+    {
+        "Circuit ID": "losail",
+        "Round": "23",
+        "Lap Number": "37",
+        "Driver ID": "russell",
+        "Time": "2:14.784",
+        "Position": "7"
+    },
+    {
+        "Circuit ID": "losail",
+        "Round": "23",
+        "Lap Number": "38",
+        "Driver ID": "russell",
+        "Time": "2:26.380",
+        "Position": "7"
+    },
+    {
+        "Circuit ID": "losail",
+        "Round": "23",
+        "Lap Number": "39",
+        "Driver ID": "russell",
+        "Time": "2:17.029",
+        "Position": "6"
+    },
+    {
+        "Circuit ID": "losail",
+        "Round": "23",
+        "Lap Number": "40",
+        "Driver ID": "russell",
+        "Time": "1:46.275",
+        "Position": "5"
+    },
+    {
+        "Circuit ID": "losail",
+        "Round": "23",
+        "Lap Number": "41",
+        "Driver ID": "russell",
+        "Time": "2:14.121",
+        "Position": "5"
+    },
+    {
+        "Circuit ID": "losail",
+        "Round": "23",
+        "Lap Number": "42",
+        "Driver ID": "russell",
+        "Time": "2:24.716",
+        "Position": "5"
+    },
+    {
+        "Circuit ID": "losail",
+        "Round": "23",
+        "Lap Number": "43",
+        "Driver ID": "russell",
+        "Time": "1:26.371",
+        "Position": "5"
+    },
+    {
+        "Circuit ID": "losail",
+        "Round": "23",
+        "Lap Number": "44",
+        "Driver ID": "russell",
+        "Time": "1:24.644",
+        "Position": "5"
+    },
+    {
+        "Circuit ID": "losail",
+        "Round": "23",
+        "Lap Number": "45",
+        "Driver ID": "russell",
+        "Time": "1:24.010",
+        "Position": "5"
+    },
+    {
+        "Circuit ID": "losail",
+        "Round": "23",
+        "Lap Number": "46",
+        "Driver ID": "russell",
+        "Time": "1:23.614",
+        "Position": "4"
+    },
+    {
+        "Circuit ID": "losail",
+        "Round": "23",
+        "Lap Number": "47",
+        "Driver ID": "russell",
+        "Time": "1:23.889",
+        "Position": "4"
+    },
+    {
+        "Circuit ID": "losail",
+        "Round": "23",
+        "Lap Number": "48",
+        "Driver ID": "russell",
+        "Time": "1:23.796",
+        "Position": "4"
+    },
+    {
+        "Circuit ID": "losail",
+        "Round": "23",
+        "Lap Number": "49",
+        "Driver ID": "russell",
+        "Time": "1:23.744",
+        "Position": "4"
+    },
+    {
+        "Circuit ID": "losail",
+        "Round": "23",
+        "Lap Number": "50",
+        "Driver ID": "russell",
+        "Time": "1:23.355",
+        "Position": "4"
+    },
+    {
+        "Circuit ID": "losail",
+        "Round": "23",
+        "Lap Number": "51",
+        "Driver ID": "russell",
+        "Time": "1:23.495",
+        "Position": "4"
+    },
+    {
+        "Circuit ID": "losail",
+        "Round": "23",
+        "Lap Number": "52",
+        "Driver ID": "russell",
+        "Time": "1:23.549",
+        "Position": "4"
+    },
+    {
+        "Circuit ID": "losail",
+        "Round": "23",
+        "Lap Number": "53",
+        "Driver ID": "russell",
+        "Time": "1:23.681",
+        "Position": "4"
+    },
+    {
+        "Circuit ID": "losail",
+        "Round": "23",
+        "Lap Number": "54",
+        "Driver ID": "russell",
+        "Time": "1:23.560",
+        "Position": "4"
+    },
+    {
+        "Circuit ID": "losail",
+        "Round": "23",
+        "Lap Number": "55",
+        "Driver ID": "russell",
+        "Time": "1:23.361",
+        "Position": "4"
+    },
+    {
+        "Circuit ID": "losail",
+        "Round": "23",
+        "Lap Number": "56",
+        "Driver ID": "russell",
+        "Time": "1:23.366",
+        "Position": "4"
+    },
+    {
+        "Circuit ID": "losail",
+        "Round": "23",
+        "Lap Number": "57",
+        "Driver ID": "russell",
+        "Time": "1:23.477",
+        "Position": "4"
+    },
+    {
+        "Circuit ID": "losail",
+        "Round": "23",
+        "Lap Number": "1",
+        "Driver ID": "alonso",
+        "Time": "2:03.172",
+        "Position": "8"
+    },
+    {
+        "Circuit ID": "losail",
+        "Round": "23",
+        "Lap Number": "2",
+        "Driver ID": "alonso",
+        "Time": "2:22.483",
+        "Position": "8"
+    },
+    {
+        "Circuit ID": "losail",
+        "Round": "23",
+        "Lap Number": "3",
+        "Driver ID": "alonso",
+        "Time": "2:18.215",
+        "Position": "8"
+    },
+    {
+        "Circuit ID": "losail",
+        "Round": "23",
+        "Lap Number": "4",
+        "Driver ID": "alonso",
+        "Time": "2:22.341",
+        "Position": "8"
+    },
+    {
+        "Circuit ID": "losail",
+        "Round": "23",
+        "Lap Number": "5",
+        "Driver ID": "alonso",
+        "Time": "1:32.386",
+        "Position": "11"
+    },
+    {
+        "Circuit ID": "losail",
+        "Round": "23",
+        "Lap Number": "6",
+        "Driver ID": "alonso",
+        "Time": "1:29.044",
+        "Position": "12"
+    },
+    {
+        "Circuit ID": "losail",
+        "Round": "23",
+        "Lap Number": "7",
+        "Driver ID": "alonso",
+        "Time": "1:28.057",
+        "Position": "12"
+    },
+    {
+        "Circuit ID": "losail",
+        "Round": "23",
+        "Lap Number": "8",
+        "Driver ID": "alonso",
+        "Time": "1:28.028",
+        "Position": "12"
+    },
+    {
+        "Circuit ID": "losail",
+        "Round": "23",
+        "Lap Number": "9",
+        "Driver ID": "alonso",
+        "Time": "1:27.644",
+        "Position": "12"
+    },
+    {
+        "Circuit ID": "losail",
+        "Round": "23",
+        "Lap Number": "10",
+        "Driver ID": "alonso",
+        "Time": "1:28.156",
+        "Position": "12"
+    },
+    {
+        "Circuit ID": "losail",
+        "Round": "23",
+        "Lap Number": "11",
+        "Driver ID": "alonso",
+        "Time": "1:28.253",
+        "Position": "12"
+    },
+    {
+        "Circuit ID": "losail",
+        "Round": "23",
+        "Lap Number": "12",
+        "Driver ID": "alonso",
+        "Time": "1:27.906",
+        "Position": "12"
+    },
+    {
+        "Circuit ID": "losail",
+        "Round": "23",
+        "Lap Number": "13",
+        "Driver ID": "alonso",
+        "Time": "1:27.721",
+        "Position": "12"
+    },
+    {
+        "Circuit ID": "losail",
+        "Round": "23",
+        "Lap Number": "14",
+        "Driver ID": "alonso",
+        "Time": "1:26.802",
+        "Position": "11"
+    },
+    {
+        "Circuit ID": "losail",
+        "Round": "23",
+        "Lap Number": "15",
+        "Driver ID": "alonso",
+        "Time": "1:26.700",
+        "Position": "11"
+    },
+    {
+        "Circuit ID": "losail",
+        "Round": "23",
+        "Lap Number": "16",
+        "Driver ID": "alonso",
+        "Time": "1:26.867",
+        "Position": "11"
+    },
+    {
+        "Circuit ID": "losail",
+        "Round": "23",
+        "Lap Number": "17",
+        "Driver ID": "alonso",
+        "Time": "1:26.687",
+        "Position": "11"
+    },
+    {
+        "Circuit ID": "losail",
+        "Round": "23",
+        "Lap Number": "18",
+        "Driver ID": "alonso",
+        "Time": "1:26.744",
+        "Position": "11"
+    },
+    {
+        "Circuit ID": "losail",
+        "Round": "23",
+        "Lap Number": "19",
+        "Driver ID": "alonso",
+        "Time": "1:26.629",
+        "Position": "11"
+    },
+    {
+        "Circuit ID": "losail",
+        "Round": "23",
+        "Lap Number": "20",
+        "Driver ID": "alonso",
+        "Time": "1:26.855",
+        "Position": "11"
+    },
+    {
+        "Circuit ID": "losail",
+        "Round": "23",
+        "Lap Number": "21",
+        "Driver ID": "alonso",
+        "Time": "1:26.370",
+        "Position": "11"
+    },
+    {
+        "Circuit ID": "losail",
+        "Round": "23",
+        "Lap Number": "22",
+        "Driver ID": "alonso",
+        "Time": "1:26.481",
+        "Position": "11"
+    },
+    {
+        "Circuit ID": "losail",
+        "Round": "23",
+        "Lap Number": "23",
+        "Driver ID": "alonso",
+        "Time": "1:26.268",
+        "Position": "11"
+    },
+    {
+        "Circuit ID": "losail",
+        "Round": "23",
+        "Lap Number": "24",
+        "Driver ID": "alonso",
+        "Time": "1:26.377",
+        "Position": "10"
+    },
+    {
+        "Circuit ID": "losail",
+        "Round": "23",
+        "Lap Number": "25",
+        "Driver ID": "alonso",
+        "Time": "1:26.245",
+        "Position": "10"
+    },
+    {
+        "Circuit ID": "losail",
+        "Round": "23",
+        "Lap Number": "26",
+        "Driver ID": "alonso",
+        "Time": "1:26.300",
+        "Position": "10"
+    },
+    {
+        "Circuit ID": "losail",
+        "Round": "23",
+        "Lap Number": "27",
+        "Driver ID": "alonso",
+        "Time": "1:26.085",
+        "Position": "9"
+    },
+    {
+        "Circuit ID": "losail",
+        "Round": "23",
+        "Lap Number": "28",
+        "Driver ID": "alonso",
+        "Time": "1:25.941",
+        "Position": "9"
+    },
+    {
+        "Circuit ID": "losail",
+        "Round": "23",
+        "Lap Number": "29",
+        "Driver ID": "alonso",
+        "Time": "1:25.957",
+        "Position": "9"
+    },
+    {
+        "Circuit ID": "losail",
+        "Round": "23",
+        "Lap Number": "30",
+        "Driver ID": "alonso",
+        "Time": "1:25.893",
+        "Position": "9"
+    },
+    {
+        "Circuit ID": "losail",
+        "Round": "23",
+        "Lap Number": "31",
+        "Driver ID": "alonso",
+        "Time": "1:25.724",
+        "Position": "9"
+    },
+    {
+        "Circuit ID": "losail",
+        "Round": "23",
+        "Lap Number": "32",
+        "Driver ID": "alonso",
+        "Time": "1:25.649",
+        "Position": "9"
+    },
+    {
+        "Circuit ID": "losail",
+        "Round": "23",
+        "Lap Number": "33",
+        "Driver ID": "alonso",
+        "Time": "1:25.797",
+        "Position": "9"
+    },
+    {
+        "Circuit ID": "losail",
+        "Round": "23",
+        "Lap Number": "34",
+        "Driver ID": "alonso",
+        "Time": "1:27.518",
+        "Position": "9"
+    },
+    {
+        "Circuit ID": "losail",
+        "Round": "23",
+        "Lap Number": "35",
+        "Driver ID": "alonso",
+        "Time": "1:55.097",
+        "Position": "8"
+    },
+    {
+        "Circuit ID": "losail",
+        "Round": "23",
+        "Lap Number": "36",
+        "Driver ID": "alonso",
+        "Time": "2:26.362",
+        "Position": "9"
+    },
+    {
+        "Circuit ID": "losail",
+        "Round": "23",
+        "Lap Number": "37",
+        "Driver ID": "alonso",
+        "Time": "2:15.542",
+        "Position": "10"
+    },
+    {
+        "Circuit ID": "losail",
+        "Round": "23",
+        "Lap Number": "38",
+        "Driver ID": "alonso",
+        "Time": "2:24.470",
+        "Position": "10"
+    },
+    {
+        "Circuit ID": "losail",
+        "Round": "23",
+        "Lap Number": "39",
+        "Driver ID": "alonso",
+        "Time": "2:14.005",
+        "Position": "9"
+    },
+    {
+        "Circuit ID": "losail",
+        "Round": "23",
+        "Lap Number": "40",
+        "Driver ID": "alonso",
+        "Time": "1:51.269",
+        "Position": "8"
+    },
+    {
+        "Circuit ID": "losail",
+        "Round": "23",
+        "Lap Number": "41",
+        "Driver ID": "alonso",
+        "Time": "2:12.579",
+        "Position": "8"
+    },
+    {
+        "Circuit ID": "losail",
+        "Round": "23",
+        "Lap Number": "42",
+        "Driver ID": "alonso",
+        "Time": "2:20.832",
+        "Position": "8"
+    },
+    {
+        "Circuit ID": "losail",
+        "Round": "23",
+        "Lap Number": "43",
+        "Driver ID": "alonso",
+        "Time": "1:27.771",
+        "Position": "8"
+    },
+    {
+        "Circuit ID": "losail",
+        "Round": "23",
+        "Lap Number": "44",
+        "Driver ID": "alonso",
+        "Time": "1:25.477",
+        "Position": "8"
+    },
+    {
+        "Circuit ID": "losail",
+        "Round": "23",
+        "Lap Number": "45",
+        "Driver ID": "alonso",
+        "Time": "1:25.000",
+        "Position": "8"
+    },
+    {
+        "Circuit ID": "losail",
+        "Round": "23",
+        "Lap Number": "46",
+        "Driver ID": "alonso",
+        "Time": "1:24.440",
+        "Position": "7"
+    },
+    {
+        "Circuit ID": "losail",
+        "Round": "23",
+        "Lap Number": "47",
+        "Driver ID": "alonso",
+        "Time": "1:24.383",
+        "Position": "7"
+    },
+    {
+        "Circuit ID": "losail",
+        "Round": "23",
+        "Lap Number": "48",
+        "Driver ID": "alonso",
+        "Time": "1:24.472",
+        "Position": "7"
+    },
+    {
+        "Circuit ID": "losail",
+        "Round": "23",
+        "Lap Number": "49",
+        "Driver ID": "alonso",
+        "Time": "1:24.395",
+        "Position": "7"
+    },
+    {
+        "Circuit ID": "losail",
+        "Round": "23",
+        "Lap Number": "50",
+        "Driver ID": "alonso",
+        "Time": "1:24.057",
+        "Position": "7"
+    },
+    {
+        "Circuit ID": "losail",
+        "Round": "23",
+        "Lap Number": "51",
+        "Driver ID": "alonso",
+        "Time": "1:24.054",
+        "Position": "7"
+    },
+    {
+        "Circuit ID": "losail",
+        "Round": "23",
+        "Lap Number": "52",
+        "Driver ID": "alonso",
+        "Time": "1:24.196",
+        "Position": "7"
+    },
+    {
+        "Circuit ID": "losail",
+        "Round": "23",
+        "Lap Number": "53",
+        "Driver ID": "alonso",
+        "Time": "1:23.993",
+        "Position": "7"
+    },
+    {
+        "Circuit ID": "losail",
+        "Round": "23",
+        "Lap Number": "54",
+        "Driver ID": "alonso",
+        "Time": "1:23.871",
+        "Position": "7"
+    },
+    {
+        "Circuit ID": "losail",
+        "Round": "23",
+        "Lap Number": "55",
+        "Driver ID": "alonso",
+        "Time": "1:24.078",
+        "Position": "7"
+    },
+    {
+        "Circuit ID": "losail",
+        "Round": "23",
+        "Lap Number": "56",
+        "Driver ID": "alonso",
+        "Time": "1:23.885",
+        "Position": "7"
+    },
+    {
+        "Circuit ID": "losail",
+        "Round": "23",
+        "Lap Number": "57",
+        "Driver ID": "alonso",
+        "Time": "1:23.667",
+        "Position": "7"
+    },
+    {
+        "Circuit ID": "losail",
+        "Round": "23",
+        "Lap Number": "1",
+        "Driver ID": "zhou",
+        "Time": "2:14.044",
+        "Position": "15"
+    },
+    {
+        "Circuit ID": "losail",
+        "Round": "23",
+        "Lap Number": "2",
+        "Driver ID": "zhou",
+        "Time": "2:25.861",
+        "Position": "15"
+    },
+    {
+        "Circuit ID": "losail",
+        "Round": "23",
+        "Lap Number": "3",
+        "Driver ID": "zhou",
+        "Time": "2:18.331",
+        "Position": "15"
+    },
+    {
+        "Circuit ID": "losail",
+        "Round": "23",
+        "Lap Number": "4",
+        "Driver ID": "zhou",
+        "Time": "2:10.295",
+        "Position": "15"
+    },
+    {
+        "Circuit ID": "losail",
+        "Round": "23",
+        "Lap Number": "5",
+        "Driver ID": "zhou",
+        "Time": "1:30.517",
+        "Position": "13"
+    },
+    {
+        "Circuit ID": "losail",
+        "Round": "23",
+        "Lap Number": "6",
+        "Driver ID": "zhou",
+        "Time": "1:29.258",
+        "Position": "13"
+    },
+    {
+        "Circuit ID": "losail",
+        "Round": "23",
+        "Lap Number": "7",
+        "Driver ID": "zhou",
+        "Time": "1:28.056",
+        "Position": "13"
+    },
+    {
+        "Circuit ID": "losail",
+        "Round": "23",
+        "Lap Number": "8",
+        "Driver ID": "zhou",
+        "Time": "1:28.369",
+        "Position": "13"
+    },
+    {
+        "Circuit ID": "losail",
+        "Round": "23",
+        "Lap Number": "9",
+        "Driver ID": "zhou",
+        "Time": "1:28.078",
+        "Position": "13"
+    },
+    {
+        "Circuit ID": "losail",
+        "Round": "23",
+        "Lap Number": "10",
+        "Driver ID": "zhou",
+        "Time": "1:27.643",
+        "Position": "13"
+    },
+    {
+        "Circuit ID": "losail",
+        "Round": "23",
+        "Lap Number": "11",
+        "Driver ID": "zhou",
+        "Time": "1:28.164",
+        "Position": "13"
+    },
+    {
+        "Circuit ID": "losail",
+        "Round": "23",
+        "Lap Number": "12",
+        "Driver ID": "zhou",
+        "Time": "1:27.973",
+        "Position": "13"
+    },
+    {
+        "Circuit ID": "losail",
+        "Round": "23",
+        "Lap Number": "13",
+        "Driver ID": "zhou",
+        "Time": "1:27.659",
+        "Position": "13"
+    },
+    {
+        "Circuit ID": "losail",
+        "Round": "23",
+        "Lap Number": "14",
+        "Driver ID": "zhou",
+        "Time": "1:27.909",
+        "Position": "13"
+    },
+    {
+        "Circuit ID": "losail",
+        "Round": "23",
+        "Lap Number": "15",
+        "Driver ID": "zhou",
+        "Time": "1:27.024",
+        "Position": "12"
+    },
+    {
+        "Circuit ID": "losail",
+        "Round": "23",
+        "Lap Number": "16",
+        "Driver ID": "zhou",
+        "Time": "1:27.165",
+        "Position": "12"
+    },
+    {
+        "Circuit ID": "losail",
+        "Round": "23",
+        "Lap Number": "17",
+        "Driver ID": "zhou",
+        "Time": "1:27.247",
+        "Position": "12"
+    },
+    {
+        "Circuit ID": "losail",
+        "Round": "23",
+        "Lap Number": "18",
+        "Driver ID": "zhou",
+        "Time": "1:27.020",
+        "Position": "12"
+    },
+    {
+        "Circuit ID": "losail",
+        "Round": "23",
+        "Lap Number": "19",
+        "Driver ID": "zhou",
+        "Time": "1:26.888",
+        "Position": "12"
+    },
+    {
+        "Circuit ID": "losail",
+        "Round": "23",
+        "Lap Number": "20",
+        "Driver ID": "zhou",
+        "Time": "1:26.609",
+        "Position": "12"
+    },
+    {
+        "Circuit ID": "losail",
+        "Round": "23",
+        "Lap Number": "21",
+        "Driver ID": "zhou",
+        "Time": "1:26.594",
+        "Position": "12"
+    },
+    {
+        "Circuit ID": "losail",
+        "Round": "23",
+        "Lap Number": "22",
+        "Driver ID": "zhou",
+        "Time": "1:26.428",
+        "Position": "12"
+    },
+    {
+        "Circuit ID": "losail",
+        "Round": "23",
+        "Lap Number": "23",
+        "Driver ID": "zhou",
+        "Time": "1:26.126",
+        "Position": "12"
+    },
+    {
+        "Circuit ID": "losail",
+        "Round": "23",
+        "Lap Number": "24",
+        "Driver ID": "zhou",
+        "Time": "1:26.397",
+        "Position": "12"
+    },
+    {
+        "Circuit ID": "losail",
+        "Round": "23",
+        "Lap Number": "25",
+        "Driver ID": "zhou",
+        "Time": "1:26.191",
+        "Position": "12"
+    },
+    {
+        "Circuit ID": "losail",
+        "Round": "23",
+        "Lap Number": "26",
+        "Driver ID": "zhou",
+        "Time": "1:25.928",
+        "Position": "12"
+    },
+    {
+        "Circuit ID": "losail",
+        "Round": "23",
+        "Lap Number": "27",
+        "Driver ID": "zhou",
+        "Time": "1:25.912",
+        "Position": "12"
+    },
+    {
+        "Circuit ID": "losail",
+        "Round": "23",
+        "Lap Number": "28",
+        "Driver ID": "zhou",
+        "Time": "1:25.916",
+        "Position": "11"
+    },
+    {
+        "Circuit ID": "losail",
+        "Round": "23",
+        "Lap Number": "29",
+        "Driver ID": "zhou",
+        "Time": "1:25.979",
+        "Position": "11"
+    },
+    {
+        "Circuit ID": "losail",
+        "Round": "23",
+        "Lap Number": "30",
+        "Driver ID": "zhou",
+        "Time": "1:25.849",
+        "Position": "11"
+    },
+    {
+        "Circuit ID": "losail",
+        "Round": "23",
+        "Lap Number": "31",
+        "Driver ID": "zhou",
+        "Time": "1:25.899",
+        "Position": "11"
+    },
+    {
+        "Circuit ID": "losail",
+        "Round": "23",
+        "Lap Number": "32",
+        "Driver ID": "zhou",
+        "Time": "1:25.849",
+        "Position": "11"
+    },
+    {
+        "Circuit ID": "losail",
+        "Round": "23",
+        "Lap Number": "33",
+        "Driver ID": "zhou",
+        "Time": "1:25.659",
+        "Position": "11"
+    },
+    {
+        "Circuit ID": "losail",
+        "Round": "23",
+        "Lap Number": "34",
+        "Driver ID": "zhou",
+        "Time": "1:25.937",
+        "Position": "10"
+    },
+    {
+        "Circuit ID": "losail",
+        "Round": "23",
+        "Lap Number": "35",
+        "Driver ID": "zhou",
+        "Time": "1:55.892",
+        "Position": "9"
+    },
+    {
+        "Circuit ID": "losail",
+        "Round": "23",
+        "Lap Number": "36",
+        "Driver ID": "zhou",
+        "Time": "2:26.390",
+        "Position": "10"
+    },
+    {
+        "Circuit ID": "losail",
+        "Round": "23",
+        "Lap Number": "37",
+        "Driver ID": "zhou",
+        "Time": "2:09.664",
+        "Position": "9"
+    },
+    {
+        "Circuit ID": "losail",
+        "Round": "23",
+        "Lap Number": "38",
+        "Driver ID": "zhou",
+        "Time": "2:26.432",
+        "Position": "9"
+    },
+    {
+        "Circuit ID": "losail",
+        "Round": "23",
+        "Lap Number": "39",
+        "Driver ID": "zhou",
+        "Time": "2:15.506",
+        "Position": "8"
+    },
+    {
+        "Circuit ID": "losail",
+        "Round": "23",
+        "Lap Number": "40",
+        "Driver ID": "zhou",
+        "Time": "1:52.918",
+        "Position": "9"
+    },
+    {
+        "Circuit ID": "losail",
+        "Round": "23",
+        "Lap Number": "41",
+        "Driver ID": "zhou",
+        "Time": "2:12.403",
+        "Position": "9"
+    },
+    {
+        "Circuit ID": "losail",
+        "Round": "23",
+        "Lap Number": "42",
+        "Driver ID": "zhou",
+        "Time": "2:19.983",
+        "Position": "9"
+    },
+    {
+        "Circuit ID": "losail",
+        "Round": "23",
+        "Lap Number": "43",
+        "Driver ID": "zhou",
+        "Time": "1:28.011",
+        "Position": "9"
+    },
+    {
+        "Circuit ID": "losail",
+        "Round": "23",
+        "Lap Number": "44",
+        "Driver ID": "zhou",
+        "Time": "1:26.299",
+        "Position": "9"
+    },
+    {
+        "Circuit ID": "losail",
+        "Round": "23",
+        "Lap Number": "45",
+        "Driver ID": "zhou",
+        "Time": "1:25.141",
+        "Position": "9"
+    },
+    {
+        "Circuit ID": "losail",
+        "Round": "23",
+        "Lap Number": "46",
+        "Driver ID": "zhou",
+        "Time": "1:25.067",
+        "Position": "8"
+    },
+    {
+        "Circuit ID": "losail",
+        "Round": "23",
+        "Lap Number": "47",
+        "Driver ID": "zhou",
+        "Time": "1:24.936",
+        "Position": "8"
+    },
+    {
+        "Circuit ID": "losail",
+        "Round": "23",
+        "Lap Number": "48",
+        "Driver ID": "zhou",
+        "Time": "1:24.906",
+        "Position": "8"
+    },
+    {
+        "Circuit ID": "losail",
+        "Round": "23",
+        "Lap Number": "49",
+        "Driver ID": "zhou",
+        "Time": "1:24.667",
+        "Position": "8"
+    },
+    {
+        "Circuit ID": "losail",
+        "Round": "23",
+        "Lap Number": "50",
+        "Driver ID": "zhou",
+        "Time": "1:24.428",
+        "Position": "8"
+    },
+    {
+        "Circuit ID": "losail",
+        "Round": "23",
+        "Lap Number": "51",
+        "Driver ID": "zhou",
+        "Time": "1:24.425",
+        "Position": "8"
+    },
+    {
+        "Circuit ID": "losail",
+        "Round": "23",
+        "Lap Number": "52",
+        "Driver ID": "zhou",
+        "Time": "1:24.403",
+        "Position": "8"
+    },
+    {
+        "Circuit ID": "losail",
+        "Round": "23",
+        "Lap Number": "53",
+        "Driver ID": "zhou",
+        "Time": "1:24.294",
+        "Position": "8"
+    },
+    {
+        "Circuit ID": "losail",
+        "Round": "23",
+        "Lap Number": "54",
+        "Driver ID": "zhou",
+        "Time": "1:24.239",
+        "Position": "8"
+    },
+    {
+        "Circuit ID": "losail",
+        "Round": "23",
+        "Lap Number": "55",
+        "Driver ID": "zhou",
+        "Time": "1:24.038",
+        "Position": "8"
+    },
+    {
+        "Circuit ID": "losail",
+        "Round": "23",
+        "Lap Number": "56",
+        "Driver ID": "zhou",
+        "Time": "1:23.978",
+        "Position": "8"
+    },
+    {
+        "Circuit ID": "losail",
+        "Round": "23",
+        "Lap Number": "57",
+        "Driver ID": "zhou",
+        "Time": "1:23.889",
+        "Position": "8"
+    },
+    {
+        "Circuit ID": "losail",
+        "Round": "23",
+        "Lap Number": "1",
+        "Driver ID": "kevin_magnussen",
+        "Time": "2:09.920",
+        "Position": "11"
+    },
+    {
+        "Circuit ID": "losail",
+        "Round": "23",
+        "Lap Number": "2",
+        "Driver ID": "kevin_magnussen",
+        "Time": "2:23.343",
+        "Position": "11"
+    },
+    {
+        "Circuit ID": "losail",
+        "Round": "23",
+        "Lap Number": "3",
+        "Driver ID": "kevin_magnussen",
+        "Time": "2:18.697",
+        "Position": "11"
+    },
+    {
+        "Circuit ID": "losail",
+        "Round": "23",
+        "Lap Number": "4",
+        "Driver ID": "kevin_magnussen",
+        "Time": "2:14.923",
+        "Position": "11"
+    },
+    {
+        "Circuit ID": "losail",
+        "Round": "23",
+        "Lap Number": "5",
+        "Driver ID": "kevin_magnussen",
+        "Time": "1:30.890",
+        "Position": "10"
+    },
+    {
+        "Circuit ID": "losail",
+        "Round": "23",
+        "Lap Number": "6",
+        "Driver ID": "kevin_magnussen",
+        "Time": "1:28.533",
+        "Position": "10"
+    },
+    {
+        "Circuit ID": "losail",
+        "Round": "23",
+        "Lap Number": "7",
+        "Driver ID": "kevin_magnussen",
+        "Time": "1:28.075",
+        "Position": "10"
+    },
+    {
+        "Circuit ID": "losail",
+        "Round": "23",
+        "Lap Number": "8",
+        "Driver ID": "kevin_magnussen",
+        "Time": "1:27.707",
+        "Position": "10"
+    },
+    {
+        "Circuit ID": "losail",
+        "Round": "23",
+        "Lap Number": "9",
+        "Driver ID": "kevin_magnussen",
+        "Time": "1:27.395",
+        "Position": "10"
+    },
+    {
+        "Circuit ID": "losail",
+        "Round": "23",
+        "Lap Number": "10",
+        "Driver ID": "kevin_magnussen",
+        "Time": "1:27.601",
+        "Position": "9"
+    },
+    {
+        "Circuit ID": "losail",
+        "Round": "23",
+        "Lap Number": "11",
+        "Driver ID": "kevin_magnussen",
+        "Time": "1:28.499",
+        "Position": "9"
+    },
+    {
+        "Circuit ID": "losail",
+        "Round": "23",
+        "Lap Number": "12",
+        "Driver ID": "kevin_magnussen",
+        "Time": "1:27.513",
+        "Position": "9"
+    },
+    {
+        "Circuit ID": "losail",
+        "Round": "23",
+        "Lap Number": "13",
+        "Driver ID": "kevin_magnussen",
+        "Time": "1:27.321",
+        "Position": "9"
+    },
+    {
+        "Circuit ID": "losail",
+        "Round": "23",
+        "Lap Number": "14",
+        "Driver ID": "kevin_magnussen",
+        "Time": "1:26.989",
+        "Position": "9"
+    },
+    {
+        "Circuit ID": "losail",
+        "Round": "23",
+        "Lap Number": "15",
+        "Driver ID": "kevin_magnussen",
+        "Time": "1:26.911",
+        "Position": "9"
+    },
+    {
+        "Circuit ID": "losail",
+        "Round": "23",
+        "Lap Number": "16",
+        "Driver ID": "kevin_magnussen",
+        "Time": "1:26.797",
+        "Position": "9"
+    },
+    {
+        "Circuit ID": "losail",
+        "Round": "23",
+        "Lap Number": "17",
+        "Driver ID": "kevin_magnussen",
+        "Time": "1:26.650",
+        "Position": "9"
+    },
+    {
+        "Circuit ID": "losail",
+        "Round": "23",
+        "Lap Number": "18",
+        "Driver ID": "kevin_magnussen",
+        "Time": "1:26.763",
+        "Position": "9"
+    },
+    {
+        "Circuit ID": "losail",
+        "Round": "23",
+        "Lap Number": "19",
+        "Driver ID": "kevin_magnussen",
+        "Time": "1:26.607",
+        "Position": "9"
+    },
+    {
+        "Circuit ID": "losail",
+        "Round": "23",
+        "Lap Number": "20",
+        "Driver ID": "kevin_magnussen",
+        "Time": "1:26.580",
+        "Position": "9"
+    },
+    {
+        "Circuit ID": "losail",
+        "Round": "23",
+        "Lap Number": "21",
+        "Driver ID": "kevin_magnussen",
+        "Time": "1:26.460",
+        "Position": "9"
+    },
+    {
+        "Circuit ID": "losail",
+        "Round": "23",
+        "Lap Number": "22",
+        "Driver ID": "kevin_magnussen",
+        "Time": "1:26.377",
+        "Position": "9"
+    },
+    {
+        "Circuit ID": "losail",
+        "Round": "23",
+        "Lap Number": "23",
+        "Driver ID": "kevin_magnussen",
+        "Time": "1:26.237",
+        "Position": "9"
+    },
+    {
+        "Circuit ID": "losail",
+        "Round": "23",
+        "Lap Number": "24",
+        "Driver ID": "kevin_magnussen",
+        "Time": "1:26.304",
+        "Position": "8"
+    },
+    {
+        "Circuit ID": "losail",
+        "Round": "23",
+        "Lap Number": "25",
+        "Driver ID": "kevin_magnussen",
+        "Time": "1:26.106",
+        "Position": "8"
+    },
+    {
+        "Circuit ID": "losail",
+        "Round": "23",
+        "Lap Number": "26",
+        "Driver ID": "kevin_magnussen",
+        "Time": "1:26.148",
+        "Position": "8"
+    },
+    {
+        "Circuit ID": "losail",
+        "Round": "23",
+        "Lap Number": "27",
+        "Driver ID": "kevin_magnussen",
+        "Time": "1:30.050",
+        "Position": "10"
+    },
+    {
+        "Circuit ID": "losail",
+        "Round": "23",
+        "Lap Number": "28",
+        "Driver ID": "kevin_magnussen",
+        "Time": "1:48.853",
+        "Position": "16"
+    },
+    {
+        "Circuit ID": "losail",
+        "Round": "23",
+        "Lap Number": "29",
+        "Driver ID": "kevin_magnussen",
+        "Time": "1:25.682",
+        "Position": "16"
+    },
+    {
+        "Circuit ID": "losail",
+        "Round": "23",
+        "Lap Number": "30",
+        "Driver ID": "kevin_magnussen",
+        "Time": "1:25.602",
+        "Position": "16"
+    },
+    {
+        "Circuit ID": "losail",
+        "Round": "23",
+        "Lap Number": "31",
+        "Driver ID": "kevin_magnussen",
+        "Time": "1:25.307",
+        "Position": "16"
+    },
+    {
+        "Circuit ID": "losail",
+        "Round": "23",
+        "Lap Number": "32",
+        "Driver ID": "kevin_magnussen",
+        "Time": "1:25.877",
+        "Position": "15"
+    },
+    {
+        "Circuit ID": "losail",
+        "Round": "23",
+        "Lap Number": "33",
+        "Driver ID": "kevin_magnussen",
+        "Time": "1:25.580",
+        "Position": "15"
+    },
+    {
+        "Circuit ID": "losail",
+        "Round": "23",
+        "Lap Number": "34",
+        "Driver ID": "kevin_magnussen",
+        "Time": "1:26.137",
+        "Position": "14"
+    },
+    {
+        "Circuit ID": "losail",
+        "Round": "23",
+        "Lap Number": "35",
+        "Driver ID": "kevin_magnussen",
+        "Time": "2:00.651",
+        "Position": "13"
+    },
+    {
+        "Circuit ID": "losail",
+        "Round": "23",
+        "Lap Number": "36",
+        "Driver ID": "kevin_magnussen",
+        "Time": "2:05.526",
+        "Position": "11"
+    },
+    {
+        "Circuit ID": "losail",
+        "Round": "23",
+        "Lap Number": "37",
+        "Driver ID": "kevin_magnussen",
+        "Time": "2:10.074",
+        "Position": "11"
+    },
+    {
+        "Circuit ID": "losail",
+        "Round": "23",
+        "Lap Number": "38",
+        "Driver ID": "kevin_magnussen",
+        "Time": "2:26.776",
+        "Position": "11"
+    },
+    {
+        "Circuit ID": "losail",
+        "Round": "23",
+        "Lap Number": "39",
+        "Driver ID": "kevin_magnussen",
+        "Time": "2:12.021",
+        "Position": "10"
+    },
+    {
+        "Circuit ID": "losail",
+        "Round": "23",
+        "Lap Number": "40",
+        "Driver ID": "kevin_magnussen",
+        "Time": "1:53.041",
+        "Position": "10"
+    },
+    {
+        "Circuit ID": "losail",
+        "Round": "23",
+        "Lap Number": "41",
+        "Driver ID": "kevin_magnussen",
+        "Time": "2:13.540",
+        "Position": "10"
+    },
+    {
+        "Circuit ID": "losail",
+        "Round": "23",
+        "Lap Number": "42",
+        "Driver ID": "kevin_magnussen",
+        "Time": "2:18.376",
+        "Position": "10"
+    },
+    {
+        "Circuit ID": "losail",
+        "Round": "23",
+        "Lap Number": "43",
+        "Driver ID": "kevin_magnussen",
+        "Time": "1:29.014",
+        "Position": "11"
+    },
+    {
+        "Circuit ID": "losail",
+        "Round": "23",
+        "Lap Number": "44",
+        "Driver ID": "kevin_magnussen",
+        "Time": "1:26.260",
+        "Position": "11"
+    },
+    {
+        "Circuit ID": "losail",
+        "Round": "23",
+        "Lap Number": "45",
+        "Driver ID": "kevin_magnussen",
+        "Time": "1:25.784",
+        "Position": "11"
+    },
+    {
+        "Circuit ID": "losail",
+        "Round": "23",
+        "Lap Number": "46",
+        "Driver ID": "kevin_magnussen",
+        "Time": "1:25.823",
+        "Position": "10"
+    },
+    {
+        "Circuit ID": "losail",
+        "Round": "23",
+        "Lap Number": "47",
+        "Driver ID": "kevin_magnussen",
+        "Time": "1:25.542",
+        "Position": "10"
+    },
+    {
+        "Circuit ID": "losail",
+        "Round": "23",
+        "Lap Number": "48",
+        "Driver ID": "kevin_magnussen",
+        "Time": "1:25.560",
+        "Position": "10"
+    },
+    {
+        "Circuit ID": "losail",
+        "Round": "23",
+        "Lap Number": "49",
+        "Driver ID": "kevin_magnussen",
+        "Time": "1:24.603",
+        "Position": "9"
+    },
+    {
+        "Circuit ID": "losail",
+        "Round": "23",
+        "Lap Number": "50",
+        "Driver ID": "kevin_magnussen",
+        "Time": "1:24.584",
+        "Position": "9"
+    },
+    {
+        "Circuit ID": "losail",
+        "Round": "23",
+        "Lap Number": "51",
+        "Driver ID": "kevin_magnussen",
+        "Time": "1:24.558",
+        "Position": "9"
+    },
+    {
+        "Circuit ID": "losail",
+        "Round": "23",
+        "Lap Number": "52",
+        "Driver ID": "kevin_magnussen",
+        "Time": "1:24.593",
+        "Position": "9"
+    },
+    {
+        "Circuit ID": "losail",
+        "Round": "23",
+        "Lap Number": "53",
+        "Driver ID": "kevin_magnussen",
+        "Time": "1:24.482",
+        "Position": "9"
+    },
+    {
+        "Circuit ID": "losail",
+        "Round": "23",
+        "Lap Number": "54",
+        "Driver ID": "kevin_magnussen",
+        "Time": "1:24.431",
+        "Position": "9"
+    },
+    {
+        "Circuit ID": "losail",
+        "Round": "23",
+        "Lap Number": "55",
+        "Driver ID": "kevin_magnussen",
+        "Time": "1:24.259",
+        "Position": "9"
+    },
+    {
+        "Circuit ID": "losail",
+        "Round": "23",
+        "Lap Number": "56",
+        "Driver ID": "kevin_magnussen",
+        "Time": "1:24.741",
+        "Position": "9"
+    },
+    {
+        "Circuit ID": "losail",
+        "Round": "23",
+        "Lap Number": "57",
+        "Driver ID": "kevin_magnussen",
+        "Time": "1:24.827",
+        "Position": "9"
+    },
+    {
+        "Circuit ID": "losail",
+        "Round": "23",
+        "Lap Number": "1",
+        "Driver ID": "norris",
+        "Time": "1:53.635",
+        "Position": "2"
+    },
+    {
+        "Circuit ID": "losail",
+        "Round": "23",
+        "Lap Number": "2",
+        "Driver ID": "norris",
+        "Time": "2:21.280",
+        "Position": "2"
+    },
+    {
+        "Circuit ID": "losail",
+        "Round": "23",
+        "Lap Number": "3",
+        "Driver ID": "norris",
+        "Time": "2:17.622",
+        "Position": "2"
+    },
+    {
+        "Circuit ID": "losail",
+        "Round": "23",
+        "Lap Number": "4",
+        "Driver ID": "norris",
+        "Time": "2:31.036",
+        "Position": "2"
+    },
+    {
+        "Circuit ID": "losail",
+        "Round": "23",
+        "Lap Number": "5",
+        "Driver ID": "norris",
+        "Time": "1:27.175",
+        "Position": "2"
+    },
+    {
+        "Circuit ID": "losail",
+        "Round": "23",
+        "Lap Number": "6",
+        "Driver ID": "norris",
+        "Time": "1:26.683",
+        "Position": "2"
+    },
+    {
+        "Circuit ID": "losail",
+        "Round": "23",
+        "Lap Number": "7",
+        "Driver ID": "norris",
+        "Time": "1:26.500",
+        "Position": "2"
+    },
+    {
+        "Circuit ID": "losail",
+        "Round": "23",
+        "Lap Number": "8",
+        "Driver ID": "norris",
+        "Time": "1:26.668",
+        "Position": "2"
+    },
+    {
+        "Circuit ID": "losail",
+        "Round": "23",
+        "Lap Number": "9",
+        "Driver ID": "norris",
+        "Time": "1:26.344",
+        "Position": "2"
+    },
+    {
+        "Circuit ID": "losail",
+        "Round": "23",
+        "Lap Number": "10",
+        "Driver ID": "norris",
+        "Time": "1:25.972",
+        "Position": "2"
+    },
+    {
+        "Circuit ID": "losail",
+        "Round": "23",
+        "Lap Number": "11",
+        "Driver ID": "norris",
+        "Time": "1:25.985",
+        "Position": "2"
+    },
+    {
+        "Circuit ID": "losail",
+        "Round": "23",
+        "Lap Number": "12",
+        "Driver ID": "norris",
+        "Time": "1:25.813",
+        "Position": "2"
+    },
+    {
+        "Circuit ID": "losail",
+        "Round": "23",
+        "Lap Number": "13",
+        "Driver ID": "norris",
+        "Time": "1:25.794",
+        "Position": "2"
+    },
+    {
+        "Circuit ID": "losail",
+        "Round": "23",
+        "Lap Number": "14",
+        "Driver ID": "norris",
+        "Time": "1:25.924",
+        "Position": "2"
+    },
+    {
+        "Circuit ID": "losail",
+        "Round": "23",
+        "Lap Number": "15",
+        "Driver ID": "norris",
+        "Time": "1:25.535",
+        "Position": "2"
+    },
+    {
+        "Circuit ID": "losail",
+        "Round": "23",
+        "Lap Number": "16",
+        "Driver ID": "norris",
+        "Time": "1:25.508",
+        "Position": "2"
+    },
+    {
+        "Circuit ID": "losail",
+        "Round": "23",
+        "Lap Number": "17",
+        "Driver ID": "norris",
+        "Time": "1:25.390",
+        "Position": "2"
+    },
+    {
+        "Circuit ID": "losail",
+        "Round": "23",
+        "Lap Number": "18",
+        "Driver ID": "norris",
+        "Time": "1:25.253",
+        "Position": "2"
+    },
+    {
+        "Circuit ID": "losail",
+        "Round": "23",
+        "Lap Number": "19",
+        "Driver ID": "norris",
+        "Time": "1:25.276",
+        "Position": "2"
+    },
+    {
+        "Circuit ID": "losail",
+        "Round": "23",
+        "Lap Number": "20",
+        "Driver ID": "norris",
+        "Time": "1:25.017",
+        "Position": "2"
+    },
+    {
+        "Circuit ID": "losail",
+        "Round": "23",
+        "Lap Number": "21",
+        "Driver ID": "norris",
+        "Time": "1:24.997",
+        "Position": "2"
+    },
+    {
+        "Circuit ID": "losail",
+        "Round": "23",
+        "Lap Number": "22",
+        "Driver ID": "norris",
+        "Time": "1:24.865",
+        "Position": "2"
+    },
+    {
+        "Circuit ID": "losail",
+        "Round": "23",
+        "Lap Number": "23",
+        "Driver ID": "norris",
+        "Time": "1:24.977",
+        "Position": "2"
+    },
+    {
+        "Circuit ID": "losail",
+        "Round": "23",
+        "Lap Number": "24",
+        "Driver ID": "norris",
+        "Time": "1:24.670",
+        "Position": "2"
+    },
+    {
+        "Circuit ID": "losail",
+        "Round": "23",
+        "Lap Number": "25",
+        "Driver ID": "norris",
+        "Time": "1:24.721",
+        "Position": "2"
+    },
+    {
+        "Circuit ID": "losail",
+        "Round": "23",
+        "Lap Number": "26",
+        "Driver ID": "norris",
+        "Time": "1:24.537",
+        "Position": "2"
+    },
+    {
+        "Circuit ID": "losail",
+        "Round": "23",
+        "Lap Number": "27",
+        "Driver ID": "norris",
+        "Time": "1:24.861",
+        "Position": "2"
+    },
+    {
+        "Circuit ID": "losail",
+        "Round": "23",
+        "Lap Number": "28",
+        "Driver ID": "norris",
+        "Time": "1:24.751",
+        "Position": "2"
+    },
+    {
+        "Circuit ID": "losail",
+        "Round": "23",
+        "Lap Number": "29",
+        "Driver ID": "norris",
+        "Time": "1:24.915",
+        "Position": "2"
+    },
+    {
+        "Circuit ID": "losail",
+        "Round": "23",
+        "Lap Number": "30",
+        "Driver ID": "norris",
+        "Time": "1:24.556",
+        "Position": "2"
+    },
+    {
+        "Circuit ID": "losail",
+        "Round": "23",
+        "Lap Number": "31",
+        "Driver ID": "norris",
+        "Time": "1:24.794",
+        "Position": "2"
+    },
+    {
+        "Circuit ID": "losail",
+        "Round": "23",
+        "Lap Number": "32",
+        "Driver ID": "norris",
+        "Time": "1:24.650",
+        "Position": "2"
+    },
+    {
+        "Circuit ID": "losail",
+        "Round": "23",
+        "Lap Number": "33",
+        "Driver ID": "norris",
+        "Time": "1:24.960",
+        "Position": "2"
+    },
+    {
+        "Circuit ID": "losail",
+        "Round": "23",
+        "Lap Number": "34",
+        "Driver ID": "norris",
+        "Time": "1:24.562",
+        "Position": "2"
+    },
+    {
+        "Circuit ID": "losail",
+        "Round": "23",
+        "Lap Number": "35",
+        "Driver ID": "norris",
+        "Time": "1:33.654",
+        "Position": "2"
+    },
+    {
+        "Circuit ID": "losail",
+        "Round": "23",
+        "Lap Number": "36",
+        "Driver ID": "norris",
+        "Time": "2:50.429",
+        "Position": "2"
+    },
+    {
+        "Circuit ID": "losail",
+        "Round": "23",
+        "Lap Number": "37",
+        "Driver ID": "norris",
+        "Time": "2:47.290",
+        "Position": "2"
+    },
+    {
+        "Circuit ID": "losail",
+        "Round": "23",
+        "Lap Number": "38",
+        "Driver ID": "norris",
+        "Time": "2:29.162",
+        "Position": "2"
+    },
+    {
+        "Circuit ID": "losail",
+        "Round": "23",
+        "Lap Number": "39",
+        "Driver ID": "norris",
+        "Time": "2:24.447",
+        "Position": "2"
+    },
+    {
+        "Circuit ID": "losail",
+        "Round": "23",
+        "Lap Number": "40",
+        "Driver ID": "norris",
+        "Time": "1:39.808",
+        "Position": "2"
+    },
+    {
+        "Circuit ID": "losail",
+        "Round": "23",
+        "Lap Number": "41",
+        "Driver ID": "norris",
+        "Time": "2:17.190",
+        "Position": "2"
+    },
+    {
+        "Circuit ID": "losail",
+        "Round": "23",
+        "Lap Number": "42",
+        "Driver ID": "norris",
+        "Time": "2:28.012",
+        "Position": "2"
+    },
+    {
+        "Circuit ID": "losail",
+        "Round": "23",
+        "Lap Number": "43",
+        "Driver ID": "norris",
+        "Time": "1:24.627",
+        "Position": "2"
+    },
+    {
+        "Circuit ID": "losail",
+        "Round": "23",
+        "Lap Number": "44",
+        "Driver ID": "norris",
+        "Time": "1:23.473",
+        "Position": "2"
+    },
+    {
+        "Circuit ID": "losail",
+        "Round": "23",
+        "Lap Number": "45",
+        "Driver ID": "norris",
+        "Time": "1:27.666",
+        "Position": "4"
+    },
+    {
+        "Circuit ID": "losail",
+        "Round": "23",
+        "Lap Number": "46",
+        "Driver ID": "norris",
+        "Time": "1:52.677",
+        "Position": "15"
+    },
+    {
+        "Circuit ID": "losail",
+        "Round": "23",
+        "Lap Number": "47",
+        "Driver ID": "norris",
+        "Time": "1:22.936",
+        "Position": "15"
+    },
+    {
+        "Circuit ID": "losail",
+        "Round": "23",
+        "Lap Number": "48",
+        "Driver ID": "norris",
+        "Time": "1:22.640",
+        "Position": "14"
+    },
+    {
+        "Circuit ID": "losail",
+        "Round": "23",
+        "Lap Number": "49",
+        "Driver ID": "norris",
+        "Time": "1:22.822",
+        "Position": "14"
+    },
+    {
+        "Circuit ID": "losail",
+        "Round": "23",
+        "Lap Number": "50",
+        "Driver ID": "norris",
+        "Time": "1:24.692",
+        "Position": "14"
+    },
+    {
+        "Circuit ID": "losail",
+        "Round": "23",
+        "Lap Number": "51",
+        "Driver ID": "norris",
+        "Time": "1:25.197",
+        "Position": "13"
+    },
+    {
+        "Circuit ID": "losail",
+        "Round": "23",
+        "Lap Number": "52",
+        "Driver ID": "norris",
+        "Time": "1:22.928",
+        "Position": "12"
+    },
+    {
+        "Circuit ID": "losail",
+        "Round": "23",
+        "Lap Number": "53",
+        "Driver ID": "norris",
+        "Time": "1:25.089",
+        "Position": "11"
+    },
+    {
+        "Circuit ID": "losail",
+        "Round": "23",
+        "Lap Number": "54",
+        "Driver ID": "norris",
+        "Time": "1:22.471",
+        "Position": "10"
+    },
+    {
+        "Circuit ID": "losail",
+        "Round": "23",
+        "Lap Number": "55",
+        "Driver ID": "norris",
+        "Time": "1:22.994",
+        "Position": "10"
+    },
+    {
+        "Circuit ID": "losail",
+        "Round": "23",
+        "Lap Number": "56",
+        "Driver ID": "norris",
+        "Time": "1:22.384",
+        "Position": "10"
+    },
+    {
+        "Circuit ID": "losail",
+        "Round": "23",
+        "Lap Number": "57",
+        "Driver ID": "norris",
+        "Time": "1:23.271",
+        "Position": "10"
+    },
+    {
+        "Circuit ID": "losail",
+        "Round": "23",
+        "Lap Number": "1",
+        "Driver ID": "lawson",
+        "Time": "2:13.331",
+        "Position": "14"
+    },
+    {
+        "Circuit ID": "losail",
+        "Round": "23",
+        "Lap Number": "2",
+        "Driver ID": "lawson",
+        "Time": "2:25.297",
+        "Position": "14"
+    },
+    {
+        "Circuit ID": "losail",
+        "Round": "23",
+        "Lap Number": "3",
+        "Driver ID": "lawson",
+        "Time": "2:18.396",
+        "Position": "14"
+    },
+    {
+        "Circuit ID": "losail",
+        "Round": "23",
+        "Lap Number": "4",
+        "Driver ID": "lawson",
+        "Time": "2:10.850",
+        "Position": "14"
+    },
+    {
+        "Circuit ID": "losail",
+        "Round": "23",
+        "Lap Number": "5",
+        "Driver ID": "lawson",
+        "Time": "1:37.350",
+        "Position": "18"
+    },
+    {
+        "Circuit ID": "losail",
+        "Round": "23",
+        "Lap Number": "6",
+        "Driver ID": "lawson",
+        "Time": "1:29.548",
+        "Position": "18"
+    },
+    {
+        "Circuit ID": "losail",
+        "Round": "23",
+        "Lap Number": "7",
+        "Driver ID": "lawson",
+        "Time": "1:28.165",
+        "Position": "17"
+    },
+    {
+        "Circuit ID": "losail",
+        "Round": "23",
+        "Lap Number": "8",
+        "Driver ID": "lawson",
+        "Time": "1:28.159",
+        "Position": "17"
+    },
+    {
+        "Circuit ID": "losail",
+        "Round": "23",
+        "Lap Number": "9",
+        "Driver ID": "lawson",
+        "Time": "1:27.660",
+        "Position": "17"
+    },
+    {
+        "Circuit ID": "losail",
+        "Round": "23",
+        "Lap Number": "10",
+        "Driver ID": "lawson",
+        "Time": "1:28.209",
+        "Position": "17"
+    },
+    {
+        "Circuit ID": "losail",
+        "Round": "23",
+        "Lap Number": "11",
+        "Driver ID": "lawson",
+        "Time": "1:28.037",
+        "Position": "17"
+    },
+    {
+        "Circuit ID": "losail",
+        "Round": "23",
+        "Lap Number": "12",
+        "Driver ID": "lawson",
+        "Time": "1:28.110",
+        "Position": "17"
+    },
+    {
+        "Circuit ID": "losail",
+        "Round": "23",
+        "Lap Number": "13",
+        "Driver ID": "lawson",
+        "Time": "1:28.275",
+        "Position": "17"
+    },
+    {
+        "Circuit ID": "losail",
+        "Round": "23",
+        "Lap Number": "14",
+        "Driver ID": "lawson",
+        "Time": "1:27.703",
+        "Position": "17"
+    },
+    {
+        "Circuit ID": "losail",
+        "Round": "23",
+        "Lap Number": "15",
+        "Driver ID": "lawson",
+        "Time": "1:27.692",
+        "Position": "17"
+    },
+    {
+        "Circuit ID": "losail",
+        "Round": "23",
+        "Lap Number": "16",
+        "Driver ID": "lawson",
+        "Time": "1:27.514",
+        "Position": "17"
+    },
+    {
+        "Circuit ID": "losail",
+        "Round": "23",
+        "Lap Number": "17",
+        "Driver ID": "lawson",
+        "Time": "1:27.411",
+        "Position": "17"
+    },
+    {
+        "Circuit ID": "losail",
+        "Round": "23",
+        "Lap Number": "18",
+        "Driver ID": "lawson",
+        "Time": "1:27.362",
+        "Position": "17"
+    },
+    {
+        "Circuit ID": "losail",
+        "Round": "23",
+        "Lap Number": "19",
+        "Driver ID": "lawson",
+        "Time": "1:27.288",
+        "Position": "17"
+    },
+    {
+        "Circuit ID": "losail",
+        "Round": "23",
+        "Lap Number": "20",
+        "Driver ID": "lawson",
+        "Time": "1:27.111",
+        "Position": "17"
+    },
+    {
+        "Circuit ID": "losail",
+        "Round": "23",
+        "Lap Number": "21",
+        "Driver ID": "lawson",
+        "Time": "1:27.143",
+        "Position": "17"
+    },
+    {
+        "Circuit ID": "losail",
+        "Round": "23",
+        "Lap Number": "22",
+        "Driver ID": "lawson",
+        "Time": "1:27.107",
+        "Position": "17"
+    },
+    {
+        "Circuit ID": "losail",
+        "Round": "23",
+        "Lap Number": "23",
+        "Driver ID": "lawson",
+        "Time": "1:26.886",
+        "Position": "17"
+    },
+    {
+        "Circuit ID": "losail",
+        "Round": "23",
+        "Lap Number": "24",
+        "Driver ID": "lawson",
+        "Time": "1:27.019",
+        "Position": "17"
+    },
+    {
+        "Circuit ID": "losail",
+        "Round": "23",
+        "Lap Number": "25",
+        "Driver ID": "lawson",
+        "Time": "1:27.045",
+        "Position": "16"
+    },
+    {
+        "Circuit ID": "losail",
+        "Round": "23",
+        "Lap Number": "26",
+        "Driver ID": "lawson",
+        "Time": "1:26.915",
+        "Position": "16"
+    },
+    {
+        "Circuit ID": "losail",
+        "Round": "23",
+        "Lap Number": "27",
+        "Driver ID": "lawson",
+        "Time": "1:26.560",
+        "Position": "16"
+    },
+    {
+        "Circuit ID": "losail",
+        "Round": "23",
+        "Lap Number": "28",
+        "Driver ID": "lawson",
+        "Time": "1:26.533",
+        "Position": "15"
+    },
+    {
+        "Circuit ID": "losail",
+        "Round": "23",
+        "Lap Number": "29",
+        "Driver ID": "lawson",
+        "Time": "1:26.446",
+        "Position": "15"
+    },
+    {
+        "Circuit ID": "losail",
+        "Round": "23",
+        "Lap Number": "30",
+        "Driver ID": "lawson",
+        "Time": "1:26.642",
+        "Position": "15"
+    },
+    {
+        "Circuit ID": "losail",
+        "Round": "23",
+        "Lap Number": "31",
+        "Driver ID": "lawson",
+        "Time": "1:26.242",
+        "Position": "14"
+    },
+    {
+        "Circuit ID": "losail",
+        "Round": "23",
+        "Lap Number": "32",
+        "Driver ID": "lawson",
+        "Time": "1:26.264",
+        "Position": "14"
+    },
+    {
+        "Circuit ID": "losail",
+        "Round": "23",
+        "Lap Number": "33",
+        "Driver ID": "lawson",
+        "Time": "1:26.219",
+        "Position": "14"
+    },
+    {
+        "Circuit ID": "losail",
+        "Round": "23",
+        "Lap Number": "34",
+        "Driver ID": "lawson",
+        "Time": "1:26.194",
+        "Position": "13"
+    },
+    {
+        "Circuit ID": "losail",
+        "Round": "23",
+        "Lap Number": "35",
+        "Driver ID": "lawson",
+        "Time": "2:03.205",
+        "Position": "14"
+    },
+    {
+        "Circuit ID": "losail",
+        "Round": "23",
+        "Lap Number": "36",
+        "Driver ID": "lawson",
+        "Time": "2:39.436",
+        "Position": "15"
+    },
+    {
+        "Circuit ID": "losail",
+        "Round": "23",
+        "Lap Number": "37",
+        "Driver ID": "lawson",
+        "Time": "1:55.739",
+        "Position": "15"
+    },
+    {
+        "Circuit ID": "losail",
+        "Round": "23",
+        "Lap Number": "38",
+        "Driver ID": "lawson",
+        "Time": "2:14.297",
+        "Position": "15"
+    },
+    {
+        "Circuit ID": "losail",
+        "Round": "23",
+        "Lap Number": "39",
+        "Driver ID": "lawson",
+        "Time": "2:05.703",
+        "Position": "14"
+    },
+    {
+        "Circuit ID": "losail",
+        "Round": "23",
+        "Lap Number": "40",
+        "Driver ID": "lawson",
+        "Time": "2:00.647",
+        "Position": "15"
+    },
+    {
+        "Circuit ID": "losail",
+        "Round": "23",
+        "Lap Number": "41",
+        "Driver ID": "lawson",
+        "Time": "2:15.917",
+        "Position": "15"
+    },
+    {
+        "Circuit ID": "losail",
+        "Round": "23",
+        "Lap Number": "42",
+        "Driver ID": "lawson",
+        "Time": "2:08.759",
+        "Position": "15"
+    },
+    {
+        "Circuit ID": "losail",
+        "Round": "23",
+        "Lap Number": "43",
+        "Driver ID": "lawson",
+        "Time": "1:29.070",
+        "Position": "15"
+    },
+    {
+        "Circuit ID": "losail",
+        "Round": "23",
+        "Lap Number": "44",
+        "Driver ID": "lawson",
+        "Time": "1:27.600",
+        "Position": "15"
+    },
+    {
+        "Circuit ID": "losail",
+        "Round": "23",
+        "Lap Number": "45",
+        "Driver ID": "lawson",
+        "Time": "1:26.207",
+        "Position": "15"
+    },
+    {
+        "Circuit ID": "losail",
+        "Round": "23",
+        "Lap Number": "46",
+        "Driver ID": "lawson",
+        "Time": "1:26.076",
+        "Position": "14"
+    },
+    {
+        "Circuit ID": "losail",
+        "Round": "23",
+        "Lap Number": "47",
+        "Driver ID": "lawson",
+        "Time": "1:26.424",
+        "Position": "13"
+    },
+    {
+        "Circuit ID": "losail",
+        "Round": "23",
+        "Lap Number": "48",
+        "Driver ID": "lawson",
+        "Time": "1:26.369",
+        "Position": "13"
+    },
+    {
+        "Circuit ID": "losail",
+        "Round": "23",
+        "Lap Number": "49",
+        "Driver ID": "lawson",
+        "Time": "1:26.753",
+        "Position": "13"
+    },
+    {
+        "Circuit ID": "losail",
+        "Round": "23",
+        "Lap Number": "50",
+        "Driver ID": "lawson",
+        "Time": "1:27.637",
+        "Position": "13"
+    },
+    {
+        "Circuit ID": "losail",
+        "Round": "23",
+        "Lap Number": "51",
+        "Driver ID": "lawson",
+        "Time": "1:28.245",
+        "Position": "14"
+    },
+    {
+        "Circuit ID": "losail",
+        "Round": "23",
+        "Lap Number": "52",
+        "Driver ID": "lawson",
+        "Time": "1:27.612",
+        "Position": "14"
+    },
+    {
+        "Circuit ID": "losail",
+        "Round": "23",
+        "Lap Number": "53",
+        "Driver ID": "lawson",
+        "Time": "1:27.521",
+        "Position": "14"
+    },
+    {
+        "Circuit ID": "losail",
+        "Round": "23",
+        "Lap Number": "54",
+        "Driver ID": "lawson",
+        "Time": "1:27.690",
+        "Position": "14"
+    },
+    {
+        "Circuit ID": "losail",
+        "Round": "23",
+        "Lap Number": "55",
+        "Driver ID": "lawson",
+        "Time": "1:27.540",
+        "Position": "15"
+    },
+    {
+        "Circuit ID": "losail",
+        "Round": "23",
+        "Lap Number": "56",
+        "Driver ID": "lawson",
+        "Time": "1:26.327",
+        "Position": "14"
+    },
+    {
+        "Circuit ID": "losail",
+        "Round": "23",
+        "Lap Number": "57",
+        "Driver ID": "lawson",
+        "Time": "1:26.522",
+        "Position": "14"
+    },
+    {
+        "Circuit ID": "losail",
+        "Round": "23",
+        "Lap Number": "1",
+        "Driver ID": "albon",
+        "Time": "2:15.384",
+        "Position": "16"
+    },
+    {
+        "Circuit ID": "losail",
+        "Round": "23",
+        "Lap Number": "2",
+        "Driver ID": "albon",
+        "Time": "2:26.296",
+        "Position": "16"
+    },
+    {
+        "Circuit ID": "losail",
+        "Round": "23",
+        "Lap Number": "3",
+        "Driver ID": "albon",
+        "Time": "2:17.470",
+        "Position": "16"
+    },
+    {
+        "Circuit ID": "losail",
+        "Round": "23",
+        "Lap Number": "4",
+        "Driver ID": "albon",
+        "Time": "2:09.827",
+        "Position": "16"
+    },
+    {
+        "Circuit ID": "losail",
+        "Round": "23",
+        "Lap Number": "5",
+        "Driver ID": "albon",
+        "Time": "1:31.146",
+        "Position": "15"
+    },
+    {
+        "Circuit ID": "losail",
+        "Round": "23",
+        "Lap Number": "6",
+        "Driver ID": "albon",
+        "Time": "1:29.921",
+        "Position": "15"
+    },
+    {
+        "Circuit ID": "losail",
+        "Round": "23",
+        "Lap Number": "7",
+        "Driver ID": "albon",
+        "Time": "1:28.528",
+        "Position": "15"
+    },
+    {
+        "Circuit ID": "losail",
+        "Round": "23",
+        "Lap Number": "8",
+        "Driver ID": "albon",
+        "Time": "1:28.499",
+        "Position": "15"
+    },
+    {
+        "Circuit ID": "losail",
+        "Round": "23",
+        "Lap Number": "9",
+        "Driver ID": "albon",
+        "Time": "1:28.038",
+        "Position": "15"
+    },
+    {
+        "Circuit ID": "losail",
+        "Round": "23",
+        "Lap Number": "10",
+        "Driver ID": "albon",
+        "Time": "1:27.781",
+        "Position": "15"
+    },
+    {
+        "Circuit ID": "losail",
+        "Round": "23",
+        "Lap Number": "11",
+        "Driver ID": "albon",
+        "Time": "1:29.252",
+        "Position": "15"
+    },
+    {
+        "Circuit ID": "losail",
+        "Round": "23",
+        "Lap Number": "12",
+        "Driver ID": "albon",
+        "Time": "1:27.299",
+        "Position": "15"
+    },
+    {
+        "Circuit ID": "losail",
+        "Round": "23",
+        "Lap Number": "13",
+        "Driver ID": "albon",
+        "Time": "1:27.771",
+        "Position": "15"
+    },
+    {
+        "Circuit ID": "losail",
+        "Round": "23",
+        "Lap Number": "14",
+        "Driver ID": "albon",
+        "Time": "1:27.525",
+        "Position": "15"
+    },
+    {
+        "Circuit ID": "losail",
+        "Round": "23",
+        "Lap Number": "15",
+        "Driver ID": "albon",
+        "Time": "1:27.793",
+        "Position": "15"
+    },
+    {
+        "Circuit ID": "losail",
+        "Round": "23",
+        "Lap Number": "16",
+        "Driver ID": "albon",
+        "Time": "1:27.600",
+        "Position": "15"
+    },
+    {
+        "Circuit ID": "losail",
+        "Round": "23",
+        "Lap Number": "17",
+        "Driver ID": "albon",
+        "Time": "1:27.556",
+        "Position": "15"
+    },
+    {
+        "Circuit ID": "losail",
+        "Round": "23",
+        "Lap Number": "18",
+        "Driver ID": "albon",
+        "Time": "1:27.321",
+        "Position": "15"
+    },
+    {
+        "Circuit ID": "losail",
+        "Round": "23",
+        "Lap Number": "19",
+        "Driver ID": "albon",
+        "Time": "1:27.428",
+        "Position": "15"
+    },
+    {
+        "Circuit ID": "losail",
+        "Round": "23",
+        "Lap Number": "20",
+        "Driver ID": "albon",
+        "Time": "1:27.347",
+        "Position": "15"
+    },
+    {
+        "Circuit ID": "losail",
+        "Round": "23",
+        "Lap Number": "21",
+        "Driver ID": "albon",
+        "Time": "1:27.420",
+        "Position": "15"
+    },
+    {
+        "Circuit ID": "losail",
+        "Round": "23",
+        "Lap Number": "22",
+        "Driver ID": "albon",
+        "Time": "1:27.133",
+        "Position": "15"
+    },
+    {
+        "Circuit ID": "losail",
+        "Round": "23",
+        "Lap Number": "23",
+        "Driver ID": "albon",
+        "Time": "1:26.951",
+        "Position": "15"
+    },
+    {
+        "Circuit ID": "losail",
+        "Round": "23",
+        "Lap Number": "24",
+        "Driver ID": "albon",
+        "Time": "1:26.968",
+        "Position": "15"
+    },
+    {
+        "Circuit ID": "losail",
+        "Round": "23",
+        "Lap Number": "25",
+        "Driver ID": "albon",
+        "Time": "1:26.998",
+        "Position": "14"
+    },
+    {
+        "Circuit ID": "losail",
+        "Round": "23",
+        "Lap Number": "26",
+        "Driver ID": "albon",
+        "Time": "1:26.774",
+        "Position": "14"
+    },
+    {
+        "Circuit ID": "losail",
+        "Round": "23",
+        "Lap Number": "27",
+        "Driver ID": "albon",
+        "Time": "1:26.663",
+        "Position": "14"
+    },
+    {
+        "Circuit ID": "losail",
+        "Round": "23",
+        "Lap Number": "28",
+        "Driver ID": "albon",
+        "Time": "1:26.553",
+        "Position": "13"
+    },
+    {
+        "Circuit ID": "losail",
+        "Round": "23",
+        "Lap Number": "29",
+        "Driver ID": "albon",
+        "Time": "1:26.395",
+        "Position": "13"
+    },
+    {
+        "Circuit ID": "losail",
+        "Round": "23",
+        "Lap Number": "30",
+        "Driver ID": "albon",
+        "Time": "1:26.708",
+        "Position": "13"
+    },
+    {
+        "Circuit ID": "losail",
+        "Round": "23",
+        "Lap Number": "31",
+        "Driver ID": "albon",
+        "Time": "1:26.390",
+        "Position": "13"
+    },
+    {
+        "Circuit ID": "losail",
+        "Round": "23",
+        "Lap Number": "32",
+        "Driver ID": "albon",
+        "Time": "1:26.572",
+        "Position": "13"
+    },
+    {
+        "Circuit ID": "losail",
+        "Round": "23",
+        "Lap Number": "33",
+        "Driver ID": "albon",
+        "Time": "1:26.303",
+        "Position": "13"
+    },
+    {
+        "Circuit ID": "losail",
+        "Round": "23",
+        "Lap Number": "34",
+        "Driver ID": "albon",
+        "Time": "1:27.708",
+        "Position": "12"
+    },
+    {
+        "Circuit ID": "losail",
+        "Round": "23",
+        "Lap Number": "35",
+        "Driver ID": "albon",
+        "Time": "2:01.917",
+        "Position": "12"
+    },
+    {
+        "Circuit ID": "losail",
+        "Round": "23",
+        "Lap Number": "36",
+        "Driver ID": "albon",
+        "Time": "2:22.739",
+        "Position": "13"
+    },
+    {
+        "Circuit ID": "losail",
+        "Round": "23",
+        "Lap Number": "37",
+        "Driver ID": "albon",
+        "Time": "1:58.603",
+        "Position": "13"
+    },
+    {
+        "Circuit ID": "losail",
+        "Round": "23",
+        "Lap Number": "38",
+        "Driver ID": "albon",
+        "Time": "2:26.301",
+        "Position": "13"
+    },
+    {
+        "Circuit ID": "losail",
+        "Round": "23",
+        "Lap Number": "39",
+        "Driver ID": "albon",
+        "Time": "2:09.058",
+        "Position": "12"
+    },
+    {
+        "Circuit ID": "losail",
+        "Round": "23",
+        "Lap Number": "40",
+        "Driver ID": "albon",
+        "Time": "1:54.034",
+        "Position": "11"
+    },
+    {
+        "Circuit ID": "losail",
+        "Round": "23",
+        "Lap Number": "41",
+        "Driver ID": "albon",
+        "Time": "2:14.065",
+        "Position": "11"
+    },
+    {
+        "Circuit ID": "losail",
+        "Round": "23",
+        "Lap Number": "42",
+        "Driver ID": "albon",
+        "Time": "2:16.483",
+        "Position": "11"
+    },
+    {
+        "Circuit ID": "losail",
+        "Round": "23",
+        "Lap Number": "43",
+        "Driver ID": "albon",
+        "Time": "1:27.968",
+        "Position": "10"
+    },
+    {
+        "Circuit ID": "losail",
+        "Round": "23",
+        "Lap Number": "44",
+        "Driver ID": "albon",
+        "Time": "1:26.524",
+        "Position": "10"
+    },
+    {
+        "Circuit ID": "losail",
+        "Round": "23",
+        "Lap Number": "45",
+        "Driver ID": "albon",
+        "Time": "1:25.844",
+        "Position": "10"
+    },
+    {
+        "Circuit ID": "losail",
+        "Round": "23",
+        "Lap Number": "46",
+        "Driver ID": "albon",
+        "Time": "1:25.701",
+        "Position": "9"
+    },
+    {
+        "Circuit ID": "losail",
+        "Round": "23",
+        "Lap Number": "47",
+        "Driver ID": "albon",
+        "Time": "1:25.559",
+        "Position": "9"
+    },
+    {
+        "Circuit ID": "losail",
+        "Round": "23",
+        "Lap Number": "48",
+        "Driver ID": "albon",
+        "Time": "1:25.751",
+        "Position": "9"
+    },
+    {
+        "Circuit ID": "losail",
+        "Round": "23",
+        "Lap Number": "49",
+        "Driver ID": "albon",
+        "Time": "1:27.222",
+        "Position": "10"
+    },
+    {
+        "Circuit ID": "losail",
+        "Round": "23",
+        "Lap Number": "50",
+        "Driver ID": "albon",
+        "Time": "1:26.781",
+        "Position": "10"
+    },
+    {
+        "Circuit ID": "losail",
+        "Round": "23",
+        "Lap Number": "51",
+        "Driver ID": "albon",
+        "Time": "1:26.660",
+        "Position": "10"
+    },
+    {
+        "Circuit ID": "losail",
+        "Round": "23",
+        "Lap Number": "52",
+        "Driver ID": "albon",
+        "Time": "1:27.510",
+        "Position": "10"
+    },
+    {
+        "Circuit ID": "losail",
+        "Round": "23",
+        "Lap Number": "53",
+        "Driver ID": "albon",
+        "Time": "1:30.321",
+        "Position": "12"
+    },
+    {
+        "Circuit ID": "losail",
+        "Round": "23",
+        "Lap Number": "54",
+        "Driver ID": "albon",
+        "Time": "1:28.167",
+        "Position": "12"
+    },
+    {
+        "Circuit ID": "losail",
+        "Round": "23",
+        "Lap Number": "55",
+        "Driver ID": "albon",
+        "Time": "1:32.223",
+        "Position": "14"
+    },
+    {
+        "Circuit ID": "losail",
+        "Round": "23",
+        "Lap Number": "56",
+        "Driver ID": "albon",
+        "Time": "2:03.543",
+        "Position": "15"
+    },
+    {
+        "Circuit ID": "losail",
+        "Round": "23",
+        "Lap Number": "1",
+        "Driver ID": "hulkenberg",
+        "Time": "2:45.271",
+        "Position": "18"
+    },
+    {
+        "Circuit ID": "losail",
+        "Round": "23",
+        "Lap Number": "2",
+        "Driver ID": "hulkenberg",
+        "Time": "2:07.072",
+        "Position": "18"
+    },
+    {
+        "Circuit ID": "losail",
+        "Round": "23",
+        "Lap Number": "3",
+        "Driver ID": "hulkenberg",
+        "Time": "2:11.639",
+        "Position": "18"
+    },
+    {
+        "Circuit ID": "losail",
+        "Round": "23",
+        "Lap Number": "4",
+        "Driver ID": "hulkenberg",
+        "Time": "2:06.080",
+        "Position": "18"
+    },
+    {
+        "Circuit ID": "losail",
+        "Round": "23",
+        "Lap Number": "5",
+        "Driver ID": "hulkenberg",
+        "Time": "1:31.557",
+        "Position": "16"
+    },
+    {
+        "Circuit ID": "losail",
+        "Round": "23",
+        "Lap Number": "6",
+        "Driver ID": "hulkenberg",
+        "Time": "1:30.682",
+        "Position": "16"
+    },
+    {
+        "Circuit ID": "losail",
+        "Round": "23",
+        "Lap Number": "7",
+        "Driver ID": "hulkenberg",
+        "Time": "1:28.652",
+        "Position": "16"
+    },
+    {
+        "Circuit ID": "losail",
+        "Round": "23",
+        "Lap Number": "8",
+        "Driver ID": "hulkenberg",
+        "Time": "1:28.418",
+        "Position": "16"
+    },
+    {
+        "Circuit ID": "losail",
+        "Round": "23",
+        "Lap Number": "9",
+        "Driver ID": "hulkenberg",
+        "Time": "1:27.812",
+        "Position": "16"
+    },
+    {
+        "Circuit ID": "losail",
+        "Round": "23",
+        "Lap Number": "10",
+        "Driver ID": "hulkenberg",
+        "Time": "1:28.286",
+        "Position": "16"
+    },
+    {
+        "Circuit ID": "losail",
+        "Round": "23",
+        "Lap Number": "11",
+        "Driver ID": "hulkenberg",
+        "Time": "1:28.031",
+        "Position": "16"
+    },
+    {
+        "Circuit ID": "losail",
+        "Round": "23",
+        "Lap Number": "12",
+        "Driver ID": "hulkenberg",
+        "Time": "1:28.229",
+        "Position": "16"
+    },
+    {
+        "Circuit ID": "losail",
+        "Round": "23",
+        "Lap Number": "13",
+        "Driver ID": "hulkenberg",
+        "Time": "1:27.908",
+        "Position": "16"
+    },
+    {
+        "Circuit ID": "losail",
+        "Round": "23",
+        "Lap Number": "14",
+        "Driver ID": "hulkenberg",
+        "Time": "1:27.442",
+        "Position": "16"
+    },
+    {
+        "Circuit ID": "losail",
+        "Round": "23",
+        "Lap Number": "15",
+        "Driver ID": "hulkenberg",
+        "Time": "1:27.232",
+        "Position": "16"
+    },
+    {
+        "Circuit ID": "losail",
+        "Round": "23",
+        "Lap Number": "16",
+        "Driver ID": "hulkenberg",
+        "Time": "1:26.897",
+        "Position": "16"
+    },
+    {
+        "Circuit ID": "losail",
+        "Round": "23",
+        "Lap Number": "17",
+        "Driver ID": "hulkenberg",
+        "Time": "1:27.481",
+        "Position": "16"
+    },
+    {
+        "Circuit ID": "losail",
+        "Round": "23",
+        "Lap Number": "18",
+        "Driver ID": "hulkenberg",
+        "Time": "1:27.808",
+        "Position": "16"
+    },
+    {
+        "Circuit ID": "losail",
+        "Round": "23",
+        "Lap Number": "19",
+        "Driver ID": "hulkenberg",
+        "Time": "1:27.227",
+        "Position": "16"
+    },
+    {
+        "Circuit ID": "losail",
+        "Round": "23",
+        "Lap Number": "20",
+        "Driver ID": "hulkenberg",
+        "Time": "1:27.237",
+        "Position": "16"
+    },
+    {
+        "Circuit ID": "losail",
+        "Round": "23",
+        "Lap Number": "21",
+        "Driver ID": "hulkenberg",
+        "Time": "1:27.327",
+        "Position": "16"
+    },
+    {
+        "Circuit ID": "losail",
+        "Round": "23",
+        "Lap Number": "22",
+        "Driver ID": "hulkenberg",
+        "Time": "1:27.214",
+        "Position": "16"
+    },
+    {
+        "Circuit ID": "losail",
+        "Round": "23",
+        "Lap Number": "23",
+        "Driver ID": "hulkenberg",
+        "Time": "1:27.300",
+        "Position": "16"
+    },
+    {
+        "Circuit ID": "losail",
+        "Round": "23",
+        "Lap Number": "24",
+        "Driver ID": "hulkenberg",
+        "Time": "1:27.021",
+        "Position": "16"
+    },
+    {
+        "Circuit ID": "losail",
+        "Round": "23",
+        "Lap Number": "25",
+        "Driver ID": "hulkenberg",
+        "Time": "1:26.647",
+        "Position": "15"
+    },
+    {
+        "Circuit ID": "losail",
+        "Round": "23",
+        "Lap Number": "26",
+        "Driver ID": "hulkenberg",
+        "Time": "1:26.568",
+        "Position": "15"
+    },
+    {
+        "Circuit ID": "losail",
+        "Round": "23",
+        "Lap Number": "27",
+        "Driver ID": "hulkenberg",
+        "Time": "1:26.737",
+        "Position": "15"
+    },
+    {
+        "Circuit ID": "losail",
+        "Round": "23",
+        "Lap Number": "28",
+        "Driver ID": "hulkenberg",
+        "Time": "1:26.235",
+        "Position": "14"
+    },
+    {
+        "Circuit ID": "losail",
+        "Round": "23",
+        "Lap Number": "29",
+        "Driver ID": "hulkenberg",
+        "Time": "1:26.334",
+        "Position": "14"
+    },
+    {
+        "Circuit ID": "losail",
+        "Round": "23",
+        "Lap Number": "30",
+        "Driver ID": "hulkenberg",
+        "Time": "1:26.595",
+        "Position": "14"
+    },
+    {
+        "Circuit ID": "losail",
+        "Round": "23",
+        "Lap Number": "31",
+        "Driver ID": "hulkenberg",
+        "Time": "1:30.767",
+        "Position": "15"
+    },
+    {
+        "Circuit ID": "losail",
+        "Round": "23",
+        "Lap Number": "32",
+        "Driver ID": "hulkenberg",
+        "Time": "1:46.841",
+        "Position": "16"
+    },
+    {
+        "Circuit ID": "losail",
+        "Round": "23",
+        "Lap Number": "33",
+        "Driver ID": "hulkenberg",
+        "Time": "1:25.767",
+        "Position": "16"
+    },
+    {
+        "Circuit ID": "losail",
+        "Round": "23",
+        "Lap Number": "34",
+        "Driver ID": "hulkenberg",
+        "Time": "1:34.689",
+        "Position": "16"
+    },
+    {
+        "Circuit ID": "losail",
+        "Round": "23",
+        "Lap Number": "35",
+        "Driver ID": "hulkenberg",
+        "Time": "1:58.789",
+        "Position": "15"
+    },
+    {
+        "Circuit ID": "losail",
+        "Round": "23",
+        "Lap Number": "36",
+        "Driver ID": "hulkenberg",
+        "Time": "1:56.135",
+        "Position": "14"
+    },
+    {
+        "Circuit ID": "losail",
+        "Round": "23",
+        "Lap Number": "37",
+        "Driver ID": "hulkenberg",
+        "Time": "1:59.627",
+        "Position": "14"
+    },
+    {
+        "Circuit ID": "losail",
+        "Round": "23",
+        "Lap Number": "38",
+        "Driver ID": "hulkenberg",
+        "Time": "2:24.972",
+        "Position": "14"
+    },
+    {
+        "Circuit ID": "losail",
+        "Round": "23",
+        "Lap Number": "39",
+        "Driver ID": "hulkenberg",
+        "Time": "2:07.982",
+        "Position": "13"
+    },
+    {
+        "Circuit ID": "losail",
+        "Round": "23",
+        "Lap Number": "1",
+        "Driver ID": "perez",
+        "Time": "2:00.204",
+        "Position": "7"
+    },
+    {
+        "Circuit ID": "losail",
+        "Round": "23",
+        "Lap Number": "2",
+        "Driver ID": "perez",
+        "Time": "2:23.708",
+        "Position": "7"
+    },
+    {
+        "Circuit ID": "losail",
+        "Round": "23",
+        "Lap Number": "3",
+        "Driver ID": "perez",
+        "Time": "2:18.267",
+        "Position": "7"
+    },
+    {
+        "Circuit ID": "losail",
+        "Round": "23",
+        "Lap Number": "4",
+        "Driver ID": "perez",
+        "Time": "2:23.573",
+        "Position": "7"
+    },
+    {
+        "Circuit ID": "losail",
+        "Round": "23",
+        "Lap Number": "5",
+        "Driver ID": "perez",
+        "Time": "1:29.550",
+        "Position": "7"
+    },
+    {
+        "Circuit ID": "losail",
+        "Round": "23",
+        "Lap Number": "6",
+        "Driver ID": "perez",
+        "Time": "1:27.827",
+        "Position": "7"
+    },
+    {
+        "Circuit ID": "losail",
+        "Round": "23",
+        "Lap Number": "7",
+        "Driver ID": "perez",
+        "Time": "1:27.280",
+        "Position": "7"
+    },
+    {
+        "Circuit ID": "losail",
+        "Round": "23",
+        "Lap Number": "8",
+        "Driver ID": "perez",
+        "Time": "1:27.403",
+        "Position": "7"
+    },
+    {
+        "Circuit ID": "losail",
+        "Round": "23",
+        "Lap Number": "9",
+        "Driver ID": "perez",
+        "Time": "1:27.124",
+        "Position": "7"
+    },
+    {
+        "Circuit ID": "losail",
+        "Round": "23",
+        "Lap Number": "10",
+        "Driver ID": "perez",
+        "Time": "1:26.884",
+        "Position": "7"
+    },
+    {
+        "Circuit ID": "losail",
+        "Round": "23",
+        "Lap Number": "11",
+        "Driver ID": "perez",
+        "Time": "1:26.788",
+        "Position": "7"
+    },
+    {
+        "Circuit ID": "losail",
+        "Round": "23",
+        "Lap Number": "12",
+        "Driver ID": "perez",
+        "Time": "1:26.729",
+        "Position": "7"
+    },
+    {
+        "Circuit ID": "losail",
+        "Round": "23",
+        "Lap Number": "13",
+        "Driver ID": "perez",
+        "Time": "1:26.631",
+        "Position": "7"
+    },
+    {
+        "Circuit ID": "losail",
+        "Round": "23",
+        "Lap Number": "14",
+        "Driver ID": "perez",
+        "Time": "1:26.483",
+        "Position": "7"
+    },
+    {
+        "Circuit ID": "losail",
+        "Round": "23",
+        "Lap Number": "15",
+        "Driver ID": "perez",
+        "Time": "1:26.409",
+        "Position": "7"
+    },
+    {
+        "Circuit ID": "losail",
+        "Round": "23",
+        "Lap Number": "16",
+        "Driver ID": "perez",
+        "Time": "1:26.359",
+        "Position": "7"
+    },
+    {
+        "Circuit ID": "losail",
+        "Round": "23",
+        "Lap Number": "17",
+        "Driver ID": "perez",
+        "Time": "1:25.929",
+        "Position": "7"
+    },
+    {
+        "Circuit ID": "losail",
+        "Round": "23",
+        "Lap Number": "18",
+        "Driver ID": "perez",
+        "Time": "1:26.455",
+        "Position": "7"
+    },
+    {
+        "Circuit ID": "losail",
+        "Round": "23",
+        "Lap Number": "19",
+        "Driver ID": "perez",
+        "Time": "1:26.152",
+        "Position": "7"
+    },
+    {
+        "Circuit ID": "losail",
+        "Round": "23",
+        "Lap Number": "20",
+        "Driver ID": "perez",
+        "Time": "1:26.049",
+        "Position": "7"
+    },
+    {
+        "Circuit ID": "losail",
+        "Round": "23",
+        "Lap Number": "21",
+        "Driver ID": "perez",
+        "Time": "1:25.714",
+        "Position": "7"
+    },
+    {
+        "Circuit ID": "losail",
+        "Round": "23",
+        "Lap Number": "22",
+        "Driver ID": "perez",
+        "Time": "1:25.973",
+        "Position": "7"
+    },
+    {
+        "Circuit ID": "losail",
+        "Round": "23",
+        "Lap Number": "23",
+        "Driver ID": "perez",
+        "Time": "1:25.850",
+        "Position": "7"
+    },
+    {
+        "Circuit ID": "losail",
+        "Round": "23",
+        "Lap Number": "24",
+        "Driver ID": "perez",
+        "Time": "1:25.642",
+        "Position": "6"
+    },
+    {
+        "Circuit ID": "losail",
+        "Round": "23",
+        "Lap Number": "25",
+        "Driver ID": "perez",
+        "Time": "1:25.498",
+        "Position": "6"
+    },
+    {
+        "Circuit ID": "losail",
+        "Round": "23",
+        "Lap Number": "26",
+        "Driver ID": "perez",
+        "Time": "1:25.458",
+        "Position": "6"
+    },
+    {
+        "Circuit ID": "losail",
+        "Round": "23",
+        "Lap Number": "27",
+        "Driver ID": "perez",
+        "Time": "1:25.576",
+        "Position": "6"
+    },
+    {
+        "Circuit ID": "losail",
+        "Round": "23",
+        "Lap Number": "28",
+        "Driver ID": "perez",
+        "Time": "1:25.555",
+        "Position": "6"
+    },
+    {
+        "Circuit ID": "losail",
+        "Round": "23",
+        "Lap Number": "29",
+        "Driver ID": "perez",
+        "Time": "1:25.507",
+        "Position": "6"
+    },
+    {
+        "Circuit ID": "losail",
+        "Round": "23",
+        "Lap Number": "30",
+        "Driver ID": "perez",
+        "Time": "1:25.409",
+        "Position": "6"
+    },
+    {
+        "Circuit ID": "losail",
+        "Round": "23",
+        "Lap Number": "31",
+        "Driver ID": "perez",
+        "Time": "1:25.288",
+        "Position": "6"
+    },
+    {
+        "Circuit ID": "losail",
+        "Round": "23",
+        "Lap Number": "32",
+        "Driver ID": "perez",
+        "Time": "1:25.390",
+        "Position": "6"
+    },
+    {
+        "Circuit ID": "losail",
+        "Round": "23",
+        "Lap Number": "33",
+        "Driver ID": "perez",
+        "Time": "1:25.382",
+        "Position": "6"
+    },
+    {
+        "Circuit ID": "losail",
+        "Round": "23",
+        "Lap Number": "34",
+        "Driver ID": "perez",
+        "Time": "1:26.500",
+        "Position": "5"
+    },
+    {
+        "Circuit ID": "losail",
+        "Round": "23",
+        "Lap Number": "35",
+        "Driver ID": "perez",
+        "Time": "1:46.636",
+        "Position": "4"
+    },
+    {
+        "Circuit ID": "losail",
+        "Round": "23",
+        "Lap Number": "36",
+        "Driver ID": "perez",
+        "Time": "2:23.642",
+        "Position": "5"
+    },
+    {
+        "Circuit ID": "losail",
+        "Round": "23",
+        "Lap Number": "37",
+        "Driver ID": "perez",
+        "Time": "2:38.290",
+        "Position": "5"
+    },
+    {
+        "Circuit ID": "losail",
+        "Round": "23",
+        "Lap Number": "38",
+        "Driver ID": "perez",
+        "Time": "2:27.063",
+        "Position": "5"
+    }
+]
