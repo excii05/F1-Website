@@ -151,7 +151,7 @@ def main():
 
                 # Rundenzeiten für jedes Rennen abrufen und speichern
                 print(f"Fetching lap times for race {race_id}...")
-                lap_times = fetch_lap_times(race_year, race_round, driver_id)
+                lap_times = fetch_lap_times(race_year, race_round)
                 if lap_times:
                     try:
                         # Extrahiere nur den relevanten Abschnitt der Laps
