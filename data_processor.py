@@ -92,12 +92,26 @@ def process_race_schedule(year):
                 # Sitzungen verarbeiten
                 sessions = []
                 for session in session_data:
+                    # Formatieren von Date Start und Date End
+                    date_start = session.get("date_start", "Unknown")
+                    date_end = session.get("date_end", "Unknown")
+
+                    # Überprüfen und Formatieren, falls Datum vorhanden ist
+                    formatted_date_start = (
+                        datetime.strptime(date_start.split("+")[0], '%Y-%m-%dT%H:%M:%S').strftime('%d.%m.%Y %H:%M')
+                        if date_start != "Unknown" else "Unknown"
+                    )
+                    formatted_date_end = (
+                        datetime.strptime(date_end.split("+")[0], '%Y-%m-%dT%H:%M:%S').strftime('%d.%m.%Y %H:%M')
+                        if date_end != "Unknown" else "Unknown"
+                    )
+
                     sessions.append({
                         "Session Key": session.get("session_key", "Unknown"),
                         "Session Type": session.get("session_type", "Unknown"),
                         "Session Name": session.get("session_name", "Unknown"),
-                        "Date Start": session.get("date_start", "Unknown"),
-                        "Date End": session.get("date_end", "Unknown")
+                        "Date Start": formatted_date_start,
+                        "Date End": formatted_date_end
                     })
 
                 # Rennkalender-Eintrag mit Sitzungen erstellen

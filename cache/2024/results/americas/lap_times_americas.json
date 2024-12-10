@@ -3587,449 +3587,897 @@
         "Circuit ID": "americas",
         "Round": "19",
         "Lap Number": "1",
-        "Driver ID": "lawson",
-        "Time": "1:48.974",
-        "Position": "14"
+        "Driver ID": "colapinto",
+        "Time": "1:49.923",
+        "Position": "16"
     },
     {
         "Circuit ID": "americas",
         "Round": "19",
         "Lap Number": "2",
-        "Driver ID": "lawson",
-        "Time": "1:42.809",
-        "Position": "13"
+        "Driver ID": "colapinto",
+        "Time": "1:43.005",
+        "Position": "15"
     },
     {
         "Circuit ID": "americas",
         "Round": "19",
         "Lap Number": "3",
-        "Driver ID": "lawson",
-        "Time": "2:15.152",
-        "Position": "13"
+        "Driver ID": "colapinto",
+        "Time": "2:17.406",
+        "Position": "15"
     },
     {
         "Circuit ID": "americas",
         "Round": "19",
         "Lap Number": "4",
-        "Driver ID": "lawson",
-        "Time": "2:30.921",
-        "Position": "13"
+        "Driver ID": "colapinto",
+        "Time": "2:30.829",
+        "Position": "15"
     },
     {
         "Circuit ID": "americas",
         "Round": "19",
         "Lap Number": "5",
-        "Driver ID": "lawson",
-        "Time": "2:30.275",
-        "Position": "13"
+        "Driver ID": "colapinto",
+        "Time": "2:27.801",
+        "Position": "15"
     },
     {
         "Circuit ID": "americas",
         "Round": "19",
         "Lap Number": "6",
-        "Driver ID": "lawson",
-        "Time": "1:42.925",
-        "Position": "12"
+        "Driver ID": "colapinto",
+        "Time": "1:43.338",
+        "Position": "14"
     },
     {
         "Circuit ID": "americas",
         "Round": "19",
         "Lap Number": "7",
-        "Driver ID": "lawson",
-        "Time": "1:42.010",
-        "Position": "12"
+        "Driver ID": "colapinto",
+        "Time": "1:42.278",
+        "Position": "14"
     },
     {
         "Circuit ID": "americas",
         "Round": "19",
         "Lap Number": "8",
-        "Driver ID": "lawson",
-        "Time": "1:41.557",
-        "Position": "12"
+        "Driver ID": "colapinto",
+        "Time": "1:41.451",
+        "Position": "14"
     },
     {
         "Circuit ID": "americas",
         "Round": "19",
         "Lap Number": "9",
-        "Driver ID": "lawson",
-        "Time": "1:42.100",
-        "Position": "12"
+        "Driver ID": "colapinto",
+        "Time": "1:41.980",
+        "Position": "14"
     },
     {
         "Circuit ID": "americas",
         "Round": "19",
         "Lap Number": "10",
-        "Driver ID": "lawson",
-        "Time": "1:42.012",
-        "Position": "12"
+        "Driver ID": "colapinto",
+        "Time": "1:41.702",
+        "Position": "13"
     },
     {
         "Circuit ID": "americas",
         "Round": "19",
         "Lap Number": "11",
-        "Driver ID": "lawson",
-        "Time": "1:41.535",
-        "Position": "11"
+        "Driver ID": "colapinto",
+        "Time": "1:42.239",
+        "Position": "13"
     },
     {
         "Circuit ID": "americas",
         "Round": "19",
         "Lap Number": "12",
-        "Driver ID": "lawson",
-        "Time": "1:41.260",
-        "Position": "11"
+        "Driver ID": "colapinto",
+        "Time": "1:41.886",
+        "Position": "13"
     },
     {
         "Circuit ID": "americas",
         "Round": "19",
         "Lap Number": "13",
-        "Driver ID": "lawson",
-        "Time": "1:41.320",
-        "Position": "11"
+        "Driver ID": "colapinto",
+        "Time": "1:41.766",
+        "Position": "13"
     },
     {
         "Circuit ID": "americas",
         "Round": "19",
         "Lap Number": "14",
-        "Driver ID": "lawson",
-        "Time": "1:41.383",
-        "Position": "11"
+        "Driver ID": "colapinto",
+        "Time": "1:42.970",
+        "Position": "14"
     },
     {
         "Circuit ID": "americas",
         "Round": "19",
         "Lap Number": "15",
-        "Driver ID": "lawson",
-        "Time": "1:42.041",
-        "Position": "11"
+        "Driver ID": "colapinto",
+        "Time": "1:41.801",
+        "Position": "14"
     },
     {
         "Circuit ID": "americas",
         "Round": "19",
         "Lap Number": "16",
-        "Driver ID": "lawson",
-        "Time": "1:41.646",
-        "Position": "11"
+        "Driver ID": "colapinto",
+        "Time": "1:41.956",
+        "Position": "14"
     },
     {
         "Circuit ID": "americas",
         "Round": "19",
         "Lap Number": "17",
-        "Driver ID": "lawson",
-        "Time": "1:41.371",
-        "Position": "11"
+        "Driver ID": "colapinto",
+        "Time": "1:41.523",
+        "Position": "14"
     },
     {
         "Circuit ID": "americas",
         "Round": "19",
         "Lap Number": "18",
-        "Driver ID": "lawson",
-        "Time": "1:41.335",
-        "Position": "10"
+        "Driver ID": "colapinto",
+        "Time": "1:41.427",
+        "Position": "13"
     },
     {
         "Circuit ID": "americas",
         "Round": "19",
         "Lap Number": "19",
-        "Driver ID": "lawson",
-        "Time": "1:41.101",
-        "Position": "8"
-    },
-    {
-        "Circuit ID": "americas",
-        "Round": "19",
-        "Lap Number": "20",
-        "Driver ID": "lawson",
-        "Time": "1:40.988",
-        "Position": "8"
-    },
-    {
-        "Circuit ID": "americas",
-        "Round": "19",
-        "Lap Number": "21",
-        "Driver ID": "lawson",
-        "Time": "1:42.238",
-        "Position": "9"
-    },
-    {
-        "Circuit ID": "americas",
-        "Round": "19",
-        "Lap Number": "22",
-        "Driver ID": "lawson",
-        "Time": "1:41.448",
-        "Position": "9"
-    },
-    {
-        "Circuit ID": "americas",
-        "Round": "19",
-        "Lap Number": "23",
-        "Driver ID": "lawson",
-        "Time": "1:40.853",
-        "Position": "9"
-    },
-    {
-        "Circuit ID": "americas",
-        "Round": "19",
-        "Lap Number": "24",
-        "Driver ID": "lawson",
-        "Time": "1:40.869",
-        "Position": "9"
-    },
-    {
-        "Circuit ID": "americas",
-        "Round": "19",
-        "Lap Number": "25",
-        "Driver ID": "lawson",
-        "Time": "1:40.653",
-        "Position": "9"
-    },
-    {
-        "Circuit ID": "americas",
-        "Round": "19",
-        "Lap Number": "26",
-        "Driver ID": "lawson",
-        "Time": "1:40.922",
-        "Position": "9"
-    },
-    {
-        "Circuit ID": "americas",
-        "Round": "19",
-        "Lap Number": "27",
-        "Driver ID": "lawson",
-        "Time": "1:40.304",
-        "Position": "8"
-    },
-    {
-        "Circuit ID": "americas",
-        "Round": "19",
-        "Lap Number": "28",
-        "Driver ID": "lawson",
-        "Time": "1:40.235",
-        "Position": "7"
-    },
-    {
-        "Circuit ID": "americas",
-        "Round": "19",
-        "Lap Number": "29",
-        "Driver ID": "lawson",
-        "Time": "1:40.523",
-        "Position": "7"
-    },
-    {
-        "Circuit ID": "americas",
-        "Round": "19",
-        "Lap Number": "30",
-        "Driver ID": "lawson",
-        "Time": "1:40.622",
-        "Position": "7"
-    },
-    {
-        "Circuit ID": "americas",
-        "Round": "19",
-        "Lap Number": "31",
-        "Driver ID": "lawson",
-        "Time": "1:40.613",
-        "Position": "7"
-    },
-    {
-        "Circuit ID": "americas",
-        "Round": "19",
-        "Lap Number": "32",
-        "Driver ID": "lawson",
-        "Time": "1:40.451",
-        "Position": "7"
-    },
-    {
-        "Circuit ID": "americas",
-        "Round": "19",
-        "Lap Number": "33",
-        "Driver ID": "lawson",
-        "Time": "1:40.286",
-        "Position": "7"
-    },
-    {
-        "Circuit ID": "americas",
-        "Round": "19",
-        "Lap Number": "34",
-        "Driver ID": "lawson",
-        "Time": "1:40.449",
-        "Position": "7"
-    },
-    {
-        "Circuit ID": "americas",
-        "Round": "19",
-        "Lap Number": "35",
-        "Driver ID": "lawson",
-        "Time": "1:40.484",
-        "Position": "7"
-    },
-    {
-        "Circuit ID": "americas",
-        "Round": "19",
-        "Lap Number": "36",
-        "Driver ID": "lawson",
-        "Time": "1:41.342",
-        "Position": "7"
-    },
-    {
-        "Circuit ID": "americas",
-        "Round": "19",
-        "Lap Number": "37",
-        "Driver ID": "lawson",
-        "Time": "1:59.598",
-        "Position": "12"
-    },
-    {
-        "Circuit ID": "americas",
-        "Round": "19",
-        "Lap Number": "38",
-        "Driver ID": "lawson",
-        "Time": "1:38.905",
+        "Driver ID": "colapinto",
+        "Time": "1:41.010",
         "Position": "11"
     },
     {
         "Circuit ID": "americas",
         "Round": "19",
-        "Lap Number": "39",
-        "Driver ID": "lawson",
-        "Time": "1:39.396",
+        "Lap Number": "20",
+        "Driver ID": "colapinto",
+        "Time": "1:41.123",
+        "Position": "11"
+    },
+    {
+        "Circuit ID": "americas",
+        "Round": "19",
+        "Lap Number": "21",
+        "Driver ID": "colapinto",
+        "Time": "1:41.087",
+        "Position": "11"
+    },
+    {
+        "Circuit ID": "americas",
+        "Round": "19",
+        "Lap Number": "22",
+        "Driver ID": "colapinto",
+        "Time": "1:41.250",
         "Position": "10"
     },
     {
         "Circuit ID": "americas",
         "Round": "19",
-        "Lap Number": "40",
-        "Driver ID": "lawson",
-        "Time": "1:39.035",
+        "Lap Number": "23",
+        "Driver ID": "colapinto",
+        "Time": "1:41.312",
+        "Position": "10"
+    },
+    {
+        "Circuit ID": "americas",
+        "Round": "19",
+        "Lap Number": "24",
+        "Driver ID": "colapinto",
+        "Time": "1:41.227",
+        "Position": "10"
+    },
+    {
+        "Circuit ID": "americas",
+        "Round": "19",
+        "Lap Number": "25",
+        "Driver ID": "colapinto",
+        "Time": "1:40.756",
+        "Position": "10"
+    },
+    {
+        "Circuit ID": "americas",
+        "Round": "19",
+        "Lap Number": "26",
+        "Driver ID": "colapinto",
+        "Time": "1:40.900",
+        "Position": "10"
+    },
+    {
+        "Circuit ID": "americas",
+        "Round": "19",
+        "Lap Number": "27",
+        "Driver ID": "colapinto",
+        "Time": "1:40.451",
         "Position": "9"
+    },
+    {
+        "Circuit ID": "americas",
+        "Round": "19",
+        "Lap Number": "28",
+        "Driver ID": "colapinto",
+        "Time": "1:40.205",
+        "Position": "8"
+    },
+    {
+        "Circuit ID": "americas",
+        "Round": "19",
+        "Lap Number": "29",
+        "Driver ID": "colapinto",
+        "Time": "1:40.542",
+        "Position": "8"
+    },
+    {
+        "Circuit ID": "americas",
+        "Round": "19",
+        "Lap Number": "30",
+        "Driver ID": "colapinto",
+        "Time": "1:40.366",
+        "Position": "8"
+    },
+    {
+        "Circuit ID": "americas",
+        "Round": "19",
+        "Lap Number": "31",
+        "Driver ID": "colapinto",
+        "Time": "1:40.535",
+        "Position": "8"
+    },
+    {
+        "Circuit ID": "americas",
+        "Round": "19",
+        "Lap Number": "32",
+        "Driver ID": "colapinto",
+        "Time": "1:40.270",
+        "Position": "8"
+    },
+    {
+        "Circuit ID": "americas",
+        "Round": "19",
+        "Lap Number": "33",
+        "Driver ID": "colapinto",
+        "Time": "1:40.238",
+        "Position": "8"
+    },
+    {
+        "Circuit ID": "americas",
+        "Round": "19",
+        "Lap Number": "34",
+        "Driver ID": "colapinto",
+        "Time": "1:40.306",
+        "Position": "8"
+    },
+    {
+        "Circuit ID": "americas",
+        "Round": "19",
+        "Lap Number": "35",
+        "Driver ID": "colapinto",
+        "Time": "1:40.195",
+        "Position": "8"
+    },
+    {
+        "Circuit ID": "americas",
+        "Round": "19",
+        "Lap Number": "36",
+        "Driver ID": "colapinto",
+        "Time": "1:40.026",
+        "Position": "8"
+    },
+    {
+        "Circuit ID": "americas",
+        "Round": "19",
+        "Lap Number": "37",
+        "Driver ID": "colapinto",
+        "Time": "1:41.395",
+        "Position": "8"
+    },
+    {
+        "Circuit ID": "americas",
+        "Round": "19",
+        "Lap Number": "38",
+        "Driver ID": "colapinto",
+        "Time": "1:40.110",
+        "Position": "8"
+    },
+    {
+        "Circuit ID": "americas",
+        "Round": "19",
+        "Lap Number": "39",
+        "Driver ID": "colapinto",
+        "Time": "1:40.591",
+        "Position": "8"
+    },
+    {
+        "Circuit ID": "americas",
+        "Round": "19",
+        "Lap Number": "40",
+        "Driver ID": "colapinto",
+        "Time": "1:59.212",
+        "Position": "12"
     },
     {
         "Circuit ID": "americas",
         "Round": "19",
         "Lap Number": "41",
-        "Driver ID": "lawson",
-        "Time": "1:39.149",
-        "Position": "9"
+        "Driver ID": "colapinto",
+        "Time": "1:39.443",
+        "Position": "11"
     },
     {
         "Circuit ID": "americas",
         "Round": "19",
         "Lap Number": "42",
-        "Driver ID": "lawson",
-        "Time": "1:38.409",
-        "Position": "9"
+        "Driver ID": "colapinto",
+        "Time": "1:38.533",
+        "Position": "11"
     },
     {
         "Circuit ID": "americas",
         "Round": "19",
         "Lap Number": "43",
-        "Driver ID": "lawson",
-        "Time": "1:39.104",
-        "Position": "9"
+        "Driver ID": "colapinto",
+        "Time": "1:38.528",
+        "Position": "11"
     },
     {
         "Circuit ID": "americas",
         "Round": "19",
         "Lap Number": "44",
-        "Driver ID": "lawson",
-        "Time": "1:39.057",
-        "Position": "9"
+        "Driver ID": "colapinto",
+        "Time": "1:38.876",
+        "Position": "11"
     },
     {
         "Circuit ID": "americas",
         "Round": "19",
         "Lap Number": "45",
-        "Driver ID": "lawson",
-        "Time": "1:39.084",
-        "Position": "9"
+        "Driver ID": "colapinto",
+        "Time": "1:38.532",
+        "Position": "10"
     },
     {
         "Circuit ID": "americas",
         "Round": "19",
         "Lap Number": "46",
-        "Driver ID": "lawson",
-        "Time": "1:38.619",
-        "Position": "9"
+        "Driver ID": "colapinto",
+        "Time": "1:37.611",
+        "Position": "10"
     },
     {
         "Circuit ID": "americas",
         "Round": "19",
         "Lap Number": "47",
-        "Driver ID": "lawson",
-        "Time": "1:38.631",
-        "Position": "9"
+        "Driver ID": "colapinto",
+        "Time": "1:37.991",
+        "Position": "10"
     },
     {
         "Circuit ID": "americas",
         "Round": "19",
         "Lap Number": "48",
-        "Driver ID": "lawson",
-        "Time": "1:38.493",
-        "Position": "9"
+        "Driver ID": "colapinto",
+        "Time": "1:38.326",
+        "Position": "10"
     },
     {
         "Circuit ID": "americas",
         "Round": "19",
         "Lap Number": "49",
-        "Driver ID": "lawson",
-        "Time": "1:38.558",
-        "Position": "9"
+        "Driver ID": "colapinto",
+        "Time": "1:38.412",
+        "Position": "10"
     },
     {
         "Circuit ID": "americas",
         "Round": "19",
         "Lap Number": "50",
-        "Driver ID": "lawson",
-        "Time": "1:38.513",
-        "Position": "9"
+        "Driver ID": "colapinto",
+        "Time": "1:38.026",
+        "Position": "10"
     },
     {
         "Circuit ID": "americas",
         "Round": "19",
         "Lap Number": "51",
-        "Driver ID": "lawson",
-        "Time": "1:38.453",
-        "Position": "9"
+        "Driver ID": "colapinto",
+        "Time": "1:38.665",
+        "Position": "10"
     },
     {
         "Circuit ID": "americas",
         "Round": "19",
         "Lap Number": "52",
-        "Driver ID": "lawson",
-        "Time": "1:38.281",
-        "Position": "9"
+        "Driver ID": "colapinto",
+        "Time": "1:38.133",
+        "Position": "10"
     },
     {
         "Circuit ID": "americas",
         "Round": "19",
         "Lap Number": "53",
-        "Driver ID": "lawson",
-        "Time": "1:38.113",
-        "Position": "9"
+        "Driver ID": "colapinto",
+        "Time": "1:38.032",
+        "Position": "10"
     },
     {
         "Circuit ID": "americas",
         "Round": "19",
         "Lap Number": "54",
-        "Driver ID": "lawson",
-        "Time": "1:38.091",
-        "Position": "9"
+        "Driver ID": "colapinto",
+        "Time": "1:37.708",
+        "Position": "10"
     },
     {
         "Circuit ID": "americas",
         "Round": "19",
         "Lap Number": "55",
-        "Driver ID": "lawson",
-        "Time": "1:38.433",
-        "Position": "9"
+        "Driver ID": "colapinto",
+        "Time": "1:37.926",
+        "Position": "10"
     },
     {
         "Circuit ID": "americas",
         "Round": "19",
         "Lap Number": "56",
-        "Driver ID": "lawson",
-        "Time": "1:39.273",
+        "Driver ID": "colapinto",
+        "Time": "1:38.488",
+        "Position": "10"
+    },
+    {
+        "Circuit ID": "americas",
+        "Round": "19",
+        "Lap Number": "1",
+        "Driver ID": "kevin_magnussen",
+        "Time": "1:45.073",
+        "Position": "7"
+    },
+    {
+        "Circuit ID": "americas",
+        "Round": "19",
+        "Lap Number": "2",
+        "Driver ID": "kevin_magnussen",
+        "Time": "1:42.038",
+        "Position": "7"
+    },
+    {
+        "Circuit ID": "americas",
+        "Round": "19",
+        "Lap Number": "3",
+        "Driver ID": "kevin_magnussen",
+        "Time": "2:08.559",
+        "Position": "7"
+    },
+    {
+        "Circuit ID": "americas",
+        "Round": "19",
+        "Lap Number": "4",
+        "Driver ID": "kevin_magnussen",
+        "Time": "2:30.492",
+        "Position": "7"
+    },
+    {
+        "Circuit ID": "americas",
+        "Round": "19",
+        "Lap Number": "5",
+        "Driver ID": "kevin_magnussen",
+        "Time": "2:39.607",
+        "Position": "7"
+    },
+    {
+        "Circuit ID": "americas",
+        "Round": "19",
+        "Lap Number": "6",
+        "Driver ID": "kevin_magnussen",
+        "Time": "1:42.311",
+        "Position": "7"
+    },
+    {
+        "Circuit ID": "americas",
+        "Round": "19",
+        "Lap Number": "7",
+        "Driver ID": "kevin_magnussen",
+        "Time": "1:41.740",
+        "Position": "7"
+    },
+    {
+        "Circuit ID": "americas",
+        "Round": "19",
+        "Lap Number": "8",
+        "Driver ID": "kevin_magnussen",
+        "Time": "1:40.836",
+        "Position": "7"
+    },
+    {
+        "Circuit ID": "americas",
+        "Round": "19",
+        "Lap Number": "9",
+        "Driver ID": "kevin_magnussen",
+        "Time": "1:40.634",
+        "Position": "7"
+    },
+    {
+        "Circuit ID": "americas",
+        "Round": "19",
+        "Lap Number": "10",
+        "Driver ID": "kevin_magnussen",
+        "Time": "1:41.287",
+        "Position": "7"
+    },
+    {
+        "Circuit ID": "americas",
+        "Round": "19",
+        "Lap Number": "11",
+        "Driver ID": "kevin_magnussen",
+        "Time": "1:41.697",
+        "Position": "7"
+    },
+    {
+        "Circuit ID": "americas",
+        "Round": "19",
+        "Lap Number": "12",
+        "Driver ID": "kevin_magnussen",
+        "Time": "1:41.161",
+        "Position": "7"
+    },
+    {
+        "Circuit ID": "americas",
+        "Round": "19",
+        "Lap Number": "13",
+        "Driver ID": "kevin_magnussen",
+        "Time": "1:41.150",
+        "Position": "7"
+    },
+    {
+        "Circuit ID": "americas",
+        "Round": "19",
+        "Lap Number": "14",
+        "Driver ID": "kevin_magnussen",
+        "Time": "1:41.279",
+        "Position": "7"
+    },
+    {
+        "Circuit ID": "americas",
+        "Round": "19",
+        "Lap Number": "15",
+        "Driver ID": "kevin_magnussen",
+        "Time": "1:41.736",
+        "Position": "7"
+    },
+    {
+        "Circuit ID": "americas",
+        "Round": "19",
+        "Lap Number": "16",
+        "Driver ID": "kevin_magnussen",
+        "Time": "1:41.901",
+        "Position": "7"
+    },
+    {
+        "Circuit ID": "americas",
+        "Round": "19",
+        "Lap Number": "17",
+        "Driver ID": "kevin_magnussen",
+        "Time": "1:41.895",
+        "Position": "7"
+    },
+    {
+        "Circuit ID": "americas",
+        "Round": "19",
+        "Lap Number": "18",
+        "Driver ID": "kevin_magnussen",
+        "Time": "1:59.791",
+        "Position": "17"
+    },
+    {
+        "Circuit ID": "americas",
+        "Round": "19",
+        "Lap Number": "19",
+        "Driver ID": "kevin_magnussen",
+        "Time": "1:40.868",
+        "Position": "15"
+    },
+    {
+        "Circuit ID": "americas",
+        "Round": "19",
+        "Lap Number": "20",
+        "Driver ID": "kevin_magnussen",
+        "Time": "1:40.996",
+        "Position": "15"
+    },
+    {
+        "Circuit ID": "americas",
+        "Round": "19",
+        "Lap Number": "21",
+        "Driver ID": "kevin_magnussen",
+        "Time": "1:41.259",
+        "Position": "14"
+    },
+    {
+        "Circuit ID": "americas",
+        "Round": "19",
+        "Lap Number": "22",
+        "Driver ID": "kevin_magnussen",
+        "Time": "1:40.479",
+        "Position": "13"
+    },
+    {
+        "Circuit ID": "americas",
+        "Round": "19",
+        "Lap Number": "23",
+        "Driver ID": "kevin_magnussen",
+        "Time": "1:40.732",
+        "Position": "13"
+    },
+    {
+        "Circuit ID": "americas",
+        "Round": "19",
+        "Lap Number": "24",
+        "Driver ID": "kevin_magnussen",
+        "Time": "1:40.626",
+        "Position": "13"
+    },
+    {
+        "Circuit ID": "americas",
+        "Round": "19",
+        "Lap Number": "25",
+        "Driver ID": "kevin_magnussen",
+        "Time": "1:40.292",
+        "Position": "12"
+    },
+    {
+        "Circuit ID": "americas",
+        "Round": "19",
+        "Lap Number": "26",
+        "Driver ID": "kevin_magnussen",
+        "Time": "1:40.479",
+        "Position": "12"
+    },
+    {
+        "Circuit ID": "americas",
+        "Round": "19",
+        "Lap Number": "27",
+        "Driver ID": "kevin_magnussen",
+        "Time": "1:40.126",
+        "Position": "10"
+    },
+    {
+        "Circuit ID": "americas",
+        "Round": "19",
+        "Lap Number": "28",
+        "Driver ID": "kevin_magnussen",
+        "Time": "1:41.523",
+        "Position": "10"
+    },
+    {
+        "Circuit ID": "americas",
+        "Round": "19",
+        "Lap Number": "29",
+        "Driver ID": "kevin_magnussen",
+        "Time": "1:40.250",
+        "Position": "10"
+    },
+    {
+        "Circuit ID": "americas",
+        "Round": "19",
+        "Lap Number": "30",
+        "Driver ID": "kevin_magnussen",
+        "Time": "1:40.769",
+        "Position": "10"
+    },
+    {
+        "Circuit ID": "americas",
+        "Round": "19",
+        "Lap Number": "31",
+        "Driver ID": "kevin_magnussen",
+        "Time": "1:40.455",
+        "Position": "10"
+    },
+    {
+        "Circuit ID": "americas",
+        "Round": "19",
+        "Lap Number": "32",
+        "Driver ID": "kevin_magnussen",
+        "Time": "1:40.166",
+        "Position": "10"
+    },
+    {
+        "Circuit ID": "americas",
+        "Round": "19",
+        "Lap Number": "33",
+        "Driver ID": "kevin_magnussen",
+        "Time": "1:39.826",
+        "Position": "10"
+    },
+    {
+        "Circuit ID": "americas",
+        "Round": "19",
+        "Lap Number": "34",
+        "Driver ID": "kevin_magnussen",
+        "Time": "1:39.641",
+        "Position": "10"
+    },
+    {
+        "Circuit ID": "americas",
+        "Round": "19",
+        "Lap Number": "35",
+        "Driver ID": "kevin_magnussen",
+        "Time": "1:39.585",
+        "Position": "10"
+    },
+    {
+        "Circuit ID": "americas",
+        "Round": "19",
+        "Lap Number": "36",
+        "Driver ID": "kevin_magnussen",
+        "Time": "1:39.786",
+        "Position": "10"
+    },
+    {
+        "Circuit ID": "americas",
+        "Round": "19",
+        "Lap Number": "37",
+        "Driver ID": "kevin_magnussen",
+        "Time": "1:40.481",
         "Position": "9"
+    },
+    {
+        "Circuit ID": "americas",
+        "Round": "19",
+        "Lap Number": "38",
+        "Driver ID": "kevin_magnussen",
+        "Time": "1:39.843",
+        "Position": "9"
+    },
+    {
+        "Circuit ID": "americas",
+        "Round": "19",
+        "Lap Number": "39",
+        "Driver ID": "kevin_magnussen",
+        "Time": "1:58.617",
+        "Position": "13"
+    },
+    {
+        "Circuit ID": "americas",
+        "Round": "19",
+        "Lap Number": "40",
+        "Driver ID": "kevin_magnussen",
+        "Time": "1:38.975",
+        "Position": "13"
+    },
+    {
+        "Circuit ID": "americas",
+        "Round": "19",
+        "Lap Number": "41",
+        "Driver ID": "kevin_magnussen",
+        "Time": "1:40.010",
+        "Position": "12"
+    },
+    {
+        "Circuit ID": "americas",
+        "Round": "19",
+        "Lap Number": "42",
+        "Driver ID": "kevin_magnussen",
+        "Time": "1:38.653",
+        "Position": "12"
+    },
+    {
+        "Circuit ID": "americas",
+        "Round": "19",
+        "Lap Number": "43",
+        "Driver ID": "kevin_magnussen",
+        "Time": "1:38.988",
+        "Position": "12"
+    },
+    {
+        "Circuit ID": "americas",
+        "Round": "19",
+        "Lap Number": "44",
+        "Driver ID": "kevin_magnussen",
+        "Time": "1:38.671",
+        "Position": "12"
+    },
+    {
+        "Circuit ID": "americas",
+        "Round": "19",
+        "Lap Number": "45",
+        "Driver ID": "kevin_magnussen",
+        "Time": "1:39.045",
+        "Position": "12"
+    },
+    {
+        "Circuit ID": "americas",
+        "Round": "19",
+        "Lap Number": "46",
+        "Driver ID": "kevin_magnussen",
+        "Time": "1:39.085",
+        "Position": "12"
+    },
+    {
+        "Circuit ID": "americas",
+        "Round": "19",
+        "Lap Number": "47",
+        "Driver ID": "kevin_magnussen",
+        "Time": "1:38.779",
+        "Position": "11"
+    },
+    {
+        "Circuit ID": "americas",
+        "Round": "19",
+        "Lap Number": "48",
+        "Driver ID": "kevin_magnussen",
+        "Time": "1:39.025",
+        "Position": "11"
+    },
+    {
+        "Circuit ID": "americas",
+        "Round": "19",
+        "Lap Number": "49",
+        "Driver ID": "kevin_magnussen",
+        "Time": "1:38.746",
+        "Position": "11"
+    },
+    {
+        "Circuit ID": "americas",
+        "Round": "19",
+        "Lap Number": "50",
+        "Driver ID": "kevin_magnussen",
+        "Time": "1:38.676",
+        "Position": "11"
+    },
+    {
+        "Circuit ID": "americas",
+        "Round": "19",
+        "Lap Number": "51",
+        "Driver ID": "kevin_magnussen",
+        "Time": "1:38.877",
+        "Position": "11"
+    },
+    {
+        "Circuit ID": "americas",
+        "Round": "19",
+        "Lap Number": "52",
+        "Driver ID": "kevin_magnussen",
+        "Time": "1:38.623",
+        "Position": "11"
+    },
+    {
+        "Circuit ID": "americas",
+        "Round": "19",
+        "Lap Number": "53",
+        "Driver ID": "kevin_magnussen",
+        "Time": "1:38.508",
+        "Position": "11"
+    },
+    {
+        "Circuit ID": "americas",
+        "Round": "19",
+        "Lap Number": "54",
+        "Driver ID": "kevin_magnussen",
+        "Time": "1:38.325",
+        "Position": "11"
+    },
+    {
+        "Circuit ID": "americas",
+        "Round": "19",
+        "Lap Number": "55",
+        "Driver ID": "kevin_magnussen",
+        "Time": "1:38.239",
+        "Position": "11"
+    },
+    {
+        "Circuit ID": "americas",
+        "Round": "19",
+        "Lap Number": "56",
+        "Driver ID": "kevin_magnussen",
+        "Time": "1:38.210",
+        "Position": "11"
     },
     {
         "Circuit ID": "americas",
@@ -7558,5 +8006,13 @@
         "Driver ID": "zhou",
         "Time": "1:40.061",
         "Position": "19"
+    },
+    {
+        "Circuit ID": "americas",
+        "Round": "19",
+        "Lap Number": "1",
+        "Driver ID": "hamilton",
+        "Time": "1:48.064",
+        "Position": "12"
     }
 ]

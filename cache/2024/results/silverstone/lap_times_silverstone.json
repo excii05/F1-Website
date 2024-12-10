@@ -2499,6 +2499,838 @@
         "Circuit ID": "silverstone",
         "Round": "12",
         "Lap Number": "1",
+        "Driver ID": "alonso",
+        "Time": "1:40.474",
+        "Position": "10"
+    },
+    {
+        "Circuit ID": "silverstone",
+        "Round": "12",
+        "Lap Number": "2",
+        "Driver ID": "alonso",
+        "Time": "1:33.202",
+        "Position": "10"
+    },
+    {
+        "Circuit ID": "silverstone",
+        "Round": "12",
+        "Lap Number": "3",
+        "Driver ID": "alonso",
+        "Time": "1:32.951",
+        "Position": "10"
+    },
+    {
+        "Circuit ID": "silverstone",
+        "Round": "12",
+        "Lap Number": "4",
+        "Driver ID": "alonso",
+        "Time": "1:33.192",
+        "Position": "10"
+    },
+    {
+        "Circuit ID": "silverstone",
+        "Round": "12",
+        "Lap Number": "5",
+        "Driver ID": "alonso",
+        "Time": "1:32.617",
+        "Position": "10"
+    },
+    {
+        "Circuit ID": "silverstone",
+        "Round": "12",
+        "Lap Number": "6",
+        "Driver ID": "alonso",
+        "Time": "1:32.673",
+        "Position": "10"
+    },
+    {
+        "Circuit ID": "silverstone",
+        "Round": "12",
+        "Lap Number": "7",
+        "Driver ID": "alonso",
+        "Time": "1:32.712",
+        "Position": "10"
+    },
+    {
+        "Circuit ID": "silverstone",
+        "Round": "12",
+        "Lap Number": "8",
+        "Driver ID": "alonso",
+        "Time": "1:32.496",
+        "Position": "10"
+    },
+    {
+        "Circuit ID": "silverstone",
+        "Round": "12",
+        "Lap Number": "9",
+        "Driver ID": "alonso",
+        "Time": "1:32.579",
+        "Position": "10"
+    },
+    {
+        "Circuit ID": "silverstone",
+        "Round": "12",
+        "Lap Number": "10",
+        "Driver ID": "alonso",
+        "Time": "1:32.741",
+        "Position": "10"
+    },
+    {
+        "Circuit ID": "silverstone",
+        "Round": "12",
+        "Lap Number": "11",
+        "Driver ID": "alonso",
+        "Time": "1:32.548",
+        "Position": "10"
+    },
+    {
+        "Circuit ID": "silverstone",
+        "Round": "12",
+        "Lap Number": "12",
+        "Driver ID": "alonso",
+        "Time": "1:32.427",
+        "Position": "10"
+    },
+    {
+        "Circuit ID": "silverstone",
+        "Round": "12",
+        "Lap Number": "13",
+        "Driver ID": "alonso",
+        "Time": "1:32.517",
+        "Position": "10"
+    },
+    {
+        "Circuit ID": "silverstone",
+        "Round": "12",
+        "Lap Number": "14",
+        "Driver ID": "alonso",
+        "Time": "1:32.383",
+        "Position": "10"
+    },
+    {
+        "Circuit ID": "silverstone",
+        "Round": "12",
+        "Lap Number": "15",
+        "Driver ID": "alonso",
+        "Time": "1:32.259",
+        "Position": "10"
+    },
+    {
+        "Circuit ID": "silverstone",
+        "Round": "12",
+        "Lap Number": "16",
+        "Driver ID": "alonso",
+        "Time": "1:32.590",
+        "Position": "10"
+    },
+    {
+        "Circuit ID": "silverstone",
+        "Round": "12",
+        "Lap Number": "17",
+        "Driver ID": "alonso",
+        "Time": "1:35.014",
+        "Position": "10"
+    },
+    {
+        "Circuit ID": "silverstone",
+        "Round": "12",
+        "Lap Number": "18",
+        "Driver ID": "alonso",
+        "Time": "1:35.880",
+        "Position": "10"
+    },
+    {
+        "Circuit ID": "silverstone",
+        "Round": "12",
+        "Lap Number": "19",
+        "Driver ID": "alonso",
+        "Time": "1:47.270",
+        "Position": "10"
+    },
+    {
+        "Circuit ID": "silverstone",
+        "Round": "12",
+        "Lap Number": "20",
+        "Driver ID": "alonso",
+        "Time": "1:36.480",
+        "Position": "8"
+    },
+    {
+        "Circuit ID": "silverstone",
+        "Round": "12",
+        "Lap Number": "21",
+        "Driver ID": "alonso",
+        "Time": "1:32.999",
+        "Position": "8"
+    },
+    {
+        "Circuit ID": "silverstone",
+        "Round": "12",
+        "Lap Number": "22",
+        "Driver ID": "alonso",
+        "Time": "1:32.673",
+        "Position": "8"
+    },
+    {
+        "Circuit ID": "silverstone",
+        "Round": "12",
+        "Lap Number": "23",
+        "Driver ID": "alonso",
+        "Time": "1:32.593",
+        "Position": "8"
+    },
+    {
+        "Circuit ID": "silverstone",
+        "Round": "12",
+        "Lap Number": "24",
+        "Driver ID": "alonso",
+        "Time": "1:34.088",
+        "Position": "8"
+    },
+    {
+        "Circuit ID": "silverstone",
+        "Round": "12",
+        "Lap Number": "25",
+        "Driver ID": "alonso",
+        "Time": "1:35.687",
+        "Position": "8"
+    },
+    {
+        "Circuit ID": "silverstone",
+        "Round": "12",
+        "Lap Number": "26",
+        "Driver ID": "alonso",
+        "Time": "1:43.618",
+        "Position": "9"
+    },
+    {
+        "Circuit ID": "silverstone",
+        "Round": "12",
+        "Lap Number": "27",
+        "Driver ID": "alonso",
+        "Time": "1:48.513",
+        "Position": "7"
+    },
+    {
+        "Circuit ID": "silverstone",
+        "Round": "12",
+        "Lap Number": "28",
+        "Driver ID": "alonso",
+        "Time": "2:04.427",
+        "Position": "9"
+    },
+    {
+        "Circuit ID": "silverstone",
+        "Round": "12",
+        "Lap Number": "29",
+        "Driver ID": "alonso",
+        "Time": "1:43.072",
+        "Position": "9"
+    },
+    {
+        "Circuit ID": "silverstone",
+        "Round": "12",
+        "Lap Number": "30",
+        "Driver ID": "alonso",
+        "Time": "1:42.577",
+        "Position": "9"
+    },
+    {
+        "Circuit ID": "silverstone",
+        "Round": "12",
+        "Lap Number": "31",
+        "Driver ID": "alonso",
+        "Time": "1:42.796",
+        "Position": "9"
+    },
+    {
+        "Circuit ID": "silverstone",
+        "Round": "12",
+        "Lap Number": "32",
+        "Driver ID": "alonso",
+        "Time": "1:43.690",
+        "Position": "9"
+    },
+    {
+        "Circuit ID": "silverstone",
+        "Round": "12",
+        "Lap Number": "33",
+        "Driver ID": "alonso",
+        "Time": "1:44.262",
+        "Position": "9"
+    },
+    {
+        "Circuit ID": "silverstone",
+        "Round": "12",
+        "Lap Number": "34",
+        "Driver ID": "alonso",
+        "Time": "1:44.375",
+        "Position": "8"
+    },
+    {
+        "Circuit ID": "silverstone",
+        "Round": "12",
+        "Lap Number": "35",
+        "Driver ID": "alonso",
+        "Time": "1:44.251",
+        "Position": "8"
+    },
+    {
+        "Circuit ID": "silverstone",
+        "Round": "12",
+        "Lap Number": "36",
+        "Driver ID": "alonso",
+        "Time": "1:42.513",
+        "Position": "8"
+    },
+    {
+        "Circuit ID": "silverstone",
+        "Round": "12",
+        "Lap Number": "37",
+        "Driver ID": "alonso",
+        "Time": "1:40.747",
+        "Position": "8"
+    },
+    {
+        "Circuit ID": "silverstone",
+        "Round": "12",
+        "Lap Number": "38",
+        "Driver ID": "alonso",
+        "Time": "1:38.684",
+        "Position": "8"
+    },
+    {
+        "Circuit ID": "silverstone",
+        "Round": "12",
+        "Lap Number": "39",
+        "Driver ID": "alonso",
+        "Time": "1:59.234",
+        "Position": "8"
+    },
+    {
+        "Circuit ID": "silverstone",
+        "Round": "12",
+        "Lap Number": "40",
+        "Driver ID": "alonso",
+        "Time": "1:31.146",
+        "Position": "8"
+    },
+    {
+        "Circuit ID": "silverstone",
+        "Round": "12",
+        "Lap Number": "41",
+        "Driver ID": "alonso",
+        "Time": "1:30.594",
+        "Position": "8"
+    },
+    {
+        "Circuit ID": "silverstone",
+        "Round": "12",
+        "Lap Number": "42",
+        "Driver ID": "alonso",
+        "Time": "1:30.167",
+        "Position": "8"
+    },
+    {
+        "Circuit ID": "silverstone",
+        "Round": "12",
+        "Lap Number": "43",
+        "Driver ID": "alonso",
+        "Time": "1:30.098",
+        "Position": "8"
+    },
+    {
+        "Circuit ID": "silverstone",
+        "Round": "12",
+        "Lap Number": "44",
+        "Driver ID": "alonso",
+        "Time": "1:29.930",
+        "Position": "8"
+    },
+    {
+        "Circuit ID": "silverstone",
+        "Round": "12",
+        "Lap Number": "45",
+        "Driver ID": "alonso",
+        "Time": "1:29.871",
+        "Position": "8"
+    },
+    {
+        "Circuit ID": "silverstone",
+        "Round": "12",
+        "Lap Number": "46",
+        "Driver ID": "alonso",
+        "Time": "1:29.753",
+        "Position": "8"
+    },
+    {
+        "Circuit ID": "silverstone",
+        "Round": "12",
+        "Lap Number": "47",
+        "Driver ID": "alonso",
+        "Time": "1:29.710",
+        "Position": "8"
+    },
+    {
+        "Circuit ID": "silverstone",
+        "Round": "12",
+        "Lap Number": "48",
+        "Driver ID": "alonso",
+        "Time": "1:30.114",
+        "Position": "8"
+    },
+    {
+        "Circuit ID": "silverstone",
+        "Round": "12",
+        "Lap Number": "49",
+        "Driver ID": "alonso",
+        "Time": "1:30.700",
+        "Position": "8"
+    },
+    {
+        "Circuit ID": "silverstone",
+        "Round": "12",
+        "Lap Number": "50",
+        "Driver ID": "alonso",
+        "Time": "1:30.727",
+        "Position": "8"
+    },
+    {
+        "Circuit ID": "silverstone",
+        "Round": "12",
+        "Lap Number": "51",
+        "Driver ID": "alonso",
+        "Time": "1:30.592",
+        "Position": "8"
+    },
+    {
+        "Circuit ID": "silverstone",
+        "Round": "12",
+        "Lap Number": "52",
+        "Driver ID": "alonso",
+        "Time": "1:31.430",
+        "Position": "8"
+    },
+    {
+        "Circuit ID": "silverstone",
+        "Round": "12",
+        "Lap Number": "1",
+        "Driver ID": "albon",
+        "Time": "1:41.588",
+        "Position": "12"
+    },
+    {
+        "Circuit ID": "silverstone",
+        "Round": "12",
+        "Lap Number": "2",
+        "Driver ID": "albon",
+        "Time": "1:33.158",
+        "Position": "12"
+    },
+    {
+        "Circuit ID": "silverstone",
+        "Round": "12",
+        "Lap Number": "3",
+        "Driver ID": "albon",
+        "Time": "1:33.373",
+        "Position": "12"
+    },
+    {
+        "Circuit ID": "silverstone",
+        "Round": "12",
+        "Lap Number": "4",
+        "Driver ID": "albon",
+        "Time": "1:33.059",
+        "Position": "12"
+    },
+    {
+        "Circuit ID": "silverstone",
+        "Round": "12",
+        "Lap Number": "5",
+        "Driver ID": "albon",
+        "Time": "1:32.846",
+        "Position": "12"
+    },
+    {
+        "Circuit ID": "silverstone",
+        "Round": "12",
+        "Lap Number": "6",
+        "Driver ID": "albon",
+        "Time": "1:33.014",
+        "Position": "12"
+    },
+    {
+        "Circuit ID": "silverstone",
+        "Round": "12",
+        "Lap Number": "7",
+        "Driver ID": "albon",
+        "Time": "1:32.939",
+        "Position": "12"
+    },
+    {
+        "Circuit ID": "silverstone",
+        "Round": "12",
+        "Lap Number": "8",
+        "Driver ID": "albon",
+        "Time": "1:32.798",
+        "Position": "12"
+    },
+    {
+        "Circuit ID": "silverstone",
+        "Round": "12",
+        "Lap Number": "9",
+        "Driver ID": "albon",
+        "Time": "1:32.933",
+        "Position": "12"
+    },
+    {
+        "Circuit ID": "silverstone",
+        "Round": "12",
+        "Lap Number": "10",
+        "Driver ID": "albon",
+        "Time": "1:33.073",
+        "Position": "12"
+    },
+    {
+        "Circuit ID": "silverstone",
+        "Round": "12",
+        "Lap Number": "11",
+        "Driver ID": "albon",
+        "Time": "1:32.981",
+        "Position": "12"
+    },
+    {
+        "Circuit ID": "silverstone",
+        "Round": "12",
+        "Lap Number": "12",
+        "Driver ID": "albon",
+        "Time": "1:32.567",
+        "Position": "12"
+    },
+    {
+        "Circuit ID": "silverstone",
+        "Round": "12",
+        "Lap Number": "13",
+        "Driver ID": "albon",
+        "Time": "1:32.769",
+        "Position": "12"
+    },
+    {
+        "Circuit ID": "silverstone",
+        "Round": "12",
+        "Lap Number": "14",
+        "Driver ID": "albon",
+        "Time": "1:32.538",
+        "Position": "12"
+    },
+    {
+        "Circuit ID": "silverstone",
+        "Round": "12",
+        "Lap Number": "15",
+        "Driver ID": "albon",
+        "Time": "1:32.265",
+        "Position": "12"
+    },
+    {
+        "Circuit ID": "silverstone",
+        "Round": "12",
+        "Lap Number": "16",
+        "Driver ID": "albon",
+        "Time": "1:33.178",
+        "Position": "12"
+    },
+    {
+        "Circuit ID": "silverstone",
+        "Round": "12",
+        "Lap Number": "17",
+        "Driver ID": "albon",
+        "Time": "1:34.873",
+        "Position": "12"
+    },
+    {
+        "Circuit ID": "silverstone",
+        "Round": "12",
+        "Lap Number": "18",
+        "Driver ID": "albon",
+        "Time": "1:35.323",
+        "Position": "12"
+    },
+    {
+        "Circuit ID": "silverstone",
+        "Round": "12",
+        "Lap Number": "19",
+        "Driver ID": "albon",
+        "Time": "1:44.619",
+        "Position": "12"
+    },
+    {
+        "Circuit ID": "silverstone",
+        "Round": "12",
+        "Lap Number": "20",
+        "Driver ID": "albon",
+        "Time": "1:36.530",
+        "Position": "11"
+    },
+    {
+        "Circuit ID": "silverstone",
+        "Round": "12",
+        "Lap Number": "21",
+        "Driver ID": "albon",
+        "Time": "1:33.646",
+        "Position": "11"
+    },
+    {
+        "Circuit ID": "silverstone",
+        "Round": "12",
+        "Lap Number": "22",
+        "Driver ID": "albon",
+        "Time": "1:33.086",
+        "Position": "11"
+    },
+    {
+        "Circuit ID": "silverstone",
+        "Round": "12",
+        "Lap Number": "23",
+        "Driver ID": "albon",
+        "Time": "1:32.891",
+        "Position": "11"
+    },
+    {
+        "Circuit ID": "silverstone",
+        "Round": "12",
+        "Lap Number": "24",
+        "Driver ID": "albon",
+        "Time": "1:33.960",
+        "Position": "11"
+    },
+    {
+        "Circuit ID": "silverstone",
+        "Round": "12",
+        "Lap Number": "25",
+        "Driver ID": "albon",
+        "Time": "1:35.612",
+        "Position": "11"
+    },
+    {
+        "Circuit ID": "silverstone",
+        "Round": "12",
+        "Lap Number": "26",
+        "Driver ID": "albon",
+        "Time": "1:43.771",
+        "Position": "11"
+    },
+    {
+        "Circuit ID": "silverstone",
+        "Round": "12",
+        "Lap Number": "27",
+        "Driver ID": "albon",
+        "Time": "1:47.754",
+        "Position": "9"
+    },
+    {
+        "Circuit ID": "silverstone",
+        "Round": "12",
+        "Lap Number": "28",
+        "Driver ID": "albon",
+        "Time": "2:08.459",
+        "Position": "11"
+    },
+    {
+        "Circuit ID": "silverstone",
+        "Round": "12",
+        "Lap Number": "29",
+        "Driver ID": "albon",
+        "Time": "1:41.726",
+        "Position": "11"
+    },
+    {
+        "Circuit ID": "silverstone",
+        "Round": "12",
+        "Lap Number": "30",
+        "Driver ID": "albon",
+        "Time": "1:43.271",
+        "Position": "11"
+    },
+    {
+        "Circuit ID": "silverstone",
+        "Round": "12",
+        "Lap Number": "31",
+        "Driver ID": "albon",
+        "Time": "1:43.229",
+        "Position": "11"
+    },
+    {
+        "Circuit ID": "silverstone",
+        "Round": "12",
+        "Lap Number": "32",
+        "Driver ID": "albon",
+        "Time": "1:44.304",
+        "Position": "11"
+    },
+    {
+        "Circuit ID": "silverstone",
+        "Round": "12",
+        "Lap Number": "33",
+        "Driver ID": "albon",
+        "Time": "1:44.820",
+        "Position": "11"
+    },
+    {
+        "Circuit ID": "silverstone",
+        "Round": "12",
+        "Lap Number": "34",
+        "Driver ID": "albon",
+        "Time": "1:45.216",
+        "Position": "10"
+    },
+    {
+        "Circuit ID": "silverstone",
+        "Round": "12",
+        "Lap Number": "35",
+        "Driver ID": "albon",
+        "Time": "1:45.202",
+        "Position": "10"
+    },
+    {
+        "Circuit ID": "silverstone",
+        "Round": "12",
+        "Lap Number": "36",
+        "Driver ID": "albon",
+        "Time": "1:43.075",
+        "Position": "10"
+    },
+    {
+        "Circuit ID": "silverstone",
+        "Round": "12",
+        "Lap Number": "37",
+        "Driver ID": "albon",
+        "Time": "1:40.273",
+        "Position": "10"
+    },
+    {
+        "Circuit ID": "silverstone",
+        "Round": "12",
+        "Lap Number": "38",
+        "Driver ID": "albon",
+        "Time": "1:37.843",
+        "Position": "10"
+    },
+    {
+        "Circuit ID": "silverstone",
+        "Round": "12",
+        "Lap Number": "39",
+        "Driver ID": "albon",
+        "Time": "1:57.678",
+        "Position": "10"
+    },
+    {
+        "Circuit ID": "silverstone",
+        "Round": "12",
+        "Lap Number": "40",
+        "Driver ID": "albon",
+        "Time": "1:30.889",
+        "Position": "10"
+    },
+    {
+        "Circuit ID": "silverstone",
+        "Round": "12",
+        "Lap Number": "41",
+        "Driver ID": "albon",
+        "Time": "1:30.715",
+        "Position": "10"
+    },
+    {
+        "Circuit ID": "silverstone",
+        "Round": "12",
+        "Lap Number": "42",
+        "Driver ID": "albon",
+        "Time": "1:30.458",
+        "Position": "10"
+    },
+    {
+        "Circuit ID": "silverstone",
+        "Round": "12",
+        "Lap Number": "43",
+        "Driver ID": "albon",
+        "Time": "1:30.126",
+        "Position": "10"
+    },
+    {
+        "Circuit ID": "silverstone",
+        "Round": "12",
+        "Lap Number": "44",
+        "Driver ID": "albon",
+        "Time": "1:30.740",
+        "Position": "10"
+    },
+    {
+        "Circuit ID": "silverstone",
+        "Round": "12",
+        "Lap Number": "45",
+        "Driver ID": "albon",
+        "Time": "1:30.406",
+        "Position": "9"
+    },
+    {
+        "Circuit ID": "silverstone",
+        "Round": "12",
+        "Lap Number": "46",
+        "Driver ID": "albon",
+        "Time": "1:30.234",
+        "Position": "9"
+    },
+    {
+        "Circuit ID": "silverstone",
+        "Round": "12",
+        "Lap Number": "47",
+        "Driver ID": "albon",
+        "Time": "1:30.148",
+        "Position": "9"
+    },
+    {
+        "Circuit ID": "silverstone",
+        "Round": "12",
+        "Lap Number": "48",
+        "Driver ID": "albon",
+        "Time": "1:30.068",
+        "Position": "9"
+    },
+    {
+        "Circuit ID": "silverstone",
+        "Round": "12",
+        "Lap Number": "49",
+        "Driver ID": "albon",
+        "Time": "1:29.960",
+        "Position": "9"
+    },
+    {
+        "Circuit ID": "silverstone",
+        "Round": "12",
+        "Lap Number": "50",
+        "Driver ID": "albon",
+        "Time": "1:29.828",
+        "Position": "9"
+    },
+    {
+        "Circuit ID": "silverstone",
+        "Round": "12",
+        "Lap Number": "51",
+        "Driver ID": "albon",
+        "Time": "1:29.916",
+        "Position": "9"
+    },
+    {
+        "Circuit ID": "silverstone",
+        "Round": "12",
+        "Lap Number": "52",
+        "Driver ID": "albon",
+        "Time": "1:29.718",
+        "Position": "9"
+    },
+    {
+        "Circuit ID": "silverstone",
+        "Round": "12",
+        "Lap Number": "1",
         "Driver ID": "tsunoda",
         "Time": "1:41.109",
         "Position": "11"
@@ -3331,825 +4163,817 @@
         "Circuit ID": "silverstone",
         "Round": "12",
         "Lap Number": "1",
-        "Driver ID": "kevin_magnussen",
-        "Time": "1:43.681",
-        "Position": "17"
+        "Driver ID": "leclerc",
+        "Time": "1:39.663",
+        "Position": "8"
     },
     {
         "Circuit ID": "silverstone",
         "Round": "12",
         "Lap Number": "2",
-        "Driver ID": "kevin_magnussen",
-        "Time": "1:34.216",
-        "Position": "17"
+        "Driver ID": "leclerc",
+        "Time": "1:32.858",
+        "Position": "8"
     },
     {
         "Circuit ID": "silverstone",
         "Round": "12",
         "Lap Number": "3",
-        "Driver ID": "kevin_magnussen",
-        "Time": "1:33.259",
-        "Position": "17"
+        "Driver ID": "leclerc",
+        "Time": "1:32.369",
+        "Position": "8"
     },
     {
         "Circuit ID": "silverstone",
         "Round": "12",
         "Lap Number": "4",
-        "Driver ID": "kevin_magnussen",
-        "Time": "1:33.110",
-        "Position": "17"
+        "Driver ID": "leclerc",
+        "Time": "1:32.705",
+        "Position": "8"
     },
     {
         "Circuit ID": "silverstone",
         "Round": "12",
         "Lap Number": "5",
-        "Driver ID": "kevin_magnussen",
-        "Time": "1:32.999",
-        "Position": "17"
+        "Driver ID": "leclerc",
+        "Time": "1:32.697",
+        "Position": "8"
     },
     {
         "Circuit ID": "silverstone",
         "Round": "12",
         "Lap Number": "6",
-        "Driver ID": "kevin_magnussen",
-        "Time": "1:33.544",
-        "Position": "17"
+        "Driver ID": "leclerc",
+        "Time": "1:32.758",
+        "Position": "8"
     },
     {
         "Circuit ID": "silverstone",
         "Round": "12",
         "Lap Number": "7",
-        "Driver ID": "kevin_magnussen",
-        "Time": "1:33.734",
-        "Position": "16"
+        "Driver ID": "leclerc",
+        "Time": "1:32.662",
+        "Position": "8"
     },
     {
         "Circuit ID": "silverstone",
         "Round": "12",
         "Lap Number": "8",
-        "Driver ID": "kevin_magnussen",
-        "Time": "1:33.204",
-        "Position": "15"
+        "Driver ID": "leclerc",
+        "Time": "1:32.860",
+        "Position": "8"
     },
     {
         "Circuit ID": "silverstone",
         "Round": "12",
         "Lap Number": "9",
-        "Driver ID": "kevin_magnussen",
-        "Time": "1:32.783",
-        "Position": "15"
+        "Driver ID": "leclerc",
+        "Time": "1:32.326",
+        "Position": "8"
     },
     {
         "Circuit ID": "silverstone",
         "Round": "12",
         "Lap Number": "10",
-        "Driver ID": "kevin_magnussen",
-        "Time": "1:32.647",
-        "Position": "15"
+        "Driver ID": "leclerc",
+        "Time": "1:32.496",
+        "Position": "8"
     },
     {
         "Circuit ID": "silverstone",
         "Round": "12",
         "Lap Number": "11",
-        "Driver ID": "kevin_magnussen",
-        "Time": "1:32.671",
-        "Position": "15"
+        "Driver ID": "leclerc",
+        "Time": "1:32.348",
+        "Position": "8"
     },
     {
         "Circuit ID": "silverstone",
         "Round": "12",
         "Lap Number": "12",
-        "Driver ID": "kevin_magnussen",
-        "Time": "1:32.531",
-        "Position": "15"
+        "Driver ID": "leclerc",
+        "Time": "1:32.236",
+        "Position": "8"
     },
     {
         "Circuit ID": "silverstone",
         "Round": "12",
         "Lap Number": "13",
-        "Driver ID": "kevin_magnussen",
-        "Time": "1:32.740",
-        "Position": "15"
+        "Driver ID": "leclerc",
+        "Time": "1:31.989",
+        "Position": "7"
     },
     {
         "Circuit ID": "silverstone",
         "Round": "12",
         "Lap Number": "14",
-        "Driver ID": "kevin_magnussen",
-        "Time": "1:32.506",
-        "Position": "15"
+        "Driver ID": "leclerc",
+        "Time": "1:32.396",
+        "Position": "7"
     },
     {
         "Circuit ID": "silverstone",
         "Round": "12",
         "Lap Number": "15",
-        "Driver ID": "kevin_magnussen",
-        "Time": "1:32.953",
-        "Position": "15"
+        "Driver ID": "leclerc",
+        "Time": "1:32.755",
+        "Position": "7"
     },
     {
         "Circuit ID": "silverstone",
         "Round": "12",
         "Lap Number": "16",
-        "Driver ID": "kevin_magnussen",
-        "Time": "1:33.486",
-        "Position": "14"
+        "Driver ID": "leclerc",
+        "Time": "1:32.923",
+        "Position": "7"
     },
     {
         "Circuit ID": "silverstone",
         "Round": "12",
         "Lap Number": "17",
-        "Driver ID": "kevin_magnussen",
-        "Time": "1:34.661",
-        "Position": "14"
+        "Driver ID": "leclerc",
+        "Time": "1:35.280",
+        "Position": "7"
     },
     {
         "Circuit ID": "silverstone",
         "Round": "12",
         "Lap Number": "18",
-        "Driver ID": "kevin_magnussen",
-        "Time": "1:34.730",
-        "Position": "14"
+        "Driver ID": "leclerc",
+        "Time": "1:35.951",
+        "Position": "7"
     },
     {
         "Circuit ID": "silverstone",
         "Round": "12",
         "Lap Number": "19",
-        "Driver ID": "kevin_magnussen",
-        "Time": "1:43.505",
-        "Position": "14"
+        "Driver ID": "leclerc",
+        "Time": "1:45.868",
+        "Position": "7"
     },
     {
         "Circuit ID": "silverstone",
         "Round": "12",
         "Lap Number": "20",
-        "Driver ID": "kevin_magnussen",
-        "Time": "1:35.181",
-        "Position": "13"
+        "Driver ID": "leclerc",
+        "Time": "2:00.269",
+        "Position": "15"
     },
     {
         "Circuit ID": "silverstone",
         "Round": "12",
         "Lap Number": "21",
-        "Driver ID": "kevin_magnussen",
-        "Time": "1:33.484",
-        "Position": "13"
+        "Driver ID": "leclerc",
+        "Time": "1:42.846",
+        "Position": "16"
     },
     {
         "Circuit ID": "silverstone",
         "Round": "12",
         "Lap Number": "22",
-        "Driver ID": "kevin_magnussen",
-        "Time": "1:32.766",
-        "Position": "13"
+        "Driver ID": "leclerc",
+        "Time": "1:44.352",
+        "Position": "16"
     },
     {
         "Circuit ID": "silverstone",
         "Round": "12",
         "Lap Number": "23",
-        "Driver ID": "kevin_magnussen",
-        "Time": "1:33.278",
-        "Position": "12"
+        "Driver ID": "leclerc",
+        "Time": "1:46.593",
+        "Position": "16"
     },
     {
         "Circuit ID": "silverstone",
         "Round": "12",
         "Lap Number": "24",
-        "Driver ID": "kevin_magnussen",
-        "Time": "1:33.625",
-        "Position": "12"
+        "Driver ID": "leclerc",
+        "Time": "1:51.732",
+        "Position": "16"
     },
     {
         "Circuit ID": "silverstone",
         "Round": "12",
         "Lap Number": "25",
-        "Driver ID": "kevin_magnussen",
-        "Time": "1:35.150",
-        "Position": "12"
+        "Driver ID": "leclerc",
+        "Time": "1:49.301",
+        "Position": "16"
     },
     {
         "Circuit ID": "silverstone",
         "Round": "12",
         "Lap Number": "26",
-        "Driver ID": "kevin_magnussen",
-        "Time": "1:45.466",
-        "Position": "12"
+        "Driver ID": "leclerc",
+        "Time": "1:45.655",
+        "Position": "16"
     },
     {
         "Circuit ID": "silverstone",
         "Round": "12",
         "Lap Number": "27",
-        "Driver ID": "kevin_magnussen",
-        "Time": "1:51.325",
-        "Position": "10"
+        "Driver ID": "leclerc",
+        "Time": "1:45.912",
+        "Position": "16"
     },
     {
         "Circuit ID": "silverstone",
         "Round": "12",
         "Lap Number": "28",
-        "Driver ID": "kevin_magnussen",
-        "Time": "2:05.299",
-        "Position": "12"
+        "Driver ID": "leclerc",
+        "Time": "2:03.138",
+        "Position": "17"
     },
     {
         "Circuit ID": "silverstone",
         "Round": "12",
         "Lap Number": "29",
-        "Driver ID": "kevin_magnussen",
-        "Time": "1:42.842",
-        "Position": "12"
+        "Driver ID": "leclerc",
+        "Time": "1:41.602",
+        "Position": "16"
     },
     {
         "Circuit ID": "silverstone",
         "Round": "12",
         "Lap Number": "30",
-        "Driver ID": "kevin_magnussen",
-        "Time": "1:42.133",
-        "Position": "12"
+        "Driver ID": "leclerc",
+        "Time": "1:42.299",
+        "Position": "16"
     },
     {
         "Circuit ID": "silverstone",
         "Round": "12",
         "Lap Number": "31",
-        "Driver ID": "kevin_magnussen",
-        "Time": "1:44.060",
-        "Position": "12"
+        "Driver ID": "leclerc",
+        "Time": "1:43.950",
+        "Position": "16"
     },
     {
         "Circuit ID": "silverstone",
         "Round": "12",
         "Lap Number": "32",
-        "Driver ID": "kevin_magnussen",
-        "Time": "1:45.084",
-        "Position": "12"
+        "Driver ID": "leclerc",
+        "Time": "1:43.795",
+        "Position": "16"
     },
     {
         "Circuit ID": "silverstone",
         "Round": "12",
         "Lap Number": "33",
-        "Driver ID": "kevin_magnussen",
-        "Time": "1:45.266",
-        "Position": "12"
+        "Driver ID": "leclerc",
+        "Time": "1:43.217",
+        "Position": "16"
     },
     {
         "Circuit ID": "silverstone",
         "Round": "12",
         "Lap Number": "34",
-        "Driver ID": "kevin_magnussen",
-        "Time": "1:46.135",
-        "Position": "11"
+        "Driver ID": "leclerc",
+        "Time": "1:43.604",
+        "Position": "15"
     },
     {
         "Circuit ID": "silverstone",
         "Round": "12",
         "Lap Number": "35",
-        "Driver ID": "kevin_magnussen",
-        "Time": "1:45.557",
-        "Position": "11"
+        "Driver ID": "leclerc",
+        "Time": "1:42.415",
+        "Position": "15"
     },
     {
         "Circuit ID": "silverstone",
         "Round": "12",
         "Lap Number": "36",
-        "Driver ID": "kevin_magnussen",
-        "Time": "1:43.611",
-        "Position": "11"
+        "Driver ID": "leclerc",
+        "Time": "1:40.091",
+        "Position": "15"
     },
     {
         "Circuit ID": "silverstone",
         "Round": "12",
         "Lap Number": "37",
-        "Driver ID": "kevin_magnussen",
-        "Time": "1:42.038",
-        "Position": "11"
+        "Driver ID": "leclerc",
+        "Time": "1:38.357",
+        "Position": "15"
     },
     {
         "Circuit ID": "silverstone",
         "Round": "12",
         "Lap Number": "38",
-        "Driver ID": "kevin_magnussen",
-        "Time": "2:03.931",
-        "Position": "12"
+        "Driver ID": "leclerc",
+        "Time": "1:57.811",
+        "Position": "15"
     },
     {
         "Circuit ID": "silverstone",
         "Round": "12",
         "Lap Number": "39",
-        "Driver ID": "kevin_magnussen",
-        "Time": "1:33.212",
-        "Position": "11"
+        "Driver ID": "leclerc",
+        "Time": "1:31.481",
+        "Position": "15"
     },
     {
         "Circuit ID": "silverstone",
         "Round": "12",
         "Lap Number": "40",
-        "Driver ID": "kevin_magnussen",
-        "Time": "1:32.071",
-        "Position": "11"
+        "Driver ID": "leclerc",
+        "Time": "1:30.878",
+        "Position": "15"
     },
     {
         "Circuit ID": "silverstone",
         "Round": "12",
         "Lap Number": "41",
-        "Driver ID": "kevin_magnussen",
-        "Time": "1:30.610",
-        "Position": "11"
+        "Driver ID": "leclerc",
+        "Time": "1:30.035",
+        "Position": "15"
     },
     {
         "Circuit ID": "silverstone",
         "Round": "12",
         "Lap Number": "42",
-        "Driver ID": "kevin_magnussen",
-        "Time": "1:30.093",
-        "Position": "11"
+        "Driver ID": "leclerc",
+        "Time": "1:29.832",
+        "Position": "15"
     },
     {
         "Circuit ID": "silverstone",
         "Round": "12",
         "Lap Number": "43",
-        "Driver ID": "kevin_magnussen",
-        "Time": "1:30.454",
-        "Position": "11"
+        "Driver ID": "leclerc",
+        "Time": "1:29.748",
+        "Position": "15"
     },
     {
         "Circuit ID": "silverstone",
         "Round": "12",
         "Lap Number": "44",
-        "Driver ID": "kevin_magnussen",
-        "Time": "1:31.342",
-        "Position": "12"
+        "Driver ID": "leclerc",
+        "Time": "1:29.933",
+        "Position": "15"
     },
     {
         "Circuit ID": "silverstone",
         "Round": "12",
         "Lap Number": "45",
-        "Driver ID": "kevin_magnussen",
-        "Time": "1:31.722",
-        "Position": "12"
+        "Driver ID": "leclerc",
+        "Time": "1:29.911",
+        "Position": "15"
     },
     {
         "Circuit ID": "silverstone",
         "Round": "12",
         "Lap Number": "46",
-        "Driver ID": "kevin_magnussen",
-        "Time": "1:31.131",
-        "Position": "12"
+        "Driver ID": "leclerc",
+        "Time": "1:30.051",
+        "Position": "15"
     },
     {
         "Circuit ID": "silverstone",
         "Round": "12",
         "Lap Number": "47",
-        "Driver ID": "kevin_magnussen",
-        "Time": "1:31.036",
-        "Position": "12"
+        "Driver ID": "leclerc",
+        "Time": "1:30.289",
+        "Position": "15"
     },
     {
         "Circuit ID": "silverstone",
         "Round": "12",
         "Lap Number": "48",
-        "Driver ID": "kevin_magnussen",
-        "Time": "1:30.953",
-        "Position": "12"
+        "Driver ID": "leclerc",
+        "Time": "1:30.204",
+        "Position": "15"
     },
     {
         "Circuit ID": "silverstone",
         "Round": "12",
         "Lap Number": "49",
-        "Driver ID": "kevin_magnussen",
-        "Time": "1:30.803",
-        "Position": "12"
+        "Driver ID": "leclerc",
+        "Time": "1:30.929",
+        "Position": "15"
     },
     {
         "Circuit ID": "silverstone",
         "Round": "12",
         "Lap Number": "50",
-        "Driver ID": "kevin_magnussen",
-        "Time": "1:31.143",
-        "Position": "12"
+        "Driver ID": "leclerc",
+        "Time": "1:30.488",
+        "Position": "14"
     },
     {
         "Circuit ID": "silverstone",
         "Round": "12",
         "Lap Number": "51",
-        "Driver ID": "kevin_magnussen",
-        "Time": "1:31.469",
-        "Position": "12"
-    },
-    {
-        "Circuit ID": "silverstone",
-        "Round": "12",
-        "Lap Number": "52",
-        "Driver ID": "kevin_magnussen",
-        "Time": "1:31.982",
-        "Position": "12"
+        "Driver ID": "leclerc",
+        "Time": "1:31.674",
+        "Position": "14"
     },
     {
         "Circuit ID": "silverstone",
         "Round": "12",
         "Lap Number": "1",
-        "Driver ID": "ricciardo",
-        "Time": "1:42.715",
-        "Position": "15"
+        "Driver ID": "bottas",
+        "Time": "1:44.290",
+        "Position": "18"
     },
     {
         "Circuit ID": "silverstone",
         "Round": "12",
         "Lap Number": "2",
-        "Driver ID": "ricciardo",
-        "Time": "1:33.709",
-        "Position": "15"
+        "Driver ID": "bottas",
+        "Time": "1:35.368",
+        "Position": "18"
     },
     {
         "Circuit ID": "silverstone",
         "Round": "12",
         "Lap Number": "3",
-        "Driver ID": "ricciardo",
-        "Time": "1:33.429",
-        "Position": "15"
+        "Driver ID": "bottas",
+        "Time": "1:34.447",
+        "Position": "18"
     },
     {
         "Circuit ID": "silverstone",
         "Round": "12",
         "Lap Number": "4",
-        "Driver ID": "ricciardo",
-        "Time": "1:33.253",
-        "Position": "15"
+        "Driver ID": "bottas",
+        "Time": "1:34.322",
+        "Position": "19"
     },
     {
         "Circuit ID": "silverstone",
         "Round": "12",
         "Lap Number": "5",
-        "Driver ID": "ricciardo",
-        "Time": "1:33.263",
-        "Position": "15"
+        "Driver ID": "bottas",
+        "Time": "1:33.768",
+        "Position": "19"
     },
     {
         "Circuit ID": "silverstone",
         "Round": "12",
         "Lap Number": "6",
-        "Driver ID": "ricciardo",
-        "Time": "1:33.666",
-        "Position": "15"
+        "Driver ID": "bottas",
+        "Time": "1:33.460",
+        "Position": "19"
     },
     {
         "Circuit ID": "silverstone",
         "Round": "12",
         "Lap Number": "7",
-        "Driver ID": "ricciardo",
-        "Time": "1:32.952",
-        "Position": "14"
+        "Driver ID": "bottas",
+        "Time": "1:33.648",
+        "Position": "19"
     },
     {
         "Circuit ID": "silverstone",
         "Round": "12",
         "Lap Number": "8",
-        "Driver ID": "ricciardo",
-        "Time": "1:33.095",
-        "Position": "14"
+        "Driver ID": "bottas",
+        "Time": "1:33.561",
+        "Position": "19"
     },
     {
         "Circuit ID": "silverstone",
         "Round": "12",
         "Lap Number": "9",
-        "Driver ID": "ricciardo",
-        "Time": "1:32.762",
-        "Position": "14"
+        "Driver ID": "bottas",
+        "Time": "1:33.645",
+        "Position": "19"
     },
     {
         "Circuit ID": "silverstone",
         "Round": "12",
         "Lap Number": "10",
-        "Driver ID": "ricciardo",
-        "Time": "1:32.721",
-        "Position": "14"
+        "Driver ID": "bottas",
+        "Time": "1:33.787",
+        "Position": "18"
     },
     {
         "Circuit ID": "silverstone",
         "Round": "12",
         "Lap Number": "11",
-        "Driver ID": "ricciardo",
-        "Time": "1:32.804",
-        "Position": "14"
+        "Driver ID": "bottas",
+        "Time": "1:33.561",
+        "Position": "18"
     },
     {
         "Circuit ID": "silverstone",
         "Round": "12",
         "Lap Number": "12",
-        "Driver ID": "ricciardo",
-        "Time": "1:32.797",
-        "Position": "14"
+        "Driver ID": "bottas",
+        "Time": "1:33.269",
+        "Position": "18"
     },
     {
         "Circuit ID": "silverstone",
         "Round": "12",
         "Lap Number": "13",
-        "Driver ID": "ricciardo",
-        "Time": "1:32.880",
-        "Position": "14"
+        "Driver ID": "bottas",
+        "Time": "1:33.650",
+        "Position": "18"
     },
     {
         "Circuit ID": "silverstone",
         "Round": "12",
         "Lap Number": "14",
-        "Driver ID": "ricciardo",
-        "Time": "1:32.933",
-        "Position": "14"
+        "Driver ID": "bottas",
+        "Time": "1:33.156",
+        "Position": "17"
     },
     {
         "Circuit ID": "silverstone",
         "Round": "12",
         "Lap Number": "15",
-        "Driver ID": "ricciardo",
-        "Time": "1:33.171",
-        "Position": "14"
+        "Driver ID": "bottas",
+        "Time": "1:33.228",
+        "Position": "17"
     },
     {
         "Circuit ID": "silverstone",
         "Round": "12",
         "Lap Number": "16",
-        "Driver ID": "ricciardo",
-        "Time": "1:34.437",
-        "Position": "15"
+        "Driver ID": "bottas",
+        "Time": "1:33.967",
+        "Position": "17"
     },
     {
         "Circuit ID": "silverstone",
         "Round": "12",
         "Lap Number": "17",
-        "Driver ID": "ricciardo",
-        "Time": "1:35.885",
-        "Position": "16"
+        "Driver ID": "bottas",
+        "Time": "1:35.498",
+        "Position": "17"
     },
     {
         "Circuit ID": "silverstone",
         "Round": "12",
         "Lap Number": "18",
-        "Driver ID": "ricciardo",
-        "Time": "1:36.827",
-        "Position": "16"
+        "Driver ID": "bottas",
+        "Time": "1:36.075",
+        "Position": "17"
     },
     {
         "Circuit ID": "silverstone",
         "Round": "12",
         "Lap Number": "19",
-        "Driver ID": "ricciardo",
-        "Time": "1:44.922",
-        "Position": "16"
+        "Driver ID": "bottas",
+        "Time": "1:44.426",
+        "Position": "17"
     },
     {
         "Circuit ID": "silverstone",
         "Round": "12",
         "Lap Number": "20",
-        "Driver ID": "ricciardo",
-        "Time": "1:37.330",
-        "Position": "14"
+        "Driver ID": "bottas",
+        "Time": "1:38.542",
+        "Position": "16"
     },
     {
         "Circuit ID": "silverstone",
         "Round": "12",
         "Lap Number": "21",
-        "Driver ID": "ricciardo",
-        "Time": "1:34.722",
-        "Position": "14"
+        "Driver ID": "bottas",
+        "Time": "1:35.235",
+        "Position": "15"
     },
     {
         "Circuit ID": "silverstone",
         "Round": "12",
         "Lap Number": "22",
-        "Driver ID": "ricciardo",
-        "Time": "1:33.015",
-        "Position": "14"
+        "Driver ID": "bottas",
+        "Time": "1:34.030",
+        "Position": "15"
     },
     {
         "Circuit ID": "silverstone",
         "Round": "12",
         "Lap Number": "23",
-        "Driver ID": "ricciardo",
-        "Time": "1:34.224",
-        "Position": "14"
+        "Driver ID": "bottas",
+        "Time": "1:34.076",
+        "Position": "15"
     },
     {
         "Circuit ID": "silverstone",
         "Round": "12",
         "Lap Number": "24",
-        "Driver ID": "ricciardo",
-        "Time": "1:36.483",
-        "Position": "14"
+        "Driver ID": "bottas",
+        "Time": "1:37.350",
+        "Position": "15"
     },
     {
         "Circuit ID": "silverstone",
         "Round": "12",
         "Lap Number": "25",
-        "Driver ID": "ricciardo",
-        "Time": "1:38.725",
-        "Position": "14"
+        "Driver ID": "bottas",
+        "Time": "1:39.761",
+        "Position": "15"
     },
     {
         "Circuit ID": "silverstone",
         "Round": "12",
         "Lap Number": "26",
-        "Driver ID": "ricciardo",
-        "Time": "1:44.813",
-        "Position": "14"
+        "Driver ID": "bottas",
+        "Time": "1:49.533",
+        "Position": "15"
     },
     {
         "Circuit ID": "silverstone",
         "Round": "12",
         "Lap Number": "27",
-        "Driver ID": "ricciardo",
-        "Time": "2:02.788",
-        "Position": "14"
+        "Driver ID": "bottas",
+        "Time": "2:05.367",
+        "Position": "15"
     },
     {
         "Circuit ID": "silverstone",
         "Round": "12",
         "Lap Number": "28",
-        "Driver ID": "ricciardo",
-        "Time": "1:43.338",
-        "Position": "14"
+        "Driver ID": "bottas",
+        "Time": "1:42.562",
+        "Position": "15"
     },
     {
         "Circuit ID": "silverstone",
         "Round": "12",
         "Lap Number": "29",
-        "Driver ID": "ricciardo",
-        "Time": "1:43.377",
-        "Position": "14"
+        "Driver ID": "bottas",
+        "Time": "1:43.302",
+        "Position": "15"
     },
     {
         "Circuit ID": "silverstone",
         "Round": "12",
         "Lap Number": "30",
-        "Driver ID": "ricciardo",
-        "Time": "1:43.298",
-        "Position": "14"
+        "Driver ID": "bottas",
+        "Time": "1:43.472",
+        "Position": "15"
     },
     {
         "Circuit ID": "silverstone",
         "Round": "12",
         "Lap Number": "31",
-        "Driver ID": "ricciardo",
-        "Time": "1:43.699",
-        "Position": "14"
+        "Driver ID": "bottas",
+        "Time": "1:44.510",
+        "Position": "15"
     },
     {
         "Circuit ID": "silverstone",
         "Round": "12",
         "Lap Number": "32",
-        "Driver ID": "ricciardo",
-        "Time": "1:44.144",
-        "Position": "14"
+        "Driver ID": "bottas",
+        "Time": "1:45.199",
+        "Position": "15"
     },
     {
         "Circuit ID": "silverstone",
         "Round": "12",
         "Lap Number": "33",
-        "Driver ID": "ricciardo",
-        "Time": "1:44.855",
-        "Position": "14"
+        "Driver ID": "bottas",
+        "Time": "1:45.552",
+        "Position": "15"
     },
     {
         "Circuit ID": "silverstone",
         "Round": "12",
         "Lap Number": "34",
-        "Driver ID": "ricciardo",
-        "Time": "1:45.969",
-        "Position": "13"
+        "Driver ID": "bottas",
+        "Time": "1:45.199",
+        "Position": "14"
     },
     {
         "Circuit ID": "silverstone",
         "Round": "12",
         "Lap Number": "35",
-        "Driver ID": "ricciardo",
-        "Time": "1:45.535",
-        "Position": "13"
+        "Driver ID": "bottas",
+        "Time": "1:45.476",
+        "Position": "14"
     },
     {
         "Circuit ID": "silverstone",
         "Round": "12",
         "Lap Number": "36",
-        "Driver ID": "ricciardo",
-        "Time": "1:43.213",
-        "Position": "13"
+        "Driver ID": "bottas",
+        "Time": "1:42.968",
+        "Position": "14"
     },
     {
         "Circuit ID": "silverstone",
         "Round": "12",
         "Lap Number": "37",
-        "Driver ID": "ricciardo",
-        "Time": "1:40.483",
-        "Position": "12"
+        "Driver ID": "bottas",
+        "Time": "1:39.987",
+        "Position": "14"
     },
     {
         "Circuit ID": "silverstone",
         "Round": "12",
         "Lap Number": "38",
-        "Driver ID": "ricciardo",
-        "Time": "2:03.328",
-        "Position": "13"
+        "Driver ID": "bottas",
+        "Time": "2:06.628",
+        "Position": "14"
     },
     {
         "Circuit ID": "silverstone",
         "Round": "12",
         "Lap Number": "39",
-        "Driver ID": "ricciardo",
-        "Time": "1:33.138",
-        "Position": "13"
+        "Driver ID": "bottas",
+        "Time": "1:37.114",
+        "Position": "14"
     },
     {
         "Circuit ID": "silverstone",
         "Round": "12",
         "Lap Number": "40",
-        "Driver ID": "ricciardo",
-        "Time": "1:32.428",
-        "Position": "13"
+        "Driver ID": "bottas",
+        "Time": "1:32.973",
+        "Position": "14"
     },
     {
         "Circuit ID": "silverstone",
         "Round": "12",
         "Lap Number": "41",
-        "Driver ID": "ricciardo",
-        "Time": "1:31.289",
-        "Position": "13"
+        "Driver ID": "bottas",
+        "Time": "1:33.344",
+        "Position": "14"
     },
     {
         "Circuit ID": "silverstone",
         "Round": "12",
         "Lap Number": "42",
-        "Driver ID": "ricciardo",
-        "Time": "1:30.765",
-        "Position": "13"
+        "Driver ID": "bottas",
+        "Time": "1:32.348",
+        "Position": "14"
     },
     {
         "Circuit ID": "silverstone",
         "Round": "12",
         "Lap Number": "43",
-        "Driver ID": "ricciardo",
-        "Time": "1:31.198",
-        "Position": "13"
+        "Driver ID": "bottas",
+        "Time": "1:31.732",
+        "Position": "14"
     },
     {
         "Circuit ID": "silverstone",
         "Round": "12",
         "Lap Number": "44",
-        "Driver ID": "ricciardo",
-        "Time": "1:31.080",
-        "Position": "13"
+        "Driver ID": "bottas",
+        "Time": "1:31.277",
+        "Position": "14"
     },
     {
         "Circuit ID": "silverstone",
         "Round": "12",
         "Lap Number": "45",
-        "Driver ID": "ricciardo",
-        "Time": "1:30.955",
-        "Position": "13"
+        "Driver ID": "bottas",
+        "Time": "1:33.159",
+        "Position": "14"
     },
     {
         "Circuit ID": "silverstone",
         "Round": "12",
         "Lap Number": "46",
-        "Driver ID": "ricciardo",
-        "Time": "1:30.849",
-        "Position": "13"
+        "Driver ID": "bottas",
+        "Time": "1:31.396",
+        "Position": "14"
     },
     {
         "Circuit ID": "silverstone",
         "Round": "12",
         "Lap Number": "47",
-        "Driver ID": "ricciardo",
-        "Time": "1:30.735",
-        "Position": "13"
+        "Driver ID": "bottas",
+        "Time": "1:31.431",
+        "Position": "14"
     },
     {
         "Circuit ID": "silverstone",
         "Round": "12",
         "Lap Number": "48",
-        "Driver ID": "ricciardo",
-        "Time": "1:31.109",
-        "Position": "13"
+        "Driver ID": "bottas",
+        "Time": "1:32.006",
+        "Position": "14"
     },
     {
         "Circuit ID": "silverstone",
         "Round": "12",
         "Lap Number": "49",
-        "Driver ID": "ricciardo",
-        "Time": "1:32.926",
-        "Position": "13"
+        "Driver ID": "bottas",
+        "Time": "1:31.688",
+        "Position": "14"
     },
     {
         "Circuit ID": "silverstone",
         "Round": "12",
         "Lap Number": "50",
-        "Driver ID": "ricciardo",
-        "Time": "1:34.150",
-        "Position": "13"
+        "Driver ID": "bottas",
+        "Time": "1:32.320",
+        "Position": "15"
     },
     {
         "Circuit ID": "silverstone",
         "Round": "12",
         "Lap Number": "51",
-        "Driver ID": "ricciardo",
-        "Time": "1:34.814",
-        "Position": "13"
+        "Driver ID": "bottas",
+        "Time": "1:32.217",
+        "Position": "15"
     },
     {
         "Circuit ID": "silverstone",
@@ -4950,406 +5774,6 @@
         "Driver ID": "perez",
         "Time": "1:29.707",
         "Position": "17"
-    },
-    {
-        "Circuit ID": "silverstone",
-        "Round": "12",
-        "Lap Number": "1",
-        "Driver ID": "zhou",
-        "Time": "1:42.231",
-        "Position": "14"
-    },
-    {
-        "Circuit ID": "silverstone",
-        "Round": "12",
-        "Lap Number": "2",
-        "Driver ID": "zhou",
-        "Time": "1:33.563",
-        "Position": "14"
-    },
-    {
-        "Circuit ID": "silverstone",
-        "Round": "12",
-        "Lap Number": "3",
-        "Driver ID": "zhou",
-        "Time": "1:33.487",
-        "Position": "14"
-    },
-    {
-        "Circuit ID": "silverstone",
-        "Round": "12",
-        "Lap Number": "4",
-        "Driver ID": "zhou",
-        "Time": "1:33.221",
-        "Position": "14"
-    },
-    {
-        "Circuit ID": "silverstone",
-        "Round": "12",
-        "Lap Number": "5",
-        "Driver ID": "zhou",
-        "Time": "1:33.271",
-        "Position": "14"
-    },
-    {
-        "Circuit ID": "silverstone",
-        "Round": "12",
-        "Lap Number": "6",
-        "Driver ID": "zhou",
-        "Time": "1:33.788",
-        "Position": "14"
-    },
-    {
-        "Circuit ID": "silverstone",
-        "Round": "12",
-        "Lap Number": "7",
-        "Driver ID": "zhou",
-        "Time": "1:34.510",
-        "Position": "15"
-    },
-    {
-        "Circuit ID": "silverstone",
-        "Round": "12",
-        "Lap Number": "8",
-        "Driver ID": "zhou",
-        "Time": "1:36.323",
-        "Position": "18"
-    },
-    {
-        "Circuit ID": "silverstone",
-        "Round": "12",
-        "Lap Number": "9",
-        "Driver ID": "zhou",
-        "Time": "1:35.322",
-        "Position": "18"
-    },
-    {
-        "Circuit ID": "silverstone",
-        "Round": "12",
-        "Lap Number": "10",
-        "Driver ID": "zhou",
-        "Time": "1:35.828",
-        "Position": "19"
-    },
-    {
-        "Circuit ID": "silverstone",
-        "Round": "12",
-        "Lap Number": "11",
-        "Driver ID": "zhou",
-        "Time": "1:35.012",
-        "Position": "19"
-    },
-    {
-        "Circuit ID": "silverstone",
-        "Round": "12",
-        "Lap Number": "12",
-        "Driver ID": "zhou",
-        "Time": "1:34.235",
-        "Position": "19"
-    },
-    {
-        "Circuit ID": "silverstone",
-        "Round": "12",
-        "Lap Number": "13",
-        "Driver ID": "zhou",
-        "Time": "1:55.049",
-        "Position": "19"
-    },
-    {
-        "Circuit ID": "silverstone",
-        "Round": "12",
-        "Lap Number": "14",
-        "Driver ID": "zhou",
-        "Time": "1:32.450",
-        "Position": "19"
-    },
-    {
-        "Circuit ID": "silverstone",
-        "Round": "12",
-        "Lap Number": "15",
-        "Driver ID": "zhou",
-        "Time": "1:32.479",
-        "Position": "19"
-    },
-    {
-        "Circuit ID": "silverstone",
-        "Round": "12",
-        "Lap Number": "16",
-        "Driver ID": "zhou",
-        "Time": "1:35.202",
-        "Position": "19"
-    },
-    {
-        "Circuit ID": "silverstone",
-        "Round": "12",
-        "Lap Number": "17",
-        "Driver ID": "zhou",
-        "Time": "1:38.106",
-        "Position": "19"
-    },
-    {
-        "Circuit ID": "silverstone",
-        "Round": "12",
-        "Lap Number": "18",
-        "Driver ID": "zhou",
-        "Time": "1:39.637",
-        "Position": "19"
-    },
-    {
-        "Circuit ID": "silverstone",
-        "Round": "12",
-        "Lap Number": "19",
-        "Driver ID": "zhou",
-        "Time": "1:46.313",
-        "Position": "19"
-    },
-    {
-        "Circuit ID": "silverstone",
-        "Round": "12",
-        "Lap Number": "20",
-        "Driver ID": "zhou",
-        "Time": "2:05.955",
-        "Position": "19"
-    },
-    {
-        "Circuit ID": "silverstone",
-        "Round": "12",
-        "Lap Number": "21",
-        "Driver ID": "zhou",
-        "Time": "1:44.560",
-        "Position": "19"
-    },
-    {
-        "Circuit ID": "silverstone",
-        "Round": "12",
-        "Lap Number": "22",
-        "Driver ID": "zhou",
-        "Time": "1:50.248",
-        "Position": "19"
-    },
-    {
-        "Circuit ID": "silverstone",
-        "Round": "12",
-        "Lap Number": "23",
-        "Driver ID": "zhou",
-        "Time": "1:50.081",
-        "Position": "19"
-    },
-    {
-        "Circuit ID": "silverstone",
-        "Round": "12",
-        "Lap Number": "24",
-        "Driver ID": "zhou",
-        "Time": "1:48.867",
-        "Position": "19"
-    },
-    {
-        "Circuit ID": "silverstone",
-        "Round": "12",
-        "Lap Number": "25",
-        "Driver ID": "zhou",
-        "Time": "1:48.245",
-        "Position": "19"
-    },
-    {
-        "Circuit ID": "silverstone",
-        "Round": "12",
-        "Lap Number": "26",
-        "Driver ID": "zhou",
-        "Time": "1:45.113",
-        "Position": "19"
-    },
-    {
-        "Circuit ID": "silverstone",
-        "Round": "12",
-        "Lap Number": "27",
-        "Driver ID": "zhou",
-        "Time": "2:04.515",
-        "Position": "19"
-    },
-    {
-        "Circuit ID": "silverstone",
-        "Round": "12",
-        "Lap Number": "28",
-        "Driver ID": "zhou",
-        "Time": "1:41.866",
-        "Position": "19"
-    },
-    {
-        "Circuit ID": "silverstone",
-        "Round": "12",
-        "Lap Number": "29",
-        "Driver ID": "zhou",
-        "Time": "1:41.993",
-        "Position": "19"
-    },
-    {
-        "Circuit ID": "silverstone",
-        "Round": "12",
-        "Lap Number": "30",
-        "Driver ID": "zhou",
-        "Time": "1:43.157",
-        "Position": "19"
-    },
-    {
-        "Circuit ID": "silverstone",
-        "Round": "12",
-        "Lap Number": "31",
-        "Driver ID": "zhou",
-        "Time": "1:44.316",
-        "Position": "19"
-    },
-    {
-        "Circuit ID": "silverstone",
-        "Round": "12",
-        "Lap Number": "32",
-        "Driver ID": "zhou",
-        "Time": "1:45.029",
-        "Position": "19"
-    },
-    {
-        "Circuit ID": "silverstone",
-        "Round": "12",
-        "Lap Number": "33",
-        "Driver ID": "zhou",
-        "Time": "1:45.412",
-        "Position": "19"
-    },
-    {
-        "Circuit ID": "silverstone",
-        "Round": "12",
-        "Lap Number": "34",
-        "Driver ID": "zhou",
-        "Time": "1:48.010",
-        "Position": "18"
-    },
-    {
-        "Circuit ID": "silverstone",
-        "Round": "12",
-        "Lap Number": "35",
-        "Driver ID": "zhou",
-        "Time": "1:42.569",
-        "Position": "18"
-    },
-    {
-        "Circuit ID": "silverstone",
-        "Round": "12",
-        "Lap Number": "36",
-        "Driver ID": "zhou",
-        "Time": "1:42.823",
-        "Position": "18"
-    },
-    {
-        "Circuit ID": "silverstone",
-        "Round": "12",
-        "Lap Number": "37",
-        "Driver ID": "zhou",
-        "Time": "1:41.608",
-        "Position": "18"
-    },
-    {
-        "Circuit ID": "silverstone",
-        "Round": "12",
-        "Lap Number": "38",
-        "Driver ID": "zhou",
-        "Time": "2:06.729",
-        "Position": "18"
-    },
-    {
-        "Circuit ID": "silverstone",
-        "Round": "12",
-        "Lap Number": "39",
-        "Driver ID": "zhou",
-        "Time": "1:32.696",
-        "Position": "18"
-    },
-    {
-        "Circuit ID": "silverstone",
-        "Round": "12",
-        "Lap Number": "40",
-        "Driver ID": "zhou",
-        "Time": "1:33.170",
-        "Position": "18"
-    },
-    {
-        "Circuit ID": "silverstone",
-        "Round": "12",
-        "Lap Number": "41",
-        "Driver ID": "zhou",
-        "Time": "1:31.151",
-        "Position": "18"
-    },
-    {
-        "Circuit ID": "silverstone",
-        "Round": "12",
-        "Lap Number": "42",
-        "Driver ID": "zhou",
-        "Time": "1:31.121",
-        "Position": "18"
-    },
-    {
-        "Circuit ID": "silverstone",
-        "Round": "12",
-        "Lap Number": "43",
-        "Driver ID": "zhou",
-        "Time": "1:31.014",
-        "Position": "18"
-    },
-    {
-        "Circuit ID": "silverstone",
-        "Round": "12",
-        "Lap Number": "44",
-        "Driver ID": "zhou",
-        "Time": "1:31.378",
-        "Position": "18"
-    },
-    {
-        "Circuit ID": "silverstone",
-        "Round": "12",
-        "Lap Number": "45",
-        "Driver ID": "zhou",
-        "Time": "1:31.360",
-        "Position": "18"
-    },
-    {
-        "Circuit ID": "silverstone",
-        "Round": "12",
-        "Lap Number": "46",
-        "Driver ID": "zhou",
-        "Time": "1:31.430",
-        "Position": "18"
-    },
-    {
-        "Circuit ID": "silverstone",
-        "Round": "12",
-        "Lap Number": "47",
-        "Driver ID": "zhou",
-        "Time": "1:31.283",
-        "Position": "18"
-    },
-    {
-        "Circuit ID": "silverstone",
-        "Round": "12",
-        "Lap Number": "48",
-        "Driver ID": "zhou",
-        "Time": "1:31.556",
-        "Position": "18"
-    },
-    {
-        "Circuit ID": "silverstone",
-        "Round": "12",
-        "Lap Number": "49",
-        "Driver ID": "zhou",
-        "Time": "1:32.504",
-        "Position": "18"
-    },
-    {
-        "Circuit ID": "silverstone",
-        "Round": "12",
-        "Lap Number": "50",
-        "Driver ID": "zhou",
-        "Time": "1:31.749",
-        "Position": "18"
     },
     {
         "Circuit ID": "silverstone",

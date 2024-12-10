@@ -3,49 +3,49 @@
         "ID": "mclaren",
         "Position": "1",
         "Name": "McLaren",
-        "Points": "640",
-        "Wins": "5"
+        "Points": "666",
+        "Wins": "6"
     },
     {
         "ID": "ferrari",
         "Position": "2",
         "Name": "Ferrari",
-        "Points": "619",
+        "Points": "652",
         "Wins": "5"
     },
     {
         "ID": "red_bull",
         "Position": "3",
         "Name": "Red Bull",
-        "Points": "581",
+        "Points": "589",
         "Wins": "9"
     },
     {
         "ID": "mercedes",
         "Position": "4",
         "Name": "Mercedes",
-        "Points": "446",
+        "Points": "468",
         "Wins": "4"
     },
     {
         "ID": "aston_martin",
         "Position": "5",
         "Name": "Aston Martin",
-        "Points": "92",
+        "Points": "94",
         "Wins": "0"
     },
     {
         "ID": "alpine",
         "Position": "6",
         "Name": "Alpine F1 Team",
-        "Points": "59",
+        "Points": "65",
         "Wins": "0"
     },
     {
         "ID": "haas",
         "Position": "7",
         "Name": "Haas F1 Team",
-        "Points": "54",
+        "Points": "58",
         "Wins": "0"
     },
     {

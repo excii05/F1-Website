@@ -3,7 +3,7 @@
         "ID": "max_verstappen",
         "Position": "1",
         "Name": "Max Verstappen",
-        "Points": "429",
+        "Points": "437",
         "Wins": "9",
         "Team": "Red Bull"
     },
@@ -11,15 +11,15 @@
         "ID": "norris",
         "Position": "2",
         "Name": "Lando Norris",
-        "Points": "349",
-        "Wins": "3",
+        "Points": "374",
+        "Wins": "4",
         "Team": "McLaren"
     },
     {
         "ID": "leclerc",
         "Position": "3",
         "Name": "Charles Leclerc",
-        "Points": "341",
+        "Points": "356",
         "Wins": "3",
         "Team": "Ferrari"
     },
@@ -27,7 +27,7 @@
         "ID": "piastri",
         "Position": "4",
         "Name": "Oscar Piastri",
-        "Points": "291",
+        "Points": "292",
         "Wins": "2",
         "Team": "McLaren"
     },
@@ -35,7 +35,7 @@
         "ID": "sainz",
         "Position": "5",
         "Name": "Carlos Sainz",
-        "Points": "272",
+        "Points": "290",
         "Wins": "2",
         "Team": "Ferrari"
     },
@@ -43,7 +43,7 @@
         "ID": "russell",
         "Position": "6",
         "Name": "George Russell",
-        "Points": "235",
+        "Points": "245",
         "Wins": "2",
         "Team": "Mercedes"
     },
@@ -51,7 +51,7 @@
         "ID": "hamilton",
         "Position": "7",
         "Name": "Lewis Hamilton",
-        "Points": "211",
+        "Points": "223",
         "Wins": "2",
         "Team": "Mercedes"
     },
@@ -67,25 +67,25 @@
         "ID": "alonso",
         "Position": "9",
         "Name": "Fernando Alonso",
-        "Points": "68",
+        "Points": "70",
         "Wins": "0",
         "Team": "Aston Martin"
     },
     {
-        "ID": "hulkenberg",
-        "Position": "10",
-        "Name": "Nico Hülkenberg",
-        "Points": "37",
-        "Wins": "0",
-        "Team": "Haas F1 Team"
-    },
-    {
         "ID": "gasly",
-        "Position": "11",
+        "Position": "10",
         "Name": "Pierre Gasly",
-        "Points": "36",
+        "Points": "42",
         "Wins": "0",
         "Team": "Alpine F1 Team"
+    },
+    {
+        "ID": "hulkenberg",
+        "Position": "11",
+        "Name": "Nico Hülkenberg",
+        "Points": "41",
+        "Wins": "0",
+        "Team": "Haas F1 Team"
     },
     {
         "ID": "tsunoda",
@@ -182,5 +182,13 @@
         "Points": "0",
         "Wins": "0",
         "Team": "Williams"
+    },
+    {
+        "ID": "doohan",
+        "Position": "24",
+        "Name": "Jack Doohan",
+        "Points": "0",
+        "Wins": "0",
+        "Team": "Alpine F1 Team"
     }
 ]

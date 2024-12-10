@@ -13,36 +13,36 @@
                 "Session Key": 9465,
                 "Session Type": "Practice",
                 "Session Name": "Practice 1",
-                "Date Start": "2024-02-29T11:30:00+00:00",
-                "Date End": "2024-02-29T12:30:00+00:00"
+                "Date Start": "29.02.2024 11:30",
+                "Date End": "29.02.2024 12:30"
             },
             {
                 "Session Key": 9466,
                 "Session Type": "Practice",
                 "Session Name": "Practice 2",
-                "Date Start": "2024-02-29T15:00:00+00:00",
-                "Date End": "2024-02-29T16:00:00+00:00"
+                "Date Start": "29.02.2024 15:00",
+                "Date End": "29.02.2024 16:00"
             },
             {
                 "Session Key": 9467,
                 "Session Type": "Practice",
                 "Session Name": "Practice 3",
-                "Date Start": "2024-03-01T12:30:00+00:00",
-                "Date End": "2024-03-01T13:30:00+00:00"
+                "Date Start": "01.03.2024 12:30",
+                "Date End": "01.03.2024 13:30"
             },
             {
                 "Session Key": 9468,
                 "Session Type": "Qualifying",
                 "Session Name": "Qualifying",
-                "Date Start": "2024-03-01T16:00:00+00:00",
-                "Date End": "2024-03-01T17:00:00+00:00"
+                "Date Start": "01.03.2024 16:00",
+                "Date End": "01.03.2024 17:00"
             },
             {
                 "Session Key": 9472,
                 "Session Type": "Race",
                 "Session Name": "Race",
-                "Date Start": "2024-03-02T15:00:00+00:00",
-                "Date End": "2024-03-02T17:00:00+00:00"
+                "Date Start": "02.03.2024 15:00",
+                "Date End": "02.03.2024 17:00"
             }
         ]
     },
@@ -60,36 +60,36 @@
                 "Session Key": 9473,
                 "Session Type": "Practice",
                 "Session Name": "Practice 1",
-                "Date Start": "2024-03-07T13:30:00+00:00",
-                "Date End": "2024-03-07T14:30:00+00:00"
+                "Date Start": "07.03.2024 13:30",
+                "Date End": "07.03.2024 14:30"
             },
             {
                 "Session Key": 9474,
                 "Session Type": "Practice",
                 "Session Name": "Practice 2",
-                "Date Start": "2024-03-07T17:00:00+00:00",
-                "Date End": "2024-03-07T18:00:00+00:00"
+                "Date Start": "07.03.2024 17:00",
+                "Date End": "07.03.2024 18:00"
             },
             {
                 "Session Key": 9475,
                 "Session Type": "Practice",
                 "Session Name": "Practice 3",
-                "Date Start": "2024-03-08T13:30:00+00:00",
-                "Date End": "2024-03-08T14:30:00+00:00"
+                "Date Start": "08.03.2024 13:30",
+                "Date End": "08.03.2024 14:30"
             },
             {
                 "Session Key": 9476,
                 "Session Type": "Qualifying",
                 "Session Name": "Qualifying",
-                "Date Start": "2024-03-08T17:00:00+00:00",
-                "Date End": "2024-03-08T18:00:00+00:00"
+                "Date Start": "08.03.2024 17:00",
+                "Date End": "08.03.2024 18:00"
             },
             {
                 "Session Key": 9480,
                 "Session Type": "Race",
                 "Session Name": "Race",
-                "Date Start": "2024-03-09T17:00:00+00:00",
-                "Date End": "2024-03-09T19:00:00+00:00"
+                "Date Start": "09.03.2024 17:00",
+                "Date End": "09.03.2024 19:00"
             }
         ]
     },
@@ -107,36 +107,36 @@
                 "Session Key": 9481,
                 "Session Type": "Practice",
                 "Session Name": "Practice 1",
-                "Date Start": "2024-03-22T01:30:00+00:00",
-                "Date End": "2024-03-22T02:30:00+00:00"
+                "Date Start": "22.03.2024 01:30",
+                "Date End": "22.03.2024 02:30"
             },
             {
                 "Session Key": 9482,
                 "Session Type": "Practice",
                 "Session Name": "Practice 2",
-                "Date Start": "2024-03-22T05:00:00+00:00",
-                "Date End": "2024-03-22T06:00:00+00:00"
+                "Date Start": "22.03.2024 05:00",
+                "Date End": "22.03.2024 06:00"
             },
             {
                 "Session Key": 9483,
                 "Session Type": "Practice",
                 "Session Name": "Practice 3",
-                "Date Start": "2024-03-23T01:30:00+00:00",
-                "Date End": "2024-03-23T02:30:00+00:00"
+                "Date Start": "23.03.2024 01:30",
+                "Date End": "23.03.2024 02:30"
             },
             {
                 "Session Key": 9484,
                 "Session Type": "Qualifying",
                 "Session Name": "Qualifying",
-                "Date Start": "2024-03-23T05:00:00+00:00",
-                "Date End": "2024-03-23T06:00:00+00:00"
+                "Date Start": "23.03.2024 05:00",
+                "Date End": "23.03.2024 06:00"
             },
             {
                 "Session Key": 9488,
                 "Session Type": "Race",
                 "Session Name": "Race",
-                "Date Start": "2024-03-24T04:00:00+00:00",
-                "Date End": "2024-03-24T06:00:00+00:00"
+                "Date Start": "24.03.2024 04:00",
+                "Date End": "24.03.2024 06:00"
             }
         ]
     },
@@ -154,36 +154,36 @@
                 "Session Key": 9489,
                 "Session Type": "Practice",
                 "Session Name": "Practice 1",
-                "Date Start": "2024-04-05T02:30:00+00:00",
-                "Date End": "2024-04-05T03:30:00+00:00"
+                "Date Start": "05.04.2024 02:30",
+                "Date End": "05.04.2024 03:30"
             },
             {
                 "Session Key": 9490,
                 "Session Type": "Practice",
                 "Session Name": "Practice 2",
-                "Date Start": "2024-04-05T06:00:00+00:00",
-                "Date End": "2024-04-05T07:00:00+00:00"
+                "Date Start": "05.04.2024 06:00",
+                "Date End": "05.04.2024 07:00"
             },
             {
                 "Session Key": 9491,
                 "Session Type": "Practice",
                 "Session Name": "Practice 3",
-                "Date Start": "2024-04-06T02:30:00+00:00",
-                "Date End": "2024-04-06T03:30:00+00:00"
+                "Date Start": "06.04.2024 02:30",
+                "Date End": "06.04.2024 03:30"
             },
             {
                 "Session Key": 9492,
                 "Session Type": "Qualifying",
                 "Session Name": "Qualifying",
-                "Date Start": "2024-04-06T06:00:00+00:00",
-                "Date End": "2024-04-06T07:00:00+00:00"
+                "Date Start": "06.04.2024 06:00",
+                "Date End": "06.04.2024 07:00"
             },
             {
                 "Session Key": 9496,
                 "Session Type": "Race",
                 "Session Name": "Race",
-                "Date Start": "2024-04-07T05:00:00+00:00",
-                "Date End": "2024-04-07T07:00:00+00:00"
+                "Date Start": "07.04.2024 05:00",
+                "Date End": "07.04.2024 07:00"
             }
         ]
     },
@@ -201,36 +201,36 @@
                 "Session Key": 9663,
                 "Session Type": "Practice",
                 "Session Name": "Practice 1",
-                "Date Start": "2024-04-19T03:30:00+00:00",
-                "Date End": "2024-04-19T04:30:00+00:00"
+                "Date Start": "19.04.2024 03:30",
+                "Date End": "19.04.2024 04:30"
             },
             {
                 "Session Key": 9668,
                 "Session Type": "Qualifying",
                 "Session Name": "Sprint Qualifying",
-                "Date Start": "2024-04-19T07:30:00+00:00",
-                "Date End": "2024-04-19T08:14:00+00:00"
+                "Date Start": "19.04.2024 07:30",
+                "Date End": "19.04.2024 08:14"
             },
             {
                 "Session Key": 9672,
                 "Session Type": "Race",
                 "Session Name": "Sprint",
-                "Date Start": "2024-04-20T03:00:00+00:00",
-                "Date End": "2024-04-20T03:30:00+00:00"
+                "Date Start": "20.04.2024 03:00",
+                "Date End": "20.04.2024 03:30"
             },
             {
                 "Session Key": 9664,
                 "Session Type": "Qualifying",
                 "Session Name": "Qualifying",
-                "Date Start": "2024-04-20T07:00:00+00:00",
-                "Date End": "2024-04-20T08:00:00+00:00"
+                "Date Start": "20.04.2024 07:00",
+                "Date End": "20.04.2024 08:00"
             },
             {
                 "Session Key": 9673,
                 "Session Type": "Race",
                 "Session Name": "Race",
-                "Date Start": "2024-04-21T07:00:00+00:00",
-                "Date End": "2024-04-21T09:00:00+00:00"
+                "Date Start": "21.04.2024 07:00",
+                "Date End": "21.04.2024 09:00"
             }
         ]
     },
@@ -259,71 +259,71 @@
                 "Session Key": 9508,
                 "Session Type": "Practice",
                 "Session Name": "Practice 1",
-                "Date Start": "2024-05-17T11:30:00+00:00",
-                "Date End": "2024-05-17T12:30:00+00:00"
+                "Date Start": "17.05.2024 11:30",
+                "Date End": "17.05.2024 12:30"
             },
             {
                 "Session Key": 9509,
                 "Session Type": "Practice",
                 "Session Name": "Practice 2",
-                "Date Start": "2024-05-17T15:00:00+00:00",
-                "Date End": "2024-05-17T16:00:00+00:00"
+                "Date Start": "17.05.2024 15:00",
+                "Date End": "17.05.2024 16:00"
             },
             {
                 "Session Key": 9510,
                 "Session Type": "Practice",
                 "Session Name": "Practice 3",
-                "Date Start": "2024-05-18T10:30:00+00:00",
-                "Date End": "2024-05-18T11:30:00+00:00"
+                "Date Start": "18.05.2024 10:30",
+                "Date End": "18.05.2024 11:30"
             },
             {
                 "Session Key": 9511,
                 "Session Type": "Qualifying",
                 "Session Name": "Qualifying",
-                "Date Start": "2024-05-18T14:00:00+00:00",
-                "Date End": "2024-05-18T15:00:00+00:00"
+                "Date Start": "18.05.2024 14:00",
+                "Date End": "18.05.2024 15:00"
             },
             {
                 "Session Key": 9515,
                 "Session Type": "Race",
                 "Session Name": "Race",
-                "Date Start": "2024-05-19T13:00:00+00:00",
-                "Date End": "2024-05-19T15:00:00+00:00"
+                "Date Start": "19.05.2024 13:00",
+                "Date End": "19.05.2024 15:00"
             },
             {
                 "Session Key": 9583,
                 "Session Type": "Practice",
                 "Session Name": "Practice 1",
-                "Date Start": "2024-08-30T11:30:00+00:00",
-                "Date End": "2024-08-30T12:30:00+00:00"
+                "Date Start": "30.08.2024 11:30",
+                "Date End": "30.08.2024 12:30"
             },
             {
                 "Session Key": 9584,
                 "Session Type": "Practice",
                 "Session Name": "Practice 2",
-                "Date Start": "2024-08-30T15:00:00+00:00",
-                "Date End": "2024-08-30T16:00:00+00:00"
+                "Date Start": "30.08.2024 15:00",
+                "Date End": "30.08.2024 16:00"
             },
             {
                 "Session Key": 9585,
                 "Session Type": "Practice",
                 "Session Name": "Practice 3",
-                "Date Start": "2024-08-31T10:30:00+00:00",
-                "Date End": "2024-08-31T11:30:00+00:00"
+                "Date Start": "31.08.2024 10:30",
+                "Date End": "31.08.2024 11:30"
             },
             {
                 "Session Key": 9586,
                 "Session Type": "Qualifying",
                 "Session Name": "Qualifying",
-                "Date Start": "2024-08-31T14:00:00+00:00",
-                "Date End": "2024-08-31T15:00:00+00:00"
+                "Date Start": "31.08.2024 14:00",
+                "Date End": "31.08.2024 15:00"
             },
             {
                 "Session Key": 9590,
                 "Session Type": "Race",
                 "Session Name": "Race",
-                "Date Start": "2024-09-01T13:00:00+00:00",
-                "Date End": "2024-09-01T15:00:00+00:00"
+                "Date Start": "01.09.2024 13:00",
+                "Date End": "01.09.2024 15:00"
             }
         ]
     },
@@ -341,36 +341,36 @@
                 "Session Key": 9516,
                 "Session Type": "Practice",
                 "Session Name": "Practice 1",
-                "Date Start": "2024-05-24T11:30:00+00:00",
-                "Date End": "2024-05-24T12:30:00+00:00"
+                "Date Start": "24.05.2024 11:30",
+                "Date End": "24.05.2024 12:30"
             },
             {
                 "Session Key": 9517,
                 "Session Type": "Practice",
                 "Session Name": "Practice 2",
-                "Date Start": "2024-05-24T15:00:00+00:00",
-                "Date End": "2024-05-24T16:00:00+00:00"
+                "Date Start": "24.05.2024 15:00",
+                "Date End": "24.05.2024 16:00"
             },
             {
                 "Session Key": 9518,
                 "Session Type": "Practice",
                 "Session Name": "Practice 3",
-                "Date Start": "2024-05-25T10:30:00+00:00",
-                "Date End": "2024-05-25T11:30:00+00:00"
+                "Date Start": "25.05.2024 10:30",
+                "Date End": "25.05.2024 11:30"
             },
             {
                 "Session Key": 9519,
                 "Session Type": "Qualifying",
                 "Session Name": "Qualifying",
-                "Date Start": "2024-05-25T14:00:00+00:00",
-                "Date End": "2024-05-25T15:00:00+00:00"
+                "Date Start": "25.05.2024 14:00",
+                "Date End": "25.05.2024 15:00"
             },
             {
                 "Session Key": 9523,
                 "Session Type": "Race",
                 "Session Name": "Race",
-                "Date Start": "2024-05-26T13:00:00+00:00",
-                "Date End": "2024-05-26T15:00:00+00:00"
+                "Date Start": "26.05.2024 13:00",
+                "Date End": "26.05.2024 15:00"
             }
         ]
     },
@@ -388,36 +388,36 @@
                 "Session Key": 9524,
                 "Session Type": "Practice",
                 "Session Name": "Practice 1",
-                "Date Start": "2024-06-07T17:30:00+00:00",
-                "Date End": "2024-06-07T18:30:00+00:00"
+                "Date Start": "07.06.2024 17:30",
+                "Date End": "07.06.2024 18:30"
             },
             {
                 "Session Key": 9525,
                 "Session Type": "Practice",
                 "Session Name": "Practice 2",
-                "Date Start": "2024-06-07T21:00:00+00:00",
-                "Date End": "2024-06-07T22:00:00+00:00"
+                "Date Start": "07.06.2024 21:00",
+                "Date End": "07.06.2024 22:00"
             },
             {
                 "Session Key": 9526,
                 "Session Type": "Practice",
                 "Session Name": "Practice 3",
-                "Date Start": "2024-06-08T16:30:00+00:00",
-                "Date End": "2024-06-08T17:30:00+00:00"
+                "Date Start": "08.06.2024 16:30",
+                "Date End": "08.06.2024 17:30"
             },
             {
                 "Session Key": 9527,
                 "Session Type": "Qualifying",
                 "Session Name": "Qualifying",
-                "Date Start": "2024-06-08T20:00:00+00:00",
-                "Date End": "2024-06-08T21:00:00+00:00"
+                "Date Start": "08.06.2024 20:00",
+                "Date End": "08.06.2024 21:00"
             },
             {
                 "Session Key": 9531,
                 "Session Type": "Race",
                 "Session Name": "Race",
-                "Date Start": "2024-06-09T18:00:00+00:00",
-                "Date End": "2024-06-09T20:00:00+00:00"
+                "Date Start": "09.06.2024 18:00",
+                "Date End": "09.06.2024 20:00"
             }
         ]
     },
@@ -435,36 +435,36 @@
                 "Session Key": 9532,
                 "Session Type": "Practice",
                 "Session Name": "Practice 1",
-                "Date Start": "2024-06-21T11:30:00+00:00",
-                "Date End": "2024-06-21T12:30:00+00:00"
+                "Date Start": "21.06.2024 11:30",
+                "Date End": "21.06.2024 12:30"
             },
             {
                 "Session Key": 9533,
                 "Session Type": "Practice",
                 "Session Name": "Practice 2",
-                "Date Start": "2024-06-21T15:00:00+00:00",
-                "Date End": "2024-06-21T16:00:00+00:00"
+                "Date Start": "21.06.2024 15:00",
+                "Date End": "21.06.2024 16:00"
             },
             {
                 "Session Key": 9534,
                 "Session Type": "Practice",
                 "Session Name": "Practice 3",
-                "Date Start": "2024-06-22T10:30:00+00:00",
-                "Date End": "2024-06-22T11:30:00+00:00"
+                "Date Start": "22.06.2024 10:30",
+                "Date End": "22.06.2024 11:30"
             },
             {
                 "Session Key": 9535,
                 "Session Type": "Qualifying",
                 "Session Name": "Qualifying",
-                "Date Start": "2024-06-22T14:00:00+00:00",
-                "Date End": "2024-06-22T15:00:00+00:00"
+                "Date Start": "22.06.2024 14:00",
+                "Date End": "22.06.2024 15:00"
             },
             {
                 "Session Key": 9539,
                 "Session Type": "Race",
                 "Session Name": "Race",
-                "Date Start": "2024-06-23T13:00:00+00:00",
-                "Date End": "2024-06-23T15:00:00+00:00"
+                "Date Start": "23.06.2024 13:00",
+                "Date End": "23.06.2024 15:00"
             }
         ]
     },
@@ -482,36 +482,36 @@
                 "Session Key": 9540,
                 "Session Type": "Practice",
                 "Session Name": "Practice 1",
-                "Date Start": "2024-06-28T10:30:00+00:00",
-                "Date End": "2024-06-28T11:30:00+00:00"
+                "Date Start": "28.06.2024 10:30",
+                "Date End": "28.06.2024 11:30"
             },
             {
                 "Session Key": 9545,
                 "Session Type": "Qualifying",
                 "Session Name": "Sprint Qualifying",
-                "Date Start": "2024-06-28T14:30:00+00:00",
-                "Date End": "2024-06-28T15:14:00+00:00"
+                "Date Start": "28.06.2024 14:30",
+                "Date End": "28.06.2024 15:14"
             },
             {
                 "Session Key": 9549,
                 "Session Type": "Race",
                 "Session Name": "Sprint",
-                "Date Start": "2024-06-29T10:00:00+00:00",
-                "Date End": "2024-06-29T10:30:00+00:00"
+                "Date Start": "29.06.2024 10:00",
+                "Date End": "29.06.2024 10:30"
             },
             {
                 "Session Key": 9541,
                 "Session Type": "Qualifying",
                 "Session Name": "Qualifying",
-                "Date Start": "2024-06-29T14:00:00+00:00",
-                "Date End": "2024-06-29T15:00:00+00:00"
+                "Date Start": "29.06.2024 14:00",
+                "Date End": "29.06.2024 15:00"
             },
             {
                 "Session Key": 9550,
                 "Session Type": "Race",
                 "Session Name": "Race",
-                "Date Start": "2024-06-30T13:00:00+00:00",
-                "Date End": "2024-06-30T15:00:00+00:00"
+                "Date Start": "30.06.2024 13:00",
+                "Date End": "30.06.2024 15:00"
             }
         ]
     },
@@ -540,36 +540,36 @@
                 "Session Key": 9559,
                 "Session Type": "Practice",
                 "Session Name": "Practice 1",
-                "Date Start": "2024-07-19T11:30:00+00:00",
-                "Date End": "2024-07-19T12:30:00+00:00"
+                "Date Start": "19.07.2024 11:30",
+                "Date End": "19.07.2024 12:30"
             },
             {
                 "Session Key": 9560,
                 "Session Type": "Practice",
                 "Session Name": "Practice 2",
-                "Date Start": "2024-07-19T15:00:00+00:00",
-                "Date End": "2024-07-19T16:00:00+00:00"
+                "Date Start": "19.07.2024 15:00",
+                "Date End": "19.07.2024 16:00"
             },
             {
                 "Session Key": 9561,
                 "Session Type": "Practice",
                 "Session Name": "Practice 3",
-                "Date Start": "2024-07-20T10:30:00+00:00",
-                "Date End": "2024-07-20T11:30:00+00:00"
+                "Date Start": "20.07.2024 10:30",
+                "Date End": "20.07.2024 11:30"
             },
             {
                 "Session Key": 9562,
                 "Session Type": "Qualifying",
                 "Session Name": "Qualifying",
-                "Date Start": "2024-07-20T14:00:00+00:00",
-                "Date End": "2024-07-20T15:00:00+00:00"
+                "Date Start": "20.07.2024 14:00",
+                "Date End": "20.07.2024 15:00"
             },
             {
                 "Session Key": 9566,
                 "Session Type": "Race",
                 "Session Name": "Race",
-                "Date Start": "2024-07-21T13:00:00+00:00",
-                "Date End": "2024-07-21T15:00:00+00:00"
+                "Date Start": "21.07.2024 13:00",
+                "Date End": "21.07.2024 15:00"
             }
         ]
     },
@@ -587,36 +587,36 @@
                 "Session Key": 9567,
                 "Session Type": "Practice",
                 "Session Name": "Practice 1",
-                "Date Start": "2024-07-26T11:30:00+00:00",
-                "Date End": "2024-07-26T12:30:00+00:00"
+                "Date Start": "26.07.2024 11:30",
+                "Date End": "26.07.2024 12:30"
             },
             {
                 "Session Key": 9568,
                 "Session Type": "Practice",
                 "Session Name": "Practice 2",
-                "Date Start": "2024-07-26T15:00:00+00:00",
-                "Date End": "2024-07-26T16:00:00+00:00"
+                "Date Start": "26.07.2024 15:00",
+                "Date End": "26.07.2024 16:00"
             },
             {
                 "Session Key": 9569,
                 "Session Type": "Practice",
                 "Session Name": "Practice 3",
-                "Date Start": "2024-07-27T10:30:00+00:00",
-                "Date End": "2024-07-27T11:30:00+00:00"
+                "Date Start": "27.07.2024 10:30",
+                "Date End": "27.07.2024 11:30"
             },
             {
                 "Session Key": 9570,
                 "Session Type": "Qualifying",
                 "Session Name": "Qualifying",
-                "Date Start": "2024-07-27T14:00:00+00:00",
-                "Date End": "2024-07-27T15:00:00+00:00"
+                "Date Start": "27.07.2024 14:00",
+                "Date End": "27.07.2024 15:00"
             },
             {
                 "Session Key": 9574,
                 "Session Type": "Race",
                 "Session Name": "Race",
-                "Date Start": "2024-07-28T13:00:00+00:00",
-                "Date End": "2024-07-28T15:00:00+00:00"
+                "Date Start": "28.07.2024 13:00",
+                "Date End": "28.07.2024 15:00"
             }
         ]
     },
@@ -634,36 +634,36 @@
                 "Session Key": 9575,
                 "Session Type": "Practice",
                 "Session Name": "Practice 1",
-                "Date Start": "2024-08-23T10:30:00+00:00",
-                "Date End": "2024-08-23T11:30:00+00:00"
+                "Date Start": "23.08.2024 10:30",
+                "Date End": "23.08.2024 11:30"
             },
             {
                 "Session Key": 9576,
                 "Session Type": "Practice",
                 "Session Name": "Practice 2",
-                "Date Start": "2024-08-23T14:00:00+00:00",
-                "Date End": "2024-08-23T15:00:00+00:00"
+                "Date Start": "23.08.2024 14:00",
+                "Date End": "23.08.2024 15:00"
             },
             {
                 "Session Key": 9577,
                 "Session Type": "Practice",
                 "Session Name": "Practice 3",
-                "Date Start": "2024-08-24T09:30:00+00:00",
-                "Date End": "2024-08-24T10:30:00+00:00"
+                "Date Start": "24.08.2024 09:30",
+                "Date End": "24.08.2024 10:30"
             },
             {
                 "Session Key": 9578,
                 "Session Type": "Qualifying",
                 "Session Name": "Qualifying",
-                "Date Start": "2024-08-24T13:00:00+00:00",
-                "Date End": "2024-08-24T14:00:00+00:00"
+                "Date Start": "24.08.2024 13:00",
+                "Date End": "24.08.2024 14:00"
             },
             {
                 "Session Key": 9582,
                 "Session Type": "Race",
                 "Session Name": "Race",
-                "Date Start": "2024-08-25T13:00:00+00:00",
-                "Date End": "2024-08-25T15:00:00+00:00"
+                "Date Start": "25.08.2024 13:00",
+                "Date End": "25.08.2024 15:00"
             }
         ]
     },
@@ -681,71 +681,71 @@
                 "Session Key": 9508,
                 "Session Type": "Practice",
                 "Session Name": "Practice 1",
-                "Date Start": "2024-05-17T11:30:00+00:00",
-                "Date End": "2024-05-17T12:30:00+00:00"
+                "Date Start": "17.05.2024 11:30",
+                "Date End": "17.05.2024 12:30"
             },
             {
                 "Session Key": 9509,
                 "Session Type": "Practice",
                 "Session Name": "Practice 2",
-                "Date Start": "2024-05-17T15:00:00+00:00",
-                "Date End": "2024-05-17T16:00:00+00:00"
+                "Date Start": "17.05.2024 15:00",
+                "Date End": "17.05.2024 16:00"
             },
             {
                 "Session Key": 9510,
                 "Session Type": "Practice",
                 "Session Name": "Practice 3",
-                "Date Start": "2024-05-18T10:30:00+00:00",
-                "Date End": "2024-05-18T11:30:00+00:00"
+                "Date Start": "18.05.2024 10:30",
+                "Date End": "18.05.2024 11:30"
             },
             {
                 "Session Key": 9511,
                 "Session Type": "Qualifying",
                 "Session Name": "Qualifying",
-                "Date Start": "2024-05-18T14:00:00+00:00",
-                "Date End": "2024-05-18T15:00:00+00:00"
+                "Date Start": "18.05.2024 14:00",
+                "Date End": "18.05.2024 15:00"
             },
             {
                 "Session Key": 9515,
                 "Session Type": "Race",
                 "Session Name": "Race",
-                "Date Start": "2024-05-19T13:00:00+00:00",
-                "Date End": "2024-05-19T15:00:00+00:00"
+                "Date Start": "19.05.2024 13:00",
+                "Date End": "19.05.2024 15:00"
             },
             {
                 "Session Key": 9583,
                 "Session Type": "Practice",
                 "Session Name": "Practice 1",
-                "Date Start": "2024-08-30T11:30:00+00:00",
-                "Date End": "2024-08-30T12:30:00+00:00"
+                "Date Start": "30.08.2024 11:30",
+                "Date End": "30.08.2024 12:30"
             },
             {
                 "Session Key": 9584,
                 "Session Type": "Practice",
                 "Session Name": "Practice 2",
-                "Date Start": "2024-08-30T15:00:00+00:00",
-                "Date End": "2024-08-30T16:00:00+00:00"
+                "Date Start": "30.08.2024 15:00",
+                "Date End": "30.08.2024 16:00"
             },
             {
                 "Session Key": 9585,
                 "Session Type": "Practice",
                 "Session Name": "Practice 3",
-                "Date Start": "2024-08-31T10:30:00+00:00",
-                "Date End": "2024-08-31T11:30:00+00:00"
+                "Date Start": "31.08.2024 10:30",
+                "Date End": "31.08.2024 11:30"
             },
             {
                 "Session Key": 9586,
                 "Session Type": "Qualifying",
                 "Session Name": "Qualifying",
-                "Date Start": "2024-08-31T14:00:00+00:00",
-                "Date End": "2024-08-31T15:00:00+00:00"
+                "Date Start": "31.08.2024 14:00",
+                "Date End": "31.08.2024 15:00"
             },
             {
                 "Session Key": 9590,
                 "Session Type": "Race",
                 "Session Name": "Race",
-                "Date Start": "2024-09-01T13:00:00+00:00",
-                "Date End": "2024-09-01T15:00:00+00:00"
+                "Date Start": "01.09.2024 13:00",
+                "Date End": "01.09.2024 15:00"
             }
         ]
     },
@@ -763,36 +763,36 @@
                 "Session Key": 9591,
                 "Session Type": "Practice",
                 "Session Name": "Practice 1",
-                "Date Start": "2024-09-13T09:30:00+00:00",
-                "Date End": "2024-09-13T10:30:00+00:00"
+                "Date Start": "13.09.2024 09:30",
+                "Date End": "13.09.2024 10:30"
             },
             {
                 "Session Key": 9592,
                 "Session Type": "Practice",
                 "Session Name": "Practice 2",
-                "Date Start": "2024-09-13T13:00:00+00:00",
-                "Date End": "2024-09-13T14:00:00+00:00"
+                "Date Start": "13.09.2024 13:00",
+                "Date End": "13.09.2024 14:00"
             },
             {
                 "Session Key": 9593,
                 "Session Type": "Practice",
                 "Session Name": "Practice 3",
-                "Date Start": "2024-09-14T08:30:00+00:00",
-                "Date End": "2024-09-14T09:30:00+00:00"
+                "Date Start": "14.09.2024 08:30",
+                "Date End": "14.09.2024 09:30"
             },
             {
                 "Session Key": 9594,
                 "Session Type": "Qualifying",
                 "Session Name": "Qualifying",
-                "Date Start": "2024-09-14T12:00:00+00:00",
-                "Date End": "2024-09-14T13:00:00+00:00"
+                "Date Start": "14.09.2024 12:00",
+                "Date End": "14.09.2024 13:00"
             },
             {
                 "Session Key": 9598,
                 "Session Type": "Race",
                 "Session Name": "Race",
-                "Date Start": "2024-09-15T11:00:00+00:00",
-                "Date End": "2024-09-15T13:00:00+00:00"
+                "Date Start": "15.09.2024 11:00",
+                "Date End": "15.09.2024 13:00"
             }
         ]
     },
@@ -810,36 +810,36 @@
                 "Session Key": 9599,
                 "Session Type": "Practice",
                 "Session Name": "Practice 1",
-                "Date Start": "2024-09-20T09:30:00+00:00",
-                "Date End": "2024-09-20T10:30:00+00:00"
+                "Date Start": "20.09.2024 09:30",
+                "Date End": "20.09.2024 10:30"
             },
             {
                 "Session Key": 9600,
                 "Session Type": "Practice",
                 "Session Name": "Practice 2",
-                "Date Start": "2024-09-20T13:00:00+00:00",
-                "Date End": "2024-09-20T14:00:00+00:00"
+                "Date Start": "20.09.2024 13:00",
+                "Date End": "20.09.2024 14:00"
             },
             {
                 "Session Key": 9601,
                 "Session Type": "Practice",
                 "Session Name": "Practice 3",
-                "Date Start": "2024-09-21T09:30:00+00:00",
-                "Date End": "2024-09-21T10:30:00+00:00"
+                "Date Start": "21.09.2024 09:30",
+                "Date End": "21.09.2024 10:30"
             },
             {
                 "Session Key": 9602,
                 "Session Type": "Qualifying",
                 "Session Name": "Qualifying",
-                "Date Start": "2024-09-21T13:00:00+00:00",
-                "Date End": "2024-09-21T14:00:00+00:00"
+                "Date Start": "21.09.2024 13:00",
+                "Date End": "21.09.2024 14:00"
             },
             {
                 "Session Key": 9606,
                 "Session Type": "Race",
                 "Session Name": "Race",
-                "Date Start": "2024-09-22T12:00:00+00:00",
-                "Date End": "2024-09-22T14:00:00+00:00"
+                "Date Start": "22.09.2024 12:00",
+                "Date End": "22.09.2024 14:00"
             }
         ]
     },
@@ -868,36 +868,36 @@
                 "Session Key": 9618,
                 "Session Type": "Practice",
                 "Session Name": "Practice 1",
-                "Date Start": "2024-10-25T18:30:00+00:00",
-                "Date End": "2024-10-25T19:30:00+00:00"
+                "Date Start": "25.10.2024 18:30",
+                "Date End": "25.10.2024 19:30"
             },
             {
                 "Session Key": 9619,
                 "Session Type": "Practice",
                 "Session Name": "Practice 2",
-                "Date Start": "2024-10-25T22:00:00+00:00",
-                "Date End": "2024-10-25T23:00:00+00:00"
+                "Date Start": "25.10.2024 22:00",
+                "Date End": "25.10.2024 23:00"
             },
             {
                 "Session Key": 9620,
                 "Session Type": "Practice",
                 "Session Name": "Practice 3",
-                "Date Start": "2024-10-26T17:30:00+00:00",
-                "Date End": "2024-10-26T18:30:00+00:00"
+                "Date Start": "26.10.2024 17:30",
+                "Date End": "26.10.2024 18:30"
             },
             {
                 "Session Key": 9621,
                 "Session Type": "Qualifying",
                 "Session Name": "Qualifying",
-                "Date Start": "2024-10-26T21:00:00+00:00",
-                "Date End": "2024-10-26T22:00:00+00:00"
+                "Date Start": "26.10.2024 21:00",
+                "Date End": "26.10.2024 22:00"
             },
             {
                 "Session Key": 9625,
                 "Session Type": "Race",
                 "Session Name": "Race",
-                "Date Start": "2024-10-27T20:00:00+00:00",
-                "Date End": "2024-10-27T22:00:00+00:00"
+                "Date Start": "27.10.2024 20:00",
+                "Date End": "27.10.2024 22:00"
             }
         ]
     },
@@ -915,36 +915,36 @@
                 "Session Key": 9626,
                 "Session Type": "Practice",
                 "Session Name": "Practice 1",
-                "Date Start": "2024-11-01T14:30:00+00:00",
-                "Date End": "2024-11-01T15:30:00+00:00"
+                "Date Start": "01.11.2024 14:30",
+                "Date End": "01.11.2024 15:30"
             },
             {
                 "Session Key": 9631,
                 "Session Type": "Qualifying",
                 "Session Name": "Sprint Qualifying",
-                "Date Start": "2024-11-01T18:30:00+00:00",
-                "Date End": "2024-11-01T19:14:00+00:00"
+                "Date Start": "01.11.2024 18:30",
+                "Date End": "01.11.2024 19:14"
             },
             {
                 "Session Key": 9635,
                 "Session Type": "Race",
                 "Session Name": "Sprint",
-                "Date Start": "2024-11-02T14:00:00+00:00",
-                "Date End": "2024-11-02T15:00:00+00:00"
+                "Date Start": "02.11.2024 14:00",
+                "Date End": "02.11.2024 15:00"
             },
             {
                 "Session Key": 9627,
                 "Session Type": "Qualifying",
                 "Session Name": "Qualifying",
-                "Date Start": "2024-11-02T18:00:00+00:00",
-                "Date End": "2024-11-02T19:00:00+00:00"
+                "Date Start": "02.11.2024 18:00",
+                "Date End": "02.11.2024 19:00"
             },
             {
                 "Session Key": 9636,
                 "Session Type": "Race",
                 "Session Name": "Race",
-                "Date Start": "2024-11-03T15:30:00+00:00",
-                "Date End": "2024-11-03T17:30:00+00:00"
+                "Date Start": "03.11.2024 15:30",
+                "Date End": "03.11.2024 17:30"
             }
         ]
     },
@@ -962,106 +962,106 @@
                 "Session Key": 9497,
                 "Session Type": "Practice",
                 "Session Name": "Practice 1",
-                "Date Start": "2024-05-03T16:30:00+00:00",
-                "Date End": "2024-05-03T17:30:00+00:00"
+                "Date Start": "03.05.2024 16:30",
+                "Date End": "03.05.2024 17:30"
             },
             {
                 "Session Key": 9502,
                 "Session Type": "Qualifying",
                 "Session Name": "Sprint Qualifying",
-                "Date Start": "2024-05-03T20:30:00+00:00",
-                "Date End": "2024-05-03T21:14:00+00:00"
+                "Date Start": "03.05.2024 20:30",
+                "Date End": "03.05.2024 21:14"
             },
             {
                 "Session Key": 9506,
                 "Session Type": "Race",
                 "Session Name": "Sprint",
-                "Date Start": "2024-05-04T16:00:00+00:00",
-                "Date End": "2024-05-04T16:30:00+00:00"
+                "Date Start": "04.05.2024 16:00",
+                "Date End": "04.05.2024 16:30"
             },
             {
                 "Session Key": 9498,
                 "Session Type": "Qualifying",
                 "Session Name": "Qualifying",
-                "Date Start": "2024-05-04T20:00:00+00:00",
-                "Date End": "2024-05-04T21:00:00+00:00"
+                "Date Start": "04.05.2024 20:00",
+                "Date End": "04.05.2024 21:00"
             },
             {
                 "Session Key": 9507,
                 "Session Type": "Race",
                 "Session Name": "Race",
-                "Date Start": "2024-05-05T20:00:00+00:00",
-                "Date End": "2024-05-05T22:00:00+00:00"
+                "Date Start": "05.05.2024 20:00",
+                "Date End": "05.05.2024 22:00"
             },
             {
                 "Session Key": 9607,
                 "Session Type": "Practice",
                 "Session Name": "Practice 1",
-                "Date Start": "2024-10-18T17:30:00+00:00",
-                "Date End": "2024-10-18T18:30:00+00:00"
+                "Date Start": "18.10.2024 17:30",
+                "Date End": "18.10.2024 18:30"
             },
             {
                 "Session Key": 9612,
                 "Session Type": "Qualifying",
                 "Session Name": "Sprint Qualifying",
-                "Date Start": "2024-10-18T21:30:00+00:00",
-                "Date End": "2024-10-18T22:14:00+00:00"
+                "Date Start": "18.10.2024 21:30",
+                "Date End": "18.10.2024 22:14"
             },
             {
                 "Session Key": 9616,
                 "Session Type": "Race",
                 "Session Name": "Sprint",
-                "Date Start": "2024-10-19T18:00:00+00:00",
-                "Date End": "2024-10-19T19:00:00+00:00"
+                "Date Start": "19.10.2024 18:00",
+                "Date End": "19.10.2024 19:00"
             },
             {
                 "Session Key": 9608,
                 "Session Type": "Qualifying",
                 "Session Name": "Qualifying",
-                "Date Start": "2024-10-19T22:00:00+00:00",
-                "Date End": "2024-10-19T23:00:00+00:00"
+                "Date Start": "19.10.2024 22:00",
+                "Date End": "19.10.2024 23:00"
             },
             {
                 "Session Key": 9617,
                 "Session Type": "Race",
                 "Session Name": "Race",
-                "Date Start": "2024-10-20T19:00:00+00:00",
-                "Date End": "2024-10-20T21:00:00+00:00"
+                "Date Start": "20.10.2024 19:00",
+                "Date End": "20.10.2024 21:00"
             },
             {
                 "Session Key": 9637,
                 "Session Type": "Practice",
                 "Session Name": "Practice 1",
-                "Date Start": "2024-11-22T02:30:00+00:00",
-                "Date End": "2024-11-22T03:30:00+00:00"
+                "Date Start": "22.11.2024 02:30",
+                "Date End": "22.11.2024 03:30"
             },
             {
                 "Session Key": 9638,
                 "Session Type": "Practice",
                 "Session Name": "Practice 2",
-                "Date Start": "2024-11-22T06:00:00+00:00",
-                "Date End": "2024-11-22T07:00:00+00:00"
+                "Date Start": "22.11.2024 06:00",
+                "Date End": "22.11.2024 07:00"
             },
             {
                 "Session Key": 9639,
                 "Session Type": "Practice",
                 "Session Name": "Practice 3",
-                "Date Start": "2024-11-23T02:30:00+00:00",
-                "Date End": "2024-11-23T03:30:00+00:00"
+                "Date Start": "23.11.2024 02:30",
+                "Date End": "23.11.2024 03:30"
             },
             {
                 "Session Key": 9640,
                 "Session Type": "Qualifying",
                 "Session Name": "Qualifying",
-                "Date Start": "2024-11-23T06:00:00+00:00",
-                "Date End": "2024-11-23T07:00:00+00:00"
+                "Date Start": "23.11.2024 06:00",
+                "Date End": "23.11.2024 07:00"
             },
             {
                 "Session Key": 9644,
                 "Session Type": "Race",
                 "Session Name": "Race",
-                "Date Start": "2024-11-24T06:00:00+00:00",
-                "Date End": "2024-11-24T08:00:00+00:00"
+                "Date Start": "24.11.2024 06:00",
+                "Date End": "24.11.2024 08:00"
             }
         ]
     },
@@ -1079,36 +1079,36 @@
                 "Session Key": 9645,
                 "Session Type": "Practice",
                 "Session Name": "Practice 1",
-                "Date Start": "2024-11-29T13:30:00+00:00",
-                "Date End": "2024-11-29T14:30:00+00:00"
+                "Date Start": "29.11.2024 13:30",
+                "Date End": "29.11.2024 14:30"
             },
             {
                 "Session Key": 9650,
                 "Session Type": "Qualifying",
                 "Session Name": "Sprint Qualifying",
-                "Date Start": "2024-11-29T17:30:00+00:00",
-                "Date End": "2024-11-29T18:14:00+00:00"
+                "Date Start": "29.11.2024 17:30",
+                "Date End": "29.11.2024 18:14"
             },
             {
                 "Session Key": 9654,
                 "Session Type": "Race",
                 "Session Name": "Sprint",
-                "Date Start": "2024-11-30T14:00:00+00:00",
-                "Date End": "2024-11-30T15:00:00+00:00"
+                "Date Start": "30.11.2024 14:00",
+                "Date End": "30.11.2024 15:00"
             },
             {
                 "Session Key": 9646,
                 "Session Type": "Qualifying",
                 "Session Name": "Qualifying",
-                "Date Start": "2024-11-30T18:00:00+00:00",
-                "Date End": "2024-11-30T19:00:00+00:00"
+                "Date Start": "30.11.2024 18:00",
+                "Date End": "30.11.2024 19:00"
             },
             {
                 "Session Key": 9655,
                 "Session Type": "Race",
                 "Session Name": "Race",
-                "Date Start": "2024-12-01T16:00:00+00:00",
-                "Date End": "2024-12-01T18:00:00+00:00"
+                "Date Start": "01.12.2024 16:00",
+                "Date End": "01.12.2024 18:00"
             }
         ]
     },

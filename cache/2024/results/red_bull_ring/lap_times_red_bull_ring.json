@@ -9619,6 +9619,566 @@
         "Circuit ID": "red_bull_ring",
         "Round": "11",
         "Lap Number": "1",
+        "Driver ID": "alonso",
+        "Time": "1:19.908",
+        "Position": "13"
+    },
+    {
+        "Circuit ID": "red_bull_ring",
+        "Round": "11",
+        "Lap Number": "2",
+        "Driver ID": "alonso",
+        "Time": "1:12.316",
+        "Position": "14"
+    },
+    {
+        "Circuit ID": "red_bull_ring",
+        "Round": "11",
+        "Lap Number": "3",
+        "Driver ID": "alonso",
+        "Time": "1:11.424",
+        "Position": "14"
+    },
+    {
+        "Circuit ID": "red_bull_ring",
+        "Round": "11",
+        "Lap Number": "4",
+        "Driver ID": "alonso",
+        "Time": "1:11.555",
+        "Position": "14"
+    },
+    {
+        "Circuit ID": "red_bull_ring",
+        "Round": "11",
+        "Lap Number": "5",
+        "Driver ID": "alonso",
+        "Time": "1:11.505",
+        "Position": "14"
+    },
+    {
+        "Circuit ID": "red_bull_ring",
+        "Round": "11",
+        "Lap Number": "6",
+        "Driver ID": "alonso",
+        "Time": "1:11.320",
+        "Position": "14"
+    },
+    {
+        "Circuit ID": "red_bull_ring",
+        "Round": "11",
+        "Lap Number": "7",
+        "Driver ID": "alonso",
+        "Time": "1:11.712",
+        "Position": "14"
+    },
+    {
+        "Circuit ID": "red_bull_ring",
+        "Round": "11",
+        "Lap Number": "8",
+        "Driver ID": "alonso",
+        "Time": "1:11.608",
+        "Position": "14"
+    },
+    {
+        "Circuit ID": "red_bull_ring",
+        "Round": "11",
+        "Lap Number": "9",
+        "Driver ID": "alonso",
+        "Time": "1:11.485",
+        "Position": "14"
+    },
+    {
+        "Circuit ID": "red_bull_ring",
+        "Round": "11",
+        "Lap Number": "10",
+        "Driver ID": "alonso",
+        "Time": "1:11.902",
+        "Position": "13"
+    },
+    {
+        "Circuit ID": "red_bull_ring",
+        "Round": "11",
+        "Lap Number": "11",
+        "Driver ID": "alonso",
+        "Time": "1:15.343",
+        "Position": "14"
+    },
+    {
+        "Circuit ID": "red_bull_ring",
+        "Round": "11",
+        "Lap Number": "12",
+        "Driver ID": "alonso",
+        "Time": "1:27.668",
+        "Position": "18"
+    },
+    {
+        "Circuit ID": "red_bull_ring",
+        "Round": "11",
+        "Lap Number": "13",
+        "Driver ID": "alonso",
+        "Time": "1:10.912",
+        "Position": "17"
+    },
+    {
+        "Circuit ID": "red_bull_ring",
+        "Round": "11",
+        "Lap Number": "14",
+        "Driver ID": "alonso",
+        "Time": "1:11.382",
+        "Position": "17"
+    },
+    {
+        "Circuit ID": "red_bull_ring",
+        "Round": "11",
+        "Lap Number": "15",
+        "Driver ID": "alonso",
+        "Time": "1:11.189",
+        "Position": "17"
+    },
+    {
+        "Circuit ID": "red_bull_ring",
+        "Round": "11",
+        "Lap Number": "16",
+        "Driver ID": "alonso",
+        "Time": "1:11.141",
+        "Position": "17"
+    },
+    {
+        "Circuit ID": "red_bull_ring",
+        "Round": "11",
+        "Lap Number": "17",
+        "Driver ID": "alonso",
+        "Time": "1:11.285",
+        "Position": "17"
+    },
+    {
+        "Circuit ID": "red_bull_ring",
+        "Round": "11",
+        "Lap Number": "18",
+        "Driver ID": "alonso",
+        "Time": "1:11.483",
+        "Position": "17"
+    },
+    {
+        "Circuit ID": "red_bull_ring",
+        "Round": "11",
+        "Lap Number": "19",
+        "Driver ID": "alonso",
+        "Time": "1:11.380",
+        "Position": "17"
+    },
+    {
+        "Circuit ID": "red_bull_ring",
+        "Round": "11",
+        "Lap Number": "20",
+        "Driver ID": "alonso",
+        "Time": "1:11.521",
+        "Position": "14"
+    },
+    {
+        "Circuit ID": "red_bull_ring",
+        "Round": "11",
+        "Lap Number": "21",
+        "Driver ID": "alonso",
+        "Time": "1:11.425",
+        "Position": "12"
+    },
+    {
+        "Circuit ID": "red_bull_ring",
+        "Round": "11",
+        "Lap Number": "22",
+        "Driver ID": "alonso",
+        "Time": "1:12.107",
+        "Position": "11"
+    },
+    {
+        "Circuit ID": "red_bull_ring",
+        "Round": "11",
+        "Lap Number": "23",
+        "Driver ID": "alonso",
+        "Time": "1:11.324",
+        "Position": "11"
+    },
+    {
+        "Circuit ID": "red_bull_ring",
+        "Round": "11",
+        "Lap Number": "24",
+        "Driver ID": "alonso",
+        "Time": "1:11.348",
+        "Position": "11"
+    },
+    {
+        "Circuit ID": "red_bull_ring",
+        "Round": "11",
+        "Lap Number": "25",
+        "Driver ID": "alonso",
+        "Time": "1:11.516",
+        "Position": "11"
+    },
+    {
+        "Circuit ID": "red_bull_ring",
+        "Round": "11",
+        "Lap Number": "26",
+        "Driver ID": "alonso",
+        "Time": "1:11.741",
+        "Position": "11"
+    },
+    {
+        "Circuit ID": "red_bull_ring",
+        "Round": "11",
+        "Lap Number": "27",
+        "Driver ID": "alonso",
+        "Time": "1:11.720",
+        "Position": "11"
+    },
+    {
+        "Circuit ID": "red_bull_ring",
+        "Round": "11",
+        "Lap Number": "28",
+        "Driver ID": "alonso",
+        "Time": "1:11.693",
+        "Position": "11"
+    },
+    {
+        "Circuit ID": "red_bull_ring",
+        "Round": "11",
+        "Lap Number": "29",
+        "Driver ID": "alonso",
+        "Time": "1:12.079",
+        "Position": "11"
+    },
+    {
+        "Circuit ID": "red_bull_ring",
+        "Round": "11",
+        "Lap Number": "30",
+        "Driver ID": "alonso",
+        "Time": "1:11.771",
+        "Position": "11"
+    },
+    {
+        "Circuit ID": "red_bull_ring",
+        "Round": "11",
+        "Lap Number": "31",
+        "Driver ID": "alonso",
+        "Time": "1:11.845",
+        "Position": "11"
+    },
+    {
+        "Circuit ID": "red_bull_ring",
+        "Round": "11",
+        "Lap Number": "32",
+        "Driver ID": "alonso",
+        "Time": "1:12.000",
+        "Position": "11"
+    },
+    {
+        "Circuit ID": "red_bull_ring",
+        "Round": "11",
+        "Lap Number": "33",
+        "Driver ID": "alonso",
+        "Time": "1:11.501",
+        "Position": "11"
+    },
+    {
+        "Circuit ID": "red_bull_ring",
+        "Round": "11",
+        "Lap Number": "34",
+        "Driver ID": "alonso",
+        "Time": "1:12.440",
+        "Position": "11"
+    },
+    {
+        "Circuit ID": "red_bull_ring",
+        "Round": "11",
+        "Lap Number": "35",
+        "Driver ID": "alonso",
+        "Time": "1:18.118",
+        "Position": "16"
+    },
+    {
+        "Circuit ID": "red_bull_ring",
+        "Round": "11",
+        "Lap Number": "36",
+        "Driver ID": "alonso",
+        "Time": "1:40.992",
+        "Position": "19"
+    },
+    {
+        "Circuit ID": "red_bull_ring",
+        "Round": "11",
+        "Lap Number": "37",
+        "Driver ID": "alonso",
+        "Time": "1:10.871",
+        "Position": "18"
+    },
+    {
+        "Circuit ID": "red_bull_ring",
+        "Round": "11",
+        "Lap Number": "38",
+        "Driver ID": "alonso",
+        "Time": "1:10.908",
+        "Position": "18"
+    },
+    {
+        "Circuit ID": "red_bull_ring",
+        "Round": "11",
+        "Lap Number": "39",
+        "Driver ID": "alonso",
+        "Time": "1:10.594",
+        "Position": "18"
+    },
+    {
+        "Circuit ID": "red_bull_ring",
+        "Round": "11",
+        "Lap Number": "40",
+        "Driver ID": "alonso",
+        "Time": "1:10.861",
+        "Position": "18"
+    },
+    {
+        "Circuit ID": "red_bull_ring",
+        "Round": "11",
+        "Lap Number": "41",
+        "Driver ID": "alonso",
+        "Time": "1:10.737",
+        "Position": "18"
+    },
+    {
+        "Circuit ID": "red_bull_ring",
+        "Round": "11",
+        "Lap Number": "42",
+        "Driver ID": "alonso",
+        "Time": "1:10.588",
+        "Position": "18"
+    },
+    {
+        "Circuit ID": "red_bull_ring",
+        "Round": "11",
+        "Lap Number": "43",
+        "Driver ID": "alonso",
+        "Time": "1:10.940",
+        "Position": "17"
+    },
+    {
+        "Circuit ID": "red_bull_ring",
+        "Round": "11",
+        "Lap Number": "44",
+        "Driver ID": "alonso",
+        "Time": "1:11.365",
+        "Position": "17"
+    },
+    {
+        "Circuit ID": "red_bull_ring",
+        "Round": "11",
+        "Lap Number": "45",
+        "Driver ID": "alonso",
+        "Time": "1:12.150",
+        "Position": "17"
+    },
+    {
+        "Circuit ID": "red_bull_ring",
+        "Round": "11",
+        "Lap Number": "46",
+        "Driver ID": "alonso",
+        "Time": "1:11.329",
+        "Position": "17"
+    },
+    {
+        "Circuit ID": "red_bull_ring",
+        "Round": "11",
+        "Lap Number": "47",
+        "Driver ID": "alonso",
+        "Time": "1:11.119",
+        "Position": "17"
+    },
+    {
+        "Circuit ID": "red_bull_ring",
+        "Round": "11",
+        "Lap Number": "48",
+        "Driver ID": "alonso",
+        "Time": "1:10.576",
+        "Position": "17"
+    },
+    {
+        "Circuit ID": "red_bull_ring",
+        "Round": "11",
+        "Lap Number": "49",
+        "Driver ID": "alonso",
+        "Time": "1:10.731",
+        "Position": "17"
+    },
+    {
+        "Circuit ID": "red_bull_ring",
+        "Round": "11",
+        "Lap Number": "50",
+        "Driver ID": "alonso",
+        "Time": "1:10.914",
+        "Position": "17"
+    },
+    {
+        "Circuit ID": "red_bull_ring",
+        "Round": "11",
+        "Lap Number": "51",
+        "Driver ID": "alonso",
+        "Time": "1:12.431",
+        "Position": "17"
+    },
+    {
+        "Circuit ID": "red_bull_ring",
+        "Round": "11",
+        "Lap Number": "52",
+        "Driver ID": "alonso",
+        "Time": "1:11.568",
+        "Position": "16"
+    },
+    {
+        "Circuit ID": "red_bull_ring",
+        "Round": "11",
+        "Lap Number": "53",
+        "Driver ID": "alonso",
+        "Time": "1:11.336",
+        "Position": "16"
+    },
+    {
+        "Circuit ID": "red_bull_ring",
+        "Round": "11",
+        "Lap Number": "54",
+        "Driver ID": "alonso",
+        "Time": "1:12.380",
+        "Position": "18"
+    },
+    {
+        "Circuit ID": "red_bull_ring",
+        "Round": "11",
+        "Lap Number": "55",
+        "Driver ID": "alonso",
+        "Time": "1:10.693",
+        "Position": "18"
+    },
+    {
+        "Circuit ID": "red_bull_ring",
+        "Round": "11",
+        "Lap Number": "56",
+        "Driver ID": "alonso",
+        "Time": "1:11.399",
+        "Position": "18"
+    },
+    {
+        "Circuit ID": "red_bull_ring",
+        "Round": "11",
+        "Lap Number": "57",
+        "Driver ID": "alonso",
+        "Time": "1:12.992",
+        "Position": "18"
+    },
+    {
+        "Circuit ID": "red_bull_ring",
+        "Round": "11",
+        "Lap Number": "58",
+        "Driver ID": "alonso",
+        "Time": "1:12.769",
+        "Position": "18"
+    },
+    {
+        "Circuit ID": "red_bull_ring",
+        "Round": "11",
+        "Lap Number": "59",
+        "Driver ID": "alonso",
+        "Time": "1:12.403",
+        "Position": "18"
+    },
+    {
+        "Circuit ID": "red_bull_ring",
+        "Round": "11",
+        "Lap Number": "60",
+        "Driver ID": "alonso",
+        "Time": "1:11.964",
+        "Position": "18"
+    },
+    {
+        "Circuit ID": "red_bull_ring",
+        "Round": "11",
+        "Lap Number": "61",
+        "Driver ID": "alonso",
+        "Time": "1:11.617",
+        "Position": "18"
+    },
+    {
+        "Circuit ID": "red_bull_ring",
+        "Round": "11",
+        "Lap Number": "62",
+        "Driver ID": "alonso",
+        "Time": "1:12.025",
+        "Position": "18"
+    },
+    {
+        "Circuit ID": "red_bull_ring",
+        "Round": "11",
+        "Lap Number": "63",
+        "Driver ID": "alonso",
+        "Time": "1:12.180",
+        "Position": "18"
+    },
+    {
+        "Circuit ID": "red_bull_ring",
+        "Round": "11",
+        "Lap Number": "64",
+        "Driver ID": "alonso",
+        "Time": "1:13.162",
+        "Position": "18"
+    },
+    {
+        "Circuit ID": "red_bull_ring",
+        "Round": "11",
+        "Lap Number": "65",
+        "Driver ID": "alonso",
+        "Time": "1:28.502",
+        "Position": "17"
+    },
+    {
+        "Circuit ID": "red_bull_ring",
+        "Round": "11",
+        "Lap Number": "66",
+        "Driver ID": "alonso",
+        "Time": "1:12.709",
+        "Position": "17"
+    },
+    {
+        "Circuit ID": "red_bull_ring",
+        "Round": "11",
+        "Lap Number": "67",
+        "Driver ID": "alonso",
+        "Time": "1:11.295",
+        "Position": "17"
+    },
+    {
+        "Circuit ID": "red_bull_ring",
+        "Round": "11",
+        "Lap Number": "68",
+        "Driver ID": "alonso",
+        "Time": "1:15.636",
+        "Position": "17"
+    },
+    {
+        "Circuit ID": "red_bull_ring",
+        "Round": "11",
+        "Lap Number": "69",
+        "Driver ID": "alonso",
+        "Time": "1:30.361",
+        "Position": "18"
+    },
+    {
+        "Circuit ID": "red_bull_ring",
+        "Round": "11",
+        "Lap Number": "70",
+        "Driver ID": "alonso",
+        "Time": "1:07.694",
+        "Position": "18"
+    },
+    {
+        "Circuit ID": "red_bull_ring",
+        "Round": "11",
+        "Lap Number": "1",
         "Driver ID": "sargeant",
         "Time": "1:24.605",
         "Position": "20"
