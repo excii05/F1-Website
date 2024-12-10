@@ -20,26 +20,43 @@ logging.basicConfig(
 # Fehlerhafte Abfragen queue
 failed_queries = deque()
 
+# Daten mit Fehler-Tags
+error_tagged_data = []
+
 # Helper-Funktion für Debug-Meldungen
 def debug_message(message):
     print(message)
     logging.debug(message)
 
 # Helper-Funktion für das Verarbeiten von Fehlern
-def handle_error(context, error, keep_data=None):
+def handle_error(context, error, data=None):
     error_message = f"Error in {context}: {error}"
     debug_message(error_message)
-    if keep_data:
-        debug_message("Retaining existing data due to error.")
+    if data:
+        debug_message("Tagging data with error for future retry.")
+        data['error'] = True
+        error_tagged_data.append(data)
     failed_queries.append(context)
 
 # Fallback-Mechanismus ausführen
 def process_failed_queries():
+    # Zuerst Datensätze mit Error-Tags bearbeiten
+    for data in error_tagged_data[:]:  # Kopie der Liste, um während der Iteration Änderungen zuzulassen
+        if data.get('error'):
+            try:
+                debug_message(f"Retrying error-tagged data: {data}...")
+                retry_context = data.pop('retry_context', None)
+                if retry_context:
+                    retry_context(data)
+                error_tagged_data.remove(data)  # Entferne Datensatz, wenn erfolgreich
+            except Exception as e:
+                logging.error(f"Final failure for error-tagged data: {e}")
+
+    # Danach reguläre fehlgeschlagene Abfragen wiederholen
     while failed_queries:
         context = failed_queries.popleft()
         debug_message(f"Retrying failed query: {context}...")
         try:
-            # Wiederholung der entsprechenden Funktion
             context()
         except Exception as e:
             logging.error(f"Final failure in {context}: {e}")
@@ -50,7 +67,7 @@ def process_driver_standings(year):
     debug_message(f"Fetching driver standings for {year}...")
     raw_data = fetch_driver_standings(year)
     if not raw_data:
-        handle_error(lambda: process_driver_standings(year), "No data fetched", keep_data=None)
+        handle_error(lambda: process_driver_standings(year), "No data fetched", data={'type': 'driver_standings', 'year': year, 'retry_context': lambda data: process_driver_standings(data['year'])})
         return []
 
     driver_standings = []
@@ -70,9 +87,9 @@ def process_driver_standings(year):
                     'Team': constructors[0].get('name', 'Unknown Team') if constructors else 'No Team'
                 })
             except KeyError as e:
-                handle_error("processing driver standings entry", e)
+                handle_error("processing driver standings entry", e, data={'entry': entry, 'retry_context': lambda data: process_driver_standings(year)})
     except KeyError as e:
-        handle_error("processing driver standings data", e)
+        handle_error("processing driver standings data", e, data={'type': 'driver_standings', 'year': year})
     return driver_standings
 
 # Constructor Standings
@@ -81,7 +98,7 @@ def process_constructor_standings(year):
     debug_message(f"Fetching constructor standings for {year}...")
     raw_data = fetch_constructor_standings(year)
     if not raw_data:
-        handle_error(lambda: process_constructor_standings(year), "No data fetched", keep_data=None)
+        handle_error(lambda: process_constructor_standings(year), "No data fetched", data={'type': 'constructor_standings', 'year': year, 'retry_context': lambda data: process_constructor_standings(data['year'])})
         return []
 
     constructor_standings = []
@@ -99,9 +116,9 @@ def process_constructor_standings(year):
                     'Wins': entry.get('wins', '0')
                 })
             except KeyError as e:
-                handle_error("processing constructor standings entry", e)
+                handle_error("processing constructor standings entry", e, data={'entry': entry, 'retry_context': lambda data: process_constructor_standings(year)})
     except KeyError as e:
-        handle_error("processing constructor standings data", e)
+        handle_error("processing constructor standings data", e, data={'type': 'constructor_standings', 'year': year})
     return constructor_standings
 
 # Race Schedule
@@ -110,7 +127,7 @@ def process_race_schedule(year):
     debug_message(f"Fetching race schedule for {year}...")
     raw_data = fetch_race_schedule(year)
     if not raw_data:
-        handle_error(lambda: process_race_schedule(year), "No data fetched", keep_data=None)
+        handle_error(lambda: process_race_schedule(year), "No data fetched", data={'type': 'race_schedule', 'year': year, 'retry_context': lambda data: process_race_schedule(data['year'])})
         return []
 
     race_schedule = []
@@ -160,9 +177,9 @@ def process_race_schedule(year):
                     'Sessions': sessions
                 })
             except KeyError as e:
-                handle_error("processing race schedule entry", e)
+                handle_error("processing race schedule entry", e, data={'race': race, 'retry_context': lambda data: process_race_schedule(year)})
     except KeyError as e:
-        handle_error("processing race schedule data", e)
+        handle_error("processing race schedule data", e, data={'type': 'race_schedule', 'year': year})
     return race_schedule
 
 # Race Results
@@ -176,7 +193,16 @@ def process_race_results(year, race_schedule):
         debug_message(f"Fetching results for round {round_number} ({circuit_id})...")
         raw_data = fetch_race_results(year, round_number)
         if not raw_data:
-            handle_error(lambda: process_race_results(year, race_schedule), f"No data fetched for round {round_number}", keep_data=results)
+            handle_error(
+                f"fetching race results for round {round_number}",
+                "No data fetched",
+                data={
+                    'type': 'race_results',
+                    'year': year,
+                    'round': round_number,
+                    'retry_context': lambda data: process_race_results(data['year'], race_schedule)
+                }
+            )
             continue
 
         try:
@@ -202,26 +228,41 @@ def process_race_results(year, race_schedule):
                         'DNF': result.get('status') if result.get('status') != 'Finished' else None
                     })
                 except KeyError as e:
-                    handle_error(f"processing race result for round {round_number}", e, keep_data=results)
-
+                    handle_error(
+                        f"processing race result for round {round_number}",
+                        e,
+                        data={'type': 'race_results', 'round': round_number, 'entry': result}
+                    )
         except KeyError as e:
-            handle_error(f"processing race data for round {round_number}", e, keep_data=results)
-
+            handle_error(
+                f"processing race results for round {round_number}",
+                e,
+                data={'type': 'race_results', 'round': round_number}
+            )
     return results
 
 def process_lap_times(year, race_schedule):
     """Holt und verarbeitet die Rundenzeiten."""
     debug_message(f"Fetching lap times for the {year} season...")
-    results = []
-
+    lap_times = []
     for race in race_schedule:
         round_number = race['Round']
         circuit_id = race['ID']
         debug_message(f"Fetching lap times for round {round_number} ({circuit_id})...")
 
+        # Fetch lap times for each driver in the race
         raw_data = fetch_race_results(year, round_number)
         if not raw_data:
-            handle_error(lambda: process_lap_times(year, race_schedule), f"No data fetched for lap times in round {round_number}", keep_data=results)
+            handle_error(
+                f"fetching race results for round {round_number}",
+                "No data fetched",
+                data={
+                    'type': 'lap_times',
+                    'year': year,
+                    'round': round_number,
+                    'retry_context': lambda data: process_lap_times(data['year'], race_schedule)
+                }
+            )
             continue
 
         try:
@@ -239,39 +280,55 @@ def process_lap_times(year, race_schedule):
                 driver_id = result['Driver']['driverId']
                 lap_data = fetch_lap_times(year, round_number, driver_id)
                 if not lap_data:
-                    handle_error(f"Fetching lap times for driver {driver_id} in round {round_number}", "No data fetched", keep_data=results)
+                    handle_error(
+                        f"fetching lap times for driver {driver_id} in round {round_number}",
+                        "No data fetched",
+                        data={
+                            'type': 'lap_times',
+                            'year': year,
+                            'round': round_number,
+                            'driver_id': driver_id,
+                            'retry_context': lambda data: process_lap_times(data['year'], race_schedule)
+                        }
+                    )
                     continue
 
-                laps = lap_data['MRData']['RaceTable']['Races'][0].get('Laps', [])
-                if not laps:
+                races_with_laps = lap_data['MRData']['RaceTable']['Races']
+                if not races_with_laps:
                     debug_message(f"Warning: No lap data found for driver {driver_id} in round {round_number}.")
                     continue
 
+                laps = races_with_laps[0].get('Laps', [])
+                if not laps:
+                    debug_message(f"Warning: No laps data found for driver {driver_id} in round {round_number}.")
+                    continue
+
                 for lap in laps:
-                    lap_number = lap.get("number")
-                    for timing in lap.get("Timings", []):
-                        lap_time = {
-                            "Lap": lap_number,
-                            "Driver ID": driver_id,
-                            "Time": timing.get("time"),
-                            "Position": timing.get("position"),
-                        }
-
-                        results.append({
-                            "Circuit ID": circuit_id,
-                            "Round": round_number,
-                            "Lap Number": lap_time["Lap"],
-                            "Driver ID": lap_time["Driver ID"],
-                            "Time": lap_time["Time"],
-                            "Position": lap_time["Position"],
-                        })
-
+                    try:
+                        for timing in lap['Timings']:
+                            lap_time_entry = {
+                                'Circuit ID': circuit_id,
+                                'Round': round_number,
+                                'Lap Number': lap.get('number', 'Unknown Lap'),
+                                'Driver ID': timing['driverId'],
+                                'Lap Time': timing.get('time', 'Unknown Time')
+                            }
+                            # Ensure all necessary keys are present before adding
+                            if 'Round' in lap_time_entry and 'Driver ID' in lap_time_entry:
+                                lap_times.append(lap_time_entry)
+                            else:
+                                debug_message(f"Skipping incomplete lap time entry for round {round_number}, driver {driver_id}.")
+                    except KeyError as e:
+                        handle_error(
+                            f"processing lap time for round {round_number}, lap {lap.get('number')}",
+                            e,
+                            data={'type': 'lap_times', 'round': round_number, 'lap': lap}
+                        )
         except KeyError as e:
-            handle_error(f"processing lap times for round {round_number}", e, keep_data=results)
-        except IndexError as e:
-            handle_error(f"processing lap times for round {round_number}", e, keep_data=results)
+            handle_error(
+                f"processing lap times for round {round_number}",
+                e,
+                data={'type': 'lap_times', 'round': round_number}
+            )
 
-    return results
-
-# Fallback-Prozesse ausführen, falls Fehler aufgetreten sind
-process_failed_queries()
+    return lap_times

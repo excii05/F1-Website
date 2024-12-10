@@ -1,1 +1,5644 @@
-[]
+[
+    {
+        "Circuit ID": "yas_marina",
+        "Round": "24",
+        "Lap Number": "1",
+        "Driver ID": "norris",
+        "Lap Time": "1:31.142"
+    },
+    {
+        "Circuit ID": "yas_marina",
+        "Round": "24",
+        "Lap Number": "2",
+        "Driver ID": "norris",
+        "Lap Time": "1:48.349"
+    },
+    {
+        "Circuit ID": "yas_marina",
+        "Round": "24",
+        "Lap Number": "3",
+        "Driver ID": "norris",
+        "Lap Time": "1:43.313"
+    },
+    {
+        "Circuit ID": "yas_marina",
+        "Round": "24",
+        "Lap Number": "4",
+        "Driver ID": "norris",
+        "Lap Time": "1:29.010"
+    },
+    {
+        "Circuit ID": "yas_marina",
+        "Round": "24",
+        "Lap Number": "5",
+        "Driver ID": "norris",
+        "Lap Time": "1:29.104"
+    },
+    {
+        "Circuit ID": "yas_marina",
+        "Round": "24",
+        "Lap Number": "6",
+        "Driver ID": "norris",
+        "Lap Time": "1:29.361"
+    },
+    {
+        "Circuit ID": "yas_marina",
+        "Round": "24",
+        "Lap Number": "7",
+        "Driver ID": "norris",
+        "Lap Time": "1:29.024"
+    },
+    {
+        "Circuit ID": "yas_marina",
+        "Round": "24",
+        "Lap Number": "8",
+        "Driver ID": "norris",
+        "Lap Time": "1:28.860"
+    },
+    {
+        "Circuit ID": "yas_marina",
+        "Round": "24",
+        "Lap Number": "9",
+        "Driver ID": "norris",
+        "Lap Time": "1:29.007"
+    },
+    {
+        "Circuit ID": "yas_marina",
+        "Round": "24",
+        "Lap Number": "10",
+        "Driver ID": "norris",
+        "Lap Time": "1:29.244"
+    },
+    {
+        "Circuit ID": "yas_marina",
+        "Round": "24",
+        "Lap Number": "11",
+        "Driver ID": "norris",
+        "Lap Time": "1:29.128"
+    },
+    {
+        "Circuit ID": "yas_marina",
+        "Round": "24",
+        "Lap Number": "12",
+        "Driver ID": "norris",
+        "Lap Time": "1:29.084"
+    },
+    {
+        "Circuit ID": "yas_marina",
+        "Round": "24",
+        "Lap Number": "13",
+        "Driver ID": "norris",
+        "Lap Time": "1:29.272"
+    },
+    {
+        "Circuit ID": "yas_marina",
+        "Round": "24",
+        "Lap Number": "14",
+        "Driver ID": "norris",
+        "Lap Time": "1:29.039"
+    },
+    {
+        "Circuit ID": "yas_marina",
+        "Round": "24",
+        "Lap Number": "15",
+        "Driver ID": "norris",
+        "Lap Time": "1:29.070"
+    },
+    {
+        "Circuit ID": "yas_marina",
+        "Round": "24",
+        "Lap Number": "16",
+        "Driver ID": "norris",
+        "Lap Time": "1:28.951"
+    },
+    {
+        "Circuit ID": "yas_marina",
+        "Round": "24",
+        "Lap Number": "17",
+        "Driver ID": "norris",
+        "Lap Time": "1:28.955"
+    },
+    {
+        "Circuit ID": "yas_marina",
+        "Round": "24",
+        "Lap Number": "18",
+        "Driver ID": "norris",
+        "Lap Time": "1:29.222"
+    },
+    {
+        "Circuit ID": "yas_marina",
+        "Round": "24",
+        "Lap Number": "19",
+        "Driver ID": "norris",
+        "Lap Time": "1:29.139"
+    },
+    {
+        "Circuit ID": "yas_marina",
+        "Round": "24",
+        "Lap Number": "20",
+        "Driver ID": "norris",
+        "Lap Time": "1:29.213"
+    },
+    {
+        "Circuit ID": "yas_marina",
+        "Round": "24",
+        "Lap Number": "21",
+        "Driver ID": "norris",
+        "Lap Time": "1:29.133"
+    },
+    {
+        "Circuit ID": "yas_marina",
+        "Round": "24",
+        "Lap Number": "22",
+        "Driver ID": "norris",
+        "Lap Time": "1:29.189"
+    },
+    {
+        "Circuit ID": "yas_marina",
+        "Round": "24",
+        "Lap Number": "23",
+        "Driver ID": "norris",
+        "Lap Time": "1:29.262"
+    },
+    {
+        "Circuit ID": "yas_marina",
+        "Round": "24",
+        "Lap Number": "24",
+        "Driver ID": "norris",
+        "Lap Time": "1:29.484"
+    },
+    {
+        "Circuit ID": "yas_marina",
+        "Round": "24",
+        "Lap Number": "25",
+        "Driver ID": "norris",
+        "Lap Time": "1:29.210"
+    },
+    {
+        "Circuit ID": "yas_marina",
+        "Round": "24",
+        "Lap Number": "26",
+        "Driver ID": "norris",
+        "Lap Time": "1:31.567"
+    },
+    {
+        "Circuit ID": "yas_marina",
+        "Round": "24",
+        "Lap Number": "27",
+        "Driver ID": "norris",
+        "Lap Time": "1:47.513"
+    },
+    {
+        "Circuit ID": "yas_marina",
+        "Round": "24",
+        "Lap Number": "28",
+        "Driver ID": "norris",
+        "Lap Time": "1:28.325"
+    },
+    {
+        "Circuit ID": "yas_marina",
+        "Round": "24",
+        "Lap Number": "29",
+        "Driver ID": "norris",
+        "Lap Time": "1:28.439"
+    },
+    {
+        "Circuit ID": "yas_marina",
+        "Round": "24",
+        "Lap Number": "30",
+        "Driver ID": "norris",
+        "Lap Time": "1:28.235"
+    },
+    {
+        "Circuit ID": "yas_marina",
+        "Round": "24",
+        "Lap Number": "31",
+        "Driver ID": "norris",
+        "Lap Time": "1:28.362"
+    },
+    {
+        "Circuit ID": "yas_marina",
+        "Round": "24",
+        "Lap Number": "32",
+        "Driver ID": "norris",
+        "Lap Time": "1:28.414"
+    },
+    {
+        "Circuit ID": "yas_marina",
+        "Round": "24",
+        "Lap Number": "33",
+        "Driver ID": "norris",
+        "Lap Time": "1:28.126"
+    },
+    {
+        "Circuit ID": "yas_marina",
+        "Round": "24",
+        "Lap Number": "34",
+        "Driver ID": "norris",
+        "Lap Time": "1:28.108"
+    },
+    {
+        "Circuit ID": "yas_marina",
+        "Round": "24",
+        "Lap Number": "35",
+        "Driver ID": "norris",
+        "Lap Time": "1:27.974"
+    },
+    {
+        "Circuit ID": "yas_marina",
+        "Round": "24",
+        "Lap Number": "36",
+        "Driver ID": "norris",
+        "Lap Time": "1:27.875"
+    },
+    {
+        "Circuit ID": "yas_marina",
+        "Round": "24",
+        "Lap Number": "37",
+        "Driver ID": "norris",
+        "Lap Time": "1:28.076"
+    },
+    {
+        "Circuit ID": "yas_marina",
+        "Round": "24",
+        "Lap Number": "38",
+        "Driver ID": "norris",
+        "Lap Time": "1:27.907"
+    },
+    {
+        "Circuit ID": "yas_marina",
+        "Round": "24",
+        "Lap Number": "39",
+        "Driver ID": "norris",
+        "Lap Time": "1:27.760"
+    },
+    {
+        "Circuit ID": "yas_marina",
+        "Round": "24",
+        "Lap Number": "40",
+        "Driver ID": "norris",
+        "Lap Time": "1:27.707"
+    },
+    {
+        "Circuit ID": "yas_marina",
+        "Round": "24",
+        "Lap Number": "41",
+        "Driver ID": "norris",
+        "Lap Time": "1:27.857"
+    },
+    {
+        "Circuit ID": "yas_marina",
+        "Round": "24",
+        "Lap Number": "42",
+        "Driver ID": "norris",
+        "Lap Time": "1:28.162"
+    },
+    {
+        "Circuit ID": "yas_marina",
+        "Round": "24",
+        "Lap Number": "43",
+        "Driver ID": "norris",
+        "Lap Time": "1:28.002"
+    },
+    {
+        "Circuit ID": "yas_marina",
+        "Round": "24",
+        "Lap Number": "44",
+        "Driver ID": "norris",
+        "Lap Time": "1:27.962"
+    },
+    {
+        "Circuit ID": "yas_marina",
+        "Round": "24",
+        "Lap Number": "45",
+        "Driver ID": "norris",
+        "Lap Time": "1:28.055"
+    },
+    {
+        "Circuit ID": "yas_marina",
+        "Round": "24",
+        "Lap Number": "46",
+        "Driver ID": "norris",
+        "Lap Time": "1:28.078"
+    },
+    {
+        "Circuit ID": "yas_marina",
+        "Round": "24",
+        "Lap Number": "47",
+        "Driver ID": "norris",
+        "Lap Time": "1:28.237"
+    },
+    {
+        "Circuit ID": "yas_marina",
+        "Round": "24",
+        "Lap Number": "48",
+        "Driver ID": "norris",
+        "Lap Time": "1:28.205"
+    },
+    {
+        "Circuit ID": "yas_marina",
+        "Round": "24",
+        "Lap Number": "49",
+        "Driver ID": "norris",
+        "Lap Time": "1:28.371"
+    },
+    {
+        "Circuit ID": "yas_marina",
+        "Round": "24",
+        "Lap Number": "50",
+        "Driver ID": "norris",
+        "Lap Time": "1:28.128"
+    },
+    {
+        "Circuit ID": "yas_marina",
+        "Round": "24",
+        "Lap Number": "51",
+        "Driver ID": "norris",
+        "Lap Time": "1:27.867"
+    },
+    {
+        "Circuit ID": "yas_marina",
+        "Round": "24",
+        "Lap Number": "52",
+        "Driver ID": "norris",
+        "Lap Time": "1:27.438"
+    },
+    {
+        "Circuit ID": "yas_marina",
+        "Round": "24",
+        "Lap Number": "53",
+        "Driver ID": "norris",
+        "Lap Time": "1:27.520"
+    },
+    {
+        "Circuit ID": "yas_marina",
+        "Round": "24",
+        "Lap Number": "54",
+        "Driver ID": "norris",
+        "Lap Time": "1:28.124"
+    },
+    {
+        "Circuit ID": "yas_marina",
+        "Round": "24",
+        "Lap Number": "55",
+        "Driver ID": "norris",
+        "Lap Time": "1:27.647"
+    },
+    {
+        "Circuit ID": "yas_marina",
+        "Round": "24",
+        "Lap Number": "56",
+        "Driver ID": "norris",
+        "Lap Time": "1:27.698"
+    },
+    {
+        "Circuit ID": "yas_marina",
+        "Round": "24",
+        "Lap Number": "57",
+        "Driver ID": "norris",
+        "Lap Time": "1:27.929"
+    },
+    {
+        "Circuit ID": "yas_marina",
+        "Round": "24",
+        "Lap Number": "58",
+        "Driver ID": "norris",
+        "Lap Time": "1:29.858"
+    },
+    {
+        "Circuit ID": "yas_marina",
+        "Round": "24",
+        "Lap Number": "1",
+        "Driver ID": "sainz",
+        "Lap Time": "1:32.999"
+    },
+    {
+        "Circuit ID": "yas_marina",
+        "Round": "24",
+        "Lap Number": "2",
+        "Driver ID": "sainz",
+        "Lap Time": "1:49.770"
+    },
+    {
+        "Circuit ID": "yas_marina",
+        "Round": "24",
+        "Lap Number": "3",
+        "Driver ID": "sainz",
+        "Lap Time": "1:42.795"
+    },
+    {
+        "Circuit ID": "yas_marina",
+        "Round": "24",
+        "Lap Number": "4",
+        "Driver ID": "sainz",
+        "Lap Time": "1:28.995"
+    },
+    {
+        "Circuit ID": "yas_marina",
+        "Round": "24",
+        "Lap Number": "5",
+        "Driver ID": "sainz",
+        "Lap Time": "1:29.250"
+    },
+    {
+        "Circuit ID": "yas_marina",
+        "Round": "24",
+        "Lap Number": "6",
+        "Driver ID": "sainz",
+        "Lap Time": "1:29.253"
+    },
+    {
+        "Circuit ID": "yas_marina",
+        "Round": "24",
+        "Lap Number": "7",
+        "Driver ID": "sainz",
+        "Lap Time": "1:29.063"
+    },
+    {
+        "Circuit ID": "yas_marina",
+        "Round": "24",
+        "Lap Number": "8",
+        "Driver ID": "sainz",
+        "Lap Time": "1:29.202"
+    },
+    {
+        "Circuit ID": "yas_marina",
+        "Round": "24",
+        "Lap Number": "9",
+        "Driver ID": "sainz",
+        "Lap Time": "1:29.187"
+    },
+    {
+        "Circuit ID": "yas_marina",
+        "Round": "24",
+        "Lap Number": "10",
+        "Driver ID": "sainz",
+        "Lap Time": "1:29.320"
+    },
+    {
+        "Circuit ID": "yas_marina",
+        "Round": "24",
+        "Lap Number": "11",
+        "Driver ID": "sainz",
+        "Lap Time": "1:29.246"
+    },
+    {
+        "Circuit ID": "yas_marina",
+        "Round": "24",
+        "Lap Number": "12",
+        "Driver ID": "sainz",
+        "Lap Time": "1:29.150"
+    },
+    {
+        "Circuit ID": "yas_marina",
+        "Round": "24",
+        "Lap Number": "13",
+        "Driver ID": "sainz",
+        "Lap Time": "1:29.192"
+    },
+    {
+        "Circuit ID": "yas_marina",
+        "Round": "24",
+        "Lap Number": "14",
+        "Driver ID": "sainz",
+        "Lap Time": "1:29.140"
+    },
+    {
+        "Circuit ID": "yas_marina",
+        "Round": "24",
+        "Lap Number": "15",
+        "Driver ID": "sainz",
+        "Lap Time": "1:29.222"
+    },
+    {
+        "Circuit ID": "yas_marina",
+        "Round": "24",
+        "Lap Number": "16",
+        "Driver ID": "sainz",
+        "Lap Time": "1:29.224"
+    },
+    {
+        "Circuit ID": "yas_marina",
+        "Round": "24",
+        "Lap Number": "17",
+        "Driver ID": "sainz",
+        "Lap Time": "1:29.187"
+    },
+    {
+        "Circuit ID": "yas_marina",
+        "Round": "24",
+        "Lap Number": "18",
+        "Driver ID": "sainz",
+        "Lap Time": "1:29.010"
+    },
+    {
+        "Circuit ID": "yas_marina",
+        "Round": "24",
+        "Lap Number": "19",
+        "Driver ID": "sainz",
+        "Lap Time": "1:29.320"
+    },
+    {
+        "Circuit ID": "yas_marina",
+        "Round": "24",
+        "Lap Number": "20",
+        "Driver ID": "sainz",
+        "Lap Time": "1:29.208"
+    },
+    {
+        "Circuit ID": "yas_marina",
+        "Round": "24",
+        "Lap Number": "21",
+        "Driver ID": "sainz",
+        "Lap Time": "1:29.191"
+    },
+    {
+        "Circuit ID": "yas_marina",
+        "Round": "24",
+        "Lap Number": "22",
+        "Driver ID": "sainz",
+        "Lap Time": "1:28.909"
+    },
+    {
+        "Circuit ID": "yas_marina",
+        "Round": "24",
+        "Lap Number": "23",
+        "Driver ID": "sainz",
+        "Lap Time": "1:29.157"
+    },
+    {
+        "Circuit ID": "yas_marina",
+        "Round": "24",
+        "Lap Number": "24",
+        "Driver ID": "sainz",
+        "Lap Time": "1:29.372"
+    },
+    {
+        "Circuit ID": "yas_marina",
+        "Round": "24",
+        "Lap Number": "25",
+        "Driver ID": "sainz",
+        "Lap Time": "1:30.842"
+    },
+    {
+        "Circuit ID": "yas_marina",
+        "Round": "24",
+        "Lap Number": "26",
+        "Driver ID": "sainz",
+        "Lap Time": "1:47.557"
+    },
+    {
+        "Circuit ID": "yas_marina",
+        "Round": "24",
+        "Lap Number": "27",
+        "Driver ID": "sainz",
+        "Lap Time": "1:28.177"
+    },
+    {
+        "Circuit ID": "yas_marina",
+        "Round": "24",
+        "Lap Number": "28",
+        "Driver ID": "sainz",
+        "Lap Time": "1:28.482"
+    },
+    {
+        "Circuit ID": "yas_marina",
+        "Round": "24",
+        "Lap Number": "29",
+        "Driver ID": "sainz",
+        "Lap Time": "1:28.399"
+    },
+    {
+        "Circuit ID": "yas_marina",
+        "Round": "24",
+        "Lap Number": "30",
+        "Driver ID": "sainz",
+        "Lap Time": "1:28.184"
+    },
+    {
+        "Circuit ID": "yas_marina",
+        "Round": "24",
+        "Lap Number": "31",
+        "Driver ID": "sainz",
+        "Lap Time": "1:28.388"
+    },
+    {
+        "Circuit ID": "yas_marina",
+        "Round": "24",
+        "Lap Number": "32",
+        "Driver ID": "sainz",
+        "Lap Time": "1:28.333"
+    },
+    {
+        "Circuit ID": "yas_marina",
+        "Round": "24",
+        "Lap Number": "33",
+        "Driver ID": "sainz",
+        "Lap Time": "1:28.370"
+    },
+    {
+        "Circuit ID": "yas_marina",
+        "Round": "24",
+        "Lap Number": "34",
+        "Driver ID": "sainz",
+        "Lap Time": "1:28.251"
+    },
+    {
+        "Circuit ID": "yas_marina",
+        "Round": "24",
+        "Lap Number": "35",
+        "Driver ID": "sainz",
+        "Lap Time": "1:28.220"
+    },
+    {
+        "Circuit ID": "yas_marina",
+        "Round": "24",
+        "Lap Number": "36",
+        "Driver ID": "sainz",
+        "Lap Time": "1:28.367"
+    },
+    {
+        "Circuit ID": "yas_marina",
+        "Round": "24",
+        "Lap Number": "37",
+        "Driver ID": "sainz",
+        "Lap Time": "1:28.202"
+    },
+    {
+        "Circuit ID": "yas_marina",
+        "Round": "24",
+        "Lap Number": "38",
+        "Driver ID": "sainz",
+        "Lap Time": "1:28.103"
+    },
+    {
+        "Circuit ID": "yas_marina",
+        "Round": "24",
+        "Lap Number": "39",
+        "Driver ID": "sainz",
+        "Lap Time": "1:27.924"
+    },
+    {
+        "Circuit ID": "yas_marina",
+        "Round": "24",
+        "Lap Number": "40",
+        "Driver ID": "sainz",
+        "Lap Time": "1:28.662"
+    },
+    {
+        "Circuit ID": "yas_marina",
+        "Round": "24",
+        "Lap Number": "41",
+        "Driver ID": "sainz",
+        "Lap Time": "1:28.032"
+    },
+    {
+        "Circuit ID": "yas_marina",
+        "Round": "24",
+        "Lap Number": "42",
+        "Driver ID": "sainz",
+        "Lap Time": "1:28.255"
+    },
+    {
+        "Circuit ID": "yas_marina",
+        "Round": "24",
+        "Lap Number": "43",
+        "Driver ID": "sainz",
+        "Lap Time": "1:27.854"
+    },
+    {
+        "Circuit ID": "yas_marina",
+        "Round": "24",
+        "Lap Number": "44",
+        "Driver ID": "sainz",
+        "Lap Time": "1:28.148"
+    },
+    {
+        "Circuit ID": "yas_marina",
+        "Round": "24",
+        "Lap Number": "45",
+        "Driver ID": "sainz",
+        "Lap Time": "1:28.331"
+    },
+    {
+        "Circuit ID": "yas_marina",
+        "Round": "24",
+        "Lap Number": "46",
+        "Driver ID": "sainz",
+        "Lap Time": "1:28.682"
+    },
+    {
+        "Circuit ID": "yas_marina",
+        "Round": "24",
+        "Lap Number": "47",
+        "Driver ID": "sainz",
+        "Lap Time": "1:28.404"
+    },
+    {
+        "Circuit ID": "yas_marina",
+        "Round": "24",
+        "Lap Number": "48",
+        "Driver ID": "sainz",
+        "Lap Time": "1:28.144"
+    },
+    {
+        "Circuit ID": "yas_marina",
+        "Round": "24",
+        "Lap Number": "49",
+        "Driver ID": "sainz",
+        "Lap Time": "1:27.871"
+    },
+    {
+        "Circuit ID": "yas_marina",
+        "Round": "24",
+        "Lap Number": "50",
+        "Driver ID": "sainz",
+        "Lap Time": "1:27.885"
+    },
+    {
+        "Circuit ID": "yas_marina",
+        "Round": "24",
+        "Lap Number": "51",
+        "Driver ID": "sainz",
+        "Lap Time": "1:28.476"
+    },
+    {
+        "Circuit ID": "yas_marina",
+        "Round": "24",
+        "Lap Number": "52",
+        "Driver ID": "sainz",
+        "Lap Time": "1:28.266"
+    },
+    {
+        "Circuit ID": "yas_marina",
+        "Round": "24",
+        "Lap Number": "53",
+        "Driver ID": "sainz",
+        "Lap Time": "1:28.297"
+    },
+    {
+        "Circuit ID": "yas_marina",
+        "Round": "24",
+        "Lap Number": "54",
+        "Driver ID": "sainz",
+        "Lap Time": "1:28.183"
+    },
+    {
+        "Circuit ID": "yas_marina",
+        "Round": "24",
+        "Lap Number": "55",
+        "Driver ID": "sainz",
+        "Lap Time": "1:27.765"
+    },
+    {
+        "Circuit ID": "yas_marina",
+        "Round": "24",
+        "Lap Number": "56",
+        "Driver ID": "sainz",
+        "Lap Time": "1:27.825"
+    },
+    {
+        "Circuit ID": "yas_marina",
+        "Round": "24",
+        "Lap Number": "57",
+        "Driver ID": "sainz",
+        "Lap Time": "1:27.851"
+    },
+    {
+        "Circuit ID": "yas_marina",
+        "Round": "24",
+        "Lap Number": "58",
+        "Driver ID": "sainz",
+        "Lap Time": "1:28.031"
+    },
+    {
+        "Circuit ID": "yas_marina",
+        "Round": "24",
+        "Lap Number": "1",
+        "Driver ID": "leclerc",
+        "Lap Time": "1:37.644"
+    },
+    {
+        "Circuit ID": "yas_marina",
+        "Round": "24",
+        "Lap Number": "2",
+        "Driver ID": "leclerc",
+        "Lap Time": "1:53.013"
+    },
+    {
+        "Circuit ID": "yas_marina",
+        "Round": "24",
+        "Lap Number": "3",
+        "Driver ID": "leclerc",
+        "Lap Time": "1:39.656"
+    },
+    {
+        "Circuit ID": "yas_marina",
+        "Round": "24",
+        "Lap Number": "4",
+        "Driver ID": "leclerc",
+        "Lap Time": "1:29.273"
+    },
+    {
+        "Circuit ID": "yas_marina",
+        "Round": "24",
+        "Lap Number": "5",
+        "Driver ID": "leclerc",
+        "Lap Time": "1:29.753"
+    },
+    {
+        "Circuit ID": "yas_marina",
+        "Round": "24",
+        "Lap Number": "6",
+        "Driver ID": "leclerc",
+        "Lap Time": "1:29.997"
+    },
+    {
+        "Circuit ID": "yas_marina",
+        "Round": "24",
+        "Lap Number": "7",
+        "Driver ID": "leclerc",
+        "Lap Time": "1:29.538"
+    },
+    {
+        "Circuit ID": "yas_marina",
+        "Round": "24",
+        "Lap Number": "8",
+        "Driver ID": "leclerc",
+        "Lap Time": "1:29.784"
+    },
+    {
+        "Circuit ID": "yas_marina",
+        "Round": "24",
+        "Lap Number": "9",
+        "Driver ID": "leclerc",
+        "Lap Time": "1:29.913"
+    },
+    {
+        "Circuit ID": "yas_marina",
+        "Round": "24",
+        "Lap Number": "10",
+        "Driver ID": "leclerc",
+        "Lap Time": "1:30.008"
+    },
+    {
+        "Circuit ID": "yas_marina",
+        "Round": "24",
+        "Lap Number": "11",
+        "Driver ID": "leclerc",
+        "Lap Time": "1:30.268"
+    },
+    {
+        "Circuit ID": "yas_marina",
+        "Round": "24",
+        "Lap Number": "12",
+        "Driver ID": "leclerc",
+        "Lap Time": "1:29.507"
+    },
+    {
+        "Circuit ID": "yas_marina",
+        "Round": "24",
+        "Lap Number": "13",
+        "Driver ID": "leclerc",
+        "Lap Time": "1:29.834"
+    },
+    {
+        "Circuit ID": "yas_marina",
+        "Round": "24",
+        "Lap Number": "14",
+        "Driver ID": "leclerc",
+        "Lap Time": "1:29.516"
+    },
+    {
+        "Circuit ID": "yas_marina",
+        "Round": "24",
+        "Lap Number": "15",
+        "Driver ID": "leclerc",
+        "Lap Time": "1:29.675"
+    },
+    {
+        "Circuit ID": "yas_marina",
+        "Round": "24",
+        "Lap Number": "16",
+        "Driver ID": "leclerc",
+        "Lap Time": "1:29.820"
+    },
+    {
+        "Circuit ID": "yas_marina",
+        "Round": "24",
+        "Lap Number": "17",
+        "Driver ID": "leclerc",
+        "Lap Time": "1:29.570"
+    },
+    {
+        "Circuit ID": "yas_marina",
+        "Round": "24",
+        "Lap Number": "18",
+        "Driver ID": "leclerc",
+        "Lap Time": "1:29.841"
+    },
+    {
+        "Circuit ID": "yas_marina",
+        "Round": "24",
+        "Lap Number": "19",
+        "Driver ID": "leclerc",
+        "Lap Time": "1:30.082"
+    },
+    {
+        "Circuit ID": "yas_marina",
+        "Round": "24",
+        "Lap Number": "20",
+        "Driver ID": "leclerc",
+        "Lap Time": "1:32.189"
+    },
+    {
+        "Circuit ID": "yas_marina",
+        "Round": "24",
+        "Lap Number": "21",
+        "Driver ID": "leclerc",
+        "Lap Time": "1:48.662"
+    },
+    {
+        "Circuit ID": "yas_marina",
+        "Round": "24",
+        "Lap Number": "22",
+        "Driver ID": "leclerc",
+        "Lap Time": "1:29.802"
+    },
+    {
+        "Circuit ID": "yas_marina",
+        "Round": "24",
+        "Lap Number": "23",
+        "Driver ID": "leclerc",
+        "Lap Time": "1:30.437"
+    },
+    {
+        "Circuit ID": "yas_marina",
+        "Round": "24",
+        "Lap Number": "24",
+        "Driver ID": "leclerc",
+        "Lap Time": "1:29.185"
+    },
+    {
+        "Circuit ID": "yas_marina",
+        "Round": "24",
+        "Lap Number": "25",
+        "Driver ID": "leclerc",
+        "Lap Time": "1:28.912"
+    },
+    {
+        "Circuit ID": "yas_marina",
+        "Round": "24",
+        "Lap Number": "26",
+        "Driver ID": "leclerc",
+        "Lap Time": "1:29.084"
+    },
+    {
+        "Circuit ID": "yas_marina",
+        "Round": "24",
+        "Lap Number": "27",
+        "Driver ID": "leclerc",
+        "Lap Time": "1:28.873"
+    },
+    {
+        "Circuit ID": "yas_marina",
+        "Round": "24",
+        "Lap Number": "28",
+        "Driver ID": "leclerc",
+        "Lap Time": "1:28.443"
+    },
+    {
+        "Circuit ID": "yas_marina",
+        "Round": "24",
+        "Lap Number": "29",
+        "Driver ID": "leclerc",
+        "Lap Time": "1:28.560"
+    },
+    {
+        "Circuit ID": "yas_marina",
+        "Round": "24",
+        "Lap Number": "30",
+        "Driver ID": "leclerc",
+        "Lap Time": "1:28.609"
+    },
+    {
+        "Circuit ID": "yas_marina",
+        "Round": "24",
+        "Lap Number": "31",
+        "Driver ID": "leclerc",
+        "Lap Time": "1:28.485"
+    },
+    {
+        "Circuit ID": "yas_marina",
+        "Round": "24",
+        "Lap Number": "32",
+        "Driver ID": "leclerc",
+        "Lap Time": "1:28.536"
+    },
+    {
+        "Circuit ID": "yas_marina",
+        "Round": "24",
+        "Lap Number": "33",
+        "Driver ID": "leclerc",
+        "Lap Time": "1:28.518"
+    },
+    {
+        "Circuit ID": "yas_marina",
+        "Round": "24",
+        "Lap Number": "34",
+        "Driver ID": "leclerc",
+        "Lap Time": "1:28.536"
+    },
+    {
+        "Circuit ID": "yas_marina",
+        "Round": "24",
+        "Lap Number": "35",
+        "Driver ID": "leclerc",
+        "Lap Time": "1:28.312"
+    },
+    {
+        "Circuit ID": "yas_marina",
+        "Round": "24",
+        "Lap Number": "36",
+        "Driver ID": "leclerc",
+        "Lap Time": "1:28.090"
+    },
+    {
+        "Circuit ID": "yas_marina",
+        "Round": "24",
+        "Lap Number": "37",
+        "Driver ID": "leclerc",
+        "Lap Time": "1:28.305"
+    },
+    {
+        "Circuit ID": "yas_marina",
+        "Round": "24",
+        "Lap Number": "38",
+        "Driver ID": "leclerc",
+        "Lap Time": "1:28.189"
+    },
+    {
+        "Circuit ID": "yas_marina",
+        "Round": "24",
+        "Lap Number": "39",
+        "Driver ID": "leclerc",
+        "Lap Time": "1:28.135"
+    },
+    {
+        "Circuit ID": "yas_marina",
+        "Round": "24",
+        "Lap Number": "40",
+        "Driver ID": "leclerc",
+        "Lap Time": "1:28.565"
+    },
+    {
+        "Circuit ID": "yas_marina",
+        "Round": "24",
+        "Lap Number": "41",
+        "Driver ID": "leclerc",
+        "Lap Time": "1:28.403"
+    },
+    {
+        "Circuit ID": "yas_marina",
+        "Round": "24",
+        "Lap Number": "42",
+        "Driver ID": "leclerc",
+        "Lap Time": "1:28.490"
+    },
+    {
+        "Circuit ID": "yas_marina",
+        "Round": "24",
+        "Lap Number": "43",
+        "Driver ID": "leclerc",
+        "Lap Time": "1:28.571"
+    },
+    {
+        "Circuit ID": "yas_marina",
+        "Round": "24",
+        "Lap Number": "44",
+        "Driver ID": "leclerc",
+        "Lap Time": "1:28.743"
+    },
+    {
+        "Circuit ID": "yas_marina",
+        "Round": "24",
+        "Lap Number": "45",
+        "Driver ID": "leclerc",
+        "Lap Time": "1:28.312"
+    },
+    {
+        "Circuit ID": "yas_marina",
+        "Round": "24",
+        "Lap Number": "46",
+        "Driver ID": "leclerc",
+        "Lap Time": "1:28.303"
+    },
+    {
+        "Circuit ID": "yas_marina",
+        "Round": "24",
+        "Lap Number": "47",
+        "Driver ID": "leclerc",
+        "Lap Time": "1:28.252"
+    },
+    {
+        "Circuit ID": "yas_marina",
+        "Round": "24",
+        "Lap Number": "48",
+        "Driver ID": "leclerc",
+        "Lap Time": "1:28.171"
+    },
+    {
+        "Circuit ID": "yas_marina",
+        "Round": "24",
+        "Lap Number": "49",
+        "Driver ID": "leclerc",
+        "Lap Time": "1:28.360"
+    },
+    {
+        "Circuit ID": "yas_marina",
+        "Round": "24",
+        "Lap Number": "50",
+        "Driver ID": "leclerc",
+        "Lap Time": "1:28.213"
+    },
+    {
+        "Circuit ID": "yas_marina",
+        "Round": "24",
+        "Lap Number": "51",
+        "Driver ID": "leclerc",
+        "Lap Time": "1:28.018"
+    },
+    {
+        "Circuit ID": "yas_marina",
+        "Round": "24",
+        "Lap Number": "52",
+        "Driver ID": "leclerc",
+        "Lap Time": "1:28.455"
+    },
+    {
+        "Circuit ID": "yas_marina",
+        "Round": "24",
+        "Lap Number": "53",
+        "Driver ID": "leclerc",
+        "Lap Time": "1:28.518"
+    },
+    {
+        "Circuit ID": "yas_marina",
+        "Round": "24",
+        "Lap Number": "54",
+        "Driver ID": "leclerc",
+        "Lap Time": "1:28.470"
+    },
+    {
+        "Circuit ID": "yas_marina",
+        "Round": "24",
+        "Lap Number": "55",
+        "Driver ID": "leclerc",
+        "Lap Time": "1:28.387"
+    },
+    {
+        "Circuit ID": "yas_marina",
+        "Round": "24",
+        "Lap Number": "56",
+        "Driver ID": "leclerc",
+        "Lap Time": "1:28.220"
+    },
+    {
+        "Circuit ID": "yas_marina",
+        "Round": "24",
+        "Lap Number": "57",
+        "Driver ID": "leclerc",
+        "Lap Time": "1:28.296"
+    },
+    {
+        "Circuit ID": "yas_marina",
+        "Round": "24",
+        "Lap Number": "58",
+        "Driver ID": "leclerc",
+        "Lap Time": "1:29.918"
+    },
+    {
+        "Circuit ID": "yas_marina",
+        "Round": "24",
+        "Lap Number": "1",
+        "Driver ID": "hamilton",
+        "Lap Time": "1:39.884"
+    },
+    {
+        "Circuit ID": "yas_marina",
+        "Round": "24",
+        "Lap Number": "2",
+        "Driver ID": "hamilton",
+        "Lap Time": "1:56.731"
+    },
+    {
+        "Circuit ID": "yas_marina",
+        "Round": "24",
+        "Lap Number": "3",
+        "Driver ID": "hamilton",
+        "Lap Time": "1:37.736"
+    },
+    {
+        "Circuit ID": "yas_marina",
+        "Round": "24",
+        "Lap Number": "4",
+        "Driver ID": "hamilton",
+        "Lap Time": "1:29.666"
+    },
+    {
+        "Circuit ID": "yas_marina",
+        "Round": "24",
+        "Lap Number": "5",
+        "Driver ID": "hamilton",
+        "Lap Time": "1:29.733"
+    },
+    {
+        "Circuit ID": "yas_marina",
+        "Round": "24",
+        "Lap Number": "6",
+        "Driver ID": "hamilton",
+        "Lap Time": "1:30.693"
+    },
+    {
+        "Circuit ID": "yas_marina",
+        "Round": "24",
+        "Lap Number": "7",
+        "Driver ID": "hamilton",
+        "Lap Time": "1:30.355"
+    },
+    {
+        "Circuit ID": "yas_marina",
+        "Round": "24",
+        "Lap Number": "8",
+        "Driver ID": "hamilton",
+        "Lap Time": "1:30.218"
+    },
+    {
+        "Circuit ID": "yas_marina",
+        "Round": "24",
+        "Lap Number": "9",
+        "Driver ID": "hamilton",
+        "Lap Time": "1:30.296"
+    },
+    {
+        "Circuit ID": "yas_marina",
+        "Round": "24",
+        "Lap Number": "10",
+        "Driver ID": "hamilton",
+        "Lap Time": "1:30.655"
+    },
+    {
+        "Circuit ID": "yas_marina",
+        "Round": "24",
+        "Lap Number": "11",
+        "Driver ID": "hamilton",
+        "Lap Time": "1:31.066"
+    },
+    {
+        "Circuit ID": "yas_marina",
+        "Round": "24",
+        "Lap Number": "12",
+        "Driver ID": "hamilton",
+        "Lap Time": "1:29.955"
+    },
+    {
+        "Circuit ID": "yas_marina",
+        "Round": "24",
+        "Lap Number": "13",
+        "Driver ID": "hamilton",
+        "Lap Time": "1:30.280"
+    },
+    {
+        "Circuit ID": "yas_marina",
+        "Round": "24",
+        "Lap Number": "14",
+        "Driver ID": "hamilton",
+        "Lap Time": "1:30.038"
+    },
+    {
+        "Circuit ID": "yas_marina",
+        "Round": "24",
+        "Lap Number": "15",
+        "Driver ID": "hamilton",
+        "Lap Time": "1:29.872"
+    },
+    {
+        "Circuit ID": "yas_marina",
+        "Round": "24",
+        "Lap Number": "16",
+        "Driver ID": "hamilton",
+        "Lap Time": "1:29.966"
+    },
+    {
+        "Circuit ID": "yas_marina",
+        "Round": "24",
+        "Lap Number": "17",
+        "Driver ID": "hamilton",
+        "Lap Time": "1:29.637"
+    },
+    {
+        "Circuit ID": "yas_marina",
+        "Round": "24",
+        "Lap Number": "18",
+        "Driver ID": "hamilton",
+        "Lap Time": "1:29.756"
+    },
+    {
+        "Circuit ID": "yas_marina",
+        "Round": "24",
+        "Lap Number": "19",
+        "Driver ID": "hamilton",
+        "Lap Time": "1:29.849"
+    },
+    {
+        "Circuit ID": "yas_marina",
+        "Round": "24",
+        "Lap Number": "20",
+        "Driver ID": "hamilton",
+        "Lap Time": "1:29.807"
+    },
+    {
+        "Circuit ID": "yas_marina",
+        "Round": "24",
+        "Lap Number": "21",
+        "Driver ID": "hamilton",
+        "Lap Time": "1:29.719"
+    },
+    {
+        "Circuit ID": "yas_marina",
+        "Round": "24",
+        "Lap Number": "22",
+        "Driver ID": "hamilton",
+        "Lap Time": "1:29.655"
+    },
+    {
+        "Circuit ID": "yas_marina",
+        "Round": "24",
+        "Lap Number": "23",
+        "Driver ID": "hamilton",
+        "Lap Time": "1:29.787"
+    },
+    {
+        "Circuit ID": "yas_marina",
+        "Round": "24",
+        "Lap Number": "24",
+        "Driver ID": "hamilton",
+        "Lap Time": "1:29.698"
+    },
+    {
+        "Circuit ID": "yas_marina",
+        "Round": "24",
+        "Lap Number": "25",
+        "Driver ID": "hamilton",
+        "Lap Time": "1:29.616"
+    },
+    {
+        "Circuit ID": "yas_marina",
+        "Round": "24",
+        "Lap Number": "26",
+        "Driver ID": "hamilton",
+        "Lap Time": "1:29.833"
+    },
+    {
+        "Circuit ID": "yas_marina",
+        "Round": "24",
+        "Lap Number": "27",
+        "Driver ID": "hamilton",
+        "Lap Time": "1:29.844"
+    },
+    {
+        "Circuit ID": "yas_marina",
+        "Round": "24",
+        "Lap Number": "28",
+        "Driver ID": "hamilton",
+        "Lap Time": "1:29.481"
+    },
+    {
+        "Circuit ID": "yas_marina",
+        "Round": "24",
+        "Lap Number": "29",
+        "Driver ID": "hamilton",
+        "Lap Time": "1:29.756"
+    },
+    {
+        "Circuit ID": "yas_marina",
+        "Round": "24",
+        "Lap Number": "30",
+        "Driver ID": "hamilton",
+        "Lap Time": "1:29.486"
+    },
+    {
+        "Circuit ID": "yas_marina",
+        "Round": "24",
+        "Lap Number": "31",
+        "Driver ID": "hamilton",
+        "Lap Time": "1:29.714"
+    },
+    {
+        "Circuit ID": "yas_marina",
+        "Round": "24",
+        "Lap Number": "32",
+        "Driver ID": "hamilton",
+        "Lap Time": "1:29.802"
+    },
+    {
+        "Circuit ID": "yas_marina",
+        "Round": "24",
+        "Lap Number": "33",
+        "Driver ID": "hamilton",
+        "Lap Time": "1:29.589"
+    },
+    {
+        "Circuit ID": "yas_marina",
+        "Round": "24",
+        "Lap Number": "34",
+        "Driver ID": "hamilton",
+        "Lap Time": "1:31.792"
+    },
+    {
+        "Circuit ID": "yas_marina",
+        "Round": "24",
+        "Lap Number": "35",
+        "Driver ID": "hamilton",
+        "Lap Time": "1:48.722"
+    },
+    {
+        "Circuit ID": "yas_marina",
+        "Round": "24",
+        "Lap Number": "36",
+        "Driver ID": "hamilton",
+        "Lap Time": "1:27.803"
+    },
+    {
+        "Circuit ID": "yas_marina",
+        "Round": "24",
+        "Lap Number": "37",
+        "Driver ID": "hamilton",
+        "Lap Time": "1:27.741"
+    },
+    {
+        "Circuit ID": "yas_marina",
+        "Round": "24",
+        "Lap Number": "38",
+        "Driver ID": "hamilton",
+        "Lap Time": "1:28.061"
+    },
+    {
+        "Circuit ID": "yas_marina",
+        "Round": "24",
+        "Lap Number": "39",
+        "Driver ID": "hamilton",
+        "Lap Time": "1:28.001"
+    },
+    {
+        "Circuit ID": "yas_marina",
+        "Round": "24",
+        "Lap Number": "40",
+        "Driver ID": "hamilton",
+        "Lap Time": "1:27.726"
+    },
+    {
+        "Circuit ID": "yas_marina",
+        "Round": "24",
+        "Lap Number": "41",
+        "Driver ID": "hamilton",
+        "Lap Time": "1:28.653"
+    },
+    {
+        "Circuit ID": "yas_marina",
+        "Round": "24",
+        "Lap Number": "42",
+        "Driver ID": "hamilton",
+        "Lap Time": "1:27.692"
+    },
+    {
+        "Circuit ID": "yas_marina",
+        "Round": "24",
+        "Lap Number": "43",
+        "Driver ID": "hamilton",
+        "Lap Time": "1:27.556"
+    },
+    {
+        "Circuit ID": "yas_marina",
+        "Round": "24",
+        "Lap Number": "44",
+        "Driver ID": "hamilton",
+        "Lap Time": "1:27.278"
+    },
+    {
+        "Circuit ID": "yas_marina",
+        "Round": "24",
+        "Lap Number": "45",
+        "Driver ID": "hamilton",
+        "Lap Time": "1:27.629"
+    },
+    {
+        "Circuit ID": "yas_marina",
+        "Round": "24",
+        "Lap Number": "46",
+        "Driver ID": "hamilton",
+        "Lap Time": "1:27.571"
+    },
+    {
+        "Circuit ID": "yas_marina",
+        "Round": "24",
+        "Lap Number": "47",
+        "Driver ID": "hamilton",
+        "Lap Time": "1:27.586"
+    },
+    {
+        "Circuit ID": "yas_marina",
+        "Round": "24",
+        "Lap Number": "48",
+        "Driver ID": "hamilton",
+        "Lap Time": "1:27.727"
+    },
+    {
+        "Circuit ID": "yas_marina",
+        "Round": "24",
+        "Lap Number": "49",
+        "Driver ID": "hamilton",
+        "Lap Time": "1:27.490"
+    },
+    {
+        "Circuit ID": "yas_marina",
+        "Round": "24",
+        "Lap Number": "50",
+        "Driver ID": "hamilton",
+        "Lap Time": "1:27.735"
+    },
+    {
+        "Circuit ID": "yas_marina",
+        "Round": "24",
+        "Lap Number": "51",
+        "Driver ID": "hamilton",
+        "Lap Time": "1:27.319"
+    },
+    {
+        "Circuit ID": "yas_marina",
+        "Round": "24",
+        "Lap Number": "52",
+        "Driver ID": "hamilton",
+        "Lap Time": "1:27.799"
+    },
+    {
+        "Circuit ID": "yas_marina",
+        "Round": "24",
+        "Lap Number": "53",
+        "Driver ID": "hamilton",
+        "Lap Time": "1:27.707"
+    },
+    {
+        "Circuit ID": "yas_marina",
+        "Round": "24",
+        "Lap Number": "54",
+        "Driver ID": "hamilton",
+        "Lap Time": "1:27.342"
+    },
+    {
+        "Circuit ID": "yas_marina",
+        "Round": "24",
+        "Lap Number": "55",
+        "Driver ID": "hamilton",
+        "Lap Time": "1:27.398"
+    },
+    {
+        "Circuit ID": "yas_marina",
+        "Round": "24",
+        "Lap Number": "56",
+        "Driver ID": "hamilton",
+        "Lap Time": "1:27.738"
+    },
+    {
+        "Circuit ID": "yas_marina",
+        "Round": "24",
+        "Lap Number": "57",
+        "Driver ID": "hamilton",
+        "Lap Time": "1:27.751"
+    },
+    {
+        "Circuit ID": "yas_marina",
+        "Round": "24",
+        "Lap Number": "58",
+        "Driver ID": "hamilton",
+        "Lap Time": "1:27.784"
+    },
+    {
+        "Circuit ID": "yas_marina",
+        "Round": "24",
+        "Lap Number": "1",
+        "Driver ID": "russell",
+        "Lap Time": "1:34.679"
+    },
+    {
+        "Circuit ID": "yas_marina",
+        "Round": "24",
+        "Lap Number": "2",
+        "Driver ID": "russell",
+        "Lap Time": "1:49.838"
+    },
+    {
+        "Circuit ID": "yas_marina",
+        "Round": "24",
+        "Lap Number": "3",
+        "Driver ID": "russell",
+        "Lap Time": "1:42.811"
+    },
+    {
+        "Circuit ID": "yas_marina",
+        "Round": "24",
+        "Lap Number": "4",
+        "Driver ID": "russell",
+        "Lap Time": "1:29.488"
+    },
+    {
+        "Circuit ID": "yas_marina",
+        "Round": "24",
+        "Lap Number": "5",
+        "Driver ID": "russell",
+        "Lap Time": "1:29.796"
+    },
+    {
+        "Circuit ID": "yas_marina",
+        "Round": "24",
+        "Lap Number": "6",
+        "Driver ID": "russell",
+        "Lap Time": "1:29.791"
+    },
+    {
+        "Circuit ID": "yas_marina",
+        "Round": "24",
+        "Lap Number": "7",
+        "Driver ID": "russell",
+        "Lap Time": "1:29.738"
+    },
+    {
+        "Circuit ID": "yas_marina",
+        "Round": "24",
+        "Lap Number": "8",
+        "Driver ID": "russell",
+        "Lap Time": "1:29.988"
+    },
+    {
+        "Circuit ID": "yas_marina",
+        "Round": "24",
+        "Lap Number": "9",
+        "Driver ID": "russell",
+        "Lap Time": "1:29.816"
+    },
+    {
+        "Circuit ID": "yas_marina",
+        "Round": "24",
+        "Lap Number": "10",
+        "Driver ID": "russell",
+        "Lap Time": "1:30.056"
+    },
+    {
+        "Circuit ID": "yas_marina",
+        "Round": "24",
+        "Lap Number": "11",
+        "Driver ID": "russell",
+        "Lap Time": "1:30.055"
+    },
+    {
+        "Circuit ID": "yas_marina",
+        "Round": "24",
+        "Lap Number": "12",
+        "Driver ID": "russell",
+        "Lap Time": "1:30.038"
+    },
+    {
+        "Circuit ID": "yas_marina",
+        "Round": "24",
+        "Lap Number": "13",
+        "Driver ID": "russell",
+        "Lap Time": "1:30.080"
+    },
+    {
+        "Circuit ID": "yas_marina",
+        "Round": "24",
+        "Lap Number": "14",
+        "Driver ID": "russell",
+        "Lap Time": "1:29.967"
+    },
+    {
+        "Circuit ID": "yas_marina",
+        "Round": "24",
+        "Lap Number": "15",
+        "Driver ID": "russell",
+        "Lap Time": "1:30.094"
+    },
+    {
+        "Circuit ID": "yas_marina",
+        "Round": "24",
+        "Lap Number": "16",
+        "Driver ID": "russell",
+        "Lap Time": "1:29.795"
+    },
+    {
+        "Circuit ID": "yas_marina",
+        "Round": "24",
+        "Lap Number": "17",
+        "Driver ID": "russell",
+        "Lap Time": "1:29.766"
+    },
+    {
+        "Circuit ID": "yas_marina",
+        "Round": "24",
+        "Lap Number": "18",
+        "Driver ID": "russell",
+        "Lap Time": "1:29.919"
+    },
+    {
+        "Circuit ID": "yas_marina",
+        "Round": "24",
+        "Lap Number": "19",
+        "Driver ID": "russell",
+        "Lap Time": "1:29.857"
+    },
+    {
+        "Circuit ID": "yas_marina",
+        "Round": "24",
+        "Lap Number": "20",
+        "Driver ID": "russell",
+        "Lap Time": "1:29.903"
+    },
+    {
+        "Circuit ID": "yas_marina",
+        "Round": "24",
+        "Lap Number": "21",
+        "Driver ID": "russell",
+        "Lap Time": "1:30.368"
+    },
+    {
+        "Circuit ID": "yas_marina",
+        "Round": "24",
+        "Lap Number": "22",
+        "Driver ID": "russell",
+        "Lap Time": "1:29.896"
+    },
+    {
+        "Circuit ID": "yas_marina",
+        "Round": "24",
+        "Lap Number": "23",
+        "Driver ID": "russell",
+        "Lap Time": "1:30.295"
+    },
+    {
+        "Circuit ID": "yas_marina",
+        "Round": "24",
+        "Lap Number": "24",
+        "Driver ID": "russell",
+        "Lap Time": "1:29.922"
+    },
+    {
+        "Circuit ID": "yas_marina",
+        "Round": "24",
+        "Lap Number": "25",
+        "Driver ID": "russell",
+        "Lap Time": "1:29.945"
+    },
+    {
+        "Circuit ID": "yas_marina",
+        "Round": "24",
+        "Lap Number": "26",
+        "Driver ID": "russell",
+        "Lap Time": "1:32.057"
+    },
+    {
+        "Circuit ID": "yas_marina",
+        "Round": "24",
+        "Lap Number": "27",
+        "Driver ID": "russell",
+        "Lap Time": "1:48.853"
+    },
+    {
+        "Circuit ID": "yas_marina",
+        "Round": "24",
+        "Lap Number": "28",
+        "Driver ID": "russell",
+        "Lap Time": "1:28.470"
+    },
+    {
+        "Circuit ID": "yas_marina",
+        "Round": "24",
+        "Lap Number": "29",
+        "Driver ID": "russell",
+        "Lap Time": "1:28.480"
+    },
+    {
+        "Circuit ID": "yas_marina",
+        "Round": "24",
+        "Lap Number": "30",
+        "Driver ID": "russell",
+        "Lap Time": "1:28.350"
+    },
+    {
+        "Circuit ID": "yas_marina",
+        "Round": "24",
+        "Lap Number": "31",
+        "Driver ID": "russell",
+        "Lap Time": "1:28.981"
+    },
+    {
+        "Circuit ID": "yas_marina",
+        "Round": "24",
+        "Lap Number": "32",
+        "Driver ID": "russell",
+        "Lap Time": "1:28.447"
+    },
+    {
+        "Circuit ID": "yas_marina",
+        "Round": "24",
+        "Lap Number": "33",
+        "Driver ID": "russell",
+        "Lap Time": "1:28.611"
+    },
+    {
+        "Circuit ID": "yas_marina",
+        "Round": "24",
+        "Lap Number": "34",
+        "Driver ID": "russell",
+        "Lap Time": "1:28.373"
+    },
+    {
+        "Circuit ID": "yas_marina",
+        "Round": "24",
+        "Lap Number": "35",
+        "Driver ID": "russell",
+        "Lap Time": "1:28.473"
+    },
+    {
+        "Circuit ID": "yas_marina",
+        "Round": "24",
+        "Lap Number": "36",
+        "Driver ID": "russell",
+        "Lap Time": "1:28.501"
+    },
+    {
+        "Circuit ID": "yas_marina",
+        "Round": "24",
+        "Lap Number": "37",
+        "Driver ID": "russell",
+        "Lap Time": "1:28.498"
+    },
+    {
+        "Circuit ID": "yas_marina",
+        "Round": "24",
+        "Lap Number": "38",
+        "Driver ID": "russell",
+        "Lap Time": "1:28.463"
+    },
+    {
+        "Circuit ID": "yas_marina",
+        "Round": "24",
+        "Lap Number": "39",
+        "Driver ID": "russell",
+        "Lap Time": "1:28.329"
+    },
+    {
+        "Circuit ID": "yas_marina",
+        "Round": "24",
+        "Lap Number": "40",
+        "Driver ID": "russell",
+        "Lap Time": "1:28.454"
+    },
+    {
+        "Circuit ID": "yas_marina",
+        "Round": "24",
+        "Lap Number": "41",
+        "Driver ID": "russell",
+        "Lap Time": "1:28.677"
+    },
+    {
+        "Circuit ID": "yas_marina",
+        "Round": "24",
+        "Lap Number": "42",
+        "Driver ID": "russell",
+        "Lap Time": "1:28.438"
+    },
+    {
+        "Circuit ID": "yas_marina",
+        "Round": "24",
+        "Lap Number": "43",
+        "Driver ID": "russell",
+        "Lap Time": "1:28.329"
+    },
+    {
+        "Circuit ID": "yas_marina",
+        "Round": "24",
+        "Lap Number": "44",
+        "Driver ID": "russell",
+        "Lap Time": "1:28.436"
+    },
+    {
+        "Circuit ID": "yas_marina",
+        "Round": "24",
+        "Lap Number": "45",
+        "Driver ID": "russell",
+        "Lap Time": "1:28.709"
+    },
+    {
+        "Circuit ID": "yas_marina",
+        "Round": "24",
+        "Lap Number": "46",
+        "Driver ID": "russell",
+        "Lap Time": "1:28.549"
+    },
+    {
+        "Circuit ID": "yas_marina",
+        "Round": "24",
+        "Lap Number": "47",
+        "Driver ID": "russell",
+        "Lap Time": "1:28.836"
+    },
+    {
+        "Circuit ID": "yas_marina",
+        "Round": "24",
+        "Lap Number": "48",
+        "Driver ID": "russell",
+        "Lap Time": "1:28.505"
+    },
+    {
+        "Circuit ID": "yas_marina",
+        "Round": "24",
+        "Lap Number": "49",
+        "Driver ID": "russell",
+        "Lap Time": "1:28.420"
+    },
+    {
+        "Circuit ID": "yas_marina",
+        "Round": "24",
+        "Lap Number": "50",
+        "Driver ID": "russell",
+        "Lap Time": "1:28.623"
+    },
+    {
+        "Circuit ID": "yas_marina",
+        "Round": "24",
+        "Lap Number": "51",
+        "Driver ID": "russell",
+        "Lap Time": "1:28.250"
+    },
+    {
+        "Circuit ID": "yas_marina",
+        "Round": "24",
+        "Lap Number": "52",
+        "Driver ID": "russell",
+        "Lap Time": "1:28.394"
+    },
+    {
+        "Circuit ID": "yas_marina",
+        "Round": "24",
+        "Lap Number": "53",
+        "Driver ID": "russell",
+        "Lap Time": "1:28.687"
+    },
+    {
+        "Circuit ID": "yas_marina",
+        "Round": "24",
+        "Lap Number": "54",
+        "Driver ID": "russell",
+        "Lap Time": "1:28.380"
+    },
+    {
+        "Circuit ID": "yas_marina",
+        "Round": "24",
+        "Lap Number": "55",
+        "Driver ID": "russell",
+        "Lap Time": "1:28.361"
+    },
+    {
+        "Circuit ID": "yas_marina",
+        "Round": "24",
+        "Lap Number": "56",
+        "Driver ID": "russell",
+        "Lap Time": "1:28.195"
+    },
+    {
+        "Circuit ID": "yas_marina",
+        "Round": "24",
+        "Lap Number": "57",
+        "Driver ID": "russell",
+        "Lap Time": "1:28.207"
+    },
+    {
+        "Circuit ID": "yas_marina",
+        "Round": "24",
+        "Lap Number": "58",
+        "Driver ID": "russell",
+        "Lap Time": "1:29.592"
+    },
+    {
+        "Circuit ID": "yas_marina",
+        "Round": "24",
+        "Lap Number": "1",
+        "Driver ID": "gasly",
+        "Lap Time": "1:33.984"
+    },
+    {
+        "Circuit ID": "yas_marina",
+        "Round": "24",
+        "Lap Number": "2",
+        "Driver ID": "gasly",
+        "Lap Time": "1:49.760"
+    },
+    {
+        "Circuit ID": "yas_marina",
+        "Round": "24",
+        "Lap Number": "3",
+        "Driver ID": "gasly",
+        "Lap Time": "1:42.837"
+    },
+    {
+        "Circuit ID": "yas_marina",
+        "Round": "24",
+        "Lap Number": "4",
+        "Driver ID": "gasly",
+        "Lap Time": "1:29.406"
+    },
+    {
+        "Circuit ID": "yas_marina",
+        "Round": "24",
+        "Lap Number": "5",
+        "Driver ID": "gasly",
+        "Lap Time": "1:29.611"
+    },
+    {
+        "Circuit ID": "yas_marina",
+        "Round": "24",
+        "Lap Number": "6",
+        "Driver ID": "gasly",
+        "Lap Time": "1:30.014"
+    },
+    {
+        "Circuit ID": "yas_marina",
+        "Round": "24",
+        "Lap Number": "7",
+        "Driver ID": "gasly",
+        "Lap Time": "1:29.744"
+    },
+    {
+        "Circuit ID": "yas_marina",
+        "Round": "24",
+        "Lap Number": "8",
+        "Driver ID": "gasly",
+        "Lap Time": "1:29.732"
+    },
+    {
+        "Circuit ID": "yas_marina",
+        "Round": "24",
+        "Lap Number": "9",
+        "Driver ID": "gasly",
+        "Lap Time": "1:29.631"
+    },
+    {
+        "Circuit ID": "yas_marina",
+        "Round": "24",
+        "Lap Number": "10",
+        "Driver ID": "gasly",
+        "Lap Time": "1:30.127"
+    },
+    {
+        "Circuit ID": "yas_marina",
+        "Round": "24",
+        "Lap Number": "11",
+        "Driver ID": "gasly",
+        "Lap Time": "1:30.072"
+    },
+    {
+        "Circuit ID": "yas_marina",
+        "Round": "24",
+        "Lap Number": "12",
+        "Driver ID": "gasly",
+        "Lap Time": "1:30.174"
+    },
+    {
+        "Circuit ID": "yas_marina",
+        "Round": "24",
+        "Lap Number": "13",
+        "Driver ID": "gasly",
+        "Lap Time": "1:30.173"
+    },
+    {
+        "Circuit ID": "yas_marina",
+        "Round": "24",
+        "Lap Number": "14",
+        "Driver ID": "gasly",
+        "Lap Time": "1:32.241"
+    },
+    {
+        "Circuit ID": "yas_marina",
+        "Round": "24",
+        "Lap Number": "15",
+        "Driver ID": "gasly",
+        "Lap Time": "1:49.784"
+    },
+    {
+        "Circuit ID": "yas_marina",
+        "Round": "24",
+        "Lap Number": "16",
+        "Driver ID": "gasly",
+        "Lap Time": "1:29.927"
+    },
+    {
+        "Circuit ID": "yas_marina",
+        "Round": "24",
+        "Lap Number": "17",
+        "Driver ID": "gasly",
+        "Lap Time": "1:29.986"
+    },
+    {
+        "Circuit ID": "yas_marina",
+        "Round": "24",
+        "Lap Number": "18",
+        "Driver ID": "gasly",
+        "Lap Time": "1:30.123"
+    },
+    {
+        "Circuit ID": "yas_marina",
+        "Round": "24",
+        "Lap Number": "19",
+        "Driver ID": "gasly",
+        "Lap Time": "1:29.567"
+    },
+    {
+        "Circuit ID": "yas_marina",
+        "Round": "24",
+        "Lap Number": "20",
+        "Driver ID": "gasly",
+        "Lap Time": "1:29.562"
+    },
+    {
+        "Circuit ID": "yas_marina",
+        "Round": "24",
+        "Lap Number": "21",
+        "Driver ID": "gasly",
+        "Lap Time": "1:29.725"
+    },
+    {
+        "Circuit ID": "yas_marina",
+        "Round": "24",
+        "Lap Number": "22",
+        "Driver ID": "gasly",
+        "Lap Time": "1:30.627"
+    },
+    {
+        "Circuit ID": "yas_marina",
+        "Round": "24",
+        "Lap Number": "23",
+        "Driver ID": "gasly",
+        "Lap Time": "1:30.137"
+    },
+    {
+        "Circuit ID": "yas_marina",
+        "Round": "24",
+        "Lap Number": "24",
+        "Driver ID": "gasly",
+        "Lap Time": "1:31.144"
+    },
+    {
+        "Circuit ID": "yas_marina",
+        "Round": "24",
+        "Lap Number": "25",
+        "Driver ID": "gasly",
+        "Lap Time": "1:29.750"
+    },
+    {
+        "Circuit ID": "yas_marina",
+        "Round": "24",
+        "Lap Number": "26",
+        "Driver ID": "gasly",
+        "Lap Time": "1:29.688"
+    },
+    {
+        "Circuit ID": "yas_marina",
+        "Round": "24",
+        "Lap Number": "27",
+        "Driver ID": "gasly",
+        "Lap Time": "1:30.381"
+    },
+    {
+        "Circuit ID": "yas_marina",
+        "Round": "24",
+        "Lap Number": "28",
+        "Driver ID": "gasly",
+        "Lap Time": "1:29.596"
+    },
+    {
+        "Circuit ID": "yas_marina",
+        "Round": "24",
+        "Lap Number": "29",
+        "Driver ID": "gasly",
+        "Lap Time": "1:29.409"
+    },
+    {
+        "Circuit ID": "yas_marina",
+        "Round": "24",
+        "Lap Number": "30",
+        "Driver ID": "gasly",
+        "Lap Time": "1:29.251"
+    },
+    {
+        "Circuit ID": "yas_marina",
+        "Round": "24",
+        "Lap Number": "31",
+        "Driver ID": "gasly",
+        "Lap Time": "1:29.563"
+    },
+    {
+        "Circuit ID": "yas_marina",
+        "Round": "24",
+        "Lap Number": "32",
+        "Driver ID": "gasly",
+        "Lap Time": "1:29.647"
+    },
+    {
+        "Circuit ID": "yas_marina",
+        "Round": "24",
+        "Lap Number": "33",
+        "Driver ID": "gasly",
+        "Lap Time": "1:29.516"
+    },
+    {
+        "Circuit ID": "yas_marina",
+        "Round": "24",
+        "Lap Number": "34",
+        "Driver ID": "gasly",
+        "Lap Time": "1:29.431"
+    },
+    {
+        "Circuit ID": "yas_marina",
+        "Round": "24",
+        "Lap Number": "35",
+        "Driver ID": "gasly",
+        "Lap Time": "1:29.500"
+    },
+    {
+        "Circuit ID": "yas_marina",
+        "Round": "24",
+        "Lap Number": "36",
+        "Driver ID": "gasly",
+        "Lap Time": "1:29.321"
+    },
+    {
+        "Circuit ID": "yas_marina",
+        "Round": "24",
+        "Lap Number": "37",
+        "Driver ID": "gasly",
+        "Lap Time": "1:29.212"
+    },
+    {
+        "Circuit ID": "yas_marina",
+        "Round": "24",
+        "Lap Number": "38",
+        "Driver ID": "gasly",
+        "Lap Time": "1:29.506"
+    },
+    {
+        "Circuit ID": "yas_marina",
+        "Round": "24",
+        "Lap Number": "39",
+        "Driver ID": "gasly",
+        "Lap Time": "1:29.321"
+    },
+    {
+        "Circuit ID": "yas_marina",
+        "Round": "24",
+        "Lap Number": "40",
+        "Driver ID": "gasly",
+        "Lap Time": "1:29.372"
+    },
+    {
+        "Circuit ID": "yas_marina",
+        "Round": "24",
+        "Lap Number": "41",
+        "Driver ID": "gasly",
+        "Lap Time": "1:29.504"
+    },
+    {
+        "Circuit ID": "yas_marina",
+        "Round": "24",
+        "Lap Number": "42",
+        "Driver ID": "gasly",
+        "Lap Time": "1:29.998"
+    },
+    {
+        "Circuit ID": "yas_marina",
+        "Round": "24",
+        "Lap Number": "43",
+        "Driver ID": "gasly",
+        "Lap Time": "1:29.453"
+    },
+    {
+        "Circuit ID": "yas_marina",
+        "Round": "24",
+        "Lap Number": "44",
+        "Driver ID": "gasly",
+        "Lap Time": "1:29.379"
+    },
+    {
+        "Circuit ID": "yas_marina",
+        "Round": "24",
+        "Lap Number": "45",
+        "Driver ID": "gasly",
+        "Lap Time": "1:30.401"
+    },
+    {
+        "Circuit ID": "yas_marina",
+        "Round": "24",
+        "Lap Number": "46",
+        "Driver ID": "gasly",
+        "Lap Time": "1:29.650"
+    },
+    {
+        "Circuit ID": "yas_marina",
+        "Round": "24",
+        "Lap Number": "47",
+        "Driver ID": "gasly",
+        "Lap Time": "1:29.523"
+    },
+    {
+        "Circuit ID": "yas_marina",
+        "Round": "24",
+        "Lap Number": "48",
+        "Driver ID": "gasly",
+        "Lap Time": "1:29.434"
+    },
+    {
+        "Circuit ID": "yas_marina",
+        "Round": "24",
+        "Lap Number": "49",
+        "Driver ID": "gasly",
+        "Lap Time": "1:29.493"
+    },
+    {
+        "Circuit ID": "yas_marina",
+        "Round": "24",
+        "Lap Number": "50",
+        "Driver ID": "gasly",
+        "Lap Time": "1:29.606"
+    },
+    {
+        "Circuit ID": "yas_marina",
+        "Round": "24",
+        "Lap Number": "51",
+        "Driver ID": "gasly",
+        "Lap Time": "1:29.571"
+    },
+    {
+        "Circuit ID": "yas_marina",
+        "Round": "24",
+        "Lap Number": "52",
+        "Driver ID": "gasly",
+        "Lap Time": "1:29.650"
+    },
+    {
+        "Circuit ID": "yas_marina",
+        "Round": "24",
+        "Lap Number": "53",
+        "Driver ID": "gasly",
+        "Lap Time": "1:29.676"
+    },
+    {
+        "Circuit ID": "yas_marina",
+        "Round": "24",
+        "Lap Number": "54",
+        "Driver ID": "gasly",
+        "Lap Time": "1:29.447"
+    },
+    {
+        "Circuit ID": "yas_marina",
+        "Round": "24",
+        "Lap Number": "55",
+        "Driver ID": "gasly",
+        "Lap Time": "1:30.172"
+    },
+    {
+        "Circuit ID": "yas_marina",
+        "Round": "24",
+        "Lap Number": "56",
+        "Driver ID": "gasly",
+        "Lap Time": "1:29.541"
+    },
+    {
+        "Circuit ID": "yas_marina",
+        "Round": "24",
+        "Lap Number": "57",
+        "Driver ID": "gasly",
+        "Lap Time": "1:29.936"
+    },
+    {
+        "Circuit ID": "yas_marina",
+        "Round": "24",
+        "Lap Number": "58",
+        "Driver ID": "gasly",
+        "Lap Time": "1:30.865"
+    },
+    {
+        "Circuit ID": "yas_marina",
+        "Round": "24",
+        "Lap Number": "1",
+        "Driver ID": "hulkenberg",
+        "Lap Time": "1:35.498"
+    },
+    {
+        "Circuit ID": "yas_marina",
+        "Round": "24",
+        "Lap Number": "2",
+        "Driver ID": "hulkenberg",
+        "Lap Time": "1:49.887"
+    },
+    {
+        "Circuit ID": "yas_marina",
+        "Round": "24",
+        "Lap Number": "3",
+        "Driver ID": "hulkenberg",
+        "Lap Time": "1:42.689"
+    },
+    {
+        "Circuit ID": "yas_marina",
+        "Round": "24",
+        "Lap Number": "4",
+        "Driver ID": "hulkenberg",
+        "Lap Time": "1:29.348"
+    },
+    {
+        "Circuit ID": "yas_marina",
+        "Round": "24",
+        "Lap Number": "5",
+        "Driver ID": "hulkenberg",
+        "Lap Time": "1:29.968"
+    },
+    {
+        "Circuit ID": "yas_marina",
+        "Round": "24",
+        "Lap Number": "6",
+        "Driver ID": "hulkenberg",
+        "Lap Time": "1:29.787"
+    },
+    {
+        "Circuit ID": "yas_marina",
+        "Round": "24",
+        "Lap Number": "7",
+        "Driver ID": "hulkenberg",
+        "Lap Time": "1:29.760"
+    },
+    {
+        "Circuit ID": "yas_marina",
+        "Round": "24",
+        "Lap Number": "8",
+        "Driver ID": "hulkenberg",
+        "Lap Time": "1:30.089"
+    },
+    {
+        "Circuit ID": "yas_marina",
+        "Round": "24",
+        "Lap Number": "9",
+        "Driver ID": "hulkenberg",
+        "Lap Time": "1:29.959"
+    },
+    {
+        "Circuit ID": "yas_marina",
+        "Round": "24",
+        "Lap Number": "10",
+        "Driver ID": "hulkenberg",
+        "Lap Time": "1:30.401"
+    },
+    {
+        "Circuit ID": "yas_marina",
+        "Round": "24",
+        "Lap Number": "11",
+        "Driver ID": "hulkenberg",
+        "Lap Time": "1:30.744"
+    },
+    {
+        "Circuit ID": "yas_marina",
+        "Round": "24",
+        "Lap Number": "12",
+        "Driver ID": "hulkenberg",
+        "Lap Time": "1:31.288"
+    },
+    {
+        "Circuit ID": "yas_marina",
+        "Round": "24",
+        "Lap Number": "13",
+        "Driver ID": "hulkenberg",
+        "Lap Time": "1:32.490"
+    },
+    {
+        "Circuit ID": "yas_marina",
+        "Round": "24",
+        "Lap Number": "14",
+        "Driver ID": "hulkenberg",
+        "Lap Time": "1:49.649"
+    },
+    {
+        "Circuit ID": "yas_marina",
+        "Round": "24",
+        "Lap Number": "15",
+        "Driver ID": "hulkenberg",
+        "Lap Time": "1:29.786"
+    },
+    {
+        "Circuit ID": "yas_marina",
+        "Round": "24",
+        "Lap Number": "16",
+        "Driver ID": "hulkenberg",
+        "Lap Time": "1:29.985"
+    },
+    {
+        "Circuit ID": "yas_marina",
+        "Round": "24",
+        "Lap Number": "17",
+        "Driver ID": "hulkenberg",
+        "Lap Time": "1:29.152"
+    },
+    {
+        "Circuit ID": "yas_marina",
+        "Round": "24",
+        "Lap Number": "18",
+        "Driver ID": "hulkenberg",
+        "Lap Time": "1:29.806"
+    },
+    {
+        "Circuit ID": "yas_marina",
+        "Round": "24",
+        "Lap Number": "19",
+        "Driver ID": "hulkenberg",
+        "Lap Time": "1:29.496"
+    },
+    {
+        "Circuit ID": "yas_marina",
+        "Round": "24",
+        "Lap Number": "20",
+        "Driver ID": "hulkenberg",
+        "Lap Time": "1:29.872"
+    },
+    {
+        "Circuit ID": "yas_marina",
+        "Round": "24",
+        "Lap Number": "21",
+        "Driver ID": "hulkenberg",
+        "Lap Time": "1:29.891"
+    },
+    {
+        "Circuit ID": "yas_marina",
+        "Round": "24",
+        "Lap Number": "22",
+        "Driver ID": "hulkenberg",
+        "Lap Time": "1:30.100"
+    },
+    {
+        "Circuit ID": "yas_marina",
+        "Round": "24",
+        "Lap Number": "23",
+        "Driver ID": "hulkenberg",
+        "Lap Time": "1:29.987"
+    },
+    {
+        "Circuit ID": "yas_marina",
+        "Round": "24",
+        "Lap Number": "24",
+        "Driver ID": "hulkenberg",
+        "Lap Time": "1:30.006"
+    },
+    {
+        "Circuit ID": "yas_marina",
+        "Round": "24",
+        "Lap Number": "25",
+        "Driver ID": "hulkenberg",
+        "Lap Time": "1:30.113"
+    },
+    {
+        "Circuit ID": "yas_marina",
+        "Round": "24",
+        "Lap Number": "26",
+        "Driver ID": "hulkenberg",
+        "Lap Time": "1:29.715"
+    },
+    {
+        "Circuit ID": "yas_marina",
+        "Round": "24",
+        "Lap Number": "27",
+        "Driver ID": "hulkenberg",
+        "Lap Time": "1:29.808"
+    },
+    {
+        "Circuit ID": "yas_marina",
+        "Round": "24",
+        "Lap Number": "28",
+        "Driver ID": "hulkenberg",
+        "Lap Time": "1:29.572"
+    },
+    {
+        "Circuit ID": "yas_marina",
+        "Round": "24",
+        "Lap Number": "29",
+        "Driver ID": "hulkenberg",
+        "Lap Time": "1:29.784"
+    },
+    {
+        "Circuit ID": "yas_marina",
+        "Round": "24",
+        "Lap Number": "30",
+        "Driver ID": "hulkenberg",
+        "Lap Time": "1:29.322"
+    },
+    {
+        "Circuit ID": "yas_marina",
+        "Round": "24",
+        "Lap Number": "31",
+        "Driver ID": "hulkenberg",
+        "Lap Time": "1:29.727"
+    },
+    {
+        "Circuit ID": "yas_marina",
+        "Round": "24",
+        "Lap Number": "32",
+        "Driver ID": "hulkenberg",
+        "Lap Time": "1:29.676"
+    },
+    {
+        "Circuit ID": "yas_marina",
+        "Round": "24",
+        "Lap Number": "33",
+        "Driver ID": "hulkenberg",
+        "Lap Time": "1:29.331"
+    },
+    {
+        "Circuit ID": "yas_marina",
+        "Round": "24",
+        "Lap Number": "34",
+        "Driver ID": "hulkenberg",
+        "Lap Time": "1:29.535"
+    },
+    {
+        "Circuit ID": "yas_marina",
+        "Round": "24",
+        "Lap Number": "35",
+        "Driver ID": "hulkenberg",
+        "Lap Time": "1:29.358"
+    },
+    {
+        "Circuit ID": "yas_marina",
+        "Round": "24",
+        "Lap Number": "36",
+        "Driver ID": "hulkenberg",
+        "Lap Time": "1:29.457"
+    },
+    {
+        "Circuit ID": "yas_marina",
+        "Round": "24",
+        "Lap Number": "37",
+        "Driver ID": "hulkenberg",
+        "Lap Time": "1:29.277"
+    },
+    {
+        "Circuit ID": "yas_marina",
+        "Round": "24",
+        "Lap Number": "38",
+        "Driver ID": "hulkenberg",
+        "Lap Time": "1:29.682"
+    },
+    {
+        "Circuit ID": "yas_marina",
+        "Round": "24",
+        "Lap Number": "39",
+        "Driver ID": "hulkenberg",
+        "Lap Time": "1:29.234"
+    },
+    {
+        "Circuit ID": "yas_marina",
+        "Round": "24",
+        "Lap Number": "40",
+        "Driver ID": "hulkenberg",
+        "Lap Time": "1:30.404"
+    },
+    {
+        "Circuit ID": "yas_marina",
+        "Round": "24",
+        "Lap Number": "41",
+        "Driver ID": "hulkenberg",
+        "Lap Time": "1:29.416"
+    },
+    {
+        "Circuit ID": "yas_marina",
+        "Round": "24",
+        "Lap Number": "42",
+        "Driver ID": "hulkenberg",
+        "Lap Time": "1:29.379"
+    },
+    {
+        "Circuit ID": "yas_marina",
+        "Round": "24",
+        "Lap Number": "43",
+        "Driver ID": "hulkenberg",
+        "Lap Time": "1:30.470"
+    },
+    {
+        "Circuit ID": "yas_marina",
+        "Round": "24",
+        "Lap Number": "44",
+        "Driver ID": "hulkenberg",
+        "Lap Time": "1:29.595"
+    },
+    {
+        "Circuit ID": "yas_marina",
+        "Round": "24",
+        "Lap Number": "45",
+        "Driver ID": "hulkenberg",
+        "Lap Time": "1:29.756"
+    },
+    {
+        "Circuit ID": "yas_marina",
+        "Round": "24",
+        "Lap Number": "46",
+        "Driver ID": "hulkenberg",
+        "Lap Time": "1:29.592"
+    },
+    {
+        "Circuit ID": "yas_marina",
+        "Round": "24",
+        "Lap Number": "47",
+        "Driver ID": "hulkenberg",
+        "Lap Time": "1:29.331"
+    },
+    {
+        "Circuit ID": "yas_marina",
+        "Round": "24",
+        "Lap Number": "48",
+        "Driver ID": "hulkenberg",
+        "Lap Time": "1:29.573"
+    },
+    {
+        "Circuit ID": "yas_marina",
+        "Round": "24",
+        "Lap Number": "49",
+        "Driver ID": "hulkenberg",
+        "Lap Time": "1:29.359"
+    },
+    {
+        "Circuit ID": "yas_marina",
+        "Round": "24",
+        "Lap Number": "50",
+        "Driver ID": "hulkenberg",
+        "Lap Time": "1:29.595"
+    },
+    {
+        "Circuit ID": "yas_marina",
+        "Round": "24",
+        "Lap Number": "51",
+        "Driver ID": "hulkenberg",
+        "Lap Time": "1:29.448"
+    },
+    {
+        "Circuit ID": "yas_marina",
+        "Round": "24",
+        "Lap Number": "52",
+        "Driver ID": "hulkenberg",
+        "Lap Time": "1:29.518"
+    },
+    {
+        "Circuit ID": "yas_marina",
+        "Round": "24",
+        "Lap Number": "53",
+        "Driver ID": "hulkenberg",
+        "Lap Time": "1:30.107"
+    },
+    {
+        "Circuit ID": "yas_marina",
+        "Round": "24",
+        "Lap Number": "54",
+        "Driver ID": "hulkenberg",
+        "Lap Time": "1:29.819"
+    },
+    {
+        "Circuit ID": "yas_marina",
+        "Round": "24",
+        "Lap Number": "55",
+        "Driver ID": "hulkenberg",
+        "Lap Time": "1:29.939"
+    },
+    {
+        "Circuit ID": "yas_marina",
+        "Round": "24",
+        "Lap Number": "56",
+        "Driver ID": "hulkenberg",
+        "Lap Time": "1:29.991"
+    },
+    {
+        "Circuit ID": "yas_marina",
+        "Round": "24",
+        "Lap Number": "57",
+        "Driver ID": "hulkenberg",
+        "Lap Time": "1:30.284"
+    },
+    {
+        "Circuit ID": "yas_marina",
+        "Round": "24",
+        "Lap Number": "58",
+        "Driver ID": "hulkenberg",
+        "Lap Time": "1:30.040"
+    },
+    {
+        "Circuit ID": "yas_marina",
+        "Round": "24",
+        "Lap Number": "1",
+        "Driver ID": "alonso",
+        "Lap Time": "1:36.166"
+    },
+    {
+        "Circuit ID": "yas_marina",
+        "Round": "24",
+        "Lap Number": "2",
+        "Driver ID": "alonso",
+        "Lap Time": "1:50.156"
+    },
+    {
+        "Circuit ID": "yas_marina",
+        "Round": "24",
+        "Lap Number": "3",
+        "Driver ID": "alonso",
+        "Lap Time": "1:42.240"
+    },
+    {
+        "Circuit ID": "yas_marina",
+        "Round": "24",
+        "Lap Number": "4",
+        "Driver ID": "alonso",
+        "Lap Time": "1:29.434"
+    },
+    {
+        "Circuit ID": "yas_marina",
+        "Round": "24",
+        "Lap Number": "5",
+        "Driver ID": "alonso",
+        "Lap Time": "1:30.084"
+    },
+    {
+        "Circuit ID": "yas_marina",
+        "Round": "24",
+        "Lap Number": "6",
+        "Driver ID": "alonso",
+        "Lap Time": "1:29.829"
+    },
+    {
+        "Circuit ID": "yas_marina",
+        "Round": "24",
+        "Lap Number": "7",
+        "Driver ID": "alonso",
+        "Lap Time": "1:29.785"
+    },
+    {
+        "Circuit ID": "yas_marina",
+        "Round": "24",
+        "Lap Number": "8",
+        "Driver ID": "alonso",
+        "Lap Time": "1:30.032"
+    },
+    {
+        "Circuit ID": "yas_marina",
+        "Round": "24",
+        "Lap Number": "9",
+        "Driver ID": "alonso",
+        "Lap Time": "1:30.085"
+    },
+    {
+        "Circuit ID": "yas_marina",
+        "Round": "24",
+        "Lap Number": "10",
+        "Driver ID": "alonso",
+        "Lap Time": "1:31.708"
+    },
+    {
+        "Circuit ID": "yas_marina",
+        "Round": "24",
+        "Lap Number": "11",
+        "Driver ID": "alonso",
+        "Lap Time": "1:31.088"
+    },
+    {
+        "Circuit ID": "yas_marina",
+        "Round": "24",
+        "Lap Number": "12",
+        "Driver ID": "alonso",
+        "Lap Time": "1:31.821"
+    },
+    {
+        "Circuit ID": "yas_marina",
+        "Round": "24",
+        "Lap Number": "13",
+        "Driver ID": "alonso",
+        "Lap Time": "1:33.244"
+    },
+    {
+        "Circuit ID": "yas_marina",
+        "Round": "24",
+        "Lap Number": "14",
+        "Driver ID": "alonso",
+        "Lap Time": "1:51.792"
+    },
+    {
+        "Circuit ID": "yas_marina",
+        "Round": "24",
+        "Lap Number": "15",
+        "Driver ID": "alonso",
+        "Lap Time": "1:29.756"
+    },
+    {
+        "Circuit ID": "yas_marina",
+        "Round": "24",
+        "Lap Number": "16",
+        "Driver ID": "alonso",
+        "Lap Time": "1:29.907"
+    },
+    {
+        "Circuit ID": "yas_marina",
+        "Round": "24",
+        "Lap Number": "17",
+        "Driver ID": "alonso",
+        "Lap Time": "1:29.892"
+    },
+    {
+        "Circuit ID": "yas_marina",
+        "Round": "24",
+        "Lap Number": "18",
+        "Driver ID": "alonso",
+        "Lap Time": "1:29.565"
+    },
+    {
+        "Circuit ID": "yas_marina",
+        "Round": "24",
+        "Lap Number": "19",
+        "Driver ID": "alonso",
+        "Lap Time": "1:29.708"
+    },
+    {
+        "Circuit ID": "yas_marina",
+        "Round": "24",
+        "Lap Number": "20",
+        "Driver ID": "alonso",
+        "Lap Time": "1:30.087"
+    },
+    {
+        "Circuit ID": "yas_marina",
+        "Round": "24",
+        "Lap Number": "21",
+        "Driver ID": "alonso",
+        "Lap Time": "1:30.133"
+    },
+    {
+        "Circuit ID": "yas_marina",
+        "Round": "24",
+        "Lap Number": "22",
+        "Driver ID": "alonso",
+        "Lap Time": "1:30.178"
+    },
+    {
+        "Circuit ID": "yas_marina",
+        "Round": "24",
+        "Lap Number": "23",
+        "Driver ID": "alonso",
+        "Lap Time": "1:29.863"
+    },
+    {
+        "Circuit ID": "yas_marina",
+        "Round": "24",
+        "Lap Number": "24",
+        "Driver ID": "alonso",
+        "Lap Time": "1:29.652"
+    },
+    {
+        "Circuit ID": "yas_marina",
+        "Round": "24",
+        "Lap Number": "25",
+        "Driver ID": "alonso",
+        "Lap Time": "1:29.802"
+    },
+    {
+        "Circuit ID": "yas_marina",
+        "Round": "24",
+        "Lap Number": "26",
+        "Driver ID": "alonso",
+        "Lap Time": "1:29.755"
+    },
+    {
+        "Circuit ID": "yas_marina",
+        "Round": "24",
+        "Lap Number": "27",
+        "Driver ID": "alonso",
+        "Lap Time": "1:29.718"
+    },
+    {
+        "Circuit ID": "yas_marina",
+        "Round": "24",
+        "Lap Number": "28",
+        "Driver ID": "alonso",
+        "Lap Time": "1:29.672"
+    },
+    {
+        "Circuit ID": "yas_marina",
+        "Round": "24",
+        "Lap Number": "29",
+        "Driver ID": "alonso",
+        "Lap Time": "1:29.828"
+    },
+    {
+        "Circuit ID": "yas_marina",
+        "Round": "24",
+        "Lap Number": "30",
+        "Driver ID": "alonso",
+        "Lap Time": "1:29.900"
+    },
+    {
+        "Circuit ID": "yas_marina",
+        "Round": "24",
+        "Lap Number": "31",
+        "Driver ID": "alonso",
+        "Lap Time": "1:29.874"
+    },
+    {
+        "Circuit ID": "yas_marina",
+        "Round": "24",
+        "Lap Number": "32",
+        "Driver ID": "alonso",
+        "Lap Time": "1:29.986"
+    },
+    {
+        "Circuit ID": "yas_marina",
+        "Round": "24",
+        "Lap Number": "33",
+        "Driver ID": "alonso",
+        "Lap Time": "1:29.839"
+    },
+    {
+        "Circuit ID": "yas_marina",
+        "Round": "24",
+        "Lap Number": "34",
+        "Driver ID": "alonso",
+        "Lap Time": "1:29.650"
+    },
+    {
+        "Circuit ID": "yas_marina",
+        "Round": "24",
+        "Lap Number": "35",
+        "Driver ID": "alonso",
+        "Lap Time": "1:30.225"
+    },
+    {
+        "Circuit ID": "yas_marina",
+        "Round": "24",
+        "Lap Number": "36",
+        "Driver ID": "alonso",
+        "Lap Time": "1:30.419"
+    },
+    {
+        "Circuit ID": "yas_marina",
+        "Round": "24",
+        "Lap Number": "37",
+        "Driver ID": "alonso",
+        "Lap Time": "1:31.999"
+    },
+    {
+        "Circuit ID": "yas_marina",
+        "Round": "24",
+        "Lap Number": "38",
+        "Driver ID": "alonso",
+        "Lap Time": "1:49.629"
+    },
+    {
+        "Circuit ID": "yas_marina",
+        "Round": "24",
+        "Lap Number": "39",
+        "Driver ID": "alonso",
+        "Lap Time": "1:28.735"
+    },
+    {
+        "Circuit ID": "yas_marina",
+        "Round": "24",
+        "Lap Number": "40",
+        "Driver ID": "alonso",
+        "Lap Time": "1:28.937"
+    },
+    {
+        "Circuit ID": "yas_marina",
+        "Round": "24",
+        "Lap Number": "41",
+        "Driver ID": "alonso",
+        "Lap Time": "1:28.402"
+    },
+    {
+        "Circuit ID": "yas_marina",
+        "Round": "24",
+        "Lap Number": "42",
+        "Driver ID": "alonso",
+        "Lap Time": "1:28.379"
+    },
+    {
+        "Circuit ID": "yas_marina",
+        "Round": "24",
+        "Lap Number": "43",
+        "Driver ID": "alonso",
+        "Lap Time": "1:28.729"
+    },
+    {
+        "Circuit ID": "yas_marina",
+        "Round": "24",
+        "Lap Number": "44",
+        "Driver ID": "alonso",
+        "Lap Time": "1:29.066"
+    },
+    {
+        "Circuit ID": "yas_marina",
+        "Round": "24",
+        "Lap Number": "45",
+        "Driver ID": "alonso",
+        "Lap Time": "1:28.238"
+    },
+    {
+        "Circuit ID": "yas_marina",
+        "Round": "24",
+        "Lap Number": "46",
+        "Driver ID": "alonso",
+        "Lap Time": "1:28.583"
+    },
+    {
+        "Circuit ID": "yas_marina",
+        "Round": "24",
+        "Lap Number": "47",
+        "Driver ID": "alonso",
+        "Lap Time": "1:28.231"
+    },
+    {
+        "Circuit ID": "yas_marina",
+        "Round": "24",
+        "Lap Number": "48",
+        "Driver ID": "alonso",
+        "Lap Time": "1:27.997"
+    },
+    {
+        "Circuit ID": "yas_marina",
+        "Round": "24",
+        "Lap Number": "49",
+        "Driver ID": "alonso",
+        "Lap Time": "1:28.372"
+    },
+    {
+        "Circuit ID": "yas_marina",
+        "Round": "24",
+        "Lap Number": "50",
+        "Driver ID": "alonso",
+        "Lap Time": "1:28.709"
+    },
+    {
+        "Circuit ID": "yas_marina",
+        "Round": "24",
+        "Lap Number": "51",
+        "Driver ID": "alonso",
+        "Lap Time": "1:27.948"
+    },
+    {
+        "Circuit ID": "yas_marina",
+        "Round": "24",
+        "Lap Number": "52",
+        "Driver ID": "alonso",
+        "Lap Time": "1:28.277"
+    },
+    {
+        "Circuit ID": "yas_marina",
+        "Round": "24",
+        "Lap Number": "53",
+        "Driver ID": "alonso",
+        "Lap Time": "1:28.231"
+    },
+    {
+        "Circuit ID": "yas_marina",
+        "Round": "24",
+        "Lap Number": "54",
+        "Driver ID": "alonso",
+        "Lap Time": "1:28.214"
+    },
+    {
+        "Circuit ID": "yas_marina",
+        "Round": "24",
+        "Lap Number": "55",
+        "Driver ID": "alonso",
+        "Lap Time": "1:28.281"
+    },
+    {
+        "Circuit ID": "yas_marina",
+        "Round": "24",
+        "Lap Number": "56",
+        "Driver ID": "alonso",
+        "Lap Time": "1:28.276"
+    },
+    {
+        "Circuit ID": "yas_marina",
+        "Round": "24",
+        "Lap Number": "57",
+        "Driver ID": "alonso",
+        "Lap Time": "1:28.937"
+    },
+    {
+        "Circuit ID": "yas_marina",
+        "Round": "24",
+        "Lap Number": "58",
+        "Driver ID": "alonso",
+        "Lap Time": "1:28.621"
+    },
+    {
+        "Circuit ID": "yas_marina",
+        "Round": "24",
+        "Lap Number": "1",
+        "Driver ID": "piastri",
+        "Lap Time": "1:43.757"
+    },
+    {
+        "Circuit ID": "yas_marina",
+        "Round": "24",
+        "Lap Number": "2",
+        "Driver ID": "piastri",
+        "Lap Time": "2:01.916"
+    },
+    {
+        "Circuit ID": "yas_marina",
+        "Round": "24",
+        "Lap Number": "3",
+        "Driver ID": "piastri",
+        "Lap Time": "1:34.860"
+    },
+    {
+        "Circuit ID": "yas_marina",
+        "Round": "24",
+        "Lap Number": "4",
+        "Driver ID": "piastri",
+        "Lap Time": "1:32.201"
+    },
+    {
+        "Circuit ID": "yas_marina",
+        "Round": "24",
+        "Lap Number": "5",
+        "Driver ID": "piastri",
+        "Lap Time": "1:50.887"
+    },
+    {
+        "Circuit ID": "yas_marina",
+        "Round": "24",
+        "Lap Number": "6",
+        "Driver ID": "piastri",
+        "Lap Time": "1:28.950"
+    },
+    {
+        "Circuit ID": "yas_marina",
+        "Round": "24",
+        "Lap Number": "7",
+        "Driver ID": "piastri",
+        "Lap Time": "1:29.152"
+    },
+    {
+        "Circuit ID": "yas_marina",
+        "Round": "24",
+        "Lap Number": "8",
+        "Driver ID": "piastri",
+        "Lap Time": "1:29.482"
+    },
+    {
+        "Circuit ID": "yas_marina",
+        "Round": "24",
+        "Lap Number": "9",
+        "Driver ID": "piastri",
+        "Lap Time": "1:29.553"
+    },
+    {
+        "Circuit ID": "yas_marina",
+        "Round": "24",
+        "Lap Number": "10",
+        "Driver ID": "piastri",
+        "Lap Time": "1:29.669"
+    },
+    {
+        "Circuit ID": "yas_marina",
+        "Round": "24",
+        "Lap Number": "11",
+        "Driver ID": "piastri",
+        "Lap Time": "1:29.317"
+    },
+    {
+        "Circuit ID": "yas_marina",
+        "Round": "24",
+        "Lap Number": "12",
+        "Driver ID": "piastri",
+        "Lap Time": "1:29.841"
+    },
+    {
+        "Circuit ID": "yas_marina",
+        "Round": "24",
+        "Lap Number": "13",
+        "Driver ID": "piastri",
+        "Lap Time": "1:29.567"
+    },
+    {
+        "Circuit ID": "yas_marina",
+        "Round": "24",
+        "Lap Number": "14",
+        "Driver ID": "piastri",
+        "Lap Time": "1:29.319"
+    },
+    {
+        "Circuit ID": "yas_marina",
+        "Round": "24",
+        "Lap Number": "15",
+        "Driver ID": "piastri",
+        "Lap Time": "1:29.895"
+    },
+    {
+        "Circuit ID": "yas_marina",
+        "Round": "24",
+        "Lap Number": "16",
+        "Driver ID": "piastri",
+        "Lap Time": "1:29.904"
+    },
+    {
+        "Circuit ID": "yas_marina",
+        "Round": "24",
+        "Lap Number": "17",
+        "Driver ID": "piastri",
+        "Lap Time": "1:29.659"
+    },
+    {
+        "Circuit ID": "yas_marina",
+        "Round": "24",
+        "Lap Number": "18",
+        "Driver ID": "piastri",
+        "Lap Time": "1:29.607"
+    },
+    {
+        "Circuit ID": "yas_marina",
+        "Round": "24",
+        "Lap Number": "19",
+        "Driver ID": "piastri",
+        "Lap Time": "1:30.058"
+    },
+    {
+        "Circuit ID": "yas_marina",
+        "Round": "24",
+        "Lap Number": "20",
+        "Driver ID": "piastri",
+        "Lap Time": "1:30.191"
+    },
+    {
+        "Circuit ID": "yas_marina",
+        "Round": "24",
+        "Lap Number": "21",
+        "Driver ID": "piastri",
+        "Lap Time": "1:30.277"
+    },
+    {
+        "Circuit ID": "yas_marina",
+        "Round": "24",
+        "Lap Number": "22",
+        "Driver ID": "piastri",
+        "Lap Time": "1:30.173"
+    },
+    {
+        "Circuit ID": "yas_marina",
+        "Round": "24",
+        "Lap Number": "23",
+        "Driver ID": "piastri",
+        "Lap Time": "1:29.661"
+    },
+    {
+        "Circuit ID": "yas_marina",
+        "Round": "24",
+        "Lap Number": "24",
+        "Driver ID": "piastri",
+        "Lap Time": "1:29.790"
+    },
+    {
+        "Circuit ID": "yas_marina",
+        "Round": "24",
+        "Lap Number": "25",
+        "Driver ID": "piastri",
+        "Lap Time": "1:29.894"
+    },
+    {
+        "Circuit ID": "yas_marina",
+        "Round": "24",
+        "Lap Number": "26",
+        "Driver ID": "piastri",
+        "Lap Time": "1:29.669"
+    },
+    {
+        "Circuit ID": "yas_marina",
+        "Round": "24",
+        "Lap Number": "27",
+        "Driver ID": "piastri",
+        "Lap Time": "1:29.631"
+    },
+    {
+        "Circuit ID": "yas_marina",
+        "Round": "24",
+        "Lap Number": "28",
+        "Driver ID": "piastri",
+        "Lap Time": "1:30.036"
+    },
+    {
+        "Circuit ID": "yas_marina",
+        "Round": "24",
+        "Lap Number": "29",
+        "Driver ID": "piastri",
+        "Lap Time": "1:29.735"
+    },
+    {
+        "Circuit ID": "yas_marina",
+        "Round": "24",
+        "Lap Number": "30",
+        "Driver ID": "piastri",
+        "Lap Time": "1:29.907"
+    },
+    {
+        "Circuit ID": "yas_marina",
+        "Round": "24",
+        "Lap Number": "31",
+        "Driver ID": "piastri",
+        "Lap Time": "1:30.169"
+    },
+    {
+        "Circuit ID": "yas_marina",
+        "Round": "24",
+        "Lap Number": "32",
+        "Driver ID": "piastri",
+        "Lap Time": "1:31.627"
+    },
+    {
+        "Circuit ID": "yas_marina",
+        "Round": "24",
+        "Lap Number": "33",
+        "Driver ID": "piastri",
+        "Lap Time": "2:00.448"
+    },
+    {
+        "Circuit ID": "yas_marina",
+        "Round": "24",
+        "Lap Number": "34",
+        "Driver ID": "piastri",
+        "Lap Time": "1:28.576"
+    },
+    {
+        "Circuit ID": "yas_marina",
+        "Round": "24",
+        "Lap Number": "35",
+        "Driver ID": "piastri",
+        "Lap Time": "1:28.193"
+    },
+    {
+        "Circuit ID": "yas_marina",
+        "Round": "24",
+        "Lap Number": "36",
+        "Driver ID": "piastri",
+        "Lap Time": "1:27.931"
+    },
+    {
+        "Circuit ID": "yas_marina",
+        "Round": "24",
+        "Lap Number": "37",
+        "Driver ID": "piastri",
+        "Lap Time": "1:28.469"
+    },
+    {
+        "Circuit ID": "yas_marina",
+        "Round": "24",
+        "Lap Number": "38",
+        "Driver ID": "piastri",
+        "Lap Time": "1:28.238"
+    },
+    {
+        "Circuit ID": "yas_marina",
+        "Round": "24",
+        "Lap Number": "39",
+        "Driver ID": "piastri",
+        "Lap Time": "1:28.206"
+    },
+    {
+        "Circuit ID": "yas_marina",
+        "Round": "24",
+        "Lap Number": "40",
+        "Driver ID": "piastri",
+        "Lap Time": "1:28.325"
+    },
+    {
+        "Circuit ID": "yas_marina",
+        "Round": "24",
+        "Lap Number": "41",
+        "Driver ID": "piastri",
+        "Lap Time": "1:28.112"
+    },
+    {
+        "Circuit ID": "yas_marina",
+        "Round": "24",
+        "Lap Number": "42",
+        "Driver ID": "piastri",
+        "Lap Time": "1:28.067"
+    },
+    {
+        "Circuit ID": "yas_marina",
+        "Round": "24",
+        "Lap Number": "43",
+        "Driver ID": "piastri",
+        "Lap Time": "1:28.052"
+    },
+    {
+        "Circuit ID": "yas_marina",
+        "Round": "24",
+        "Lap Number": "44",
+        "Driver ID": "piastri",
+        "Lap Time": "1:28.497"
+    },
+    {
+        "Circuit ID": "yas_marina",
+        "Round": "24",
+        "Lap Number": "45",
+        "Driver ID": "piastri",
+        "Lap Time": "1:30.015"
+    },
+    {
+        "Circuit ID": "yas_marina",
+        "Round": "24",
+        "Lap Number": "46",
+        "Driver ID": "piastri",
+        "Lap Time": "1:29.677"
+    },
+    {
+        "Circuit ID": "yas_marina",
+        "Round": "24",
+        "Lap Number": "47",
+        "Driver ID": "piastri",
+        "Lap Time": "1:29.671"
+    },
+    {
+        "Circuit ID": "yas_marina",
+        "Round": "24",
+        "Lap Number": "48",
+        "Driver ID": "piastri",
+        "Lap Time": "1:28.407"
+    },
+    {
+        "Circuit ID": "yas_marina",
+        "Round": "24",
+        "Lap Number": "49",
+        "Driver ID": "piastri",
+        "Lap Time": "1:27.928"
+    },
+    {
+        "Circuit ID": "yas_marina",
+        "Round": "24",
+        "Lap Number": "50",
+        "Driver ID": "piastri",
+        "Lap Time": "1:27.705"
+    },
+    {
+        "Circuit ID": "yas_marina",
+        "Round": "24",
+        "Lap Number": "51",
+        "Driver ID": "piastri",
+        "Lap Time": "1:27.690"
+    },
+    {
+        "Circuit ID": "yas_marina",
+        "Round": "24",
+        "Lap Number": "52",
+        "Driver ID": "piastri",
+        "Lap Time": "1:28.491"
+    },
+    {
+        "Circuit ID": "yas_marina",
+        "Round": "24",
+        "Lap Number": "53",
+        "Driver ID": "piastri",
+        "Lap Time": "1:28.168"
+    },
+    {
+        "Circuit ID": "yas_marina",
+        "Round": "24",
+        "Lap Number": "54",
+        "Driver ID": "piastri",
+        "Lap Time": "1:27.731"
+    },
+    {
+        "Circuit ID": "yas_marina",
+        "Round": "24",
+        "Lap Number": "55",
+        "Driver ID": "piastri",
+        "Lap Time": "1:27.781"
+    },
+    {
+        "Circuit ID": "yas_marina",
+        "Round": "24",
+        "Lap Number": "56",
+        "Driver ID": "piastri",
+        "Lap Time": "1:27.816"
+    },
+    {
+        "Circuit ID": "yas_marina",
+        "Round": "24",
+        "Lap Number": "57",
+        "Driver ID": "piastri",
+        "Lap Time": "1:28.554"
+    },
+    {
+        "Circuit ID": "yas_marina",
+        "Round": "24",
+        "Lap Number": "58",
+        "Driver ID": "piastri",
+        "Lap Time": "1:28.010"
+    },
+    {
+        "Circuit ID": "yas_marina",
+        "Round": "24",
+        "Lap Number": "1",
+        "Driver ID": "zhou",
+        "Lap Time": "1:40.718"
+    },
+    {
+        "Circuit ID": "yas_marina",
+        "Round": "24",
+        "Lap Number": "2",
+        "Driver ID": "zhou",
+        "Lap Time": "1:59.827"
+    },
+    {
+        "Circuit ID": "yas_marina",
+        "Round": "24",
+        "Lap Number": "3",
+        "Driver ID": "zhou",
+        "Lap Time": "1:35.927"
+    },
+    {
+        "Circuit ID": "yas_marina",
+        "Round": "24",
+        "Lap Number": "4",
+        "Driver ID": "zhou",
+        "Lap Time": "1:29.966"
+    },
+    {
+        "Circuit ID": "yas_marina",
+        "Round": "24",
+        "Lap Number": "5",
+        "Driver ID": "zhou",
+        "Lap Time": "1:30.462"
+    },
+    {
+        "Circuit ID": "yas_marina",
+        "Round": "24",
+        "Lap Number": "6",
+        "Driver ID": "zhou",
+        "Lap Time": "1:29.914"
+    },
+    {
+        "Circuit ID": "yas_marina",
+        "Round": "24",
+        "Lap Number": "7",
+        "Driver ID": "zhou",
+        "Lap Time": "1:30.541"
+    },
+    {
+        "Circuit ID": "yas_marina",
+        "Round": "24",
+        "Lap Number": "8",
+        "Driver ID": "zhou",
+        "Lap Time": "1:30.298"
+    },
+    {
+        "Circuit ID": "yas_marina",
+        "Round": "24",
+        "Lap Number": "9",
+        "Driver ID": "zhou",
+        "Lap Time": "1:30.420"
+    },
+    {
+        "Circuit ID": "yas_marina",
+        "Round": "24",
+        "Lap Number": "10",
+        "Driver ID": "zhou",
+        "Lap Time": "1:30.523"
+    },
+    {
+        "Circuit ID": "yas_marina",
+        "Round": "24",
+        "Lap Number": "11",
+        "Driver ID": "zhou",
+        "Lap Time": "1:30.808"
+    },
+    {
+        "Circuit ID": "yas_marina",
+        "Round": "24",
+        "Lap Number": "12",
+        "Driver ID": "zhou",
+        "Lap Time": "1:32.863"
+    },
+    {
+        "Circuit ID": "yas_marina",
+        "Round": "24",
+        "Lap Number": "13",
+        "Driver ID": "zhou",
+        "Lap Time": "1:52.329"
+    },
+    {
+        "Circuit ID": "yas_marina",
+        "Round": "24",
+        "Lap Number": "14",
+        "Driver ID": "zhou",
+        "Lap Time": "1:30.128"
+    },
+    {
+        "Circuit ID": "yas_marina",
+        "Round": "24",
+        "Lap Number": "15",
+        "Driver ID": "zhou",
+        "Lap Time": "1:30.086"
+    },
+    {
+        "Circuit ID": "yas_marina",
+        "Round": "24",
+        "Lap Number": "16",
+        "Driver ID": "zhou",
+        "Lap Time": "1:30.136"
+    },
+    {
+        "Circuit ID": "yas_marina",
+        "Round": "24",
+        "Lap Number": "17",
+        "Driver ID": "zhou",
+        "Lap Time": "1:30.264"
+    },
+    {
+        "Circuit ID": "yas_marina",
+        "Round": "24",
+        "Lap Number": "18",
+        "Driver ID": "zhou",
+        "Lap Time": "1:30.040"
+    },
+    {
+        "Circuit ID": "yas_marina",
+        "Round": "24",
+        "Lap Number": "19",
+        "Driver ID": "zhou",
+        "Lap Time": "1:30.017"
+    },
+    {
+        "Circuit ID": "yas_marina",
+        "Round": "24",
+        "Lap Number": "20",
+        "Driver ID": "zhou",
+        "Lap Time": "1:29.984"
+    },
+    {
+        "Circuit ID": "yas_marina",
+        "Round": "24",
+        "Lap Number": "21",
+        "Driver ID": "zhou",
+        "Lap Time": "1:29.928"
+    },
+    {
+        "Circuit ID": "yas_marina",
+        "Round": "24",
+        "Lap Number": "22",
+        "Driver ID": "zhou",
+        "Lap Time": "1:30.298"
+    },
+    {
+        "Circuit ID": "yas_marina",
+        "Round": "24",
+        "Lap Number": "23",
+        "Driver ID": "zhou",
+        "Lap Time": "1:29.946"
+    },
+    {
+        "Circuit ID": "yas_marina",
+        "Round": "24",
+        "Lap Number": "24",
+        "Driver ID": "zhou",
+        "Lap Time": "1:29.935"
+    },
+    {
+        "Circuit ID": "yas_marina",
+        "Round": "24",
+        "Lap Number": "25",
+        "Driver ID": "zhou",
+        "Lap Time": "1:30.310"
+    },
+    {
+        "Circuit ID": "yas_marina",
+        "Round": "24",
+        "Lap Number": "26",
+        "Driver ID": "zhou",
+        "Lap Time": "1:30.126"
+    },
+    {
+        "Circuit ID": "yas_marina",
+        "Round": "24",
+        "Lap Number": "27",
+        "Driver ID": "zhou",
+        "Lap Time": "1:30.238"
+    },
+    {
+        "Circuit ID": "yas_marina",
+        "Round": "24",
+        "Lap Number": "28",
+        "Driver ID": "zhou",
+        "Lap Time": "1:30.148"
+    },
+    {
+        "Circuit ID": "yas_marina",
+        "Round": "24",
+        "Lap Number": "29",
+        "Driver ID": "zhou",
+        "Lap Time": "1:30.244"
+    },
+    {
+        "Circuit ID": "yas_marina",
+        "Round": "24",
+        "Lap Number": "30",
+        "Driver ID": "zhou",
+        "Lap Time": "1:30.241"
+    },
+    {
+        "Circuit ID": "yas_marina",
+        "Round": "24",
+        "Lap Number": "31",
+        "Driver ID": "zhou",
+        "Lap Time": "1:30.609"
+    },
+    {
+        "Circuit ID": "yas_marina",
+        "Round": "24",
+        "Lap Number": "32",
+        "Driver ID": "zhou",
+        "Lap Time": "1:30.212"
+    },
+    {
+        "Circuit ID": "yas_marina",
+        "Round": "24",
+        "Lap Number": "33",
+        "Driver ID": "zhou",
+        "Lap Time": "1:30.014"
+    },
+    {
+        "Circuit ID": "yas_marina",
+        "Round": "24",
+        "Lap Number": "34",
+        "Driver ID": "zhou",
+        "Lap Time": "1:29.912"
+    },
+    {
+        "Circuit ID": "yas_marina",
+        "Round": "24",
+        "Lap Number": "35",
+        "Driver ID": "zhou",
+        "Lap Time": "1:29.834"
+    },
+    {
+        "Circuit ID": "yas_marina",
+        "Round": "24",
+        "Lap Number": "36",
+        "Driver ID": "zhou",
+        "Lap Time": "1:29.753"
+    },
+    {
+        "Circuit ID": "yas_marina",
+        "Round": "24",
+        "Lap Number": "37",
+        "Driver ID": "zhou",
+        "Lap Time": "1:29.708"
+    },
+    {
+        "Circuit ID": "yas_marina",
+        "Round": "24",
+        "Lap Number": "38",
+        "Driver ID": "zhou",
+        "Lap Time": "1:29.736"
+    },
+    {
+        "Circuit ID": "yas_marina",
+        "Round": "24",
+        "Lap Number": "39",
+        "Driver ID": "zhou",
+        "Lap Time": "1:31.750"
+    },
+    {
+        "Circuit ID": "yas_marina",
+        "Round": "24",
+        "Lap Number": "40",
+        "Driver ID": "zhou",
+        "Lap Time": "1:56.496"
+    },
+    {
+        "Circuit ID": "yas_marina",
+        "Round": "24",
+        "Lap Number": "41",
+        "Driver ID": "zhou",
+        "Lap Time": "1:28.255"
+    },
+    {
+        "Circuit ID": "yas_marina",
+        "Round": "24",
+        "Lap Number": "42",
+        "Driver ID": "zhou",
+        "Lap Time": "1:28.303"
+    },
+    {
+        "Circuit ID": "yas_marina",
+        "Round": "24",
+        "Lap Number": "43",
+        "Driver ID": "zhou",
+        "Lap Time": "1:28.690"
+    },
+    {
+        "Circuit ID": "yas_marina",
+        "Round": "24",
+        "Lap Number": "44",
+        "Driver ID": "zhou",
+        "Lap Time": "1:28.678"
+    },
+    {
+        "Circuit ID": "yas_marina",
+        "Round": "24",
+        "Lap Number": "45",
+        "Driver ID": "zhou",
+        "Lap Time": "1:28.689"
+    },
+    {
+        "Circuit ID": "yas_marina",
+        "Round": "24",
+        "Lap Number": "46",
+        "Driver ID": "zhou",
+        "Lap Time": "1:28.862"
+    },
+    {
+        "Circuit ID": "yas_marina",
+        "Round": "24",
+        "Lap Number": "47",
+        "Driver ID": "zhou",
+        "Lap Time": "1:28.682"
+    },
+    {
+        "Circuit ID": "yas_marina",
+        "Round": "24",
+        "Lap Number": "48",
+        "Driver ID": "zhou",
+        "Lap Time": "1:28.619"
+    },
+    {
+        "Circuit ID": "yas_marina",
+        "Round": "24",
+        "Lap Number": "49",
+        "Driver ID": "zhou",
+        "Lap Time": "1:29.096"
+    },
+    {
+        "Circuit ID": "yas_marina",
+        "Round": "24",
+        "Lap Number": "50",
+        "Driver ID": "zhou",
+        "Lap Time": "1:30.162"
+    },
+    {
+        "Circuit ID": "yas_marina",
+        "Round": "24",
+        "Lap Number": "51",
+        "Driver ID": "zhou",
+        "Lap Time": "1:28.732"
+    },
+    {
+        "Circuit ID": "yas_marina",
+        "Round": "24",
+        "Lap Number": "52",
+        "Driver ID": "zhou",
+        "Lap Time": "1:28.230"
+    },
+    {
+        "Circuit ID": "yas_marina",
+        "Round": "24",
+        "Lap Number": "53",
+        "Driver ID": "zhou",
+        "Lap Time": "1:28.483"
+    },
+    {
+        "Circuit ID": "yas_marina",
+        "Round": "24",
+        "Lap Number": "54",
+        "Driver ID": "zhou",
+        "Lap Time": "1:28.022"
+    },
+    {
+        "Circuit ID": "yas_marina",
+        "Round": "24",
+        "Lap Number": "55",
+        "Driver ID": "zhou",
+        "Lap Time": "1:28.047"
+    },
+    {
+        "Circuit ID": "yas_marina",
+        "Round": "24",
+        "Lap Number": "56",
+        "Driver ID": "zhou",
+        "Lap Time": "1:27.982"
+    },
+    {
+        "Circuit ID": "yas_marina",
+        "Round": "24",
+        "Lap Number": "57",
+        "Driver ID": "zhou",
+        "Lap Time": "1:28.374"
+    },
+    {
+        "Circuit ID": "yas_marina",
+        "Round": "24",
+        "Lap Number": "1",
+        "Driver ID": "stroll",
+        "Lap Time": "1:38.324"
+    },
+    {
+        "Circuit ID": "yas_marina",
+        "Round": "24",
+        "Lap Number": "2",
+        "Driver ID": "stroll",
+        "Lap Time": "1:53.356"
+    },
+    {
+        "Circuit ID": "yas_marina",
+        "Round": "24",
+        "Lap Number": "3",
+        "Driver ID": "stroll",
+        "Lap Time": "1:39.525"
+    },
+    {
+        "Circuit ID": "yas_marina",
+        "Round": "24",
+        "Lap Number": "4",
+        "Driver ID": "stroll",
+        "Lap Time": "1:29.685"
+    },
+    {
+        "Circuit ID": "yas_marina",
+        "Round": "24",
+        "Lap Number": "5",
+        "Driver ID": "stroll",
+        "Lap Time": "1:30.050"
+    },
+    {
+        "Circuit ID": "yas_marina",
+        "Round": "24",
+        "Lap Number": "6",
+        "Driver ID": "stroll",
+        "Lap Time": "1:31.119"
+    },
+    {
+        "Circuit ID": "yas_marina",
+        "Round": "24",
+        "Lap Number": "7",
+        "Driver ID": "stroll",
+        "Lap Time": "1:30.190"
+    },
+    {
+        "Circuit ID": "yas_marina",
+        "Round": "24",
+        "Lap Number": "8",
+        "Driver ID": "stroll",
+        "Lap Time": "1:30.467"
+    },
+    {
+        "Circuit ID": "yas_marina",
+        "Round": "24",
+        "Lap Number": "9",
+        "Driver ID": "stroll",
+        "Lap Time": "1:30.505"
+    },
+    {
+        "Circuit ID": "yas_marina",
+        "Round": "24",
+        "Lap Number": "10",
+        "Driver ID": "stroll",
+        "Lap Time": "1:30.836"
+    },
+    {
+        "Circuit ID": "yas_marina",
+        "Round": "24",
+        "Lap Number": "11",
+        "Driver ID": "stroll",
+        "Lap Time": "1:32.854"
+    },
+    {
+        "Circuit ID": "yas_marina",
+        "Round": "24",
+        "Lap Number": "12",
+        "Driver ID": "stroll",
+        "Lap Time": "1:51.685"
+    },
+    {
+        "Circuit ID": "yas_marina",
+        "Round": "24",
+        "Lap Number": "13",
+        "Driver ID": "stroll",
+        "Lap Time": "1:29.880"
+    },
+    {
+        "Circuit ID": "yas_marina",
+        "Round": "24",
+        "Lap Number": "14",
+        "Driver ID": "stroll",
+        "Lap Time": "1:30.544"
+    },
+    {
+        "Circuit ID": "yas_marina",
+        "Round": "24",
+        "Lap Number": "15",
+        "Driver ID": "stroll",
+        "Lap Time": "1:29.963"
+    },
+    {
+        "Circuit ID": "yas_marina",
+        "Round": "24",
+        "Lap Number": "16",
+        "Driver ID": "stroll",
+        "Lap Time": "1:30.032"
+    },
+    {
+        "Circuit ID": "yas_marina",
+        "Round": "24",
+        "Lap Number": "17",
+        "Driver ID": "stroll",
+        "Lap Time": "1:29.772"
+    },
+    {
+        "Circuit ID": "yas_marina",
+        "Round": "24",
+        "Lap Number": "18",
+        "Driver ID": "stroll",
+        "Lap Time": "1:29.744"
+    },
+    {
+        "Circuit ID": "yas_marina",
+        "Round": "24",
+        "Lap Number": "19",
+        "Driver ID": "stroll",
+        "Lap Time": "1:30.074"
+    },
+    {
+        "Circuit ID": "yas_marina",
+        "Round": "24",
+        "Lap Number": "20",
+        "Driver ID": "stroll",
+        "Lap Time": "1:30.375"
+    },
+    {
+        "Circuit ID": "yas_marina",
+        "Round": "24",
+        "Lap Number": "21",
+        "Driver ID": "stroll",
+        "Lap Time": "1:30.348"
+    },
+    {
+        "Circuit ID": "yas_marina",
+        "Round": "24",
+        "Lap Number": "22",
+        "Driver ID": "stroll",
+        "Lap Time": "1:30.376"
+    },
+    {
+        "Circuit ID": "yas_marina",
+        "Round": "24",
+        "Lap Number": "23",
+        "Driver ID": "stroll",
+        "Lap Time": "1:30.297"
+    },
+    {
+        "Circuit ID": "yas_marina",
+        "Round": "24",
+        "Lap Number": "24",
+        "Driver ID": "stroll",
+        "Lap Time": "1:30.425"
+    },
+    {
+        "Circuit ID": "yas_marina",
+        "Round": "24",
+        "Lap Number": "25",
+        "Driver ID": "stroll",
+        "Lap Time": "1:30.240"
+    },
+    {
+        "Circuit ID": "yas_marina",
+        "Round": "24",
+        "Lap Number": "26",
+        "Driver ID": "stroll",
+        "Lap Time": "1:30.185"
+    },
+    {
+        "Circuit ID": "yas_marina",
+        "Round": "24",
+        "Lap Number": "27",
+        "Driver ID": "stroll",
+        "Lap Time": "1:30.163"
+    },
+    {
+        "Circuit ID": "yas_marina",
+        "Round": "24",
+        "Lap Number": "28",
+        "Driver ID": "stroll",
+        "Lap Time": "1:30.320"
+    },
+    {
+        "Circuit ID": "yas_marina",
+        "Round": "24",
+        "Lap Number": "29",
+        "Driver ID": "stroll",
+        "Lap Time": "1:30.162"
+    },
+    {
+        "Circuit ID": "yas_marina",
+        "Round": "24",
+        "Lap Number": "30",
+        "Driver ID": "stroll",
+        "Lap Time": "1:30.130"
+    },
+    {
+        "Circuit ID": "yas_marina",
+        "Round": "24",
+        "Lap Number": "31",
+        "Driver ID": "stroll",
+        "Lap Time": "1:30.696"
+    },
+    {
+        "Circuit ID": "yas_marina",
+        "Round": "24",
+        "Lap Number": "32",
+        "Driver ID": "stroll",
+        "Lap Time": "1:32.228"
+    },
+    {
+        "Circuit ID": "yas_marina",
+        "Round": "24",
+        "Lap Number": "33",
+        "Driver ID": "stroll",
+        "Lap Time": "1:50.047"
+    },
+    {
+        "Circuit ID": "yas_marina",
+        "Round": "24",
+        "Lap Number": "34",
+        "Driver ID": "stroll",
+        "Lap Time": "1:29.589"
+    },
+    {
+        "Circuit ID": "yas_marina",
+        "Round": "24",
+        "Lap Number": "35",
+        "Driver ID": "stroll",
+        "Lap Time": "1:29.398"
+    },
+    {
+        "Circuit ID": "yas_marina",
+        "Round": "24",
+        "Lap Number": "36",
+        "Driver ID": "stroll",
+        "Lap Time": "1:28.853"
+    },
+    {
+        "Circuit ID": "yas_marina",
+        "Round": "24",
+        "Lap Number": "37",
+        "Driver ID": "stroll",
+        "Lap Time": "1:28.798"
+    },
+    {
+        "Circuit ID": "yas_marina",
+        "Round": "24",
+        "Lap Number": "38",
+        "Driver ID": "stroll",
+        "Lap Time": "1:29.877"
+    },
+    {
+        "Circuit ID": "yas_marina",
+        "Round": "24",
+        "Lap Number": "39",
+        "Driver ID": "stroll",
+        "Lap Time": "1:29.453"
+    },
+    {
+        "Circuit ID": "yas_marina",
+        "Round": "24",
+        "Lap Number": "40",
+        "Driver ID": "stroll",
+        "Lap Time": "1:29.037"
+    },
+    {
+        "Circuit ID": "yas_marina",
+        "Round": "24",
+        "Lap Number": "41",
+        "Driver ID": "stroll",
+        "Lap Time": "1:28.995"
+    },
+    {
+        "Circuit ID": "yas_marina",
+        "Round": "24",
+        "Lap Number": "42",
+        "Driver ID": "stroll",
+        "Lap Time": "1:28.604"
+    },
+    {
+        "Circuit ID": "yas_marina",
+        "Round": "24",
+        "Lap Number": "43",
+        "Driver ID": "stroll",
+        "Lap Time": "1:28.804"
+    },
+    {
+        "Circuit ID": "yas_marina",
+        "Round": "24",
+        "Lap Number": "44",
+        "Driver ID": "stroll",
+        "Lap Time": "1:28.731"
+    },
+    {
+        "Circuit ID": "yas_marina",
+        "Round": "24",
+        "Lap Number": "45",
+        "Driver ID": "stroll",
+        "Lap Time": "1:28.777"
+    },
+    {
+        "Circuit ID": "yas_marina",
+        "Round": "24",
+        "Lap Number": "46",
+        "Driver ID": "stroll",
+        "Lap Time": "1:29.006"
+    },
+    {
+        "Circuit ID": "yas_marina",
+        "Round": "24",
+        "Lap Number": "47",
+        "Driver ID": "stroll",
+        "Lap Time": "1:28.794"
+    },
+    {
+        "Circuit ID": "yas_marina",
+        "Round": "24",
+        "Lap Number": "48",
+        "Driver ID": "stroll",
+        "Lap Time": "1:28.831"
+    },
+    {
+        "Circuit ID": "yas_marina",
+        "Round": "24",
+        "Lap Number": "49",
+        "Driver ID": "stroll",
+        "Lap Time": "1:30.413"
+    },
+    {
+        "Circuit ID": "yas_marina",
+        "Round": "24",
+        "Lap Number": "50",
+        "Driver ID": "stroll",
+        "Lap Time": "1:29.244"
+    },
+    {
+        "Circuit ID": "yas_marina",
+        "Round": "24",
+        "Lap Number": "51",
+        "Driver ID": "stroll",
+        "Lap Time": "1:29.847"
+    },
+    {
+        "Circuit ID": "yas_marina",
+        "Round": "24",
+        "Lap Number": "52",
+        "Driver ID": "stroll",
+        "Lap Time": "1:30.945"
+    },
+    {
+        "Circuit ID": "yas_marina",
+        "Round": "24",
+        "Lap Number": "53",
+        "Driver ID": "stroll",
+        "Lap Time": "1:29.525"
+    },
+    {
+        "Circuit ID": "yas_marina",
+        "Round": "24",
+        "Lap Number": "54",
+        "Driver ID": "stroll",
+        "Lap Time": "1:29.568"
+    },
+    {
+        "Circuit ID": "yas_marina",
+        "Round": "24",
+        "Lap Number": "55",
+        "Driver ID": "stroll",
+        "Lap Time": "1:28.618"
+    },
+    {
+        "Circuit ID": "yas_marina",
+        "Round": "24",
+        "Lap Number": "56",
+        "Driver ID": "stroll",
+        "Lap Time": "1:29.126"
+    },
+    {
+        "Circuit ID": "yas_marina",
+        "Round": "24",
+        "Lap Number": "57",
+        "Driver ID": "stroll",
+        "Lap Time": "1:29.334"
+    },
+    {
+        "Circuit ID": "yas_marina",
+        "Round": "24",
+        "Lap Number": "1",
+        "Driver ID": "doohan",
+        "Lap Time": "1:41.564"
+    },
+    {
+        "Circuit ID": "yas_marina",
+        "Round": "24",
+        "Lap Number": "2",
+        "Driver ID": "doohan",
+        "Lap Time": "2:00.814"
+    },
+    {
+        "Circuit ID": "yas_marina",
+        "Round": "24",
+        "Lap Number": "3",
+        "Driver ID": "doohan",
+        "Lap Time": "1:36.802"
+    },
+    {
+        "Circuit ID": "yas_marina",
+        "Round": "24",
+        "Lap Number": "4",
+        "Driver ID": "doohan",
+        "Lap Time": "1:30.198"
+    },
+    {
+        "Circuit ID": "yas_marina",
+        "Round": "24",
+        "Lap Number": "5",
+        "Driver ID": "doohan",
+        "Lap Time": "1:30.457"
+    },
+    {
+        "Circuit ID": "yas_marina",
+        "Round": "24",
+        "Lap Number": "6",
+        "Driver ID": "doohan",
+        "Lap Time": "1:30.503"
+    },
+    {
+        "Circuit ID": "yas_marina",
+        "Round": "24",
+        "Lap Number": "7",
+        "Driver ID": "doohan",
+        "Lap Time": "1:30.775"
+    },
+    {
+        "Circuit ID": "yas_marina",
+        "Round": "24",
+        "Lap Number": "8",
+        "Driver ID": "doohan",
+        "Lap Time": "1:30.952"
+    },
+    {
+        "Circuit ID": "yas_marina",
+        "Round": "24",
+        "Lap Number": "9",
+        "Driver ID": "doohan",
+        "Lap Time": "1:30.960"
+    },
+    {
+        "Circuit ID": "yas_marina",
+        "Round": "24",
+        "Lap Number": "10",
+        "Driver ID": "doohan",
+        "Lap Time": "1:31.054"
+    },
+    {
+        "Circuit ID": "yas_marina",
+        "Round": "24",
+        "Lap Number": "11",
+        "Driver ID": "doohan",
+        "Lap Time": "1:30.825"
+    },
+    {
+        "Circuit ID": "yas_marina",
+        "Round": "24",
+        "Lap Number": "12",
+        "Driver ID": "doohan",
+        "Lap Time": "1:30.859"
+    },
+    {
+        "Circuit ID": "yas_marina",
+        "Round": "24",
+        "Lap Number": "13",
+        "Driver ID": "doohan",
+        "Lap Time": "1:30.584"
+    },
+    {
+        "Circuit ID": "yas_marina",
+        "Round": "24",
+        "Lap Number": "14",
+        "Driver ID": "doohan",
+        "Lap Time": "1:30.610"
+    },
+    {
+        "Circuit ID": "yas_marina",
+        "Round": "24",
+        "Lap Number": "15",
+        "Driver ID": "doohan",
+        "Lap Time": "1:32.119"
+    },
+    {
+        "Circuit ID": "yas_marina",
+        "Round": "24",
+        "Lap Number": "16",
+        "Driver ID": "doohan",
+        "Lap Time": "1:31.100"
+    },
+    {
+        "Circuit ID": "yas_marina",
+        "Round": "24",
+        "Lap Number": "17",
+        "Driver ID": "doohan",
+        "Lap Time": "1:31.563"
+    },
+    {
+        "Circuit ID": "yas_marina",
+        "Round": "24",
+        "Lap Number": "18",
+        "Driver ID": "doohan",
+        "Lap Time": "1:30.964"
+    },
+    {
+        "Circuit ID": "yas_marina",
+        "Round": "24",
+        "Lap Number": "19",
+        "Driver ID": "doohan",
+        "Lap Time": "1:30.902"
+    },
+    {
+        "Circuit ID": "yas_marina",
+        "Round": "24",
+        "Lap Number": "20",
+        "Driver ID": "doohan",
+        "Lap Time": "1:30.940"
+    },
+    {
+        "Circuit ID": "yas_marina",
+        "Round": "24",
+        "Lap Number": "21",
+        "Driver ID": "doohan",
+        "Lap Time": "1:30.920"
+    },
+    {
+        "Circuit ID": "yas_marina",
+        "Round": "24",
+        "Lap Number": "22",
+        "Driver ID": "doohan",
+        "Lap Time": "1:33.037"
+    },
+    {
+        "Circuit ID": "yas_marina",
+        "Round": "24",
+        "Lap Number": "23",
+        "Driver ID": "doohan",
+        "Lap Time": "1:50.994"
+    },
+    {
+        "Circuit ID": "yas_marina",
+        "Round": "24",
+        "Lap Number": "24",
+        "Driver ID": "doohan",
+        "Lap Time": "1:29.815"
+    },
+    {
+        "Circuit ID": "yas_marina",
+        "Round": "24",
+        "Lap Number": "25",
+        "Driver ID": "doohan",
+        "Lap Time": "1:29.949"
+    },
+    {
+        "Circuit ID": "yas_marina",
+        "Round": "24",
+        "Lap Number": "26",
+        "Driver ID": "doohan",
+        "Lap Time": "1:30.411"
+    },
+    {
+        "Circuit ID": "yas_marina",
+        "Round": "24",
+        "Lap Number": "27",
+        "Driver ID": "doohan",
+        "Lap Time": "1:30.173"
+    },
+    {
+        "Circuit ID": "yas_marina",
+        "Round": "24",
+        "Lap Number": "28",
+        "Driver ID": "doohan",
+        "Lap Time": "1:30.089"
+    },
+    {
+        "Circuit ID": "yas_marina",
+        "Round": "24",
+        "Lap Number": "29",
+        "Driver ID": "doohan",
+        "Lap Time": "1:30.212"
+    },
+    {
+        "Circuit ID": "yas_marina",
+        "Round": "24",
+        "Lap Number": "30",
+        "Driver ID": "doohan",
+        "Lap Time": "1:30.119"
+    },
+    {
+        "Circuit ID": "yas_marina",
+        "Round": "24",
+        "Lap Number": "31",
+        "Driver ID": "doohan",
+        "Lap Time": "1:30.072"
+    },
+    {
+        "Circuit ID": "yas_marina",
+        "Round": "24",
+        "Lap Number": "32",
+        "Driver ID": "doohan",
+        "Lap Time": "1:30.404"
+    },
+    {
+        "Circuit ID": "yas_marina",
+        "Round": "24",
+        "Lap Number": "33",
+        "Driver ID": "doohan",
+        "Lap Time": "1:30.131"
+    },
+    {
+        "Circuit ID": "yas_marina",
+        "Round": "24",
+        "Lap Number": "34",
+        "Driver ID": "doohan",
+        "Lap Time": "1:30.025"
+    },
+    {
+        "Circuit ID": "yas_marina",
+        "Round": "24",
+        "Lap Number": "35",
+        "Driver ID": "doohan",
+        "Lap Time": "1:29.713"
+    },
+    {
+        "Circuit ID": "yas_marina",
+        "Round": "24",
+        "Lap Number": "36",
+        "Driver ID": "doohan",
+        "Lap Time": "1:29.449"
+    },
+    {
+        "Circuit ID": "yas_marina",
+        "Round": "24",
+        "Lap Number": "37",
+        "Driver ID": "doohan",
+        "Lap Time": "1:29.495"
+    },
+    {
+        "Circuit ID": "yas_marina",
+        "Round": "24",
+        "Lap Number": "38",
+        "Driver ID": "doohan",
+        "Lap Time": "1:29.501"
+    },
+    {
+        "Circuit ID": "yas_marina",
+        "Round": "24",
+        "Lap Number": "39",
+        "Driver ID": "doohan",
+        "Lap Time": "1:30.663"
+    },
+    {
+        "Circuit ID": "yas_marina",
+        "Round": "24",
+        "Lap Number": "40",
+        "Driver ID": "doohan",
+        "Lap Time": "1:30.987"
+    },
+    {
+        "Circuit ID": "yas_marina",
+        "Round": "24",
+        "Lap Number": "41",
+        "Driver ID": "doohan",
+        "Lap Time": "1:30.023"
+    },
+    {
+        "Circuit ID": "yas_marina",
+        "Round": "24",
+        "Lap Number": "42",
+        "Driver ID": "doohan",
+        "Lap Time": "1:29.592"
+    },
+    {
+        "Circuit ID": "yas_marina",
+        "Round": "24",
+        "Lap Number": "43",
+        "Driver ID": "doohan",
+        "Lap Time": "1:31.232"
+    },
+    {
+        "Circuit ID": "yas_marina",
+        "Round": "24",
+        "Lap Number": "44",
+        "Driver ID": "doohan",
+        "Lap Time": "1:29.753"
+    },
+    {
+        "Circuit ID": "yas_marina",
+        "Round": "24",
+        "Lap Number": "45",
+        "Driver ID": "doohan",
+        "Lap Time": "1:29.493"
+    },
+    {
+        "Circuit ID": "yas_marina",
+        "Round": "24",
+        "Lap Number": "46",
+        "Driver ID": "doohan",
+        "Lap Time": "1:32.136"
+    },
+    {
+        "Circuit ID": "yas_marina",
+        "Round": "24",
+        "Lap Number": "47",
+        "Driver ID": "doohan",
+        "Lap Time": "1:29.753"
+    },
+    {
+        "Circuit ID": "yas_marina",
+        "Round": "24",
+        "Lap Number": "48",
+        "Driver ID": "doohan",
+        "Lap Time": "1:29.454"
+    },
+    {
+        "Circuit ID": "yas_marina",
+        "Round": "24",
+        "Lap Number": "49",
+        "Driver ID": "doohan",
+        "Lap Time": "1:29.617"
+    },
+    {
+        "Circuit ID": "yas_marina",
+        "Round": "24",
+        "Lap Number": "50",
+        "Driver ID": "doohan",
+        "Lap Time": "1:30.537"
+    },
+    {
+        "Circuit ID": "yas_marina",
+        "Round": "24",
+        "Lap Number": "51",
+        "Driver ID": "doohan",
+        "Lap Time": "1:30.380"
+    },
+    {
+        "Circuit ID": "yas_marina",
+        "Round": "24",
+        "Lap Number": "52",
+        "Driver ID": "doohan",
+        "Lap Time": "1:29.582"
+    },
+    {
+        "Circuit ID": "yas_marina",
+        "Round": "24",
+        "Lap Number": "53",
+        "Driver ID": "doohan",
+        "Lap Time": "1:29.717"
+    },
+    {
+        "Circuit ID": "yas_marina",
+        "Round": "24",
+        "Lap Number": "54",
+        "Driver ID": "doohan",
+        "Lap Time": "1:29.539"
+    },
+    {
+        "Circuit ID": "yas_marina",
+        "Round": "24",
+        "Lap Number": "55",
+        "Driver ID": "doohan",
+        "Lap Time": "1:29.647"
+    },
+    {
+        "Circuit ID": "yas_marina",
+        "Round": "24",
+        "Lap Number": "56",
+        "Driver ID": "doohan",
+        "Lap Time": "1:29.121"
+    },
+    {
+        "Circuit ID": "yas_marina",
+        "Round": "24",
+        "Lap Number": "57",
+        "Driver ID": "doohan",
+        "Lap Time": "1:29.566"
+    },
+    {
+        "Circuit ID": "yas_marina",
+        "Round": "24",
+        "Lap Number": "1",
+        "Driver ID": "kevin_magnussen",
+        "Lap Time": "1:36.949"
+    },
+    {
+        "Circuit ID": "yas_marina",
+        "Round": "24",
+        "Lap Number": "2",
+        "Driver ID": "kevin_magnussen",
+        "Lap Time": "1:50.197"
+    },
+    {
+        "Circuit ID": "yas_marina",
+        "Round": "24",
+        "Lap Number": "3",
+        "Driver ID": "kevin_magnussen",
+        "Lap Time": "1:42.283"
+    },
+    {
+        "Circuit ID": "yas_marina",
+        "Round": "24",
+        "Lap Number": "4",
+        "Driver ID": "kevin_magnussen",
+        "Lap Time": "1:29.202"
+    },
+    {
+        "Circuit ID": "yas_marina",
+        "Round": "24",
+        "Lap Number": "5",
+        "Driver ID": "kevin_magnussen",
+        "Lap Time": "1:30.040"
+    },
+    {
+        "Circuit ID": "yas_marina",
+        "Round": "24",
+        "Lap Number": "6",
+        "Driver ID": "kevin_magnussen",
+        "Lap Time": "1:30.186"
+    },
+    {
+        "Circuit ID": "yas_marina",
+        "Round": "24",
+        "Lap Number": "7",
+        "Driver ID": "kevin_magnussen",
+        "Lap Time": "1:31.078"
+    },
+    {
+        "Circuit ID": "yas_marina",
+        "Round": "24",
+        "Lap Number": "8",
+        "Driver ID": "kevin_magnussen",
+        "Lap Time": "1:30.423"
+    },
+    {
+        "Circuit ID": "yas_marina",
+        "Round": "24",
+        "Lap Number": "9",
+        "Driver ID": "kevin_magnussen",
+        "Lap Time": "1:31.089"
+    },
+    {
+        "Circuit ID": "yas_marina",
+        "Round": "24",
+        "Lap Number": "10",
+        "Driver ID": "kevin_magnussen",
+        "Lap Time": "1:31.035"
+    },
+    {
+        "Circuit ID": "yas_marina",
+        "Round": "24",
+        "Lap Number": "11",
+        "Driver ID": "kevin_magnussen",
+        "Lap Time": "1:30.943"
+    },
+    {
+        "Circuit ID": "yas_marina",
+        "Round": "24",
+        "Lap Number": "12",
+        "Driver ID": "kevin_magnussen",
+        "Lap Time": "1:32.565"
+    },
+    {
+        "Circuit ID": "yas_marina",
+        "Round": "24",
+        "Lap Number": "13",
+        "Driver ID": "kevin_magnussen",
+        "Lap Time": "1:53.873"
+    },
+    {
+        "Circuit ID": "yas_marina",
+        "Round": "24",
+        "Lap Number": "14",
+        "Driver ID": "kevin_magnussen",
+        "Lap Time": "1:29.826"
+    },
+    {
+        "Circuit ID": "yas_marina",
+        "Round": "24",
+        "Lap Number": "15",
+        "Driver ID": "kevin_magnussen",
+        "Lap Time": "1:29.899"
+    },
+    {
+        "Circuit ID": "yas_marina",
+        "Round": "24",
+        "Lap Number": "16",
+        "Driver ID": "kevin_magnussen",
+        "Lap Time": "1:30.014"
+    },
+    {
+        "Circuit ID": "yas_marina",
+        "Round": "24",
+        "Lap Number": "17",
+        "Driver ID": "kevin_magnussen",
+        "Lap Time": "1:29.941"
+    },
+    {
+        "Circuit ID": "yas_marina",
+        "Round": "24",
+        "Lap Number": "18",
+        "Driver ID": "kevin_magnussen",
+        "Lap Time": "1:29.837"
+    },
+    {
+        "Circuit ID": "yas_marina",
+        "Round": "24",
+        "Lap Number": "19",
+        "Driver ID": "kevin_magnussen",
+        "Lap Time": "1:30.041"
+    },
+    {
+        "Circuit ID": "yas_marina",
+        "Round": "24",
+        "Lap Number": "20",
+        "Driver ID": "kevin_magnussen",
+        "Lap Time": "1:30.819"
+    },
+    {
+        "Circuit ID": "yas_marina",
+        "Round": "24",
+        "Lap Number": "21",
+        "Driver ID": "kevin_magnussen",
+        "Lap Time": "1:30.025"
+    },
+    {
+        "Circuit ID": "yas_marina",
+        "Round": "24",
+        "Lap Number": "22",
+        "Driver ID": "kevin_magnussen",
+        "Lap Time": "1:30.250"
+    },
+    {
+        "Circuit ID": "yas_marina",
+        "Round": "24",
+        "Lap Number": "23",
+        "Driver ID": "kevin_magnussen",
+        "Lap Time": "1:30.293"
+    },
+    {
+        "Circuit ID": "yas_marina",
+        "Round": "24",
+        "Lap Number": "24",
+        "Driver ID": "kevin_magnussen",
+        "Lap Time": "1:30.352"
+    },
+    {
+        "Circuit ID": "yas_marina",
+        "Round": "24",
+        "Lap Number": "25",
+        "Driver ID": "kevin_magnussen",
+        "Lap Time": "1:30.418"
+    },
+    {
+        "Circuit ID": "yas_marina",
+        "Round": "24",
+        "Lap Number": "26",
+        "Driver ID": "kevin_magnussen",
+        "Lap Time": "1:30.514"
+    },
+    {
+        "Circuit ID": "yas_marina",
+        "Round": "24",
+        "Lap Number": "27",
+        "Driver ID": "kevin_magnussen",
+        "Lap Time": "1:30.623"
+    },
+    {
+        "Circuit ID": "yas_marina",
+        "Round": "24",
+        "Lap Number": "28",
+        "Driver ID": "kevin_magnussen",
+        "Lap Time": "1:30.420"
+    },
+    {
+        "Circuit ID": "yas_marina",
+        "Round": "24",
+        "Lap Number": "29",
+        "Driver ID": "kevin_magnussen",
+        "Lap Time": "1:31.849"
+    },
+    {
+        "Circuit ID": "yas_marina",
+        "Round": "24",
+        "Lap Number": "30",
+        "Driver ID": "kevin_magnussen",
+        "Lap Time": "2:01.980"
+    },
+    {
+        "Circuit ID": "yas_marina",
+        "Round": "24",
+        "Lap Number": "31",
+        "Driver ID": "kevin_magnussen",
+        "Lap Time": "1:52.368"
+    },
+    {
+        "Circuit ID": "yas_marina",
+        "Round": "24",
+        "Lap Number": "32",
+        "Driver ID": "kevin_magnussen",
+        "Lap Time": "1:27.235"
+    },
+    {
+        "Circuit ID": "yas_marina",
+        "Round": "24",
+        "Lap Number": "33",
+        "Driver ID": "kevin_magnussen",
+        "Lap Time": "1:29.175"
+    },
+    {
+        "Circuit ID": "yas_marina",
+        "Round": "24",
+        "Lap Number": "34",
+        "Driver ID": "kevin_magnussen",
+        "Lap Time": "1:29.457"
+    },
+    {
+        "Circuit ID": "yas_marina",
+        "Round": "24",
+        "Lap Number": "35",
+        "Driver ID": "kevin_magnussen",
+        "Lap Time": "1:29.382"
+    },
+    {
+        "Circuit ID": "yas_marina",
+        "Round": "24",
+        "Lap Number": "36",
+        "Driver ID": "kevin_magnussen",
+        "Lap Time": "1:29.176"
+    },
+    {
+        "Circuit ID": "yas_marina",
+        "Round": "24",
+        "Lap Number": "37",
+        "Driver ID": "kevin_magnussen",
+        "Lap Time": "1:28.996"
+    },
+    {
+        "Circuit ID": "yas_marina",
+        "Round": "24",
+        "Lap Number": "38",
+        "Driver ID": "kevin_magnussen",
+        "Lap Time": "1:28.655"
+    },
+    {
+        "Circuit ID": "yas_marina",
+        "Round": "24",
+        "Lap Number": "39",
+        "Driver ID": "kevin_magnussen",
+        "Lap Time": "1:28.842"
+    },
+    {
+        "Circuit ID": "yas_marina",
+        "Round": "24",
+        "Lap Number": "40",
+        "Driver ID": "kevin_magnussen",
+        "Lap Time": "1:28.917"
+    },
+    {
+        "Circuit ID": "yas_marina",
+        "Round": "24",
+        "Lap Number": "41",
+        "Driver ID": "kevin_magnussen",
+        "Lap Time": "1:28.637"
+    },
+    {
+        "Circuit ID": "yas_marina",
+        "Round": "24",
+        "Lap Number": "42",
+        "Driver ID": "kevin_magnussen",
+        "Lap Time": "1:29.086"
+    },
+    {
+        "Circuit ID": "yas_marina",
+        "Round": "24",
+        "Lap Number": "43",
+        "Driver ID": "kevin_magnussen",
+        "Lap Time": "1:28.890"
+    },
+    {
+        "Circuit ID": "yas_marina",
+        "Round": "24",
+        "Lap Number": "44",
+        "Driver ID": "kevin_magnussen",
+        "Lap Time": "1:31.131"
+    },
+    {
+        "Circuit ID": "yas_marina",
+        "Round": "24",
+        "Lap Number": "45",
+        "Driver ID": "kevin_magnussen",
+        "Lap Time": "1:29.632"
+    },
+    {
+        "Circuit ID": "yas_marina",
+        "Round": "24",
+        "Lap Number": "46",
+        "Driver ID": "kevin_magnussen",
+        "Lap Time": "1:29.660"
+    },
+    {
+        "Circuit ID": "yas_marina",
+        "Round": "24",
+        "Lap Number": "47",
+        "Driver ID": "kevin_magnussen",
+        "Lap Time": "1:30.841"
+    },
+    {
+        "Circuit ID": "yas_marina",
+        "Round": "24",
+        "Lap Number": "48",
+        "Driver ID": "kevin_magnussen",
+        "Lap Time": "1:30.029"
+    },
+    {
+        "Circuit ID": "yas_marina",
+        "Round": "24",
+        "Lap Number": "49",
+        "Driver ID": "kevin_magnussen",
+        "Lap Time": "1:30.332"
+    },
+    {
+        "Circuit ID": "yas_marina",
+        "Round": "24",
+        "Lap Number": "50",
+        "Driver ID": "kevin_magnussen",
+        "Lap Time": "1:31.110"
+    },
+    {
+        "Circuit ID": "yas_marina",
+        "Round": "24",
+        "Lap Number": "51",
+        "Driver ID": "kevin_magnussen",
+        "Lap Time": "1:30.043"
+    },
+    {
+        "Circuit ID": "yas_marina",
+        "Round": "24",
+        "Lap Number": "52",
+        "Driver ID": "kevin_magnussen",
+        "Lap Time": "1:30.322"
+    },
+    {
+        "Circuit ID": "yas_marina",
+        "Round": "24",
+        "Lap Number": "53",
+        "Driver ID": "kevin_magnussen",
+        "Lap Time": "1:30.215"
+    },
+    {
+        "Circuit ID": "yas_marina",
+        "Round": "24",
+        "Lap Number": "54",
+        "Driver ID": "kevin_magnussen",
+        "Lap Time": "1:31.204"
+    },
+    {
+        "Circuit ID": "yas_marina",
+        "Round": "24",
+        "Lap Number": "55",
+        "Driver ID": "kevin_magnussen",
+        "Lap Time": "1:31.958"
+    },
+    {
+        "Circuit ID": "yas_marina",
+        "Round": "24",
+        "Lap Number": "56",
+        "Driver ID": "kevin_magnussen",
+        "Lap Time": "1:52.994"
+    },
+    {
+        "Circuit ID": "yas_marina",
+        "Round": "24",
+        "Lap Number": "57",
+        "Driver ID": "kevin_magnussen",
+        "Lap Time": "1:25.637"
+    },
+    {
+        "Circuit ID": "yas_marina",
+        "Round": "24",
+        "Lap Number": "1",
+        "Driver ID": "bottas",
+        "Lap Time": "1:40.183"
+    },
+    {
+        "Circuit ID": "yas_marina",
+        "Round": "24",
+        "Lap Number": "2",
+        "Driver ID": "bottas",
+        "Lap Time": "1:57.544"
+    },
+    {
+        "Circuit ID": "yas_marina",
+        "Round": "24",
+        "Lap Number": "3",
+        "Driver ID": "bottas",
+        "Lap Time": "1:38.101"
+    },
+    {
+        "Circuit ID": "yas_marina",
+        "Round": "24",
+        "Lap Number": "4",
+        "Driver ID": "bottas",
+        "Lap Time": "1:29.944"
+    },
+    {
+        "Circuit ID": "yas_marina",
+        "Round": "24",
+        "Lap Number": "5",
+        "Driver ID": "bottas",
+        "Lap Time": "1:30.474"
+    },
+    {
+        "Circuit ID": "yas_marina",
+        "Round": "24",
+        "Lap Number": "6",
+        "Driver ID": "bottas",
+        "Lap Time": "1:33.388"
+    },
+    {
+        "Circuit ID": "yas_marina",
+        "Round": "24",
+        "Lap Number": "7",
+        "Driver ID": "bottas",
+        "Lap Time": "2:10.132"
+    },
+    {
+        "Circuit ID": "yas_marina",
+        "Round": "24",
+        "Lap Number": "8",
+        "Driver ID": "bottas",
+        "Lap Time": "1:29.597"
+    },
+    {
+        "Circuit ID": "yas_marina",
+        "Round": "24",
+        "Lap Number": "9",
+        "Driver ID": "bottas",
+        "Lap Time": "1:29.903"
+    },
+    {
+        "Circuit ID": "yas_marina",
+        "Round": "24",
+        "Lap Number": "10",
+        "Driver ID": "bottas",
+        "Lap Time": "1:29.838"
+    },
+    {
+        "Circuit ID": "yas_marina",
+        "Round": "24",
+        "Lap Number": "11",
+        "Driver ID": "bottas",
+        "Lap Time": "1:29.893"
+    },
+    {
+        "Circuit ID": "yas_marina",
+        "Round": "24",
+        "Lap Number": "12",
+        "Driver ID": "bottas",
+        "Lap Time": "1:29.883"
+    },
+    {
+        "Circuit ID": "yas_marina",
+        "Round": "24",
+        "Lap Number": "13",
+        "Driver ID": "bottas",
+        "Lap Time": "1:29.812"
+    },
+    {
+        "Circuit ID": "yas_marina",
+        "Round": "24",
+        "Lap Number": "14",
+        "Driver ID": "bottas",
+        "Lap Time": "1:29.482"
+    },
+    {
+        "Circuit ID": "yas_marina",
+        "Round": "24",
+        "Lap Number": "15",
+        "Driver ID": "bottas",
+        "Lap Time": "1:29.572"
+    },
+    {
+        "Circuit ID": "yas_marina",
+        "Round": "24",
+        "Lap Number": "16",
+        "Driver ID": "bottas",
+        "Lap Time": "1:29.582"
+    },
+    {
+        "Circuit ID": "yas_marina",
+        "Round": "24",
+        "Lap Number": "17",
+        "Driver ID": "bottas",
+        "Lap Time": "1:29.819"
+    },
+    {
+        "Circuit ID": "yas_marina",
+        "Round": "24",
+        "Lap Number": "18",
+        "Driver ID": "bottas",
+        "Lap Time": "1:29.680"
+    },
+    {
+        "Circuit ID": "yas_marina",
+        "Round": "24",
+        "Lap Number": "19",
+        "Driver ID": "bottas",
+        "Lap Time": "1:30.046"
+    },
+    {
+        "Circuit ID": "yas_marina",
+        "Round": "24",
+        "Lap Number": "20",
+        "Driver ID": "bottas",
+        "Lap Time": "1:30.103"
+    },
+    {
+        "Circuit ID": "yas_marina",
+        "Round": "24",
+        "Lap Number": "21",
+        "Driver ID": "bottas",
+        "Lap Time": "1:29.823"
+    },
+    {
+        "Circuit ID": "yas_marina",
+        "Round": "24",
+        "Lap Number": "22",
+        "Driver ID": "bottas",
+        "Lap Time": "1:30.476"
+    },
+    {
+        "Circuit ID": "yas_marina",
+        "Round": "24",
+        "Lap Number": "23",
+        "Driver ID": "bottas",
+        "Lap Time": "1:30.799"
+    },
+    {
+        "Circuit ID": "yas_marina",
+        "Round": "24",
+        "Lap Number": "24",
+        "Driver ID": "bottas",
+        "Lap Time": "1:30.673"
+    },
+    {
+        "Circuit ID": "yas_marina",
+        "Round": "24",
+        "Lap Number": "25",
+        "Driver ID": "bottas",
+        "Lap Time": "1:31.520"
+    },
+    {
+        "Circuit ID": "yas_marina",
+        "Round": "24",
+        "Lap Number": "26",
+        "Driver ID": "bottas",
+        "Lap Time": "1:31.252"
+    },
+    {
+        "Circuit ID": "yas_marina",
+        "Round": "24",
+        "Lap Number": "27",
+        "Driver ID": "bottas",
+        "Lap Time": "1:30.814"
+    },
+    {
+        "Circuit ID": "yas_marina",
+        "Round": "24",
+        "Lap Number": "28",
+        "Driver ID": "bottas",
+        "Lap Time": "1:30.702"
+    },
+    {
+        "Circuit ID": "yas_marina",
+        "Round": "24",
+        "Lap Number": "29",
+        "Driver ID": "bottas",
+        "Lap Time": "1:30.691"
+    },
+    {
+        "Circuit ID": "yas_marina",
+        "Round": "24",
+        "Lap Number": "30",
+        "Driver ID": "bottas",
+        "Lap Time": "2:23.554"
+    },
+    {
+        "Circuit ID": "yas_marina",
+        "Round": "24",
+        "Lap Number": "1",
+        "Driver ID": "colapinto",
+        "Lap Time": "1:42.506"
+    },
+    {
+        "Circuit ID": "yas_marina",
+        "Round": "24",
+        "Lap Number": "2",
+        "Driver ID": "colapinto",
+        "Lap Time": "2:02.028"
+    },
+    {
+        "Circuit ID": "yas_marina",
+        "Round": "24",
+        "Lap Number": "3",
+        "Driver ID": "colapinto",
+        "Lap Time": "2:10.710"
+    },
+    {
+        "Circuit ID": "yas_marina",
+        "Round": "24",
+        "Lap Number": "4",
+        "Driver ID": "colapinto",
+        "Lap Time": "1:55.146"
+    },
+    {
+        "Circuit ID": "yas_marina",
+        "Round": "24",
+        "Lap Number": "5",
+        "Driver ID": "colapinto",
+        "Lap Time": "1:29.411"
+    },
+    {
+        "Circuit ID": "yas_marina",
+        "Round": "24",
+        "Lap Number": "6",
+        "Driver ID": "colapinto",
+        "Lap Time": "1:29.861"
+    },
+    {
+        "Circuit ID": "yas_marina",
+        "Round": "24",
+        "Lap Number": "7",
+        "Driver ID": "colapinto",
+        "Lap Time": "1:30.034"
+    },
+    {
+        "Circuit ID": "yas_marina",
+        "Round": "24",
+        "Lap Number": "8",
+        "Driver ID": "colapinto",
+        "Lap Time": "1:30.270"
+    },
+    {
+        "Circuit ID": "yas_marina",
+        "Round": "24",
+        "Lap Number": "9",
+        "Driver ID": "colapinto",
+        "Lap Time": "1:29.938"
+    },
+    {
+        "Circuit ID": "yas_marina",
+        "Round": "24",
+        "Lap Number": "10",
+        "Driver ID": "colapinto",
+        "Lap Time": "1:30.400"
+    },
+    {
+        "Circuit ID": "yas_marina",
+        "Round": "24",
+        "Lap Number": "11",
+        "Driver ID": "colapinto",
+        "Lap Time": "1:30.459"
+    },
+    {
+        "Circuit ID": "yas_marina",
+        "Round": "24",
+        "Lap Number": "12",
+        "Driver ID": "colapinto",
+        "Lap Time": "1:30.208"
+    },
+    {
+        "Circuit ID": "yas_marina",
+        "Round": "24",
+        "Lap Number": "13",
+        "Driver ID": "colapinto",
+        "Lap Time": "1:30.260"
+    },
+    {
+        "Circuit ID": "yas_marina",
+        "Round": "24",
+        "Lap Number": "14",
+        "Driver ID": "colapinto",
+        "Lap Time": "1:32.731"
+    },
+    {
+        "Circuit ID": "yas_marina",
+        "Round": "24",
+        "Lap Number": "15",
+        "Driver ID": "colapinto",
+        "Lap Time": "1:32.892"
+    },
+    {
+        "Circuit ID": "yas_marina",
+        "Round": "24",
+        "Lap Number": "16",
+        "Driver ID": "colapinto",
+        "Lap Time": "1:30.464"
+    },
+    {
+        "Circuit ID": "yas_marina",
+        "Round": "24",
+        "Lap Number": "17",
+        "Driver ID": "colapinto",
+        "Lap Time": "1:30.197"
+    },
+    {
+        "Circuit ID": "yas_marina",
+        "Round": "24",
+        "Lap Number": "18",
+        "Driver ID": "colapinto",
+        "Lap Time": "1:30.259"
+    },
+    {
+        "Circuit ID": "yas_marina",
+        "Round": "24",
+        "Lap Number": "19",
+        "Driver ID": "colapinto",
+        "Lap Time": "1:30.441"
+    },
+    {
+        "Circuit ID": "yas_marina",
+        "Round": "24",
+        "Lap Number": "20",
+        "Driver ID": "colapinto",
+        "Lap Time": "1:30.066"
+    },
+    {
+        "Circuit ID": "yas_marina",
+        "Round": "24",
+        "Lap Number": "21",
+        "Driver ID": "colapinto",
+        "Lap Time": "1:30.149"
+    },
+    {
+        "Circuit ID": "yas_marina",
+        "Round": "24",
+        "Lap Number": "22",
+        "Driver ID": "colapinto",
+        "Lap Time": "1:30.317"
+    },
+    {
+        "Circuit ID": "yas_marina",
+        "Round": "24",
+        "Lap Number": "23",
+        "Driver ID": "colapinto",
+        "Lap Time": "1:30.387"
+    },
+    {
+        "Circuit ID": "yas_marina",
+        "Round": "24",
+        "Lap Number": "24",
+        "Driver ID": "colapinto",
+        "Lap Time": "1:30.528"
+    },
+    {
+        "Circuit ID": "yas_marina",
+        "Round": "24",
+        "Lap Number": "25",
+        "Driver ID": "colapinto",
+        "Lap Time": "1:30.254"
+    },
+    {
+        "Circuit ID": "yas_marina",
+        "Round": "24",
+        "Lap Number": "26",
+        "Driver ID": "colapinto",
+        "Lap Time": "1:40.514"
+    }
+]
