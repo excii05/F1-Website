@@ -3,1121 +3,561 @@
         "Circuit ID": "hungaroring",
         "Round": "13",
         "Lap Number": "1",
-        "Driver ID": "piastri",
-        "Time": "1:26.746",
-        "Position": "1"
-    },
-    {
-        "Circuit ID": "hungaroring",
-        "Round": "13",
-        "Lap Number": "2",
-        "Driver ID": "piastri",
-        "Time": "1:24.038",
-        "Position": "1"
-    },
-    {
-        "Circuit ID": "hungaroring",
-        "Round": "13",
-        "Lap Number": "3",
-        "Driver ID": "piastri",
-        "Time": "1:24.401",
-        "Position": "1"
-    },
-    {
-        "Circuit ID": "hungaroring",
-        "Round": "13",
-        "Lap Number": "4",
-        "Driver ID": "piastri",
-        "Time": "1:24.115",
-        "Position": "1"
-    },
-    {
-        "Circuit ID": "hungaroring",
-        "Round": "13",
-        "Lap Number": "5",
-        "Driver ID": "piastri",
-        "Time": "1:23.796",
-        "Position": "1"
-    },
-    {
-        "Circuit ID": "hungaroring",
-        "Round": "13",
-        "Lap Number": "6",
-        "Driver ID": "piastri",
-        "Time": "1:23.846",
-        "Position": "1"
-    },
-    {
-        "Circuit ID": "hungaroring",
-        "Round": "13",
-        "Lap Number": "7",
-        "Driver ID": "piastri",
-        "Time": "1:24.110",
-        "Position": "1"
-    },
-    {
-        "Circuit ID": "hungaroring",
-        "Round": "13",
-        "Lap Number": "8",
-        "Driver ID": "piastri",
-        "Time": "1:23.892",
-        "Position": "1"
-    },
-    {
-        "Circuit ID": "hungaroring",
-        "Round": "13",
-        "Lap Number": "9",
-        "Driver ID": "piastri",
-        "Time": "1:24.206",
-        "Position": "1"
-    },
-    {
-        "Circuit ID": "hungaroring",
-        "Round": "13",
-        "Lap Number": "10",
-        "Driver ID": "piastri",
-        "Time": "1:24.257",
-        "Position": "1"
-    },
-    {
-        "Circuit ID": "hungaroring",
-        "Round": "13",
-        "Lap Number": "11",
-        "Driver ID": "piastri",
-        "Time": "1:24.062",
-        "Position": "1"
-    },
-    {
-        "Circuit ID": "hungaroring",
-        "Round": "13",
-        "Lap Number": "12",
-        "Driver ID": "piastri",
-        "Time": "1:23.893",
-        "Position": "1"
-    },
-    {
-        "Circuit ID": "hungaroring",
-        "Round": "13",
-        "Lap Number": "13",
-        "Driver ID": "piastri",
-        "Time": "1:23.887",
-        "Position": "1"
-    },
-    {
-        "Circuit ID": "hungaroring",
-        "Round": "13",
-        "Lap Number": "14",
-        "Driver ID": "piastri",
-        "Time": "1:24.683",
-        "Position": "1"
-    },
-    {
-        "Circuit ID": "hungaroring",
-        "Round": "13",
-        "Lap Number": "15",
-        "Driver ID": "piastri",
-        "Time": "1:24.299",
-        "Position": "1"
-    },
-    {
-        "Circuit ID": "hungaroring",
-        "Round": "13",
-        "Lap Number": "16",
-        "Driver ID": "piastri",
-        "Time": "1:24.237",
-        "Position": "1"
-    },
-    {
-        "Circuit ID": "hungaroring",
-        "Round": "13",
-        "Lap Number": "17",
-        "Driver ID": "piastri",
-        "Time": "1:24.248",
-        "Position": "1"
-    },
-    {
-        "Circuit ID": "hungaroring",
-        "Round": "13",
-        "Lap Number": "18",
-        "Driver ID": "piastri",
-        "Time": "1:26.496",
-        "Position": "1"
-    },
-    {
-        "Circuit ID": "hungaroring",
-        "Round": "13",
-        "Lap Number": "19",
-        "Driver ID": "piastri",
-        "Time": "1:42.479",
+        "Driver ID": "hamilton",
+        "Time": "1:30.241",
         "Position": "4"
     },
     {
         "Circuit ID": "hungaroring",
         "Round": "13",
-        "Lap Number": "20",
-        "Driver ID": "piastri",
-        "Time": "1:23.603",
+        "Lap Number": "2",
+        "Driver ID": "hamilton",
+        "Time": "1:24.832",
         "Position": "4"
     },
     {
         "Circuit ID": "hungaroring",
         "Round": "13",
-        "Lap Number": "21",
-        "Driver ID": "piastri",
-        "Time": "1:23.474",
-        "Position": "3"
-    },
-    {
-        "Circuit ID": "hungaroring",
-        "Round": "13",
-        "Lap Number": "22",
-        "Driver ID": "piastri",
-        "Time": "1:23.267",
-        "Position": "2"
-    },
-    {
-        "Circuit ID": "hungaroring",
-        "Round": "13",
-        "Lap Number": "23",
-        "Driver ID": "piastri",
-        "Time": "1:23.102",
-        "Position": "2"
-    },
-    {
-        "Circuit ID": "hungaroring",
-        "Round": "13",
-        "Lap Number": "24",
-        "Driver ID": "piastri",
-        "Time": "1:23.095",
-        "Position": "1"
-    },
-    {
-        "Circuit ID": "hungaroring",
-        "Round": "13",
-        "Lap Number": "25",
-        "Driver ID": "piastri",
-        "Time": "1:22.962",
-        "Position": "1"
-    },
-    {
-        "Circuit ID": "hungaroring",
-        "Round": "13",
-        "Lap Number": "26",
-        "Driver ID": "piastri",
-        "Time": "1:22.654",
-        "Position": "1"
-    },
-    {
-        "Circuit ID": "hungaroring",
-        "Round": "13",
-        "Lap Number": "27",
-        "Driver ID": "piastri",
-        "Time": "1:22.747",
-        "Position": "1"
-    },
-    {
-        "Circuit ID": "hungaroring",
-        "Round": "13",
-        "Lap Number": "28",
-        "Driver ID": "piastri",
-        "Time": "1:22.790",
-        "Position": "1"
-    },
-    {
-        "Circuit ID": "hungaroring",
-        "Round": "13",
-        "Lap Number": "29",
-        "Driver ID": "piastri",
-        "Time": "1:22.704",
-        "Position": "1"
-    },
-    {
-        "Circuit ID": "hungaroring",
-        "Round": "13",
-        "Lap Number": "30",
-        "Driver ID": "piastri",
-        "Time": "1:23.041",
-        "Position": "1"
-    },
-    {
-        "Circuit ID": "hungaroring",
-        "Round": "13",
-        "Lap Number": "31",
-        "Driver ID": "piastri",
-        "Time": "1:23.172",
-        "Position": "1"
-    },
-    {
-        "Circuit ID": "hungaroring",
-        "Round": "13",
-        "Lap Number": "32",
-        "Driver ID": "piastri",
-        "Time": "1:23.397",
-        "Position": "1"
-    },
-    {
-        "Circuit ID": "hungaroring",
-        "Round": "13",
-        "Lap Number": "33",
-        "Driver ID": "piastri",
-        "Time": "1:25.863",
-        "Position": "1"
-    },
-    {
-        "Circuit ID": "hungaroring",
-        "Round": "13",
-        "Lap Number": "34",
-        "Driver ID": "piastri",
-        "Time": "1:24.729",
-        "Position": "1"
-    },
-    {
-        "Circuit ID": "hungaroring",
-        "Round": "13",
-        "Lap Number": "35",
-        "Driver ID": "piastri",
-        "Time": "1:24.557",
-        "Position": "1"
-    },
-    {
-        "Circuit ID": "hungaroring",
-        "Round": "13",
-        "Lap Number": "36",
-        "Driver ID": "piastri",
-        "Time": "1:24.193",
-        "Position": "1"
-    },
-    {
-        "Circuit ID": "hungaroring",
-        "Round": "13",
-        "Lap Number": "37",
-        "Driver ID": "piastri",
-        "Time": "1:24.384",
-        "Position": "1"
-    },
-    {
-        "Circuit ID": "hungaroring",
-        "Round": "13",
-        "Lap Number": "38",
-        "Driver ID": "piastri",
-        "Time": "1:24.171",
-        "Position": "1"
-    },
-    {
-        "Circuit ID": "hungaroring",
-        "Round": "13",
-        "Lap Number": "39",
-        "Driver ID": "piastri",
-        "Time": "1:24.240",
-        "Position": "1"
-    },
-    {
-        "Circuit ID": "hungaroring",
-        "Round": "13",
-        "Lap Number": "40",
-        "Driver ID": "piastri",
-        "Time": "1:23.760",
-        "Position": "1"
-    },
-    {
-        "Circuit ID": "hungaroring",
-        "Round": "13",
-        "Lap Number": "41",
-        "Driver ID": "piastri",
-        "Time": "1:23.950",
-        "Position": "1"
-    },
-    {
-        "Circuit ID": "hungaroring",
-        "Round": "13",
-        "Lap Number": "42",
-        "Driver ID": "piastri",
-        "Time": "1:24.071",
-        "Position": "1"
-    },
-    {
-        "Circuit ID": "hungaroring",
-        "Round": "13",
-        "Lap Number": "43",
-        "Driver ID": "piastri",
-        "Time": "1:24.200",
-        "Position": "1"
-    },
-    {
-        "Circuit ID": "hungaroring",
-        "Round": "13",
-        "Lap Number": "44",
-        "Driver ID": "piastri",
-        "Time": "1:24.033",
-        "Position": "1"
-    },
-    {
-        "Circuit ID": "hungaroring",
-        "Round": "13",
-        "Lap Number": "45",
-        "Driver ID": "piastri",
-        "Time": "1:24.104",
-        "Position": "1"
-    },
-    {
-        "Circuit ID": "hungaroring",
-        "Round": "13",
-        "Lap Number": "46",
-        "Driver ID": "piastri",
-        "Time": "1:24.211",
-        "Position": "1"
-    },
-    {
-        "Circuit ID": "hungaroring",
-        "Round": "13",
-        "Lap Number": "47",
-        "Driver ID": "piastri",
-        "Time": "1:26.252",
-        "Position": "1"
-    },
-    {
-        "Circuit ID": "hungaroring",
-        "Round": "13",
-        "Lap Number": "48",
-        "Driver ID": "piastri",
-        "Time": "1:41.384",
-        "Position": "3"
-    },
-    {
-        "Circuit ID": "hungaroring",
-        "Round": "13",
-        "Lap Number": "49",
-        "Driver ID": "piastri",
-        "Time": "1:22.390",
-        "Position": "3"
-    },
-    {
-        "Circuit ID": "hungaroring",
-        "Round": "13",
-        "Lap Number": "50",
-        "Driver ID": "piastri",
-        "Time": "1:21.863",
-        "Position": "2"
-    },
-    {
-        "Circuit ID": "hungaroring",
-        "Round": "13",
-        "Lap Number": "51",
-        "Driver ID": "piastri",
-        "Time": "1:21.716",
-        "Position": "2"
-    },
-    {
-        "Circuit ID": "hungaroring",
-        "Round": "13",
-        "Lap Number": "52",
-        "Driver ID": "piastri",
-        "Time": "1:21.861",
-        "Position": "2"
-    },
-    {
-        "Circuit ID": "hungaroring",
-        "Round": "13",
-        "Lap Number": "53",
-        "Driver ID": "piastri",
-        "Time": "1:22.367",
-        "Position": "2"
-    },
-    {
-        "Circuit ID": "hungaroring",
-        "Round": "13",
-        "Lap Number": "54",
-        "Driver ID": "piastri",
-        "Time": "1:22.161",
-        "Position": "2"
-    },
-    {
-        "Circuit ID": "hungaroring",
-        "Round": "13",
-        "Lap Number": "55",
-        "Driver ID": "piastri",
-        "Time": "1:21.858",
-        "Position": "2"
-    },
-    {
-        "Circuit ID": "hungaroring",
-        "Round": "13",
-        "Lap Number": "56",
-        "Driver ID": "piastri",
-        "Time": "1:22.191",
-        "Position": "2"
-    },
-    {
-        "Circuit ID": "hungaroring",
-        "Round": "13",
-        "Lap Number": "57",
-        "Driver ID": "piastri",
-        "Time": "1:22.505",
-        "Position": "2"
-    },
-    {
-        "Circuit ID": "hungaroring",
-        "Round": "13",
-        "Lap Number": "58",
-        "Driver ID": "piastri",
-        "Time": "1:22.431",
-        "Position": "2"
-    },
-    {
-        "Circuit ID": "hungaroring",
-        "Round": "13",
-        "Lap Number": "59",
-        "Driver ID": "piastri",
-        "Time": "1:22.008",
-        "Position": "2"
-    },
-    {
-        "Circuit ID": "hungaroring",
-        "Round": "13",
-        "Lap Number": "60",
-        "Driver ID": "piastri",
-        "Time": "1:22.542",
-        "Position": "2"
-    },
-    {
-        "Circuit ID": "hungaroring",
-        "Round": "13",
-        "Lap Number": "61",
-        "Driver ID": "piastri",
-        "Time": "1:22.060",
-        "Position": "2"
-    },
-    {
-        "Circuit ID": "hungaroring",
-        "Round": "13",
-        "Lap Number": "62",
-        "Driver ID": "piastri",
-        "Time": "1:22.157",
-        "Position": "2"
-    },
-    {
-        "Circuit ID": "hungaroring",
-        "Round": "13",
-        "Lap Number": "63",
-        "Driver ID": "piastri",
-        "Time": "1:22.459",
-        "Position": "2"
-    },
-    {
-        "Circuit ID": "hungaroring",
-        "Round": "13",
-        "Lap Number": "64",
-        "Driver ID": "piastri",
-        "Time": "1:23.060",
-        "Position": "2"
-    },
-    {
-        "Circuit ID": "hungaroring",
-        "Round": "13",
-        "Lap Number": "65",
-        "Driver ID": "piastri",
-        "Time": "1:22.771",
-        "Position": "2"
-    },
-    {
-        "Circuit ID": "hungaroring",
-        "Round": "13",
-        "Lap Number": "66",
-        "Driver ID": "piastri",
-        "Time": "1:22.645",
-        "Position": "2"
-    },
-    {
-        "Circuit ID": "hungaroring",
-        "Round": "13",
-        "Lap Number": "67",
-        "Driver ID": "piastri",
-        "Time": "1:22.620",
-        "Position": "2"
-    },
-    {
-        "Circuit ID": "hungaroring",
-        "Round": "13",
-        "Lap Number": "68",
-        "Driver ID": "piastri",
-        "Time": "1:22.999",
-        "Position": "1"
-    },
-    {
-        "Circuit ID": "hungaroring",
-        "Round": "13",
-        "Lap Number": "69",
-        "Driver ID": "piastri",
-        "Time": "1:22.597",
-        "Position": "1"
-    },
-    {
-        "Circuit ID": "hungaroring",
-        "Round": "13",
-        "Lap Number": "70",
-        "Driver ID": "piastri",
-        "Time": "1:22.927",
-        "Position": "1"
-    },
-    {
-        "Circuit ID": "hungaroring",
-        "Round": "13",
-        "Lap Number": "1",
-        "Driver ID": "norris",
-        "Time": "1:29.389",
-        "Position": "3"
-    },
-    {
-        "Circuit ID": "hungaroring",
-        "Round": "13",
-        "Lap Number": "2",
-        "Driver ID": "norris",
-        "Time": "1:24.240",
-        "Position": "3"
-    },
-    {
-        "Circuit ID": "hungaroring",
-        "Round": "13",
         "Lap Number": "3",
-        "Driver ID": "norris",
-        "Time": "1:24.393",
-        "Position": "3"
+        "Driver ID": "hamilton",
+        "Time": "1:24.679",
+        "Position": "4"
     },
     {
         "Circuit ID": "hungaroring",
         "Round": "13",
         "Lap Number": "4",
-        "Driver ID": "norris",
-        "Time": "1:23.627",
-        "Position": "2"
+        "Driver ID": "hamilton",
+        "Time": "1:24.279",
+        "Position": "4"
     },
     {
         "Circuit ID": "hungaroring",
         "Round": "13",
         "Lap Number": "5",
-        "Driver ID": "norris",
-        "Time": "1:23.804",
-        "Position": "2"
-    },
-    {
-        "Circuit ID": "hungaroring",
-        "Round": "13",
-        "Lap Number": "6",
-        "Driver ID": "norris",
-        "Time": "1:24.045",
-        "Position": "2"
-    },
-    {
-        "Circuit ID": "hungaroring",
-        "Round": "13",
-        "Lap Number": "7",
-        "Driver ID": "norris",
-        "Time": "1:24.085",
-        "Position": "2"
-    },
-    {
-        "Circuit ID": "hungaroring",
-        "Round": "13",
-        "Lap Number": "8",
-        "Driver ID": "norris",
-        "Time": "1:24.027",
-        "Position": "2"
-    },
-    {
-        "Circuit ID": "hungaroring",
-        "Round": "13",
-        "Lap Number": "9",
-        "Driver ID": "norris",
-        "Time": "1:24.225",
-        "Position": "2"
-    },
-    {
-        "Circuit ID": "hungaroring",
-        "Round": "13",
-        "Lap Number": "10",
-        "Driver ID": "norris",
-        "Time": "1:24.508",
-        "Position": "2"
-    },
-    {
-        "Circuit ID": "hungaroring",
-        "Round": "13",
-        "Lap Number": "11",
-        "Driver ID": "norris",
-        "Time": "1:24.245",
-        "Position": "2"
-    },
-    {
-        "Circuit ID": "hungaroring",
-        "Round": "13",
-        "Lap Number": "12",
-        "Driver ID": "norris",
-        "Time": "1:24.042",
-        "Position": "2"
-    },
-    {
-        "Circuit ID": "hungaroring",
-        "Round": "13",
-        "Lap Number": "13",
-        "Driver ID": "norris",
-        "Time": "1:24.343",
-        "Position": "2"
-    },
-    {
-        "Circuit ID": "hungaroring",
-        "Round": "13",
-        "Lap Number": "14",
-        "Driver ID": "norris",
-        "Time": "1:24.367",
-        "Position": "2"
-    },
-    {
-        "Circuit ID": "hungaroring",
-        "Round": "13",
-        "Lap Number": "15",
-        "Driver ID": "norris",
-        "Time": "1:24.334",
-        "Position": "2"
-    },
-    {
-        "Circuit ID": "hungaroring",
-        "Round": "13",
-        "Lap Number": "16",
-        "Driver ID": "norris",
-        "Time": "1:24.296",
-        "Position": "2"
-    },
-    {
-        "Circuit ID": "hungaroring",
-        "Round": "13",
-        "Lap Number": "17",
-        "Driver ID": "norris",
-        "Time": "1:26.485",
-        "Position": "2"
-    },
-    {
-        "Circuit ID": "hungaroring",
-        "Round": "13",
-        "Lap Number": "18",
-        "Driver ID": "norris",
-        "Time": "1:41.807",
-        "Position": "5"
-    },
-    {
-        "Circuit ID": "hungaroring",
-        "Round": "13",
-        "Lap Number": "19",
-        "Driver ID": "norris",
-        "Time": "1:23.779",
-        "Position": "5"
-    },
-    {
-        "Circuit ID": "hungaroring",
-        "Round": "13",
-        "Lap Number": "20",
-        "Driver ID": "norris",
-        "Time": "1:23.455",
-        "Position": "5"
-    },
-    {
-        "Circuit ID": "hungaroring",
-        "Round": "13",
-        "Lap Number": "21",
-        "Driver ID": "norris",
-        "Time": "1:23.663",
-        "Position": "5"
-    },
-    {
-        "Circuit ID": "hungaroring",
-        "Round": "13",
-        "Lap Number": "22",
-        "Driver ID": "norris",
-        "Time": "1:23.514",
-        "Position": "3"
-    },
-    {
-        "Circuit ID": "hungaroring",
-        "Round": "13",
-        "Lap Number": "23",
-        "Driver ID": "norris",
-        "Time": "1:23.419",
-        "Position": "3"
-    },
-    {
-        "Circuit ID": "hungaroring",
-        "Round": "13",
-        "Lap Number": "24",
-        "Driver ID": "norris",
-        "Time": "1:23.354",
-        "Position": "2"
-    },
-    {
-        "Circuit ID": "hungaroring",
-        "Round": "13",
-        "Lap Number": "25",
-        "Driver ID": "norris",
-        "Time": "1:23.064",
-        "Position": "2"
-    },
-    {
-        "Circuit ID": "hungaroring",
-        "Round": "13",
-        "Lap Number": "26",
-        "Driver ID": "norris",
-        "Time": "1:23.013",
-        "Position": "2"
-    },
-    {
-        "Circuit ID": "hungaroring",
-        "Round": "13",
-        "Lap Number": "27",
-        "Driver ID": "norris",
-        "Time": "1:22.872",
-        "Position": "2"
-    },
-    {
-        "Circuit ID": "hungaroring",
-        "Round": "13",
-        "Lap Number": "28",
-        "Driver ID": "norris",
-        "Time": "1:22.861",
-        "Position": "2"
-    },
-    {
-        "Circuit ID": "hungaroring",
-        "Round": "13",
-        "Lap Number": "29",
-        "Driver ID": "norris",
-        "Time": "1:22.820",
-        "Position": "2"
-    },
-    {
-        "Circuit ID": "hungaroring",
-        "Round": "13",
-        "Lap Number": "30",
-        "Driver ID": "norris",
-        "Time": "1:23.323",
-        "Position": "2"
-    },
-    {
-        "Circuit ID": "hungaroring",
-        "Round": "13",
-        "Lap Number": "31",
-        "Driver ID": "norris",
-        "Time": "1:23.247",
-        "Position": "2"
-    },
-    {
-        "Circuit ID": "hungaroring",
-        "Round": "13",
-        "Lap Number": "32",
-        "Driver ID": "norris",
-        "Time": "1:23.456",
-        "Position": "2"
-    },
-    {
-        "Circuit ID": "hungaroring",
-        "Round": "13",
-        "Lap Number": "33",
-        "Driver ID": "norris",
-        "Time": "1:23.992",
-        "Position": "2"
-    },
-    {
-        "Circuit ID": "hungaroring",
-        "Round": "13",
-        "Lap Number": "34",
-        "Driver ID": "norris",
-        "Time": "1:24.154",
-        "Position": "2"
-    },
-    {
-        "Circuit ID": "hungaroring",
-        "Round": "13",
-        "Lap Number": "35",
-        "Driver ID": "norris",
-        "Time": "1:24.200",
-        "Position": "2"
-    },
-    {
-        "Circuit ID": "hungaroring",
-        "Round": "13",
-        "Lap Number": "36",
-        "Driver ID": "norris",
-        "Time": "1:24.096",
-        "Position": "2"
-    },
-    {
-        "Circuit ID": "hungaroring",
-        "Round": "13",
-        "Lap Number": "37",
-        "Driver ID": "norris",
-        "Time": "1:24.254",
-        "Position": "2"
-    },
-    {
-        "Circuit ID": "hungaroring",
-        "Round": "13",
-        "Lap Number": "38",
-        "Driver ID": "norris",
-        "Time": "1:24.154",
-        "Position": "2"
-    },
-    {
-        "Circuit ID": "hungaroring",
-        "Round": "13",
-        "Lap Number": "39",
-        "Driver ID": "norris",
-        "Time": "1:24.186",
-        "Position": "2"
-    },
-    {
-        "Circuit ID": "hungaroring",
-        "Round": "13",
-        "Lap Number": "40",
-        "Driver ID": "norris",
-        "Time": "1:24.080",
-        "Position": "2"
-    },
-    {
-        "Circuit ID": "hungaroring",
-        "Round": "13",
-        "Lap Number": "41",
-        "Driver ID": "norris",
-        "Time": "1:24.189",
-        "Position": "2"
-    },
-    {
-        "Circuit ID": "hungaroring",
-        "Round": "13",
-        "Lap Number": "42",
-        "Driver ID": "norris",
+        "Driver ID": "hamilton",
         "Time": "1:24.001",
-        "Position": "2"
-    },
-    {
-        "Circuit ID": "hungaroring",
-        "Round": "13",
-        "Lap Number": "43",
-        "Driver ID": "norris",
-        "Time": "1:24.063",
-        "Position": "2"
-    },
-    {
-        "Circuit ID": "hungaroring",
-        "Round": "13",
-        "Lap Number": "44",
-        "Driver ID": "norris",
-        "Time": "1:24.430",
-        "Position": "2"
-    },
-    {
-        "Circuit ID": "hungaroring",
-        "Round": "13",
-        "Lap Number": "45",
-        "Driver ID": "norris",
-        "Time": "1:26.328",
-        "Position": "2"
-    },
-    {
-        "Circuit ID": "hungaroring",
-        "Round": "13",
-        "Lap Number": "46",
-        "Driver ID": "norris",
-        "Time": "1:38.951",
         "Position": "4"
     },
     {
         "Circuit ID": "hungaroring",
         "Round": "13",
-        "Lap Number": "47",
-        "Driver ID": "norris",
-        "Time": "1:23.290",
+        "Lap Number": "6",
+        "Driver ID": "hamilton",
+        "Time": "1:24.154",
+        "Position": "4"
+    },
+    {
+        "Circuit ID": "hungaroring",
+        "Round": "13",
+        "Lap Number": "7",
+        "Driver ID": "hamilton",
+        "Time": "1:24.193",
+        "Position": "4"
+    },
+    {
+        "Circuit ID": "hungaroring",
+        "Round": "13",
+        "Lap Number": "8",
+        "Driver ID": "hamilton",
+        "Time": "1:24.235",
+        "Position": "4"
+    },
+    {
+        "Circuit ID": "hungaroring",
+        "Round": "13",
+        "Lap Number": "9",
+        "Driver ID": "hamilton",
+        "Time": "1:24.366",
+        "Position": "4"
+    },
+    {
+        "Circuit ID": "hungaroring",
+        "Round": "13",
+        "Lap Number": "10",
+        "Driver ID": "hamilton",
+        "Time": "1:24.632",
+        "Position": "4"
+    },
+    {
+        "Circuit ID": "hungaroring",
+        "Round": "13",
+        "Lap Number": "11",
+        "Driver ID": "hamilton",
+        "Time": "1:24.379",
+        "Position": "4"
+    },
+    {
+        "Circuit ID": "hungaroring",
+        "Round": "13",
+        "Lap Number": "12",
+        "Driver ID": "hamilton",
+        "Time": "1:24.388",
+        "Position": "4"
+    },
+    {
+        "Circuit ID": "hungaroring",
+        "Round": "13",
+        "Lap Number": "13",
+        "Driver ID": "hamilton",
+        "Time": "1:24.700",
+        "Position": "4"
+    },
+    {
+        "Circuit ID": "hungaroring",
+        "Round": "13",
+        "Lap Number": "14",
+        "Driver ID": "hamilton",
+        "Time": "1:24.742",
+        "Position": "4"
+    },
+    {
+        "Circuit ID": "hungaroring",
+        "Round": "13",
+        "Lap Number": "15",
+        "Driver ID": "hamilton",
+        "Time": "1:24.562",
+        "Position": "4"
+    },
+    {
+        "Circuit ID": "hungaroring",
+        "Round": "13",
+        "Lap Number": "16",
+        "Driver ID": "hamilton",
+        "Time": "1:27.246",
+        "Position": "5"
+    },
+    {
+        "Circuit ID": "hungaroring",
+        "Round": "13",
+        "Lap Number": "17",
+        "Driver ID": "hamilton",
+        "Time": "1:40.316",
+        "Position": "7"
+    },
+    {
+        "Circuit ID": "hungaroring",
+        "Round": "13",
+        "Lap Number": "18",
+        "Driver ID": "hamilton",
+        "Time": "1:23.350",
+        "Position": "6"
+    },
+    {
+        "Circuit ID": "hungaroring",
+        "Round": "13",
+        "Lap Number": "19",
+        "Driver ID": "hamilton",
+        "Time": "1:23.201",
+        "Position": "6"
+    },
+    {
+        "Circuit ID": "hungaroring",
+        "Round": "13",
+        "Lap Number": "20",
+        "Driver ID": "hamilton",
+        "Time": "1:23.332",
+        "Position": "6"
+    },
+    {
+        "Circuit ID": "hungaroring",
+        "Round": "13",
+        "Lap Number": "21",
+        "Driver ID": "hamilton",
+        "Time": "1:23.470",
+        "Position": "6"
+    },
+    {
+        "Circuit ID": "hungaroring",
+        "Round": "13",
+        "Lap Number": "22",
+        "Driver ID": "hamilton",
+        "Time": "1:23.180",
+        "Position": "4"
+    },
+    {
+        "Circuit ID": "hungaroring",
+        "Round": "13",
+        "Lap Number": "23",
+        "Driver ID": "hamilton",
+        "Time": "1:23.622",
+        "Position": "4"
+    },
+    {
+        "Circuit ID": "hungaroring",
+        "Round": "13",
+        "Lap Number": "24",
+        "Driver ID": "hamilton",
+        "Time": "1:23.698",
         "Position": "3"
     },
     {
         "Circuit ID": "hungaroring",
         "Round": "13",
+        "Lap Number": "25",
+        "Driver ID": "hamilton",
+        "Time": "1:23.145",
+        "Position": "3"
+    },
+    {
+        "Circuit ID": "hungaroring",
+        "Round": "13",
+        "Lap Number": "26",
+        "Driver ID": "hamilton",
+        "Time": "1:23.334",
+        "Position": "3"
+    },
+    {
+        "Circuit ID": "hungaroring",
+        "Round": "13",
+        "Lap Number": "27",
+        "Driver ID": "hamilton",
+        "Time": "1:23.481",
+        "Position": "3"
+    },
+    {
+        "Circuit ID": "hungaroring",
+        "Round": "13",
+        "Lap Number": "28",
+        "Driver ID": "hamilton",
+        "Time": "1:23.306",
+        "Position": "3"
+    },
+    {
+        "Circuit ID": "hungaroring",
+        "Round": "13",
+        "Lap Number": "29",
+        "Driver ID": "hamilton",
+        "Time": "1:23.342",
+        "Position": "3"
+    },
+    {
+        "Circuit ID": "hungaroring",
+        "Round": "13",
+        "Lap Number": "30",
+        "Driver ID": "hamilton",
+        "Time": "1:23.485",
+        "Position": "3"
+    },
+    {
+        "Circuit ID": "hungaroring",
+        "Round": "13",
+        "Lap Number": "31",
+        "Driver ID": "hamilton",
+        "Time": "1:23.585",
+        "Position": "3"
+    },
+    {
+        "Circuit ID": "hungaroring",
+        "Round": "13",
+        "Lap Number": "32",
+        "Driver ID": "hamilton",
+        "Time": "1:23.532",
+        "Position": "3"
+    },
+    {
+        "Circuit ID": "hungaroring",
+        "Round": "13",
+        "Lap Number": "33",
+        "Driver ID": "hamilton",
+        "Time": "1:24.117",
+        "Position": "3"
+    },
+    {
+        "Circuit ID": "hungaroring",
+        "Round": "13",
+        "Lap Number": "34",
+        "Driver ID": "hamilton",
+        "Time": "1:24.355",
+        "Position": "3"
+    },
+    {
+        "Circuit ID": "hungaroring",
+        "Round": "13",
+        "Lap Number": "35",
+        "Driver ID": "hamilton",
+        "Time": "1:25.120",
+        "Position": "3"
+    },
+    {
+        "Circuit ID": "hungaroring",
+        "Round": "13",
+        "Lap Number": "36",
+        "Driver ID": "hamilton",
+        "Time": "1:24.527",
+        "Position": "3"
+    },
+    {
+        "Circuit ID": "hungaroring",
+        "Round": "13",
+        "Lap Number": "37",
+        "Driver ID": "hamilton",
+        "Time": "1:24.655",
+        "Position": "3"
+    },
+    {
+        "Circuit ID": "hungaroring",
+        "Round": "13",
+        "Lap Number": "38",
+        "Driver ID": "hamilton",
+        "Time": "1:25.372",
+        "Position": "3"
+    },
+    {
+        "Circuit ID": "hungaroring",
+        "Round": "13",
+        "Lap Number": "39",
+        "Driver ID": "hamilton",
+        "Time": "1:24.801",
+        "Position": "3"
+    },
+    {
+        "Circuit ID": "hungaroring",
+        "Round": "13",
+        "Lap Number": "40",
+        "Driver ID": "hamilton",
+        "Time": "1:27.733",
+        "Position": "4"
+    },
+    {
+        "Circuit ID": "hungaroring",
+        "Round": "13",
+        "Lap Number": "41",
+        "Driver ID": "hamilton",
+        "Time": "1:41.018",
+        "Position": "5"
+    },
+    {
+        "Circuit ID": "hungaroring",
+        "Round": "13",
+        "Lap Number": "42",
+        "Driver ID": "hamilton",
+        "Time": "1:22.518",
+        "Position": "5"
+    },
+    {
+        "Circuit ID": "hungaroring",
+        "Round": "13",
+        "Lap Number": "43",
+        "Driver ID": "hamilton",
+        "Time": "1:23.074",
+        "Position": "5"
+    },
+    {
+        "Circuit ID": "hungaroring",
+        "Round": "13",
+        "Lap Number": "44",
+        "Driver ID": "hamilton",
+        "Time": "1:23.133",
+        "Position": "5"
+    },
+    {
+        "Circuit ID": "hungaroring",
+        "Round": "13",
+        "Lap Number": "45",
+        "Driver ID": "hamilton",
+        "Time": "1:22.969",
+        "Position": "5"
+    },
+    {
+        "Circuit ID": "hungaroring",
+        "Round": "13",
+        "Lap Number": "46",
+        "Driver ID": "hamilton",
+        "Time": "1:22.937",
+        "Position": "5"
+    },
+    {
+        "Circuit ID": "hungaroring",
+        "Round": "13",
+        "Lap Number": "47",
+        "Driver ID": "hamilton",
+        "Time": "1:23.097",
+        "Position": "5"
+    },
+    {
+        "Circuit ID": "hungaroring",
+        "Round": "13",
         "Lap Number": "48",
-        "Driver ID": "norris",
-        "Time": "1:21.954",
-        "Position": "2"
+        "Driver ID": "hamilton",
+        "Time": "1:23.090",
+        "Position": "4"
     },
     {
         "Circuit ID": "hungaroring",
         "Round": "13",
         "Lap Number": "49",
-        "Driver ID": "norris",
-        "Time": "1:22.109",
-        "Position": "2"
+        "Driver ID": "hamilton",
+        "Time": "1:22.906",
+        "Position": "4"
     },
     {
         "Circuit ID": "hungaroring",
         "Round": "13",
         "Lap Number": "50",
-        "Driver ID": "norris",
-        "Time": "1:21.712",
-        "Position": "1"
+        "Driver ID": "hamilton",
+        "Time": "1:22.670",
+        "Position": "3"
     },
     {
         "Circuit ID": "hungaroring",
         "Round": "13",
         "Lap Number": "51",
-        "Driver ID": "norris",
-        "Time": "1:21.976",
-        "Position": "1"
+        "Driver ID": "hamilton",
+        "Time": "1:22.991",
+        "Position": "3"
     },
     {
         "Circuit ID": "hungaroring",
         "Round": "13",
         "Lap Number": "52",
-        "Driver ID": "norris",
-        "Time": "1:22.429",
-        "Position": "1"
+        "Driver ID": "hamilton",
+        "Time": "1:23.021",
+        "Position": "3"
     },
     {
         "Circuit ID": "hungaroring",
         "Round": "13",
         "Lap Number": "53",
-        "Driver ID": "norris",
-        "Time": "1:21.890",
-        "Position": "1"
+        "Driver ID": "hamilton",
+        "Time": "1:22.580",
+        "Position": "3"
     },
     {
         "Circuit ID": "hungaroring",
         "Round": "13",
         "Lap Number": "54",
-        "Driver ID": "norris",
-        "Time": "1:21.819",
-        "Position": "1"
+        "Driver ID": "hamilton",
+        "Time": "1:22.153",
+        "Position": "3"
     },
     {
         "Circuit ID": "hungaroring",
         "Round": "13",
         "Lap Number": "55",
-        "Driver ID": "norris",
-        "Time": "1:22.171",
-        "Position": "1"
+        "Driver ID": "hamilton",
+        "Time": "1:22.587",
+        "Position": "3"
     },
     {
         "Circuit ID": "hungaroring",
         "Round": "13",
         "Lap Number": "56",
-        "Driver ID": "norris",
-        "Time": "1:22.171",
-        "Position": "1"
+        "Driver ID": "hamilton",
+        "Time": "1:23.011",
+        "Position": "3"
     },
     {
         "Circuit ID": "hungaroring",
         "Round": "13",
         "Lap Number": "57",
-        "Driver ID": "norris",
-        "Time": "1:22.222",
-        "Position": "1"
+        "Driver ID": "hamilton",
+        "Time": "1:22.885",
+        "Position": "3"
     },
     {
         "Circuit ID": "hungaroring",
         "Round": "13",
         "Lap Number": "58",
-        "Driver ID": "norris",
-        "Time": "1:21.931",
-        "Position": "1"
+        "Driver ID": "hamilton",
+        "Time": "1:22.236",
+        "Position": "3"
     },
     {
         "Circuit ID": "hungaroring",
         "Round": "13",
         "Lap Number": "59",
-        "Driver ID": "norris",
-        "Time": "1:22.219",
-        "Position": "1"
+        "Driver ID": "hamilton",
+        "Time": "1:22.364",
+        "Position": "3"
     },
     {
         "Circuit ID": "hungaroring",
         "Round": "13",
         "Lap Number": "60",
-        "Driver ID": "norris",
-        "Time": "1:21.798",
-        "Position": "1"
+        "Driver ID": "hamilton",
+        "Time": "1:22.841",
+        "Position": "3"
     },
     {
         "Circuit ID": "hungaroring",
         "Round": "13",
         "Lap Number": "61",
-        "Driver ID": "norris",
-        "Time": "1:21.886",
-        "Position": "1"
+        "Driver ID": "hamilton",
+        "Time": "1:23.180",
+        "Position": "3"
     },
     {
         "Circuit ID": "hungaroring",
         "Round": "13",
         "Lap Number": "62",
-        "Driver ID": "norris",
-        "Time": "1:21.883",
-        "Position": "1"
+        "Driver ID": "hamilton",
+        "Time": "1:23.263",
+        "Position": "3"
     },
     {
         "Circuit ID": "hungaroring",
         "Round": "13",
         "Lap Number": "63",
-        "Driver ID": "norris",
-        "Time": "1:22.602",
-        "Position": "1"
+        "Driver ID": "hamilton",
+        "Time": "1:23.778",
+        "Position": "3"
     },
     {
         "Circuit ID": "hungaroring",
         "Round": "13",
         "Lap Number": "64",
-        "Driver ID": "norris",
-        "Time": "1:22.469",
-        "Position": "1"
+        "Driver ID": "hamilton",
+        "Time": "1:23.100",
+        "Position": "3"
     },
     {
         "Circuit ID": "hungaroring",
         "Round": "13",
         "Lap Number": "65",
-        "Driver ID": "norris",
-        "Time": "1:22.481",
-        "Position": "1"
+        "Driver ID": "hamilton",
+        "Time": "1:23.508",
+        "Position": "3"
     },
     {
         "Circuit ID": "hungaroring",
         "Round": "13",
         "Lap Number": "66",
-        "Driver ID": "norris",
-        "Time": "1:22.620",
-        "Position": "1"
+        "Driver ID": "hamilton",
+        "Time": "1:22.522",
+        "Position": "3"
     },
     {
         "Circuit ID": "hungaroring",
         "Round": "13",
         "Lap Number": "67",
-        "Driver ID": "norris",
-        "Time": "1:25.666",
-        "Position": "1"
+        "Driver ID": "hamilton",
+        "Time": "1:22.839",
+        "Position": "3"
     },
     {
         "Circuit ID": "hungaroring",
         "Round": "13",
         "Lap Number": "68",
-        "Driver ID": "norris",
-        "Time": "1:26.787",
-        "Position": "2"
+        "Driver ID": "hamilton",
+        "Time": "1:22.861",
+        "Position": "3"
     },
     {
         "Circuit ID": "hungaroring",
         "Round": "13",
         "Lap Number": "69",
-        "Driver ID": "norris",
-        "Time": "1:22.862",
-        "Position": "2"
+        "Driver ID": "hamilton",
+        "Time": "1:23.094",
+        "Position": "3"
     },
     {
         "Circuit ID": "hungaroring",
         "Round": "13",
         "Lap Number": "70",
-        "Driver ID": "norris",
-        "Time": "1:24.003",
-        "Position": "2"
+        "Driver ID": "hamilton",
+        "Time": "1:22.955",
+        "Position": "3"
     },
     {
         "Circuit ID": "hungaroring",
@@ -2803,561 +2243,561 @@
         "Circuit ID": "hungaroring",
         "Round": "13",
         "Lap Number": "1",
-        "Driver ID": "perez",
-        "Time": "1:37.441",
-        "Position": "17"
-    },
-    {
-        "Circuit ID": "hungaroring",
-        "Round": "13",
-        "Lap Number": "2",
-        "Driver ID": "perez",
-        "Time": "1:27.372",
-        "Position": "18"
-    },
-    {
-        "Circuit ID": "hungaroring",
-        "Round": "13",
-        "Lap Number": "3",
-        "Driver ID": "perez",
-        "Time": "1:26.051",
-        "Position": "17"
-    },
-    {
-        "Circuit ID": "hungaroring",
-        "Round": "13",
-        "Lap Number": "4",
-        "Driver ID": "perez",
-        "Time": "1:26.364",
-        "Position": "17"
-    },
-    {
-        "Circuit ID": "hungaroring",
-        "Round": "13",
-        "Lap Number": "5",
-        "Driver ID": "perez",
-        "Time": "1:26.461",
-        "Position": "17"
-    },
-    {
-        "Circuit ID": "hungaroring",
-        "Round": "13",
-        "Lap Number": "6",
-        "Driver ID": "perez",
-        "Time": "1:26.010",
+        "Driver ID": "russell",
+        "Time": "1:36.915",
         "Position": "16"
     },
     {
         "Circuit ID": "hungaroring",
         "Round": "13",
+        "Lap Number": "2",
+        "Driver ID": "russell",
+        "Time": "1:26.918",
+        "Position": "15"
+    },
+    {
+        "Circuit ID": "hungaroring",
+        "Round": "13",
+        "Lap Number": "3",
+        "Driver ID": "russell",
+        "Time": "1:26.012",
+        "Position": "15"
+    },
+    {
+        "Circuit ID": "hungaroring",
+        "Round": "13",
+        "Lap Number": "4",
+        "Driver ID": "russell",
+        "Time": "1:26.339",
+        "Position": "15"
+    },
+    {
+        "Circuit ID": "hungaroring",
+        "Round": "13",
+        "Lap Number": "5",
+        "Driver ID": "russell",
+        "Time": "1:26.217",
+        "Position": "15"
+    },
+    {
+        "Circuit ID": "hungaroring",
+        "Round": "13",
+        "Lap Number": "6",
+        "Driver ID": "russell",
+        "Time": "1:25.967",
+        "Position": "14"
+    },
+    {
+        "Circuit ID": "hungaroring",
+        "Round": "13",
         "Lap Number": "7",
-        "Driver ID": "perez",
-        "Time": "1:25.240",
-        "Position": "14"
-    },
-    {
-        "Circuit ID": "hungaroring",
-        "Round": "13",
-        "Lap Number": "8",
-        "Driver ID": "perez",
-        "Time": "1:25.051",
-        "Position": "11"
-    },
-    {
-        "Circuit ID": "hungaroring",
-        "Round": "13",
-        "Lap Number": "9",
-        "Driver ID": "perez",
-        "Time": "1:24.197",
-        "Position": "11"
-    },
-    {
-        "Circuit ID": "hungaroring",
-        "Round": "13",
-        "Lap Number": "10",
-        "Driver ID": "perez",
-        "Time": "1:24.847",
-        "Position": "11"
-    },
-    {
-        "Circuit ID": "hungaroring",
-        "Round": "13",
-        "Lap Number": "11",
-        "Driver ID": "perez",
-        "Time": "1:25.013",
-        "Position": "11"
-    },
-    {
-        "Circuit ID": "hungaroring",
-        "Round": "13",
-        "Lap Number": "12",
-        "Driver ID": "perez",
-        "Time": "1:25.126",
-        "Position": "11"
-    },
-    {
-        "Circuit ID": "hungaroring",
-        "Round": "13",
-        "Lap Number": "13",
-        "Driver ID": "perez",
-        "Time": "1:25.194",
-        "Position": "11"
-    },
-    {
-        "Circuit ID": "hungaroring",
-        "Round": "13",
-        "Lap Number": "14",
-        "Driver ID": "perez",
-        "Time": "1:25.924",
-        "Position": "11"
-    },
-    {
-        "Circuit ID": "hungaroring",
-        "Round": "13",
-        "Lap Number": "15",
-        "Driver ID": "perez",
-        "Time": "1:25.303",
-        "Position": "10"
-    },
-    {
-        "Circuit ID": "hungaroring",
-        "Round": "13",
-        "Lap Number": "16",
-        "Driver ID": "perez",
-        "Time": "1:25.364",
-        "Position": "9"
-    },
-    {
-        "Circuit ID": "hungaroring",
-        "Round": "13",
-        "Lap Number": "17",
-        "Driver ID": "perez",
-        "Time": "1:24.877",
-        "Position": "9"
-    },
-    {
-        "Circuit ID": "hungaroring",
-        "Round": "13",
-        "Lap Number": "18",
-        "Driver ID": "perez",
-        "Time": "1:25.188",
-        "Position": "9"
-    },
-    {
-        "Circuit ID": "hungaroring",
-        "Round": "13",
-        "Lap Number": "19",
-        "Driver ID": "perez",
-        "Time": "1:24.890",
-        "Position": "9"
-    },
-    {
-        "Circuit ID": "hungaroring",
-        "Round": "13",
-        "Lap Number": "20",
-        "Driver ID": "perez",
-        "Time": "1:24.827",
-        "Position": "9"
-    },
-    {
-        "Circuit ID": "hungaroring",
-        "Round": "13",
-        "Lap Number": "21",
-        "Driver ID": "perez",
-        "Time": "1:25.042",
-        "Position": "9"
-    },
-    {
-        "Circuit ID": "hungaroring",
-        "Round": "13",
-        "Lap Number": "22",
-        "Driver ID": "perez",
-        "Time": "1:25.118",
-        "Position": "8"
-    },
-    {
-        "Circuit ID": "hungaroring",
-        "Round": "13",
-        "Lap Number": "23",
-        "Driver ID": "perez",
-        "Time": "1:25.187",
-        "Position": "8"
-    },
-    {
-        "Circuit ID": "hungaroring",
-        "Round": "13",
-        "Lap Number": "24",
-        "Driver ID": "perez",
-        "Time": "1:26.520",
-        "Position": "9"
-    },
-    {
-        "Circuit ID": "hungaroring",
-        "Round": "13",
-        "Lap Number": "25",
-        "Driver ID": "perez",
-        "Time": "1:25.370",
-        "Position": "9"
-    },
-    {
-        "Circuit ID": "hungaroring",
-        "Round": "13",
-        "Lap Number": "26",
-        "Driver ID": "perez",
-        "Time": "1:25.680",
-        "Position": "9"
-    },
-    {
-        "Circuit ID": "hungaroring",
-        "Round": "13",
-        "Lap Number": "27",
-        "Driver ID": "perez",
-        "Time": "1:25.554",
-        "Position": "9"
-    },
-    {
-        "Circuit ID": "hungaroring",
-        "Round": "13",
-        "Lap Number": "28",
-        "Driver ID": "perez",
-        "Time": "1:28.128",
-        "Position": "9"
-    },
-    {
-        "Circuit ID": "hungaroring",
-        "Round": "13",
-        "Lap Number": "29",
-        "Driver ID": "perez",
-        "Time": "1:42.686",
-        "Position": "14"
-    },
-    {
-        "Circuit ID": "hungaroring",
-        "Round": "13",
-        "Lap Number": "30",
-        "Driver ID": "perez",
-        "Time": "1:25.518",
+        "Driver ID": "russell",
+        "Time": "1:24.569",
         "Position": "12"
     },
     {
         "Circuit ID": "hungaroring",
         "Round": "13",
-        "Lap Number": "31",
-        "Driver ID": "perez",
-        "Time": "1:22.613",
-        "Position": "11"
-    },
-    {
-        "Circuit ID": "hungaroring",
-        "Round": "13",
-        "Lap Number": "32",
-        "Driver ID": "perez",
-        "Time": "1:22.822",
-        "Position": "11"
-    },
-    {
-        "Circuit ID": "hungaroring",
-        "Round": "13",
-        "Lap Number": "33",
-        "Driver ID": "perez",
-        "Time": "1:22.536",
+        "Lap Number": "8",
+        "Driver ID": "russell",
+        "Time": "1:25.157",
         "Position": "10"
     },
     {
         "Circuit ID": "hungaroring",
         "Round": "13",
-        "Lap Number": "34",
-        "Driver ID": "perez",
-        "Time": "1:22.938",
+        "Lap Number": "9",
+        "Driver ID": "russell",
+        "Time": "1:24.836",
+        "Position": "10"
+    },
+    {
+        "Circuit ID": "hungaroring",
+        "Round": "13",
+        "Lap Number": "10",
+        "Driver ID": "russell",
+        "Time": "1:25.057",
+        "Position": "10"
+    },
+    {
+        "Circuit ID": "hungaroring",
+        "Round": "13",
+        "Lap Number": "11",
+        "Driver ID": "russell",
+        "Time": "1:25.248",
+        "Position": "10"
+    },
+    {
+        "Circuit ID": "hungaroring",
+        "Round": "13",
+        "Lap Number": "12",
+        "Driver ID": "russell",
+        "Time": "1:25.094",
+        "Position": "10"
+    },
+    {
+        "Circuit ID": "hungaroring",
+        "Round": "13",
+        "Lap Number": "13",
+        "Driver ID": "russell",
+        "Time": "1:25.334",
+        "Position": "10"
+    },
+    {
+        "Circuit ID": "hungaroring",
+        "Round": "13",
+        "Lap Number": "14",
+        "Driver ID": "russell",
+        "Time": "1:25.737",
+        "Position": "10"
+    },
+    {
+        "Circuit ID": "hungaroring",
+        "Round": "13",
+        "Lap Number": "15",
+        "Driver ID": "russell",
+        "Time": "1:25.210",
         "Position": "9"
+    },
+    {
+        "Circuit ID": "hungaroring",
+        "Round": "13",
+        "Lap Number": "16",
+        "Driver ID": "russell",
+        "Time": "1:25.298",
+        "Position": "8"
+    },
+    {
+        "Circuit ID": "hungaroring",
+        "Round": "13",
+        "Lap Number": "17",
+        "Driver ID": "russell",
+        "Time": "1:24.725",
+        "Position": "8"
+    },
+    {
+        "Circuit ID": "hungaroring",
+        "Round": "13",
+        "Lap Number": "18",
+        "Driver ID": "russell",
+        "Time": "1:25.092",
+        "Position": "8"
+    },
+    {
+        "Circuit ID": "hungaroring",
+        "Round": "13",
+        "Lap Number": "19",
+        "Driver ID": "russell",
+        "Time": "1:24.874",
+        "Position": "8"
+    },
+    {
+        "Circuit ID": "hungaroring",
+        "Round": "13",
+        "Lap Number": "20",
+        "Driver ID": "russell",
+        "Time": "1:24.748",
+        "Position": "8"
+    },
+    {
+        "Circuit ID": "hungaroring",
+        "Round": "13",
+        "Lap Number": "21",
+        "Driver ID": "russell",
+        "Time": "1:25.188",
+        "Position": "8"
+    },
+    {
+        "Circuit ID": "hungaroring",
+        "Round": "13",
+        "Lap Number": "22",
+        "Driver ID": "russell",
+        "Time": "1:24.999",
+        "Position": "7"
+    },
+    {
+        "Circuit ID": "hungaroring",
+        "Round": "13",
+        "Lap Number": "23",
+        "Driver ID": "russell",
+        "Time": "1:24.854",
+        "Position": "7"
+    },
+    {
+        "Circuit ID": "hungaroring",
+        "Round": "13",
+        "Lap Number": "24",
+        "Driver ID": "russell",
+        "Time": "1:25.414",
+        "Position": "7"
+    },
+    {
+        "Circuit ID": "hungaroring",
+        "Round": "13",
+        "Lap Number": "25",
+        "Driver ID": "russell",
+        "Time": "1:26.712",
+        "Position": "8"
+    },
+    {
+        "Circuit ID": "hungaroring",
+        "Round": "13",
+        "Lap Number": "26",
+        "Driver ID": "russell",
+        "Time": "1:25.773",
+        "Position": "8"
+    },
+    {
+        "Circuit ID": "hungaroring",
+        "Round": "13",
+        "Lap Number": "27",
+        "Driver ID": "russell",
+        "Time": "1:25.647",
+        "Position": "8"
+    },
+    {
+        "Circuit ID": "hungaroring",
+        "Round": "13",
+        "Lap Number": "28",
+        "Driver ID": "russell",
+        "Time": "1:25.819",
+        "Position": "8"
+    },
+    {
+        "Circuit ID": "hungaroring",
+        "Round": "13",
+        "Lap Number": "29",
+        "Driver ID": "russell",
+        "Time": "1:25.977",
+        "Position": "7"
+    },
+    {
+        "Circuit ID": "hungaroring",
+        "Round": "13",
+        "Lap Number": "30",
+        "Driver ID": "russell",
+        "Time": "1:24.762",
+        "Position": "7"
+    },
+    {
+        "Circuit ID": "hungaroring",
+        "Round": "13",
+        "Lap Number": "31",
+        "Driver ID": "russell",
+        "Time": "1:25.077",
+        "Position": "7"
+    },
+    {
+        "Circuit ID": "hungaroring",
+        "Round": "13",
+        "Lap Number": "32",
+        "Driver ID": "russell",
+        "Time": "1:25.407",
+        "Position": "7"
+    },
+    {
+        "Circuit ID": "hungaroring",
+        "Round": "13",
+        "Lap Number": "33",
+        "Driver ID": "russell",
+        "Time": "1:28.191",
+        "Position": "7"
+    },
+    {
+        "Circuit ID": "hungaroring",
+        "Round": "13",
+        "Lap Number": "34",
+        "Driver ID": "russell",
+        "Time": "1:40.210",
+        "Position": "11"
     },
     {
         "Circuit ID": "hungaroring",
         "Round": "13",
         "Lap Number": "35",
-        "Driver ID": "perez",
-        "Time": "1:24.416",
-        "Position": "9"
+        "Driver ID": "russell",
+        "Time": "1:22.516",
+        "Position": "11"
     },
     {
         "Circuit ID": "hungaroring",
         "Round": "13",
         "Lap Number": "36",
-        "Driver ID": "perez",
-        "Time": "1:22.922",
-        "Position": "8"
+        "Driver ID": "russell",
+        "Time": "1:22.852",
+        "Position": "11"
     },
     {
         "Circuit ID": "hungaroring",
         "Round": "13",
         "Lap Number": "37",
-        "Driver ID": "perez",
-        "Time": "1:24.500",
-        "Position": "7"
+        "Driver ID": "russell",
+        "Time": "1:22.830",
+        "Position": "10"
     },
     {
         "Circuit ID": "hungaroring",
         "Round": "13",
         "Lap Number": "38",
-        "Driver ID": "perez",
-        "Time": "1:22.197",
-        "Position": "7"
+        "Driver ID": "russell",
+        "Time": "1:22.814",
+        "Position": "8"
     },
     {
         "Circuit ID": "hungaroring",
         "Round": "13",
         "Lap Number": "39",
-        "Driver ID": "perez",
-        "Time": "1:22.752",
-        "Position": "7"
+        "Driver ID": "russell",
+        "Time": "1:22.275",
+        "Position": "8"
     },
     {
         "Circuit ID": "hungaroring",
         "Round": "13",
         "Lap Number": "40",
-        "Driver ID": "perez",
-        "Time": "1:22.577",
-        "Position": "7"
+        "Driver ID": "russell",
+        "Time": "1:22.211",
+        "Position": "8"
     },
     {
         "Circuit ID": "hungaroring",
         "Round": "13",
         "Lap Number": "41",
-        "Driver ID": "perez",
-        "Time": "1:22.905",
-        "Position": "7"
+        "Driver ID": "russell",
+        "Time": "1:22.610",
+        "Position": "8"
     },
     {
         "Circuit ID": "hungaroring",
         "Round": "13",
         "Lap Number": "42",
-        "Driver ID": "perez",
-        "Time": "1:22.539",
-        "Position": "7"
+        "Driver ID": "russell",
+        "Time": "1:22.569",
+        "Position": "8"
     },
     {
         "Circuit ID": "hungaroring",
         "Round": "13",
         "Lap Number": "43",
-        "Driver ID": "perez",
-        "Time": "1:22.731",
-        "Position": "7"
+        "Driver ID": "russell",
+        "Time": "1:22.908",
+        "Position": "8"
     },
     {
         "Circuit ID": "hungaroring",
         "Round": "13",
         "Lap Number": "44",
-        "Driver ID": "perez",
-        "Time": "1:22.923",
-        "Position": "7"
+        "Driver ID": "russell",
+        "Time": "1:22.863",
+        "Position": "8"
     },
     {
         "Circuit ID": "hungaroring",
         "Round": "13",
         "Lap Number": "45",
-        "Driver ID": "perez",
-        "Time": "1:22.927",
-        "Position": "7"
+        "Driver ID": "russell",
+        "Time": "1:22.880",
+        "Position": "8"
     },
     {
         "Circuit ID": "hungaroring",
         "Round": "13",
         "Lap Number": "46",
-        "Driver ID": "perez",
-        "Time": "1:23.579",
-        "Position": "7"
+        "Driver ID": "russell",
+        "Time": "1:23.344",
+        "Position": "8"
     },
     {
         "Circuit ID": "hungaroring",
         "Round": "13",
         "Lap Number": "47",
-        "Driver ID": "perez",
-        "Time": "1:25.878",
-        "Position": "8"
+        "Driver ID": "russell",
+        "Time": "1:23.102",
+        "Position": "7"
     },
     {
         "Circuit ID": "hungaroring",
         "Round": "13",
         "Lap Number": "48",
-        "Driver ID": "perez",
-        "Time": "1:39.508",
-        "Position": "8"
+        "Driver ID": "russell",
+        "Time": "1:23.018",
+        "Position": "7"
     },
     {
         "Circuit ID": "hungaroring",
         "Round": "13",
         "Lap Number": "49",
-        "Driver ID": "perez",
-        "Time": "1:21.096",
-        "Position": "8"
+        "Driver ID": "russell",
+        "Time": "1:22.691",
+        "Position": "7"
     },
     {
         "Circuit ID": "hungaroring",
         "Round": "13",
         "Lap Number": "50",
-        "Driver ID": "perez",
-        "Time": "1:21.299",
-        "Position": "8"
+        "Driver ID": "russell",
+        "Time": "1:22.605",
+        "Position": "7"
     },
     {
         "Circuit ID": "hungaroring",
         "Round": "13",
         "Lap Number": "51",
-        "Driver ID": "perez",
-        "Time": "1:21.603",
-        "Position": "8"
+        "Driver ID": "russell",
+        "Time": "1:22.711",
+        "Position": "7"
     },
     {
         "Circuit ID": "hungaroring",
         "Round": "13",
         "Lap Number": "52",
-        "Driver ID": "perez",
-        "Time": "1:21.584",
-        "Position": "8"
+        "Driver ID": "russell",
+        "Time": "1:22.924",
+        "Position": "7"
     },
     {
         "Circuit ID": "hungaroring",
         "Round": "13",
         "Lap Number": "53",
-        "Driver ID": "perez",
-        "Time": "1:21.705",
-        "Position": "8"
+        "Driver ID": "russell",
+        "Time": "1:25.333",
+        "Position": "7"
     },
     {
         "Circuit ID": "hungaroring",
         "Round": "13",
         "Lap Number": "54",
-        "Driver ID": "perez",
-        "Time": "1:21.577",
-        "Position": "7"
+        "Driver ID": "russell",
+        "Time": "1:38.565",
+        "Position": "8"
     },
     {
         "Circuit ID": "hungaroring",
         "Round": "13",
         "Lap Number": "55",
-        "Driver ID": "perez",
-        "Time": "1:21.618",
-        "Position": "7"
+        "Driver ID": "russell",
+        "Time": "1:20.305",
+        "Position": "8"
     },
     {
         "Circuit ID": "hungaroring",
         "Round": "13",
         "Lap Number": "56",
-        "Driver ID": "perez",
-        "Time": "1:21.902",
-        "Position": "7"
+        "Driver ID": "russell",
+        "Time": "1:21.020",
+        "Position": "8"
     },
     {
         "Circuit ID": "hungaroring",
         "Round": "13",
         "Lap Number": "57",
-        "Driver ID": "perez",
-        "Time": "1:21.944",
-        "Position": "7"
+        "Driver ID": "russell",
+        "Time": "1:21.304",
+        "Position": "8"
     },
     {
         "Circuit ID": "hungaroring",
         "Round": "13",
         "Lap Number": "58",
-        "Driver ID": "perez",
-        "Time": "1:22.151",
-        "Position": "7"
+        "Driver ID": "russell",
+        "Time": "1:21.563",
+        "Position": "8"
     },
     {
         "Circuit ID": "hungaroring",
         "Round": "13",
         "Lap Number": "59",
-        "Driver ID": "perez",
-        "Time": "1:22.444",
-        "Position": "7"
+        "Driver ID": "russell",
+        "Time": "1:21.706",
+        "Position": "8"
     },
     {
         "Circuit ID": "hungaroring",
         "Round": "13",
         "Lap Number": "60",
-        "Driver ID": "perez",
-        "Time": "1:22.645",
-        "Position": "7"
+        "Driver ID": "russell",
+        "Time": "1:22.159",
+        "Position": "8"
     },
     {
         "Circuit ID": "hungaroring",
         "Round": "13",
         "Lap Number": "61",
-        "Driver ID": "perez",
-        "Time": "1:22.435",
-        "Position": "7"
+        "Driver ID": "russell",
+        "Time": "1:23.000",
+        "Position": "8"
     },
     {
         "Circuit ID": "hungaroring",
         "Round": "13",
         "Lap Number": "62",
-        "Driver ID": "perez",
-        "Time": "1:22.062",
-        "Position": "7"
+        "Driver ID": "russell",
+        "Time": "1:22.162",
+        "Position": "8"
     },
     {
         "Circuit ID": "hungaroring",
         "Round": "13",
         "Lap Number": "63",
-        "Driver ID": "perez",
-        "Time": "1:22.891",
-        "Position": "7"
+        "Driver ID": "russell",
+        "Time": "1:22.192",
+        "Position": "8"
     },
     {
         "Circuit ID": "hungaroring",
         "Round": "13",
         "Lap Number": "64",
-        "Driver ID": "perez",
-        "Time": "1:23.425",
-        "Position": "7"
+        "Driver ID": "russell",
+        "Time": "1:22.928",
+        "Position": "8"
     },
     {
         "Circuit ID": "hungaroring",
         "Round": "13",
         "Lap Number": "65",
-        "Driver ID": "perez",
-        "Time": "1:24.173",
-        "Position": "7"
+        "Driver ID": "russell",
+        "Time": "1:22.963",
+        "Position": "8"
     },
     {
         "Circuit ID": "hungaroring",
         "Round": "13",
         "Lap Number": "66",
-        "Driver ID": "perez",
-        "Time": "1:23.174",
-        "Position": "7"
+        "Driver ID": "russell",
+        "Time": "1:23.071",
+        "Position": "8"
     },
     {
         "Circuit ID": "hungaroring",
         "Round": "13",
         "Lap Number": "67",
-        "Driver ID": "perez",
-        "Time": "1:23.257",
-        "Position": "7"
+        "Driver ID": "russell",
+        "Time": "1:22.658",
+        "Position": "8"
     },
     {
         "Circuit ID": "hungaroring",
         "Round": "13",
         "Lap Number": "68",
-        "Driver ID": "perez",
-        "Time": "1:23.020",
-        "Position": "7"
+        "Driver ID": "russell",
+        "Time": "1:22.685",
+        "Position": "8"
     },
     {
         "Circuit ID": "hungaroring",
         "Round": "13",
         "Lap Number": "69",
-        "Driver ID": "perez",
-        "Time": "1:23.523",
-        "Position": "7"
+        "Driver ID": "russell",
+        "Time": "1:23.580",
+        "Position": "8"
     },
     {
         "Circuit ID": "hungaroring",
         "Round": "13",
         "Lap Number": "70",
-        "Driver ID": "perez",
-        "Time": "1:23.447",
-        "Position": "7"
+        "Driver ID": "russell",
+        "Time": "1:24.063",
+        "Position": "8"
     },
     {
         "Circuit ID": "hungaroring",

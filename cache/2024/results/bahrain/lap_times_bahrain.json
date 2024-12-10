@@ -5011,449 +5011,449 @@
         "Circuit ID": "bahrain",
         "Round": "1",
         "Lap Number": "1",
-        "Driver ID": "tsunoda",
-        "Time": "1:43.485",
-        "Position": "10"
-    },
-    {
-        "Circuit ID": "bahrain",
-        "Round": "1",
-        "Lap Number": "2",
-        "Driver ID": "tsunoda",
-        "Time": "1:38.689",
-        "Position": "10"
-    },
-    {
-        "Circuit ID": "bahrain",
-        "Round": "1",
-        "Lap Number": "3",
-        "Driver ID": "tsunoda",
-        "Time": "1:38.431",
-        "Position": "10"
-    },
-    {
-        "Circuit ID": "bahrain",
-        "Round": "1",
-        "Lap Number": "4",
-        "Driver ID": "tsunoda",
-        "Time": "1:38.310",
-        "Position": "10"
-    },
-    {
-        "Circuit ID": "bahrain",
-        "Round": "1",
-        "Lap Number": "5",
-        "Driver ID": "tsunoda",
-        "Time": "1:38.321",
-        "Position": "10"
-    },
-    {
-        "Circuit ID": "bahrain",
-        "Round": "1",
-        "Lap Number": "6",
-        "Driver ID": "tsunoda",
-        "Time": "1:38.361",
-        "Position": "10"
-    },
-    {
-        "Circuit ID": "bahrain",
-        "Round": "1",
-        "Lap Number": "7",
-        "Driver ID": "tsunoda",
-        "Time": "1:38.364",
-        "Position": "10"
-    },
-    {
-        "Circuit ID": "bahrain",
-        "Round": "1",
-        "Lap Number": "8",
-        "Driver ID": "tsunoda",
-        "Time": "1:38.513",
-        "Position": "10"
-    },
-    {
-        "Circuit ID": "bahrain",
-        "Round": "1",
-        "Lap Number": "9",
-        "Driver ID": "tsunoda",
-        "Time": "1:38.554",
-        "Position": "10"
-    },
-    {
-        "Circuit ID": "bahrain",
-        "Round": "1",
-        "Lap Number": "10",
-        "Driver ID": "tsunoda",
-        "Time": "1:38.912",
-        "Position": "10"
-    },
-    {
-        "Circuit ID": "bahrain",
-        "Round": "1",
-        "Lap Number": "11",
-        "Driver ID": "tsunoda",
-        "Time": "1:38.799",
-        "Position": "10"
-    },
-    {
-        "Circuit ID": "bahrain",
-        "Round": "1",
-        "Lap Number": "12",
-        "Driver ID": "tsunoda",
-        "Time": "1:38.769",
-        "Position": "8"
-    },
-    {
-        "Circuit ID": "bahrain",
-        "Round": "1",
-        "Lap Number": "13",
-        "Driver ID": "tsunoda",
-        "Time": "1:38.860",
-        "Position": "5"
-    },
-    {
-        "Circuit ID": "bahrain",
-        "Round": "1",
-        "Lap Number": "14",
-        "Driver ID": "tsunoda",
-        "Time": "1:41.138",
-        "Position": "4"
-    },
-    {
-        "Circuit ID": "bahrain",
-        "Round": "1",
-        "Lap Number": "15",
-        "Driver ID": "tsunoda",
-        "Time": "1:59.588",
-        "Position": "13"
-    },
-    {
-        "Circuit ID": "bahrain",
-        "Round": "1",
-        "Lap Number": "16",
-        "Driver ID": "tsunoda",
-        "Time": "1:37.516",
+        "Driver ID": "kevin_magnussen",
+        "Time": "1:44.349",
         "Position": "12"
     },
     {
         "Circuit ID": "bahrain",
         "Round": "1",
+        "Lap Number": "2",
+        "Driver ID": "kevin_magnussen",
+        "Time": "1:38.911",
+        "Position": "12"
+    },
+    {
+        "Circuit ID": "bahrain",
+        "Round": "1",
+        "Lap Number": "3",
+        "Driver ID": "kevin_magnussen",
+        "Time": "1:38.399",
+        "Position": "12"
+    },
+    {
+        "Circuit ID": "bahrain",
+        "Round": "1",
+        "Lap Number": "4",
+        "Driver ID": "kevin_magnussen",
+        "Time": "1:38.497",
+        "Position": "12"
+    },
+    {
+        "Circuit ID": "bahrain",
+        "Round": "1",
+        "Lap Number": "5",
+        "Driver ID": "kevin_magnussen",
+        "Time": "1:38.576",
+        "Position": "12"
+    },
+    {
+        "Circuit ID": "bahrain",
+        "Round": "1",
+        "Lap Number": "6",
+        "Driver ID": "kevin_magnussen",
+        "Time": "1:38.529",
+        "Position": "12"
+    },
+    {
+        "Circuit ID": "bahrain",
+        "Round": "1",
+        "Lap Number": "7",
+        "Driver ID": "kevin_magnussen",
+        "Time": "1:40.058",
+        "Position": "12"
+    },
+    {
+        "Circuit ID": "bahrain",
+        "Round": "1",
+        "Lap Number": "8",
+        "Driver ID": "kevin_magnussen",
+        "Time": "1:39.172",
+        "Position": "12"
+    },
+    {
+        "Circuit ID": "bahrain",
+        "Round": "1",
+        "Lap Number": "9",
+        "Driver ID": "kevin_magnussen",
+        "Time": "1:38.861",
+        "Position": "12"
+    },
+    {
+        "Circuit ID": "bahrain",
+        "Round": "1",
+        "Lap Number": "10",
+        "Driver ID": "kevin_magnussen",
+        "Time": "1:38.747",
+        "Position": "12"
+    },
+    {
+        "Circuit ID": "bahrain",
+        "Round": "1",
+        "Lap Number": "11",
+        "Driver ID": "kevin_magnussen",
+        "Time": "1:41.088",
+        "Position": "12"
+    },
+    {
+        "Circuit ID": "bahrain",
+        "Round": "1",
+        "Lap Number": "12",
+        "Driver ID": "kevin_magnussen",
+        "Time": "1:59.682",
+        "Position": "17"
+    },
+    {
+        "Circuit ID": "bahrain",
+        "Round": "1",
+        "Lap Number": "13",
+        "Driver ID": "kevin_magnussen",
+        "Time": "1:36.890",
+        "Position": "15"
+    },
+    {
+        "Circuit ID": "bahrain",
+        "Round": "1",
+        "Lap Number": "14",
+        "Driver ID": "kevin_magnussen",
+        "Time": "1:37.590",
+        "Position": "14"
+    },
+    {
+        "Circuit ID": "bahrain",
+        "Round": "1",
+        "Lap Number": "15",
+        "Driver ID": "kevin_magnussen",
+        "Time": "1:38.332",
+        "Position": "14"
+    },
+    {
+        "Circuit ID": "bahrain",
+        "Round": "1",
+        "Lap Number": "16",
+        "Driver ID": "kevin_magnussen",
+        "Time": "1:37.749",
+        "Position": "13"
+    },
+    {
+        "Circuit ID": "bahrain",
+        "Round": "1",
         "Lap Number": "17",
-        "Driver ID": "tsunoda",
-        "Time": "1:37.482",
-        "Position": "11"
+        "Driver ID": "kevin_magnussen",
+        "Time": "1:38.282",
+        "Position": "13"
     },
     {
         "Circuit ID": "bahrain",
         "Round": "1",
         "Lap Number": "18",
-        "Driver ID": "tsunoda",
-        "Time": "1:37.359",
-        "Position": "11"
+        "Driver ID": "kevin_magnussen",
+        "Time": "1:37.583",
+        "Position": "13"
     },
     {
         "Circuit ID": "bahrain",
         "Round": "1",
         "Lap Number": "19",
-        "Driver ID": "tsunoda",
-        "Time": "1:37.396",
-        "Position": "11"
+        "Driver ID": "kevin_magnussen",
+        "Time": "1:37.792",
+        "Position": "13"
     },
     {
         "Circuit ID": "bahrain",
         "Round": "1",
         "Lap Number": "20",
-        "Driver ID": "tsunoda",
-        "Time": "1:37.766",
-        "Position": "11"
+        "Driver ID": "kevin_magnussen",
+        "Time": "1:38.062",
+        "Position": "13"
     },
     {
         "Circuit ID": "bahrain",
         "Round": "1",
         "Lap Number": "21",
-        "Driver ID": "tsunoda",
-        "Time": "1:37.777",
-        "Position": "11"
+        "Driver ID": "kevin_magnussen",
+        "Time": "1:38.010",
+        "Position": "13"
     },
     {
         "Circuit ID": "bahrain",
         "Round": "1",
         "Lap Number": "22",
-        "Driver ID": "tsunoda",
-        "Time": "1:37.837",
-        "Position": "11"
+        "Driver ID": "kevin_magnussen",
+        "Time": "1:38.147",
+        "Position": "13"
     },
     {
         "Circuit ID": "bahrain",
         "Round": "1",
         "Lap Number": "23",
-        "Driver ID": "tsunoda",
-        "Time": "1:37.671",
-        "Position": "11"
+        "Driver ID": "kevin_magnussen",
+        "Time": "1:38.293",
+        "Position": "13"
     },
     {
         "Circuit ID": "bahrain",
         "Round": "1",
         "Lap Number": "24",
-        "Driver ID": "tsunoda",
-        "Time": "1:37.634",
-        "Position": "11"
+        "Driver ID": "kevin_magnussen",
+        "Time": "1:38.156",
+        "Position": "13"
     },
     {
         "Circuit ID": "bahrain",
         "Round": "1",
         "Lap Number": "25",
-        "Driver ID": "tsunoda",
-        "Time": "1:37.851",
-        "Position": "11"
+        "Driver ID": "kevin_magnussen",
+        "Time": "1:38.290",
+        "Position": "13"
     },
     {
         "Circuit ID": "bahrain",
         "Round": "1",
         "Lap Number": "26",
-        "Driver ID": "tsunoda",
-        "Time": "1:38.058",
-        "Position": "11"
+        "Driver ID": "kevin_magnussen",
+        "Time": "1:38.093",
+        "Position": "13"
     },
     {
         "Circuit ID": "bahrain",
         "Round": "1",
         "Lap Number": "27",
-        "Driver ID": "tsunoda",
-        "Time": "1:38.083",
-        "Position": "11"
+        "Driver ID": "kevin_magnussen",
+        "Time": "1:38.226",
+        "Position": "12"
     },
     {
         "Circuit ID": "bahrain",
         "Round": "1",
         "Lap Number": "28",
-        "Driver ID": "tsunoda",
-        "Time": "1:38.164",
-        "Position": "10"
+        "Driver ID": "kevin_magnussen",
+        "Time": "1:37.936",
+        "Position": "12"
     },
     {
         "Circuit ID": "bahrain",
         "Round": "1",
         "Lap Number": "29",
-        "Driver ID": "tsunoda",
-        "Time": "1:37.777",
-        "Position": "10"
+        "Driver ID": "kevin_magnussen",
+        "Time": "1:37.965",
+        "Position": "11"
     },
     {
         "Circuit ID": "bahrain",
         "Round": "1",
         "Lap Number": "30",
-        "Driver ID": "tsunoda",
-        "Time": "1:37.477",
-        "Position": "10"
+        "Driver ID": "kevin_magnussen",
+        "Time": "1:38.040",
+        "Position": "11"
     },
     {
         "Circuit ID": "bahrain",
         "Round": "1",
         "Lap Number": "31",
-        "Driver ID": "tsunoda",
-        "Time": "1:37.468",
-        "Position": "10"
+        "Driver ID": "kevin_magnussen",
+        "Time": "1:38.000",
+        "Position": "11"
     },
     {
         "Circuit ID": "bahrain",
         "Round": "1",
         "Lap Number": "32",
-        "Driver ID": "tsunoda",
-        "Time": "1:37.847",
-        "Position": "10"
+        "Driver ID": "kevin_magnussen",
+        "Time": "1:40.565",
+        "Position": "13"
     },
     {
         "Circuit ID": "bahrain",
         "Round": "1",
         "Lap Number": "33",
-        "Driver ID": "tsunoda",
-        "Time": "1:37.498",
-        "Position": "10"
+        "Driver ID": "kevin_magnussen",
+        "Time": "1:56.655",
+        "Position": "16"
     },
     {
         "Circuit ID": "bahrain",
         "Round": "1",
         "Lap Number": "34",
-        "Driver ID": "tsunoda",
-        "Time": "1:40.835",
-        "Position": "10"
+        "Driver ID": "kevin_magnussen",
+        "Time": "1:35.570",
+        "Position": "16"
     },
     {
         "Circuit ID": "bahrain",
         "Round": "1",
         "Lap Number": "35",
-        "Driver ID": "tsunoda",
-        "Time": "1:57.417",
-        "Position": "15"
+        "Driver ID": "kevin_magnussen",
+        "Time": "1:35.698",
+        "Position": "16"
     },
     {
         "Circuit ID": "bahrain",
         "Round": "1",
         "Lap Number": "36",
-        "Driver ID": "tsunoda",
-        "Time": "1:37.706",
-        "Position": "15"
+        "Driver ID": "kevin_magnussen",
+        "Time": "1:35.851",
+        "Position": "14"
     },
     {
         "Circuit ID": "bahrain",
         "Round": "1",
         "Lap Number": "37",
-        "Driver ID": "tsunoda",
-        "Time": "1:35.833",
-        "Position": "14"
+        "Driver ID": "kevin_magnussen",
+        "Time": "1:35.741",
+        "Position": "13"
     },
     {
         "Circuit ID": "bahrain",
         "Round": "1",
         "Lap Number": "38",
-        "Driver ID": "tsunoda",
-        "Time": "1:37.046",
-        "Position": "13"
+        "Driver ID": "kevin_magnussen",
+        "Time": "1:36.042",
+        "Position": "12"
     },
     {
         "Circuit ID": "bahrain",
         "Round": "1",
         "Lap Number": "39",
-        "Driver ID": "tsunoda",
-        "Time": "1:36.125",
-        "Position": "13"
+        "Driver ID": "kevin_magnussen",
+        "Time": "1:35.876",
+        "Position": "12"
     },
     {
         "Circuit ID": "bahrain",
         "Round": "1",
         "Lap Number": "40",
-        "Driver ID": "tsunoda",
-        "Time": "1:36.263",
-        "Position": "13"
+        "Driver ID": "kevin_magnussen",
+        "Time": "1:36.071",
+        "Position": "12"
     },
     {
         "Circuit ID": "bahrain",
         "Round": "1",
         "Lap Number": "41",
-        "Driver ID": "tsunoda",
-        "Time": "1:36.179",
-        "Position": "13"
+        "Driver ID": "kevin_magnussen",
+        "Time": "1:36.340",
+        "Position": "12"
     },
     {
         "Circuit ID": "bahrain",
         "Round": "1",
         "Lap Number": "42",
-        "Driver ID": "tsunoda",
-        "Time": "1:35.981",
-        "Position": "13"
+        "Driver ID": "kevin_magnussen",
+        "Time": "1:36.310",
+        "Position": "12"
     },
     {
         "Circuit ID": "bahrain",
         "Round": "1",
         "Lap Number": "43",
-        "Driver ID": "tsunoda",
-        "Time": "1:35.956",
-        "Position": "13"
+        "Driver ID": "kevin_magnussen",
+        "Time": "1:36.232",
+        "Position": "12"
     },
     {
         "Circuit ID": "bahrain",
         "Round": "1",
         "Lap Number": "44",
-        "Driver ID": "tsunoda",
-        "Time": "1:36.144",
-        "Position": "13"
+        "Driver ID": "kevin_magnussen",
+        "Time": "1:36.249",
+        "Position": "12"
     },
     {
         "Circuit ID": "bahrain",
         "Round": "1",
         "Lap Number": "45",
-        "Driver ID": "tsunoda",
-        "Time": "1:35.964",
-        "Position": "13"
+        "Driver ID": "kevin_magnussen",
+        "Time": "1:36.349",
+        "Position": "12"
     },
     {
         "Circuit ID": "bahrain",
         "Round": "1",
         "Lap Number": "46",
-        "Driver ID": "tsunoda",
-        "Time": "1:36.187",
-        "Position": "13"
+        "Driver ID": "kevin_magnussen",
+        "Time": "1:36.446",
+        "Position": "12"
     },
     {
         "Circuit ID": "bahrain",
         "Round": "1",
         "Lap Number": "47",
-        "Driver ID": "tsunoda",
-        "Time": "1:36.396",
-        "Position": "13"
+        "Driver ID": "kevin_magnussen",
+        "Time": "1:36.454",
+        "Position": "12"
     },
     {
         "Circuit ID": "bahrain",
         "Round": "1",
         "Lap Number": "48",
-        "Driver ID": "tsunoda",
-        "Time": "1:36.554",
-        "Position": "13"
+        "Driver ID": "kevin_magnussen",
+        "Time": "1:36.679",
+        "Position": "12"
     },
     {
         "Circuit ID": "bahrain",
         "Round": "1",
         "Lap Number": "49",
-        "Driver ID": "tsunoda",
-        "Time": "1:36.695",
-        "Position": "13"
+        "Driver ID": "kevin_magnussen",
+        "Time": "1:36.842",
+        "Position": "12"
     },
     {
         "Circuit ID": "bahrain",
         "Round": "1",
         "Lap Number": "50",
-        "Driver ID": "tsunoda",
-        "Time": "1:36.827",
-        "Position": "13"
+        "Driver ID": "kevin_magnussen",
+        "Time": "1:37.035",
+        "Position": "12"
     },
     {
         "Circuit ID": "bahrain",
         "Round": "1",
         "Lap Number": "51",
-        "Driver ID": "tsunoda",
-        "Time": "1:37.067",
-        "Position": "13"
+        "Driver ID": "kevin_magnussen",
+        "Time": "1:36.929",
+        "Position": "12"
     },
     {
         "Circuit ID": "bahrain",
         "Round": "1",
         "Lap Number": "52",
-        "Driver ID": "tsunoda",
-        "Time": "1:39.042",
-        "Position": "14"
+        "Driver ID": "kevin_magnussen",
+        "Time": "1:36.930",
+        "Position": "12"
     },
     {
         "Circuit ID": "bahrain",
         "Round": "1",
         "Lap Number": "53",
-        "Driver ID": "tsunoda",
-        "Time": "1:36.838",
-        "Position": "14"
+        "Driver ID": "kevin_magnussen",
+        "Time": "1:37.958",
+        "Position": "12"
     },
     {
         "Circuit ID": "bahrain",
         "Round": "1",
         "Lap Number": "54",
-        "Driver ID": "tsunoda",
-        "Time": "1:36.672",
-        "Position": "14"
+        "Driver ID": "kevin_magnussen",
+        "Time": "1:36.890",
+        "Position": "12"
     },
     {
         "Circuit ID": "bahrain",
         "Round": "1",
         "Lap Number": "55",
-        "Driver ID": "tsunoda",
-        "Time": "1:37.269",
-        "Position": "14"
+        "Driver ID": "kevin_magnussen",
+        "Time": "1:37.457",
+        "Position": "12"
     },
     {
         "Circuit ID": "bahrain",
         "Round": "1",
         "Lap Number": "56",
-        "Driver ID": "tsunoda",
-        "Time": "1:37.473",
-        "Position": "14"
+        "Driver ID": "kevin_magnussen",
+        "Time": "1:37.584",
+        "Position": "12"
     },
     {
         "Circuit ID": "bahrain",
@@ -6803,440 +6803,448 @@
         "Circuit ID": "bahrain",
         "Round": "1",
         "Lap Number": "1",
-        "Driver ID": "sargeant",
-        "Time": "1:45.921",
-        "Position": "15"
+        "Driver ID": "gasly",
+        "Time": "1:47.240",
+        "Position": "17"
     },
     {
         "Circuit ID": "bahrain",
         "Round": "1",
         "Lap Number": "2",
-        "Driver ID": "sargeant",
-        "Time": "1:38.481",
-        "Position": "14"
+        "Driver ID": "gasly",
+        "Time": "1:39.059",
+        "Position": "17"
     },
     {
         "Circuit ID": "bahrain",
         "Round": "1",
         "Lap Number": "3",
-        "Driver ID": "sargeant",
-        "Time": "1:38.707",
-        "Position": "14"
+        "Driver ID": "gasly",
+        "Time": "1:38.744",
+        "Position": "17"
     },
     {
         "Circuit ID": "bahrain",
         "Round": "1",
         "Lap Number": "4",
-        "Driver ID": "sargeant",
-        "Time": "1:38.390",
-        "Position": "14"
+        "Driver ID": "gasly",
+        "Time": "1:38.503",
+        "Position": "17"
     },
     {
         "Circuit ID": "bahrain",
         "Round": "1",
         "Lap Number": "5",
-        "Driver ID": "sargeant",
-        "Time": "1:38.757",
-        "Position": "14"
+        "Driver ID": "gasly",
+        "Time": "1:38.664",
+        "Position": "17"
     },
     {
         "Circuit ID": "bahrain",
         "Round": "1",
         "Lap Number": "6",
-        "Driver ID": "sargeant",
-        "Time": "1:38.582",
-        "Position": "14"
+        "Driver ID": "gasly",
+        "Time": "1:39.099",
+        "Position": "17"
     },
     {
         "Circuit ID": "bahrain",
         "Round": "1",
         "Lap Number": "7",
-        "Driver ID": "sargeant",
-        "Time": "1:39.464",
-        "Position": "14"
+        "Driver ID": "gasly",
+        "Time": "1:39.078",
+        "Position": "17"
     },
     {
         "Circuit ID": "bahrain",
         "Round": "1",
         "Lap Number": "8",
-        "Driver ID": "sargeant",
-        "Time": "1:39.580",
-        "Position": "14"
+        "Driver ID": "gasly",
+        "Time": "1:39.287",
+        "Position": "17"
     },
     {
         "Circuit ID": "bahrain",
         "Round": "1",
         "Lap Number": "9",
-        "Driver ID": "sargeant",
-        "Time": "1:39.366",
-        "Position": "13"
+        "Driver ID": "gasly",
+        "Time": "1:39.452",
+        "Position": "17"
     },
     {
         "Circuit ID": "bahrain",
         "Round": "1",
         "Lap Number": "10",
-        "Driver ID": "sargeant",
-        "Time": "2:41.860",
-        "Position": "20"
+        "Driver ID": "gasly",
+        "Time": "1:38.929",
+        "Position": "14"
     },
     {
         "Circuit ID": "bahrain",
         "Round": "1",
         "Lap Number": "11",
-        "Driver ID": "sargeant",
-        "Time": "2:12.438",
-        "Position": "20"
+        "Driver ID": "gasly",
+        "Time": "1:38.656",
+        "Position": "14"
     },
     {
         "Circuit ID": "bahrain",
         "Round": "1",
         "Lap Number": "12",
-        "Driver ID": "sargeant",
-        "Time": "1:38.493",
-        "Position": "20"
+        "Driver ID": "gasly",
+        "Time": "1:41.456",
+        "Position": "12"
     },
     {
         "Circuit ID": "bahrain",
         "Round": "1",
         "Lap Number": "13",
-        "Driver ID": "sargeant",
-        "Time": "1:40.989",
-        "Position": "20"
+        "Driver ID": "gasly",
+        "Time": "2:04.565",
+        "Position": "18"
     },
     {
         "Circuit ID": "bahrain",
         "Round": "1",
         "Lap Number": "14",
-        "Driver ID": "sargeant",
-        "Time": "1:41.470",
-        "Position": "20"
+        "Driver ID": "gasly",
+        "Time": "1:37.689",
+        "Position": "19"
     },
     {
         "Circuit ID": "bahrain",
         "Round": "1",
         "Lap Number": "15",
-        "Driver ID": "sargeant",
-        "Time": "1:37.594",
-        "Position": "20"
+        "Driver ID": "gasly",
+        "Time": "1:37.492",
+        "Position": "19"
     },
     {
         "Circuit ID": "bahrain",
         "Round": "1",
         "Lap Number": "16",
-        "Driver ID": "sargeant",
-        "Time": "1:41.370",
-        "Position": "20"
+        "Driver ID": "gasly",
+        "Time": "1:37.521",
+        "Position": "19"
     },
     {
         "Circuit ID": "bahrain",
         "Round": "1",
         "Lap Number": "17",
-        "Driver ID": "sargeant",
-        "Time": "1:39.758",
-        "Position": "20"
+        "Driver ID": "gasly",
+        "Time": "1:37.949",
+        "Position": "19"
     },
     {
         "Circuit ID": "bahrain",
         "Round": "1",
         "Lap Number": "18",
-        "Driver ID": "sargeant",
-        "Time": "1:38.077",
-        "Position": "20"
+        "Driver ID": "gasly",
+        "Time": "1:37.791",
+        "Position": "19"
     },
     {
         "Circuit ID": "bahrain",
         "Round": "1",
         "Lap Number": "19",
-        "Driver ID": "sargeant",
-        "Time": "1:37.742",
-        "Position": "20"
+        "Driver ID": "gasly",
+        "Time": "1:37.702",
+        "Position": "19"
     },
     {
         "Circuit ID": "bahrain",
         "Round": "1",
         "Lap Number": "20",
-        "Driver ID": "sargeant",
-        "Time": "1:37.820",
-        "Position": "20"
+        "Driver ID": "gasly",
+        "Time": "1:38.036",
+        "Position": "18"
     },
     {
         "Circuit ID": "bahrain",
         "Round": "1",
         "Lap Number": "21",
-        "Driver ID": "sargeant",
-        "Time": "1:38.009",
-        "Position": "20"
+        "Driver ID": "gasly",
+        "Time": "1:38.094",
+        "Position": "18"
     },
     {
         "Circuit ID": "bahrain",
         "Round": "1",
         "Lap Number": "22",
-        "Driver ID": "sargeant",
-        "Time": "1:37.728",
-        "Position": "20"
+        "Driver ID": "gasly",
+        "Time": "1:37.868",
+        "Position": "18"
     },
     {
         "Circuit ID": "bahrain",
         "Round": "1",
         "Lap Number": "23",
-        "Driver ID": "sargeant",
-        "Time": "1:37.621",
-        "Position": "20"
+        "Driver ID": "gasly",
+        "Time": "1:38.104",
+        "Position": "18"
     },
     {
         "Circuit ID": "bahrain",
         "Round": "1",
         "Lap Number": "24",
-        "Driver ID": "sargeant",
-        "Time": "1:39.437",
-        "Position": "20"
+        "Driver ID": "gasly",
+        "Time": "1:38.192",
+        "Position": "18"
     },
     {
         "Circuit ID": "bahrain",
         "Round": "1",
         "Lap Number": "25",
-        "Driver ID": "sargeant",
-        "Time": "1:39.093",
-        "Position": "20"
+        "Driver ID": "gasly",
+        "Time": "1:38.160",
+        "Position": "18"
     },
     {
         "Circuit ID": "bahrain",
         "Round": "1",
         "Lap Number": "26",
-        "Driver ID": "sargeant",
-        "Time": "1:37.859",
-        "Position": "20"
+        "Driver ID": "gasly",
+        "Time": "1:38.379",
+        "Position": "18"
     },
     {
         "Circuit ID": "bahrain",
         "Round": "1",
         "Lap Number": "27",
-        "Driver ID": "sargeant",
-        "Time": "1:38.288",
-        "Position": "20"
+        "Driver ID": "gasly",
+        "Time": "1:38.400",
+        "Position": "18"
     },
     {
         "Circuit ID": "bahrain",
         "Round": "1",
         "Lap Number": "28",
-        "Driver ID": "sargeant",
-        "Time": "1:40.535",
-        "Position": "20"
+        "Driver ID": "gasly",
+        "Time": "1:38.615",
+        "Position": "17"
     },
     {
         "Circuit ID": "bahrain",
         "Round": "1",
         "Lap Number": "29",
-        "Driver ID": "sargeant",
-        "Time": "2:01.581",
-        "Position": "20"
+        "Driver ID": "gasly",
+        "Time": "1:38.550",
+        "Position": "16"
     },
     {
         "Circuit ID": "bahrain",
         "Round": "1",
         "Lap Number": "30",
-        "Driver ID": "sargeant",
-        "Time": "1:35.715",
-        "Position": "20"
+        "Driver ID": "gasly",
+        "Time": "1:38.832",
+        "Position": "15"
     },
     {
         "Circuit ID": "bahrain",
         "Round": "1",
         "Lap Number": "31",
-        "Driver ID": "sargeant",
-        "Time": "1:36.713",
-        "Position": "20"
+        "Driver ID": "gasly",
+        "Time": "1:40.432",
+        "Position": "16"
     },
     {
         "Circuit ID": "bahrain",
         "Round": "1",
         "Lap Number": "32",
-        "Driver ID": "sargeant",
-        "Time": "1:36.563",
-        "Position": "20"
+        "Driver ID": "gasly",
+        "Time": "1:59.770",
+        "Position": "18"
     },
     {
         "Circuit ID": "bahrain",
         "Round": "1",
         "Lap Number": "33",
-        "Driver ID": "sargeant",
-        "Time": "1:37.433",
-        "Position": "20"
+        "Driver ID": "gasly",
+        "Time": "1:36.112",
+        "Position": "18"
     },
     {
         "Circuit ID": "bahrain",
         "Round": "1",
         "Lap Number": "34",
-        "Driver ID": "sargeant",
-        "Time": "1:36.475",
-        "Position": "20"
+        "Driver ID": "gasly",
+        "Time": "1:36.622",
+        "Position": "18"
     },
     {
         "Circuit ID": "bahrain",
         "Round": "1",
         "Lap Number": "35",
-        "Driver ID": "sargeant",
-        "Time": "1:36.859",
-        "Position": "20"
+        "Driver ID": "gasly",
+        "Time": "1:36.313",
+        "Position": "18"
     },
     {
         "Circuit ID": "bahrain",
         "Round": "1",
         "Lap Number": "36",
-        "Driver ID": "sargeant",
-        "Time": "1:36.462",
-        "Position": "20"
+        "Driver ID": "gasly",
+        "Time": "1:36.450",
+        "Position": "18"
     },
     {
         "Circuit ID": "bahrain",
         "Round": "1",
         "Lap Number": "37",
-        "Driver ID": "sargeant",
-        "Time": "1:36.785",
-        "Position": "20"
+        "Driver ID": "gasly",
+        "Time": "1:36.629",
+        "Position": "18"
     },
     {
         "Circuit ID": "bahrain",
         "Round": "1",
         "Lap Number": "38",
-        "Driver ID": "sargeant",
-        "Time": "1:36.732",
-        "Position": "20"
+        "Driver ID": "gasly",
+        "Time": "1:36.802",
+        "Position": "18"
     },
     {
         "Circuit ID": "bahrain",
         "Round": "1",
         "Lap Number": "39",
-        "Driver ID": "sargeant",
-        "Time": "1:37.016",
-        "Position": "20"
+        "Driver ID": "gasly",
+        "Time": "1:36.537",
+        "Position": "18"
     },
     {
         "Circuit ID": "bahrain",
         "Round": "1",
         "Lap Number": "40",
-        "Driver ID": "sargeant",
-        "Time": "1:39.817",
-        "Position": "20"
+        "Driver ID": "gasly",
+        "Time": "1:36.742",
+        "Position": "18"
     },
     {
         "Circuit ID": "bahrain",
         "Round": "1",
         "Lap Number": "41",
-        "Driver ID": "sargeant",
-        "Time": "2:00.282",
-        "Position": "20"
+        "Driver ID": "gasly",
+        "Time": "1:36.571",
+        "Position": "18"
     },
     {
         "Circuit ID": "bahrain",
         "Round": "1",
         "Lap Number": "42",
-        "Driver ID": "sargeant",
-        "Time": "1:34.735",
-        "Position": "20"
+        "Driver ID": "gasly",
+        "Time": "1:36.631",
+        "Position": "17"
     },
     {
         "Circuit ID": "bahrain",
         "Round": "1",
         "Lap Number": "43",
-        "Driver ID": "sargeant",
-        "Time": "1:35.001",
-        "Position": "20"
+        "Driver ID": "gasly",
+        "Time": "1:39.291",
+        "Position": "17"
     },
     {
         "Circuit ID": "bahrain",
         "Round": "1",
         "Lap Number": "44",
-        "Driver ID": "sargeant",
-        "Time": "1:35.130",
-        "Position": "20"
+        "Driver ID": "gasly",
+        "Time": "1:56.481",
+        "Position": "18"
     },
     {
         "Circuit ID": "bahrain",
         "Round": "1",
         "Lap Number": "45",
-        "Driver ID": "sargeant",
-        "Time": "1:35.333",
-        "Position": "20"
+        "Driver ID": "gasly",
+        "Time": "1:34.805",
+        "Position": "18"
     },
     {
         "Circuit ID": "bahrain",
         "Round": "1",
         "Lap Number": "46",
-        "Driver ID": "sargeant",
-        "Time": "1:35.939",
-        "Position": "20"
+        "Driver ID": "gasly",
+        "Time": "1:35.293",
+        "Position": "18"
     },
     {
         "Circuit ID": "bahrain",
         "Round": "1",
         "Lap Number": "47",
-        "Driver ID": "sargeant",
-        "Time": "1:36.729",
-        "Position": "20"
+        "Driver ID": "gasly",
+        "Time": "1:35.341",
+        "Position": "18"
     },
     {
         "Circuit ID": "bahrain",
         "Round": "1",
         "Lap Number": "48",
-        "Driver ID": "sargeant",
-        "Time": "1:35.688",
-        "Position": "20"
+        "Driver ID": "gasly",
+        "Time": "1:35.411",
+        "Position": "18"
     },
     {
         "Circuit ID": "bahrain",
         "Round": "1",
         "Lap Number": "49",
-        "Driver ID": "sargeant",
-        "Time": "1:35.590",
-        "Position": "20"
+        "Driver ID": "gasly",
+        "Time": "1:35.511",
+        "Position": "18"
     },
     {
         "Circuit ID": "bahrain",
         "Round": "1",
         "Lap Number": "50",
-        "Driver ID": "sargeant",
-        "Time": "1:35.660",
-        "Position": "20"
+        "Driver ID": "gasly",
+        "Time": "1:35.228",
+        "Position": "18"
     },
     {
         "Circuit ID": "bahrain",
         "Round": "1",
         "Lap Number": "51",
-        "Driver ID": "sargeant",
-        "Time": "1:35.972",
-        "Position": "20"
+        "Driver ID": "gasly",
+        "Time": "1:35.334",
+        "Position": "18"
     },
     {
         "Circuit ID": "bahrain",
         "Round": "1",
         "Lap Number": "52",
-        "Driver ID": "sargeant",
-        "Time": "1:35.987",
-        "Position": "20"
+        "Driver ID": "gasly",
+        "Time": "1:35.511",
+        "Position": "18"
     },
     {
         "Circuit ID": "bahrain",
         "Round": "1",
         "Lap Number": "53",
-        "Driver ID": "sargeant",
-        "Time": "1:36.088",
-        "Position": "20"
+        "Driver ID": "gasly",
+        "Time": "1:35.389",
+        "Position": "18"
     },
     {
         "Circuit ID": "bahrain",
         "Round": "1",
         "Lap Number": "54",
-        "Driver ID": "sargeant",
-        "Time": "1:39.614",
-        "Position": "20"
+        "Driver ID": "gasly",
+        "Time": "1:35.853",
+        "Position": "18"
     },
     {
         "Circuit ID": "bahrain",
         "Round": "1",
         "Lap Number": "55",
-        "Driver ID": "sargeant",
-        "Time": "1:36.209",
-        "Position": "20"
+        "Driver ID": "gasly",
+        "Time": "1:35.908",
+        "Position": "18"
+    },
+    {
+        "Circuit ID": "bahrain",
+        "Round": "1",
+        "Lap Number": "56",
+        "Driver ID": "gasly",
+        "Time": "1:36.086",
+        "Position": "18"
     }
 ]

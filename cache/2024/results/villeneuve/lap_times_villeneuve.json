@@ -563,566 +563,6 @@
         "Circuit ID": "villeneuve",
         "Round": "9",
         "Lap Number": "1",
-        "Driver ID": "norris",
-        "Time": "1:46.722",
-        "Position": "3"
-    },
-    {
-        "Circuit ID": "villeneuve",
-        "Round": "9",
-        "Lap Number": "2",
-        "Driver ID": "norris",
-        "Time": "1:38.203",
-        "Position": "3"
-    },
-    {
-        "Circuit ID": "villeneuve",
-        "Round": "9",
-        "Lap Number": "3",
-        "Driver ID": "norris",
-        "Time": "1:36.569",
-        "Position": "3"
-    },
-    {
-        "Circuit ID": "villeneuve",
-        "Round": "9",
-        "Lap Number": "4",
-        "Driver ID": "norris",
-        "Time": "1:35.138",
-        "Position": "3"
-    },
-    {
-        "Circuit ID": "villeneuve",
-        "Round": "9",
-        "Lap Number": "5",
-        "Driver ID": "norris",
-        "Time": "1:34.885",
-        "Position": "3"
-    },
-    {
-        "Circuit ID": "villeneuve",
-        "Round": "9",
-        "Lap Number": "6",
-        "Driver ID": "norris",
-        "Time": "1:35.037",
-        "Position": "3"
-    },
-    {
-        "Circuit ID": "villeneuve",
-        "Round": "9",
-        "Lap Number": "7",
-        "Driver ID": "norris",
-        "Time": "1:32.547",
-        "Position": "3"
-    },
-    {
-        "Circuit ID": "villeneuve",
-        "Round": "9",
-        "Lap Number": "8",
-        "Driver ID": "norris",
-        "Time": "1:31.299",
-        "Position": "3"
-    },
-    {
-        "Circuit ID": "villeneuve",
-        "Round": "9",
-        "Lap Number": "9",
-        "Driver ID": "norris",
-        "Time": "1:29.860",
-        "Position": "3"
-    },
-    {
-        "Circuit ID": "villeneuve",
-        "Round": "9",
-        "Lap Number": "10",
-        "Driver ID": "norris",
-        "Time": "1:30.860",
-        "Position": "3"
-    },
-    {
-        "Circuit ID": "villeneuve",
-        "Round": "9",
-        "Lap Number": "11",
-        "Driver ID": "norris",
-        "Time": "1:28.032",
-        "Position": "3"
-    },
-    {
-        "Circuit ID": "villeneuve",
-        "Round": "9",
-        "Lap Number": "12",
-        "Driver ID": "norris",
-        "Time": "1:28.568",
-        "Position": "3"
-    },
-    {
-        "Circuit ID": "villeneuve",
-        "Round": "9",
-        "Lap Number": "13",
-        "Driver ID": "norris",
-        "Time": "1:28.181",
-        "Position": "3"
-    },
-    {
-        "Circuit ID": "villeneuve",
-        "Round": "9",
-        "Lap Number": "14",
-        "Driver ID": "norris",
-        "Time": "1:26.857",
-        "Position": "3"
-    },
-    {
-        "Circuit ID": "villeneuve",
-        "Round": "9",
-        "Lap Number": "15",
-        "Driver ID": "norris",
-        "Time": "1:27.634",
-        "Position": "3"
-    },
-    {
-        "Circuit ID": "villeneuve",
-        "Round": "9",
-        "Lap Number": "16",
-        "Driver ID": "norris",
-        "Time": "1:26.553",
-        "Position": "3"
-    },
-    {
-        "Circuit ID": "villeneuve",
-        "Round": "9",
-        "Lap Number": "17",
-        "Driver ID": "norris",
-        "Time": "1:27.702",
-        "Position": "3"
-    },
-    {
-        "Circuit ID": "villeneuve",
-        "Round": "9",
-        "Lap Number": "18",
-        "Driver ID": "norris",
-        "Time": "1:26.232",
-        "Position": "3"
-    },
-    {
-        "Circuit ID": "villeneuve",
-        "Round": "9",
-        "Lap Number": "19",
-        "Driver ID": "norris",
-        "Time": "1:25.777",
-        "Position": "3"
-    },
-    {
-        "Circuit ID": "villeneuve",
-        "Round": "9",
-        "Lap Number": "20",
-        "Driver ID": "norris",
-        "Time": "1:25.473",
-        "Position": "2"
-    },
-    {
-        "Circuit ID": "villeneuve",
-        "Round": "9",
-        "Lap Number": "21",
-        "Driver ID": "norris",
-        "Time": "1:25.192",
-        "Position": "1"
-    },
-    {
-        "Circuit ID": "villeneuve",
-        "Round": "9",
-        "Lap Number": "22",
-        "Driver ID": "norris",
-        "Time": "1:24.429",
-        "Position": "1"
-    },
-    {
-        "Circuit ID": "villeneuve",
-        "Round": "9",
-        "Lap Number": "23",
-        "Driver ID": "norris",
-        "Time": "1:25.246",
-        "Position": "1"
-    },
-    {
-        "Circuit ID": "villeneuve",
-        "Round": "9",
-        "Lap Number": "24",
-        "Driver ID": "norris",
-        "Time": "1:24.743",
-        "Position": "1"
-    },
-    {
-        "Circuit ID": "villeneuve",
-        "Round": "9",
-        "Lap Number": "25",
-        "Driver ID": "norris",
-        "Time": "1:31.400",
-        "Position": "1"
-    },
-    {
-        "Circuit ID": "villeneuve",
-        "Round": "9",
-        "Lap Number": "26",
-        "Driver ID": "norris",
-        "Time": "2:21.631",
-        "Position": "2"
-    },
-    {
-        "Circuit ID": "villeneuve",
-        "Round": "9",
-        "Lap Number": "27",
-        "Driver ID": "norris",
-        "Time": "2:11.601",
-        "Position": "3"
-    },
-    {
-        "Circuit ID": "villeneuve",
-        "Round": "9",
-        "Lap Number": "28",
-        "Driver ID": "norris",
-        "Time": "2:07.807",
-        "Position": "3"
-    },
-    {
-        "Circuit ID": "villeneuve",
-        "Round": "9",
-        "Lap Number": "29",
-        "Driver ID": "norris",
-        "Time": "2:12.459",
-        "Position": "3"
-    },
-    {
-        "Circuit ID": "villeneuve",
-        "Round": "9",
-        "Lap Number": "30",
-        "Driver ID": "norris",
-        "Time": "1:27.062",
-        "Position": "3"
-    },
-    {
-        "Circuit ID": "villeneuve",
-        "Round": "9",
-        "Lap Number": "31",
-        "Driver ID": "norris",
-        "Time": "1:30.169",
-        "Position": "3"
-    },
-    {
-        "Circuit ID": "villeneuve",
-        "Round": "9",
-        "Lap Number": "32",
-        "Driver ID": "norris",
-        "Time": "1:30.563",
-        "Position": "3"
-    },
-    {
-        "Circuit ID": "villeneuve",
-        "Round": "9",
-        "Lap Number": "33",
-        "Driver ID": "norris",
-        "Time": "1:29.003",
-        "Position": "3"
-    },
-    {
-        "Circuit ID": "villeneuve",
-        "Round": "9",
-        "Lap Number": "34",
-        "Driver ID": "norris",
-        "Time": "1:28.097",
-        "Position": "3"
-    },
-    {
-        "Circuit ID": "villeneuve",
-        "Round": "9",
-        "Lap Number": "35",
-        "Driver ID": "norris",
-        "Time": "1:27.307",
-        "Position": "3"
-    },
-    {
-        "Circuit ID": "villeneuve",
-        "Round": "9",
-        "Lap Number": "36",
-        "Driver ID": "norris",
-        "Time": "1:26.370",
-        "Position": "3"
-    },
-    {
-        "Circuit ID": "villeneuve",
-        "Round": "9",
-        "Lap Number": "37",
-        "Driver ID": "norris",
-        "Time": "1:26.174",
-        "Position": "3"
-    },
-    {
-        "Circuit ID": "villeneuve",
-        "Round": "9",
-        "Lap Number": "38",
-        "Driver ID": "norris",
-        "Time": "1:25.708",
-        "Position": "3"
-    },
-    {
-        "Circuit ID": "villeneuve",
-        "Round": "9",
-        "Lap Number": "39",
-        "Driver ID": "norris",
-        "Time": "1:25.412",
-        "Position": "3"
-    },
-    {
-        "Circuit ID": "villeneuve",
-        "Round": "9",
-        "Lap Number": "40",
-        "Driver ID": "norris",
-        "Time": "1:24.203",
-        "Position": "3"
-    },
-    {
-        "Circuit ID": "villeneuve",
-        "Round": "9",
-        "Lap Number": "41",
-        "Driver ID": "norris",
-        "Time": "1:23.927",
-        "Position": "3"
-    },
-    {
-        "Circuit ID": "villeneuve",
-        "Round": "9",
-        "Lap Number": "42",
-        "Driver ID": "norris",
-        "Time": "1:24.928",
-        "Position": "3"
-    },
-    {
-        "Circuit ID": "villeneuve",
-        "Round": "9",
-        "Lap Number": "43",
-        "Driver ID": "norris",
-        "Time": "1:23.671",
-        "Position": "3"
-    },
-    {
-        "Circuit ID": "villeneuve",
-        "Round": "9",
-        "Lap Number": "44",
-        "Driver ID": "norris",
-        "Time": "1:24.247",
-        "Position": "3"
-    },
-    {
-        "Circuit ID": "villeneuve",
-        "Round": "9",
-        "Lap Number": "45",
-        "Driver ID": "norris",
-        "Time": "1:23.569",
-        "Position": "1"
-    },
-    {
-        "Circuit ID": "villeneuve",
-        "Round": "9",
-        "Lap Number": "46",
-        "Driver ID": "norris",
-        "Time": "1:23.272",
-        "Position": "1"
-    },
-    {
-        "Circuit ID": "villeneuve",
-        "Round": "9",
-        "Lap Number": "47",
-        "Driver ID": "norris",
-        "Time": "1:39.824",
-        "Position": "1"
-    },
-    {
-        "Circuit ID": "villeneuve",
-        "Round": "9",
-        "Lap Number": "48",
-        "Driver ID": "norris",
-        "Time": "1:28.096",
-        "Position": "2"
-    },
-    {
-        "Circuit ID": "villeneuve",
-        "Round": "9",
-        "Lap Number": "49",
-        "Driver ID": "norris",
-        "Time": "1:20.650",
-        "Position": "3"
-    },
-    {
-        "Circuit ID": "villeneuve",
-        "Round": "9",
-        "Lap Number": "50",
-        "Driver ID": "norris",
-        "Time": "1:18.193",
-        "Position": "3"
-    },
-    {
-        "Circuit ID": "villeneuve",
-        "Round": "9",
-        "Lap Number": "51",
-        "Driver ID": "norris",
-        "Time": "1:19.049",
-        "Position": "2"
-    },
-    {
-        "Circuit ID": "villeneuve",
-        "Round": "9",
-        "Lap Number": "52",
-        "Driver ID": "norris",
-        "Time": "1:17.631",
-        "Position": "2"
-    },
-    {
-        "Circuit ID": "villeneuve",
-        "Round": "9",
-        "Lap Number": "53",
-        "Driver ID": "norris",
-        "Time": "1:17.491",
-        "Position": "2"
-    },
-    {
-        "Circuit ID": "villeneuve",
-        "Round": "9",
-        "Lap Number": "54",
-        "Driver ID": "norris",
-        "Time": "1:41.021",
-        "Position": "2"
-    },
-    {
-        "Circuit ID": "villeneuve",
-        "Round": "9",
-        "Lap Number": "55",
-        "Driver ID": "norris",
-        "Time": "2:04.823",
-        "Position": "2"
-    },
-    {
-        "Circuit ID": "villeneuve",
-        "Round": "9",
-        "Lap Number": "56",
-        "Driver ID": "norris",
-        "Time": "2:04.066",
-        "Position": "2"
-    },
-    {
-        "Circuit ID": "villeneuve",
-        "Round": "9",
-        "Lap Number": "57",
-        "Driver ID": "norris",
-        "Time": "1:56.997",
-        "Position": "2"
-    },
-    {
-        "Circuit ID": "villeneuve",
-        "Round": "9",
-        "Lap Number": "58",
-        "Driver ID": "norris",
-        "Time": "2:15.270",
-        "Position": "2"
-    },
-    {
-        "Circuit ID": "villeneuve",
-        "Round": "9",
-        "Lap Number": "59",
-        "Driver ID": "norris",
-        "Time": "1:19.368",
-        "Position": "2"
-    },
-    {
-        "Circuit ID": "villeneuve",
-        "Round": "9",
-        "Lap Number": "60",
-        "Driver ID": "norris",
-        "Time": "1:17.236",
-        "Position": "2"
-    },
-    {
-        "Circuit ID": "villeneuve",
-        "Round": "9",
-        "Lap Number": "61",
-        "Driver ID": "norris",
-        "Time": "1:16.920",
-        "Position": "2"
-    },
-    {
-        "Circuit ID": "villeneuve",
-        "Round": "9",
-        "Lap Number": "62",
-        "Driver ID": "norris",
-        "Time": "1:16.524",
-        "Position": "2"
-    },
-    {
-        "Circuit ID": "villeneuve",
-        "Round": "9",
-        "Lap Number": "63",
-        "Driver ID": "norris",
-        "Time": "1:16.380",
-        "Position": "2"
-    },
-    {
-        "Circuit ID": "villeneuve",
-        "Round": "9",
-        "Lap Number": "64",
-        "Driver ID": "norris",
-        "Time": "1:16.256",
-        "Position": "2"
-    },
-    {
-        "Circuit ID": "villeneuve",
-        "Round": "9",
-        "Lap Number": "65",
-        "Driver ID": "norris",
-        "Time": "1:16.173",
-        "Position": "2"
-    },
-    {
-        "Circuit ID": "villeneuve",
-        "Round": "9",
-        "Lap Number": "66",
-        "Driver ID": "norris",
-        "Time": "1:15.764",
-        "Position": "2"
-    },
-    {
-        "Circuit ID": "villeneuve",
-        "Round": "9",
-        "Lap Number": "67",
-        "Driver ID": "norris",
-        "Time": "1:15.558",
-        "Position": "2"
-    },
-    {
-        "Circuit ID": "villeneuve",
-        "Round": "9",
-        "Lap Number": "68",
-        "Driver ID": "norris",
-        "Time": "1:15.932",
-        "Position": "2"
-    },
-    {
-        "Circuit ID": "villeneuve",
-        "Round": "9",
-        "Lap Number": "69",
-        "Driver ID": "norris",
-        "Time": "1:16.075",
-        "Position": "2"
-    },
-    {
-        "Circuit ID": "villeneuve",
-        "Round": "9",
-        "Lap Number": "70",
-        "Driver ID": "norris",
-        "Time": "1:16.190",
-        "Position": "2"
-    },
-    {
-        "Circuit ID": "villeneuve",
-        "Round": "9",
-        "Lap Number": "1",
         "Driver ID": "russell",
         "Time": "1:43.723",
         "Position": "1"
@@ -2243,561 +1683,1121 @@
         "Circuit ID": "villeneuve",
         "Round": "9",
         "Lap Number": "1",
-        "Driver ID": "stroll",
-        "Time": "1:53.082",
-        "Position": "9"
+        "Driver ID": "piastri",
+        "Time": "1:48.458",
+        "Position": "4"
     },
     {
         "Circuit ID": "villeneuve",
         "Round": "9",
         "Lap Number": "2",
-        "Driver ID": "stroll",
-        "Time": "1:40.966",
-        "Position": "9"
+        "Driver ID": "piastri",
+        "Time": "1:38.591",
+        "Position": "4"
     },
     {
         "Circuit ID": "villeneuve",
         "Round": "9",
         "Lap Number": "3",
-        "Driver ID": "stroll",
-        "Time": "1:40.688",
-        "Position": "10"
+        "Driver ID": "piastri",
+        "Time": "1:38.416",
+        "Position": "5"
     },
     {
         "Circuit ID": "villeneuve",
         "Round": "9",
         "Lap Number": "4",
-        "Driver ID": "stroll",
-        "Time": "1:37.302",
-        "Position": "10"
+        "Driver ID": "piastri",
+        "Time": "1:37.594",
+        "Position": "5"
     },
     {
         "Circuit ID": "villeneuve",
         "Round": "9",
         "Lap Number": "5",
-        "Driver ID": "stroll",
-        "Time": "1:37.044",
-        "Position": "10"
+        "Driver ID": "piastri",
+        "Time": "1:36.590",
+        "Position": "5"
     },
     {
         "Circuit ID": "villeneuve",
         "Round": "9",
         "Lap Number": "6",
-        "Driver ID": "stroll",
-        "Time": "1:36.655",
-        "Position": "10"
+        "Driver ID": "piastri",
+        "Time": "1:33.060",
+        "Position": "5"
     },
     {
         "Circuit ID": "villeneuve",
         "Round": "9",
         "Lap Number": "7",
-        "Driver ID": "stroll",
-        "Time": "1:33.695",
-        "Position": "9"
+        "Driver ID": "piastri",
+        "Time": "1:31.954",
+        "Position": "4"
     },
     {
         "Circuit ID": "villeneuve",
         "Round": "9",
         "Lap Number": "8",
-        "Driver ID": "stroll",
-        "Time": "1:33.549",
-        "Position": "9"
+        "Driver ID": "piastri",
+        "Time": "1:31.133",
+        "Position": "4"
     },
     {
         "Circuit ID": "villeneuve",
         "Round": "9",
         "Lap Number": "9",
-        "Driver ID": "stroll",
-        "Time": "1:32.850",
-        "Position": "9"
+        "Driver ID": "piastri",
+        "Time": "1:31.043",
+        "Position": "4"
     },
     {
         "Circuit ID": "villeneuve",
         "Round": "9",
         "Lap Number": "10",
-        "Driver ID": "stroll",
-        "Time": "1:32.786",
-        "Position": "9"
+        "Driver ID": "piastri",
+        "Time": "1:29.459",
+        "Position": "4"
     },
     {
         "Circuit ID": "villeneuve",
         "Round": "9",
         "Lap Number": "11",
-        "Driver ID": "stroll",
-        "Time": "1:34.245",
-        "Position": "9"
+        "Driver ID": "piastri",
+        "Time": "1:29.005",
+        "Position": "4"
     },
     {
         "Circuit ID": "villeneuve",
         "Round": "9",
         "Lap Number": "12",
-        "Driver ID": "stroll",
-        "Time": "1:31.200",
-        "Position": "8"
+        "Driver ID": "piastri",
+        "Time": "1:28.661",
+        "Position": "4"
     },
     {
         "Circuit ID": "villeneuve",
         "Round": "9",
         "Lap Number": "13",
-        "Driver ID": "stroll",
-        "Time": "1:30.255",
-        "Position": "8"
+        "Driver ID": "piastri",
+        "Time": "1:28.857",
+        "Position": "4"
     },
     {
         "Circuit ID": "villeneuve",
         "Round": "9",
         "Lap Number": "14",
-        "Driver ID": "stroll",
-        "Time": "1:29.446",
-        "Position": "8"
+        "Driver ID": "piastri",
+        "Time": "1:27.573",
+        "Position": "4"
     },
     {
         "Circuit ID": "villeneuve",
         "Round": "9",
         "Lap Number": "15",
-        "Driver ID": "stroll",
-        "Time": "1:29.017",
-        "Position": "8"
+        "Driver ID": "piastri",
+        "Time": "1:27.904",
+        "Position": "4"
     },
     {
         "Circuit ID": "villeneuve",
         "Round": "9",
         "Lap Number": "16",
-        "Driver ID": "stroll",
-        "Time": "1:27.764",
-        "Position": "8"
+        "Driver ID": "piastri",
+        "Time": "1:26.764",
+        "Position": "4"
     },
     {
         "Circuit ID": "villeneuve",
         "Round": "9",
         "Lap Number": "17",
-        "Driver ID": "stroll",
-        "Time": "1:27.365",
-        "Position": "8"
+        "Driver ID": "piastri",
+        "Time": "1:26.412",
+        "Position": "4"
     },
     {
         "Circuit ID": "villeneuve",
         "Round": "9",
         "Lap Number": "18",
-        "Driver ID": "stroll",
-        "Time": "1:27.136",
-        "Position": "8"
+        "Driver ID": "piastri",
+        "Time": "1:25.976",
+        "Position": "4"
     },
     {
         "Circuit ID": "villeneuve",
         "Round": "9",
         "Lap Number": "19",
-        "Driver ID": "stroll",
-        "Time": "1:26.880",
-        "Position": "8"
+        "Driver ID": "piastri",
+        "Time": "1:25.529",
+        "Position": "4"
     },
     {
         "Circuit ID": "villeneuve",
         "Round": "9",
         "Lap Number": "20",
-        "Driver ID": "stroll",
-        "Time": "1:26.894",
-        "Position": "8"
+        "Driver ID": "piastri",
+        "Time": "1:25.391",
+        "Position": "4"
     },
     {
         "Circuit ID": "villeneuve",
         "Round": "9",
         "Lap Number": "21",
-        "Driver ID": "stroll",
-        "Time": "1:26.728",
-        "Position": "8"
+        "Driver ID": "piastri",
+        "Time": "1:25.351",
+        "Position": "4"
     },
     {
         "Circuit ID": "villeneuve",
         "Round": "9",
         "Lap Number": "22",
-        "Driver ID": "stroll",
-        "Time": "1:26.423",
-        "Position": "8"
+        "Driver ID": "piastri",
+        "Time": "1:25.361",
+        "Position": "4"
     },
     {
         "Circuit ID": "villeneuve",
         "Round": "9",
         "Lap Number": "23",
-        "Driver ID": "stroll",
-        "Time": "1:27.166",
-        "Position": "8"
+        "Driver ID": "piastri",
+        "Time": "1:25.850",
+        "Position": "4"
     },
     {
         "Circuit ID": "villeneuve",
         "Round": "9",
         "Lap Number": "24",
-        "Driver ID": "stroll",
-        "Time": "1:26.270",
-        "Position": "8"
+        "Driver ID": "piastri",
+        "Time": "1:26.273",
+        "Position": "4"
     },
     {
         "Circuit ID": "villeneuve",
         "Round": "9",
         "Lap Number": "25",
-        "Driver ID": "stroll",
-        "Time": "2:03.142",
-        "Position": "9"
+        "Driver ID": "piastri",
+        "Time": "1:53.473",
+        "Position": "4"
     },
     {
         "Circuit ID": "villeneuve",
         "Round": "9",
         "Lap Number": "26",
-        "Driver ID": "stroll",
-        "Time": "1:52.790",
-        "Position": "8"
+        "Driver ID": "piastri",
+        "Time": "1:51.896",
+        "Position": "4"
     },
     {
         "Circuit ID": "villeneuve",
         "Round": "9",
         "Lap Number": "27",
-        "Driver ID": "stroll",
-        "Time": "1:37.744",
-        "Position": "8"
+        "Driver ID": "piastri",
+        "Time": "2:11.174",
+        "Position": "4"
     },
     {
         "Circuit ID": "villeneuve",
         "Round": "9",
         "Lap Number": "28",
-        "Driver ID": "stroll",
-        "Time": "1:52.790",
-        "Position": "8"
+        "Driver ID": "piastri",
+        "Time": "2:07.524",
+        "Position": "4"
     },
     {
         "Circuit ID": "villeneuve",
         "Round": "9",
         "Lap Number": "29",
-        "Driver ID": "stroll",
-        "Time": "2:08.442",
-        "Position": "8"
+        "Driver ID": "piastri",
+        "Time": "2:11.717",
+        "Position": "4"
     },
     {
         "Circuit ID": "villeneuve",
         "Round": "9",
         "Lap Number": "30",
-        "Driver ID": "stroll",
-        "Time": "1:28.168",
-        "Position": "8"
+        "Driver ID": "piastri",
+        "Time": "1:27.424",
+        "Position": "4"
     },
     {
         "Circuit ID": "villeneuve",
         "Round": "9",
         "Lap Number": "31",
-        "Driver ID": "stroll",
-        "Time": "1:30.970",
-        "Position": "8"
+        "Driver ID": "piastri",
+        "Time": "1:30.562",
+        "Position": "4"
     },
     {
         "Circuit ID": "villeneuve",
         "Round": "9",
         "Lap Number": "32",
-        "Driver ID": "stroll",
-        "Time": "1:30.959",
-        "Position": "8"
+        "Driver ID": "piastri",
+        "Time": "1:30.225",
+        "Position": "4"
     },
     {
         "Circuit ID": "villeneuve",
         "Round": "9",
         "Lap Number": "33",
-        "Driver ID": "stroll",
-        "Time": "1:30.845",
-        "Position": "8"
+        "Driver ID": "piastri",
+        "Time": "1:29.655",
+        "Position": "4"
     },
     {
         "Circuit ID": "villeneuve",
         "Round": "9",
         "Lap Number": "34",
-        "Driver ID": "stroll",
-        "Time": "1:29.836",
-        "Position": "8"
+        "Driver ID": "piastri",
+        "Time": "1:27.454",
+        "Position": "4"
     },
     {
         "Circuit ID": "villeneuve",
         "Round": "9",
         "Lap Number": "35",
-        "Driver ID": "stroll",
-        "Time": "1:28.065",
-        "Position": "8"
+        "Driver ID": "piastri",
+        "Time": "1:27.187",
+        "Position": "4"
     },
     {
         "Circuit ID": "villeneuve",
         "Round": "9",
         "Lap Number": "36",
-        "Driver ID": "stroll",
-        "Time": "1:27.698",
-        "Position": "8"
+        "Driver ID": "piastri",
+        "Time": "1:27.062",
+        "Position": "4"
     },
     {
         "Circuit ID": "villeneuve",
         "Round": "9",
         "Lap Number": "37",
-        "Driver ID": "stroll",
-        "Time": "1:27.579",
-        "Position": "8"
+        "Driver ID": "piastri",
+        "Time": "1:25.769",
+        "Position": "4"
     },
     {
         "Circuit ID": "villeneuve",
         "Round": "9",
         "Lap Number": "38",
-        "Driver ID": "stroll",
-        "Time": "1:27.075",
-        "Position": "8"
+        "Driver ID": "piastri",
+        "Time": "1:25.804",
+        "Position": "4"
     },
     {
         "Circuit ID": "villeneuve",
         "Round": "9",
         "Lap Number": "39",
-        "Driver ID": "stroll",
-        "Time": "1:26.610",
-        "Position": "8"
+        "Driver ID": "piastri",
+        "Time": "1:25.154",
+        "Position": "4"
     },
     {
         "Circuit ID": "villeneuve",
         "Round": "9",
         "Lap Number": "40",
-        "Driver ID": "stroll",
-        "Time": "1:25.379",
-        "Position": "8"
+        "Driver ID": "piastri",
+        "Time": "1:24.439",
+        "Position": "4"
     },
     {
         "Circuit ID": "villeneuve",
         "Round": "9",
         "Lap Number": "41",
-        "Driver ID": "stroll",
-        "Time": "1:26.097",
-        "Position": "8"
+        "Driver ID": "piastri",
+        "Time": "1:23.938",
+        "Position": "4"
     },
     {
         "Circuit ID": "villeneuve",
         "Round": "9",
         "Lap Number": "42",
-        "Driver ID": "stroll",
-        "Time": "1:25.264",
-        "Position": "8"
+        "Driver ID": "piastri",
+        "Time": "1:24.547",
+        "Position": "4"
     },
     {
         "Circuit ID": "villeneuve",
         "Round": "9",
         "Lap Number": "43",
-        "Driver ID": "stroll",
-        "Time": "1:25.612",
-        "Position": "8"
+        "Driver ID": "piastri",
+        "Time": "1:24.465",
+        "Position": "4"
     },
     {
         "Circuit ID": "villeneuve",
         "Round": "9",
         "Lap Number": "44",
-        "Driver ID": "stroll",
-        "Time": "1:41.732",
-        "Position": "8"
+        "Driver ID": "piastri",
+        "Time": "1:39.843",
+        "Position": "4"
     },
     {
         "Circuit ID": "villeneuve",
         "Round": "9",
         "Lap Number": "45",
-        "Driver ID": "stroll",
-        "Time": "1:32.774",
-        "Position": "8"
+        "Driver ID": "piastri",
+        "Time": "1:32.249",
+        "Position": "4"
     },
     {
         "Circuit ID": "villeneuve",
         "Round": "9",
         "Lap Number": "46",
-        "Driver ID": "stroll",
-        "Time": "1:24.920",
-        "Position": "8"
+        "Driver ID": "piastri",
+        "Time": "1:23.490",
+        "Position": "4"
     },
     {
         "Circuit ID": "villeneuve",
         "Round": "9",
         "Lap Number": "47",
-        "Driver ID": "stroll",
-        "Time": "1:23.728",
-        "Position": "8"
+        "Driver ID": "piastri",
+        "Time": "1:21.898",
+        "Position": "4"
     },
     {
         "Circuit ID": "villeneuve",
         "Round": "9",
         "Lap Number": "48",
-        "Driver ID": "stroll",
-        "Time": "1:22.265",
-        "Position": "8"
+        "Driver ID": "piastri",
+        "Time": "1:21.014",
+        "Position": "4"
     },
     {
         "Circuit ID": "villeneuve",
         "Round": "9",
         "Lap Number": "49",
-        "Driver ID": "stroll",
-        "Time": "1:20.776",
-        "Position": "8"
+        "Driver ID": "piastri",
+        "Time": "1:19.959",
+        "Position": "4"
     },
     {
         "Circuit ID": "villeneuve",
         "Round": "9",
         "Lap Number": "50",
-        "Driver ID": "stroll",
-        "Time": "1:19.565",
-        "Position": "8"
+        "Driver ID": "piastri",
+        "Time": "1:19.980",
+        "Position": "4"
     },
     {
         "Circuit ID": "villeneuve",
         "Round": "9",
         "Lap Number": "51",
-        "Driver ID": "stroll",
-        "Time": "1:19.392",
-        "Position": "8"
+        "Driver ID": "piastri",
+        "Time": "1:18.633",
+        "Position": "4"
     },
     {
         "Circuit ID": "villeneuve",
         "Round": "9",
         "Lap Number": "52",
-        "Driver ID": "stroll",
-        "Time": "1:21.251",
-        "Position": "7"
+        "Driver ID": "piastri",
+        "Time": "1:17.815",
+        "Position": "4"
     },
     {
         "Circuit ID": "villeneuve",
         "Round": "9",
         "Lap Number": "53",
-        "Driver ID": "stroll",
-        "Time": "1:25.278",
-        "Position": "7"
+        "Driver ID": "piastri",
+        "Time": "1:18.063",
+        "Position": "4"
     },
     {
         "Circuit ID": "villeneuve",
         "Round": "9",
         "Lap Number": "54",
-        "Driver ID": "stroll",
-        "Time": "1:43.360",
-        "Position": "7"
+        "Driver ID": "piastri",
+        "Time": "1:43.216",
+        "Position": "3"
     },
     {
         "Circuit ID": "villeneuve",
         "Round": "9",
         "Lap Number": "55",
-        "Driver ID": "stroll",
-        "Time": "1:37.349",
-        "Position": "7"
+        "Driver ID": "piastri",
+        "Time": "2:01.632",
+        "Position": "3"
     },
     {
         "Circuit ID": "villeneuve",
         "Round": "9",
         "Lap Number": "56",
-        "Driver ID": "stroll",
-        "Time": "1:58.802",
-        "Position": "7"
+        "Driver ID": "piastri",
+        "Time": "2:05.192",
+        "Position": "3"
     },
     {
         "Circuit ID": "villeneuve",
         "Round": "9",
         "Lap Number": "57",
-        "Driver ID": "stroll",
-        "Time": "1:53.170",
-        "Position": "7"
+        "Driver ID": "piastri",
+        "Time": "1:55.379",
+        "Position": "3"
     },
     {
         "Circuit ID": "villeneuve",
         "Round": "9",
         "Lap Number": "58",
-        "Driver ID": "stroll",
-        "Time": "2:11.641",
-        "Position": "7"
+        "Driver ID": "piastri",
+        "Time": "2:14.735",
+        "Position": "3"
     },
     {
         "Circuit ID": "villeneuve",
         "Round": "9",
         "Lap Number": "59",
-        "Driver ID": "stroll",
-        "Time": "1:20.939",
-        "Position": "7"
+        "Driver ID": "piastri",
+        "Time": "1:19.586",
+        "Position": "3"
     },
     {
         "Circuit ID": "villeneuve",
         "Round": "9",
         "Lap Number": "60",
-        "Driver ID": "stroll",
-        "Time": "1:18.504",
-        "Position": "7"
+        "Driver ID": "piastri",
+        "Time": "1:17.239",
+        "Position": "3"
     },
     {
         "Circuit ID": "villeneuve",
         "Round": "9",
         "Lap Number": "61",
-        "Driver ID": "stroll",
-        "Time": "1:18.497",
-        "Position": "7"
+        "Driver ID": "piastri",
+        "Time": "1:16.853",
+        "Position": "3"
     },
     {
         "Circuit ID": "villeneuve",
         "Round": "9",
         "Lap Number": "62",
-        "Driver ID": "stroll",
-        "Time": "1:18.443",
-        "Position": "7"
+        "Driver ID": "piastri",
+        "Time": "1:16.967",
+        "Position": "3"
     },
     {
         "Circuit ID": "villeneuve",
         "Round": "9",
         "Lap Number": "63",
-        "Driver ID": "stroll",
-        "Time": "1:17.612",
-        "Position": "7"
+        "Driver ID": "piastri",
+        "Time": "1:17.279",
+        "Position": "3"
     },
     {
         "Circuit ID": "villeneuve",
         "Round": "9",
         "Lap Number": "64",
-        "Driver ID": "stroll",
-        "Time": "1:17.609",
-        "Position": "7"
+        "Driver ID": "piastri",
+        "Time": "1:16.830",
+        "Position": "3"
     },
     {
         "Circuit ID": "villeneuve",
         "Round": "9",
         "Lap Number": "65",
-        "Driver ID": "stroll",
-        "Time": "1:17.302",
-        "Position": "7"
+        "Driver ID": "piastri",
+        "Time": "1:16.247",
+        "Position": "4"
     },
     {
         "Circuit ID": "villeneuve",
         "Round": "9",
         "Lap Number": "66",
-        "Driver ID": "stroll",
-        "Time": "1:17.716",
-        "Position": "7"
+        "Driver ID": "piastri",
+        "Time": "1:16.934",
+        "Position": "5"
     },
     {
         "Circuit ID": "villeneuve",
         "Round": "9",
         "Lap Number": "67",
-        "Driver ID": "stroll",
-        "Time": "1:17.661",
-        "Position": "7"
+        "Driver ID": "piastri",
+        "Time": "1:17.162",
+        "Position": "5"
     },
     {
         "Circuit ID": "villeneuve",
         "Round": "9",
         "Lap Number": "68",
-        "Driver ID": "stroll",
-        "Time": "1:17.160",
-        "Position": "7"
+        "Driver ID": "piastri",
+        "Time": "1:16.344",
+        "Position": "5"
     },
     {
         "Circuit ID": "villeneuve",
         "Round": "9",
         "Lap Number": "69",
-        "Driver ID": "stroll",
-        "Time": "1:16.873",
-        "Position": "7"
+        "Driver ID": "piastri",
+        "Time": "1:16.660",
+        "Position": "5"
     },
     {
         "Circuit ID": "villeneuve",
         "Round": "9",
         "Lap Number": "70",
-        "Driver ID": "stroll",
-        "Time": "1:16.762",
-        "Position": "7"
+        "Driver ID": "piastri",
+        "Time": "1:16.253",
+        "Position": "5"
+    },
+    {
+        "Circuit ID": "villeneuve",
+        "Round": "9",
+        "Lap Number": "1",
+        "Driver ID": "alonso",
+        "Time": "1:49.289",
+        "Position": "5"
+    },
+    {
+        "Circuit ID": "villeneuve",
+        "Round": "9",
+        "Lap Number": "2",
+        "Driver ID": "alonso",
+        "Time": "1:40.628",
+        "Position": "6"
+    },
+    {
+        "Circuit ID": "villeneuve",
+        "Round": "9",
+        "Lap Number": "3",
+        "Driver ID": "alonso",
+        "Time": "1:38.216",
+        "Position": "6"
+    },
+    {
+        "Circuit ID": "villeneuve",
+        "Round": "9",
+        "Lap Number": "4",
+        "Driver ID": "alonso",
+        "Time": "1:36.643",
+        "Position": "6"
+    },
+    {
+        "Circuit ID": "villeneuve",
+        "Round": "9",
+        "Lap Number": "5",
+        "Driver ID": "alonso",
+        "Time": "1:36.345",
+        "Position": "6"
+    },
+    {
+        "Circuit ID": "villeneuve",
+        "Round": "9",
+        "Lap Number": "6",
+        "Driver ID": "alonso",
+        "Time": "1:36.320",
+        "Position": "6"
+    },
+    {
+        "Circuit ID": "villeneuve",
+        "Round": "9",
+        "Lap Number": "7",
+        "Driver ID": "alonso",
+        "Time": "1:35.131",
+        "Position": "5"
+    },
+    {
+        "Circuit ID": "villeneuve",
+        "Round": "9",
+        "Lap Number": "8",
+        "Driver ID": "alonso",
+        "Time": "1:32.566",
+        "Position": "5"
+    },
+    {
+        "Circuit ID": "villeneuve",
+        "Round": "9",
+        "Lap Number": "9",
+        "Driver ID": "alonso",
+        "Time": "1:30.866",
+        "Position": "5"
+    },
+    {
+        "Circuit ID": "villeneuve",
+        "Round": "9",
+        "Lap Number": "10",
+        "Driver ID": "alonso",
+        "Time": "1:30.025",
+        "Position": "5"
+    },
+    {
+        "Circuit ID": "villeneuve",
+        "Round": "9",
+        "Lap Number": "11",
+        "Driver ID": "alonso",
+        "Time": "1:29.371",
+        "Position": "5"
+    },
+    {
+        "Circuit ID": "villeneuve",
+        "Round": "9",
+        "Lap Number": "12",
+        "Driver ID": "alonso",
+        "Time": "1:29.269",
+        "Position": "5"
+    },
+    {
+        "Circuit ID": "villeneuve",
+        "Round": "9",
+        "Lap Number": "13",
+        "Driver ID": "alonso",
+        "Time": "1:28.661",
+        "Position": "5"
+    },
+    {
+        "Circuit ID": "villeneuve",
+        "Round": "9",
+        "Lap Number": "14",
+        "Driver ID": "alonso",
+        "Time": "1:28.314",
+        "Position": "5"
+    },
+    {
+        "Circuit ID": "villeneuve",
+        "Round": "9",
+        "Lap Number": "15",
+        "Driver ID": "alonso",
+        "Time": "1:27.990",
+        "Position": "5"
+    },
+    {
+        "Circuit ID": "villeneuve",
+        "Round": "9",
+        "Lap Number": "16",
+        "Driver ID": "alonso",
+        "Time": "1:26.877",
+        "Position": "5"
+    },
+    {
+        "Circuit ID": "villeneuve",
+        "Round": "9",
+        "Lap Number": "17",
+        "Driver ID": "alonso",
+        "Time": "1:28.248",
+        "Position": "5"
+    },
+    {
+        "Circuit ID": "villeneuve",
+        "Round": "9",
+        "Lap Number": "18",
+        "Driver ID": "alonso",
+        "Time": "1:26.318",
+        "Position": "5"
+    },
+    {
+        "Circuit ID": "villeneuve",
+        "Round": "9",
+        "Lap Number": "19",
+        "Driver ID": "alonso",
+        "Time": "1:26.192",
+        "Position": "5"
+    },
+    {
+        "Circuit ID": "villeneuve",
+        "Round": "9",
+        "Lap Number": "20",
+        "Driver ID": "alonso",
+        "Time": "1:25.488",
+        "Position": "5"
+    },
+    {
+        "Circuit ID": "villeneuve",
+        "Round": "9",
+        "Lap Number": "21",
+        "Driver ID": "alonso",
+        "Time": "1:26.070",
+        "Position": "5"
+    },
+    {
+        "Circuit ID": "villeneuve",
+        "Round": "9",
+        "Lap Number": "22",
+        "Driver ID": "alonso",
+        "Time": "1:25.451",
+        "Position": "5"
+    },
+    {
+        "Circuit ID": "villeneuve",
+        "Round": "9",
+        "Lap Number": "23",
+        "Driver ID": "alonso",
+        "Time": "1:25.977",
+        "Position": "5"
+    },
+    {
+        "Circuit ID": "villeneuve",
+        "Round": "9",
+        "Lap Number": "24",
+        "Driver ID": "alonso",
+        "Time": "1:26.664",
+        "Position": "5"
+    },
+    {
+        "Circuit ID": "villeneuve",
+        "Round": "9",
+        "Lap Number": "25",
+        "Driver ID": "alonso",
+        "Time": "1:58.830",
+        "Position": "6"
+    },
+    {
+        "Circuit ID": "villeneuve",
+        "Round": "9",
+        "Lap Number": "26",
+        "Driver ID": "alonso",
+        "Time": "1:59.494",
+        "Position": "6"
+    },
+    {
+        "Circuit ID": "villeneuve",
+        "Round": "9",
+        "Lap Number": "27",
+        "Driver ID": "alonso",
+        "Time": "1:52.214",
+        "Position": "6"
+    },
+    {
+        "Circuit ID": "villeneuve",
+        "Round": "9",
+        "Lap Number": "28",
+        "Driver ID": "alonso",
+        "Time": "1:59.563",
+        "Position": "6"
+    },
+    {
+        "Circuit ID": "villeneuve",
+        "Round": "9",
+        "Lap Number": "29",
+        "Driver ID": "alonso",
+        "Time": "2:11.176",
+        "Position": "6"
+    },
+    {
+        "Circuit ID": "villeneuve",
+        "Round": "9",
+        "Lap Number": "30",
+        "Driver ID": "alonso",
+        "Time": "1:28.464",
+        "Position": "6"
+    },
+    {
+        "Circuit ID": "villeneuve",
+        "Round": "9",
+        "Lap Number": "31",
+        "Driver ID": "alonso",
+        "Time": "1:30.492",
+        "Position": "6"
+    },
+    {
+        "Circuit ID": "villeneuve",
+        "Round": "9",
+        "Lap Number": "32",
+        "Driver ID": "alonso",
+        "Time": "1:31.726",
+        "Position": "6"
+    },
+    {
+        "Circuit ID": "villeneuve",
+        "Round": "9",
+        "Lap Number": "33",
+        "Driver ID": "alonso",
+        "Time": "1:30.703",
+        "Position": "6"
+    },
+    {
+        "Circuit ID": "villeneuve",
+        "Round": "9",
+        "Lap Number": "34",
+        "Driver ID": "alonso",
+        "Time": "1:28.854",
+        "Position": "6"
+    },
+    {
+        "Circuit ID": "villeneuve",
+        "Round": "9",
+        "Lap Number": "35",
+        "Driver ID": "alonso",
+        "Time": "1:27.872",
+        "Position": "6"
+    },
+    {
+        "Circuit ID": "villeneuve",
+        "Round": "9",
+        "Lap Number": "36",
+        "Driver ID": "alonso",
+        "Time": "1:27.681",
+        "Position": "6"
+    },
+    {
+        "Circuit ID": "villeneuve",
+        "Round": "9",
+        "Lap Number": "37",
+        "Driver ID": "alonso",
+        "Time": "1:27.337",
+        "Position": "6"
+    },
+    {
+        "Circuit ID": "villeneuve",
+        "Round": "9",
+        "Lap Number": "38",
+        "Driver ID": "alonso",
+        "Time": "1:27.139",
+        "Position": "6"
+    },
+    {
+        "Circuit ID": "villeneuve",
+        "Round": "9",
+        "Lap Number": "39",
+        "Driver ID": "alonso",
+        "Time": "1:26.045",
+        "Position": "6"
+    },
+    {
+        "Circuit ID": "villeneuve",
+        "Round": "9",
+        "Lap Number": "40",
+        "Driver ID": "alonso",
+        "Time": "1:25.596",
+        "Position": "6"
+    },
+    {
+        "Circuit ID": "villeneuve",
+        "Round": "9",
+        "Lap Number": "41",
+        "Driver ID": "alonso",
+        "Time": "1:25.218",
+        "Position": "6"
+    },
+    {
+        "Circuit ID": "villeneuve",
+        "Round": "9",
+        "Lap Number": "42",
+        "Driver ID": "alonso",
+        "Time": "1:24.768",
+        "Position": "6"
+    },
+    {
+        "Circuit ID": "villeneuve",
+        "Round": "9",
+        "Lap Number": "43",
+        "Driver ID": "alonso",
+        "Time": "1:24.453",
+        "Position": "5"
+    },
+    {
+        "Circuit ID": "villeneuve",
+        "Round": "9",
+        "Lap Number": "44",
+        "Driver ID": "alonso",
+        "Time": "1:40.506",
+        "Position": "6"
+    },
+    {
+        "Circuit ID": "villeneuve",
+        "Round": "9",
+        "Lap Number": "45",
+        "Driver ID": "alonso",
+        "Time": "1:33.457",
+        "Position": "6"
+    },
+    {
+        "Circuit ID": "villeneuve",
+        "Round": "9",
+        "Lap Number": "46",
+        "Driver ID": "alonso",
+        "Time": "1:26.090",
+        "Position": "6"
+    },
+    {
+        "Circuit ID": "villeneuve",
+        "Round": "9",
+        "Lap Number": "47",
+        "Driver ID": "alonso",
+        "Time": "1:24.861",
+        "Position": "6"
+    },
+    {
+        "Circuit ID": "villeneuve",
+        "Round": "9",
+        "Lap Number": "48",
+        "Driver ID": "alonso",
+        "Time": "1:23.117",
+        "Position": "6"
+    },
+    {
+        "Circuit ID": "villeneuve",
+        "Round": "9",
+        "Lap Number": "49",
+        "Driver ID": "alonso",
+        "Time": "1:21.938",
+        "Position": "6"
+    },
+    {
+        "Circuit ID": "villeneuve",
+        "Round": "9",
+        "Lap Number": "50",
+        "Driver ID": "alonso",
+        "Time": "1:19.783",
+        "Position": "6"
+    },
+    {
+        "Circuit ID": "villeneuve",
+        "Round": "9",
+        "Lap Number": "51",
+        "Driver ID": "alonso",
+        "Time": "1:19.455",
+        "Position": "6"
+    },
+    {
+        "Circuit ID": "villeneuve",
+        "Round": "9",
+        "Lap Number": "52",
+        "Driver ID": "alonso",
+        "Time": "1:18.880",
+        "Position": "6"
+    },
+    {
+        "Circuit ID": "villeneuve",
+        "Round": "9",
+        "Lap Number": "53",
+        "Driver ID": "alonso",
+        "Time": "1:26.279",
+        "Position": "6"
+    },
+    {
+        "Circuit ID": "villeneuve",
+        "Round": "9",
+        "Lap Number": "54",
+        "Driver ID": "alonso",
+        "Time": "1:41.363",
+        "Position": "6"
+    },
+    {
+        "Circuit ID": "villeneuve",
+        "Round": "9",
+        "Lap Number": "55",
+        "Driver ID": "alonso",
+        "Time": "1:40.877",
+        "Position": "6"
+    },
+    {
+        "Circuit ID": "villeneuve",
+        "Round": "9",
+        "Lap Number": "56",
+        "Driver ID": "alonso",
+        "Time": "1:58.627",
+        "Position": "6"
+    },
+    {
+        "Circuit ID": "villeneuve",
+        "Round": "9",
+        "Lap Number": "57",
+        "Driver ID": "alonso",
+        "Time": "1:53.122",
+        "Position": "6"
+    },
+    {
+        "Circuit ID": "villeneuve",
+        "Round": "9",
+        "Lap Number": "58",
+        "Driver ID": "alonso",
+        "Time": "2:12.536",
+        "Position": "6"
+    },
+    {
+        "Circuit ID": "villeneuve",
+        "Round": "9",
+        "Lap Number": "59",
+        "Driver ID": "alonso",
+        "Time": "1:20.627",
+        "Position": "6"
+    },
+    {
+        "Circuit ID": "villeneuve",
+        "Round": "9",
+        "Lap Number": "60",
+        "Driver ID": "alonso",
+        "Time": "1:18.612",
+        "Position": "6"
+    },
+    {
+        "Circuit ID": "villeneuve",
+        "Round": "9",
+        "Lap Number": "61",
+        "Driver ID": "alonso",
+        "Time": "1:17.675",
+        "Position": "6"
+    },
+    {
+        "Circuit ID": "villeneuve",
+        "Round": "9",
+        "Lap Number": "62",
+        "Driver ID": "alonso",
+        "Time": "1:17.680",
+        "Position": "6"
+    },
+    {
+        "Circuit ID": "villeneuve",
+        "Round": "9",
+        "Lap Number": "63",
+        "Driver ID": "alonso",
+        "Time": "1:17.153",
+        "Position": "6"
+    },
+    {
+        "Circuit ID": "villeneuve",
+        "Round": "9",
+        "Lap Number": "64",
+        "Driver ID": "alonso",
+        "Time": "1:17.182",
+        "Position": "6"
+    },
+    {
+        "Circuit ID": "villeneuve",
+        "Round": "9",
+        "Lap Number": "65",
+        "Driver ID": "alonso",
+        "Time": "1:17.398",
+        "Position": "6"
+    },
+    {
+        "Circuit ID": "villeneuve",
+        "Round": "9",
+        "Lap Number": "66",
+        "Driver ID": "alonso",
+        "Time": "1:17.178",
+        "Position": "6"
+    },
+    {
+        "Circuit ID": "villeneuve",
+        "Round": "9",
+        "Lap Number": "67",
+        "Driver ID": "alonso",
+        "Time": "1:17.116",
+        "Position": "6"
+    },
+    {
+        "Circuit ID": "villeneuve",
+        "Round": "9",
+        "Lap Number": "68",
+        "Driver ID": "alonso",
+        "Time": "1:16.691",
+        "Position": "6"
+    },
+    {
+        "Circuit ID": "villeneuve",
+        "Round": "9",
+        "Lap Number": "69",
+        "Driver ID": "alonso",
+        "Time": "1:16.387",
+        "Position": "6"
+    },
+    {
+        "Circuit ID": "villeneuve",
+        "Round": "9",
+        "Lap Number": "70",
+        "Driver ID": "alonso",
+        "Time": "1:16.303",
+        "Position": "6"
     },
     {
         "Circuit ID": "villeneuve",
@@ -4483,1121 +4483,561 @@
         "Circuit ID": "villeneuve",
         "Round": "9",
         "Lap Number": "1",
-        "Driver ID": "kevin_magnussen",
-        "Time": "1:51.827",
+        "Driver ID": "hulkenberg",
+        "Time": "1:56.135",
+        "Position": "13"
+    },
+    {
+        "Circuit ID": "villeneuve",
+        "Round": "9",
+        "Lap Number": "2",
+        "Driver ID": "hulkenberg",
+        "Time": "1:38.640",
+        "Position": "10"
+    },
+    {
+        "Circuit ID": "villeneuve",
+        "Round": "9",
+        "Lap Number": "3",
+        "Driver ID": "hulkenberg",
+        "Time": "1:36.651",
         "Position": "8"
     },
     {
         "Circuit ID": "villeneuve",
         "Round": "9",
-        "Lap Number": "2",
-        "Driver ID": "kevin_magnussen",
-        "Time": "1:36.793",
-        "Position": "5"
-    },
-    {
-        "Circuit ID": "villeneuve",
-        "Round": "9",
-        "Lap Number": "3",
-        "Driver ID": "kevin_magnussen",
-        "Time": "1:36.134",
-        "Position": "4"
-    },
-    {
-        "Circuit ID": "villeneuve",
-        "Round": "9",
         "Lap Number": "4",
-        "Driver ID": "kevin_magnussen",
-        "Time": "1:33.993",
-        "Position": "4"
+        "Driver ID": "hulkenberg",
+        "Time": "1:35.053",
+        "Position": "8"
     },
     {
         "Circuit ID": "villeneuve",
         "Round": "9",
         "Lap Number": "5",
-        "Driver ID": "kevin_magnussen",
-        "Time": "1:34.529",
-        "Position": "4"
+        "Driver ID": "hulkenberg",
+        "Time": "1:36.104",
+        "Position": "8"
     },
     {
         "Circuit ID": "villeneuve",
         "Round": "9",
         "Lap Number": "6",
-        "Driver ID": "kevin_magnussen",
-        "Time": "1:34.673",
-        "Position": "4"
+        "Driver ID": "hulkenberg",
+        "Time": "1:36.178",
+        "Position": "8"
     },
     {
         "Circuit ID": "villeneuve",
         "Round": "9",
         "Lap Number": "7",
-        "Driver ID": "kevin_magnussen",
-        "Time": "1:55.419",
-        "Position": "12"
+        "Driver ID": "hulkenberg",
+        "Time": "1:36.158",
+        "Position": "7"
     },
     {
         "Circuit ID": "villeneuve",
         "Round": "9",
         "Lap Number": "8",
-        "Driver ID": "kevin_magnussen",
-        "Time": "1:37.984",
-        "Position": "14"
+        "Driver ID": "hulkenberg",
+        "Time": "1:34.170",
+        "Position": "7"
     },
     {
         "Circuit ID": "villeneuve",
         "Round": "9",
         "Lap Number": "9",
-        "Driver ID": "kevin_magnussen",
-        "Time": "1:33.695",
-        "Position": "14"
+        "Driver ID": "hulkenberg",
+        "Time": "1:34.267",
+        "Position": "7"
     },
     {
         "Circuit ID": "villeneuve",
         "Round": "9",
         "Lap Number": "10",
-        "Driver ID": "kevin_magnussen",
-        "Time": "1:31.129",
-        "Position": "14"
+        "Driver ID": "hulkenberg",
+        "Time": "1:34.671",
+        "Position": "7"
     },
     {
         "Circuit ID": "villeneuve",
         "Round": "9",
         "Lap Number": "11",
-        "Driver ID": "kevin_magnussen",
-        "Time": "1:30.747",
-        "Position": "14"
+        "Driver ID": "hulkenberg",
+        "Time": "1:34.672",
+        "Position": "8"
     },
     {
         "Circuit ID": "villeneuve",
         "Round": "9",
         "Lap Number": "12",
-        "Driver ID": "kevin_magnussen",
-        "Time": "1:32.839",
-        "Position": "13"
+        "Driver ID": "hulkenberg",
+        "Time": "1:52.143",
+        "Position": "19"
     },
     {
         "Circuit ID": "villeneuve",
         "Round": "9",
         "Lap Number": "13",
-        "Driver ID": "kevin_magnussen",
-        "Time": "1:31.095",
-        "Position": "13"
+        "Driver ID": "hulkenberg",
+        "Time": "1:34.271",
+        "Position": "19"
     },
     {
         "Circuit ID": "villeneuve",
         "Round": "9",
         "Lap Number": "14",
-        "Driver ID": "kevin_magnussen",
-        "Time": "1:30.139",
-        "Position": "13"
+        "Driver ID": "hulkenberg",
+        "Time": "1:28.912",
+        "Position": "19"
     },
     {
         "Circuit ID": "villeneuve",
         "Round": "9",
         "Lap Number": "15",
-        "Driver ID": "kevin_magnussen",
-        "Time": "1:29.011",
-        "Position": "13"
+        "Driver ID": "hulkenberg",
+        "Time": "1:29.244",
+        "Position": "19"
     },
     {
         "Circuit ID": "villeneuve",
         "Round": "9",
         "Lap Number": "16",
-        "Driver ID": "kevin_magnussen",
-        "Time": "1:28.188",
-        "Position": "13"
+        "Driver ID": "hulkenberg",
+        "Time": "1:29.141",
+        "Position": "19"
     },
     {
         "Circuit ID": "villeneuve",
         "Round": "9",
         "Lap Number": "17",
-        "Driver ID": "kevin_magnussen",
-        "Time": "1:27.837",
-        "Position": "13"
+        "Driver ID": "hulkenberg",
+        "Time": "1:28.490",
+        "Position": "19"
     },
     {
         "Circuit ID": "villeneuve",
         "Round": "9",
         "Lap Number": "18",
-        "Driver ID": "kevin_magnussen",
-        "Time": "1:27.433",
-        "Position": "13"
+        "Driver ID": "hulkenberg",
+        "Time": "1:27.342",
+        "Position": "19"
     },
     {
         "Circuit ID": "villeneuve",
         "Round": "9",
         "Lap Number": "19",
-        "Driver ID": "kevin_magnussen",
-        "Time": "1:27.825",
-        "Position": "13"
+        "Driver ID": "hulkenberg",
+        "Time": "1:27.468",
+        "Position": "19"
     },
     {
         "Circuit ID": "villeneuve",
         "Round": "9",
         "Lap Number": "20",
-        "Driver ID": "kevin_magnussen",
-        "Time": "1:27.614",
-        "Position": "13"
+        "Driver ID": "hulkenberg",
+        "Time": "1:27.628",
+        "Position": "18"
     },
     {
         "Circuit ID": "villeneuve",
         "Round": "9",
         "Lap Number": "21",
-        "Driver ID": "kevin_magnussen",
-        "Time": "1:27.411",
-        "Position": "13"
+        "Driver ID": "hulkenberg",
+        "Time": "1:27.075",
+        "Position": "18"
     },
     {
         "Circuit ID": "villeneuve",
         "Round": "9",
         "Lap Number": "22",
-        "Driver ID": "kevin_magnussen",
-        "Time": "1:27.144",
-        "Position": "13"
+        "Driver ID": "hulkenberg",
+        "Time": "1:26.395",
+        "Position": "18"
     },
     {
         "Circuit ID": "villeneuve",
         "Round": "9",
         "Lap Number": "23",
-        "Driver ID": "kevin_magnussen",
-        "Time": "1:27.198",
-        "Position": "13"
+        "Driver ID": "hulkenberg",
+        "Time": "1:26.137",
+        "Position": "18"
     },
     {
         "Circuit ID": "villeneuve",
         "Round": "9",
         "Lap Number": "24",
-        "Driver ID": "kevin_magnussen",
-        "Time": "1:27.563",
-        "Position": "13"
+        "Driver ID": "hulkenberg",
+        "Time": "1:32.444",
+        "Position": "18"
     },
     {
         "Circuit ID": "villeneuve",
         "Round": "9",
         "Lap Number": "25",
-        "Driver ID": "kevin_magnussen",
-        "Time": "2:09.198",
-        "Position": "15"
+        "Driver ID": "hulkenberg",
+        "Time": "2:03.974",
+        "Position": "18"
     },
     {
         "Circuit ID": "villeneuve",
         "Round": "9",
         "Lap Number": "26",
-        "Driver ID": "kevin_magnussen",
-        "Time": "1:53.293",
-        "Position": "15"
+        "Driver ID": "hulkenberg",
+        "Time": "1:50.657",
+        "Position": "18"
     },
     {
         "Circuit ID": "villeneuve",
         "Round": "9",
         "Lap Number": "27",
-        "Driver ID": "kevin_magnussen",
-        "Time": "1:41.625",
-        "Position": "15"
+        "Driver ID": "hulkenberg",
+        "Time": "1:36.646",
+        "Position": "18"
     },
     {
         "Circuit ID": "villeneuve",
         "Round": "9",
         "Lap Number": "28",
-        "Driver ID": "kevin_magnussen",
-        "Time": "1:43.209",
-        "Position": "14"
+        "Driver ID": "hulkenberg",
+        "Time": "1:39.723",
+        "Position": "17"
     },
     {
         "Circuit ID": "villeneuve",
         "Round": "9",
         "Lap Number": "29",
-        "Driver ID": "kevin_magnussen",
-        "Time": "1:57.543",
-        "Position": "14"
+        "Driver ID": "hulkenberg",
+        "Time": "1:54.670",
+        "Position": "17"
     },
     {
         "Circuit ID": "villeneuve",
         "Round": "9",
         "Lap Number": "30",
-        "Driver ID": "kevin_magnussen",
-        "Time": "1:29.741",
-        "Position": "14"
+        "Driver ID": "hulkenberg",
+        "Time": "1:28.818",
+        "Position": "17"
     },
     {
         "Circuit ID": "villeneuve",
         "Round": "9",
         "Lap Number": "31",
-        "Driver ID": "kevin_magnussen",
-        "Time": "1:33.596",
-        "Position": "15"
+        "Driver ID": "hulkenberg",
+        "Time": "1:35.980",
+        "Position": "18"
     },
     {
         "Circuit ID": "villeneuve",
         "Round": "9",
         "Lap Number": "32",
-        "Driver ID": "kevin_magnussen",
-        "Time": "1:32.202",
-        "Position": "15"
+        "Driver ID": "hulkenberg",
+        "Time": "1:31.076",
+        "Position": "18"
     },
     {
         "Circuit ID": "villeneuve",
         "Round": "9",
         "Lap Number": "33",
-        "Driver ID": "kevin_magnussen",
-        "Time": "1:30.285",
-        "Position": "15"
+        "Driver ID": "hulkenberg",
+        "Time": "1:31.331",
+        "Position": "18"
     },
     {
         "Circuit ID": "villeneuve",
         "Round": "9",
         "Lap Number": "34",
-        "Driver ID": "kevin_magnussen",
-        "Time": "1:29.007",
-        "Position": "15"
+        "Driver ID": "hulkenberg",
+        "Time": "1:29.317",
+        "Position": "18"
     },
     {
         "Circuit ID": "villeneuve",
         "Round": "9",
         "Lap Number": "35",
-        "Driver ID": "kevin_magnussen",
-        "Time": "1:28.500",
-        "Position": "15"
+        "Driver ID": "hulkenberg",
+        "Time": "1:28.716",
+        "Position": "18"
     },
     {
         "Circuit ID": "villeneuve",
         "Round": "9",
         "Lap Number": "36",
-        "Driver ID": "kevin_magnussen",
-        "Time": "1:27.577",
-        "Position": "15"
+        "Driver ID": "hulkenberg",
+        "Time": "1:27.583",
+        "Position": "18"
     },
     {
         "Circuit ID": "villeneuve",
         "Round": "9",
         "Lap Number": "37",
-        "Driver ID": "kevin_magnussen",
-        "Time": "1:28.283",
-        "Position": "16"
+        "Driver ID": "hulkenberg",
+        "Time": "1:26.971",
+        "Position": "17"
     },
     {
         "Circuit ID": "villeneuve",
         "Round": "9",
         "Lap Number": "38",
-        "Driver ID": "kevin_magnussen",
-        "Time": "1:27.860",
-        "Position": "16"
+        "Driver ID": "hulkenberg",
+        "Time": "1:26.001",
+        "Position": "17"
     },
     {
         "Circuit ID": "villeneuve",
         "Round": "9",
         "Lap Number": "39",
-        "Driver ID": "kevin_magnussen",
-        "Time": "1:26.726",
-        "Position": "16"
+        "Driver ID": "hulkenberg",
+        "Time": "1:26.349",
+        "Position": "17"
     },
     {
         "Circuit ID": "villeneuve",
         "Round": "9",
         "Lap Number": "40",
-        "Driver ID": "kevin_magnussen",
-        "Time": "1:26.231",
-        "Position": "15"
+        "Driver ID": "hulkenberg",
+        "Time": "1:27.576",
+        "Position": "16"
     },
     {
         "Circuit ID": "villeneuve",
         "Round": "9",
         "Lap Number": "41",
-        "Driver ID": "kevin_magnussen",
-        "Time": "1:42.982",
-        "Position": "17"
-    },
-    {
-        "Circuit ID": "villeneuve",
-        "Round": "9",
-        "Lap Number": "42",
-        "Driver ID": "kevin_magnussen",
-        "Time": "1:35.449",
-        "Position": "17"
-    },
-    {
-        "Circuit ID": "villeneuve",
-        "Round": "9",
-        "Lap Number": "43",
-        "Driver ID": "kevin_magnussen",
-        "Time": "1:28.313",
-        "Position": "18"
-    },
-    {
-        "Circuit ID": "villeneuve",
-        "Round": "9",
-        "Lap Number": "44",
-        "Driver ID": "kevin_magnussen",
-        "Time": "1:24.812",
-        "Position": "17"
-    },
-    {
-        "Circuit ID": "villeneuve",
-        "Round": "9",
-        "Lap Number": "45",
-        "Driver ID": "kevin_magnussen",
-        "Time": "1:24.688",
-        "Position": "17"
-    },
-    {
-        "Circuit ID": "villeneuve",
-        "Round": "9",
-        "Lap Number": "46",
-        "Driver ID": "kevin_magnussen",
-        "Time": "1:22.937",
-        "Position": "17"
-    },
-    {
-        "Circuit ID": "villeneuve",
-        "Round": "9",
-        "Lap Number": "47",
-        "Driver ID": "kevin_magnussen",
-        "Time": "1:21.988",
-        "Position": "17"
-    },
-    {
-        "Circuit ID": "villeneuve",
-        "Round": "9",
-        "Lap Number": "48",
-        "Driver ID": "kevin_magnussen",
-        "Time": "1:24.303",
-        "Position": "17"
-    },
-    {
-        "Circuit ID": "villeneuve",
-        "Round": "9",
-        "Lap Number": "49",
-        "Driver ID": "kevin_magnussen",
-        "Time": "1:20.830",
-        "Position": "17"
-    },
-    {
-        "Circuit ID": "villeneuve",
-        "Round": "9",
-        "Lap Number": "50",
-        "Driver ID": "kevin_magnussen",
-        "Time": "1:20.587",
-        "Position": "17"
-    },
-    {
-        "Circuit ID": "villeneuve",
-        "Round": "9",
-        "Lap Number": "51",
-        "Driver ID": "kevin_magnussen",
-        "Time": "1:19.511",
-        "Position": "17"
-    },
-    {
-        "Circuit ID": "villeneuve",
-        "Round": "9",
-        "Lap Number": "52",
-        "Driver ID": "kevin_magnussen",
-        "Time": "1:23.445",
-        "Position": "16"
-    },
-    {
-        "Circuit ID": "villeneuve",
-        "Round": "9",
-        "Lap Number": "53",
-        "Driver ID": "kevin_magnussen",
-        "Time": "1:33.799",
-        "Position": "14"
-    },
-    {
-        "Circuit ID": "villeneuve",
-        "Round": "9",
-        "Lap Number": "54",
-        "Driver ID": "kevin_magnussen",
-        "Time": "2:02.225",
-        "Position": "14"
-    },
-    {
-        "Circuit ID": "villeneuve",
-        "Round": "9",
-        "Lap Number": "55",
-        "Driver ID": "kevin_magnussen",
-        "Time": "1:39.525",
-        "Position": "14"
-    },
-    {
-        "Circuit ID": "villeneuve",
-        "Round": "9",
-        "Lap Number": "56",
-        "Driver ID": "kevin_magnussen",
-        "Time": "1:26.229",
-        "Position": "14"
-    },
-    {
-        "Circuit ID": "villeneuve",
-        "Round": "9",
-        "Lap Number": "57",
-        "Driver ID": "kevin_magnussen",
-        "Time": "1:50.577",
-        "Position": "14"
-    },
-    {
-        "Circuit ID": "villeneuve",
-        "Round": "9",
-        "Lap Number": "58",
-        "Driver ID": "kevin_magnussen",
-        "Time": "2:05.254",
-        "Position": "14"
-    },
-    {
-        "Circuit ID": "villeneuve",
-        "Round": "9",
-        "Lap Number": "59",
-        "Driver ID": "kevin_magnussen",
-        "Time": "1:22.613",
-        "Position": "14"
-    },
-    {
-        "Circuit ID": "villeneuve",
-        "Round": "9",
-        "Lap Number": "60",
-        "Driver ID": "kevin_magnussen",
-        "Time": "1:21.673",
-        "Position": "14"
-    },
-    {
-        "Circuit ID": "villeneuve",
-        "Round": "9",
-        "Lap Number": "61",
-        "Driver ID": "kevin_magnussen",
-        "Time": "1:18.685",
-        "Position": "14"
-    },
-    {
-        "Circuit ID": "villeneuve",
-        "Round": "9",
-        "Lap Number": "62",
-        "Driver ID": "kevin_magnussen",
-        "Time": "1:17.915",
-        "Position": "14"
-    },
-    {
-        "Circuit ID": "villeneuve",
-        "Round": "9",
-        "Lap Number": "63",
-        "Driver ID": "kevin_magnussen",
-        "Time": "1:17.617",
-        "Position": "14"
-    },
-    {
-        "Circuit ID": "villeneuve",
-        "Round": "9",
-        "Lap Number": "64",
-        "Driver ID": "kevin_magnussen",
-        "Time": "1:17.324",
-        "Position": "14"
-    },
-    {
-        "Circuit ID": "villeneuve",
-        "Round": "9",
-        "Lap Number": "65",
-        "Driver ID": "kevin_magnussen",
-        "Time": "1:17.235",
-        "Position": "14"
-    },
-    {
-        "Circuit ID": "villeneuve",
-        "Round": "9",
-        "Lap Number": "66",
-        "Driver ID": "kevin_magnussen",
-        "Time": "1:18.154",
-        "Position": "12"
-    },
-    {
-        "Circuit ID": "villeneuve",
-        "Round": "9",
-        "Lap Number": "67",
-        "Driver ID": "kevin_magnussen",
-        "Time": "1:17.152",
-        "Position": "12"
-    },
-    {
-        "Circuit ID": "villeneuve",
-        "Round": "9",
-        "Lap Number": "68",
-        "Driver ID": "kevin_magnussen",
-        "Time": "1:16.499",
-        "Position": "12"
-    },
-    {
-        "Circuit ID": "villeneuve",
-        "Round": "9",
-        "Lap Number": "69",
-        "Driver ID": "kevin_magnussen",
-        "Time": "1:16.653",
-        "Position": "12"
-    },
-    {
-        "Circuit ID": "villeneuve",
-        "Round": "9",
-        "Lap Number": "70",
-        "Driver ID": "kevin_magnussen",
-        "Time": "1:17.110",
-        "Position": "12"
-    },
-    {
-        "Circuit ID": "villeneuve",
-        "Round": "9",
-        "Lap Number": "1",
-        "Driver ID": "bottas",
-        "Time": "2:01.807",
-        "Position": "19"
-    },
-    {
-        "Circuit ID": "villeneuve",
-        "Round": "9",
-        "Lap Number": "2",
-        "Driver ID": "bottas",
-        "Time": "1:43.023",
-        "Position": "19"
-    },
-    {
-        "Circuit ID": "villeneuve",
-        "Round": "9",
-        "Lap Number": "3",
-        "Driver ID": "bottas",
-        "Time": "1:40.755",
-        "Position": "19"
-    },
-    {
-        "Circuit ID": "villeneuve",
-        "Round": "9",
-        "Lap Number": "4",
-        "Driver ID": "bottas",
-        "Time": "1:38.608",
-        "Position": "19"
-    },
-    {
-        "Circuit ID": "villeneuve",
-        "Round": "9",
-        "Lap Number": "5",
-        "Driver ID": "bottas",
-        "Time": "1:38.637",
-        "Position": "19"
-    },
-    {
-        "Circuit ID": "villeneuve",
-        "Round": "9",
-        "Lap Number": "6",
-        "Driver ID": "bottas",
-        "Time": "1:37.036",
-        "Position": "18"
-    },
-    {
-        "Circuit ID": "villeneuve",
-        "Round": "9",
-        "Lap Number": "7",
-        "Driver ID": "bottas",
-        "Time": "1:35.655",
-        "Position": "18"
-    },
-    {
-        "Circuit ID": "villeneuve",
-        "Round": "9",
-        "Lap Number": "8",
-        "Driver ID": "bottas",
-        "Time": "1:33.680",
-        "Position": "18"
-    },
-    {
-        "Circuit ID": "villeneuve",
-        "Round": "9",
-        "Lap Number": "9",
-        "Driver ID": "bottas",
-        "Time": "1:32.461",
-        "Position": "18"
-    },
-    {
-        "Circuit ID": "villeneuve",
-        "Round": "9",
-        "Lap Number": "10",
-        "Driver ID": "bottas",
-        "Time": "1:31.422",
-        "Position": "18"
-    },
-    {
-        "Circuit ID": "villeneuve",
-        "Round": "9",
-        "Lap Number": "11",
-        "Driver ID": "bottas",
-        "Time": "1:31.668",
-        "Position": "18"
-    },
-    {
-        "Circuit ID": "villeneuve",
-        "Round": "9",
-        "Lap Number": "12",
-        "Driver ID": "bottas",
-        "Time": "1:31.085",
-        "Position": "17"
-    },
-    {
-        "Circuit ID": "villeneuve",
-        "Round": "9",
-        "Lap Number": "13",
-        "Driver ID": "bottas",
-        "Time": "1:30.036",
-        "Position": "17"
-    },
-    {
-        "Circuit ID": "villeneuve",
-        "Round": "9",
-        "Lap Number": "14",
-        "Driver ID": "bottas",
-        "Time": "1:30.060",
-        "Position": "17"
-    },
-    {
-        "Circuit ID": "villeneuve",
-        "Round": "9",
-        "Lap Number": "15",
-        "Driver ID": "bottas",
-        "Time": "1:30.489",
-        "Position": "17"
-    },
-    {
-        "Circuit ID": "villeneuve",
-        "Round": "9",
-        "Lap Number": "16",
-        "Driver ID": "bottas",
-        "Time": "1:29.739",
-        "Position": "17"
-    },
-    {
-        "Circuit ID": "villeneuve",
-        "Round": "9",
-        "Lap Number": "17",
-        "Driver ID": "bottas",
-        "Time": "1:28.836",
-        "Position": "17"
-    },
-    {
-        "Circuit ID": "villeneuve",
-        "Round": "9",
-        "Lap Number": "18",
-        "Driver ID": "bottas",
-        "Time": "1:27.339",
-        "Position": "17"
-    },
-    {
-        "Circuit ID": "villeneuve",
-        "Round": "9",
-        "Lap Number": "19",
-        "Driver ID": "bottas",
-        "Time": "1:28.149",
-        "Position": "17"
-    },
-    {
-        "Circuit ID": "villeneuve",
-        "Round": "9",
-        "Lap Number": "20",
-        "Driver ID": "bottas",
-        "Time": "1:26.765",
-        "Position": "17"
-    },
-    {
-        "Circuit ID": "villeneuve",
-        "Round": "9",
-        "Lap Number": "21",
-        "Driver ID": "bottas",
-        "Time": "1:28.049",
-        "Position": "17"
-    },
-    {
-        "Circuit ID": "villeneuve",
-        "Round": "9",
-        "Lap Number": "22",
-        "Driver ID": "bottas",
-        "Time": "1:27.936",
-        "Position": "17"
-    },
-    {
-        "Circuit ID": "villeneuve",
-        "Round": "9",
-        "Lap Number": "23",
-        "Driver ID": "bottas",
-        "Time": "1:27.740",
-        "Position": "17"
-    },
-    {
-        "Circuit ID": "villeneuve",
-        "Round": "9",
-        "Lap Number": "24",
-        "Driver ID": "bottas",
-        "Time": "1:29.076",
-        "Position": "17"
-    },
-    {
-        "Circuit ID": "villeneuve",
-        "Round": "9",
-        "Lap Number": "25",
-        "Driver ID": "bottas",
-        "Time": "1:54.448",
-        "Position": "13"
-    },
-    {
-        "Circuit ID": "villeneuve",
-        "Round": "9",
-        "Lap Number": "26",
-        "Driver ID": "bottas",
-        "Time": "1:52.839",
-        "Position": "13"
-    },
-    {
-        "Circuit ID": "villeneuve",
-        "Round": "9",
-        "Lap Number": "27",
-        "Driver ID": "bottas",
-        "Time": "1:41.808",
-        "Position": "13"
-    },
-    {
-        "Circuit ID": "villeneuve",
-        "Round": "9",
-        "Lap Number": "28",
-        "Driver ID": "bottas",
-        "Time": "1:41.859",
-        "Position": "12"
-    },
-    {
-        "Circuit ID": "villeneuve",
-        "Round": "9",
-        "Lap Number": "29",
-        "Driver ID": "bottas",
-        "Time": "2:01.100",
-        "Position": "12"
-    },
-    {
-        "Circuit ID": "villeneuve",
-        "Round": "9",
-        "Lap Number": "30",
-        "Driver ID": "bottas",
-        "Time": "1:30.489",
-        "Position": "12"
-    },
-    {
-        "Circuit ID": "villeneuve",
-        "Round": "9",
-        "Lap Number": "31",
-        "Driver ID": "bottas",
-        "Time": "1:31.954",
-        "Position": "12"
-    },
-    {
-        "Circuit ID": "villeneuve",
-        "Round": "9",
-        "Lap Number": "32",
-        "Driver ID": "bottas",
-        "Time": "1:32.149",
-        "Position": "12"
-    },
-    {
-        "Circuit ID": "villeneuve",
-        "Round": "9",
-        "Lap Number": "33",
-        "Driver ID": "bottas",
-        "Time": "1:30.281",
-        "Position": "12"
-    },
-    {
-        "Circuit ID": "villeneuve",
-        "Round": "9",
-        "Lap Number": "34",
-        "Driver ID": "bottas",
-        "Time": "1:28.766",
-        "Position": "12"
-    },
-    {
-        "Circuit ID": "villeneuve",
-        "Round": "9",
-        "Lap Number": "35",
-        "Driver ID": "bottas",
-        "Time": "1:28.408",
-        "Position": "12"
-    },
-    {
-        "Circuit ID": "villeneuve",
-        "Round": "9",
-        "Lap Number": "36",
-        "Driver ID": "bottas",
-        "Time": "1:28.177",
-        "Position": "12"
-    },
-    {
-        "Circuit ID": "villeneuve",
-        "Round": "9",
-        "Lap Number": "37",
-        "Driver ID": "bottas",
-        "Time": "1:27.123",
-        "Position": "12"
-    },
-    {
-        "Circuit ID": "villeneuve",
-        "Round": "9",
-        "Lap Number": "38",
-        "Driver ID": "bottas",
-        "Time": "1:26.822",
-        "Position": "12"
-    },
-    {
-        "Circuit ID": "villeneuve",
-        "Round": "9",
-        "Lap Number": "39",
-        "Driver ID": "bottas",
-        "Time": "1:26.502",
-        "Position": "12"
-    },
-    {
-        "Circuit ID": "villeneuve",
-        "Round": "9",
-        "Lap Number": "40",
-        "Driver ID": "bottas",
-        "Time": "1:26.024",
-        "Position": "12"
-    },
-    {
-        "Circuit ID": "villeneuve",
-        "Round": "9",
-        "Lap Number": "41",
-        "Driver ID": "bottas",
-        "Time": "1:25.784",
-        "Position": "12"
-    },
-    {
-        "Circuit ID": "villeneuve",
-        "Round": "9",
-        "Lap Number": "42",
-        "Driver ID": "bottas",
-        "Time": "1:42.791",
-        "Position": "16"
-    },
-    {
-        "Circuit ID": "villeneuve",
-        "Round": "9",
-        "Lap Number": "43",
-        "Driver ID": "bottas",
-        "Time": "1:38.817",
-        "Position": "16"
-    },
-    {
-        "Circuit ID": "villeneuve",
-        "Round": "9",
-        "Lap Number": "44",
-        "Driver ID": "bottas",
-        "Time": "1:26.970",
+        "Driver ID": "hulkenberg",
+        "Time": "1:25.789",
         "Position": "15"
     },
     {
         "Circuit ID": "villeneuve",
         "Round": "9",
+        "Lap Number": "42",
+        "Driver ID": "hulkenberg",
+        "Time": "1:25.838",
+        "Position": "14"
+    },
+    {
+        "Circuit ID": "villeneuve",
+        "Round": "9",
+        "Lap Number": "43",
+        "Driver ID": "hulkenberg",
+        "Time": "1:26.465",
+        "Position": "11"
+    },
+    {
+        "Circuit ID": "villeneuve",
+        "Round": "9",
+        "Lap Number": "44",
+        "Driver ID": "hulkenberg",
+        "Time": "1:42.199",
+        "Position": "12"
+    },
+    {
+        "Circuit ID": "villeneuve",
+        "Round": "9",
         "Lap Number": "45",
-        "Driver ID": "bottas",
-        "Time": "1:25.276",
-        "Position": "16"
+        "Driver ID": "hulkenberg",
+        "Time": "1:31.090",
+        "Position": "14"
     },
     {
         "Circuit ID": "villeneuve",
         "Round": "9",
         "Lap Number": "46",
-        "Driver ID": "bottas",
-        "Time": "1:23.564",
-        "Position": "16"
+        "Driver ID": "hulkenberg",
+        "Time": "1:23.459",
+        "Position": "14"
     },
     {
         "Circuit ID": "villeneuve",
         "Round": "9",
         "Lap Number": "47",
-        "Driver ID": "bottas",
-        "Time": "1:21.910",
-        "Position": "16"
-    },
-    {
-        "Circuit ID": "villeneuve",
-        "Round": "9",
-        "Lap Number": "48",
-        "Driver ID": "bottas",
-        "Time": "1:22.121",
-        "Position": "16"
-    },
-    {
-        "Circuit ID": "villeneuve",
-        "Round": "9",
-        "Lap Number": "49",
-        "Driver ID": "bottas",
-        "Time": "1:21.035",
-        "Position": "16"
-    },
-    {
-        "Circuit ID": "villeneuve",
-        "Round": "9",
-        "Lap Number": "50",
-        "Driver ID": "bottas",
-        "Time": "1:20.688",
-        "Position": "16"
-    },
-    {
-        "Circuit ID": "villeneuve",
-        "Round": "9",
-        "Lap Number": "51",
-        "Driver ID": "bottas",
-        "Time": "1:20.138",
-        "Position": "16"
-    },
-    {
-        "Circuit ID": "villeneuve",
-        "Round": "9",
-        "Lap Number": "52",
-        "Driver ID": "bottas",
-        "Time": "1:23.366",
+        "Driver ID": "hulkenberg",
+        "Time": "1:21.928",
         "Position": "15"
     },
     {
         "Circuit ID": "villeneuve",
         "Round": "9",
+        "Lap Number": "48",
+        "Driver ID": "hulkenberg",
+        "Time": "1:20.989",
+        "Position": "15"
+    },
+    {
+        "Circuit ID": "villeneuve",
+        "Round": "9",
+        "Lap Number": "49",
+        "Driver ID": "hulkenberg",
+        "Time": "1:20.943",
+        "Position": "15"
+    },
+    {
+        "Circuit ID": "villeneuve",
+        "Round": "9",
+        "Lap Number": "50",
+        "Driver ID": "hulkenberg",
+        "Time": "1:19.892",
+        "Position": "15"
+    },
+    {
+        "Circuit ID": "villeneuve",
+        "Round": "9",
+        "Lap Number": "51",
+        "Driver ID": "hulkenberg",
+        "Time": "1:19.655",
+        "Position": "15"
+    },
+    {
+        "Circuit ID": "villeneuve",
+        "Round": "9",
+        "Lap Number": "52",
+        "Driver ID": "hulkenberg",
+        "Time": "1:20.630",
+        "Position": "14"
+    },
+    {
+        "Circuit ID": "villeneuve",
+        "Round": "9",
         "Lap Number": "53",
-        "Driver ID": "bottas",
-        "Time": "1:33.691",
-        "Position": "13"
+        "Driver ID": "hulkenberg",
+        "Time": "1:33.269",
+        "Position": "12"
     },
     {
         "Circuit ID": "villeneuve",
         "Round": "9",
         "Lap Number": "54",
-        "Driver ID": "bottas",
-        "Time": "1:44.894",
-        "Position": "13"
+        "Driver ID": "hulkenberg",
+        "Time": "1:42.030",
+        "Position": "12"
     },
     {
         "Circuit ID": "villeneuve",
         "Round": "9",
         "Lap Number": "55",
-        "Driver ID": "bottas",
-        "Time": "1:34.094",
-        "Position": "13"
+        "Driver ID": "hulkenberg",
+        "Time": "1:34.557",
+        "Position": "12"
     },
     {
         "Circuit ID": "villeneuve",
         "Round": "9",
         "Lap Number": "56",
-        "Driver ID": "bottas",
-        "Time": "1:45.978",
-        "Position": "13"
+        "Driver ID": "hulkenberg",
+        "Time": "1:54.698",
+        "Position": "12"
     },
     {
         "Circuit ID": "villeneuve",
         "Round": "9",
         "Lap Number": "57",
-        "Driver ID": "bottas",
-        "Time": "1:54.231",
-        "Position": "13"
+        "Driver ID": "hulkenberg",
+        "Time": "1:53.609",
+        "Position": "12"
     },
     {
         "Circuit ID": "villeneuve",
         "Round": "9",
         "Lap Number": "58",
-        "Driver ID": "bottas",
-        "Time": "2:05.666",
-        "Position": "13"
+        "Driver ID": "hulkenberg",
+        "Time": "2:07.632",
+        "Position": "12"
     },
     {
         "Circuit ID": "villeneuve",
         "Round": "9",
         "Lap Number": "59",
-        "Driver ID": "bottas",
-        "Time": "1:22.168",
-        "Position": "13"
+        "Driver ID": "hulkenberg",
+        "Time": "1:21.788",
+        "Position": "12"
     },
     {
         "Circuit ID": "villeneuve",
         "Round": "9",
         "Lap Number": "60",
-        "Driver ID": "bottas",
-        "Time": "1:18.927",
-        "Position": "13"
+        "Driver ID": "hulkenberg",
+        "Time": "1:18.283",
+        "Position": "12"
     },
     {
         "Circuit ID": "villeneuve",
         "Round": "9",
         "Lap Number": "61",
-        "Driver ID": "bottas",
-        "Time": "1:18.356",
-        "Position": "13"
+        "Driver ID": "hulkenberg",
+        "Time": "1:18.547",
+        "Position": "12"
     },
     {
         "Circuit ID": "villeneuve",
         "Round": "9",
         "Lap Number": "62",
-        "Driver ID": "bottas",
-        "Time": "1:18.472",
-        "Position": "13"
+        "Driver ID": "hulkenberg",
+        "Time": "1:18.779",
+        "Position": "12"
     },
     {
         "Circuit ID": "villeneuve",
         "Round": "9",
         "Lap Number": "63",
-        "Driver ID": "bottas",
-        "Time": "1:17.768",
-        "Position": "13"
+        "Driver ID": "hulkenberg",
+        "Time": "1:18.039",
+        "Position": "12"
     },
     {
         "Circuit ID": "villeneuve",
         "Round": "9",
         "Lap Number": "64",
-        "Driver ID": "bottas",
-        "Time": "1:19.259",
-        "Position": "13"
+        "Driver ID": "hulkenberg",
+        "Time": "1:17.484",
+        "Position": "12"
     },
     {
         "Circuit ID": "villeneuve",
         "Round": "9",
         "Lap Number": "65",
-        "Driver ID": "bottas",
-        "Time": "1:17.250",
-        "Position": "13"
+        "Driver ID": "hulkenberg",
+        "Time": "1:17.780",
+        "Position": "12"
     },
     {
         "Circuit ID": "villeneuve",
         "Round": "9",
         "Lap Number": "66",
-        "Driver ID": "bottas",
-        "Time": "1:20.374",
-        "Position": "13"
+        "Driver ID": "hulkenberg",
+        "Time": "1:20.926",
+        "Position": "11"
     },
     {
         "Circuit ID": "villeneuve",
         "Round": "9",
         "Lap Number": "67",
-        "Driver ID": "bottas",
-        "Time": "1:20.026",
-        "Position": "13"
+        "Driver ID": "hulkenberg",
+        "Time": "1:16.683",
+        "Position": "11"
     },
     {
         "Circuit ID": "villeneuve",
         "Round": "9",
         "Lap Number": "68",
-        "Driver ID": "bottas",
-        "Time": "1:18.613",
-        "Position": "13"
+        "Driver ID": "hulkenberg",
+        "Time": "1:17.028",
+        "Position": "11"
     },
     {
         "Circuit ID": "villeneuve",
         "Round": "9",
         "Lap Number": "69",
-        "Driver ID": "bottas",
-        "Time": "1:18.345",
-        "Position": "13"
+        "Driver ID": "hulkenberg",
+        "Time": "1:16.789",
+        "Position": "11"
     },
     {
         "Circuit ID": "villeneuve",
         "Round": "9",
         "Lap Number": "70",
-        "Driver ID": "bottas",
-        "Time": "1:19.042",
-        "Position": "13"
+        "Driver ID": "hulkenberg",
+        "Time": "1:17.176",
+        "Position": "11"
     },
     {
         "Circuit ID": "villeneuve",
@@ -6710,6 +6150,422 @@
         "Driver ID": "zhou",
         "Time": "1:17.620",
         "Position": "15"
+    },
+    {
+        "Circuit ID": "villeneuve",
+        "Round": "9",
+        "Lap Number": "1",
+        "Driver ID": "sainz",
+        "Time": "1:57.663",
+        "Position": "14"
+    },
+    {
+        "Circuit ID": "villeneuve",
+        "Round": "9",
+        "Lap Number": "2",
+        "Driver ID": "sainz",
+        "Time": "1:42.579",
+        "Position": "15"
+    },
+    {
+        "Circuit ID": "villeneuve",
+        "Round": "9",
+        "Lap Number": "3",
+        "Driver ID": "sainz",
+        "Time": "1:40.477",
+        "Position": "14"
+    },
+    {
+        "Circuit ID": "villeneuve",
+        "Round": "9",
+        "Lap Number": "4",
+        "Driver ID": "sainz",
+        "Time": "1:37.631",
+        "Position": "14"
+    },
+    {
+        "Circuit ID": "villeneuve",
+        "Round": "9",
+        "Lap Number": "5",
+        "Driver ID": "sainz",
+        "Time": "1:37.379",
+        "Position": "14"
+    },
+    {
+        "Circuit ID": "villeneuve",
+        "Round": "9",
+        "Lap Number": "6",
+        "Driver ID": "sainz",
+        "Time": "1:35.749",
+        "Position": "14"
+    },
+    {
+        "Circuit ID": "villeneuve",
+        "Round": "9",
+        "Lap Number": "7",
+        "Driver ID": "sainz",
+        "Time": "1:33.725",
+        "Position": "14"
+    },
+    {
+        "Circuit ID": "villeneuve",
+        "Round": "9",
+        "Lap Number": "8",
+        "Driver ID": "sainz",
+        "Time": "1:33.103",
+        "Position": "13"
+    },
+    {
+        "Circuit ID": "villeneuve",
+        "Round": "9",
+        "Lap Number": "9",
+        "Driver ID": "sainz",
+        "Time": "1:32.154",
+        "Position": "13"
+    },
+    {
+        "Circuit ID": "villeneuve",
+        "Round": "9",
+        "Lap Number": "10",
+        "Driver ID": "sainz",
+        "Time": "1:31.554",
+        "Position": "13"
+    },
+    {
+        "Circuit ID": "villeneuve",
+        "Round": "9",
+        "Lap Number": "11",
+        "Driver ID": "sainz",
+        "Time": "1:33.036",
+        "Position": "13"
+    },
+    {
+        "Circuit ID": "villeneuve",
+        "Round": "9",
+        "Lap Number": "12",
+        "Driver ID": "sainz",
+        "Time": "1:33.730",
+        "Position": "12"
+    },
+    {
+        "Circuit ID": "villeneuve",
+        "Round": "9",
+        "Lap Number": "13",
+        "Driver ID": "sainz",
+        "Time": "1:30.677",
+        "Position": "12"
+    },
+    {
+        "Circuit ID": "villeneuve",
+        "Round": "9",
+        "Lap Number": "14",
+        "Driver ID": "sainz",
+        "Time": "1:29.892",
+        "Position": "12"
+    },
+    {
+        "Circuit ID": "villeneuve",
+        "Round": "9",
+        "Lap Number": "15",
+        "Driver ID": "sainz",
+        "Time": "1:29.088",
+        "Position": "12"
+    },
+    {
+        "Circuit ID": "villeneuve",
+        "Round": "9",
+        "Lap Number": "16",
+        "Driver ID": "sainz",
+        "Time": "1:28.980",
+        "Position": "12"
+    },
+    {
+        "Circuit ID": "villeneuve",
+        "Round": "9",
+        "Lap Number": "17",
+        "Driver ID": "sainz",
+        "Time": "1:27.583",
+        "Position": "12"
+    },
+    {
+        "Circuit ID": "villeneuve",
+        "Round": "9",
+        "Lap Number": "18",
+        "Driver ID": "sainz",
+        "Time": "1:27.479",
+        "Position": "12"
+    },
+    {
+        "Circuit ID": "villeneuve",
+        "Round": "9",
+        "Lap Number": "19",
+        "Driver ID": "sainz",
+        "Time": "1:26.898",
+        "Position": "12"
+    },
+    {
+        "Circuit ID": "villeneuve",
+        "Round": "9",
+        "Lap Number": "20",
+        "Driver ID": "sainz",
+        "Time": "1:27.228",
+        "Position": "12"
+    },
+    {
+        "Circuit ID": "villeneuve",
+        "Round": "9",
+        "Lap Number": "21",
+        "Driver ID": "sainz",
+        "Time": "1:28.099",
+        "Position": "12"
+    },
+    {
+        "Circuit ID": "villeneuve",
+        "Round": "9",
+        "Lap Number": "22",
+        "Driver ID": "sainz",
+        "Time": "1:26.895",
+        "Position": "12"
+    },
+    {
+        "Circuit ID": "villeneuve",
+        "Round": "9",
+        "Lap Number": "23",
+        "Driver ID": "sainz",
+        "Time": "1:26.839",
+        "Position": "12"
+    },
+    {
+        "Circuit ID": "villeneuve",
+        "Round": "9",
+        "Lap Number": "24",
+        "Driver ID": "sainz",
+        "Time": "1:26.527",
+        "Position": "12"
+    },
+    {
+        "Circuit ID": "villeneuve",
+        "Round": "9",
+        "Lap Number": "25",
+        "Driver ID": "sainz",
+        "Time": "2:11.649",
+        "Position": "14"
+    },
+    {
+        "Circuit ID": "villeneuve",
+        "Round": "9",
+        "Lap Number": "26",
+        "Driver ID": "sainz",
+        "Time": "1:50.841",
+        "Position": "14"
+    },
+    {
+        "Circuit ID": "villeneuve",
+        "Round": "9",
+        "Lap Number": "27",
+        "Driver ID": "sainz",
+        "Time": "1:42.962",
+        "Position": "14"
+    },
+    {
+        "Circuit ID": "villeneuve",
+        "Round": "9",
+        "Lap Number": "28",
+        "Driver ID": "sainz",
+        "Time": "1:43.654",
+        "Position": "13"
+    },
+    {
+        "Circuit ID": "villeneuve",
+        "Round": "9",
+        "Lap Number": "29",
+        "Driver ID": "sainz",
+        "Time": "1:58.457",
+        "Position": "13"
+    },
+    {
+        "Circuit ID": "villeneuve",
+        "Round": "9",
+        "Lap Number": "30",
+        "Driver ID": "sainz",
+        "Time": "1:30.223",
+        "Position": "13"
+    },
+    {
+        "Circuit ID": "villeneuve",
+        "Round": "9",
+        "Lap Number": "31",
+        "Driver ID": "sainz",
+        "Time": "1:32.345",
+        "Position": "13"
+    },
+    {
+        "Circuit ID": "villeneuve",
+        "Round": "9",
+        "Lap Number": "32",
+        "Driver ID": "sainz",
+        "Time": "1:31.832",
+        "Position": "13"
+    },
+    {
+        "Circuit ID": "villeneuve",
+        "Round": "9",
+        "Lap Number": "33",
+        "Driver ID": "sainz",
+        "Time": "1:30.702",
+        "Position": "13"
+    },
+    {
+        "Circuit ID": "villeneuve",
+        "Round": "9",
+        "Lap Number": "34",
+        "Driver ID": "sainz",
+        "Time": "1:28.450",
+        "Position": "13"
+    },
+    {
+        "Circuit ID": "villeneuve",
+        "Round": "9",
+        "Lap Number": "35",
+        "Driver ID": "sainz",
+        "Time": "1:28.699",
+        "Position": "13"
+    },
+    {
+        "Circuit ID": "villeneuve",
+        "Round": "9",
+        "Lap Number": "36",
+        "Driver ID": "sainz",
+        "Time": "1:27.905",
+        "Position": "13"
+    },
+    {
+        "Circuit ID": "villeneuve",
+        "Round": "9",
+        "Lap Number": "37",
+        "Driver ID": "sainz",
+        "Time": "1:27.295",
+        "Position": "13"
+    },
+    {
+        "Circuit ID": "villeneuve",
+        "Round": "9",
+        "Lap Number": "38",
+        "Driver ID": "sainz",
+        "Time": "1:26.824",
+        "Position": "13"
+    },
+    {
+        "Circuit ID": "villeneuve",
+        "Round": "9",
+        "Lap Number": "39",
+        "Driver ID": "sainz",
+        "Time": "1:27.238",
+        "Position": "13"
+    },
+    {
+        "Circuit ID": "villeneuve",
+        "Round": "9",
+        "Lap Number": "40",
+        "Driver ID": "sainz",
+        "Time": "1:26.208",
+        "Position": "13"
+    },
+    {
+        "Circuit ID": "villeneuve",
+        "Round": "9",
+        "Lap Number": "41",
+        "Driver ID": "sainz",
+        "Time": "1:25.875",
+        "Position": "13"
+    },
+    {
+        "Circuit ID": "villeneuve",
+        "Round": "9",
+        "Lap Number": "42",
+        "Driver ID": "sainz",
+        "Time": "1:25.861",
+        "Position": "12"
+    },
+    {
+        "Circuit ID": "villeneuve",
+        "Round": "9",
+        "Lap Number": "43",
+        "Driver ID": "sainz",
+        "Time": "1:41.456",
+        "Position": "14"
+    },
+    {
+        "Circuit ID": "villeneuve",
+        "Round": "9",
+        "Lap Number": "44",
+        "Driver ID": "sainz",
+        "Time": "1:33.472",
+        "Position": "13"
+    },
+    {
+        "Circuit ID": "villeneuve",
+        "Round": "9",
+        "Lap Number": "45",
+        "Driver ID": "sainz",
+        "Time": "1:24.895",
+        "Position": "12"
+    },
+    {
+        "Circuit ID": "villeneuve",
+        "Round": "9",
+        "Lap Number": "46",
+        "Driver ID": "sainz",
+        "Time": "1:22.795",
+        "Position": "12"
+    },
+    {
+        "Circuit ID": "villeneuve",
+        "Round": "9",
+        "Lap Number": "47",
+        "Driver ID": "sainz",
+        "Time": "1:21.380",
+        "Position": "11"
+    },
+    {
+        "Circuit ID": "villeneuve",
+        "Round": "9",
+        "Lap Number": "48",
+        "Driver ID": "sainz",
+        "Time": "1:21.875",
+        "Position": "11"
+    },
+    {
+        "Circuit ID": "villeneuve",
+        "Round": "9",
+        "Lap Number": "49",
+        "Driver ID": "sainz",
+        "Time": "1:20.062",
+        "Position": "11"
+    },
+    {
+        "Circuit ID": "villeneuve",
+        "Round": "9",
+        "Lap Number": "50",
+        "Driver ID": "sainz",
+        "Time": "1:20.352",
+        "Position": "11"
+    },
+    {
+        "Circuit ID": "villeneuve",
+        "Round": "9",
+        "Lap Number": "51",
+        "Driver ID": "sainz",
+        "Time": "1:18.957",
+        "Position": "11"
+    },
+    {
+        "Circuit ID": "villeneuve",
+        "Round": "9",
+        "Lap Number": "52",
+        "Driver ID": "sainz",
+        "Time": "1:21.243",
+        "Position": "10"
     },
     {
         "Circuit ID": "villeneuve",

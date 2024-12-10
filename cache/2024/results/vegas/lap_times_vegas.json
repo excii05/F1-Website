@@ -803,6 +803,806 @@
         "Circuit ID": "vegas",
         "Round": "22",
         "Lap Number": "1",
+        "Driver ID": "sainz",
+        "Time": "1:44.812",
+        "Position": "3"
+    },
+    {
+        "Circuit ID": "vegas",
+        "Round": "22",
+        "Lap Number": "2",
+        "Driver ID": "sainz",
+        "Time": "1:39.466",
+        "Position": "3"
+    },
+    {
+        "Circuit ID": "vegas",
+        "Round": "22",
+        "Lap Number": "3",
+        "Driver ID": "sainz",
+        "Time": "1:38.581",
+        "Position": "3"
+    },
+    {
+        "Circuit ID": "vegas",
+        "Round": "22",
+        "Lap Number": "4",
+        "Driver ID": "sainz",
+        "Time": "1:38.537",
+        "Position": "3"
+    },
+    {
+        "Circuit ID": "vegas",
+        "Round": "22",
+        "Lap Number": "5",
+        "Driver ID": "sainz",
+        "Time": "1:38.394",
+        "Position": "3"
+    },
+    {
+        "Circuit ID": "vegas",
+        "Round": "22",
+        "Lap Number": "6",
+        "Driver ID": "sainz",
+        "Time": "1:38.708",
+        "Position": "3"
+    },
+    {
+        "Circuit ID": "vegas",
+        "Round": "22",
+        "Lap Number": "7",
+        "Driver ID": "sainz",
+        "Time": "1:39.042",
+        "Position": "2"
+    },
+    {
+        "Circuit ID": "vegas",
+        "Round": "22",
+        "Lap Number": "8",
+        "Driver ID": "sainz",
+        "Time": "1:39.584",
+        "Position": "2"
+    },
+    {
+        "Circuit ID": "vegas",
+        "Round": "22",
+        "Lap Number": "9",
+        "Driver ID": "sainz",
+        "Time": "1:40.512",
+        "Position": "2"
+    },
+    {
+        "Circuit ID": "vegas",
+        "Round": "22",
+        "Lap Number": "10",
+        "Driver ID": "sainz",
+        "Time": "1:46.562",
+        "Position": "3"
+    },
+    {
+        "Circuit ID": "vegas",
+        "Round": "22",
+        "Lap Number": "11",
+        "Driver ID": "sainz",
+        "Time": "1:54.659",
+        "Position": "11"
+    },
+    {
+        "Circuit ID": "vegas",
+        "Round": "22",
+        "Lap Number": "12",
+        "Driver ID": "sainz",
+        "Time": "1:40.794",
+        "Position": "8"
+    },
+    {
+        "Circuit ID": "vegas",
+        "Round": "22",
+        "Lap Number": "13",
+        "Driver ID": "sainz",
+        "Time": "1:39.627",
+        "Position": "6"
+    },
+    {
+        "Circuit ID": "vegas",
+        "Round": "22",
+        "Lap Number": "14",
+        "Driver ID": "sainz",
+        "Time": "1:37.921",
+        "Position": "4"
+    },
+    {
+        "Circuit ID": "vegas",
+        "Round": "22",
+        "Lap Number": "15",
+        "Driver ID": "sainz",
+        "Time": "1:38.220",
+        "Position": "4"
+    },
+    {
+        "Circuit ID": "vegas",
+        "Round": "22",
+        "Lap Number": "16",
+        "Driver ID": "sainz",
+        "Time": "1:38.868",
+        "Position": "3"
+    },
+    {
+        "Circuit ID": "vegas",
+        "Round": "22",
+        "Lap Number": "17",
+        "Driver ID": "sainz",
+        "Time": "1:37.967",
+        "Position": "3"
+    },
+    {
+        "Circuit ID": "vegas",
+        "Round": "22",
+        "Lap Number": "18",
+        "Driver ID": "sainz",
+        "Time": "1:38.076",
+        "Position": "3"
+    },
+    {
+        "Circuit ID": "vegas",
+        "Round": "22",
+        "Lap Number": "19",
+        "Driver ID": "sainz",
+        "Time": "1:37.763",
+        "Position": "3"
+    },
+    {
+        "Circuit ID": "vegas",
+        "Round": "22",
+        "Lap Number": "20",
+        "Driver ID": "sainz",
+        "Time": "1:37.774",
+        "Position": "3"
+    },
+    {
+        "Circuit ID": "vegas",
+        "Round": "22",
+        "Lap Number": "21",
+        "Driver ID": "sainz",
+        "Time": "1:37.546",
+        "Position": "3"
+    },
+    {
+        "Circuit ID": "vegas",
+        "Round": "22",
+        "Lap Number": "22",
+        "Driver ID": "sainz",
+        "Time": "1:37.514",
+        "Position": "3"
+    },
+    {
+        "Circuit ID": "vegas",
+        "Round": "22",
+        "Lap Number": "23",
+        "Driver ID": "sainz",
+        "Time": "1:37.477",
+        "Position": "3"
+    },
+    {
+        "Circuit ID": "vegas",
+        "Round": "22",
+        "Lap Number": "24",
+        "Driver ID": "sainz",
+        "Time": "1:37.919",
+        "Position": "3"
+    },
+    {
+        "Circuit ID": "vegas",
+        "Round": "22",
+        "Lap Number": "25",
+        "Driver ID": "sainz",
+        "Time": "1:37.944",
+        "Position": "3"
+    },
+    {
+        "Circuit ID": "vegas",
+        "Round": "22",
+        "Lap Number": "26",
+        "Driver ID": "sainz",
+        "Time": "1:38.321",
+        "Position": "3"
+    },
+    {
+        "Circuit ID": "vegas",
+        "Round": "22",
+        "Lap Number": "27",
+        "Driver ID": "sainz",
+        "Time": "1:41.611",
+        "Position": "4"
+    },
+    {
+        "Circuit ID": "vegas",
+        "Round": "22",
+        "Lap Number": "28",
+        "Driver ID": "sainz",
+        "Time": "1:43.655",
+        "Position": "3"
+    },
+    {
+        "Circuit ID": "vegas",
+        "Round": "22",
+        "Lap Number": "29",
+        "Driver ID": "sainz",
+        "Time": "1:53.088",
+        "Position": "6"
+    },
+    {
+        "Circuit ID": "vegas",
+        "Round": "22",
+        "Lap Number": "30",
+        "Driver ID": "sainz",
+        "Time": "1:37.353",
+        "Position": "6"
+    },
+    {
+        "Circuit ID": "vegas",
+        "Round": "22",
+        "Lap Number": "31",
+        "Driver ID": "sainz",
+        "Time": "1:36.973",
+        "Position": "5"
+    },
+    {
+        "Circuit ID": "vegas",
+        "Round": "22",
+        "Lap Number": "32",
+        "Driver ID": "sainz",
+        "Time": "1:37.397",
+        "Position": "4"
+    },
+    {
+        "Circuit ID": "vegas",
+        "Round": "22",
+        "Lap Number": "33",
+        "Driver ID": "sainz",
+        "Time": "1:37.524",
+        "Position": "4"
+    },
+    {
+        "Circuit ID": "vegas",
+        "Round": "22",
+        "Lap Number": "34",
+        "Driver ID": "sainz",
+        "Time": "1:37.146",
+        "Position": "4"
+    },
+    {
+        "Circuit ID": "vegas",
+        "Round": "22",
+        "Lap Number": "35",
+        "Driver ID": "sainz",
+        "Time": "1:36.641",
+        "Position": "4"
+    },
+    {
+        "Circuit ID": "vegas",
+        "Round": "22",
+        "Lap Number": "36",
+        "Driver ID": "sainz",
+        "Time": "1:36.519",
+        "Position": "4"
+    },
+    {
+        "Circuit ID": "vegas",
+        "Round": "22",
+        "Lap Number": "37",
+        "Driver ID": "sainz",
+        "Time": "1:36.509",
+        "Position": "4"
+    },
+    {
+        "Circuit ID": "vegas",
+        "Round": "22",
+        "Lap Number": "38",
+        "Driver ID": "sainz",
+        "Time": "1:36.125",
+        "Position": "4"
+    },
+    {
+        "Circuit ID": "vegas",
+        "Round": "22",
+        "Lap Number": "39",
+        "Driver ID": "sainz",
+        "Time": "1:36.196",
+        "Position": "4"
+    },
+    {
+        "Circuit ID": "vegas",
+        "Round": "22",
+        "Lap Number": "40",
+        "Driver ID": "sainz",
+        "Time": "1:36.043",
+        "Position": "4"
+    },
+    {
+        "Circuit ID": "vegas",
+        "Round": "22",
+        "Lap Number": "41",
+        "Driver ID": "sainz",
+        "Time": "1:36.507",
+        "Position": "3"
+    },
+    {
+        "Circuit ID": "vegas",
+        "Round": "22",
+        "Lap Number": "42",
+        "Driver ID": "sainz",
+        "Time": "1:36.223",
+        "Position": "3"
+    },
+    {
+        "Circuit ID": "vegas",
+        "Round": "22",
+        "Lap Number": "43",
+        "Driver ID": "sainz",
+        "Time": "1:36.302",
+        "Position": "3"
+    },
+    {
+        "Circuit ID": "vegas",
+        "Round": "22",
+        "Lap Number": "44",
+        "Driver ID": "sainz",
+        "Time": "1:35.875",
+        "Position": "3"
+    },
+    {
+        "Circuit ID": "vegas",
+        "Round": "22",
+        "Lap Number": "45",
+        "Driver ID": "sainz",
+        "Time": "1:36.340",
+        "Position": "3"
+    },
+    {
+        "Circuit ID": "vegas",
+        "Round": "22",
+        "Lap Number": "46",
+        "Driver ID": "sainz",
+        "Time": "1:36.139",
+        "Position": "3"
+    },
+    {
+        "Circuit ID": "vegas",
+        "Round": "22",
+        "Lap Number": "47",
+        "Driver ID": "sainz",
+        "Time": "1:35.880",
+        "Position": "3"
+    },
+    {
+        "Circuit ID": "vegas",
+        "Round": "22",
+        "Lap Number": "48",
+        "Driver ID": "sainz",
+        "Time": "1:36.015",
+        "Position": "3"
+    },
+    {
+        "Circuit ID": "vegas",
+        "Round": "22",
+        "Lap Number": "49",
+        "Driver ID": "sainz",
+        "Time": "1:36.467",
+        "Position": "3"
+    },
+    {
+        "Circuit ID": "vegas",
+        "Round": "22",
+        "Lap Number": "50",
+        "Driver ID": "sainz",
+        "Time": "1:36.759",
+        "Position": "3"
+    },
+    {
+        "Circuit ID": "vegas",
+        "Round": "22",
+        "Lap Number": "1",
+        "Driver ID": "leclerc",
+        "Time": "1:43.882",
+        "Position": "2"
+    },
+    {
+        "Circuit ID": "vegas",
+        "Round": "22",
+        "Lap Number": "2",
+        "Driver ID": "leclerc",
+        "Time": "1:39.333",
+        "Position": "2"
+    },
+    {
+        "Circuit ID": "vegas",
+        "Round": "22",
+        "Lap Number": "3",
+        "Driver ID": "leclerc",
+        "Time": "1:38.329",
+        "Position": "2"
+    },
+    {
+        "Circuit ID": "vegas",
+        "Round": "22",
+        "Lap Number": "4",
+        "Driver ID": "leclerc",
+        "Time": "1:38.501",
+        "Position": "2"
+    },
+    {
+        "Circuit ID": "vegas",
+        "Round": "22",
+        "Lap Number": "5",
+        "Driver ID": "leclerc",
+        "Time": "1:39.177",
+        "Position": "2"
+    },
+    {
+        "Circuit ID": "vegas",
+        "Round": "22",
+        "Lap Number": "6",
+        "Driver ID": "leclerc",
+        "Time": "1:38.652",
+        "Position": "2"
+    },
+    {
+        "Circuit ID": "vegas",
+        "Round": "22",
+        "Lap Number": "7",
+        "Driver ID": "leclerc",
+        "Time": "1:40.006",
+        "Position": "3"
+    },
+    {
+        "Circuit ID": "vegas",
+        "Round": "22",
+        "Lap Number": "8",
+        "Driver ID": "leclerc",
+        "Time": "1:41.841",
+        "Position": "4"
+    },
+    {
+        "Circuit ID": "vegas",
+        "Round": "22",
+        "Lap Number": "9",
+        "Driver ID": "leclerc",
+        "Time": "1:47.546",
+        "Position": "7"
+    },
+    {
+        "Circuit ID": "vegas",
+        "Round": "22",
+        "Lap Number": "10",
+        "Driver ID": "leclerc",
+        "Time": "1:54.299",
+        "Position": "16"
+    },
+    {
+        "Circuit ID": "vegas",
+        "Round": "22",
+        "Lap Number": "11",
+        "Driver ID": "leclerc",
+        "Time": "1:38.818",
+        "Position": "12"
+    },
+    {
+        "Circuit ID": "vegas",
+        "Round": "22",
+        "Lap Number": "12",
+        "Driver ID": "leclerc",
+        "Time": "1:39.962",
+        "Position": "10"
+    },
+    {
+        "Circuit ID": "vegas",
+        "Round": "22",
+        "Lap Number": "13",
+        "Driver ID": "leclerc",
+        "Time": "1:39.948",
+        "Position": "7"
+    },
+    {
+        "Circuit ID": "vegas",
+        "Round": "22",
+        "Lap Number": "14",
+        "Driver ID": "leclerc",
+        "Time": "1:38.893",
+        "Position": "6"
+    },
+    {
+        "Circuit ID": "vegas",
+        "Round": "22",
+        "Lap Number": "15",
+        "Driver ID": "leclerc",
+        "Time": "1:38.237",
+        "Position": "5"
+    },
+    {
+        "Circuit ID": "vegas",
+        "Round": "22",
+        "Lap Number": "16",
+        "Driver ID": "leclerc",
+        "Time": "1:38.316",
+        "Position": "5"
+    },
+    {
+        "Circuit ID": "vegas",
+        "Round": "22",
+        "Lap Number": "17",
+        "Driver ID": "leclerc",
+        "Time": "1:39.487",
+        "Position": "4"
+    },
+    {
+        "Circuit ID": "vegas",
+        "Round": "22",
+        "Lap Number": "18",
+        "Driver ID": "leclerc",
+        "Time": "1:38.251",
+        "Position": "4"
+    },
+    {
+        "Circuit ID": "vegas",
+        "Round": "22",
+        "Lap Number": "19",
+        "Driver ID": "leclerc",
+        "Time": "1:37.978",
+        "Position": "4"
+    },
+    {
+        "Circuit ID": "vegas",
+        "Round": "22",
+        "Lap Number": "20",
+        "Driver ID": "leclerc",
+        "Time": "1:37.295",
+        "Position": "4"
+    },
+    {
+        "Circuit ID": "vegas",
+        "Round": "22",
+        "Lap Number": "21",
+        "Driver ID": "leclerc",
+        "Time": "1:37.448",
+        "Position": "4"
+    },
+    {
+        "Circuit ID": "vegas",
+        "Round": "22",
+        "Lap Number": "22",
+        "Driver ID": "leclerc",
+        "Time": "1:37.130",
+        "Position": "4"
+    },
+    {
+        "Circuit ID": "vegas",
+        "Round": "22",
+        "Lap Number": "23",
+        "Driver ID": "leclerc",
+        "Time": "1:37.177",
+        "Position": "4"
+    },
+    {
+        "Circuit ID": "vegas",
+        "Round": "22",
+        "Lap Number": "24",
+        "Driver ID": "leclerc",
+        "Time": "1:37.256",
+        "Position": "4"
+    },
+    {
+        "Circuit ID": "vegas",
+        "Round": "22",
+        "Lap Number": "25",
+        "Driver ID": "leclerc",
+        "Time": "1:37.291",
+        "Position": "4"
+    },
+    {
+        "Circuit ID": "vegas",
+        "Round": "22",
+        "Lap Number": "26",
+        "Driver ID": "leclerc",
+        "Time": "1:37.933",
+        "Position": "4"
+    },
+    {
+        "Circuit ID": "vegas",
+        "Round": "22",
+        "Lap Number": "27",
+        "Driver ID": "leclerc",
+        "Time": "1:38.698",
+        "Position": "2"
+    },
+    {
+        "Circuit ID": "vegas",
+        "Round": "22",
+        "Lap Number": "28",
+        "Driver ID": "leclerc",
+        "Time": "1:38.070",
+        "Position": "2"
+    },
+    {
+        "Circuit ID": "vegas",
+        "Round": "22",
+        "Lap Number": "29",
+        "Driver ID": "leclerc",
+        "Time": "1:37.950",
+        "Position": "2"
+    },
+    {
+        "Circuit ID": "vegas",
+        "Round": "22",
+        "Lap Number": "30",
+        "Driver ID": "leclerc",
+        "Time": "1:38.458",
+        "Position": "2"
+    },
+    {
+        "Circuit ID": "vegas",
+        "Round": "22",
+        "Lap Number": "31",
+        "Driver ID": "leclerc",
+        "Time": "1:42.968",
+        "Position": "2"
+    },
+    {
+        "Circuit ID": "vegas",
+        "Round": "22",
+        "Lap Number": "32",
+        "Driver ID": "leclerc",
+        "Time": "1:55.014",
+        "Position": "5"
+    },
+    {
+        "Circuit ID": "vegas",
+        "Round": "22",
+        "Lap Number": "33",
+        "Driver ID": "leclerc",
+        "Time": "1:38.017",
+        "Position": "5"
+    },
+    {
+        "Circuit ID": "vegas",
+        "Round": "22",
+        "Lap Number": "34",
+        "Driver ID": "leclerc",
+        "Time": "1:37.081",
+        "Position": "5"
+    },
+    {
+        "Circuit ID": "vegas",
+        "Round": "22",
+        "Lap Number": "35",
+        "Driver ID": "leclerc",
+        "Time": "1:36.481",
+        "Position": "5"
+    },
+    {
+        "Circuit ID": "vegas",
+        "Round": "22",
+        "Lap Number": "36",
+        "Driver ID": "leclerc",
+        "Time": "1:36.285",
+        "Position": "5"
+    },
+    {
+        "Circuit ID": "vegas",
+        "Round": "22",
+        "Lap Number": "37",
+        "Driver ID": "leclerc",
+        "Time": "1:36.177",
+        "Position": "5"
+    },
+    {
+        "Circuit ID": "vegas",
+        "Round": "22",
+        "Lap Number": "38",
+        "Driver ID": "leclerc",
+        "Time": "1:36.079",
+        "Position": "5"
+    },
+    {
+        "Circuit ID": "vegas",
+        "Round": "22",
+        "Lap Number": "39",
+        "Driver ID": "leclerc",
+        "Time": "1:36.102",
+        "Position": "5"
+    },
+    {
+        "Circuit ID": "vegas",
+        "Round": "22",
+        "Lap Number": "40",
+        "Driver ID": "leclerc",
+        "Time": "1:35.674",
+        "Position": "5"
+    },
+    {
+        "Circuit ID": "vegas",
+        "Round": "22",
+        "Lap Number": "41",
+        "Driver ID": "leclerc",
+        "Time": "1:36.469",
+        "Position": "5"
+    },
+    {
+        "Circuit ID": "vegas",
+        "Round": "22",
+        "Lap Number": "42",
+        "Driver ID": "leclerc",
+        "Time": "1:36.873",
+        "Position": "5"
+    },
+    {
+        "Circuit ID": "vegas",
+        "Round": "22",
+        "Lap Number": "43",
+        "Driver ID": "leclerc",
+        "Time": "1:36.055",
+        "Position": "5"
+    },
+    {
+        "Circuit ID": "vegas",
+        "Round": "22",
+        "Lap Number": "44",
+        "Driver ID": "leclerc",
+        "Time": "1:36.543",
+        "Position": "5"
+    },
+    {
+        "Circuit ID": "vegas",
+        "Round": "22",
+        "Lap Number": "45",
+        "Driver ID": "leclerc",
+        "Time": "1:36.031",
+        "Position": "5"
+    },
+    {
+        "Circuit ID": "vegas",
+        "Round": "22",
+        "Lap Number": "46",
+        "Driver ID": "leclerc",
+        "Time": "1:36.333",
+        "Position": "4"
+    },
+    {
+        "Circuit ID": "vegas",
+        "Round": "22",
+        "Lap Number": "47",
+        "Driver ID": "leclerc",
+        "Time": "1:36.054",
+        "Position": "4"
+    },
+    {
+        "Circuit ID": "vegas",
+        "Round": "22",
+        "Lap Number": "48",
+        "Driver ID": "leclerc",
+        "Time": "1:36.065",
+        "Position": "4"
+    },
+    {
+        "Circuit ID": "vegas",
+        "Round": "22",
+        "Lap Number": "49",
+        "Driver ID": "leclerc",
+        "Time": "1:36.571",
+        "Position": "4"
+    },
+    {
+        "Circuit ID": "vegas",
+        "Round": "22",
+        "Lap Number": "50",
+        "Driver ID": "leclerc",
+        "Time": "1:37.218",
+        "Position": "4"
+    },
+    {
+        "Circuit ID": "vegas",
+        "Round": "22",
+        "Lap Number": "1",
         "Driver ID": "max_verstappen",
         "Time": "1:45.917",
         "Position": "5"
@@ -1603,406 +2403,6 @@
         "Circuit ID": "vegas",
         "Round": "22",
         "Lap Number": "1",
-        "Driver ID": "piastri",
-        "Time": "1:48.433",
-        "Position": "8"
-    },
-    {
-        "Circuit ID": "vegas",
-        "Round": "22",
-        "Lap Number": "2",
-        "Driver ID": "piastri",
-        "Time": "1:40.495",
-        "Position": "9"
-    },
-    {
-        "Circuit ID": "vegas",
-        "Round": "22",
-        "Lap Number": "3",
-        "Driver ID": "piastri",
-        "Time": "1:39.144",
-        "Position": "9"
-    },
-    {
-        "Circuit ID": "vegas",
-        "Round": "22",
-        "Lap Number": "4",
-        "Driver ID": "piastri",
-        "Time": "1:39.226",
-        "Position": "9"
-    },
-    {
-        "Circuit ID": "vegas",
-        "Round": "22",
-        "Lap Number": "5",
-        "Driver ID": "piastri",
-        "Time": "1:39.010",
-        "Position": "8"
-    },
-    {
-        "Circuit ID": "vegas",
-        "Round": "22",
-        "Lap Number": "6",
-        "Driver ID": "piastri",
-        "Time": "1:39.097",
-        "Position": "8"
-    },
-    {
-        "Circuit ID": "vegas",
-        "Round": "22",
-        "Lap Number": "7",
-        "Driver ID": "piastri",
-        "Time": "1:40.118",
-        "Position": "8"
-    },
-    {
-        "Circuit ID": "vegas",
-        "Round": "22",
-        "Lap Number": "8",
-        "Driver ID": "piastri",
-        "Time": "1:40.351",
-        "Position": "9"
-    },
-    {
-        "Circuit ID": "vegas",
-        "Round": "22",
-        "Lap Number": "9",
-        "Driver ID": "piastri",
-        "Time": "1:41.986",
-        "Position": "8"
-    },
-    {
-        "Circuit ID": "vegas",
-        "Round": "22",
-        "Lap Number": "10",
-        "Driver ID": "piastri",
-        "Time": "1:45.430",
-        "Position": "11"
-    },
-    {
-        "Circuit ID": "vegas",
-        "Round": "22",
-        "Lap Number": "11",
-        "Driver ID": "piastri",
-        "Time": "2:01.018",
-        "Position": "18"
-    },
-    {
-        "Circuit ID": "vegas",
-        "Round": "22",
-        "Lap Number": "12",
-        "Driver ID": "piastri",
-        "Time": "1:38.137",
-        "Position": "16"
-    },
-    {
-        "Circuit ID": "vegas",
-        "Round": "22",
-        "Lap Number": "13",
-        "Driver ID": "piastri",
-        "Time": "1:37.942",
-        "Position": "15"
-    },
-    {
-        "Circuit ID": "vegas",
-        "Round": "22",
-        "Lap Number": "14",
-        "Driver ID": "piastri",
-        "Time": "1:38.850",
-        "Position": "15"
-    },
-    {
-        "Circuit ID": "vegas",
-        "Round": "22",
-        "Lap Number": "15",
-        "Driver ID": "piastri",
-        "Time": "1:38.556",
-        "Position": "12"
-    },
-    {
-        "Circuit ID": "vegas",
-        "Round": "22",
-        "Lap Number": "16",
-        "Driver ID": "piastri",
-        "Time": "1:39.691",
-        "Position": "10"
-    },
-    {
-        "Circuit ID": "vegas",
-        "Round": "22",
-        "Lap Number": "17",
-        "Driver ID": "piastri",
-        "Time": "1:39.280",
-        "Position": "9"
-    },
-    {
-        "Circuit ID": "vegas",
-        "Round": "22",
-        "Lap Number": "18",
-        "Driver ID": "piastri",
-        "Time": "1:38.127",
-        "Position": "8"
-    },
-    {
-        "Circuit ID": "vegas",
-        "Round": "22",
-        "Lap Number": "19",
-        "Driver ID": "piastri",
-        "Time": "1:38.439",
-        "Position": "8"
-    },
-    {
-        "Circuit ID": "vegas",
-        "Round": "22",
-        "Lap Number": "20",
-        "Driver ID": "piastri",
-        "Time": "1:38.301",
-        "Position": "8"
-    },
-    {
-        "Circuit ID": "vegas",
-        "Round": "22",
-        "Lap Number": "21",
-        "Driver ID": "piastri",
-        "Time": "1:38.458",
-        "Position": "8"
-    },
-    {
-        "Circuit ID": "vegas",
-        "Round": "22",
-        "Lap Number": "22",
-        "Driver ID": "piastri",
-        "Time": "1:39.050",
-        "Position": "8"
-    },
-    {
-        "Circuit ID": "vegas",
-        "Round": "22",
-        "Lap Number": "23",
-        "Driver ID": "piastri",
-        "Time": "1:38.849",
-        "Position": "8"
-    },
-    {
-        "Circuit ID": "vegas",
-        "Round": "22",
-        "Lap Number": "24",
-        "Driver ID": "piastri",
-        "Time": "1:39.168",
-        "Position": "8"
-    },
-    {
-        "Circuit ID": "vegas",
-        "Round": "22",
-        "Lap Number": "25",
-        "Driver ID": "piastri",
-        "Time": "1:43.929",
-        "Position": "9"
-    },
-    {
-        "Circuit ID": "vegas",
-        "Round": "22",
-        "Lap Number": "26",
-        "Driver ID": "piastri",
-        "Time": "1:54.146",
-        "Position": "14"
-    },
-    {
-        "Circuit ID": "vegas",
-        "Round": "22",
-        "Lap Number": "27",
-        "Driver ID": "piastri",
-        "Time": "1:37.906",
-        "Position": "14"
-    },
-    {
-        "Circuit ID": "vegas",
-        "Round": "22",
-        "Lap Number": "28",
-        "Driver ID": "piastri",
-        "Time": "1:38.108",
-        "Position": "13"
-    },
-    {
-        "Circuit ID": "vegas",
-        "Round": "22",
-        "Lap Number": "29",
-        "Driver ID": "piastri",
-        "Time": "1:37.582",
-        "Position": "13"
-    },
-    {
-        "Circuit ID": "vegas",
-        "Round": "22",
-        "Lap Number": "30",
-        "Driver ID": "piastri",
-        "Time": "1:38.110",
-        "Position": "11"
-    },
-    {
-        "Circuit ID": "vegas",
-        "Round": "22",
-        "Lap Number": "31",
-        "Driver ID": "piastri",
-        "Time": "1:38.356",
-        "Position": "10"
-    },
-    {
-        "Circuit ID": "vegas",
-        "Round": "22",
-        "Lap Number": "32",
-        "Driver ID": "piastri",
-        "Time": "1:38.495",
-        "Position": "9"
-    },
-    {
-        "Circuit ID": "vegas",
-        "Round": "22",
-        "Lap Number": "33",
-        "Driver ID": "piastri",
-        "Time": "1:38.689",
-        "Position": "8"
-    },
-    {
-        "Circuit ID": "vegas",
-        "Round": "22",
-        "Lap Number": "34",
-        "Driver ID": "piastri",
-        "Time": "1:37.841",
-        "Position": "7"
-    },
-    {
-        "Circuit ID": "vegas",
-        "Round": "22",
-        "Lap Number": "35",
-        "Driver ID": "piastri",
-        "Time": "1:37.431",
-        "Position": "7"
-    },
-    {
-        "Circuit ID": "vegas",
-        "Round": "22",
-        "Lap Number": "36",
-        "Driver ID": "piastri",
-        "Time": "1:37.201",
-        "Position": "7"
-    },
-    {
-        "Circuit ID": "vegas",
-        "Round": "22",
-        "Lap Number": "37",
-        "Driver ID": "piastri",
-        "Time": "1:36.740",
-        "Position": "7"
-    },
-    {
-        "Circuit ID": "vegas",
-        "Round": "22",
-        "Lap Number": "38",
-        "Driver ID": "piastri",
-        "Time": "1:37.607",
-        "Position": "7"
-    },
-    {
-        "Circuit ID": "vegas",
-        "Round": "22",
-        "Lap Number": "39",
-        "Driver ID": "piastri",
-        "Time": "1:37.144",
-        "Position": "7"
-    },
-    {
-        "Circuit ID": "vegas",
-        "Round": "22",
-        "Lap Number": "40",
-        "Driver ID": "piastri",
-        "Time": "1:37.586",
-        "Position": "7"
-    },
-    {
-        "Circuit ID": "vegas",
-        "Round": "22",
-        "Lap Number": "41",
-        "Driver ID": "piastri",
-        "Time": "1:37.188",
-        "Position": "7"
-    },
-    {
-        "Circuit ID": "vegas",
-        "Round": "22",
-        "Lap Number": "42",
-        "Driver ID": "piastri",
-        "Time": "1:37.295",
-        "Position": "7"
-    },
-    {
-        "Circuit ID": "vegas",
-        "Round": "22",
-        "Lap Number": "43",
-        "Driver ID": "piastri",
-        "Time": "1:37.097",
-        "Position": "7"
-    },
-    {
-        "Circuit ID": "vegas",
-        "Round": "22",
-        "Lap Number": "44",
-        "Driver ID": "piastri",
-        "Time": "1:36.598",
-        "Position": "7"
-    },
-    {
-        "Circuit ID": "vegas",
-        "Round": "22",
-        "Lap Number": "45",
-        "Driver ID": "piastri",
-        "Time": "1:37.089",
-        "Position": "7"
-    },
-    {
-        "Circuit ID": "vegas",
-        "Round": "22",
-        "Lap Number": "46",
-        "Driver ID": "piastri",
-        "Time": "1:37.047",
-        "Position": "7"
-    },
-    {
-        "Circuit ID": "vegas",
-        "Round": "22",
-        "Lap Number": "47",
-        "Driver ID": "piastri",
-        "Time": "1:37.122",
-        "Position": "7"
-    },
-    {
-        "Circuit ID": "vegas",
-        "Round": "22",
-        "Lap Number": "48",
-        "Driver ID": "piastri",
-        "Time": "1:37.847",
-        "Position": "7"
-    },
-    {
-        "Circuit ID": "vegas",
-        "Round": "22",
-        "Lap Number": "49",
-        "Driver ID": "piastri",
-        "Time": "1:37.752",
-        "Position": "7"
-    },
-    {
-        "Circuit ID": "vegas",
-        "Round": "22",
-        "Lap Number": "50",
-        "Driver ID": "piastri",
-        "Time": "1:38.272",
-        "Position": "7"
-    },
-    {
-        "Circuit ID": "vegas",
-        "Round": "22",
-        "Lap Number": "1",
         "Driver ID": "hulkenberg",
         "Time": "1:48.675",
         "Position": "9"
@@ -2398,6 +2798,806 @@
         "Driver ID": "hulkenberg",
         "Time": "1:37.575",
         "Position": "8"
+    },
+    {
+        "Circuit ID": "vegas",
+        "Round": "22",
+        "Lap Number": "1",
+        "Driver ID": "tsunoda",
+        "Time": "1:47.340",
+        "Position": "7"
+    },
+    {
+        "Circuit ID": "vegas",
+        "Round": "22",
+        "Lap Number": "2",
+        "Driver ID": "tsunoda",
+        "Time": "1:40.026",
+        "Position": "7"
+    },
+    {
+        "Circuit ID": "vegas",
+        "Round": "22",
+        "Lap Number": "3",
+        "Driver ID": "tsunoda",
+        "Time": "1:39.407",
+        "Position": "7"
+    },
+    {
+        "Circuit ID": "vegas",
+        "Round": "22",
+        "Lap Number": "4",
+        "Driver ID": "tsunoda",
+        "Time": "1:39.071",
+        "Position": "7"
+    },
+    {
+        "Circuit ID": "vegas",
+        "Round": "22",
+        "Lap Number": "5",
+        "Driver ID": "tsunoda",
+        "Time": "1:39.366",
+        "Position": "7"
+    },
+    {
+        "Circuit ID": "vegas",
+        "Round": "22",
+        "Lap Number": "6",
+        "Driver ID": "tsunoda",
+        "Time": "1:39.428",
+        "Position": "7"
+    },
+    {
+        "Circuit ID": "vegas",
+        "Round": "22",
+        "Lap Number": "7",
+        "Driver ID": "tsunoda",
+        "Time": "1:39.507",
+        "Position": "7"
+    },
+    {
+        "Circuit ID": "vegas",
+        "Round": "22",
+        "Lap Number": "8",
+        "Driver ID": "tsunoda",
+        "Time": "1:39.973",
+        "Position": "7"
+    },
+    {
+        "Circuit ID": "vegas",
+        "Round": "22",
+        "Lap Number": "9",
+        "Driver ID": "tsunoda",
+        "Time": "1:42.418",
+        "Position": "6"
+    },
+    {
+        "Circuit ID": "vegas",
+        "Round": "22",
+        "Lap Number": "10",
+        "Driver ID": "tsunoda",
+        "Time": "1:45.973",
+        "Position": "10"
+    },
+    {
+        "Circuit ID": "vegas",
+        "Round": "22",
+        "Lap Number": "11",
+        "Driver ID": "tsunoda",
+        "Time": "1:55.855",
+        "Position": "15"
+    },
+    {
+        "Circuit ID": "vegas",
+        "Round": "22",
+        "Lap Number": "12",
+        "Driver ID": "tsunoda",
+        "Time": "1:38.177",
+        "Position": "12"
+    },
+    {
+        "Circuit ID": "vegas",
+        "Round": "22",
+        "Lap Number": "13",
+        "Driver ID": "tsunoda",
+        "Time": "1:38.304",
+        "Position": "12"
+    },
+    {
+        "Circuit ID": "vegas",
+        "Round": "22",
+        "Lap Number": "14",
+        "Driver ID": "tsunoda",
+        "Time": "1:40.190",
+        "Position": "12"
+    },
+    {
+        "Circuit ID": "vegas",
+        "Round": "22",
+        "Lap Number": "15",
+        "Driver ID": "tsunoda",
+        "Time": "1:40.745",
+        "Position": "9"
+    },
+    {
+        "Circuit ID": "vegas",
+        "Round": "22",
+        "Lap Number": "16",
+        "Driver ID": "tsunoda",
+        "Time": "1:40.708",
+        "Position": "8"
+    },
+    {
+        "Circuit ID": "vegas",
+        "Round": "22",
+        "Lap Number": "17",
+        "Driver ID": "tsunoda",
+        "Time": "1:38.549",
+        "Position": "8"
+    },
+    {
+        "Circuit ID": "vegas",
+        "Round": "22",
+        "Lap Number": "18",
+        "Driver ID": "tsunoda",
+        "Time": "1:38.576",
+        "Position": "7"
+    },
+    {
+        "Circuit ID": "vegas",
+        "Round": "22",
+        "Lap Number": "19",
+        "Driver ID": "tsunoda",
+        "Time": "1:38.490",
+        "Position": "7"
+    },
+    {
+        "Circuit ID": "vegas",
+        "Round": "22",
+        "Lap Number": "20",
+        "Driver ID": "tsunoda",
+        "Time": "1:38.258",
+        "Position": "7"
+    },
+    {
+        "Circuit ID": "vegas",
+        "Round": "22",
+        "Lap Number": "21",
+        "Driver ID": "tsunoda",
+        "Time": "1:38.387",
+        "Position": "7"
+    },
+    {
+        "Circuit ID": "vegas",
+        "Round": "22",
+        "Lap Number": "22",
+        "Driver ID": "tsunoda",
+        "Time": "1:38.831",
+        "Position": "7"
+    },
+    {
+        "Circuit ID": "vegas",
+        "Round": "22",
+        "Lap Number": "23",
+        "Driver ID": "tsunoda",
+        "Time": "1:38.925",
+        "Position": "7"
+    },
+    {
+        "Circuit ID": "vegas",
+        "Round": "22",
+        "Lap Number": "24",
+        "Driver ID": "tsunoda",
+        "Time": "1:40.038",
+        "Position": "7"
+    },
+    {
+        "Circuit ID": "vegas",
+        "Round": "22",
+        "Lap Number": "25",
+        "Driver ID": "tsunoda",
+        "Time": "1:38.985",
+        "Position": "7"
+    },
+    {
+        "Circuit ID": "vegas",
+        "Round": "22",
+        "Lap Number": "26",
+        "Driver ID": "tsunoda",
+        "Time": "1:38.932",
+        "Position": "7"
+    },
+    {
+        "Circuit ID": "vegas",
+        "Round": "22",
+        "Lap Number": "27",
+        "Driver ID": "tsunoda",
+        "Time": "1:38.827",
+        "Position": "7"
+    },
+    {
+        "Circuit ID": "vegas",
+        "Round": "22",
+        "Lap Number": "28",
+        "Driver ID": "tsunoda",
+        "Time": "1:39.213",
+        "Position": "7"
+    },
+    {
+        "Circuit ID": "vegas",
+        "Round": "22",
+        "Lap Number": "29",
+        "Driver ID": "tsunoda",
+        "Time": "1:44.582",
+        "Position": "8"
+    },
+    {
+        "Circuit ID": "vegas",
+        "Round": "22",
+        "Lap Number": "30",
+        "Driver ID": "tsunoda",
+        "Time": "1:55.356",
+        "Position": "13"
+    },
+    {
+        "Circuit ID": "vegas",
+        "Round": "22",
+        "Lap Number": "31",
+        "Driver ID": "tsunoda",
+        "Time": "1:38.720",
+        "Position": "13"
+    },
+    {
+        "Circuit ID": "vegas",
+        "Round": "22",
+        "Lap Number": "32",
+        "Driver ID": "tsunoda",
+        "Time": "1:38.174",
+        "Position": "13"
+    },
+    {
+        "Circuit ID": "vegas",
+        "Round": "22",
+        "Lap Number": "33",
+        "Driver ID": "tsunoda",
+        "Time": "1:38.044",
+        "Position": "12"
+    },
+    {
+        "Circuit ID": "vegas",
+        "Round": "22",
+        "Lap Number": "34",
+        "Driver ID": "tsunoda",
+        "Time": "1:38.088",
+        "Position": "9"
+    },
+    {
+        "Circuit ID": "vegas",
+        "Round": "22",
+        "Lap Number": "35",
+        "Driver ID": "tsunoda",
+        "Time": "1:38.173",
+        "Position": "8"
+    },
+    {
+        "Circuit ID": "vegas",
+        "Round": "22",
+        "Lap Number": "36",
+        "Driver ID": "tsunoda",
+        "Time": "1:38.514",
+        "Position": "8"
+    },
+    {
+        "Circuit ID": "vegas",
+        "Round": "22",
+        "Lap Number": "37",
+        "Driver ID": "tsunoda",
+        "Time": "1:37.600",
+        "Position": "8"
+    },
+    {
+        "Circuit ID": "vegas",
+        "Round": "22",
+        "Lap Number": "38",
+        "Driver ID": "tsunoda",
+        "Time": "1:38.146",
+        "Position": "8"
+    },
+    {
+        "Circuit ID": "vegas",
+        "Round": "22",
+        "Lap Number": "39",
+        "Driver ID": "tsunoda",
+        "Time": "1:37.802",
+        "Position": "8"
+    },
+    {
+        "Circuit ID": "vegas",
+        "Round": "22",
+        "Lap Number": "40",
+        "Driver ID": "tsunoda",
+        "Time": "1:37.624",
+        "Position": "8"
+    },
+    {
+        "Circuit ID": "vegas",
+        "Round": "22",
+        "Lap Number": "41",
+        "Driver ID": "tsunoda",
+        "Time": "1:38.223",
+        "Position": "8"
+    },
+    {
+        "Circuit ID": "vegas",
+        "Round": "22",
+        "Lap Number": "42",
+        "Driver ID": "tsunoda",
+        "Time": "1:37.721",
+        "Position": "8"
+    },
+    {
+        "Circuit ID": "vegas",
+        "Round": "22",
+        "Lap Number": "43",
+        "Driver ID": "tsunoda",
+        "Time": "1:37.478",
+        "Position": "8"
+    },
+    {
+        "Circuit ID": "vegas",
+        "Round": "22",
+        "Lap Number": "44",
+        "Driver ID": "tsunoda",
+        "Time": "1:37.976",
+        "Position": "9"
+    },
+    {
+        "Circuit ID": "vegas",
+        "Round": "22",
+        "Lap Number": "45",
+        "Driver ID": "tsunoda",
+        "Time": "1:37.381",
+        "Position": "9"
+    },
+    {
+        "Circuit ID": "vegas",
+        "Round": "22",
+        "Lap Number": "46",
+        "Driver ID": "tsunoda",
+        "Time": "1:37.323",
+        "Position": "9"
+    },
+    {
+        "Circuit ID": "vegas",
+        "Round": "22",
+        "Lap Number": "47",
+        "Driver ID": "tsunoda",
+        "Time": "1:37.028",
+        "Position": "9"
+    },
+    {
+        "Circuit ID": "vegas",
+        "Round": "22",
+        "Lap Number": "48",
+        "Driver ID": "tsunoda",
+        "Time": "1:36.957",
+        "Position": "9"
+    },
+    {
+        "Circuit ID": "vegas",
+        "Round": "22",
+        "Lap Number": "49",
+        "Driver ID": "tsunoda",
+        "Time": "1:37.304",
+        "Position": "9"
+    },
+    {
+        "Circuit ID": "vegas",
+        "Round": "22",
+        "Lap Number": "50",
+        "Driver ID": "tsunoda",
+        "Time": "1:38.064",
+        "Position": "9"
+    },
+    {
+        "Circuit ID": "vegas",
+        "Round": "22",
+        "Lap Number": "1",
+        "Driver ID": "perez",
+        "Time": "1:53.292",
+        "Position": "17"
+    },
+    {
+        "Circuit ID": "vegas",
+        "Round": "22",
+        "Lap Number": "2",
+        "Driver ID": "perez",
+        "Time": "1:42.106",
+        "Position": "16"
+    },
+    {
+        "Circuit ID": "vegas",
+        "Round": "22",
+        "Lap Number": "3",
+        "Driver ID": "perez",
+        "Time": "1:40.450",
+        "Position": "16"
+    },
+    {
+        "Circuit ID": "vegas",
+        "Round": "22",
+        "Lap Number": "4",
+        "Driver ID": "perez",
+        "Time": "1:40.282",
+        "Position": "15"
+    },
+    {
+        "Circuit ID": "vegas",
+        "Round": "22",
+        "Lap Number": "5",
+        "Driver ID": "perez",
+        "Time": "1:39.277",
+        "Position": "15"
+    },
+    {
+        "Circuit ID": "vegas",
+        "Round": "22",
+        "Lap Number": "6",
+        "Driver ID": "perez",
+        "Time": "1:38.985",
+        "Position": "15"
+    },
+    {
+        "Circuit ID": "vegas",
+        "Round": "22",
+        "Lap Number": "7",
+        "Driver ID": "perez",
+        "Time": "1:39.368",
+        "Position": "14"
+    },
+    {
+        "Circuit ID": "vegas",
+        "Round": "22",
+        "Lap Number": "8",
+        "Driver ID": "perez",
+        "Time": "1:38.882",
+        "Position": "14"
+    },
+    {
+        "Circuit ID": "vegas",
+        "Round": "22",
+        "Lap Number": "9",
+        "Driver ID": "perez",
+        "Time": "1:39.523",
+        "Position": "13"
+    },
+    {
+        "Circuit ID": "vegas",
+        "Round": "22",
+        "Lap Number": "10",
+        "Driver ID": "perez",
+        "Time": "1:39.229",
+        "Position": "8"
+    },
+    {
+        "Circuit ID": "vegas",
+        "Round": "22",
+        "Lap Number": "11",
+        "Driver ID": "perez",
+        "Time": "1:40.706",
+        "Position": "5"
+    },
+    {
+        "Circuit ID": "vegas",
+        "Round": "22",
+        "Lap Number": "12",
+        "Driver ID": "perez",
+        "Time": "1:39.663",
+        "Position": "4"
+    },
+    {
+        "Circuit ID": "vegas",
+        "Round": "22",
+        "Lap Number": "13",
+        "Driver ID": "perez",
+        "Time": "1:40.107",
+        "Position": "3"
+    },
+    {
+        "Circuit ID": "vegas",
+        "Round": "22",
+        "Lap Number": "14",
+        "Driver ID": "perez",
+        "Time": "1:40.897",
+        "Position": "2"
+    },
+    {
+        "Circuit ID": "vegas",
+        "Round": "22",
+        "Lap Number": "15",
+        "Driver ID": "perez",
+        "Time": "1:41.565",
+        "Position": "3"
+    },
+    {
+        "Circuit ID": "vegas",
+        "Round": "22",
+        "Lap Number": "16",
+        "Driver ID": "perez",
+        "Time": "1:40.939",
+        "Position": "4"
+    },
+    {
+        "Circuit ID": "vegas",
+        "Round": "22",
+        "Lap Number": "17",
+        "Driver ID": "perez",
+        "Time": "1:48.327",
+        "Position": "7"
+    },
+    {
+        "Circuit ID": "vegas",
+        "Round": "22",
+        "Lap Number": "18",
+        "Driver ID": "perez",
+        "Time": "1:56.440",
+        "Position": "14"
+    },
+    {
+        "Circuit ID": "vegas",
+        "Round": "22",
+        "Lap Number": "19",
+        "Driver ID": "perez",
+        "Time": "1:38.953",
+        "Position": "14"
+    },
+    {
+        "Circuit ID": "vegas",
+        "Round": "22",
+        "Lap Number": "20",
+        "Driver ID": "perez",
+        "Time": "1:38.250",
+        "Position": "14"
+    },
+    {
+        "Circuit ID": "vegas",
+        "Round": "22",
+        "Lap Number": "21",
+        "Driver ID": "perez",
+        "Time": "1:38.109",
+        "Position": "14"
+    },
+    {
+        "Circuit ID": "vegas",
+        "Round": "22",
+        "Lap Number": "22",
+        "Driver ID": "perez",
+        "Time": "1:38.112",
+        "Position": "14"
+    },
+    {
+        "Circuit ID": "vegas",
+        "Round": "22",
+        "Lap Number": "23",
+        "Driver ID": "perez",
+        "Time": "1:38.007",
+        "Position": "14"
+    },
+    {
+        "Circuit ID": "vegas",
+        "Round": "22",
+        "Lap Number": "24",
+        "Driver ID": "perez",
+        "Time": "1:38.326",
+        "Position": "12"
+    },
+    {
+        "Circuit ID": "vegas",
+        "Round": "22",
+        "Lap Number": "25",
+        "Driver ID": "perez",
+        "Time": "1:38.100",
+        "Position": "11"
+    },
+    {
+        "Circuit ID": "vegas",
+        "Round": "22",
+        "Lap Number": "26",
+        "Driver ID": "perez",
+        "Time": "1:37.931",
+        "Position": "9"
+    },
+    {
+        "Circuit ID": "vegas",
+        "Round": "22",
+        "Lap Number": "27",
+        "Driver ID": "perez",
+        "Time": "1:38.360",
+        "Position": "9"
+    },
+    {
+        "Circuit ID": "vegas",
+        "Round": "22",
+        "Lap Number": "28",
+        "Driver ID": "perez",
+        "Time": "1:37.997",
+        "Position": "9"
+    },
+    {
+        "Circuit ID": "vegas",
+        "Round": "22",
+        "Lap Number": "29",
+        "Driver ID": "perez",
+        "Time": "1:37.883",
+        "Position": "9"
+    },
+    {
+        "Circuit ID": "vegas",
+        "Round": "22",
+        "Lap Number": "30",
+        "Driver ID": "perez",
+        "Time": "1:38.317",
+        "Position": "8"
+    },
+    {
+        "Circuit ID": "vegas",
+        "Round": "22",
+        "Lap Number": "31",
+        "Driver ID": "perez",
+        "Time": "1:39.896",
+        "Position": "8"
+    },
+    {
+        "Circuit ID": "vegas",
+        "Round": "22",
+        "Lap Number": "32",
+        "Driver ID": "perez",
+        "Time": "1:43.652",
+        "Position": "8"
+    },
+    {
+        "Circuit ID": "vegas",
+        "Round": "22",
+        "Lap Number": "33",
+        "Driver ID": "perez",
+        "Time": "1:54.573",
+        "Position": "15"
+    },
+    {
+        "Circuit ID": "vegas",
+        "Round": "22",
+        "Lap Number": "34",
+        "Driver ID": "perez",
+        "Time": "1:37.262",
+        "Position": "15"
+    },
+    {
+        "Circuit ID": "vegas",
+        "Round": "22",
+        "Lap Number": "35",
+        "Driver ID": "perez",
+        "Time": "1:37.112",
+        "Position": "14"
+    },
+    {
+        "Circuit ID": "vegas",
+        "Round": "22",
+        "Lap Number": "36",
+        "Driver ID": "perez",
+        "Time": "1:36.983",
+        "Position": "14"
+    },
+    {
+        "Circuit ID": "vegas",
+        "Round": "22",
+        "Lap Number": "37",
+        "Driver ID": "perez",
+        "Time": "1:38.607",
+        "Position": "12"
+    },
+    {
+        "Circuit ID": "vegas",
+        "Round": "22",
+        "Lap Number": "38",
+        "Driver ID": "perez",
+        "Time": "1:37.542",
+        "Position": "12"
+    },
+    {
+        "Circuit ID": "vegas",
+        "Round": "22",
+        "Lap Number": "39",
+        "Driver ID": "perez",
+        "Time": "1:38.613",
+        "Position": "11"
+    },
+    {
+        "Circuit ID": "vegas",
+        "Round": "22",
+        "Lap Number": "40",
+        "Driver ID": "perez",
+        "Time": "1:37.536",
+        "Position": "11"
+    },
+    {
+        "Circuit ID": "vegas",
+        "Round": "22",
+        "Lap Number": "41",
+        "Driver ID": "perez",
+        "Time": "1:36.579",
+        "Position": "11"
+    },
+    {
+        "Circuit ID": "vegas",
+        "Round": "22",
+        "Lap Number": "42",
+        "Driver ID": "perez",
+        "Time": "1:36.326",
+        "Position": "11"
+    },
+    {
+        "Circuit ID": "vegas",
+        "Round": "22",
+        "Lap Number": "43",
+        "Driver ID": "perez",
+        "Time": "1:36.491",
+        "Position": "11"
+    },
+    {
+        "Circuit ID": "vegas",
+        "Round": "22",
+        "Lap Number": "44",
+        "Driver ID": "perez",
+        "Time": "1:37.037",
+        "Position": "11"
+    },
+    {
+        "Circuit ID": "vegas",
+        "Round": "22",
+        "Lap Number": "45",
+        "Driver ID": "perez",
+        "Time": "1:37.396",
+        "Position": "10"
+    },
+    {
+        "Circuit ID": "vegas",
+        "Round": "22",
+        "Lap Number": "46",
+        "Driver ID": "perez",
+        "Time": "1:36.950",
+        "Position": "10"
+    },
+    {
+        "Circuit ID": "vegas",
+        "Round": "22",
+        "Lap Number": "47",
+        "Driver ID": "perez",
+        "Time": "1:36.473",
+        "Position": "10"
+    },
+    {
+        "Circuit ID": "vegas",
+        "Round": "22",
+        "Lap Number": "48",
+        "Driver ID": "perez",
+        "Time": "1:36.716",
+        "Position": "10"
+    },
+    {
+        "Circuit ID": "vegas",
+        "Round": "22",
+        "Lap Number": "49",
+        "Driver ID": "perez",
+        "Time": "1:36.939",
+        "Position": "10"
+    },
+    {
+        "Circuit ID": "vegas",
+        "Round": "22",
+        "Lap Number": "50",
+        "Driver ID": "perez",
+        "Time": "1:38.017",
+        "Position": "10"
     },
     {
         "Circuit ID": "vegas",
@@ -2803,806 +4003,6 @@
         "Circuit ID": "vegas",
         "Round": "22",
         "Lap Number": "1",
-        "Driver ID": "kevin_magnussen",
-        "Time": "1:52.614",
-        "Position": "14"
-    },
-    {
-        "Circuit ID": "vegas",
-        "Round": "22",
-        "Lap Number": "2",
-        "Driver ID": "kevin_magnussen",
-        "Time": "1:42.380",
-        "Position": "15"
-    },
-    {
-        "Circuit ID": "vegas",
-        "Round": "22",
-        "Lap Number": "3",
-        "Driver ID": "kevin_magnussen",
-        "Time": "1:40.169",
-        "Position": "15"
-    },
-    {
-        "Circuit ID": "vegas",
-        "Round": "22",
-        "Lap Number": "4",
-        "Driver ID": "kevin_magnussen",
-        "Time": "1:40.422",
-        "Position": "14"
-    },
-    {
-        "Circuit ID": "vegas",
-        "Round": "22",
-        "Lap Number": "5",
-        "Driver ID": "kevin_magnussen",
-        "Time": "1:39.314",
-        "Position": "14"
-    },
-    {
-        "Circuit ID": "vegas",
-        "Round": "22",
-        "Lap Number": "6",
-        "Driver ID": "kevin_magnussen",
-        "Time": "1:38.923",
-        "Position": "14"
-    },
-    {
-        "Circuit ID": "vegas",
-        "Round": "22",
-        "Lap Number": "7",
-        "Driver ID": "kevin_magnussen",
-        "Time": "1:40.623",
-        "Position": "15"
-    },
-    {
-        "Circuit ID": "vegas",
-        "Round": "22",
-        "Lap Number": "8",
-        "Driver ID": "kevin_magnussen",
-        "Time": "1:39.595",
-        "Position": "15"
-    },
-    {
-        "Circuit ID": "vegas",
-        "Round": "22",
-        "Lap Number": "9",
-        "Driver ID": "kevin_magnussen",
-        "Time": "1:40.151",
-        "Position": "15"
-    },
-    {
-        "Circuit ID": "vegas",
-        "Round": "22",
-        "Lap Number": "10",
-        "Driver ID": "kevin_magnussen",
-        "Time": "1:41.368",
-        "Position": "13"
-    },
-    {
-        "Circuit ID": "vegas",
-        "Round": "22",
-        "Lap Number": "11",
-        "Driver ID": "kevin_magnussen",
-        "Time": "1:41.267",
-        "Position": "7"
-    },
-    {
-        "Circuit ID": "vegas",
-        "Round": "22",
-        "Lap Number": "12",
-        "Driver ID": "kevin_magnussen",
-        "Time": "1:41.935",
-        "Position": "6"
-    },
-    {
-        "Circuit ID": "vegas",
-        "Round": "22",
-        "Lap Number": "13",
-        "Driver ID": "kevin_magnussen",
-        "Time": "1:42.195",
-        "Position": "8"
-    },
-    {
-        "Circuit ID": "vegas",
-        "Round": "22",
-        "Lap Number": "14",
-        "Driver ID": "kevin_magnussen",
-        "Time": "1:42.439",
-        "Position": "9"
-    },
-    {
-        "Circuit ID": "vegas",
-        "Round": "22",
-        "Lap Number": "15",
-        "Driver ID": "kevin_magnussen",
-        "Time": "1:41.962",
-        "Position": "8"
-    },
-    {
-        "Circuit ID": "vegas",
-        "Round": "22",
-        "Lap Number": "16",
-        "Driver ID": "kevin_magnussen",
-        "Time": "1:41.850",
-        "Position": "9"
-    },
-    {
-        "Circuit ID": "vegas",
-        "Round": "22",
-        "Lap Number": "17",
-        "Driver ID": "kevin_magnussen",
-        "Time": "1:47.306",
-        "Position": "14"
-    },
-    {
-        "Circuit ID": "vegas",
-        "Round": "22",
-        "Lap Number": "18",
-        "Driver ID": "kevin_magnussen",
-        "Time": "1:57.747",
-        "Position": "18"
-    },
-    {
-        "Circuit ID": "vegas",
-        "Round": "22",
-        "Lap Number": "19",
-        "Driver ID": "kevin_magnussen",
-        "Time": "1:39.918",
-        "Position": "18"
-    },
-    {
-        "Circuit ID": "vegas",
-        "Round": "22",
-        "Lap Number": "20",
-        "Driver ID": "kevin_magnussen",
-        "Time": "1:39.233",
-        "Position": "18"
-    },
-    {
-        "Circuit ID": "vegas",
-        "Round": "22",
-        "Lap Number": "21",
-        "Driver ID": "kevin_magnussen",
-        "Time": "1:39.503",
-        "Position": "18"
-    },
-    {
-        "Circuit ID": "vegas",
-        "Round": "22",
-        "Lap Number": "22",
-        "Driver ID": "kevin_magnussen",
-        "Time": "1:39.030",
-        "Position": "18"
-    },
-    {
-        "Circuit ID": "vegas",
-        "Round": "22",
-        "Lap Number": "23",
-        "Driver ID": "kevin_magnussen",
-        "Time": "1:39.182",
-        "Position": "18"
-    },
-    {
-        "Circuit ID": "vegas",
-        "Round": "22",
-        "Lap Number": "24",
-        "Driver ID": "kevin_magnussen",
-        "Time": "1:38.696",
-        "Position": "18"
-    },
-    {
-        "Circuit ID": "vegas",
-        "Round": "22",
-        "Lap Number": "25",
-        "Driver ID": "kevin_magnussen",
-        "Time": "1:39.087",
-        "Position": "18"
-    },
-    {
-        "Circuit ID": "vegas",
-        "Round": "22",
-        "Lap Number": "26",
-        "Driver ID": "kevin_magnussen",
-        "Time": "1:38.295",
-        "Position": "17"
-    },
-    {
-        "Circuit ID": "vegas",
-        "Round": "22",
-        "Lap Number": "27",
-        "Driver ID": "kevin_magnussen",
-        "Time": "1:39.412",
-        "Position": "16"
-    },
-    {
-        "Circuit ID": "vegas",
-        "Round": "22",
-        "Lap Number": "28",
-        "Driver ID": "kevin_magnussen",
-        "Time": "1:38.627",
-        "Position": "16"
-    },
-    {
-        "Circuit ID": "vegas",
-        "Round": "22",
-        "Lap Number": "29",
-        "Driver ID": "kevin_magnussen",
-        "Time": "1:38.430",
-        "Position": "15"
-    },
-    {
-        "Circuit ID": "vegas",
-        "Round": "22",
-        "Lap Number": "30",
-        "Driver ID": "kevin_magnussen",
-        "Time": "1:38.261",
-        "Position": "15"
-    },
-    {
-        "Circuit ID": "vegas",
-        "Round": "22",
-        "Lap Number": "31",
-        "Driver ID": "kevin_magnussen",
-        "Time": "1:38.073",
-        "Position": "15"
-    },
-    {
-        "Circuit ID": "vegas",
-        "Round": "22",
-        "Lap Number": "32",
-        "Driver ID": "kevin_magnussen",
-        "Time": "1:37.948",
-        "Position": "15"
-    },
-    {
-        "Circuit ID": "vegas",
-        "Round": "22",
-        "Lap Number": "33",
-        "Driver ID": "kevin_magnussen",
-        "Time": "1:37.731",
-        "Position": "14"
-    },
-    {
-        "Circuit ID": "vegas",
-        "Round": "22",
-        "Lap Number": "34",
-        "Driver ID": "kevin_magnussen",
-        "Time": "1:37.680",
-        "Position": "14"
-    },
-    {
-        "Circuit ID": "vegas",
-        "Round": "22",
-        "Lap Number": "35",
-        "Driver ID": "kevin_magnussen",
-        "Time": "1:37.371",
-        "Position": "13"
-    },
-    {
-        "Circuit ID": "vegas",
-        "Round": "22",
-        "Lap Number": "36",
-        "Driver ID": "kevin_magnussen",
-        "Time": "1:38.043",
-        "Position": "13"
-    },
-    {
-        "Circuit ID": "vegas",
-        "Round": "22",
-        "Lap Number": "37",
-        "Driver ID": "kevin_magnussen",
-        "Time": "1:40.547",
-        "Position": "14"
-    },
-    {
-        "Circuit ID": "vegas",
-        "Round": "22",
-        "Lap Number": "38",
-        "Driver ID": "kevin_magnussen",
-        "Time": "1:39.440",
-        "Position": "13"
-    },
-    {
-        "Circuit ID": "vegas",
-        "Round": "22",
-        "Lap Number": "39",
-        "Driver ID": "kevin_magnussen",
-        "Time": "1:37.857",
-        "Position": "13"
-    },
-    {
-        "Circuit ID": "vegas",
-        "Round": "22",
-        "Lap Number": "40",
-        "Driver ID": "kevin_magnussen",
-        "Time": "1:37.831",
-        "Position": "12"
-    },
-    {
-        "Circuit ID": "vegas",
-        "Round": "22",
-        "Lap Number": "41",
-        "Driver ID": "kevin_magnussen",
-        "Time": "1:37.945",
-        "Position": "12"
-    },
-    {
-        "Circuit ID": "vegas",
-        "Round": "22",
-        "Lap Number": "42",
-        "Driver ID": "kevin_magnussen",
-        "Time": "1:37.555",
-        "Position": "12"
-    },
-    {
-        "Circuit ID": "vegas",
-        "Round": "22",
-        "Lap Number": "43",
-        "Driver ID": "kevin_magnussen",
-        "Time": "1:37.881",
-        "Position": "12"
-    },
-    {
-        "Circuit ID": "vegas",
-        "Round": "22",
-        "Lap Number": "44",
-        "Driver ID": "kevin_magnussen",
-        "Time": "1:37.784",
-        "Position": "12"
-    },
-    {
-        "Circuit ID": "vegas",
-        "Round": "22",
-        "Lap Number": "45",
-        "Driver ID": "kevin_magnussen",
-        "Time": "1:37.471",
-        "Position": "12"
-    },
-    {
-        "Circuit ID": "vegas",
-        "Round": "22",
-        "Lap Number": "46",
-        "Driver ID": "kevin_magnussen",
-        "Time": "1:37.228",
-        "Position": "12"
-    },
-    {
-        "Circuit ID": "vegas",
-        "Round": "22",
-        "Lap Number": "47",
-        "Driver ID": "kevin_magnussen",
-        "Time": "1:36.775",
-        "Position": "12"
-    },
-    {
-        "Circuit ID": "vegas",
-        "Round": "22",
-        "Lap Number": "48",
-        "Driver ID": "kevin_magnussen",
-        "Time": "1:36.816",
-        "Position": "12"
-    },
-    {
-        "Circuit ID": "vegas",
-        "Round": "22",
-        "Lap Number": "49",
-        "Driver ID": "kevin_magnussen",
-        "Time": "1:36.557",
-        "Position": "12"
-    },
-    {
-        "Circuit ID": "vegas",
-        "Round": "22",
-        "Lap Number": "50",
-        "Driver ID": "kevin_magnussen",
-        "Time": "1:37.305",
-        "Position": "12"
-    },
-    {
-        "Circuit ID": "vegas",
-        "Round": "22",
-        "Lap Number": "1",
-        "Driver ID": "zhou",
-        "Time": "1:50.678",
-        "Position": "12"
-    },
-    {
-        "Circuit ID": "vegas",
-        "Round": "22",
-        "Lap Number": "2",
-        "Driver ID": "zhou",
-        "Time": "1:40.366",
-        "Position": "12"
-    },
-    {
-        "Circuit ID": "vegas",
-        "Round": "22",
-        "Lap Number": "3",
-        "Driver ID": "zhou",
-        "Time": "1:39.399",
-        "Position": "12"
-    },
-    {
-        "Circuit ID": "vegas",
-        "Round": "22",
-        "Lap Number": "4",
-        "Driver ID": "zhou",
-        "Time": "1:39.307",
-        "Position": "12"
-    },
-    {
-        "Circuit ID": "vegas",
-        "Round": "22",
-        "Lap Number": "5",
-        "Driver ID": "zhou",
-        "Time": "1:39.398",
-        "Position": "12"
-    },
-    {
-        "Circuit ID": "vegas",
-        "Round": "22",
-        "Lap Number": "6",
-        "Driver ID": "zhou",
-        "Time": "1:39.769",
-        "Position": "12"
-    },
-    {
-        "Circuit ID": "vegas",
-        "Round": "22",
-        "Lap Number": "7",
-        "Driver ID": "zhou",
-        "Time": "1:39.911",
-        "Position": "12"
-    },
-    {
-        "Circuit ID": "vegas",
-        "Round": "22",
-        "Lap Number": "8",
-        "Driver ID": "zhou",
-        "Time": "1:40.168",
-        "Position": "12"
-    },
-    {
-        "Circuit ID": "vegas",
-        "Round": "22",
-        "Lap Number": "9",
-        "Driver ID": "zhou",
-        "Time": "1:40.819",
-        "Position": "12"
-    },
-    {
-        "Circuit ID": "vegas",
-        "Round": "22",
-        "Lap Number": "10",
-        "Driver ID": "zhou",
-        "Time": "1:41.281",
-        "Position": "7"
-    },
-    {
-        "Circuit ID": "vegas",
-        "Round": "22",
-        "Lap Number": "11",
-        "Driver ID": "zhou",
-        "Time": "1:46.469",
-        "Position": "9"
-    },
-    {
-        "Circuit ID": "vegas",
-        "Round": "22",
-        "Lap Number": "12",
-        "Driver ID": "zhou",
-        "Time": "1:59.067",
-        "Position": "18"
-    },
-    {
-        "Circuit ID": "vegas",
-        "Round": "22",
-        "Lap Number": "13",
-        "Driver ID": "zhou",
-        "Time": "1:39.928",
-        "Position": "17"
-    },
-    {
-        "Circuit ID": "vegas",
-        "Round": "22",
-        "Lap Number": "14",
-        "Driver ID": "zhou",
-        "Time": "1:39.349",
-        "Position": "17"
-    },
-    {
-        "Circuit ID": "vegas",
-        "Round": "22",
-        "Lap Number": "15",
-        "Driver ID": "zhou",
-        "Time": "1:38.978",
-        "Position": "16"
-    },
-    {
-        "Circuit ID": "vegas",
-        "Round": "22",
-        "Lap Number": "16",
-        "Driver ID": "zhou",
-        "Time": "1:39.212",
-        "Position": "16"
-    },
-    {
-        "Circuit ID": "vegas",
-        "Round": "22",
-        "Lap Number": "17",
-        "Driver ID": "zhou",
-        "Time": "1:39.144",
-        "Position": "13"
-    },
-    {
-        "Circuit ID": "vegas",
-        "Round": "22",
-        "Lap Number": "18",
-        "Driver ID": "zhou",
-        "Time": "1:38.902",
-        "Position": "12"
-    },
-    {
-        "Circuit ID": "vegas",
-        "Round": "22",
-        "Lap Number": "19",
-        "Driver ID": "zhou",
-        "Time": "1:38.981",
-        "Position": "12"
-    },
-    {
-        "Circuit ID": "vegas",
-        "Round": "22",
-        "Lap Number": "20",
-        "Driver ID": "zhou",
-        "Time": "1:38.775",
-        "Position": "12"
-    },
-    {
-        "Circuit ID": "vegas",
-        "Round": "22",
-        "Lap Number": "21",
-        "Driver ID": "zhou",
-        "Time": "1:38.846",
-        "Position": "12"
-    },
-    {
-        "Circuit ID": "vegas",
-        "Round": "22",
-        "Lap Number": "22",
-        "Driver ID": "zhou",
-        "Time": "1:38.846",
-        "Position": "12"
-    },
-    {
-        "Circuit ID": "vegas",
-        "Round": "22",
-        "Lap Number": "23",
-        "Driver ID": "zhou",
-        "Time": "1:39.691",
-        "Position": "11"
-    },
-    {
-        "Circuit ID": "vegas",
-        "Round": "22",
-        "Lap Number": "24",
-        "Driver ID": "zhou",
-        "Time": "1:39.382",
-        "Position": "11"
-    },
-    {
-        "Circuit ID": "vegas",
-        "Round": "22",
-        "Lap Number": "25",
-        "Driver ID": "zhou",
-        "Time": "1:39.800",
-        "Position": "10"
-    },
-    {
-        "Circuit ID": "vegas",
-        "Round": "22",
-        "Lap Number": "26",
-        "Driver ID": "zhou",
-        "Time": "1:40.098",
-        "Position": "10"
-    },
-    {
-        "Circuit ID": "vegas",
-        "Round": "22",
-        "Lap Number": "27",
-        "Driver ID": "zhou",
-        "Time": "1:39.643",
-        "Position": "10"
-    },
-    {
-        "Circuit ID": "vegas",
-        "Round": "22",
-        "Lap Number": "28",
-        "Driver ID": "zhou",
-        "Time": "1:39.644",
-        "Position": "10"
-    },
-    {
-        "Circuit ID": "vegas",
-        "Round": "22",
-        "Lap Number": "29",
-        "Driver ID": "zhou",
-        "Time": "1:39.313",
-        "Position": "10"
-    },
-    {
-        "Circuit ID": "vegas",
-        "Round": "22",
-        "Lap Number": "30",
-        "Driver ID": "zhou",
-        "Time": "1:39.663",
-        "Position": "9"
-    },
-    {
-        "Circuit ID": "vegas",
-        "Round": "22",
-        "Lap Number": "31",
-        "Driver ID": "zhou",
-        "Time": "1:39.674",
-        "Position": "9"
-    },
-    {
-        "Circuit ID": "vegas",
-        "Round": "22",
-        "Lap Number": "32",
-        "Driver ID": "zhou",
-        "Time": "1:40.016",
-        "Position": "10"
-    },
-    {
-        "Circuit ID": "vegas",
-        "Round": "22",
-        "Lap Number": "33",
-        "Driver ID": "zhou",
-        "Time": "1:39.448",
-        "Position": "9"
-    },
-    {
-        "Circuit ID": "vegas",
-        "Round": "22",
-        "Lap Number": "34",
-        "Driver ID": "zhou",
-        "Time": "1:44.144",
-        "Position": "12"
-    },
-    {
-        "Circuit ID": "vegas",
-        "Round": "22",
-        "Lap Number": "35",
-        "Driver ID": "zhou",
-        "Time": "1:55.582",
-        "Position": "16"
-    },
-    {
-        "Circuit ID": "vegas",
-        "Round": "22",
-        "Lap Number": "36",
-        "Driver ID": "zhou",
-        "Time": "1:37.950",
-        "Position": "16"
-    },
-    {
-        "Circuit ID": "vegas",
-        "Round": "22",
-        "Lap Number": "37",
-        "Driver ID": "zhou",
-        "Time": "1:37.553",
-        "Position": "16"
-    },
-    {
-        "Circuit ID": "vegas",
-        "Round": "22",
-        "Lap Number": "38",
-        "Driver ID": "zhou",
-        "Time": "1:37.515",
-        "Position": "16"
-    },
-    {
-        "Circuit ID": "vegas",
-        "Round": "22",
-        "Lap Number": "39",
-        "Driver ID": "zhou",
-        "Time": "1:37.189",
-        "Position": "15"
-    },
-    {
-        "Circuit ID": "vegas",
-        "Round": "22",
-        "Lap Number": "40",
-        "Driver ID": "zhou",
-        "Time": "1:36.913",
-        "Position": "15"
-    },
-    {
-        "Circuit ID": "vegas",
-        "Round": "22",
-        "Lap Number": "41",
-        "Driver ID": "zhou",
-        "Time": "1:37.003",
-        "Position": "15"
-    },
-    {
-        "Circuit ID": "vegas",
-        "Round": "22",
-        "Lap Number": "42",
-        "Driver ID": "zhou",
-        "Time": "1:37.183",
-        "Position": "15"
-    },
-    {
-        "Circuit ID": "vegas",
-        "Round": "22",
-        "Lap Number": "43",
-        "Driver ID": "zhou",
-        "Time": "1:36.766",
-        "Position": "15"
-    },
-    {
-        "Circuit ID": "vegas",
-        "Round": "22",
-        "Lap Number": "44",
-        "Driver ID": "zhou",
-        "Time": "1:37.082",
-        "Position": "14"
-    },
-    {
-        "Circuit ID": "vegas",
-        "Round": "22",
-        "Lap Number": "45",
-        "Driver ID": "zhou",
-        "Time": "1:36.542",
-        "Position": "14"
-    },
-    {
-        "Circuit ID": "vegas",
-        "Round": "22",
-        "Lap Number": "46",
-        "Driver ID": "zhou",
-        "Time": "1:36.324",
-        "Position": "14"
-    },
-    {
-        "Circuit ID": "vegas",
-        "Round": "22",
-        "Lap Number": "47",
-        "Driver ID": "zhou",
-        "Time": "1:36.360",
-        "Position": "14"
-    },
-    {
-        "Circuit ID": "vegas",
-        "Round": "22",
-        "Lap Number": "48",
-        "Driver ID": "zhou",
-        "Time": "1:36.609",
-        "Position": "14"
-    },
-    {
-        "Circuit ID": "vegas",
-        "Round": "22",
-        "Lap Number": "49",
-        "Driver ID": "zhou",
-        "Time": "1:36.975",
-        "Position": "14"
-    },
-    {
-        "Circuit ID": "vegas",
-        "Round": "22",
-        "Lap Number": "50",
-        "Driver ID": "zhou",
-        "Time": "1:38.399",
-        "Position": "13"
-    },
-    {
-        "Circuit ID": "vegas",
-        "Round": "22",
-        "Lap Number": "1",
         "Driver ID": "colapinto",
         "Time": "1:55.624",
         "Position": "20"
@@ -3998,6 +4398,406 @@
         "Driver ID": "colapinto",
         "Time": "1:39.731",
         "Position": "14"
+    },
+    {
+        "Circuit ID": "vegas",
+        "Round": "22",
+        "Lap Number": "1",
+        "Driver ID": "stroll",
+        "Time": "1:53.727",
+        "Position": "18"
+    },
+    {
+        "Circuit ID": "vegas",
+        "Round": "22",
+        "Lap Number": "2",
+        "Driver ID": "stroll",
+        "Time": "1:42.752",
+        "Position": "18"
+    },
+    {
+        "Circuit ID": "vegas",
+        "Round": "22",
+        "Lap Number": "3",
+        "Driver ID": "stroll",
+        "Time": "1:40.483",
+        "Position": "18"
+    },
+    {
+        "Circuit ID": "vegas",
+        "Round": "22",
+        "Lap Number": "4",
+        "Driver ID": "stroll",
+        "Time": "1:40.502",
+        "Position": "17"
+    },
+    {
+        "Circuit ID": "vegas",
+        "Round": "22",
+        "Lap Number": "5",
+        "Driver ID": "stroll",
+        "Time": "1:39.447",
+        "Position": "17"
+    },
+    {
+        "Circuit ID": "vegas",
+        "Round": "22",
+        "Lap Number": "6",
+        "Driver ID": "stroll",
+        "Time": "1:39.006",
+        "Position": "17"
+    },
+    {
+        "Circuit ID": "vegas",
+        "Round": "22",
+        "Lap Number": "7",
+        "Driver ID": "stroll",
+        "Time": "1:39.302",
+        "Position": "17"
+    },
+    {
+        "Circuit ID": "vegas",
+        "Round": "22",
+        "Lap Number": "8",
+        "Driver ID": "stroll",
+        "Time": "1:40.168",
+        "Position": "17"
+    },
+    {
+        "Circuit ID": "vegas",
+        "Round": "22",
+        "Lap Number": "9",
+        "Driver ID": "stroll",
+        "Time": "1:45.282",
+        "Position": "19"
+    },
+    {
+        "Circuit ID": "vegas",
+        "Round": "22",
+        "Lap Number": "10",
+        "Driver ID": "stroll",
+        "Time": "2:09.226",
+        "Position": "20"
+    },
+    {
+        "Circuit ID": "vegas",
+        "Round": "22",
+        "Lap Number": "11",
+        "Driver ID": "stroll",
+        "Time": "1:38.691",
+        "Position": "20"
+    },
+    {
+        "Circuit ID": "vegas",
+        "Round": "22",
+        "Lap Number": "12",
+        "Driver ID": "stroll",
+        "Time": "1:39.976",
+        "Position": "20"
+    },
+    {
+        "Circuit ID": "vegas",
+        "Round": "22",
+        "Lap Number": "13",
+        "Driver ID": "stroll",
+        "Time": "1:39.890",
+        "Position": "20"
+    },
+    {
+        "Circuit ID": "vegas",
+        "Round": "22",
+        "Lap Number": "14",
+        "Driver ID": "stroll",
+        "Time": "1:39.287",
+        "Position": "20"
+    },
+    {
+        "Circuit ID": "vegas",
+        "Round": "22",
+        "Lap Number": "15",
+        "Driver ID": "stroll",
+        "Time": "1:38.708",
+        "Position": "20"
+    },
+    {
+        "Circuit ID": "vegas",
+        "Round": "22",
+        "Lap Number": "16",
+        "Driver ID": "stroll",
+        "Time": "1:39.039",
+        "Position": "19"
+    },
+    {
+        "Circuit ID": "vegas",
+        "Round": "22",
+        "Lap Number": "17",
+        "Driver ID": "stroll",
+        "Time": "1:38.598",
+        "Position": "18"
+    },
+    {
+        "Circuit ID": "vegas",
+        "Round": "22",
+        "Lap Number": "18",
+        "Driver ID": "stroll",
+        "Time": "1:38.688",
+        "Position": "16"
+    },
+    {
+        "Circuit ID": "vegas",
+        "Round": "22",
+        "Lap Number": "19",
+        "Driver ID": "stroll",
+        "Time": "1:38.562",
+        "Position": "16"
+    },
+    {
+        "Circuit ID": "vegas",
+        "Round": "22",
+        "Lap Number": "20",
+        "Driver ID": "stroll",
+        "Time": "1:38.424",
+        "Position": "16"
+    },
+    {
+        "Circuit ID": "vegas",
+        "Round": "22",
+        "Lap Number": "21",
+        "Driver ID": "stroll",
+        "Time": "1:38.452",
+        "Position": "16"
+    },
+    {
+        "Circuit ID": "vegas",
+        "Round": "22",
+        "Lap Number": "22",
+        "Driver ID": "stroll",
+        "Time": "1:38.545",
+        "Position": "16"
+    },
+    {
+        "Circuit ID": "vegas",
+        "Round": "22",
+        "Lap Number": "23",
+        "Driver ID": "stroll",
+        "Time": "1:38.614",
+        "Position": "16"
+    },
+    {
+        "Circuit ID": "vegas",
+        "Round": "22",
+        "Lap Number": "24",
+        "Driver ID": "stroll",
+        "Time": "1:38.531",
+        "Position": "16"
+    },
+    {
+        "Circuit ID": "vegas",
+        "Round": "22",
+        "Lap Number": "25",
+        "Driver ID": "stroll",
+        "Time": "1:39.488",
+        "Position": "15"
+    },
+    {
+        "Circuit ID": "vegas",
+        "Round": "22",
+        "Lap Number": "26",
+        "Driver ID": "stroll",
+        "Time": "1:39.384",
+        "Position": "13"
+    },
+    {
+        "Circuit ID": "vegas",
+        "Round": "22",
+        "Lap Number": "27",
+        "Driver ID": "stroll",
+        "Time": "1:39.778",
+        "Position": "13"
+    },
+    {
+        "Circuit ID": "vegas",
+        "Round": "22",
+        "Lap Number": "28",
+        "Driver ID": "stroll",
+        "Time": "1:46.525",
+        "Position": "14"
+    },
+    {
+        "Circuit ID": "vegas",
+        "Round": "22",
+        "Lap Number": "29",
+        "Driver ID": "stroll",
+        "Time": "1:55.150",
+        "Position": "18"
+    },
+    {
+        "Circuit ID": "vegas",
+        "Round": "22",
+        "Lap Number": "30",
+        "Driver ID": "stroll",
+        "Time": "1:38.748",
+        "Position": "18"
+    },
+    {
+        "Circuit ID": "vegas",
+        "Round": "22",
+        "Lap Number": "31",
+        "Driver ID": "stroll",
+        "Time": "1:38.352",
+        "Position": "18"
+    },
+    {
+        "Circuit ID": "vegas",
+        "Round": "22",
+        "Lap Number": "32",
+        "Driver ID": "stroll",
+        "Time": "1:37.893",
+        "Position": "18"
+    },
+    {
+        "Circuit ID": "vegas",
+        "Round": "22",
+        "Lap Number": "33",
+        "Driver ID": "stroll",
+        "Time": "1:37.918",
+        "Position": "18"
+    },
+    {
+        "Circuit ID": "vegas",
+        "Round": "22",
+        "Lap Number": "34",
+        "Driver ID": "stroll",
+        "Time": "1:37.828",
+        "Position": "18"
+    },
+    {
+        "Circuit ID": "vegas",
+        "Round": "22",
+        "Lap Number": "35",
+        "Driver ID": "stroll",
+        "Time": "1:39.434",
+        "Position": "17"
+    },
+    {
+        "Circuit ID": "vegas",
+        "Round": "22",
+        "Lap Number": "36",
+        "Driver ID": "stroll",
+        "Time": "1:38.606",
+        "Position": "17"
+    },
+    {
+        "Circuit ID": "vegas",
+        "Round": "22",
+        "Lap Number": "37",
+        "Driver ID": "stroll",
+        "Time": "1:37.702",
+        "Position": "17"
+    },
+    {
+        "Circuit ID": "vegas",
+        "Round": "22",
+        "Lap Number": "38",
+        "Driver ID": "stroll",
+        "Time": "1:37.955",
+        "Position": "17"
+    },
+    {
+        "Circuit ID": "vegas",
+        "Round": "22",
+        "Lap Number": "39",
+        "Driver ID": "stroll",
+        "Time": "1:38.027",
+        "Position": "16"
+    },
+    {
+        "Circuit ID": "vegas",
+        "Round": "22",
+        "Lap Number": "40",
+        "Driver ID": "stroll",
+        "Time": "1:37.473",
+        "Position": "16"
+    },
+    {
+        "Circuit ID": "vegas",
+        "Round": "22",
+        "Lap Number": "41",
+        "Driver ID": "stroll",
+        "Time": "1:37.470",
+        "Position": "16"
+    },
+    {
+        "Circuit ID": "vegas",
+        "Round": "22",
+        "Lap Number": "42",
+        "Driver ID": "stroll",
+        "Time": "1:37.370",
+        "Position": "16"
+    },
+    {
+        "Circuit ID": "vegas",
+        "Round": "22",
+        "Lap Number": "43",
+        "Driver ID": "stroll",
+        "Time": "1:37.179",
+        "Position": "16"
+    },
+    {
+        "Circuit ID": "vegas",
+        "Round": "22",
+        "Lap Number": "44",
+        "Driver ID": "stroll",
+        "Time": "1:38.920",
+        "Position": "16"
+    },
+    {
+        "Circuit ID": "vegas",
+        "Round": "22",
+        "Lap Number": "45",
+        "Driver ID": "stroll",
+        "Time": "1:37.641",
+        "Position": "15"
+    },
+    {
+        "Circuit ID": "vegas",
+        "Round": "22",
+        "Lap Number": "46",
+        "Driver ID": "stroll",
+        "Time": "1:37.313",
+        "Position": "15"
+    },
+    {
+        "Circuit ID": "vegas",
+        "Round": "22",
+        "Lap Number": "47",
+        "Driver ID": "stroll",
+        "Time": "1:37.239",
+        "Position": "15"
+    },
+    {
+        "Circuit ID": "vegas",
+        "Round": "22",
+        "Lap Number": "48",
+        "Driver ID": "stroll",
+        "Time": "1:37.388",
+        "Position": "15"
+    },
+    {
+        "Circuit ID": "vegas",
+        "Round": "22",
+        "Lap Number": "49",
+        "Driver ID": "stroll",
+        "Time": "1:37.451",
+        "Position": "15"
+    },
+    {
+        "Circuit ID": "vegas",
+        "Round": "22",
+        "Lap Number": "50",
+        "Driver ID": "stroll",
+        "Time": "1:37.939",
+        "Position": "15"
     },
     {
         "Circuit ID": "vegas",
@@ -4795,592 +5595,120 @@
         "Circuit ID": "vegas",
         "Round": "22",
         "Lap Number": "1",
-        "Driver ID": "bottas",
-        "Time": "1:54.609",
-        "Position": "19"
+        "Driver ID": "gasly",
+        "Time": "1:45.330",
+        "Position": "4"
     },
     {
         "Circuit ID": "vegas",
         "Round": "22",
         "Lap Number": "2",
-        "Driver ID": "bottas",
-        "Time": "1:42.556",
-        "Position": "19"
+        "Driver ID": "gasly",
+        "Time": "1:39.956",
+        "Position": "4"
     },
     {
         "Circuit ID": "vegas",
         "Round": "22",
         "Lap Number": "3",
-        "Driver ID": "bottas",
-        "Time": "1:40.669",
-        "Position": "19"
+        "Driver ID": "gasly",
+        "Time": "1:39.234",
+        "Position": "4"
     },
     {
         "Circuit ID": "vegas",
         "Round": "22",
         "Lap Number": "4",
-        "Driver ID": "bottas",
-        "Time": "1:40.459",
-        "Position": "18"
+        "Driver ID": "gasly",
+        "Time": "1:39.635",
+        "Position": "5"
     },
     {
         "Circuit ID": "vegas",
         "Round": "22",
         "Lap Number": "5",
-        "Driver ID": "bottas",
-        "Time": "1:39.498",
-        "Position": "18"
+        "Driver ID": "gasly",
+        "Time": "1:39.240",
+        "Position": "5"
     },
     {
         "Circuit ID": "vegas",
         "Round": "22",
         "Lap Number": "6",
-        "Driver ID": "bottas",
-        "Time": "1:39.750",
-        "Position": "18"
+        "Driver ID": "gasly",
+        "Time": "1:39.408",
+        "Position": "5"
     },
     {
         "Circuit ID": "vegas",
         "Round": "22",
         "Lap Number": "7",
-        "Driver ID": "bottas",
-        "Time": "1:39.581",
-        "Position": "18"
+        "Driver ID": "gasly",
+        "Time": "1:39.668",
+        "Position": "5"
     },
     {
         "Circuit ID": "vegas",
         "Round": "22",
         "Lap Number": "8",
-        "Driver ID": "bottas",
-        "Time": "1:39.930",
-        "Position": "18"
+        "Driver ID": "gasly",
+        "Time": "1:41.258",
+        "Position": "6"
     },
     {
         "Circuit ID": "vegas",
         "Round": "22",
         "Lap Number": "9",
-        "Driver ID": "bottas",
-        "Time": "1:39.566",
-        "Position": "16"
+        "Driver ID": "gasly",
+        "Time": "1:41.862",
+        "Position": "4"
     },
     {
         "Circuit ID": "vegas",
         "Round": "22",
         "Lap Number": "10",
-        "Driver ID": "bottas",
-        "Time": "1:39.756",
-        "Position": "14"
+        "Driver ID": "gasly",
+        "Time": "1:46.263",
+        "Position": "9"
     },
     {
         "Circuit ID": "vegas",
         "Round": "22",
         "Lap Number": "11",
-        "Driver ID": "bottas",
-        "Time": "1:40.916",
-        "Position": "8"
+        "Driver ID": "gasly",
+        "Time": "1:56.714",
+        "Position": "16"
     },
     {
         "Circuit ID": "vegas",
         "Round": "22",
         "Lap Number": "12",
-        "Driver ID": "bottas",
-        "Time": "1:41.845",
-        "Position": "7"
-    },
-    {
-        "Circuit ID": "vegas",
-        "Round": "22",
-        "Lap Number": "13",
-        "Driver ID": "bottas",
-        "Time": "1:42.690",
-        "Position": "10"
-    },
-    {
-        "Circuit ID": "vegas",
-        "Round": "22",
-        "Lap Number": "14",
-        "Driver ID": "bottas",
-        "Time": "1:42.256",
-        "Position": "10"
-    },
-    {
-        "Circuit ID": "vegas",
-        "Round": "22",
-        "Lap Number": "15",
-        "Driver ID": "bottas",
-        "Time": "1:42.233",
-        "Position": "10"
-    },
-    {
-        "Circuit ID": "vegas",
-        "Round": "22",
-        "Lap Number": "16",
-        "Driver ID": "bottas",
-        "Time": "1:43.358",
-        "Position": "11"
-    },
-    {
-        "Circuit ID": "vegas",
-        "Round": "22",
-        "Lap Number": "17",
-        "Driver ID": "bottas",
-        "Time": "1:47.928",
-        "Position": "16"
-    },
-    {
-        "Circuit ID": "vegas",
-        "Round": "22",
-        "Lap Number": "18",
-        "Driver ID": "bottas",
-        "Time": "1:55.486",
-        "Position": "19"
-    },
-    {
-        "Circuit ID": "vegas",
-        "Round": "22",
-        "Lap Number": "19",
-        "Driver ID": "bottas",
-        "Time": "1:39.697",
-        "Position": "19"
-    },
-    {
-        "Circuit ID": "vegas",
-        "Round": "22",
-        "Lap Number": "20",
-        "Driver ID": "bottas",
-        "Time": "1:39.349",
-        "Position": "19"
-    },
-    {
-        "Circuit ID": "vegas",
-        "Round": "22",
-        "Lap Number": "21",
-        "Driver ID": "bottas",
-        "Time": "1:39.342",
-        "Position": "19"
-    },
-    {
-        "Circuit ID": "vegas",
-        "Round": "22",
-        "Lap Number": "22",
-        "Driver ID": "bottas",
-        "Time": "1:39.177",
-        "Position": "19"
-    },
-    {
-        "Circuit ID": "vegas",
-        "Round": "22",
-        "Lap Number": "23",
-        "Driver ID": "bottas",
-        "Time": "1:39.193",
-        "Position": "19"
-    },
-    {
-        "Circuit ID": "vegas",
-        "Round": "22",
-        "Lap Number": "24",
-        "Driver ID": "bottas",
-        "Time": "1:38.631",
-        "Position": "19"
-    },
-    {
-        "Circuit ID": "vegas",
-        "Round": "22",
-        "Lap Number": "25",
-        "Driver ID": "bottas",
-        "Time": "1:39.697",
-        "Position": "19"
-    },
-    {
-        "Circuit ID": "vegas",
-        "Round": "22",
-        "Lap Number": "26",
-        "Driver ID": "bottas",
-        "Time": "1:38.693",
-        "Position": "18"
-    },
-    {
-        "Circuit ID": "vegas",
-        "Round": "22",
-        "Lap Number": "27",
-        "Driver ID": "bottas",
-        "Time": "1:38.676",
-        "Position": "17"
-    },
-    {
-        "Circuit ID": "vegas",
-        "Round": "22",
-        "Lap Number": "28",
-        "Driver ID": "bottas",
-        "Time": "1:38.594",
-        "Position": "17"
-    },
-    {
-        "Circuit ID": "vegas",
-        "Round": "22",
-        "Lap Number": "29",
-        "Driver ID": "bottas",
-        "Time": "1:38.756",
-        "Position": "16"
-    },
-    {
-        "Circuit ID": "vegas",
-        "Round": "22",
-        "Lap Number": "30",
-        "Driver ID": "bottas",
-        "Time": "1:39.452",
-        "Position": "16"
-    },
-    {
-        "Circuit ID": "vegas",
-        "Round": "22",
-        "Lap Number": "31",
-        "Driver ID": "bottas",
-        "Time": "1:40.085",
-        "Position": "16"
-    },
-    {
-        "Circuit ID": "vegas",
-        "Round": "22",
-        "Lap Number": "32",
-        "Driver ID": "bottas",
-        "Time": "1:40.589",
-        "Position": "17"
-    },
-    {
-        "Circuit ID": "vegas",
-        "Round": "22",
-        "Lap Number": "33",
-        "Driver ID": "bottas",
-        "Time": "1:40.195",
-        "Position": "17"
-    },
-    {
-        "Circuit ID": "vegas",
-        "Round": "22",
-        "Lap Number": "34",
-        "Driver ID": "bottas",
-        "Time": "1:40.828",
-        "Position": "17"
-    },
-    {
-        "Circuit ID": "vegas",
-        "Round": "22",
-        "Lap Number": "35",
-        "Driver ID": "bottas",
-        "Time": "1:47.595",
-        "Position": "18"
-    },
-    {
-        "Circuit ID": "vegas",
-        "Round": "22",
-        "Lap Number": "36",
-        "Driver ID": "bottas",
-        "Time": "1:57.069",
-        "Position": "18"
-    },
-    {
-        "Circuit ID": "vegas",
-        "Round": "22",
-        "Lap Number": "37",
-        "Driver ID": "bottas",
-        "Time": "1:37.506",
-        "Position": "18"
-    },
-    {
-        "Circuit ID": "vegas",
-        "Round": "22",
-        "Lap Number": "38",
-        "Driver ID": "bottas",
-        "Time": "1:37.092",
-        "Position": "18"
-    },
-    {
-        "Circuit ID": "vegas",
-        "Round": "22",
-        "Lap Number": "39",
-        "Driver ID": "bottas",
-        "Time": "1:36.890",
-        "Position": "18"
-    },
-    {
-        "Circuit ID": "vegas",
-        "Round": "22",
-        "Lap Number": "40",
-        "Driver ID": "bottas",
-        "Time": "1:39.608",
-        "Position": "18"
-    },
-    {
-        "Circuit ID": "vegas",
-        "Round": "22",
-        "Lap Number": "41",
-        "Driver ID": "bottas",
-        "Time": "1:38.300",
-        "Position": "18"
-    },
-    {
-        "Circuit ID": "vegas",
-        "Round": "22",
-        "Lap Number": "42",
-        "Driver ID": "bottas",
-        "Time": "1:38.341",
-        "Position": "18"
-    },
-    {
-        "Circuit ID": "vegas",
-        "Round": "22",
-        "Lap Number": "43",
-        "Driver ID": "bottas",
-        "Time": "1:37.062",
-        "Position": "18"
-    },
-    {
-        "Circuit ID": "vegas",
-        "Round": "22",
-        "Lap Number": "44",
-        "Driver ID": "bottas",
-        "Time": "1:36.621",
-        "Position": "18"
-    },
-    {
-        "Circuit ID": "vegas",
-        "Round": "22",
-        "Lap Number": "45",
-        "Driver ID": "bottas",
-        "Time": "1:36.762",
-        "Position": "18"
-    },
-    {
-        "Circuit ID": "vegas",
-        "Round": "22",
-        "Lap Number": "46",
-        "Driver ID": "bottas",
-        "Time": "1:36.601",
-        "Position": "18"
-    },
-    {
-        "Circuit ID": "vegas",
-        "Round": "22",
-        "Lap Number": "47",
-        "Driver ID": "bottas",
-        "Time": "1:36.728",
-        "Position": "18"
-    },
-    {
-        "Circuit ID": "vegas",
-        "Round": "22",
-        "Lap Number": "48",
-        "Driver ID": "bottas",
-        "Time": "1:38.301",
-        "Position": "18"
-    },
-    {
-        "Circuit ID": "vegas",
-        "Round": "22",
-        "Lap Number": "49",
-        "Driver ID": "bottas",
-        "Time": "1:38.738",
-        "Position": "18"
-    },
-    {
-        "Circuit ID": "vegas",
-        "Round": "22",
-        "Lap Number": "1",
-        "Driver ID": "albon",
-        "Time": "1:53.147",
-        "Position": "16"
-    },
-    {
-        "Circuit ID": "vegas",
-        "Round": "22",
-        "Lap Number": "2",
-        "Driver ID": "albon",
-        "Time": "1:42.776",
-        "Position": "17"
-    },
-    {
-        "Circuit ID": "vegas",
-        "Round": "22",
-        "Lap Number": "3",
-        "Driver ID": "albon",
-        "Time": "1:40.535",
-        "Position": "17"
-    },
-    {
-        "Circuit ID": "vegas",
-        "Round": "22",
-        "Lap Number": "4",
-        "Driver ID": "albon",
-        "Time": "1:40.351",
-        "Position": "16"
-    },
-    {
-        "Circuit ID": "vegas",
-        "Round": "22",
-        "Lap Number": "5",
-        "Driver ID": "albon",
-        "Time": "1:39.537",
-        "Position": "16"
-    },
-    {
-        "Circuit ID": "vegas",
-        "Round": "22",
-        "Lap Number": "6",
-        "Driver ID": "albon",
-        "Time": "1:38.803",
-        "Position": "16"
-    },
-    {
-        "Circuit ID": "vegas",
-        "Round": "22",
-        "Lap Number": "7",
-        "Driver ID": "albon",
-        "Time": "1:39.597",
-        "Position": "16"
-    },
-    {
-        "Circuit ID": "vegas",
-        "Round": "22",
-        "Lap Number": "8",
-        "Driver ID": "albon",
-        "Time": "1:39.714",
-        "Position": "16"
-    },
-    {
-        "Circuit ID": "vegas",
-        "Round": "22",
-        "Lap Number": "9",
-        "Driver ID": "albon",
-        "Time": "1:44.883",
-        "Position": "18"
-    },
-    {
-        "Circuit ID": "vegas",
-        "Round": "22",
-        "Lap Number": "10",
-        "Driver ID": "albon",
-        "Time": "1:56.773",
-        "Position": "19"
-    },
-    {
-        "Circuit ID": "vegas",
-        "Round": "22",
-        "Lap Number": "11",
-        "Driver ID": "albon",
-        "Time": "1:39.066",
-        "Position": "19"
-    },
-    {
-        "Circuit ID": "vegas",
-        "Round": "22",
-        "Lap Number": "12",
-        "Driver ID": "albon",
-        "Time": "1:39.211",
-        "Position": "17"
-    },
-    {
-        "Circuit ID": "vegas",
-        "Round": "22",
-        "Lap Number": "13",
-        "Driver ID": "albon",
-        "Time": "1:38.600",
-        "Position": "16"
-    },
-    {
-        "Circuit ID": "vegas",
-        "Round": "22",
-        "Lap Number": "14",
-        "Driver ID": "albon",
-        "Time": "1:38.768",
-        "Position": "16"
-    },
-    {
-        "Circuit ID": "vegas",
-        "Round": "22",
-        "Lap Number": "15",
-        "Driver ID": "albon",
-        "Time": "1:38.866",
-        "Position": "14"
-    },
-    {
-        "Circuit ID": "vegas",
-        "Round": "22",
-        "Lap Number": "16",
-        "Driver ID": "albon",
-        "Time": "1:39.506",
+        "Driver ID": "gasly",
+        "Time": "1:38.621",
         "Position": "13"
     },
     {
         "Circuit ID": "vegas",
         "Round": "22",
-        "Lap Number": "17",
-        "Driver ID": "albon",
-        "Time": "1:40.510",
-        "Position": "11"
+        "Lap Number": "13",
+        "Driver ID": "gasly",
+        "Time": "1:38.314",
+        "Position": "13"
     },
     {
         "Circuit ID": "vegas",
         "Round": "22",
-        "Lap Number": "18",
-        "Driver ID": "albon",
-        "Time": "1:38.525",
-        "Position": "9"
+        "Lap Number": "14",
+        "Driver ID": "gasly",
+        "Time": "1:40.248",
+        "Position": "13"
     },
     {
         "Circuit ID": "vegas",
         "Round": "22",
-        "Lap Number": "19",
-        "Driver ID": "albon",
-        "Time": "1:38.660",
-        "Position": "9"
-    },
-    {
-        "Circuit ID": "vegas",
-        "Round": "22",
-        "Lap Number": "20",
-        "Driver ID": "albon",
-        "Time": "1:38.046",
-        "Position": "9"
-    },
-    {
-        "Circuit ID": "vegas",
-        "Round": "22",
-        "Lap Number": "21",
-        "Driver ID": "albon",
-        "Time": "1:38.008",
-        "Position": "9"
-    },
-    {
-        "Circuit ID": "vegas",
-        "Round": "22",
-        "Lap Number": "22",
-        "Driver ID": "albon",
-        "Time": "1:39.147",
-        "Position": "10"
-    },
-    {
-        "Circuit ID": "vegas",
-        "Round": "22",
-        "Lap Number": "23",
-        "Driver ID": "albon",
-        "Time": "1:39.713",
-        "Position": "10"
-    },
-    {
-        "Circuit ID": "vegas",
-        "Round": "22",
-        "Lap Number": "24",
-        "Driver ID": "albon",
-        "Time": "1:40.174",
-        "Position": "10"
-    },
-    {
-        "Circuit ID": "vegas",
-        "Round": "22",
-        "Lap Number": "25",
-        "Driver ID": "albon",
-        "Time": "1:49.105",
-        "Position": "14"
+        "Lap Number": "15",
+        "Driver ID": "gasly",
+        "Time": "1:51.222",
+        "Position": "18"
     }
 ]

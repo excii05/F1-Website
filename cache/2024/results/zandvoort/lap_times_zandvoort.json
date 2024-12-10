@@ -4611,6 +4611,1142 @@
         "Circuit ID": "zandvoort",
         "Round": "15",
         "Lap Number": "1",
+        "Driver ID": "gasly",
+        "Time": "1:24.654",
+        "Position": "7"
+    },
+    {
+        "Circuit ID": "zandvoort",
+        "Round": "15",
+        "Lap Number": "2",
+        "Driver ID": "gasly",
+        "Time": "1:16.896",
+        "Position": "7"
+    },
+    {
+        "Circuit ID": "zandvoort",
+        "Round": "15",
+        "Lap Number": "3",
+        "Driver ID": "gasly",
+        "Time": "1:16.914",
+        "Position": "7"
+    },
+    {
+        "Circuit ID": "zandvoort",
+        "Round": "15",
+        "Lap Number": "4",
+        "Driver ID": "gasly",
+        "Time": "1:16.934",
+        "Position": "7"
+    },
+    {
+        "Circuit ID": "zandvoort",
+        "Round": "15",
+        "Lap Number": "5",
+        "Driver ID": "gasly",
+        "Time": "1:16.735",
+        "Position": "7"
+    },
+    {
+        "Circuit ID": "zandvoort",
+        "Round": "15",
+        "Lap Number": "6",
+        "Driver ID": "gasly",
+        "Time": "1:16.551",
+        "Position": "7"
+    },
+    {
+        "Circuit ID": "zandvoort",
+        "Round": "15",
+        "Lap Number": "7",
+        "Driver ID": "gasly",
+        "Time": "1:16.913",
+        "Position": "7"
+    },
+    {
+        "Circuit ID": "zandvoort",
+        "Round": "15",
+        "Lap Number": "8",
+        "Driver ID": "gasly",
+        "Time": "1:17.081",
+        "Position": "7"
+    },
+    {
+        "Circuit ID": "zandvoort",
+        "Round": "15",
+        "Lap Number": "9",
+        "Driver ID": "gasly",
+        "Time": "1:16.909",
+        "Position": "7"
+    },
+    {
+        "Circuit ID": "zandvoort",
+        "Round": "15",
+        "Lap Number": "10",
+        "Driver ID": "gasly",
+        "Time": "1:16.965",
+        "Position": "7"
+    },
+    {
+        "Circuit ID": "zandvoort",
+        "Round": "15",
+        "Lap Number": "11",
+        "Driver ID": "gasly",
+        "Time": "1:19.464",
+        "Position": "8"
+    },
+    {
+        "Circuit ID": "zandvoort",
+        "Round": "15",
+        "Lap Number": "12",
+        "Driver ID": "gasly",
+        "Time": "1:17.375",
+        "Position": "8"
+    },
+    {
+        "Circuit ID": "zandvoort",
+        "Round": "15",
+        "Lap Number": "13",
+        "Driver ID": "gasly",
+        "Time": "1:16.961",
+        "Position": "8"
+    },
+    {
+        "Circuit ID": "zandvoort",
+        "Round": "15",
+        "Lap Number": "14",
+        "Driver ID": "gasly",
+        "Time": "1:16.929",
+        "Position": "8"
+    },
+    {
+        "Circuit ID": "zandvoort",
+        "Round": "15",
+        "Lap Number": "15",
+        "Driver ID": "gasly",
+        "Time": "1:17.120",
+        "Position": "8"
+    },
+    {
+        "Circuit ID": "zandvoort",
+        "Round": "15",
+        "Lap Number": "16",
+        "Driver ID": "gasly",
+        "Time": "1:16.975",
+        "Position": "8"
+    },
+    {
+        "Circuit ID": "zandvoort",
+        "Round": "15",
+        "Lap Number": "17",
+        "Driver ID": "gasly",
+        "Time": "1:17.261",
+        "Position": "8"
+    },
+    {
+        "Circuit ID": "zandvoort",
+        "Round": "15",
+        "Lap Number": "18",
+        "Driver ID": "gasly",
+        "Time": "1:17.076",
+        "Position": "8"
+    },
+    {
+        "Circuit ID": "zandvoort",
+        "Round": "15",
+        "Lap Number": "19",
+        "Driver ID": "gasly",
+        "Time": "1:17.034",
+        "Position": "8"
+    },
+    {
+        "Circuit ID": "zandvoort",
+        "Round": "15",
+        "Lap Number": "20",
+        "Driver ID": "gasly",
+        "Time": "1:17.135",
+        "Position": "8"
+    },
+    {
+        "Circuit ID": "zandvoort",
+        "Round": "15",
+        "Lap Number": "21",
+        "Driver ID": "gasly",
+        "Time": "1:17.265",
+        "Position": "8"
+    },
+    {
+        "Circuit ID": "zandvoort",
+        "Round": "15",
+        "Lap Number": "22",
+        "Driver ID": "gasly",
+        "Time": "1:17.240",
+        "Position": "8"
+    },
+    {
+        "Circuit ID": "zandvoort",
+        "Round": "15",
+        "Lap Number": "23",
+        "Driver ID": "gasly",
+        "Time": "1:17.090",
+        "Position": "8"
+    },
+    {
+        "Circuit ID": "zandvoort",
+        "Round": "15",
+        "Lap Number": "24",
+        "Driver ID": "gasly",
+        "Time": "1:16.916",
+        "Position": "8"
+    },
+    {
+        "Circuit ID": "zandvoort",
+        "Round": "15",
+        "Lap Number": "25",
+        "Driver ID": "gasly",
+        "Time": "1:17.052",
+        "Position": "7"
+    },
+    {
+        "Circuit ID": "zandvoort",
+        "Round": "15",
+        "Lap Number": "26",
+        "Driver ID": "gasly",
+        "Time": "1:16.972",
+        "Position": "6"
+    },
+    {
+        "Circuit ID": "zandvoort",
+        "Round": "15",
+        "Lap Number": "27",
+        "Driver ID": "gasly",
+        "Time": "1:16.757",
+        "Position": "6"
+    },
+    {
+        "Circuit ID": "zandvoort",
+        "Round": "15",
+        "Lap Number": "28",
+        "Driver ID": "gasly",
+        "Time": "1:17.516",
+        "Position": "7"
+    },
+    {
+        "Circuit ID": "zandvoort",
+        "Round": "15",
+        "Lap Number": "29",
+        "Driver ID": "gasly",
+        "Time": "1:19.144",
+        "Position": "8"
+    },
+    {
+        "Circuit ID": "zandvoort",
+        "Round": "15",
+        "Lap Number": "30",
+        "Driver ID": "gasly",
+        "Time": "1:17.752",
+        "Position": "7"
+    },
+    {
+        "Circuit ID": "zandvoort",
+        "Round": "15",
+        "Lap Number": "31",
+        "Driver ID": "gasly",
+        "Time": "1:17.353",
+        "Position": "6"
+    },
+    {
+        "Circuit ID": "zandvoort",
+        "Round": "15",
+        "Lap Number": "32",
+        "Driver ID": "gasly",
+        "Time": "1:20.262",
+        "Position": "7"
+    },
+    {
+        "Circuit ID": "zandvoort",
+        "Round": "15",
+        "Lap Number": "33",
+        "Driver ID": "gasly",
+        "Time": "1:37.706",
+        "Position": "12"
+    },
+    {
+        "Circuit ID": "zandvoort",
+        "Round": "15",
+        "Lap Number": "34",
+        "Driver ID": "gasly",
+        "Time": "1:15.577",
+        "Position": "12"
+    },
+    {
+        "Circuit ID": "zandvoort",
+        "Round": "15",
+        "Lap Number": "35",
+        "Driver ID": "gasly",
+        "Time": "1:15.264",
+        "Position": "12"
+    },
+    {
+        "Circuit ID": "zandvoort",
+        "Round": "15",
+        "Lap Number": "36",
+        "Driver ID": "gasly",
+        "Time": "1:16.516",
+        "Position": "12"
+    },
+    {
+        "Circuit ID": "zandvoort",
+        "Round": "15",
+        "Lap Number": "37",
+        "Driver ID": "gasly",
+        "Time": "1:16.055",
+        "Position": "12"
+    },
+    {
+        "Circuit ID": "zandvoort",
+        "Round": "15",
+        "Lap Number": "38",
+        "Driver ID": "gasly",
+        "Time": "1:15.926",
+        "Position": "12"
+    },
+    {
+        "Circuit ID": "zandvoort",
+        "Round": "15",
+        "Lap Number": "39",
+        "Driver ID": "gasly",
+        "Time": "1:18.161",
+        "Position": "11"
+    },
+    {
+        "Circuit ID": "zandvoort",
+        "Round": "15",
+        "Lap Number": "40",
+        "Driver ID": "gasly",
+        "Time": "1:16.394",
+        "Position": "10"
+    },
+    {
+        "Circuit ID": "zandvoort",
+        "Round": "15",
+        "Lap Number": "41",
+        "Driver ID": "gasly",
+        "Time": "1:15.858",
+        "Position": "10"
+    },
+    {
+        "Circuit ID": "zandvoort",
+        "Round": "15",
+        "Lap Number": "42",
+        "Driver ID": "gasly",
+        "Time": "1:16.021",
+        "Position": "10"
+    },
+    {
+        "Circuit ID": "zandvoort",
+        "Round": "15",
+        "Lap Number": "43",
+        "Driver ID": "gasly",
+        "Time": "1:15.978",
+        "Position": "10"
+    },
+    {
+        "Circuit ID": "zandvoort",
+        "Round": "15",
+        "Lap Number": "44",
+        "Driver ID": "gasly",
+        "Time": "1:15.672",
+        "Position": "10"
+    },
+    {
+        "Circuit ID": "zandvoort",
+        "Round": "15",
+        "Lap Number": "45",
+        "Driver ID": "gasly",
+        "Time": "1:15.621",
+        "Position": "10"
+    },
+    {
+        "Circuit ID": "zandvoort",
+        "Round": "15",
+        "Lap Number": "46",
+        "Driver ID": "gasly",
+        "Time": "1:15.611",
+        "Position": "10"
+    },
+    {
+        "Circuit ID": "zandvoort",
+        "Round": "15",
+        "Lap Number": "47",
+        "Driver ID": "gasly",
+        "Time": "1:16.002",
+        "Position": "10"
+    },
+    {
+        "Circuit ID": "zandvoort",
+        "Round": "15",
+        "Lap Number": "48",
+        "Driver ID": "gasly",
+        "Time": "1:15.366",
+        "Position": "10"
+    },
+    {
+        "Circuit ID": "zandvoort",
+        "Round": "15",
+        "Lap Number": "49",
+        "Driver ID": "gasly",
+        "Time": "1:15.606",
+        "Position": "10"
+    },
+    {
+        "Circuit ID": "zandvoort",
+        "Round": "15",
+        "Lap Number": "50",
+        "Driver ID": "gasly",
+        "Time": "1:15.643",
+        "Position": "10"
+    },
+    {
+        "Circuit ID": "zandvoort",
+        "Round": "15",
+        "Lap Number": "51",
+        "Driver ID": "gasly",
+        "Time": "1:15.483",
+        "Position": "10"
+    },
+    {
+        "Circuit ID": "zandvoort",
+        "Round": "15",
+        "Lap Number": "52",
+        "Driver ID": "gasly",
+        "Time": "1:15.196",
+        "Position": "10"
+    },
+    {
+        "Circuit ID": "zandvoort",
+        "Round": "15",
+        "Lap Number": "53",
+        "Driver ID": "gasly",
+        "Time": "1:14.987",
+        "Position": "10"
+    },
+    {
+        "Circuit ID": "zandvoort",
+        "Round": "15",
+        "Lap Number": "54",
+        "Driver ID": "gasly",
+        "Time": "1:14.855",
+        "Position": "10"
+    },
+    {
+        "Circuit ID": "zandvoort",
+        "Round": "15",
+        "Lap Number": "55",
+        "Driver ID": "gasly",
+        "Time": "1:15.256",
+        "Position": "10"
+    },
+    {
+        "Circuit ID": "zandvoort",
+        "Round": "15",
+        "Lap Number": "56",
+        "Driver ID": "gasly",
+        "Time": "1:15.219",
+        "Position": "10"
+    },
+    {
+        "Circuit ID": "zandvoort",
+        "Round": "15",
+        "Lap Number": "57",
+        "Driver ID": "gasly",
+        "Time": "1:15.147",
+        "Position": "10"
+    },
+    {
+        "Circuit ID": "zandvoort",
+        "Round": "15",
+        "Lap Number": "58",
+        "Driver ID": "gasly",
+        "Time": "1:15.794",
+        "Position": "10"
+    },
+    {
+        "Circuit ID": "zandvoort",
+        "Round": "15",
+        "Lap Number": "59",
+        "Driver ID": "gasly",
+        "Time": "1:15.583",
+        "Position": "10"
+    },
+    {
+        "Circuit ID": "zandvoort",
+        "Round": "15",
+        "Lap Number": "60",
+        "Driver ID": "gasly",
+        "Time": "1:16.583",
+        "Position": "9"
+    },
+    {
+        "Circuit ID": "zandvoort",
+        "Round": "15",
+        "Lap Number": "61",
+        "Driver ID": "gasly",
+        "Time": "1:16.371",
+        "Position": "9"
+    },
+    {
+        "Circuit ID": "zandvoort",
+        "Round": "15",
+        "Lap Number": "62",
+        "Driver ID": "gasly",
+        "Time": "1:15.240",
+        "Position": "9"
+    },
+    {
+        "Circuit ID": "zandvoort",
+        "Round": "15",
+        "Lap Number": "63",
+        "Driver ID": "gasly",
+        "Time": "1:15.351",
+        "Position": "9"
+    },
+    {
+        "Circuit ID": "zandvoort",
+        "Round": "15",
+        "Lap Number": "64",
+        "Driver ID": "gasly",
+        "Time": "1:15.381",
+        "Position": "9"
+    },
+    {
+        "Circuit ID": "zandvoort",
+        "Round": "15",
+        "Lap Number": "65",
+        "Driver ID": "gasly",
+        "Time": "1:15.494",
+        "Position": "9"
+    },
+    {
+        "Circuit ID": "zandvoort",
+        "Round": "15",
+        "Lap Number": "66",
+        "Driver ID": "gasly",
+        "Time": "1:15.329",
+        "Position": "9"
+    },
+    {
+        "Circuit ID": "zandvoort",
+        "Round": "15",
+        "Lap Number": "67",
+        "Driver ID": "gasly",
+        "Time": "1:15.067",
+        "Position": "9"
+    },
+    {
+        "Circuit ID": "zandvoort",
+        "Round": "15",
+        "Lap Number": "68",
+        "Driver ID": "gasly",
+        "Time": "1:15.331",
+        "Position": "9"
+    },
+    {
+        "Circuit ID": "zandvoort",
+        "Round": "15",
+        "Lap Number": "69",
+        "Driver ID": "gasly",
+        "Time": "1:15.281",
+        "Position": "9"
+    },
+    {
+        "Circuit ID": "zandvoort",
+        "Round": "15",
+        "Lap Number": "70",
+        "Driver ID": "gasly",
+        "Time": "1:15.444",
+        "Position": "9"
+    },
+    {
+        "Circuit ID": "zandvoort",
+        "Round": "15",
+        "Lap Number": "71",
+        "Driver ID": "gasly",
+        "Time": "1:15.553",
+        "Position": "9"
+    },
+    {
+        "Circuit ID": "zandvoort",
+        "Round": "15",
+        "Lap Number": "1",
+        "Driver ID": "alonso",
+        "Time": "1:24.726",
+        "Position": "8"
+    },
+    {
+        "Circuit ID": "zandvoort",
+        "Round": "15",
+        "Lap Number": "2",
+        "Driver ID": "alonso",
+        "Time": "1:17.392",
+        "Position": "8"
+    },
+    {
+        "Circuit ID": "zandvoort",
+        "Round": "15",
+        "Lap Number": "3",
+        "Driver ID": "alonso",
+        "Time": "1:16.865",
+        "Position": "8"
+    },
+    {
+        "Circuit ID": "zandvoort",
+        "Round": "15",
+        "Lap Number": "4",
+        "Driver ID": "alonso",
+        "Time": "1:16.661",
+        "Position": "8"
+    },
+    {
+        "Circuit ID": "zandvoort",
+        "Round": "15",
+        "Lap Number": "5",
+        "Driver ID": "alonso",
+        "Time": "1:17.135",
+        "Position": "8"
+    },
+    {
+        "Circuit ID": "zandvoort",
+        "Round": "15",
+        "Lap Number": "6",
+        "Driver ID": "alonso",
+        "Time": "1:16.700",
+        "Position": "8"
+    },
+    {
+        "Circuit ID": "zandvoort",
+        "Round": "15",
+        "Lap Number": "7",
+        "Driver ID": "alonso",
+        "Time": "1:17.167",
+        "Position": "8"
+    },
+    {
+        "Circuit ID": "zandvoort",
+        "Round": "15",
+        "Lap Number": "8",
+        "Driver ID": "alonso",
+        "Time": "1:17.995",
+        "Position": "9"
+    },
+    {
+        "Circuit ID": "zandvoort",
+        "Round": "15",
+        "Lap Number": "9",
+        "Driver ID": "alonso",
+        "Time": "1:17.448",
+        "Position": "9"
+    },
+    {
+        "Circuit ID": "zandvoort",
+        "Round": "15",
+        "Lap Number": "10",
+        "Driver ID": "alonso",
+        "Time": "1:17.528",
+        "Position": "9"
+    },
+    {
+        "Circuit ID": "zandvoort",
+        "Round": "15",
+        "Lap Number": "11",
+        "Driver ID": "alonso",
+        "Time": "1:17.672",
+        "Position": "9"
+    },
+    {
+        "Circuit ID": "zandvoort",
+        "Round": "15",
+        "Lap Number": "12",
+        "Driver ID": "alonso",
+        "Time": "1:17.509",
+        "Position": "9"
+    },
+    {
+        "Circuit ID": "zandvoort",
+        "Round": "15",
+        "Lap Number": "13",
+        "Driver ID": "alonso",
+        "Time": "1:17.112",
+        "Position": "9"
+    },
+    {
+        "Circuit ID": "zandvoort",
+        "Round": "15",
+        "Lap Number": "14",
+        "Driver ID": "alonso",
+        "Time": "1:17.270",
+        "Position": "9"
+    },
+    {
+        "Circuit ID": "zandvoort",
+        "Round": "15",
+        "Lap Number": "15",
+        "Driver ID": "alonso",
+        "Time": "1:17.287",
+        "Position": "9"
+    },
+    {
+        "Circuit ID": "zandvoort",
+        "Round": "15",
+        "Lap Number": "16",
+        "Driver ID": "alonso",
+        "Time": "1:18.446",
+        "Position": "10"
+    },
+    {
+        "Circuit ID": "zandvoort",
+        "Round": "15",
+        "Lap Number": "17",
+        "Driver ID": "alonso",
+        "Time": "1:17.508",
+        "Position": "10"
+    },
+    {
+        "Circuit ID": "zandvoort",
+        "Round": "15",
+        "Lap Number": "18",
+        "Driver ID": "alonso",
+        "Time": "1:17.478",
+        "Position": "10"
+    },
+    {
+        "Circuit ID": "zandvoort",
+        "Round": "15",
+        "Lap Number": "19",
+        "Driver ID": "alonso",
+        "Time": "1:17.336",
+        "Position": "10"
+    },
+    {
+        "Circuit ID": "zandvoort",
+        "Round": "15",
+        "Lap Number": "20",
+        "Driver ID": "alonso",
+        "Time": "1:16.815",
+        "Position": "10"
+    },
+    {
+        "Circuit ID": "zandvoort",
+        "Round": "15",
+        "Lap Number": "21",
+        "Driver ID": "alonso",
+        "Time": "1:16.963",
+        "Position": "10"
+    },
+    {
+        "Circuit ID": "zandvoort",
+        "Round": "15",
+        "Lap Number": "22",
+        "Driver ID": "alonso",
+        "Time": "1:17.138",
+        "Position": "10"
+    },
+    {
+        "Circuit ID": "zandvoort",
+        "Round": "15",
+        "Lap Number": "23",
+        "Driver ID": "alonso",
+        "Time": "1:17.830",
+        "Position": "10"
+    },
+    {
+        "Circuit ID": "zandvoort",
+        "Round": "15",
+        "Lap Number": "24",
+        "Driver ID": "alonso",
+        "Time": "1:17.006",
+        "Position": "9"
+    },
+    {
+        "Circuit ID": "zandvoort",
+        "Round": "15",
+        "Lap Number": "25",
+        "Driver ID": "alonso",
+        "Time": "1:17.156",
+        "Position": "9"
+    },
+    {
+        "Circuit ID": "zandvoort",
+        "Round": "15",
+        "Lap Number": "26",
+        "Driver ID": "alonso",
+        "Time": "1:18.012",
+        "Position": "9"
+    },
+    {
+        "Circuit ID": "zandvoort",
+        "Round": "15",
+        "Lap Number": "27",
+        "Driver ID": "alonso",
+        "Time": "1:17.174",
+        "Position": "9"
+    },
+    {
+        "Circuit ID": "zandvoort",
+        "Round": "15",
+        "Lap Number": "28",
+        "Driver ID": "alonso",
+        "Time": "1:17.217",
+        "Position": "9"
+    },
+    {
+        "Circuit ID": "zandvoort",
+        "Round": "15",
+        "Lap Number": "29",
+        "Driver ID": "alonso",
+        "Time": "1:17.457",
+        "Position": "9"
+    },
+    {
+        "Circuit ID": "zandvoort",
+        "Round": "15",
+        "Lap Number": "30",
+        "Driver ID": "alonso",
+        "Time": "1:17.251",
+        "Position": "8"
+    },
+    {
+        "Circuit ID": "zandvoort",
+        "Round": "15",
+        "Lap Number": "31",
+        "Driver ID": "alonso",
+        "Time": "1:21.976",
+        "Position": "9"
+    },
+    {
+        "Circuit ID": "zandvoort",
+        "Round": "15",
+        "Lap Number": "32",
+        "Driver ID": "alonso",
+        "Time": "1:35.807",
+        "Position": "14"
+    },
+    {
+        "Circuit ID": "zandvoort",
+        "Round": "15",
+        "Lap Number": "33",
+        "Driver ID": "alonso",
+        "Time": "1:15.521",
+        "Position": "13"
+    },
+    {
+        "Circuit ID": "zandvoort",
+        "Round": "15",
+        "Lap Number": "34",
+        "Driver ID": "alonso",
+        "Time": "1:14.758",
+        "Position": "13"
+    },
+    {
+        "Circuit ID": "zandvoort",
+        "Round": "15",
+        "Lap Number": "35",
+        "Driver ID": "alonso",
+        "Time": "1:15.741",
+        "Position": "13"
+    },
+    {
+        "Circuit ID": "zandvoort",
+        "Round": "15",
+        "Lap Number": "36",
+        "Driver ID": "alonso",
+        "Time": "1:16.762",
+        "Position": "13"
+    },
+    {
+        "Circuit ID": "zandvoort",
+        "Round": "15",
+        "Lap Number": "37",
+        "Driver ID": "alonso",
+        "Time": "1:16.125",
+        "Position": "13"
+    },
+    {
+        "Circuit ID": "zandvoort",
+        "Round": "15",
+        "Lap Number": "38",
+        "Driver ID": "alonso",
+        "Time": "1:16.138",
+        "Position": "13"
+    },
+    {
+        "Circuit ID": "zandvoort",
+        "Round": "15",
+        "Lap Number": "39",
+        "Driver ID": "alonso",
+        "Time": "1:16.357",
+        "Position": "12"
+    },
+    {
+        "Circuit ID": "zandvoort",
+        "Round": "15",
+        "Lap Number": "40",
+        "Driver ID": "alonso",
+        "Time": "1:17.345",
+        "Position": "12"
+    },
+    {
+        "Circuit ID": "zandvoort",
+        "Round": "15",
+        "Lap Number": "41",
+        "Driver ID": "alonso",
+        "Time": "1:16.670",
+        "Position": "11"
+    },
+    {
+        "Circuit ID": "zandvoort",
+        "Round": "15",
+        "Lap Number": "42",
+        "Driver ID": "alonso",
+        "Time": "1:16.349",
+        "Position": "11"
+    },
+    {
+        "Circuit ID": "zandvoort",
+        "Round": "15",
+        "Lap Number": "43",
+        "Driver ID": "alonso",
+        "Time": "1:15.865",
+        "Position": "11"
+    },
+    {
+        "Circuit ID": "zandvoort",
+        "Round": "15",
+        "Lap Number": "44",
+        "Driver ID": "alonso",
+        "Time": "1:15.823",
+        "Position": "11"
+    },
+    {
+        "Circuit ID": "zandvoort",
+        "Round": "15",
+        "Lap Number": "45",
+        "Driver ID": "alonso",
+        "Time": "1:15.985",
+        "Position": "11"
+    },
+    {
+        "Circuit ID": "zandvoort",
+        "Round": "15",
+        "Lap Number": "46",
+        "Driver ID": "alonso",
+        "Time": "1:15.831",
+        "Position": "11"
+    },
+    {
+        "Circuit ID": "zandvoort",
+        "Round": "15",
+        "Lap Number": "47",
+        "Driver ID": "alonso",
+        "Time": "1:15.749",
+        "Position": "11"
+    },
+    {
+        "Circuit ID": "zandvoort",
+        "Round": "15",
+        "Lap Number": "48",
+        "Driver ID": "alonso",
+        "Time": "1:15.481",
+        "Position": "11"
+    },
+    {
+        "Circuit ID": "zandvoort",
+        "Round": "15",
+        "Lap Number": "49",
+        "Driver ID": "alonso",
+        "Time": "1:15.647",
+        "Position": "11"
+    },
+    {
+        "Circuit ID": "zandvoort",
+        "Round": "15",
+        "Lap Number": "50",
+        "Driver ID": "alonso",
+        "Time": "1:15.268",
+        "Position": "11"
+    },
+    {
+        "Circuit ID": "zandvoort",
+        "Round": "15",
+        "Lap Number": "51",
+        "Driver ID": "alonso",
+        "Time": "1:15.014",
+        "Position": "11"
+    },
+    {
+        "Circuit ID": "zandvoort",
+        "Round": "15",
+        "Lap Number": "52",
+        "Driver ID": "alonso",
+        "Time": "1:15.151",
+        "Position": "11"
+    },
+    {
+        "Circuit ID": "zandvoort",
+        "Round": "15",
+        "Lap Number": "53",
+        "Driver ID": "alonso",
+        "Time": "1:15.048",
+        "Position": "11"
+    },
+    {
+        "Circuit ID": "zandvoort",
+        "Round": "15",
+        "Lap Number": "54",
+        "Driver ID": "alonso",
+        "Time": "1:15.039",
+        "Position": "11"
+    },
+    {
+        "Circuit ID": "zandvoort",
+        "Round": "15",
+        "Lap Number": "55",
+        "Driver ID": "alonso",
+        "Time": "1:15.242",
+        "Position": "11"
+    },
+    {
+        "Circuit ID": "zandvoort",
+        "Round": "15",
+        "Lap Number": "56",
+        "Driver ID": "alonso",
+        "Time": "1:15.193",
+        "Position": "11"
+    },
+    {
+        "Circuit ID": "zandvoort",
+        "Round": "15",
+        "Lap Number": "57",
+        "Driver ID": "alonso",
+        "Time": "1:16.238",
+        "Position": "11"
+    },
+    {
+        "Circuit ID": "zandvoort",
+        "Round": "15",
+        "Lap Number": "58",
+        "Driver ID": "alonso",
+        "Time": "1:17.097",
+        "Position": "11"
+    },
+    {
+        "Circuit ID": "zandvoort",
+        "Round": "15",
+        "Lap Number": "59",
+        "Driver ID": "alonso",
+        "Time": "1:15.352",
+        "Position": "11"
+    },
+    {
+        "Circuit ID": "zandvoort",
+        "Round": "15",
+        "Lap Number": "60",
+        "Driver ID": "alonso",
+        "Time": "1:15.621",
+        "Position": "11"
+    },
+    {
+        "Circuit ID": "zandvoort",
+        "Round": "15",
+        "Lap Number": "61",
+        "Driver ID": "alonso",
+        "Time": "1:15.506",
+        "Position": "11"
+    },
+    {
+        "Circuit ID": "zandvoort",
+        "Round": "15",
+        "Lap Number": "62",
+        "Driver ID": "alonso",
+        "Time": "1:15.984",
+        "Position": "11"
+    },
+    {
+        "Circuit ID": "zandvoort",
+        "Round": "15",
+        "Lap Number": "63",
+        "Driver ID": "alonso",
+        "Time": "1:15.653",
+        "Position": "10"
+    },
+    {
+        "Circuit ID": "zandvoort",
+        "Round": "15",
+        "Lap Number": "64",
+        "Driver ID": "alonso",
+        "Time": "1:15.297",
+        "Position": "10"
+    },
+    {
+        "Circuit ID": "zandvoort",
+        "Round": "15",
+        "Lap Number": "65",
+        "Driver ID": "alonso",
+        "Time": "1:15.198",
+        "Position": "10"
+    },
+    {
+        "Circuit ID": "zandvoort",
+        "Round": "15",
+        "Lap Number": "66",
+        "Driver ID": "alonso",
+        "Time": "1:15.285",
+        "Position": "10"
+    },
+    {
+        "Circuit ID": "zandvoort",
+        "Round": "15",
+        "Lap Number": "67",
+        "Driver ID": "alonso",
+        "Time": "1:15.650",
+        "Position": "10"
+    },
+    {
+        "Circuit ID": "zandvoort",
+        "Round": "15",
+        "Lap Number": "68",
+        "Driver ID": "alonso",
+        "Time": "1:16.027",
+        "Position": "10"
+    },
+    {
+        "Circuit ID": "zandvoort",
+        "Round": "15",
+        "Lap Number": "69",
+        "Driver ID": "alonso",
+        "Time": "1:16.211",
+        "Position": "10"
+    },
+    {
+        "Circuit ID": "zandvoort",
+        "Round": "15",
+        "Lap Number": "70",
+        "Driver ID": "alonso",
+        "Time": "1:15.822",
+        "Position": "10"
+    },
+    {
+        "Circuit ID": "zandvoort",
+        "Round": "15",
+        "Lap Number": "71",
+        "Driver ID": "alonso",
+        "Time": "1:14.972",
+        "Position": "10"
+    },
+    {
+        "Circuit ID": "zandvoort",
+        "Round": "15",
+        "Lap Number": "1",
         "Driver ID": "hulkenberg",
         "Time": "1:26.432",
         "Position": "11"
@@ -6310,574 +7446,6 @@
         "Driver ID": "stroll",
         "Time": "1:16.120",
         "Position": "12"
-    },
-    {
-        "Circuit ID": "zandvoort",
-        "Round": "15",
-        "Lap Number": "1",
-        "Driver ID": "albon",
-        "Time": "1:28.535",
-        "Position": "17"
-    },
-    {
-        "Circuit ID": "zandvoort",
-        "Round": "15",
-        "Lap Number": "2",
-        "Driver ID": "albon",
-        "Time": "1:19.114",
-        "Position": "17"
-    },
-    {
-        "Circuit ID": "zandvoort",
-        "Round": "15",
-        "Lap Number": "3",
-        "Driver ID": "albon",
-        "Time": "1:18.072",
-        "Position": "17"
-    },
-    {
-        "Circuit ID": "zandvoort",
-        "Round": "15",
-        "Lap Number": "4",
-        "Driver ID": "albon",
-        "Time": "1:17.747",
-        "Position": "17"
-    },
-    {
-        "Circuit ID": "zandvoort",
-        "Round": "15",
-        "Lap Number": "5",
-        "Driver ID": "albon",
-        "Time": "1:17.438",
-        "Position": "17"
-    },
-    {
-        "Circuit ID": "zandvoort",
-        "Round": "15",
-        "Lap Number": "6",
-        "Driver ID": "albon",
-        "Time": "1:16.959",
-        "Position": "17"
-    },
-    {
-        "Circuit ID": "zandvoort",
-        "Round": "15",
-        "Lap Number": "7",
-        "Driver ID": "albon",
-        "Time": "1:17.558",
-        "Position": "17"
-    },
-    {
-        "Circuit ID": "zandvoort",
-        "Round": "15",
-        "Lap Number": "8",
-        "Driver ID": "albon",
-        "Time": "1:17.266",
-        "Position": "17"
-    },
-    {
-        "Circuit ID": "zandvoort",
-        "Round": "15",
-        "Lap Number": "9",
-        "Driver ID": "albon",
-        "Time": "1:17.898",
-        "Position": "17"
-    },
-    {
-        "Circuit ID": "zandvoort",
-        "Round": "15",
-        "Lap Number": "10",
-        "Driver ID": "albon",
-        "Time": "1:17.291",
-        "Position": "17"
-    },
-    {
-        "Circuit ID": "zandvoort",
-        "Round": "15",
-        "Lap Number": "11",
-        "Driver ID": "albon",
-        "Time": "1:17.427",
-        "Position": "17"
-    },
-    {
-        "Circuit ID": "zandvoort",
-        "Round": "15",
-        "Lap Number": "12",
-        "Driver ID": "albon",
-        "Time": "1:20.841",
-        "Position": "18"
-    },
-    {
-        "Circuit ID": "zandvoort",
-        "Round": "15",
-        "Lap Number": "13",
-        "Driver ID": "albon",
-        "Time": "1:35.384",
-        "Position": "20"
-    },
-    {
-        "Circuit ID": "zandvoort",
-        "Round": "15",
-        "Lap Number": "14",
-        "Driver ID": "albon",
-        "Time": "1:16.267",
-        "Position": "20"
-    },
-    {
-        "Circuit ID": "zandvoort",
-        "Round": "15",
-        "Lap Number": "15",
-        "Driver ID": "albon",
-        "Time": "1:15.520",
-        "Position": "20"
-    },
-    {
-        "Circuit ID": "zandvoort",
-        "Round": "15",
-        "Lap Number": "16",
-        "Driver ID": "albon",
-        "Time": "1:16.007",
-        "Position": "19"
-    },
-    {
-        "Circuit ID": "zandvoort",
-        "Round": "15",
-        "Lap Number": "17",
-        "Driver ID": "albon",
-        "Time": "1:16.622",
-        "Position": "19"
-    },
-    {
-        "Circuit ID": "zandvoort",
-        "Round": "15",
-        "Lap Number": "18",
-        "Driver ID": "albon",
-        "Time": "1:16.601",
-        "Position": "18"
-    },
-    {
-        "Circuit ID": "zandvoort",
-        "Round": "15",
-        "Lap Number": "19",
-        "Driver ID": "albon",
-        "Time": "1:17.533",
-        "Position": "18"
-    },
-    {
-        "Circuit ID": "zandvoort",
-        "Round": "15",
-        "Lap Number": "20",
-        "Driver ID": "albon",
-        "Time": "1:18.639",
-        "Position": "18"
-    },
-    {
-        "Circuit ID": "zandvoort",
-        "Round": "15",
-        "Lap Number": "21",
-        "Driver ID": "albon",
-        "Time": "1:16.401",
-        "Position": "18"
-    },
-    {
-        "Circuit ID": "zandvoort",
-        "Round": "15",
-        "Lap Number": "22",
-        "Driver ID": "albon",
-        "Time": "1:16.184",
-        "Position": "18"
-    },
-    {
-        "Circuit ID": "zandvoort",
-        "Round": "15",
-        "Lap Number": "23",
-        "Driver ID": "albon",
-        "Time": "1:16.176",
-        "Position": "17"
-    },
-    {
-        "Circuit ID": "zandvoort",
-        "Round": "15",
-        "Lap Number": "24",
-        "Driver ID": "albon",
-        "Time": "1:16.317",
-        "Position": "17"
-    },
-    {
-        "Circuit ID": "zandvoort",
-        "Round": "15",
-        "Lap Number": "25",
-        "Driver ID": "albon",
-        "Time": "1:16.490",
-        "Position": "17"
-    },
-    {
-        "Circuit ID": "zandvoort",
-        "Round": "15",
-        "Lap Number": "26",
-        "Driver ID": "albon",
-        "Time": "1:16.357",
-        "Position": "17"
-    },
-    {
-        "Circuit ID": "zandvoort",
-        "Round": "15",
-        "Lap Number": "27",
-        "Driver ID": "albon",
-        "Time": "1:16.516",
-        "Position": "17"
-    },
-    {
-        "Circuit ID": "zandvoort",
-        "Round": "15",
-        "Lap Number": "28",
-        "Driver ID": "albon",
-        "Time": "1:16.642",
-        "Position": "17"
-    },
-    {
-        "Circuit ID": "zandvoort",
-        "Round": "15",
-        "Lap Number": "29",
-        "Driver ID": "albon",
-        "Time": "1:17.328",
-        "Position": "17"
-    },
-    {
-        "Circuit ID": "zandvoort",
-        "Round": "15",
-        "Lap Number": "30",
-        "Driver ID": "albon",
-        "Time": "1:17.169",
-        "Position": "15"
-    },
-    {
-        "Circuit ID": "zandvoort",
-        "Round": "15",
-        "Lap Number": "31",
-        "Driver ID": "albon",
-        "Time": "1:16.790",
-        "Position": "14"
-    },
-    {
-        "Circuit ID": "zandvoort",
-        "Round": "15",
-        "Lap Number": "32",
-        "Driver ID": "albon",
-        "Time": "1:16.801",
-        "Position": "12"
-    },
-    {
-        "Circuit ID": "zandvoort",
-        "Round": "15",
-        "Lap Number": "33",
-        "Driver ID": "albon",
-        "Time": "1:16.386",
-        "Position": "11"
-    },
-    {
-        "Circuit ID": "zandvoort",
-        "Round": "15",
-        "Lap Number": "34",
-        "Driver ID": "albon",
-        "Time": "1:16.264",
-        "Position": "11"
-    },
-    {
-        "Circuit ID": "zandvoort",
-        "Round": "15",
-        "Lap Number": "35",
-        "Driver ID": "albon",
-        "Time": "1:16.260",
-        "Position": "11"
-    },
-    {
-        "Circuit ID": "zandvoort",
-        "Round": "15",
-        "Lap Number": "36",
-        "Driver ID": "albon",
-        "Time": "1:16.535",
-        "Position": "11"
-    },
-    {
-        "Circuit ID": "zandvoort",
-        "Round": "15",
-        "Lap Number": "37",
-        "Driver ID": "albon",
-        "Time": "1:16.411",
-        "Position": "11"
-    },
-    {
-        "Circuit ID": "zandvoort",
-        "Round": "15",
-        "Lap Number": "38",
-        "Driver ID": "albon",
-        "Time": "1:16.450",
-        "Position": "11"
-    },
-    {
-        "Circuit ID": "zandvoort",
-        "Round": "15",
-        "Lap Number": "39",
-        "Driver ID": "albon",
-        "Time": "1:20.078",
-        "Position": "10"
-    },
-    {
-        "Circuit ID": "zandvoort",
-        "Round": "15",
-        "Lap Number": "40",
-        "Driver ID": "albon",
-        "Time": "1:17.452",
-        "Position": "11"
-    },
-    {
-        "Circuit ID": "zandvoort",
-        "Round": "15",
-        "Lap Number": "41",
-        "Driver ID": "albon",
-        "Time": "1:17.330",
-        "Position": "12"
-    },
-    {
-        "Circuit ID": "zandvoort",
-        "Round": "15",
-        "Lap Number": "42",
-        "Driver ID": "albon",
-        "Time": "1:16.849",
-        "Position": "12"
-    },
-    {
-        "Circuit ID": "zandvoort",
-        "Round": "15",
-        "Lap Number": "43",
-        "Driver ID": "albon",
-        "Time": "1:17.775",
-        "Position": "13"
-    },
-    {
-        "Circuit ID": "zandvoort",
-        "Round": "15",
-        "Lap Number": "44",
-        "Driver ID": "albon",
-        "Time": "1:16.456",
-        "Position": "13"
-    },
-    {
-        "Circuit ID": "zandvoort",
-        "Round": "15",
-        "Lap Number": "45",
-        "Driver ID": "albon",
-        "Time": "1:16.457",
-        "Position": "13"
-    },
-    {
-        "Circuit ID": "zandvoort",
-        "Round": "15",
-        "Lap Number": "46",
-        "Driver ID": "albon",
-        "Time": "1:17.244",
-        "Position": "14"
-    },
-    {
-        "Circuit ID": "zandvoort",
-        "Round": "15",
-        "Lap Number": "47",
-        "Driver ID": "albon",
-        "Time": "1:17.653",
-        "Position": "14"
-    },
-    {
-        "Circuit ID": "zandvoort",
-        "Round": "15",
-        "Lap Number": "48",
-        "Driver ID": "albon",
-        "Time": "1:16.608",
-        "Position": "14"
-    },
-    {
-        "Circuit ID": "zandvoort",
-        "Round": "15",
-        "Lap Number": "49",
-        "Driver ID": "albon",
-        "Time": "1:16.373",
-        "Position": "14"
-    },
-    {
-        "Circuit ID": "zandvoort",
-        "Round": "15",
-        "Lap Number": "50",
-        "Driver ID": "albon",
-        "Time": "1:16.318",
-        "Position": "14"
-    },
-    {
-        "Circuit ID": "zandvoort",
-        "Round": "15",
-        "Lap Number": "51",
-        "Driver ID": "albon",
-        "Time": "1:15.903",
-        "Position": "14"
-    },
-    {
-        "Circuit ID": "zandvoort",
-        "Round": "15",
-        "Lap Number": "52",
-        "Driver ID": "albon",
-        "Time": "1:16.044",
-        "Position": "14"
-    },
-    {
-        "Circuit ID": "zandvoort",
-        "Round": "15",
-        "Lap Number": "53",
-        "Driver ID": "albon",
-        "Time": "1:16.491",
-        "Position": "14"
-    },
-    {
-        "Circuit ID": "zandvoort",
-        "Round": "15",
-        "Lap Number": "54",
-        "Driver ID": "albon",
-        "Time": "1:19.155",
-        "Position": "14"
-    },
-    {
-        "Circuit ID": "zandvoort",
-        "Round": "15",
-        "Lap Number": "55",
-        "Driver ID": "albon",
-        "Time": "1:34.753",
-        "Position": "18"
-    },
-    {
-        "Circuit ID": "zandvoort",
-        "Round": "15",
-        "Lap Number": "56",
-        "Driver ID": "albon",
-        "Time": "1:15.334",
-        "Position": "18"
-    },
-    {
-        "Circuit ID": "zandvoort",
-        "Round": "15",
-        "Lap Number": "57",
-        "Driver ID": "albon",
-        "Time": "1:15.897",
-        "Position": "17"
-    },
-    {
-        "Circuit ID": "zandvoort",
-        "Round": "15",
-        "Lap Number": "58",
-        "Driver ID": "albon",
-        "Time": "1:16.040",
-        "Position": "15"
-    },
-    {
-        "Circuit ID": "zandvoort",
-        "Round": "15",
-        "Lap Number": "59",
-        "Driver ID": "albon",
-        "Time": "1:14.787",
-        "Position": "15"
-    },
-    {
-        "Circuit ID": "zandvoort",
-        "Round": "15",
-        "Lap Number": "60",
-        "Driver ID": "albon",
-        "Time": "1:14.603",
-        "Position": "15"
-    },
-    {
-        "Circuit ID": "zandvoort",
-        "Round": "15",
-        "Lap Number": "61",
-        "Driver ID": "albon",
-        "Time": "1:15.257",
-        "Position": "15"
-    },
-    {
-        "Circuit ID": "zandvoort",
-        "Round": "15",
-        "Lap Number": "62",
-        "Driver ID": "albon",
-        "Time": "1:14.847",
-        "Position": "15"
-    },
-    {
-        "Circuit ID": "zandvoort",
-        "Round": "15",
-        "Lap Number": "63",
-        "Driver ID": "albon",
-        "Time": "1:15.283",
-        "Position": "15"
-    },
-    {
-        "Circuit ID": "zandvoort",
-        "Round": "15",
-        "Lap Number": "64",
-        "Driver ID": "albon",
-        "Time": "1:14.694",
-        "Position": "15"
-    },
-    {
-        "Circuit ID": "zandvoort",
-        "Round": "15",
-        "Lap Number": "65",
-        "Driver ID": "albon",
-        "Time": "1:15.102",
-        "Position": "15"
-    },
-    {
-        "Circuit ID": "zandvoort",
-        "Round": "15",
-        "Lap Number": "66",
-        "Driver ID": "albon",
-        "Time": "1:15.095",
-        "Position": "15"
-    },
-    {
-        "Circuit ID": "zandvoort",
-        "Round": "15",
-        "Lap Number": "67",
-        "Driver ID": "albon",
-        "Time": "1:14.999",
-        "Position": "15"
-    },
-    {
-        "Circuit ID": "zandvoort",
-        "Round": "15",
-        "Lap Number": "68",
-        "Driver ID": "albon",
-        "Time": "1:15.010",
-        "Position": "15"
-    },
-    {
-        "Circuit ID": "zandvoort",
-        "Round": "15",
-        "Lap Number": "69",
-        "Driver ID": "albon",
-        "Time": "1:14.877",
-        "Position": "14"
-    },
-    {
-        "Circuit ID": "zandvoort",
-        "Round": "15",
-        "Lap Number": "70",
-        "Driver ID": "albon",
-        "Time": "1:14.836",
-        "Position": "14"
-    },
-    {
-        "Circuit ID": "zandvoort",
-        "Round": "15",
-        "Lap Number": "71",
-        "Driver ID": "albon",
-        "Time": "1:14.434",
-        "Position": "14"
     },
     {
         "Circuit ID": "zandvoort",
@@ -9150,6 +9718,566 @@
         "Driver ID": "kevin_magnussen",
         "Time": "1:16.293",
         "Position": "18"
+    },
+    {
+        "Circuit ID": "zandvoort",
+        "Round": "15",
+        "Lap Number": "1",
+        "Driver ID": "bottas",
+        "Time": "1:27.361",
+        "Position": "14"
+    },
+    {
+        "Circuit ID": "zandvoort",
+        "Round": "15",
+        "Lap Number": "2",
+        "Driver ID": "bottas",
+        "Time": "1:18.403",
+        "Position": "14"
+    },
+    {
+        "Circuit ID": "zandvoort",
+        "Round": "15",
+        "Lap Number": "3",
+        "Driver ID": "bottas",
+        "Time": "1:18.388",
+        "Position": "14"
+    },
+    {
+        "Circuit ID": "zandvoort",
+        "Round": "15",
+        "Lap Number": "4",
+        "Driver ID": "bottas",
+        "Time": "1:17.218",
+        "Position": "14"
+    },
+    {
+        "Circuit ID": "zandvoort",
+        "Round": "15",
+        "Lap Number": "5",
+        "Driver ID": "bottas",
+        "Time": "1:17.343",
+        "Position": "14"
+    },
+    {
+        "Circuit ID": "zandvoort",
+        "Round": "15",
+        "Lap Number": "6",
+        "Driver ID": "bottas",
+        "Time": "1:16.882",
+        "Position": "14"
+    },
+    {
+        "Circuit ID": "zandvoort",
+        "Round": "15",
+        "Lap Number": "7",
+        "Driver ID": "bottas",
+        "Time": "1:17.439",
+        "Position": "14"
+    },
+    {
+        "Circuit ID": "zandvoort",
+        "Round": "15",
+        "Lap Number": "8",
+        "Driver ID": "bottas",
+        "Time": "1:17.204",
+        "Position": "14"
+    },
+    {
+        "Circuit ID": "zandvoort",
+        "Round": "15",
+        "Lap Number": "9",
+        "Driver ID": "bottas",
+        "Time": "1:17.746",
+        "Position": "14"
+    },
+    {
+        "Circuit ID": "zandvoort",
+        "Round": "15",
+        "Lap Number": "10",
+        "Driver ID": "bottas",
+        "Time": "1:17.577",
+        "Position": "14"
+    },
+    {
+        "Circuit ID": "zandvoort",
+        "Round": "15",
+        "Lap Number": "11",
+        "Driver ID": "bottas",
+        "Time": "1:17.539",
+        "Position": "14"
+    },
+    {
+        "Circuit ID": "zandvoort",
+        "Round": "15",
+        "Lap Number": "12",
+        "Driver ID": "bottas",
+        "Time": "1:17.841",
+        "Position": "14"
+    },
+    {
+        "Circuit ID": "zandvoort",
+        "Round": "15",
+        "Lap Number": "13",
+        "Driver ID": "bottas",
+        "Time": "1:18.003",
+        "Position": "14"
+    },
+    {
+        "Circuit ID": "zandvoort",
+        "Round": "15",
+        "Lap Number": "14",
+        "Driver ID": "bottas",
+        "Time": "1:18.092",
+        "Position": "14"
+    },
+    {
+        "Circuit ID": "zandvoort",
+        "Round": "15",
+        "Lap Number": "15",
+        "Driver ID": "bottas",
+        "Time": "1:22.849",
+        "Position": "16"
+    },
+    {
+        "Circuit ID": "zandvoort",
+        "Round": "15",
+        "Lap Number": "16",
+        "Driver ID": "bottas",
+        "Time": "1:35.848",
+        "Position": "20"
+    },
+    {
+        "Circuit ID": "zandvoort",
+        "Round": "15",
+        "Lap Number": "17",
+        "Driver ID": "bottas",
+        "Time": "1:16.073",
+        "Position": "20"
+    },
+    {
+        "Circuit ID": "zandvoort",
+        "Round": "15",
+        "Lap Number": "18",
+        "Driver ID": "bottas",
+        "Time": "1:16.399",
+        "Position": "20"
+    },
+    {
+        "Circuit ID": "zandvoort",
+        "Round": "15",
+        "Lap Number": "19",
+        "Driver ID": "bottas",
+        "Time": "1:16.582",
+        "Position": "19"
+    },
+    {
+        "Circuit ID": "zandvoort",
+        "Round": "15",
+        "Lap Number": "20",
+        "Driver ID": "bottas",
+        "Time": "1:16.898",
+        "Position": "19"
+    },
+    {
+        "Circuit ID": "zandvoort",
+        "Round": "15",
+        "Lap Number": "21",
+        "Driver ID": "bottas",
+        "Time": "1:16.847",
+        "Position": "19"
+    },
+    {
+        "Circuit ID": "zandvoort",
+        "Round": "15",
+        "Lap Number": "22",
+        "Driver ID": "bottas",
+        "Time": "1:16.694",
+        "Position": "19"
+    },
+    {
+        "Circuit ID": "zandvoort",
+        "Round": "15",
+        "Lap Number": "23",
+        "Driver ID": "bottas",
+        "Time": "1:16.681",
+        "Position": "18"
+    },
+    {
+        "Circuit ID": "zandvoort",
+        "Round": "15",
+        "Lap Number": "24",
+        "Driver ID": "bottas",
+        "Time": "1:16.594",
+        "Position": "18"
+    },
+    {
+        "Circuit ID": "zandvoort",
+        "Round": "15",
+        "Lap Number": "25",
+        "Driver ID": "bottas",
+        "Time": "1:16.892",
+        "Position": "18"
+    },
+    {
+        "Circuit ID": "zandvoort",
+        "Round": "15",
+        "Lap Number": "26",
+        "Driver ID": "bottas",
+        "Time": "1:16.799",
+        "Position": "18"
+    },
+    {
+        "Circuit ID": "zandvoort",
+        "Round": "15",
+        "Lap Number": "27",
+        "Driver ID": "bottas",
+        "Time": "1:16.813",
+        "Position": "18"
+    },
+    {
+        "Circuit ID": "zandvoort",
+        "Round": "15",
+        "Lap Number": "28",
+        "Driver ID": "bottas",
+        "Time": "1:17.221",
+        "Position": "18"
+    },
+    {
+        "Circuit ID": "zandvoort",
+        "Round": "15",
+        "Lap Number": "29",
+        "Driver ID": "bottas",
+        "Time": "1:17.253",
+        "Position": "18"
+    },
+    {
+        "Circuit ID": "zandvoort",
+        "Round": "15",
+        "Lap Number": "30",
+        "Driver ID": "bottas",
+        "Time": "1:17.034",
+        "Position": "17"
+    },
+    {
+        "Circuit ID": "zandvoort",
+        "Round": "15",
+        "Lap Number": "31",
+        "Driver ID": "bottas",
+        "Time": "1:17.164",
+        "Position": "15"
+    },
+    {
+        "Circuit ID": "zandvoort",
+        "Round": "15",
+        "Lap Number": "32",
+        "Driver ID": "bottas",
+        "Time": "1:17.841",
+        "Position": "15"
+    },
+    {
+        "Circuit ID": "zandvoort",
+        "Round": "15",
+        "Lap Number": "33",
+        "Driver ID": "bottas",
+        "Time": "1:18.390",
+        "Position": "15"
+    },
+    {
+        "Circuit ID": "zandvoort",
+        "Round": "15",
+        "Lap Number": "34",
+        "Driver ID": "bottas",
+        "Time": "1:17.260",
+        "Position": "15"
+    },
+    {
+        "Circuit ID": "zandvoort",
+        "Round": "15",
+        "Lap Number": "35",
+        "Driver ID": "bottas",
+        "Time": "1:16.797",
+        "Position": "15"
+    },
+    {
+        "Circuit ID": "zandvoort",
+        "Round": "15",
+        "Lap Number": "36",
+        "Driver ID": "bottas",
+        "Time": "1:17.807",
+        "Position": "16"
+    },
+    {
+        "Circuit ID": "zandvoort",
+        "Round": "15",
+        "Lap Number": "37",
+        "Driver ID": "bottas",
+        "Time": "1:17.160",
+        "Position": "16"
+    },
+    {
+        "Circuit ID": "zandvoort",
+        "Round": "15",
+        "Lap Number": "38",
+        "Driver ID": "bottas",
+        "Time": "1:17.492",
+        "Position": "16"
+    },
+    {
+        "Circuit ID": "zandvoort",
+        "Round": "15",
+        "Lap Number": "39",
+        "Driver ID": "bottas",
+        "Time": "1:17.256",
+        "Position": "16"
+    },
+    {
+        "Circuit ID": "zandvoort",
+        "Round": "15",
+        "Lap Number": "40",
+        "Driver ID": "bottas",
+        "Time": "1:17.148",
+        "Position": "16"
+    },
+    {
+        "Circuit ID": "zandvoort",
+        "Round": "15",
+        "Lap Number": "41",
+        "Driver ID": "bottas",
+        "Time": "1:17.507",
+        "Position": "15"
+    },
+    {
+        "Circuit ID": "zandvoort",
+        "Round": "15",
+        "Lap Number": "42",
+        "Driver ID": "bottas",
+        "Time": "1:18.697",
+        "Position": "15"
+    },
+    {
+        "Circuit ID": "zandvoort",
+        "Round": "15",
+        "Lap Number": "43",
+        "Driver ID": "bottas",
+        "Time": "1:20.969",
+        "Position": "18"
+    },
+    {
+        "Circuit ID": "zandvoort",
+        "Round": "15",
+        "Lap Number": "44",
+        "Driver ID": "bottas",
+        "Time": "1:35.854",
+        "Position": "19"
+    },
+    {
+        "Circuit ID": "zandvoort",
+        "Round": "15",
+        "Lap Number": "45",
+        "Driver ID": "bottas",
+        "Time": "1:15.822",
+        "Position": "19"
+    },
+    {
+        "Circuit ID": "zandvoort",
+        "Round": "15",
+        "Lap Number": "46",
+        "Driver ID": "bottas",
+        "Time": "1:16.152",
+        "Position": "19"
+    },
+    {
+        "Circuit ID": "zandvoort",
+        "Round": "15",
+        "Lap Number": "47",
+        "Driver ID": "bottas",
+        "Time": "1:18.314",
+        "Position": "19"
+    },
+    {
+        "Circuit ID": "zandvoort",
+        "Round": "15",
+        "Lap Number": "48",
+        "Driver ID": "bottas",
+        "Time": "1:16.144",
+        "Position": "19"
+    },
+    {
+        "Circuit ID": "zandvoort",
+        "Round": "15",
+        "Lap Number": "49",
+        "Driver ID": "bottas",
+        "Time": "1:16.626",
+        "Position": "19"
+    },
+    {
+        "Circuit ID": "zandvoort",
+        "Round": "15",
+        "Lap Number": "50",
+        "Driver ID": "bottas",
+        "Time": "1:16.348",
+        "Position": "19"
+    },
+    {
+        "Circuit ID": "zandvoort",
+        "Round": "15",
+        "Lap Number": "51",
+        "Driver ID": "bottas",
+        "Time": "1:16.453",
+        "Position": "19"
+    },
+    {
+        "Circuit ID": "zandvoort",
+        "Round": "15",
+        "Lap Number": "52",
+        "Driver ID": "bottas",
+        "Time": "1:16.430",
+        "Position": "19"
+    },
+    {
+        "Circuit ID": "zandvoort",
+        "Round": "15",
+        "Lap Number": "53",
+        "Driver ID": "bottas",
+        "Time": "1:16.357",
+        "Position": "19"
+    },
+    {
+        "Circuit ID": "zandvoort",
+        "Round": "15",
+        "Lap Number": "54",
+        "Driver ID": "bottas",
+        "Time": "1:16.066",
+        "Position": "19"
+    },
+    {
+        "Circuit ID": "zandvoort",
+        "Round": "15",
+        "Lap Number": "55",
+        "Driver ID": "bottas",
+        "Time": "1:16.304",
+        "Position": "19"
+    },
+    {
+        "Circuit ID": "zandvoort",
+        "Round": "15",
+        "Lap Number": "56",
+        "Driver ID": "bottas",
+        "Time": "1:17.851",
+        "Position": "19"
+    },
+    {
+        "Circuit ID": "zandvoort",
+        "Round": "15",
+        "Lap Number": "57",
+        "Driver ID": "bottas",
+        "Time": "1:18.463",
+        "Position": "19"
+    },
+    {
+        "Circuit ID": "zandvoort",
+        "Round": "15",
+        "Lap Number": "58",
+        "Driver ID": "bottas",
+        "Time": "1:16.069",
+        "Position": "19"
+    },
+    {
+        "Circuit ID": "zandvoort",
+        "Round": "15",
+        "Lap Number": "59",
+        "Driver ID": "bottas",
+        "Time": "1:16.225",
+        "Position": "19"
+    },
+    {
+        "Circuit ID": "zandvoort",
+        "Round": "15",
+        "Lap Number": "60",
+        "Driver ID": "bottas",
+        "Time": "1:16.639",
+        "Position": "19"
+    },
+    {
+        "Circuit ID": "zandvoort",
+        "Round": "15",
+        "Lap Number": "61",
+        "Driver ID": "bottas",
+        "Time": "1:16.334",
+        "Position": "19"
+    },
+    {
+        "Circuit ID": "zandvoort",
+        "Round": "15",
+        "Lap Number": "62",
+        "Driver ID": "bottas",
+        "Time": "1:16.595",
+        "Position": "19"
+    },
+    {
+        "Circuit ID": "zandvoort",
+        "Round": "15",
+        "Lap Number": "63",
+        "Driver ID": "bottas",
+        "Time": "1:16.373",
+        "Position": "19"
+    },
+    {
+        "Circuit ID": "zandvoort",
+        "Round": "15",
+        "Lap Number": "64",
+        "Driver ID": "bottas",
+        "Time": "1:16.361",
+        "Position": "19"
+    },
+    {
+        "Circuit ID": "zandvoort",
+        "Round": "15",
+        "Lap Number": "65",
+        "Driver ID": "bottas",
+        "Time": "1:16.234",
+        "Position": "19"
+    },
+    {
+        "Circuit ID": "zandvoort",
+        "Round": "15",
+        "Lap Number": "66",
+        "Driver ID": "bottas",
+        "Time": "1:16.479",
+        "Position": "19"
+    },
+    {
+        "Circuit ID": "zandvoort",
+        "Round": "15",
+        "Lap Number": "67",
+        "Driver ID": "bottas",
+        "Time": "1:16.389",
+        "Position": "19"
+    },
+    {
+        "Circuit ID": "zandvoort",
+        "Round": "15",
+        "Lap Number": "68",
+        "Driver ID": "bottas",
+        "Time": "1:16.394",
+        "Position": "19"
+    },
+    {
+        "Circuit ID": "zandvoort",
+        "Round": "15",
+        "Lap Number": "69",
+        "Driver ID": "bottas",
+        "Time": "1:17.284",
+        "Position": "19"
+    },
+    {
+        "Circuit ID": "zandvoort",
+        "Round": "15",
+        "Lap Number": "70",
+        "Driver ID": "bottas",
+        "Time": "1:16.206",
+        "Position": "19"
     },
     {
         "Circuit ID": "zandvoort",

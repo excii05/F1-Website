@@ -1,4 +1,6 @@
+import logging
 from datetime import datetime
+from collections import deque
 from data_fetcher import (
     fetch_driver_standings,
     fetch_constructor_standings,
@@ -8,13 +10,47 @@ from data_fetcher import (
     fetch_lap_times
 )
 
+# Logging konfigurieren
+logging.basicConfig(
+    filename='error_log.log',
+    level=logging.ERROR,
+    format='%(asctime)s - %(levelname)s - %(message)s'
+)
+
+# Fehlerhafte Abfragen queue
+failed_queries = deque()
+
+# Helper-Funktion für Debug-Meldungen
+def debug_message(message):
+    print(message)
+    logging.debug(message)
+
+# Helper-Funktion für das Verarbeiten von Fehlern
+def handle_error(context, error, keep_data=None):
+    error_message = f"Error in {context}: {error}"
+    debug_message(error_message)
+    if keep_data:
+        debug_message("Retaining existing data due to error.")
+    failed_queries.append(context)
+
+# Fallback-Mechanismus ausführen
+def process_failed_queries():
+    while failed_queries:
+        context = failed_queries.popleft()
+        debug_message(f"Retrying failed query: {context}...")
+        try:
+            # Wiederholung der entsprechenden Funktion
+            context()
+        except Exception as e:
+            logging.error(f"Final failure in {context}: {e}")
+
 # Driver Standings
 def process_driver_standings(year):
     """Holt und verarbeitet die Fahrerwertung."""
-    print(f"Fetching driver standings for {year}...")
+    debug_message(f"Fetching driver standings for {year}...")
     raw_data = fetch_driver_standings(year)
     if not raw_data:
-        print(f"Error: No driver standings data fetched for {year}.")
+        handle_error(lambda: process_driver_standings(year), "No data fetched", keep_data=None)
         return []
 
     driver_standings = []
@@ -34,18 +70,18 @@ def process_driver_standings(year):
                     'Team': constructors[0].get('name', 'Unknown Team') if constructors else 'No Team'
                 })
             except KeyError as e:
-                print(f"Error processing driver standings entry: {entry}. Missing key: {e}")
+                handle_error("processing driver standings entry", e)
     except KeyError as e:
-        print(f"Error processing driver standings data. Missing key: {e}")
+        handle_error("processing driver standings data", e)
     return driver_standings
 
-
+# Constructor Standings
 def process_constructor_standings(year):
     """Holt und verarbeitet die Teamwertung."""
-    print(f"Fetching constructor standings for {year}...")
+    debug_message(f"Fetching constructor standings for {year}...")
     raw_data = fetch_constructor_standings(year)
     if not raw_data:
-        print(f"Error: No constructor standings data fetched for {year}.")
+        handle_error(lambda: process_constructor_standings(year), "No data fetched", keep_data=None)
         return []
 
     constructor_standings = []
@@ -63,18 +99,18 @@ def process_constructor_standings(year):
                     'Wins': entry.get('wins', '0')
                 })
             except KeyError as e:
-                print(f"Error processing constructor standings entry: {entry}. Missing key: {e}")
+                handle_error("processing constructor standings entry", e)
     except KeyError as e:
-        print(f"Error processing constructor standings data. Missing key: {e}")
+        handle_error("processing constructor standings data", e)
     return constructor_standings
 
-
+# Race Schedule
 def process_race_schedule(year):
     """Holt und verarbeitet den Rennkalender, inkl. Sessions."""
-    print(f"Fetching race schedule for {year}...")
+    debug_message(f"Fetching race schedule for {year}...")
     raw_data = fetch_race_schedule(year)
     if not raw_data:
-        print(f"Error: No race schedule data fetched for {year}.")
+        handle_error(lambda: process_race_schedule(year), "No data fetched", keep_data=None)
         return []
 
     race_schedule = []
@@ -86,17 +122,15 @@ def process_race_schedule(year):
                 country = circuit['Location'].get('country', 'Unknown Country')
 
                 # API-Abfrage für Sessions
-                print(f"Fetching session schedule for {country} in {year}...")
+                debug_message(f"Fetching session schedule for {country} in {year}...")
                 session_data = fetch_session_schedule(country, year)
 
                 # Sitzungen verarbeiten
                 sessions = []
                 for session in session_data:
-                    # Formatieren von Date Start und Date End
                     date_start = session.get("date_start", "Unknown")
                     date_end = session.get("date_end", "Unknown")
 
-                    # Überprüfen und Formatieren, falls Datum vorhanden ist
                     formatted_date_start = (
                         datetime.strptime(date_start.split("+")[0], '%Y-%m-%dT%H:%M:%S').strftime('%d.%m.%Y %H:%M')
                         if date_start != "Unknown" else "Unknown"
@@ -114,7 +148,6 @@ def process_race_schedule(year):
                         "Date End": formatted_date_end
                     })
 
-                # Rennkalender-Eintrag mit Sitzungen erstellen
                 race_schedule.append({
                     'ID': circuit.get('circuitId', 'Unknown Circuit ID'),
                     'Round': race.get('round', 'Unknown Round'),
@@ -124,31 +157,32 @@ def process_race_schedule(year):
                     },
                     'Circuit Name': circuit.get('circuitName', 'Unknown Circuit Name'),
                     'Date': datetime.strptime(race['date'], '%Y-%m-%d').strftime('%d.%m.%Y'),
-                    'Sessions': sessions  # Sitzungen hinzufügen
+                    'Sessions': sessions
                 })
             except KeyError as e:
-                print(f"Error processing race schedule entry: {race}. Missing key: {e}")
+                handle_error("processing race schedule entry", e)
     except KeyError as e:
-        print(f"Error processing race schedule data. Missing key: {e}")
+        handle_error("processing race schedule data", e)
     return race_schedule
 
-
+# Race Results
 def process_race_results(year, race_schedule):
-    # Holt und verarbeitet die Rennergebnisse.
-    print(f"Fetching race results for the {year} season...")
+    """Holt und verarbeitet die Rennergebnisse."""
+    debug_message(f"Fetching race results for the {year} season...")
     results = []
     for race in race_schedule:
         round_number = race['Round']
         circuit_id = race['ID']
+        debug_message(f"Fetching results for round {round_number} ({circuit_id})...")
         raw_data = fetch_race_results(year, round_number)
         if not raw_data:
-            print(f"Error: No data fetched for race round {round_number}.")
+            handle_error(lambda: process_race_results(year, race_schedule), f"No data fetched for round {round_number}", keep_data=results)
             continue
 
         try:
             races = raw_data['MRData']['RaceTable']['Races']
             if not races:
-                print(f"Warning: No races found for round {round_number}.")
+                debug_message(f"Warning: No races found for round {round_number}.")
                 continue
 
             for result in races[0]['Results']:
@@ -168,54 +202,51 @@ def process_race_results(year, race_schedule):
                         'DNF': result.get('status') if result.get('status') != 'Finished' else None
                     })
                 except KeyError as e:
-                    print(f"Error processing race result: {result}. Missing key: {e}")
+                    handle_error(f"processing race result for round {round_number}", e, keep_data=results)
 
         except KeyError as e:
-            print(f"Error processing race data for round {round_number}. Missing key: {e}")
+            handle_error(f"processing race data for round {round_number}", e, keep_data=results)
 
     return results
 
 def process_lap_times(year, race_schedule):
-    """Holt und verarbeitet die Rundenzeiten für alle Fahrer in jedem Rennen."""
-    print(f"Fetching lap times for the {year} season...")
+    """Holt und verarbeitet die Rundenzeiten."""
+    debug_message(f"Fetching lap times for the {year} season...")
     results = []
 
     for race in race_schedule:
         round_number = race['Round']
         circuit_id = race['ID']
-        print(f"Fetching lap times for round {round_number} ({circuit_id}) in {year}...")
+        debug_message(f"Fetching lap times for round {round_number} ({circuit_id})...")
 
-        # Holen der Rundenzeiten für jedes Rennen für alle Fahrer
         raw_data = fetch_race_results(year, round_number)
         if not raw_data:
-            print(f"Error: No race results fetched for round {round_number} in {year}.")
+            handle_error(lambda: process_lap_times(year, race_schedule), f"No data fetched for lap times in round {round_number}", keep_data=results)
             continue
 
         try:
             races = raw_data['MRData']['RaceTable']['Races']
             if not races:
-                print(f"Warning: No race data found for round {round_number}.")
+                debug_message(f"Warning: No race data found for round {round_number}.")
                 continue
 
             results_for_race = races[0].get('Results', [])
             if not results_for_race:
-                print(f"Warning: No results found for round {round_number}.")
+                debug_message(f"Warning: No results found for round {round_number}.")
                 continue
 
-            # Für jeden Fahrer im Rennen die Rundenzeiten abfragen
             for result in results_for_race:
                 driver_id = result['Driver']['driverId']
                 lap_data = fetch_lap_times(year, round_number, driver_id)
                 if not lap_data:
-                    print(f"Error: No lap data fetched for driver {driver_id} in round {round_number}.")
+                    handle_error(f"Fetching lap times for driver {driver_id} in round {round_number}", "No data fetched", keep_data=results)
                     continue
 
                 laps = lap_data['MRData']['RaceTable']['Races'][0].get('Laps', [])
                 if not laps:
-                    print(f"Warning: No lap data found for driver {driver_id} in round {round_number}.")
+                    debug_message(f"Warning: No lap data found for driver {driver_id} in round {round_number}.")
                     continue
 
-                # Verarbeitung der Rundenzeiten
                 for lap in laps:
                     lap_number = lap.get("number")
                     for timing in lap.get("Timings", []):
@@ -226,7 +257,6 @@ def process_lap_times(year, race_schedule):
                             "Position": timing.get("position"),
                         }
 
-                        # Speichern der Rundenzeiten für dieses Rennen
                         results.append({
                             "Circuit ID": circuit_id,
                             "Round": round_number,
@@ -237,11 +267,11 @@ def process_lap_times(year, race_schedule):
                         })
 
         except KeyError as e:
-            print(f"Error processing lap times for round {round_number}: Missing key {e}")
+            handle_error(f"processing lap times for round {round_number}", e, keep_data=results)
         except IndexError as e:
-            print(f"Error processing lap times for round {round_number}: {e}")
+            handle_error(f"processing lap times for round {round_number}", e, keep_data=results)
 
     return results
 
-
-
+# Fallback-Prozesse ausführen, falls Fehler aufgetreten sind
+process_failed_queries()

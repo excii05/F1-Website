@@ -1011,6 +1011,510 @@
         "Circuit ID": "imola",
         "Round": "7",
         "Lap Number": "1",
+        "Driver ID": "leclerc",
+        "Time": "1:24.580",
+        "Position": "3"
+    },
+    {
+        "Circuit ID": "imola",
+        "Round": "7",
+        "Lap Number": "2",
+        "Driver ID": "leclerc",
+        "Time": "1:20.926",
+        "Position": "3"
+    },
+    {
+        "Circuit ID": "imola",
+        "Round": "7",
+        "Lap Number": "3",
+        "Driver ID": "leclerc",
+        "Time": "1:20.931",
+        "Position": "3"
+    },
+    {
+        "Circuit ID": "imola",
+        "Round": "7",
+        "Lap Number": "4",
+        "Driver ID": "leclerc",
+        "Time": "1:21.279",
+        "Position": "3"
+    },
+    {
+        "Circuit ID": "imola",
+        "Round": "7",
+        "Lap Number": "5",
+        "Driver ID": "leclerc",
+        "Time": "1:21.122",
+        "Position": "3"
+    },
+    {
+        "Circuit ID": "imola",
+        "Round": "7",
+        "Lap Number": "6",
+        "Driver ID": "leclerc",
+        "Time": "1:21.043",
+        "Position": "3"
+    },
+    {
+        "Circuit ID": "imola",
+        "Round": "7",
+        "Lap Number": "7",
+        "Driver ID": "leclerc",
+        "Time": "1:21.025",
+        "Position": "3"
+    },
+    {
+        "Circuit ID": "imola",
+        "Round": "7",
+        "Lap Number": "8",
+        "Driver ID": "leclerc",
+        "Time": "1:21.116",
+        "Position": "3"
+    },
+    {
+        "Circuit ID": "imola",
+        "Round": "7",
+        "Lap Number": "9",
+        "Driver ID": "leclerc",
+        "Time": "1:21.215",
+        "Position": "3"
+    },
+    {
+        "Circuit ID": "imola",
+        "Round": "7",
+        "Lap Number": "10",
+        "Driver ID": "leclerc",
+        "Time": "1:21.387",
+        "Position": "3"
+    },
+    {
+        "Circuit ID": "imola",
+        "Round": "7",
+        "Lap Number": "11",
+        "Driver ID": "leclerc",
+        "Time": "1:21.147",
+        "Position": "3"
+    },
+    {
+        "Circuit ID": "imola",
+        "Round": "7",
+        "Lap Number": "12",
+        "Driver ID": "leclerc",
+        "Time": "1:21.349",
+        "Position": "3"
+    },
+    {
+        "Circuit ID": "imola",
+        "Round": "7",
+        "Lap Number": "13",
+        "Driver ID": "leclerc",
+        "Time": "1:21.442",
+        "Position": "3"
+    },
+    {
+        "Circuit ID": "imola",
+        "Round": "7",
+        "Lap Number": "14",
+        "Driver ID": "leclerc",
+        "Time": "1:21.661",
+        "Position": "3"
+    },
+    {
+        "Circuit ID": "imola",
+        "Round": "7",
+        "Lap Number": "15",
+        "Driver ID": "leclerc",
+        "Time": "1:21.464",
+        "Position": "3"
+    },
+    {
+        "Circuit ID": "imola",
+        "Round": "7",
+        "Lap Number": "16",
+        "Driver ID": "leclerc",
+        "Time": "1:21.964",
+        "Position": "3"
+    },
+    {
+        "Circuit ID": "imola",
+        "Round": "7",
+        "Lap Number": "17",
+        "Driver ID": "leclerc",
+        "Time": "1:21.714",
+        "Position": "3"
+    },
+    {
+        "Circuit ID": "imola",
+        "Round": "7",
+        "Lap Number": "18",
+        "Driver ID": "leclerc",
+        "Time": "1:21.719",
+        "Position": "3"
+    },
+    {
+        "Circuit ID": "imola",
+        "Round": "7",
+        "Lap Number": "19",
+        "Driver ID": "leclerc",
+        "Time": "1:21.672",
+        "Position": "3"
+    },
+    {
+        "Circuit ID": "imola",
+        "Round": "7",
+        "Lap Number": "20",
+        "Driver ID": "leclerc",
+        "Time": "1:21.757",
+        "Position": "3"
+    },
+    {
+        "Circuit ID": "imola",
+        "Round": "7",
+        "Lap Number": "21",
+        "Driver ID": "leclerc",
+        "Time": "1:21.669",
+        "Position": "3"
+    },
+    {
+        "Circuit ID": "imola",
+        "Round": "7",
+        "Lap Number": "22",
+        "Driver ID": "leclerc",
+        "Time": "1:22.018",
+        "Position": "2"
+    },
+    {
+        "Circuit ID": "imola",
+        "Round": "7",
+        "Lap Number": "23",
+        "Driver ID": "leclerc",
+        "Time": "1:21.943",
+        "Position": "2"
+    },
+    {
+        "Circuit ID": "imola",
+        "Round": "7",
+        "Lap Number": "24",
+        "Driver ID": "leclerc",
+        "Time": "1:21.600",
+        "Position": "2"
+    },
+    {
+        "Circuit ID": "imola",
+        "Round": "7",
+        "Lap Number": "25",
+        "Driver ID": "leclerc",
+        "Time": "1:26.023",
+        "Position": "2"
+    },
+    {
+        "Circuit ID": "imola",
+        "Round": "7",
+        "Lap Number": "26",
+        "Driver ID": "leclerc",
+        "Time": "1:45.006",
+        "Position": "6"
+    },
+    {
+        "Circuit ID": "imola",
+        "Round": "7",
+        "Lap Number": "27",
+        "Driver ID": "leclerc",
+        "Time": "1:19.935",
+        "Position": "5"
+    },
+    {
+        "Circuit ID": "imola",
+        "Round": "7",
+        "Lap Number": "28",
+        "Driver ID": "leclerc",
+        "Time": "1:20.928",
+        "Position": "3"
+    },
+    {
+        "Circuit ID": "imola",
+        "Round": "7",
+        "Lap Number": "29",
+        "Driver ID": "leclerc",
+        "Time": "1:20.502",
+        "Position": "3"
+    },
+    {
+        "Circuit ID": "imola",
+        "Round": "7",
+        "Lap Number": "30",
+        "Driver ID": "leclerc",
+        "Time": "1:20.426",
+        "Position": "3"
+    },
+    {
+        "Circuit ID": "imola",
+        "Round": "7",
+        "Lap Number": "31",
+        "Driver ID": "leclerc",
+        "Time": "1:20.944",
+        "Position": "3"
+    },
+    {
+        "Circuit ID": "imola",
+        "Round": "7",
+        "Lap Number": "32",
+        "Driver ID": "leclerc",
+        "Time": "1:20.645",
+        "Position": "3"
+    },
+    {
+        "Circuit ID": "imola",
+        "Round": "7",
+        "Lap Number": "33",
+        "Driver ID": "leclerc",
+        "Time": "1:20.589",
+        "Position": "3"
+    },
+    {
+        "Circuit ID": "imola",
+        "Round": "7",
+        "Lap Number": "34",
+        "Driver ID": "leclerc",
+        "Time": "1:20.726",
+        "Position": "3"
+    },
+    {
+        "Circuit ID": "imola",
+        "Round": "7",
+        "Lap Number": "35",
+        "Driver ID": "leclerc",
+        "Time": "1:20.812",
+        "Position": "3"
+    },
+    {
+        "Circuit ID": "imola",
+        "Round": "7",
+        "Lap Number": "36",
+        "Driver ID": "leclerc",
+        "Time": "1:20.562",
+        "Position": "3"
+    },
+    {
+        "Circuit ID": "imola",
+        "Round": "7",
+        "Lap Number": "37",
+        "Driver ID": "leclerc",
+        "Time": "1:20.360",
+        "Position": "3"
+    },
+    {
+        "Circuit ID": "imola",
+        "Round": "7",
+        "Lap Number": "38",
+        "Driver ID": "leclerc",
+        "Time": "1:20.194",
+        "Position": "3"
+    },
+    {
+        "Circuit ID": "imola",
+        "Round": "7",
+        "Lap Number": "39",
+        "Driver ID": "leclerc",
+        "Time": "1:20.507",
+        "Position": "3"
+    },
+    {
+        "Circuit ID": "imola",
+        "Round": "7",
+        "Lap Number": "40",
+        "Driver ID": "leclerc",
+        "Time": "1:20.582",
+        "Position": "3"
+    },
+    {
+        "Circuit ID": "imola",
+        "Round": "7",
+        "Lap Number": "41",
+        "Driver ID": "leclerc",
+        "Time": "1:20.928",
+        "Position": "3"
+    },
+    {
+        "Circuit ID": "imola",
+        "Round": "7",
+        "Lap Number": "42",
+        "Driver ID": "leclerc",
+        "Time": "1:20.240",
+        "Position": "3"
+    },
+    {
+        "Circuit ID": "imola",
+        "Round": "7",
+        "Lap Number": "43",
+        "Driver ID": "leclerc",
+        "Time": "1:20.942",
+        "Position": "3"
+    },
+    {
+        "Circuit ID": "imola",
+        "Round": "7",
+        "Lap Number": "44",
+        "Driver ID": "leclerc",
+        "Time": "1:20.702",
+        "Position": "3"
+    },
+    {
+        "Circuit ID": "imola",
+        "Round": "7",
+        "Lap Number": "45",
+        "Driver ID": "leclerc",
+        "Time": "1:20.431",
+        "Position": "3"
+    },
+    {
+        "Circuit ID": "imola",
+        "Round": "7",
+        "Lap Number": "46",
+        "Driver ID": "leclerc",
+        "Time": "1:20.596",
+        "Position": "3"
+    },
+    {
+        "Circuit ID": "imola",
+        "Round": "7",
+        "Lap Number": "47",
+        "Driver ID": "leclerc",
+        "Time": "1:21.313",
+        "Position": "3"
+    },
+    {
+        "Circuit ID": "imola",
+        "Round": "7",
+        "Lap Number": "48",
+        "Driver ID": "leclerc",
+        "Time": "1:21.513",
+        "Position": "3"
+    },
+    {
+        "Circuit ID": "imola",
+        "Round": "7",
+        "Lap Number": "49",
+        "Driver ID": "leclerc",
+        "Time": "1:20.798",
+        "Position": "3"
+    },
+    {
+        "Circuit ID": "imola",
+        "Round": "7",
+        "Lap Number": "50",
+        "Driver ID": "leclerc",
+        "Time": "1:20.414",
+        "Position": "3"
+    },
+    {
+        "Circuit ID": "imola",
+        "Round": "7",
+        "Lap Number": "51",
+        "Driver ID": "leclerc",
+        "Time": "1:20.364",
+        "Position": "3"
+    },
+    {
+        "Circuit ID": "imola",
+        "Round": "7",
+        "Lap Number": "52",
+        "Driver ID": "leclerc",
+        "Time": "1:20.358",
+        "Position": "3"
+    },
+    {
+        "Circuit ID": "imola",
+        "Round": "7",
+        "Lap Number": "53",
+        "Driver ID": "leclerc",
+        "Time": "1:20.889",
+        "Position": "3"
+    },
+    {
+        "Circuit ID": "imola",
+        "Round": "7",
+        "Lap Number": "54",
+        "Driver ID": "leclerc",
+        "Time": "1:20.398",
+        "Position": "3"
+    },
+    {
+        "Circuit ID": "imola",
+        "Round": "7",
+        "Lap Number": "55",
+        "Driver ID": "leclerc",
+        "Time": "1:20.636",
+        "Position": "3"
+    },
+    {
+        "Circuit ID": "imola",
+        "Round": "7",
+        "Lap Number": "56",
+        "Driver ID": "leclerc",
+        "Time": "1:20.415",
+        "Position": "3"
+    },
+    {
+        "Circuit ID": "imola",
+        "Round": "7",
+        "Lap Number": "57",
+        "Driver ID": "leclerc",
+        "Time": "1:20.752",
+        "Position": "3"
+    },
+    {
+        "Circuit ID": "imola",
+        "Round": "7",
+        "Lap Number": "58",
+        "Driver ID": "leclerc",
+        "Time": "1:20.553",
+        "Position": "3"
+    },
+    {
+        "Circuit ID": "imola",
+        "Round": "7",
+        "Lap Number": "59",
+        "Driver ID": "leclerc",
+        "Time": "1:20.506",
+        "Position": "3"
+    },
+    {
+        "Circuit ID": "imola",
+        "Round": "7",
+        "Lap Number": "60",
+        "Driver ID": "leclerc",
+        "Time": "1:20.693",
+        "Position": "3"
+    },
+    {
+        "Circuit ID": "imola",
+        "Round": "7",
+        "Lap Number": "61",
+        "Driver ID": "leclerc",
+        "Time": "1:20.783",
+        "Position": "3"
+    },
+    {
+        "Circuit ID": "imola",
+        "Round": "7",
+        "Lap Number": "62",
+        "Driver ID": "leclerc",
+        "Time": "1:21.307",
+        "Position": "3"
+    },
+    {
+        "Circuit ID": "imola",
+        "Round": "7",
+        "Lap Number": "63",
+        "Driver ID": "leclerc",
+        "Time": "1:21.153",
+        "Position": "3"
+    },
+    {
+        "Circuit ID": "imola",
+        "Round": "7",
+        "Lap Number": "1",
         "Driver ID": "piastri",
         "Time": "1:25.726",
         "Position": "5"
@@ -2019,510 +2523,6 @@
         "Circuit ID": "imola",
         "Round": "7",
         "Lap Number": "1",
-        "Driver ID": "hamilton",
-        "Time": "1:27.111",
-        "Position": "7"
-    },
-    {
-        "Circuit ID": "imola",
-        "Round": "7",
-        "Lap Number": "2",
-        "Driver ID": "hamilton",
-        "Time": "1:21.841",
-        "Position": "7"
-    },
-    {
-        "Circuit ID": "imola",
-        "Round": "7",
-        "Lap Number": "3",
-        "Driver ID": "hamilton",
-        "Time": "1:21.222",
-        "Position": "7"
-    },
-    {
-        "Circuit ID": "imola",
-        "Round": "7",
-        "Lap Number": "4",
-        "Driver ID": "hamilton",
-        "Time": "1:21.715",
-        "Position": "7"
-    },
-    {
-        "Circuit ID": "imola",
-        "Round": "7",
-        "Lap Number": "5",
-        "Driver ID": "hamilton",
-        "Time": "1:21.544",
-        "Position": "7"
-    },
-    {
-        "Circuit ID": "imola",
-        "Round": "7",
-        "Lap Number": "6",
-        "Driver ID": "hamilton",
-        "Time": "1:21.569",
-        "Position": "7"
-    },
-    {
-        "Circuit ID": "imola",
-        "Round": "7",
-        "Lap Number": "7",
-        "Driver ID": "hamilton",
-        "Time": "1:21.446",
-        "Position": "7"
-    },
-    {
-        "Circuit ID": "imola",
-        "Round": "7",
-        "Lap Number": "8",
-        "Driver ID": "hamilton",
-        "Time": "1:21.593",
-        "Position": "7"
-    },
-    {
-        "Circuit ID": "imola",
-        "Round": "7",
-        "Lap Number": "9",
-        "Driver ID": "hamilton",
-        "Time": "1:21.510",
-        "Position": "7"
-    },
-    {
-        "Circuit ID": "imola",
-        "Round": "7",
-        "Lap Number": "10",
-        "Driver ID": "hamilton",
-        "Time": "1:21.544",
-        "Position": "7"
-    },
-    {
-        "Circuit ID": "imola",
-        "Round": "7",
-        "Lap Number": "11",
-        "Driver ID": "hamilton",
-        "Time": "1:21.472",
-        "Position": "7"
-    },
-    {
-        "Circuit ID": "imola",
-        "Round": "7",
-        "Lap Number": "12",
-        "Driver ID": "hamilton",
-        "Time": "1:21.756",
-        "Position": "7"
-    },
-    {
-        "Circuit ID": "imola",
-        "Round": "7",
-        "Lap Number": "13",
-        "Driver ID": "hamilton",
-        "Time": "1:21.767",
-        "Position": "7"
-    },
-    {
-        "Circuit ID": "imola",
-        "Round": "7",
-        "Lap Number": "14",
-        "Driver ID": "hamilton",
-        "Time": "1:22.080",
-        "Position": "7"
-    },
-    {
-        "Circuit ID": "imola",
-        "Round": "7",
-        "Lap Number": "15",
-        "Driver ID": "hamilton",
-        "Time": "1:21.729",
-        "Position": "7"
-    },
-    {
-        "Circuit ID": "imola",
-        "Round": "7",
-        "Lap Number": "16",
-        "Driver ID": "hamilton",
-        "Time": "1:22.199",
-        "Position": "7"
-    },
-    {
-        "Circuit ID": "imola",
-        "Round": "7",
-        "Lap Number": "17",
-        "Driver ID": "hamilton",
-        "Time": "1:21.846",
-        "Position": "7"
-    },
-    {
-        "Circuit ID": "imola",
-        "Round": "7",
-        "Lap Number": "18",
-        "Driver ID": "hamilton",
-        "Time": "1:22.020",
-        "Position": "7"
-    },
-    {
-        "Circuit ID": "imola",
-        "Round": "7",
-        "Lap Number": "19",
-        "Driver ID": "hamilton",
-        "Time": "1:21.974",
-        "Position": "7"
-    },
-    {
-        "Circuit ID": "imola",
-        "Round": "7",
-        "Lap Number": "20",
-        "Driver ID": "hamilton",
-        "Time": "1:22.222",
-        "Position": "7"
-    },
-    {
-        "Circuit ID": "imola",
-        "Round": "7",
-        "Lap Number": "21",
-        "Driver ID": "hamilton",
-        "Time": "1:22.275",
-        "Position": "6"
-    },
-    {
-        "Circuit ID": "imola",
-        "Round": "7",
-        "Lap Number": "22",
-        "Driver ID": "hamilton",
-        "Time": "1:21.846",
-        "Position": "6"
-    },
-    {
-        "Circuit ID": "imola",
-        "Round": "7",
-        "Lap Number": "23",
-        "Driver ID": "hamilton",
-        "Time": "1:21.561",
-        "Position": "5"
-    },
-    {
-        "Circuit ID": "imola",
-        "Round": "7",
-        "Lap Number": "24",
-        "Driver ID": "hamilton",
-        "Time": "1:22.345",
-        "Position": "4"
-    },
-    {
-        "Circuit ID": "imola",
-        "Round": "7",
-        "Lap Number": "25",
-        "Driver ID": "hamilton",
-        "Time": "1:21.492",
-        "Position": "3"
-    },
-    {
-        "Circuit ID": "imola",
-        "Round": "7",
-        "Lap Number": "26",
-        "Driver ID": "hamilton",
-        "Time": "1:26.346",
-        "Position": "2"
-    },
-    {
-        "Circuit ID": "imola",
-        "Round": "7",
-        "Lap Number": "27",
-        "Driver ID": "hamilton",
-        "Time": "1:26.215",
-        "Position": "3"
-    },
-    {
-        "Circuit ID": "imola",
-        "Round": "7",
-        "Lap Number": "28",
-        "Driver ID": "hamilton",
-        "Time": "1:43.406",
-        "Position": "9"
-    },
-    {
-        "Circuit ID": "imola",
-        "Round": "7",
-        "Lap Number": "29",
-        "Driver ID": "hamilton",
-        "Time": "1:20.593",
-        "Position": "9"
-    },
-    {
-        "Circuit ID": "imola",
-        "Round": "7",
-        "Lap Number": "30",
-        "Driver ID": "hamilton",
-        "Time": "1:20.586",
-        "Position": "9"
-    },
-    {
-        "Circuit ID": "imola",
-        "Round": "7",
-        "Lap Number": "31",
-        "Driver ID": "hamilton",
-        "Time": "1:21.737",
-        "Position": "8"
-    },
-    {
-        "Circuit ID": "imola",
-        "Round": "7",
-        "Lap Number": "32",
-        "Driver ID": "hamilton",
-        "Time": "1:21.160",
-        "Position": "8"
-    },
-    {
-        "Circuit ID": "imola",
-        "Round": "7",
-        "Lap Number": "33",
-        "Driver ID": "hamilton",
-        "Time": "1:20.942",
-        "Position": "8"
-    },
-    {
-        "Circuit ID": "imola",
-        "Round": "7",
-        "Lap Number": "34",
-        "Driver ID": "hamilton",
-        "Time": "1:20.964",
-        "Position": "8"
-    },
-    {
-        "Circuit ID": "imola",
-        "Round": "7",
-        "Lap Number": "35",
-        "Driver ID": "hamilton",
-        "Time": "1:22.165",
-        "Position": "8"
-    },
-    {
-        "Circuit ID": "imola",
-        "Round": "7",
-        "Lap Number": "36",
-        "Driver ID": "hamilton",
-        "Time": "1:23.058",
-        "Position": "8"
-    },
-    {
-        "Circuit ID": "imola",
-        "Round": "7",
-        "Lap Number": "37",
-        "Driver ID": "hamilton",
-        "Time": "1:20.748",
-        "Position": "7"
-    },
-    {
-        "Circuit ID": "imola",
-        "Round": "7",
-        "Lap Number": "38",
-        "Driver ID": "hamilton",
-        "Time": "1:20.546",
-        "Position": "7"
-    },
-    {
-        "Circuit ID": "imola",
-        "Round": "7",
-        "Lap Number": "39",
-        "Driver ID": "hamilton",
-        "Time": "1:20.677",
-        "Position": "7"
-    },
-    {
-        "Circuit ID": "imola",
-        "Round": "7",
-        "Lap Number": "40",
-        "Driver ID": "hamilton",
-        "Time": "1:20.837",
-        "Position": "7"
-    },
-    {
-        "Circuit ID": "imola",
-        "Round": "7",
-        "Lap Number": "41",
-        "Driver ID": "hamilton",
-        "Time": "1:20.639",
-        "Position": "7"
-    },
-    {
-        "Circuit ID": "imola",
-        "Round": "7",
-        "Lap Number": "42",
-        "Driver ID": "hamilton",
-        "Time": "1:20.434",
-        "Position": "7"
-    },
-    {
-        "Circuit ID": "imola",
-        "Round": "7",
-        "Lap Number": "43",
-        "Driver ID": "hamilton",
-        "Time": "1:20.331",
-        "Position": "7"
-    },
-    {
-        "Circuit ID": "imola",
-        "Round": "7",
-        "Lap Number": "44",
-        "Driver ID": "hamilton",
-        "Time": "1:20.843",
-        "Position": "7"
-    },
-    {
-        "Circuit ID": "imola",
-        "Round": "7",
-        "Lap Number": "45",
-        "Driver ID": "hamilton",
-        "Time": "1:20.581",
-        "Position": "7"
-    },
-    {
-        "Circuit ID": "imola",
-        "Round": "7",
-        "Lap Number": "46",
-        "Driver ID": "hamilton",
-        "Time": "1:20.944",
-        "Position": "7"
-    },
-    {
-        "Circuit ID": "imola",
-        "Round": "7",
-        "Lap Number": "47",
-        "Driver ID": "hamilton",
-        "Time": "1:21.069",
-        "Position": "7"
-    },
-    {
-        "Circuit ID": "imola",
-        "Round": "7",
-        "Lap Number": "48",
-        "Driver ID": "hamilton",
-        "Time": "1:20.921",
-        "Position": "7"
-    },
-    {
-        "Circuit ID": "imola",
-        "Round": "7",
-        "Lap Number": "49",
-        "Driver ID": "hamilton",
-        "Time": "1:21.182",
-        "Position": "7"
-    },
-    {
-        "Circuit ID": "imola",
-        "Round": "7",
-        "Lap Number": "50",
-        "Driver ID": "hamilton",
-        "Time": "1:20.698",
-        "Position": "7"
-    },
-    {
-        "Circuit ID": "imola",
-        "Round": "7",
-        "Lap Number": "51",
-        "Driver ID": "hamilton",
-        "Time": "1:20.776",
-        "Position": "7"
-    },
-    {
-        "Circuit ID": "imola",
-        "Round": "7",
-        "Lap Number": "52",
-        "Driver ID": "hamilton",
-        "Time": "1:21.176",
-        "Position": "6"
-    },
-    {
-        "Circuit ID": "imola",
-        "Round": "7",
-        "Lap Number": "53",
-        "Driver ID": "hamilton",
-        "Time": "1:21.415",
-        "Position": "6"
-    },
-    {
-        "Circuit ID": "imola",
-        "Round": "7",
-        "Lap Number": "54",
-        "Driver ID": "hamilton",
-        "Time": "1:20.841",
-        "Position": "6"
-    },
-    {
-        "Circuit ID": "imola",
-        "Round": "7",
-        "Lap Number": "55",
-        "Driver ID": "hamilton",
-        "Time": "1:21.027",
-        "Position": "6"
-    },
-    {
-        "Circuit ID": "imola",
-        "Round": "7",
-        "Lap Number": "56",
-        "Driver ID": "hamilton",
-        "Time": "1:21.297",
-        "Position": "6"
-    },
-    {
-        "Circuit ID": "imola",
-        "Round": "7",
-        "Lap Number": "57",
-        "Driver ID": "hamilton",
-        "Time": "1:21.664",
-        "Position": "6"
-    },
-    {
-        "Circuit ID": "imola",
-        "Round": "7",
-        "Lap Number": "58",
-        "Driver ID": "hamilton",
-        "Time": "1:21.561",
-        "Position": "6"
-    },
-    {
-        "Circuit ID": "imola",
-        "Round": "7",
-        "Lap Number": "59",
-        "Driver ID": "hamilton",
-        "Time": "1:20.649",
-        "Position": "6"
-    },
-    {
-        "Circuit ID": "imola",
-        "Round": "7",
-        "Lap Number": "60",
-        "Driver ID": "hamilton",
-        "Time": "1:20.629",
-        "Position": "6"
-    },
-    {
-        "Circuit ID": "imola",
-        "Round": "7",
-        "Lap Number": "61",
-        "Driver ID": "hamilton",
-        "Time": "1:20.726",
-        "Position": "6"
-    },
-    {
-        "Circuit ID": "imola",
-        "Round": "7",
-        "Lap Number": "62",
-        "Driver ID": "hamilton",
-        "Time": "1:20.645",
-        "Position": "6"
-    },
-    {
-        "Circuit ID": "imola",
-        "Round": "7",
-        "Lap Number": "63",
-        "Driver ID": "hamilton",
-        "Time": "1:20.649",
-        "Position": "6"
-    },
-    {
-        "Circuit ID": "imola",
-        "Round": "7",
-        "Lap Number": "1",
         "Driver ID": "russell",
         "Time": "1:26.498",
         "Position": "6"
@@ -3022,6 +3022,510 @@
         "Driver ID": "russell",
         "Time": "1:20.092",
         "Position": "7"
+    },
+    {
+        "Circuit ID": "imola",
+        "Round": "7",
+        "Lap Number": "1",
+        "Driver ID": "perez",
+        "Time": "1:28.775",
+        "Position": "10"
+    },
+    {
+        "Circuit ID": "imola",
+        "Round": "7",
+        "Lap Number": "2",
+        "Driver ID": "perez",
+        "Time": "1:22.599",
+        "Position": "10"
+    },
+    {
+        "Circuit ID": "imola",
+        "Round": "7",
+        "Lap Number": "3",
+        "Driver ID": "perez",
+        "Time": "1:21.913",
+        "Position": "10"
+    },
+    {
+        "Circuit ID": "imola",
+        "Round": "7",
+        "Lap Number": "4",
+        "Driver ID": "perez",
+        "Time": "1:22.182",
+        "Position": "10"
+    },
+    {
+        "Circuit ID": "imola",
+        "Round": "7",
+        "Lap Number": "5",
+        "Driver ID": "perez",
+        "Time": "1:22.153",
+        "Position": "10"
+    },
+    {
+        "Circuit ID": "imola",
+        "Round": "7",
+        "Lap Number": "6",
+        "Driver ID": "perez",
+        "Time": "1:22.200",
+        "Position": "10"
+    },
+    {
+        "Circuit ID": "imola",
+        "Round": "7",
+        "Lap Number": "7",
+        "Driver ID": "perez",
+        "Time": "1:22.641",
+        "Position": "10"
+    },
+    {
+        "Circuit ID": "imola",
+        "Round": "7",
+        "Lap Number": "8",
+        "Driver ID": "perez",
+        "Time": "1:22.338",
+        "Position": "10"
+    },
+    {
+        "Circuit ID": "imola",
+        "Round": "7",
+        "Lap Number": "9",
+        "Driver ID": "perez",
+        "Time": "1:22.591",
+        "Position": "10"
+    },
+    {
+        "Circuit ID": "imola",
+        "Round": "7",
+        "Lap Number": "10",
+        "Driver ID": "perez",
+        "Time": "1:22.545",
+        "Position": "10"
+    },
+    {
+        "Circuit ID": "imola",
+        "Round": "7",
+        "Lap Number": "11",
+        "Driver ID": "perez",
+        "Time": "1:22.128",
+        "Position": "10"
+    },
+    {
+        "Circuit ID": "imola",
+        "Round": "7",
+        "Lap Number": "12",
+        "Driver ID": "perez",
+        "Time": "1:22.447",
+        "Position": "9"
+    },
+    {
+        "Circuit ID": "imola",
+        "Round": "7",
+        "Lap Number": "13",
+        "Driver ID": "perez",
+        "Time": "1:22.359",
+        "Position": "8"
+    },
+    {
+        "Circuit ID": "imola",
+        "Round": "7",
+        "Lap Number": "14",
+        "Driver ID": "perez",
+        "Time": "1:21.828",
+        "Position": "8"
+    },
+    {
+        "Circuit ID": "imola",
+        "Round": "7",
+        "Lap Number": "15",
+        "Driver ID": "perez",
+        "Time": "1:21.682",
+        "Position": "8"
+    },
+    {
+        "Circuit ID": "imola",
+        "Round": "7",
+        "Lap Number": "16",
+        "Driver ID": "perez",
+        "Time": "1:21.837",
+        "Position": "8"
+    },
+    {
+        "Circuit ID": "imola",
+        "Round": "7",
+        "Lap Number": "17",
+        "Driver ID": "perez",
+        "Time": "1:26.800",
+        "Position": "8"
+    },
+    {
+        "Circuit ID": "imola",
+        "Round": "7",
+        "Lap Number": "18",
+        "Driver ID": "perez",
+        "Time": "1:22.435",
+        "Position": "8"
+    },
+    {
+        "Circuit ID": "imola",
+        "Round": "7",
+        "Lap Number": "19",
+        "Driver ID": "perez",
+        "Time": "1:21.854",
+        "Position": "8"
+    },
+    {
+        "Circuit ID": "imola",
+        "Round": "7",
+        "Lap Number": "20",
+        "Driver ID": "perez",
+        "Time": "1:22.268",
+        "Position": "8"
+    },
+    {
+        "Circuit ID": "imola",
+        "Round": "7",
+        "Lap Number": "21",
+        "Driver ID": "perez",
+        "Time": "1:21.940",
+        "Position": "8"
+    },
+    {
+        "Circuit ID": "imola",
+        "Round": "7",
+        "Lap Number": "22",
+        "Driver ID": "perez",
+        "Time": "1:21.871",
+        "Position": "7"
+    },
+    {
+        "Circuit ID": "imola",
+        "Round": "7",
+        "Lap Number": "23",
+        "Driver ID": "perez",
+        "Time": "1:21.970",
+        "Position": "6"
+    },
+    {
+        "Circuit ID": "imola",
+        "Round": "7",
+        "Lap Number": "24",
+        "Driver ID": "perez",
+        "Time": "1:22.684",
+        "Position": "6"
+    },
+    {
+        "Circuit ID": "imola",
+        "Round": "7",
+        "Lap Number": "25",
+        "Driver ID": "perez",
+        "Time": "1:22.228",
+        "Position": "6"
+    },
+    {
+        "Circuit ID": "imola",
+        "Round": "7",
+        "Lap Number": "26",
+        "Driver ID": "perez",
+        "Time": "1:22.376",
+        "Position": "5"
+    },
+    {
+        "Circuit ID": "imola",
+        "Round": "7",
+        "Lap Number": "27",
+        "Driver ID": "perez",
+        "Time": "1:23.773",
+        "Position": "7"
+    },
+    {
+        "Circuit ID": "imola",
+        "Round": "7",
+        "Lap Number": "28",
+        "Driver ID": "perez",
+        "Time": "1:22.231",
+        "Position": "5"
+    },
+    {
+        "Circuit ID": "imola",
+        "Round": "7",
+        "Lap Number": "29",
+        "Driver ID": "perez",
+        "Time": "1:22.347",
+        "Position": "5"
+    },
+    {
+        "Circuit ID": "imola",
+        "Round": "7",
+        "Lap Number": "30",
+        "Driver ID": "perez",
+        "Time": "1:23.263",
+        "Position": "6"
+    },
+    {
+        "Circuit ID": "imola",
+        "Round": "7",
+        "Lap Number": "31",
+        "Driver ID": "perez",
+        "Time": "1:23.694",
+        "Position": "7"
+    },
+    {
+        "Circuit ID": "imola",
+        "Round": "7",
+        "Lap Number": "32",
+        "Driver ID": "perez",
+        "Time": "1:22.259",
+        "Position": "7"
+    },
+    {
+        "Circuit ID": "imola",
+        "Round": "7",
+        "Lap Number": "33",
+        "Driver ID": "perez",
+        "Time": "1:22.212",
+        "Position": "7"
+    },
+    {
+        "Circuit ID": "imola",
+        "Round": "7",
+        "Lap Number": "34",
+        "Driver ID": "perez",
+        "Time": "1:22.465",
+        "Position": "7"
+    },
+    {
+        "Circuit ID": "imola",
+        "Round": "7",
+        "Lap Number": "35",
+        "Driver ID": "perez",
+        "Time": "1:22.415",
+        "Position": "7"
+    },
+    {
+        "Circuit ID": "imola",
+        "Round": "7",
+        "Lap Number": "36",
+        "Driver ID": "perez",
+        "Time": "1:23.111",
+        "Position": "7"
+    },
+    {
+        "Circuit ID": "imola",
+        "Round": "7",
+        "Lap Number": "37",
+        "Driver ID": "perez",
+        "Time": "1:28.056",
+        "Position": "8"
+    },
+    {
+        "Circuit ID": "imola",
+        "Round": "7",
+        "Lap Number": "38",
+        "Driver ID": "perez",
+        "Time": "1:43.314",
+        "Position": "11"
+    },
+    {
+        "Circuit ID": "imola",
+        "Round": "7",
+        "Lap Number": "39",
+        "Driver ID": "perez",
+        "Time": "1:20.731",
+        "Position": "10"
+    },
+    {
+        "Circuit ID": "imola",
+        "Round": "7",
+        "Lap Number": "40",
+        "Driver ID": "perez",
+        "Time": "1:20.314",
+        "Position": "9"
+    },
+    {
+        "Circuit ID": "imola",
+        "Round": "7",
+        "Lap Number": "41",
+        "Driver ID": "perez",
+        "Time": "1:21.975",
+        "Position": "9"
+    },
+    {
+        "Circuit ID": "imola",
+        "Round": "7",
+        "Lap Number": "42",
+        "Driver ID": "perez",
+        "Time": "1:19.919",
+        "Position": "8"
+    },
+    {
+        "Circuit ID": "imola",
+        "Round": "7",
+        "Lap Number": "43",
+        "Driver ID": "perez",
+        "Time": "1:20.220",
+        "Position": "8"
+    },
+    {
+        "Circuit ID": "imola",
+        "Round": "7",
+        "Lap Number": "44",
+        "Driver ID": "perez",
+        "Time": "1:20.504",
+        "Position": "8"
+    },
+    {
+        "Circuit ID": "imola",
+        "Round": "7",
+        "Lap Number": "45",
+        "Driver ID": "perez",
+        "Time": "1:20.495",
+        "Position": "8"
+    },
+    {
+        "Circuit ID": "imola",
+        "Round": "7",
+        "Lap Number": "46",
+        "Driver ID": "perez",
+        "Time": "1:20.872",
+        "Position": "8"
+    },
+    {
+        "Circuit ID": "imola",
+        "Round": "7",
+        "Lap Number": "47",
+        "Driver ID": "perez",
+        "Time": "1:20.514",
+        "Position": "8"
+    },
+    {
+        "Circuit ID": "imola",
+        "Round": "7",
+        "Lap Number": "48",
+        "Driver ID": "perez",
+        "Time": "1:20.205",
+        "Position": "8"
+    },
+    {
+        "Circuit ID": "imola",
+        "Round": "7",
+        "Lap Number": "49",
+        "Driver ID": "perez",
+        "Time": "1:19.946",
+        "Position": "8"
+    },
+    {
+        "Circuit ID": "imola",
+        "Round": "7",
+        "Lap Number": "50",
+        "Driver ID": "perez",
+        "Time": "1:19.985",
+        "Position": "8"
+    },
+    {
+        "Circuit ID": "imola",
+        "Round": "7",
+        "Lap Number": "51",
+        "Driver ID": "perez",
+        "Time": "1:21.032",
+        "Position": "8"
+    },
+    {
+        "Circuit ID": "imola",
+        "Round": "7",
+        "Lap Number": "52",
+        "Driver ID": "perez",
+        "Time": "1:19.686",
+        "Position": "8"
+    },
+    {
+        "Circuit ID": "imola",
+        "Round": "7",
+        "Lap Number": "53",
+        "Driver ID": "perez",
+        "Time": "1:21.144",
+        "Position": "8"
+    },
+    {
+        "Circuit ID": "imola",
+        "Round": "7",
+        "Lap Number": "54",
+        "Driver ID": "perez",
+        "Time": "1:20.334",
+        "Position": "8"
+    },
+    {
+        "Circuit ID": "imola",
+        "Round": "7",
+        "Lap Number": "55",
+        "Driver ID": "perez",
+        "Time": "1:20.520",
+        "Position": "8"
+    },
+    {
+        "Circuit ID": "imola",
+        "Round": "7",
+        "Lap Number": "56",
+        "Driver ID": "perez",
+        "Time": "1:20.290",
+        "Position": "8"
+    },
+    {
+        "Circuit ID": "imola",
+        "Round": "7",
+        "Lap Number": "57",
+        "Driver ID": "perez",
+        "Time": "1:20.228",
+        "Position": "8"
+    },
+    {
+        "Circuit ID": "imola",
+        "Round": "7",
+        "Lap Number": "58",
+        "Driver ID": "perez",
+        "Time": "1:20.285",
+        "Position": "8"
+    },
+    {
+        "Circuit ID": "imola",
+        "Round": "7",
+        "Lap Number": "59",
+        "Driver ID": "perez",
+        "Time": "1:20.093",
+        "Position": "8"
+    },
+    {
+        "Circuit ID": "imola",
+        "Round": "7",
+        "Lap Number": "60",
+        "Driver ID": "perez",
+        "Time": "1:20.408",
+        "Position": "8"
+    },
+    {
+        "Circuit ID": "imola",
+        "Round": "7",
+        "Lap Number": "61",
+        "Driver ID": "perez",
+        "Time": "1:20.833",
+        "Position": "8"
+    },
+    {
+        "Circuit ID": "imola",
+        "Round": "7",
+        "Lap Number": "62",
+        "Driver ID": "perez",
+        "Time": "1:20.767",
+        "Position": "8"
+    },
+    {
+        "Circuit ID": "imola",
+        "Round": "7",
+        "Lap Number": "63",
+        "Driver ID": "perez",
+        "Time": "1:20.944",
+        "Position": "8"
     },
     {
         "Circuit ID": "imola",
@@ -4022,1494 +4526,6 @@
         "Driver ID": "tsunoda",
         "Time": "1:21.988",
         "Position": "10"
-    },
-    {
-        "Circuit ID": "imola",
-        "Round": "7",
-        "Lap Number": "1",
-        "Driver ID": "hulkenberg",
-        "Time": "1:27.748",
-        "Position": "8"
-    },
-    {
-        "Circuit ID": "imola",
-        "Round": "7",
-        "Lap Number": "2",
-        "Driver ID": "hulkenberg",
-        "Time": "1:22.111",
-        "Position": "8"
-    },
-    {
-        "Circuit ID": "imola",
-        "Round": "7",
-        "Lap Number": "3",
-        "Driver ID": "hulkenberg",
-        "Time": "1:21.700",
-        "Position": "8"
-    },
-    {
-        "Circuit ID": "imola",
-        "Round": "7",
-        "Lap Number": "4",
-        "Driver ID": "hulkenberg",
-        "Time": "1:22.157",
-        "Position": "8"
-    },
-    {
-        "Circuit ID": "imola",
-        "Round": "7",
-        "Lap Number": "5",
-        "Driver ID": "hulkenberg",
-        "Time": "1:22.184",
-        "Position": "8"
-    },
-    {
-        "Circuit ID": "imola",
-        "Round": "7",
-        "Lap Number": "6",
-        "Driver ID": "hulkenberg",
-        "Time": "1:22.361",
-        "Position": "8"
-    },
-    {
-        "Circuit ID": "imola",
-        "Round": "7",
-        "Lap Number": "7",
-        "Driver ID": "hulkenberg",
-        "Time": "1:22.360",
-        "Position": "8"
-    },
-    {
-        "Circuit ID": "imola",
-        "Round": "7",
-        "Lap Number": "8",
-        "Driver ID": "hulkenberg",
-        "Time": "1:22.148",
-        "Position": "8"
-    },
-    {
-        "Circuit ID": "imola",
-        "Round": "7",
-        "Lap Number": "9",
-        "Driver ID": "hulkenberg",
-        "Time": "1:22.175",
-        "Position": "8"
-    },
-    {
-        "Circuit ID": "imola",
-        "Round": "7",
-        "Lap Number": "10",
-        "Driver ID": "hulkenberg",
-        "Time": "1:22.538",
-        "Position": "8"
-    },
-    {
-        "Circuit ID": "imola",
-        "Round": "7",
-        "Lap Number": "11",
-        "Driver ID": "hulkenberg",
-        "Time": "1:22.516",
-        "Position": "8"
-    },
-    {
-        "Circuit ID": "imola",
-        "Round": "7",
-        "Lap Number": "12",
-        "Driver ID": "hulkenberg",
-        "Time": "1:22.571",
-        "Position": "8"
-    },
-    {
-        "Circuit ID": "imola",
-        "Round": "7",
-        "Lap Number": "13",
-        "Driver ID": "hulkenberg",
-        "Time": "1:26.982",
-        "Position": "9"
-    },
-    {
-        "Circuit ID": "imola",
-        "Round": "7",
-        "Lap Number": "14",
-        "Driver ID": "hulkenberg",
-        "Time": "1:44.353",
-        "Position": "15"
-    },
-    {
-        "Circuit ID": "imola",
-        "Round": "7",
-        "Lap Number": "15",
-        "Driver ID": "hulkenberg",
-        "Time": "1:21.918",
-        "Position": "15"
-    },
-    {
-        "Circuit ID": "imola",
-        "Round": "7",
-        "Lap Number": "16",
-        "Driver ID": "hulkenberg",
-        "Time": "1:21.756",
-        "Position": "15"
-    },
-    {
-        "Circuit ID": "imola",
-        "Round": "7",
-        "Lap Number": "17",
-        "Driver ID": "hulkenberg",
-        "Time": "1:22.074",
-        "Position": "15"
-    },
-    {
-        "Circuit ID": "imola",
-        "Round": "7",
-        "Lap Number": "18",
-        "Driver ID": "hulkenberg",
-        "Time": "1:22.086",
-        "Position": "15"
-    },
-    {
-        "Circuit ID": "imola",
-        "Round": "7",
-        "Lap Number": "19",
-        "Driver ID": "hulkenberg",
-        "Time": "1:22.624",
-        "Position": "15"
-    },
-    {
-        "Circuit ID": "imola",
-        "Round": "7",
-        "Lap Number": "20",
-        "Driver ID": "hulkenberg",
-        "Time": "1:22.309",
-        "Position": "15"
-    },
-    {
-        "Circuit ID": "imola",
-        "Round": "7",
-        "Lap Number": "21",
-        "Driver ID": "hulkenberg",
-        "Time": "1:22.218",
-        "Position": "15"
-    },
-    {
-        "Circuit ID": "imola",
-        "Round": "7",
-        "Lap Number": "22",
-        "Driver ID": "hulkenberg",
-        "Time": "1:22.412",
-        "Position": "15"
-    },
-    {
-        "Circuit ID": "imola",
-        "Round": "7",
-        "Lap Number": "23",
-        "Driver ID": "hulkenberg",
-        "Time": "1:22.883",
-        "Position": "15"
-    },
-    {
-        "Circuit ID": "imola",
-        "Round": "7",
-        "Lap Number": "24",
-        "Driver ID": "hulkenberg",
-        "Time": "1:23.102",
-        "Position": "15"
-    },
-    {
-        "Circuit ID": "imola",
-        "Round": "7",
-        "Lap Number": "25",
-        "Driver ID": "hulkenberg",
-        "Time": "1:22.763",
-        "Position": "15"
-    },
-    {
-        "Circuit ID": "imola",
-        "Round": "7",
-        "Lap Number": "26",
-        "Driver ID": "hulkenberg",
-        "Time": "1:22.669",
-        "Position": "13"
-    },
-    {
-        "Circuit ID": "imola",
-        "Round": "7",
-        "Lap Number": "27",
-        "Driver ID": "hulkenberg",
-        "Time": "1:22.322",
-        "Position": "13"
-    },
-    {
-        "Circuit ID": "imola",
-        "Round": "7",
-        "Lap Number": "28",
-        "Driver ID": "hulkenberg",
-        "Time": "1:22.744",
-        "Position": "13"
-    },
-    {
-        "Circuit ID": "imola",
-        "Round": "7",
-        "Lap Number": "29",
-        "Driver ID": "hulkenberg",
-        "Time": "1:22.829",
-        "Position": "13"
-    },
-    {
-        "Circuit ID": "imola",
-        "Round": "7",
-        "Lap Number": "30",
-        "Driver ID": "hulkenberg",
-        "Time": "1:22.732",
-        "Position": "13"
-    },
-    {
-        "Circuit ID": "imola",
-        "Round": "7",
-        "Lap Number": "31",
-        "Driver ID": "hulkenberg",
-        "Time": "1:23.010",
-        "Position": "13"
-    },
-    {
-        "Circuit ID": "imola",
-        "Round": "7",
-        "Lap Number": "32",
-        "Driver ID": "hulkenberg",
-        "Time": "1:23.256",
-        "Position": "13"
-    },
-    {
-        "Circuit ID": "imola",
-        "Round": "7",
-        "Lap Number": "33",
-        "Driver ID": "hulkenberg",
-        "Time": "1:23.561",
-        "Position": "12"
-    },
-    {
-        "Circuit ID": "imola",
-        "Round": "7",
-        "Lap Number": "34",
-        "Driver ID": "hulkenberg",
-        "Time": "1:22.798",
-        "Position": "12"
-    },
-    {
-        "Circuit ID": "imola",
-        "Round": "7",
-        "Lap Number": "35",
-        "Driver ID": "hulkenberg",
-        "Time": "1:22.110",
-        "Position": "12"
-    },
-    {
-        "Circuit ID": "imola",
-        "Round": "7",
-        "Lap Number": "36",
-        "Driver ID": "hulkenberg",
-        "Time": "1:22.575",
-        "Position": "12"
-    },
-    {
-        "Circuit ID": "imola",
-        "Round": "7",
-        "Lap Number": "37",
-        "Driver ID": "hulkenberg",
-        "Time": "1:22.433",
-        "Position": "11"
-    },
-    {
-        "Circuit ID": "imola",
-        "Round": "7",
-        "Lap Number": "38",
-        "Driver ID": "hulkenberg",
-        "Time": "1:22.480",
-        "Position": "9"
-    },
-    {
-        "Circuit ID": "imola",
-        "Round": "7",
-        "Lap Number": "39",
-        "Driver ID": "hulkenberg",
-        "Time": "1:22.620",
-        "Position": "9"
-    },
-    {
-        "Circuit ID": "imola",
-        "Round": "7",
-        "Lap Number": "40",
-        "Driver ID": "hulkenberg",
-        "Time": "1:23.111",
-        "Position": "10"
-    },
-    {
-        "Circuit ID": "imola",
-        "Round": "7",
-        "Lap Number": "41",
-        "Driver ID": "hulkenberg",
-        "Time": "1:22.504",
-        "Position": "10"
-    },
-    {
-        "Circuit ID": "imola",
-        "Round": "7",
-        "Lap Number": "42",
-        "Driver ID": "hulkenberg",
-        "Time": "1:22.265",
-        "Position": "10"
-    },
-    {
-        "Circuit ID": "imola",
-        "Round": "7",
-        "Lap Number": "43",
-        "Driver ID": "hulkenberg",
-        "Time": "1:22.435",
-        "Position": "10"
-    },
-    {
-        "Circuit ID": "imola",
-        "Round": "7",
-        "Lap Number": "44",
-        "Driver ID": "hulkenberg",
-        "Time": "1:22.192",
-        "Position": "10"
-    },
-    {
-        "Circuit ID": "imola",
-        "Round": "7",
-        "Lap Number": "45",
-        "Driver ID": "hulkenberg",
-        "Time": "1:22.481",
-        "Position": "10"
-    },
-    {
-        "Circuit ID": "imola",
-        "Round": "7",
-        "Lap Number": "46",
-        "Driver ID": "hulkenberg",
-        "Time": "1:23.483",
-        "Position": "11"
-    },
-    {
-        "Circuit ID": "imola",
-        "Round": "7",
-        "Lap Number": "47",
-        "Driver ID": "hulkenberg",
-        "Time": "1:22.763",
-        "Position": "11"
-    },
-    {
-        "Circuit ID": "imola",
-        "Round": "7",
-        "Lap Number": "48",
-        "Driver ID": "hulkenberg",
-        "Time": "1:22.264",
-        "Position": "11"
-    },
-    {
-        "Circuit ID": "imola",
-        "Round": "7",
-        "Lap Number": "49",
-        "Driver ID": "hulkenberg",
-        "Time": "1:22.003",
-        "Position": "11"
-    },
-    {
-        "Circuit ID": "imola",
-        "Round": "7",
-        "Lap Number": "50",
-        "Driver ID": "hulkenberg",
-        "Time": "1:21.921",
-        "Position": "11"
-    },
-    {
-        "Circuit ID": "imola",
-        "Round": "7",
-        "Lap Number": "51",
-        "Driver ID": "hulkenberg",
-        "Time": "1:24.008",
-        "Position": "11"
-    },
-    {
-        "Circuit ID": "imola",
-        "Round": "7",
-        "Lap Number": "52",
-        "Driver ID": "hulkenberg",
-        "Time": "1:24.017",
-        "Position": "11"
-    },
-    {
-        "Circuit ID": "imola",
-        "Round": "7",
-        "Lap Number": "53",
-        "Driver ID": "hulkenberg",
-        "Time": "1:23.667",
-        "Position": "11"
-    },
-    {
-        "Circuit ID": "imola",
-        "Round": "7",
-        "Lap Number": "54",
-        "Driver ID": "hulkenberg",
-        "Time": "1:22.255",
-        "Position": "11"
-    },
-    {
-        "Circuit ID": "imola",
-        "Round": "7",
-        "Lap Number": "55",
-        "Driver ID": "hulkenberg",
-        "Time": "1:22.094",
-        "Position": "11"
-    },
-    {
-        "Circuit ID": "imola",
-        "Round": "7",
-        "Lap Number": "56",
-        "Driver ID": "hulkenberg",
-        "Time": "1:22.217",
-        "Position": "11"
-    },
-    {
-        "Circuit ID": "imola",
-        "Round": "7",
-        "Lap Number": "57",
-        "Driver ID": "hulkenberg",
-        "Time": "1:23.902",
-        "Position": "11"
-    },
-    {
-        "Circuit ID": "imola",
-        "Round": "7",
-        "Lap Number": "58",
-        "Driver ID": "hulkenberg",
-        "Time": "1:22.126",
-        "Position": "11"
-    },
-    {
-        "Circuit ID": "imola",
-        "Round": "7",
-        "Lap Number": "59",
-        "Driver ID": "hulkenberg",
-        "Time": "1:22.225",
-        "Position": "11"
-    },
-    {
-        "Circuit ID": "imola",
-        "Round": "7",
-        "Lap Number": "60",
-        "Driver ID": "hulkenberg",
-        "Time": "1:22.409",
-        "Position": "11"
-    },
-    {
-        "Circuit ID": "imola",
-        "Round": "7",
-        "Lap Number": "61",
-        "Driver ID": "hulkenberg",
-        "Time": "1:23.789",
-        "Position": "11"
-    },
-    {
-        "Circuit ID": "imola",
-        "Round": "7",
-        "Lap Number": "62",
-        "Driver ID": "hulkenberg",
-        "Time": "1:22.210",
-        "Position": "11"
-    },
-    {
-        "Circuit ID": "imola",
-        "Round": "7",
-        "Lap Number": "1",
-        "Driver ID": "kevin_magnussen",
-        "Time": "1:31.891",
-        "Position": "16"
-    },
-    {
-        "Circuit ID": "imola",
-        "Round": "7",
-        "Lap Number": "2",
-        "Driver ID": "kevin_magnussen",
-        "Time": "1:23.313",
-        "Position": "16"
-    },
-    {
-        "Circuit ID": "imola",
-        "Round": "7",
-        "Lap Number": "3",
-        "Driver ID": "kevin_magnussen",
-        "Time": "1:22.737",
-        "Position": "16"
-    },
-    {
-        "Circuit ID": "imola",
-        "Round": "7",
-        "Lap Number": "4",
-        "Driver ID": "kevin_magnussen",
-        "Time": "1:22.517",
-        "Position": "16"
-    },
-    {
-        "Circuit ID": "imola",
-        "Round": "7",
-        "Lap Number": "5",
-        "Driver ID": "kevin_magnussen",
-        "Time": "1:22.682",
-        "Position": "16"
-    },
-    {
-        "Circuit ID": "imola",
-        "Round": "7",
-        "Lap Number": "6",
-        "Driver ID": "kevin_magnussen",
-        "Time": "1:22.237",
-        "Position": "16"
-    },
-    {
-        "Circuit ID": "imola",
-        "Round": "7",
-        "Lap Number": "7",
-        "Driver ID": "kevin_magnussen",
-        "Time": "1:22.520",
-        "Position": "16"
-    },
-    {
-        "Circuit ID": "imola",
-        "Round": "7",
-        "Lap Number": "8",
-        "Driver ID": "kevin_magnussen",
-        "Time": "1:22.411",
-        "Position": "14"
-    },
-    {
-        "Circuit ID": "imola",
-        "Round": "7",
-        "Lap Number": "9",
-        "Driver ID": "kevin_magnussen",
-        "Time": "1:22.320",
-        "Position": "14"
-    },
-    {
-        "Circuit ID": "imola",
-        "Round": "7",
-        "Lap Number": "10",
-        "Driver ID": "kevin_magnussen",
-        "Time": "1:23.013",
-        "Position": "14"
-    },
-    {
-        "Circuit ID": "imola",
-        "Round": "7",
-        "Lap Number": "11",
-        "Driver ID": "kevin_magnussen",
-        "Time": "1:22.858",
-        "Position": "14"
-    },
-    {
-        "Circuit ID": "imola",
-        "Round": "7",
-        "Lap Number": "12",
-        "Driver ID": "kevin_magnussen",
-        "Time": "1:22.927",
-        "Position": "13"
-    },
-    {
-        "Circuit ID": "imola",
-        "Round": "7",
-        "Lap Number": "13",
-        "Driver ID": "kevin_magnussen",
-        "Time": "1:22.955",
-        "Position": "12"
-    },
-    {
-        "Circuit ID": "imola",
-        "Round": "7",
-        "Lap Number": "14",
-        "Driver ID": "kevin_magnussen",
-        "Time": "1:23.090",
-        "Position": "11"
-    },
-    {
-        "Circuit ID": "imola",
-        "Round": "7",
-        "Lap Number": "15",
-        "Driver ID": "kevin_magnussen",
-        "Time": "1:23.215",
-        "Position": "11"
-    },
-    {
-        "Circuit ID": "imola",
-        "Round": "7",
-        "Lap Number": "16",
-        "Driver ID": "kevin_magnussen",
-        "Time": "1:23.135",
-        "Position": "11"
-    },
-    {
-        "Circuit ID": "imola",
-        "Round": "7",
-        "Lap Number": "17",
-        "Driver ID": "kevin_magnussen",
-        "Time": "1:23.577",
-        "Position": "11"
-    },
-    {
-        "Circuit ID": "imola",
-        "Round": "7",
-        "Lap Number": "18",
-        "Driver ID": "kevin_magnussen",
-        "Time": "1:23.338",
-        "Position": "11"
-    },
-    {
-        "Circuit ID": "imola",
-        "Round": "7",
-        "Lap Number": "19",
-        "Driver ID": "kevin_magnussen",
-        "Time": "1:23.271",
-        "Position": "11"
-    },
-    {
-        "Circuit ID": "imola",
-        "Round": "7",
-        "Lap Number": "20",
-        "Driver ID": "kevin_magnussen",
-        "Time": "1:22.850",
-        "Position": "11"
-    },
-    {
-        "Circuit ID": "imola",
-        "Round": "7",
-        "Lap Number": "21",
-        "Driver ID": "kevin_magnussen",
-        "Time": "1:22.686",
-        "Position": "11"
-    },
-    {
-        "Circuit ID": "imola",
-        "Round": "7",
-        "Lap Number": "22",
-        "Driver ID": "kevin_magnussen",
-        "Time": "1:23.013",
-        "Position": "11"
-    },
-    {
-        "Circuit ID": "imola",
-        "Round": "7",
-        "Lap Number": "23",
-        "Driver ID": "kevin_magnussen",
-        "Time": "1:22.761",
-        "Position": "11"
-    },
-    {
-        "Circuit ID": "imola",
-        "Round": "7",
-        "Lap Number": "24",
-        "Driver ID": "kevin_magnussen",
-        "Time": "1:22.939",
-        "Position": "11"
-    },
-    {
-        "Circuit ID": "imola",
-        "Round": "7",
-        "Lap Number": "25",
-        "Driver ID": "kevin_magnussen",
-        "Time": "1:23.296",
-        "Position": "10"
-    },
-    {
-        "Circuit ID": "imola",
-        "Round": "7",
-        "Lap Number": "26",
-        "Driver ID": "kevin_magnussen",
-        "Time": "1:22.862",
-        "Position": "10"
-    },
-    {
-        "Circuit ID": "imola",
-        "Round": "7",
-        "Lap Number": "27",
-        "Driver ID": "kevin_magnussen",
-        "Time": "1:22.938",
-        "Position": "10"
-    },
-    {
-        "Circuit ID": "imola",
-        "Round": "7",
-        "Lap Number": "28",
-        "Driver ID": "kevin_magnussen",
-        "Time": "1:23.133",
-        "Position": "10"
-    },
-    {
-        "Circuit ID": "imola",
-        "Round": "7",
-        "Lap Number": "29",
-        "Driver ID": "kevin_magnussen",
-        "Time": "1:23.157",
-        "Position": "10"
-    },
-    {
-        "Circuit ID": "imola",
-        "Round": "7",
-        "Lap Number": "30",
-        "Driver ID": "kevin_magnussen",
-        "Time": "1:23.061",
-        "Position": "10"
-    },
-    {
-        "Circuit ID": "imola",
-        "Round": "7",
-        "Lap Number": "31",
-        "Driver ID": "kevin_magnussen",
-        "Time": "1:23.284",
-        "Position": "10"
-    },
-    {
-        "Circuit ID": "imola",
-        "Round": "7",
-        "Lap Number": "32",
-        "Driver ID": "kevin_magnussen",
-        "Time": "1:24.028",
-        "Position": "10"
-    },
-    {
-        "Circuit ID": "imola",
-        "Round": "7",
-        "Lap Number": "33",
-        "Driver ID": "kevin_magnussen",
-        "Time": "1:23.207",
-        "Position": "10"
-    },
-    {
-        "Circuit ID": "imola",
-        "Round": "7",
-        "Lap Number": "34",
-        "Driver ID": "kevin_magnussen",
-        "Time": "1:23.222",
-        "Position": "10"
-    },
-    {
-        "Circuit ID": "imola",
-        "Round": "7",
-        "Lap Number": "35",
-        "Driver ID": "kevin_magnussen",
-        "Time": "1:22.945",
-        "Position": "10"
-    },
-    {
-        "Circuit ID": "imola",
-        "Round": "7",
-        "Lap Number": "36",
-        "Driver ID": "kevin_magnussen",
-        "Time": "1:23.175",
-        "Position": "10"
-    },
-    {
-        "Circuit ID": "imola",
-        "Round": "7",
-        "Lap Number": "37",
-        "Driver ID": "kevin_magnussen",
-        "Time": "1:27.682",
-        "Position": "12"
-    },
-    {
-        "Circuit ID": "imola",
-        "Round": "7",
-        "Lap Number": "38",
-        "Driver ID": "kevin_magnussen",
-        "Time": "1:45.988",
-        "Position": "17"
-    },
-    {
-        "Circuit ID": "imola",
-        "Round": "7",
-        "Lap Number": "39",
-        "Driver ID": "kevin_magnussen",
-        "Time": "1:21.485",
-        "Position": "17"
-    },
-    {
-        "Circuit ID": "imola",
-        "Round": "7",
-        "Lap Number": "40",
-        "Driver ID": "kevin_magnussen",
-        "Time": "1:22.407",
-        "Position": "17"
-    },
-    {
-        "Circuit ID": "imola",
-        "Round": "7",
-        "Lap Number": "41",
-        "Driver ID": "kevin_magnussen",
-        "Time": "1:21.162",
-        "Position": "16"
-    },
-    {
-        "Circuit ID": "imola",
-        "Round": "7",
-        "Lap Number": "42",
-        "Driver ID": "kevin_magnussen",
-        "Time": "1:24.273",
-        "Position": "16"
-    },
-    {
-        "Circuit ID": "imola",
-        "Round": "7",
-        "Lap Number": "43",
-        "Driver ID": "kevin_magnussen",
-        "Time": "1:21.446",
-        "Position": "16"
-    },
-    {
-        "Circuit ID": "imola",
-        "Round": "7",
-        "Lap Number": "44",
-        "Driver ID": "kevin_magnussen",
-        "Time": "1:21.238",
-        "Position": "16"
-    },
-    {
-        "Circuit ID": "imola",
-        "Round": "7",
-        "Lap Number": "45",
-        "Driver ID": "kevin_magnussen",
-        "Time": "1:21.695",
-        "Position": "16"
-    },
-    {
-        "Circuit ID": "imola",
-        "Round": "7",
-        "Lap Number": "46",
-        "Driver ID": "kevin_magnussen",
-        "Time": "1:21.672",
-        "Position": "16"
-    },
-    {
-        "Circuit ID": "imola",
-        "Round": "7",
-        "Lap Number": "47",
-        "Driver ID": "kevin_magnussen",
-        "Time": "1:21.580",
-        "Position": "16"
-    },
-    {
-        "Circuit ID": "imola",
-        "Round": "7",
-        "Lap Number": "48",
-        "Driver ID": "kevin_magnussen",
-        "Time": "1:21.068",
-        "Position": "15"
-    },
-    {
-        "Circuit ID": "imola",
-        "Round": "7",
-        "Lap Number": "49",
-        "Driver ID": "kevin_magnussen",
-        "Time": "1:23.710",
-        "Position": "15"
-    },
-    {
-        "Circuit ID": "imola",
-        "Round": "7",
-        "Lap Number": "50",
-        "Driver ID": "kevin_magnussen",
-        "Time": "1:21.496",
-        "Position": "14"
-    },
-    {
-        "Circuit ID": "imola",
-        "Round": "7",
-        "Lap Number": "51",
-        "Driver ID": "kevin_magnussen",
-        "Time": "1:21.374",
-        "Position": "13"
-    },
-    {
-        "Circuit ID": "imola",
-        "Round": "7",
-        "Lap Number": "52",
-        "Driver ID": "kevin_magnussen",
-        "Time": "1:21.610",
-        "Position": "13"
-    },
-    {
-        "Circuit ID": "imola",
-        "Round": "7",
-        "Lap Number": "53",
-        "Driver ID": "kevin_magnussen",
-        "Time": "1:21.102",
-        "Position": "13"
-    },
-    {
-        "Circuit ID": "imola",
-        "Round": "7",
-        "Lap Number": "54",
-        "Driver ID": "kevin_magnussen",
-        "Time": "1:21.132",
-        "Position": "13"
-    },
-    {
-        "Circuit ID": "imola",
-        "Round": "7",
-        "Lap Number": "55",
-        "Driver ID": "kevin_magnussen",
-        "Time": "1:21.250",
-        "Position": "13"
-    },
-    {
-        "Circuit ID": "imola",
-        "Round": "7",
-        "Lap Number": "56",
-        "Driver ID": "kevin_magnussen",
-        "Time": "1:21.181",
-        "Position": "13"
-    },
-    {
-        "Circuit ID": "imola",
-        "Round": "7",
-        "Lap Number": "57",
-        "Driver ID": "kevin_magnussen",
-        "Time": "1:23.299",
-        "Position": "13"
-    },
-    {
-        "Circuit ID": "imola",
-        "Round": "7",
-        "Lap Number": "58",
-        "Driver ID": "kevin_magnussen",
-        "Time": "1:21.009",
-        "Position": "13"
-    },
-    {
-        "Circuit ID": "imola",
-        "Round": "7",
-        "Lap Number": "59",
-        "Driver ID": "kevin_magnussen",
-        "Time": "1:21.292",
-        "Position": "13"
-    },
-    {
-        "Circuit ID": "imola",
-        "Round": "7",
-        "Lap Number": "60",
-        "Driver ID": "kevin_magnussen",
-        "Time": "1:21.412",
-        "Position": "13"
-    },
-    {
-        "Circuit ID": "imola",
-        "Round": "7",
-        "Lap Number": "61",
-        "Driver ID": "kevin_magnussen",
-        "Time": "1:21.750",
-        "Position": "13"
-    },
-    {
-        "Circuit ID": "imola",
-        "Round": "7",
-        "Lap Number": "62",
-        "Driver ID": "kevin_magnussen",
-        "Time": "1:21.809",
-        "Position": "12"
-    },
-    {
-        "Circuit ID": "imola",
-        "Round": "7",
-        "Lap Number": "1",
-        "Driver ID": "ricciardo",
-        "Time": "1:29.351",
-        "Position": "11"
-    },
-    {
-        "Circuit ID": "imola",
-        "Round": "7",
-        "Lap Number": "2",
-        "Driver ID": "ricciardo",
-        "Time": "1:22.795",
-        "Position": "11"
-    },
-    {
-        "Circuit ID": "imola",
-        "Round": "7",
-        "Lap Number": "3",
-        "Driver ID": "ricciardo",
-        "Time": "1:22.083",
-        "Position": "11"
-    },
-    {
-        "Circuit ID": "imola",
-        "Round": "7",
-        "Lap Number": "4",
-        "Driver ID": "ricciardo",
-        "Time": "1:22.227",
-        "Position": "11"
-    },
-    {
-        "Circuit ID": "imola",
-        "Round": "7",
-        "Lap Number": "5",
-        "Driver ID": "ricciardo",
-        "Time": "1:22.211",
-        "Position": "11"
-    },
-    {
-        "Circuit ID": "imola",
-        "Round": "7",
-        "Lap Number": "6",
-        "Driver ID": "ricciardo",
-        "Time": "1:22.412",
-        "Position": "11"
-    },
-    {
-        "Circuit ID": "imola",
-        "Round": "7",
-        "Lap Number": "7",
-        "Driver ID": "ricciardo",
-        "Time": "1:22.428",
-        "Position": "11"
-    },
-    {
-        "Circuit ID": "imola",
-        "Round": "7",
-        "Lap Number": "8",
-        "Driver ID": "ricciardo",
-        "Time": "1:22.374",
-        "Position": "11"
-    },
-    {
-        "Circuit ID": "imola",
-        "Round": "7",
-        "Lap Number": "9",
-        "Driver ID": "ricciardo",
-        "Time": "1:22.453",
-        "Position": "11"
-    },
-    {
-        "Circuit ID": "imola",
-        "Round": "7",
-        "Lap Number": "10",
-        "Driver ID": "ricciardo",
-        "Time": "1:22.494",
-        "Position": "11"
-    },
-    {
-        "Circuit ID": "imola",
-        "Round": "7",
-        "Lap Number": "11",
-        "Driver ID": "ricciardo",
-        "Time": "1:27.088",
-        "Position": "13"
-    },
-    {
-        "Circuit ID": "imola",
-        "Round": "7",
-        "Lap Number": "12",
-        "Driver ID": "ricciardo",
-        "Time": "1:44.778",
-        "Position": "16"
-    },
-    {
-        "Circuit ID": "imola",
-        "Round": "7",
-        "Lap Number": "13",
-        "Driver ID": "ricciardo",
-        "Time": "1:21.569",
-        "Position": "16"
-    },
-    {
-        "Circuit ID": "imola",
-        "Round": "7",
-        "Lap Number": "14",
-        "Driver ID": "ricciardo",
-        "Time": "1:22.254",
-        "Position": "16"
-    },
-    {
-        "Circuit ID": "imola",
-        "Round": "7",
-        "Lap Number": "15",
-        "Driver ID": "ricciardo",
-        "Time": "1:22.005",
-        "Position": "16"
-    },
-    {
-        "Circuit ID": "imola",
-        "Round": "7",
-        "Lap Number": "16",
-        "Driver ID": "ricciardo",
-        "Time": "1:22.012",
-        "Position": "16"
-    },
-    {
-        "Circuit ID": "imola",
-        "Round": "7",
-        "Lap Number": "17",
-        "Driver ID": "ricciardo",
-        "Time": "1:22.258",
-        "Position": "16"
-    },
-    {
-        "Circuit ID": "imola",
-        "Round": "7",
-        "Lap Number": "18",
-        "Driver ID": "ricciardo",
-        "Time": "1:22.031",
-        "Position": "16"
-    },
-    {
-        "Circuit ID": "imola",
-        "Round": "7",
-        "Lap Number": "19",
-        "Driver ID": "ricciardo",
-        "Time": "1:22.224",
-        "Position": "16"
-    },
-    {
-        "Circuit ID": "imola",
-        "Round": "7",
-        "Lap Number": "20",
-        "Driver ID": "ricciardo",
-        "Time": "1:22.013",
-        "Position": "16"
-    },
-    {
-        "Circuit ID": "imola",
-        "Round": "7",
-        "Lap Number": "21",
-        "Driver ID": "ricciardo",
-        "Time": "1:22.221",
-        "Position": "16"
-    },
-    {
-        "Circuit ID": "imola",
-        "Round": "7",
-        "Lap Number": "22",
-        "Driver ID": "ricciardo",
-        "Time": "1:22.400",
-        "Position": "16"
-    },
-    {
-        "Circuit ID": "imola",
-        "Round": "7",
-        "Lap Number": "23",
-        "Driver ID": "ricciardo",
-        "Time": "1:22.645",
-        "Position": "16"
-    },
-    {
-        "Circuit ID": "imola",
-        "Round": "7",
-        "Lap Number": "24",
-        "Driver ID": "ricciardo",
-        "Time": "1:22.458",
-        "Position": "16"
-    },
-    {
-        "Circuit ID": "imola",
-        "Round": "7",
-        "Lap Number": "25",
-        "Driver ID": "ricciardo",
-        "Time": "1:22.681",
-        "Position": "16"
-    },
-    {
-        "Circuit ID": "imola",
-        "Round": "7",
-        "Lap Number": "26",
-        "Driver ID": "ricciardo",
-        "Time": "1:23.245",
-        "Position": "15"
-    },
-    {
-        "Circuit ID": "imola",
-        "Round": "7",
-        "Lap Number": "27",
-        "Driver ID": "ricciardo",
-        "Time": "1:23.506",
-        "Position": "15"
-    },
-    {
-        "Circuit ID": "imola",
-        "Round": "7",
-        "Lap Number": "28",
-        "Driver ID": "ricciardo",
-        "Time": "1:23.291",
-        "Position": "15"
-    },
-    {
-        "Circuit ID": "imola",
-        "Round": "7",
-        "Lap Number": "29",
-        "Driver ID": "ricciardo",
-        "Time": "1:23.321",
-        "Position": "15"
-    },
-    {
-        "Circuit ID": "imola",
-        "Round": "7",
-        "Lap Number": "30",
-        "Driver ID": "ricciardo",
-        "Time": "1:24.070",
-        "Position": "15"
-    },
-    {
-        "Circuit ID": "imola",
-        "Round": "7",
-        "Lap Number": "31",
-        "Driver ID": "ricciardo",
-        "Time": "1:23.689",
-        "Position": "14"
-    },
-    {
-        "Circuit ID": "imola",
-        "Round": "7",
-        "Lap Number": "32",
-        "Driver ID": "ricciardo",
-        "Time": "1:21.853",
-        "Position": "14"
-    },
-    {
-        "Circuit ID": "imola",
-        "Round": "7",
-        "Lap Number": "33",
-        "Driver ID": "ricciardo",
-        "Time": "1:22.261",
-        "Position": "13"
-    },
-    {
-        "Circuit ID": "imola",
-        "Round": "7",
-        "Lap Number": "34",
-        "Driver ID": "ricciardo",
-        "Time": "1:21.800",
-        "Position": "13"
-    },
-    {
-        "Circuit ID": "imola",
-        "Round": "7",
-        "Lap Number": "35",
-        "Driver ID": "ricciardo",
-        "Time": "1:22.243",
-        "Position": "13"
-    },
-    {
-        "Circuit ID": "imola",
-        "Round": "7",
-        "Lap Number": "36",
-        "Driver ID": "ricciardo",
-        "Time": "1:22.248",
-        "Position": "13"
-    },
-    {
-        "Circuit ID": "imola",
-        "Round": "7",
-        "Lap Number": "37",
-        "Driver ID": "ricciardo",
-        "Time": "1:22.261",
-        "Position": "13"
-    },
-    {
-        "Circuit ID": "imola",
-        "Round": "7",
-        "Lap Number": "38",
-        "Driver ID": "ricciardo",
-        "Time": "1:22.219",
-        "Position": "10"
-    },
-    {
-        "Circuit ID": "imola",
-        "Round": "7",
-        "Lap Number": "39",
-        "Driver ID": "ricciardo",
-        "Time": "1:23.668",
-        "Position": "11"
-    },
-    {
-        "Circuit ID": "imola",
-        "Round": "7",
-        "Lap Number": "40",
-        "Driver ID": "ricciardo",
-        "Time": "1:22.282",
-        "Position": "11"
-    },
-    {
-        "Circuit ID": "imola",
-        "Round": "7",
-        "Lap Number": "41",
-        "Driver ID": "ricciardo",
-        "Time": "1:22.377",
-        "Position": "11"
-    },
-    {
-        "Circuit ID": "imola",
-        "Round": "7",
-        "Lap Number": "42",
-        "Driver ID": "ricciardo",
-        "Time": "1:22.166",
-        "Position": "11"
-    },
-    {
-        "Circuit ID": "imola",
-        "Round": "7",
-        "Lap Number": "43",
-        "Driver ID": "ricciardo",
-        "Time": "1:23.653",
-        "Position": "12"
-    },
-    {
-        "Circuit ID": "imola",
-        "Round": "7",
-        "Lap Number": "44",
-        "Driver ID": "ricciardo",
-        "Time": "1:22.530",
-        "Position": "12"
-    },
-    {
-        "Circuit ID": "imola",
-        "Round": "7",
-        "Lap Number": "45",
-        "Driver ID": "ricciardo",
-        "Time": "1:22.076",
-        "Position": "12"
-    },
-    {
-        "Circuit ID": "imola",
-        "Round": "7",
-        "Lap Number": "46",
-        "Driver ID": "ricciardo",
-        "Time": "1:22.298",
-        "Position": "12"
-    },
-    {
-        "Circuit ID": "imola",
-        "Round": "7",
-        "Lap Number": "47",
-        "Driver ID": "ricciardo",
-        "Time": "1:22.310",
-        "Position": "12"
-    },
-    {
-        "Circuit ID": "imola",
-        "Round": "7",
-        "Lap Number": "48",
-        "Driver ID": "ricciardo",
-        "Time": "1:22.164",
-        "Position": "12"
-    },
-    {
-        "Circuit ID": "imola",
-        "Round": "7",
-        "Lap Number": "49",
-        "Driver ID": "ricciardo",
-        "Time": "1:22.229",
-        "Position": "12"
-    },
-    {
-        "Circuit ID": "imola",
-        "Round": "7",
-        "Lap Number": "50",
-        "Driver ID": "ricciardo",
-        "Time": "1:24.081",
-        "Position": "12"
-    },
-    {
-        "Circuit ID": "imola",
-        "Round": "7",
-        "Lap Number": "51",
-        "Driver ID": "ricciardo",
-        "Time": "1:22.170",
-        "Position": "12"
-    },
-    {
-        "Circuit ID": "imola",
-        "Round": "7",
-        "Lap Number": "52",
-        "Driver ID": "ricciardo",
-        "Time": "1:25.609",
-        "Position": "12"
-    },
-    {
-        "Circuit ID": "imola",
-        "Round": "7",
-        "Lap Number": "53",
-        "Driver ID": "ricciardo",
-        "Time": "1:22.300",
-        "Position": "12"
-    },
-    {
-        "Circuit ID": "imola",
-        "Round": "7",
-        "Lap Number": "54",
-        "Driver ID": "ricciardo",
-        "Time": "1:21.985",
-        "Position": "12"
-    },
-    {
-        "Circuit ID": "imola",
-        "Round": "7",
-        "Lap Number": "55",
-        "Driver ID": "ricciardo",
-        "Time": "1:21.900",
-        "Position": "12"
-    },
-    {
-        "Circuit ID": "imola",
-        "Round": "7",
-        "Lap Number": "56",
-        "Driver ID": "ricciardo",
-        "Time": "1:23.896",
-        "Position": "12"
-    },
-    {
-        "Circuit ID": "imola",
-        "Round": "7",
-        "Lap Number": "57",
-        "Driver ID": "ricciardo",
-        "Time": "1:22.310",
-        "Position": "12"
-    },
-    {
-        "Circuit ID": "imola",
-        "Round": "7",
-        "Lap Number": "58",
-        "Driver ID": "ricciardo",
-        "Time": "1:22.060",
-        "Position": "12"
-    },
-    {
-        "Circuit ID": "imola",
-        "Round": "7",
-        "Lap Number": "59",
-        "Driver ID": "ricciardo",
-        "Time": "1:21.974",
-        "Position": "12"
-    },
-    {
-        "Circuit ID": "imola",
-        "Round": "7",
-        "Lap Number": "60",
-        "Driver ID": "ricciardo",
-        "Time": "1:24.027",
-        "Position": "12"
-    },
-    {
-        "Circuit ID": "imola",
-        "Round": "7",
-        "Lap Number": "61",
-        "Driver ID": "ricciardo",
-        "Time": "1:21.941",
-        "Position": "12"
-    },
-    {
-        "Circuit ID": "imola",
-        "Round": "7",
-        "Lap Number": "62",
-        "Driver ID": "ricciardo",
-        "Time": "1:23.435",
-        "Position": "13"
     },
     {
         "Circuit ID": "imola",
@@ -7003,497 +6019,497 @@
         "Circuit ID": "imola",
         "Round": "7",
         "Lap Number": "1",
-        "Driver ID": "bottas",
-        "Time": "1:32.273",
-        "Position": "17"
-    },
-    {
-        "Circuit ID": "imola",
-        "Round": "7",
-        "Lap Number": "2",
-        "Driver ID": "bottas",
-        "Time": "1:23.624",
-        "Position": "17"
-    },
-    {
-        "Circuit ID": "imola",
-        "Round": "7",
-        "Lap Number": "3",
-        "Driver ID": "bottas",
-        "Time": "1:22.762",
-        "Position": "17"
-    },
-    {
-        "Circuit ID": "imola",
-        "Round": "7",
-        "Lap Number": "4",
-        "Driver ID": "bottas",
-        "Time": "1:22.786",
-        "Position": "17"
-    },
-    {
-        "Circuit ID": "imola",
-        "Round": "7",
-        "Lap Number": "5",
-        "Driver ID": "bottas",
-        "Time": "1:22.794",
-        "Position": "17"
-    },
-    {
-        "Circuit ID": "imola",
-        "Round": "7",
-        "Lap Number": "6",
-        "Driver ID": "bottas",
-        "Time": "1:22.415",
-        "Position": "17"
-    },
-    {
-        "Circuit ID": "imola",
-        "Round": "7",
-        "Lap Number": "7",
-        "Driver ID": "bottas",
-        "Time": "1:22.568",
-        "Position": "17"
-    },
-    {
-        "Circuit ID": "imola",
-        "Round": "7",
-        "Lap Number": "8",
-        "Driver ID": "bottas",
-        "Time": "1:27.265",
+        "Driver ID": "sargeant",
+        "Time": "1:33.076",
         "Position": "19"
     },
     {
         "Circuit ID": "imola",
         "Round": "7",
+        "Lap Number": "2",
+        "Driver ID": "sargeant",
+        "Time": "1:24.242",
+        "Position": "19"
+    },
+    {
+        "Circuit ID": "imola",
+        "Round": "7",
+        "Lap Number": "3",
+        "Driver ID": "sargeant",
+        "Time": "1:22.784",
+        "Position": "19"
+    },
+    {
+        "Circuit ID": "imola",
+        "Round": "7",
+        "Lap Number": "4",
+        "Driver ID": "sargeant",
+        "Time": "1:22.990",
+        "Position": "19"
+    },
+    {
+        "Circuit ID": "imola",
+        "Round": "7",
+        "Lap Number": "5",
+        "Driver ID": "sargeant",
+        "Time": "1:22.702",
+        "Position": "19"
+    },
+    {
+        "Circuit ID": "imola",
+        "Round": "7",
+        "Lap Number": "6",
+        "Driver ID": "sargeant",
+        "Time": "1:22.755",
+        "Position": "19"
+    },
+    {
+        "Circuit ID": "imola",
+        "Round": "7",
+        "Lap Number": "7",
+        "Driver ID": "sargeant",
+        "Time": "1:22.978",
+        "Position": "19"
+    },
+    {
+        "Circuit ID": "imola",
+        "Round": "7",
+        "Lap Number": "8",
+        "Driver ID": "sargeant",
+        "Time": "1:22.776",
+        "Position": "17"
+    },
+    {
+        "Circuit ID": "imola",
+        "Round": "7",
         "Lap Number": "9",
-        "Driver ID": "bottas",
-        "Time": "1:45.836",
-        "Position": "18"
+        "Driver ID": "sargeant",
+        "Time": "1:23.268",
+        "Position": "16"
     },
     {
         "Circuit ID": "imola",
         "Round": "7",
         "Lap Number": "10",
-        "Driver ID": "bottas",
-        "Time": "1:21.529",
-        "Position": "18"
+        "Driver ID": "sargeant",
+        "Time": "1:23.239",
+        "Position": "16"
     },
     {
         "Circuit ID": "imola",
         "Round": "7",
         "Lap Number": "11",
-        "Driver ID": "bottas",
-        "Time": "1:21.455",
-        "Position": "18"
+        "Driver ID": "sargeant",
+        "Time": "1:23.211",
+        "Position": "16"
     },
     {
         "Circuit ID": "imola",
         "Round": "7",
         "Lap Number": "12",
-        "Driver ID": "bottas",
-        "Time": "1:21.971",
-        "Position": "18"
+        "Driver ID": "sargeant",
+        "Time": "1:23.349",
+        "Position": "15"
     },
     {
         "Circuit ID": "imola",
         "Round": "7",
         "Lap Number": "13",
-        "Driver ID": "bottas",
-        "Time": "1:21.605",
-        "Position": "18"
+        "Driver ID": "sargeant",
+        "Time": "1:23.581",
+        "Position": "14"
     },
     {
         "Circuit ID": "imola",
         "Round": "7",
         "Lap Number": "14",
-        "Driver ID": "bottas",
-        "Time": "1:21.732",
-        "Position": "18"
+        "Driver ID": "sargeant",
+        "Time": "1:23.012",
+        "Position": "13"
     },
     {
         "Circuit ID": "imola",
         "Round": "7",
         "Lap Number": "15",
-        "Driver ID": "bottas",
-        "Time": "1:21.982",
-        "Position": "18"
+        "Driver ID": "sargeant",
+        "Time": "1:23.038",
+        "Position": "13"
     },
     {
         "Circuit ID": "imola",
         "Round": "7",
         "Lap Number": "16",
-        "Driver ID": "bottas",
-        "Time": "1:21.896",
-        "Position": "18"
+        "Driver ID": "sargeant",
+        "Time": "1:22.939",
+        "Position": "13"
     },
     {
         "Circuit ID": "imola",
         "Round": "7",
         "Lap Number": "17",
-        "Driver ID": "bottas",
-        "Time": "1:22.468",
-        "Position": "18"
+        "Driver ID": "sargeant",
+        "Time": "1:23.151",
+        "Position": "13"
     },
     {
         "Circuit ID": "imola",
         "Round": "7",
         "Lap Number": "18",
-        "Driver ID": "bottas",
-        "Time": "1:22.360",
-        "Position": "18"
+        "Driver ID": "sargeant",
+        "Time": "1:23.363",
+        "Position": "13"
     },
     {
         "Circuit ID": "imola",
         "Round": "7",
         "Lap Number": "19",
-        "Driver ID": "bottas",
-        "Time": "1:22.283",
-        "Position": "18"
+        "Driver ID": "sargeant",
+        "Time": "1:23.471",
+        "Position": "13"
     },
     {
         "Circuit ID": "imola",
         "Round": "7",
         "Lap Number": "20",
-        "Driver ID": "bottas",
-        "Time": "1:22.239",
-        "Position": "18"
+        "Driver ID": "sargeant",
+        "Time": "1:23.171",
+        "Position": "13"
     },
     {
         "Circuit ID": "imola",
         "Round": "7",
         "Lap Number": "21",
-        "Driver ID": "bottas",
-        "Time": "1:22.231",
-        "Position": "18"
+        "Driver ID": "sargeant",
+        "Time": "1:23.255",
+        "Position": "13"
     },
     {
         "Circuit ID": "imola",
         "Round": "7",
         "Lap Number": "22",
-        "Driver ID": "bottas",
-        "Time": "1:22.436",
-        "Position": "18"
+        "Driver ID": "sargeant",
+        "Time": "1:23.287",
+        "Position": "13"
     },
     {
         "Circuit ID": "imola",
         "Round": "7",
         "Lap Number": "23",
-        "Driver ID": "bottas",
-        "Time": "1:22.334",
-        "Position": "18"
+        "Driver ID": "sargeant",
+        "Time": "1:22.953",
+        "Position": "13"
     },
     {
         "Circuit ID": "imola",
         "Round": "7",
         "Lap Number": "24",
-        "Driver ID": "bottas",
-        "Time": "1:22.589",
-        "Position": "18"
+        "Driver ID": "sargeant",
+        "Time": "1:22.987",
+        "Position": "13"
     },
     {
         "Circuit ID": "imola",
         "Round": "7",
         "Lap Number": "25",
-        "Driver ID": "bottas",
-        "Time": "1:22.605",
-        "Position": "18"
+        "Driver ID": "sargeant",
+        "Time": "1:23.248",
+        "Position": "13"
     },
     {
         "Circuit ID": "imola",
         "Round": "7",
         "Lap Number": "26",
-        "Driver ID": "bottas",
-        "Time": "1:22.655",
-        "Position": "17"
+        "Driver ID": "sargeant",
+        "Time": "1:25.354",
+        "Position": "14"
     },
     {
         "Circuit ID": "imola",
         "Round": "7",
         "Lap Number": "27",
-        "Driver ID": "bottas",
-        "Time": "1:22.583",
-        "Position": "17"
+        "Driver ID": "sargeant",
+        "Time": "1:23.498",
+        "Position": "14"
     },
     {
         "Circuit ID": "imola",
         "Round": "7",
         "Lap Number": "28",
-        "Driver ID": "bottas",
-        "Time": "1:22.969",
-        "Position": "17"
+        "Driver ID": "sargeant",
+        "Time": "1:23.234",
+        "Position": "14"
     },
     {
         "Circuit ID": "imola",
         "Round": "7",
         "Lap Number": "29",
-        "Driver ID": "bottas",
-        "Time": "1:23.139",
-        "Position": "17"
+        "Driver ID": "sargeant",
+        "Time": "1:23.436",
+        "Position": "14"
     },
     {
         "Circuit ID": "imola",
         "Round": "7",
         "Lap Number": "30",
-        "Driver ID": "bottas",
-        "Time": "1:23.276",
-        "Position": "16"
+        "Driver ID": "sargeant",
+        "Time": "1:24.026",
+        "Position": "14"
     },
     {
         "Circuit ID": "imola",
         "Round": "7",
         "Lap Number": "31",
-        "Driver ID": "bottas",
-        "Time": "1:22.862",
-        "Position": "15"
-    },
-    {
-        "Circuit ID": "imola",
-        "Round": "7",
-        "Lap Number": "32",
-        "Driver ID": "bottas",
-        "Time": "1:22.673",
-        "Position": "15"
-    },
-    {
-        "Circuit ID": "imola",
-        "Round": "7",
-        "Lap Number": "33",
-        "Driver ID": "bottas",
-        "Time": "1:23.028",
-        "Position": "15"
-    },
-    {
-        "Circuit ID": "imola",
-        "Round": "7",
-        "Lap Number": "34",
-        "Driver ID": "bottas",
-        "Time": "1:22.761",
-        "Position": "14"
-    },
-    {
-        "Circuit ID": "imola",
-        "Round": "7",
-        "Lap Number": "35",
-        "Driver ID": "bottas",
-        "Time": "1:22.683",
-        "Position": "14"
-    },
-    {
-        "Circuit ID": "imola",
-        "Round": "7",
-        "Lap Number": "36",
-        "Driver ID": "bottas",
-        "Time": "1:22.756",
-        "Position": "14"
-    },
-    {
-        "Circuit ID": "imola",
-        "Round": "7",
-        "Lap Number": "37",
-        "Driver ID": "bottas",
-        "Time": "1:22.718",
-        "Position": "14"
-    },
-    {
-        "Circuit ID": "imola",
-        "Round": "7",
-        "Lap Number": "38",
-        "Driver ID": "bottas",
-        "Time": "1:22.620",
-        "Position": "12"
-    },
-    {
-        "Circuit ID": "imola",
-        "Round": "7",
-        "Lap Number": "39",
-        "Driver ID": "bottas",
-        "Time": "1:22.823",
-        "Position": "12"
-    },
-    {
-        "Circuit ID": "imola",
-        "Round": "7",
-        "Lap Number": "40",
-        "Driver ID": "bottas",
-        "Time": "1:23.805",
-        "Position": "13"
-    },
-    {
-        "Circuit ID": "imola",
-        "Round": "7",
-        "Lap Number": "41",
-        "Driver ID": "bottas",
-        "Time": "1:22.798",
-        "Position": "13"
-    },
-    {
-        "Circuit ID": "imola",
-        "Round": "7",
-        "Lap Number": "42",
-        "Driver ID": "bottas",
-        "Time": "1:22.709",
-        "Position": "13"
-    },
-    {
-        "Circuit ID": "imola",
-        "Round": "7",
-        "Lap Number": "43",
-        "Driver ID": "bottas",
-        "Time": "1:22.686",
-        "Position": "13"
-    },
-    {
-        "Circuit ID": "imola",
-        "Round": "7",
-        "Lap Number": "44",
-        "Driver ID": "bottas",
-        "Time": "1:22.681",
-        "Position": "13"
-    },
-    {
-        "Circuit ID": "imola",
-        "Round": "7",
-        "Lap Number": "45",
-        "Driver ID": "bottas",
-        "Time": "1:24.419",
-        "Position": "13"
-    },
-    {
-        "Circuit ID": "imola",
-        "Round": "7",
-        "Lap Number": "46",
-        "Driver ID": "bottas",
-        "Time": "1:23.857",
-        "Position": "13"
-    },
-    {
-        "Circuit ID": "imola",
-        "Round": "7",
-        "Lap Number": "47",
-        "Driver ID": "bottas",
-        "Time": "1:25.739",
-        "Position": "13"
-    },
-    {
-        "Circuit ID": "imola",
-        "Round": "7",
-        "Lap Number": "48",
-        "Driver ID": "bottas",
-        "Time": "1:22.396",
-        "Position": "13"
-    },
-    {
-        "Circuit ID": "imola",
-        "Round": "7",
-        "Lap Number": "49",
-        "Driver ID": "bottas",
-        "Time": "1:22.636",
-        "Position": "13"
-    },
-    {
-        "Circuit ID": "imola",
-        "Round": "7",
-        "Lap Number": "50",
-        "Driver ID": "bottas",
-        "Time": "1:23.889",
-        "Position": "13"
-    },
-    {
-        "Circuit ID": "imola",
-        "Round": "7",
-        "Lap Number": "51",
-        "Driver ID": "bottas",
-        "Time": "1:23.709",
-        "Position": "14"
-    },
-    {
-        "Circuit ID": "imola",
-        "Round": "7",
-        "Lap Number": "52",
-        "Driver ID": "bottas",
-        "Time": "1:24.074",
-        "Position": "14"
-    },
-    {
-        "Circuit ID": "imola",
-        "Round": "7",
-        "Lap Number": "53",
-        "Driver ID": "bottas",
-        "Time": "1:22.947",
-        "Position": "14"
-    },
-    {
-        "Circuit ID": "imola",
-        "Round": "7",
-        "Lap Number": "54",
-        "Driver ID": "bottas",
-        "Time": "1:23.616",
-        "Position": "14"
-    },
-    {
-        "Circuit ID": "imola",
-        "Round": "7",
-        "Lap Number": "55",
-        "Driver ID": "bottas",
-        "Time": "1:23.010",
-        "Position": "14"
-    },
-    {
-        "Circuit ID": "imola",
-        "Round": "7",
-        "Lap Number": "56",
-        "Driver ID": "bottas",
-        "Time": "1:22.917",
-        "Position": "14"
-    },
-    {
-        "Circuit ID": "imola",
-        "Round": "7",
-        "Lap Number": "57",
-        "Driver ID": "bottas",
-        "Time": "1:24.466",
-        "Position": "14"
-    },
-    {
-        "Circuit ID": "imola",
-        "Round": "7",
-        "Lap Number": "58",
-        "Driver ID": "bottas",
-        "Time": "1:22.528",
-        "Position": "14"
-    },
-    {
-        "Circuit ID": "imola",
-        "Round": "7",
-        "Lap Number": "59",
-        "Driver ID": "bottas",
-        "Time": "1:24.530",
-        "Position": "15"
-    },
-    {
-        "Circuit ID": "imola",
-        "Round": "7",
-        "Lap Number": "60",
-        "Driver ID": "bottas",
-        "Time": "1:24.449",
+        "Driver ID": "sargeant",
+        "Time": "1:28.215",
         "Position": "16"
     },
     {
         "Circuit ID": "imola",
         "Round": "7",
-        "Lap Number": "61",
-        "Driver ID": "bottas",
-        "Time": "1:26.165",
+        "Lap Number": "32",
+        "Driver ID": "sargeant",
+        "Time": "1:48.212",
+        "Position": "19"
+    },
+    {
+        "Circuit ID": "imola",
+        "Round": "7",
+        "Lap Number": "33",
+        "Driver ID": "sargeant",
+        "Time": "1:21.460",
+        "Position": "19"
+    },
+    {
+        "Circuit ID": "imola",
+        "Round": "7",
+        "Lap Number": "34",
+        "Driver ID": "sargeant",
+        "Time": "1:21.607",
+        "Position": "19"
+    },
+    {
+        "Circuit ID": "imola",
+        "Round": "7",
+        "Lap Number": "35",
+        "Driver ID": "sargeant",
+        "Time": "1:21.561",
+        "Position": "19"
+    },
+    {
+        "Circuit ID": "imola",
+        "Round": "7",
+        "Lap Number": "36",
+        "Driver ID": "sargeant",
+        "Time": "1:21.629",
+        "Position": "19"
+    },
+    {
+        "Circuit ID": "imola",
+        "Round": "7",
+        "Lap Number": "37",
+        "Driver ID": "sargeant",
+        "Time": "1:22.964",
+        "Position": "19"
+    },
+    {
+        "Circuit ID": "imola",
+        "Round": "7",
+        "Lap Number": "38",
+        "Driver ID": "sargeant",
+        "Time": "1:23.089",
+        "Position": "19"
+    },
+    {
+        "Circuit ID": "imola",
+        "Round": "7",
+        "Lap Number": "39",
+        "Driver ID": "sargeant",
+        "Time": "1:23.085",
+        "Position": "19"
+    },
+    {
+        "Circuit ID": "imola",
+        "Round": "7",
+        "Lap Number": "40",
+        "Driver ID": "sargeant",
+        "Time": "1:21.335",
+        "Position": "19"
+    },
+    {
+        "Circuit ID": "imola",
+        "Round": "7",
+        "Lap Number": "41",
+        "Driver ID": "sargeant",
+        "Time": "1:21.504",
         "Position": "18"
     },
     {
         "Circuit ID": "imola",
         "Round": "7",
-        "Lap Number": "62",
-        "Driver ID": "bottas",
-        "Time": "1:25.985",
+        "Lap Number": "42",
+        "Driver ID": "sargeant",
+        "Time": "1:21.496",
         "Position": "18"
+    },
+    {
+        "Circuit ID": "imola",
+        "Round": "7",
+        "Lap Number": "43",
+        "Driver ID": "sargeant",
+        "Time": "1:21.857",
+        "Position": "18"
+    },
+    {
+        "Circuit ID": "imola",
+        "Round": "7",
+        "Lap Number": "44",
+        "Driver ID": "sargeant",
+        "Time": "1:23.923",
+        "Position": "18"
+    },
+    {
+        "Circuit ID": "imola",
+        "Round": "7",
+        "Lap Number": "45",
+        "Driver ID": "sargeant",
+        "Time": "1:22.435",
+        "Position": "18"
+    },
+    {
+        "Circuit ID": "imola",
+        "Round": "7",
+        "Lap Number": "46",
+        "Driver ID": "sargeant",
+        "Time": "1:22.333",
+        "Position": "18"
+    },
+    {
+        "Circuit ID": "imola",
+        "Round": "7",
+        "Lap Number": "47",
+        "Driver ID": "sargeant",
+        "Time": "1:22.308",
+        "Position": "18"
+    },
+    {
+        "Circuit ID": "imola",
+        "Round": "7",
+        "Lap Number": "48",
+        "Driver ID": "sargeant",
+        "Time": "1:22.186",
+        "Position": "18"
+    },
+    {
+        "Circuit ID": "imola",
+        "Round": "7",
+        "Lap Number": "49",
+        "Driver ID": "sargeant",
+        "Time": "1:23.806",
+        "Position": "18"
+    },
+    {
+        "Circuit ID": "imola",
+        "Round": "7",
+        "Lap Number": "50",
+        "Driver ID": "sargeant",
+        "Time": "1:22.079",
+        "Position": "18"
+    },
+    {
+        "Circuit ID": "imola",
+        "Round": "7",
+        "Lap Number": "51",
+        "Driver ID": "sargeant",
+        "Time": "1:22.157",
+        "Position": "18"
+    },
+    {
+        "Circuit ID": "imola",
+        "Round": "7",
+        "Lap Number": "52",
+        "Driver ID": "sargeant",
+        "Time": "1:24.123",
+        "Position": "19"
+    },
+    {
+        "Circuit ID": "imola",
+        "Round": "7",
+        "Lap Number": "53",
+        "Driver ID": "sargeant",
+        "Time": "1:21.502",
+        "Position": "19"
+    },
+    {
+        "Circuit ID": "imola",
+        "Round": "7",
+        "Lap Number": "54",
+        "Driver ID": "sargeant",
+        "Time": "1:21.410",
+        "Position": "19"
+    },
+    {
+        "Circuit ID": "imola",
+        "Round": "7",
+        "Lap Number": "55",
+        "Driver ID": "sargeant",
+        "Time": "1:21.229",
+        "Position": "19"
+    },
+    {
+        "Circuit ID": "imola",
+        "Round": "7",
+        "Lap Number": "56",
+        "Driver ID": "sargeant",
+        "Time": "1:21.883",
+        "Position": "19"
+    },
+    {
+        "Circuit ID": "imola",
+        "Round": "7",
+        "Lap Number": "57",
+        "Driver ID": "sargeant",
+        "Time": "1:22.671",
+        "Position": "19"
+    },
+    {
+        "Circuit ID": "imola",
+        "Round": "7",
+        "Lap Number": "58",
+        "Driver ID": "sargeant",
+        "Time": "1:22.915",
+        "Position": "19"
+    },
+    {
+        "Circuit ID": "imola",
+        "Round": "7",
+        "Lap Number": "59",
+        "Driver ID": "sargeant",
+        "Time": "1:23.522",
+        "Position": "18"
+    },
+    {
+        "Circuit ID": "imola",
+        "Round": "7",
+        "Lap Number": "60",
+        "Driver ID": "sargeant",
+        "Time": "1:23.767",
+        "Position": "18"
+    },
+    {
+        "Circuit ID": "imola",
+        "Round": "7",
+        "Lap Number": "61",
+        "Driver ID": "sargeant",
+        "Time": "1:24.394",
+        "Position": "17"
+    },
+    {
+        "Circuit ID": "imola",
+        "Round": "7",
+        "Lap Number": "62",
+        "Driver ID": "sargeant",
+        "Time": "1:21.272",
+        "Position": "17"
     },
     {
         "Circuit ID": "imola",

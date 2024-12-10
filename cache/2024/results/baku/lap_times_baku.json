@@ -1,1 +1,5746 @@
-[]
+[
+    {
+        "Circuit ID": "baku",
+        "Round": "17",
+        "Lap Number": "1",
+        "Driver ID": "piastri",
+        "Time": "1:52.903",
+        "Position": "2"
+    },
+    {
+        "Circuit ID": "baku",
+        "Round": "17",
+        "Lap Number": "2",
+        "Driver ID": "piastri",
+        "Time": "1:48.944",
+        "Position": "2"
+    },
+    {
+        "Circuit ID": "baku",
+        "Round": "17",
+        "Lap Number": "3",
+        "Driver ID": "piastri",
+        "Time": "1:48.811",
+        "Position": "2"
+    },
+    {
+        "Circuit ID": "baku",
+        "Round": "17",
+        "Lap Number": "4",
+        "Driver ID": "piastri",
+        "Time": "1:48.408",
+        "Position": "2"
+    },
+    {
+        "Circuit ID": "baku",
+        "Round": "17",
+        "Lap Number": "5",
+        "Driver ID": "piastri",
+        "Time": "1:48.070",
+        "Position": "2"
+    },
+    {
+        "Circuit ID": "baku",
+        "Round": "17",
+        "Lap Number": "6",
+        "Driver ID": "piastri",
+        "Time": "1:48.848",
+        "Position": "2"
+    },
+    {
+        "Circuit ID": "baku",
+        "Round": "17",
+        "Lap Number": "7",
+        "Driver ID": "piastri",
+        "Time": "1:48.755",
+        "Position": "2"
+    },
+    {
+        "Circuit ID": "baku",
+        "Round": "17",
+        "Lap Number": "8",
+        "Driver ID": "piastri",
+        "Time": "1:48.297",
+        "Position": "2"
+    },
+    {
+        "Circuit ID": "baku",
+        "Round": "17",
+        "Lap Number": "9",
+        "Driver ID": "piastri",
+        "Time": "1:48.225",
+        "Position": "2"
+    },
+    {
+        "Circuit ID": "baku",
+        "Round": "17",
+        "Lap Number": "10",
+        "Driver ID": "piastri",
+        "Time": "1:48.601",
+        "Position": "2"
+    },
+    {
+        "Circuit ID": "baku",
+        "Round": "17",
+        "Lap Number": "11",
+        "Driver ID": "piastri",
+        "Time": "1:48.304",
+        "Position": "2"
+    },
+    {
+        "Circuit ID": "baku",
+        "Round": "17",
+        "Lap Number": "12",
+        "Driver ID": "piastri",
+        "Time": "1:48.948",
+        "Position": "2"
+    },
+    {
+        "Circuit ID": "baku",
+        "Round": "17",
+        "Lap Number": "13",
+        "Driver ID": "piastri",
+        "Time": "1:49.194",
+        "Position": "2"
+    },
+    {
+        "Circuit ID": "baku",
+        "Round": "17",
+        "Lap Number": "14",
+        "Driver ID": "piastri",
+        "Time": "1:49.577",
+        "Position": "2"
+    },
+    {
+        "Circuit ID": "baku",
+        "Round": "17",
+        "Lap Number": "15",
+        "Driver ID": "piastri",
+        "Time": "1:53.511",
+        "Position": "3"
+    },
+    {
+        "Circuit ID": "baku",
+        "Round": "17",
+        "Lap Number": "16",
+        "Driver ID": "piastri",
+        "Time": "2:03.253",
+        "Position": "4"
+    },
+    {
+        "Circuit ID": "baku",
+        "Round": "17",
+        "Lap Number": "17",
+        "Driver ID": "piastri",
+        "Time": "1:48.556",
+        "Position": "3"
+    },
+    {
+        "Circuit ID": "baku",
+        "Round": "17",
+        "Lap Number": "18",
+        "Driver ID": "piastri",
+        "Time": "1:47.817",
+        "Position": "2"
+    },
+    {
+        "Circuit ID": "baku",
+        "Round": "17",
+        "Lap Number": "19",
+        "Driver ID": "piastri",
+        "Time": "1:47.465",
+        "Position": "2"
+    },
+    {
+        "Circuit ID": "baku",
+        "Round": "17",
+        "Lap Number": "20",
+        "Driver ID": "piastri",
+        "Time": "1:48.866",
+        "Position": "1"
+    },
+    {
+        "Circuit ID": "baku",
+        "Round": "17",
+        "Lap Number": "21",
+        "Driver ID": "piastri",
+        "Time": "1:47.854",
+        "Position": "1"
+    },
+    {
+        "Circuit ID": "baku",
+        "Round": "17",
+        "Lap Number": "22",
+        "Driver ID": "piastri",
+        "Time": "1:47.751",
+        "Position": "1"
+    },
+    {
+        "Circuit ID": "baku",
+        "Round": "17",
+        "Lap Number": "23",
+        "Driver ID": "piastri",
+        "Time": "1:47.481",
+        "Position": "1"
+    },
+    {
+        "Circuit ID": "baku",
+        "Round": "17",
+        "Lap Number": "24",
+        "Driver ID": "piastri",
+        "Time": "1:47.066",
+        "Position": "1"
+    },
+    {
+        "Circuit ID": "baku",
+        "Round": "17",
+        "Lap Number": "25",
+        "Driver ID": "piastri",
+        "Time": "1:47.408",
+        "Position": "1"
+    },
+    {
+        "Circuit ID": "baku",
+        "Round": "17",
+        "Lap Number": "26",
+        "Driver ID": "piastri",
+        "Time": "1:47.528",
+        "Position": "1"
+    },
+    {
+        "Circuit ID": "baku",
+        "Round": "17",
+        "Lap Number": "27",
+        "Driver ID": "piastri",
+        "Time": "1:47.368",
+        "Position": "1"
+    },
+    {
+        "Circuit ID": "baku",
+        "Round": "17",
+        "Lap Number": "28",
+        "Driver ID": "piastri",
+        "Time": "1:47.558",
+        "Position": "1"
+    },
+    {
+        "Circuit ID": "baku",
+        "Round": "17",
+        "Lap Number": "29",
+        "Driver ID": "piastri",
+        "Time": "1:47.601",
+        "Position": "1"
+    },
+    {
+        "Circuit ID": "baku",
+        "Round": "17",
+        "Lap Number": "30",
+        "Driver ID": "piastri",
+        "Time": "1:47.661",
+        "Position": "1"
+    },
+    {
+        "Circuit ID": "baku",
+        "Round": "17",
+        "Lap Number": "31",
+        "Driver ID": "piastri",
+        "Time": "1:47.923",
+        "Position": "1"
+    },
+    {
+        "Circuit ID": "baku",
+        "Round": "17",
+        "Lap Number": "32",
+        "Driver ID": "piastri",
+        "Time": "1:48.135",
+        "Position": "1"
+    },
+    {
+        "Circuit ID": "baku",
+        "Round": "17",
+        "Lap Number": "33",
+        "Driver ID": "piastri",
+        "Time": "1:48.436",
+        "Position": "1"
+    },
+    {
+        "Circuit ID": "baku",
+        "Round": "17",
+        "Lap Number": "34",
+        "Driver ID": "piastri",
+        "Time": "1:47.927",
+        "Position": "1"
+    },
+    {
+        "Circuit ID": "baku",
+        "Round": "17",
+        "Lap Number": "35",
+        "Driver ID": "piastri",
+        "Time": "1:47.821",
+        "Position": "1"
+    },
+    {
+        "Circuit ID": "baku",
+        "Round": "17",
+        "Lap Number": "36",
+        "Driver ID": "piastri",
+        "Time": "1:47.873",
+        "Position": "1"
+    },
+    {
+        "Circuit ID": "baku",
+        "Round": "17",
+        "Lap Number": "37",
+        "Driver ID": "piastri",
+        "Time": "1:47.857",
+        "Position": "1"
+    },
+    {
+        "Circuit ID": "baku",
+        "Round": "17",
+        "Lap Number": "38",
+        "Driver ID": "piastri",
+        "Time": "1:47.682",
+        "Position": "1"
+    },
+    {
+        "Circuit ID": "baku",
+        "Round": "17",
+        "Lap Number": "39",
+        "Driver ID": "piastri",
+        "Time": "1:47.776",
+        "Position": "1"
+    },
+    {
+        "Circuit ID": "baku",
+        "Round": "17",
+        "Lap Number": "40",
+        "Driver ID": "piastri",
+        "Time": "1:47.721",
+        "Position": "1"
+    },
+    {
+        "Circuit ID": "baku",
+        "Round": "17",
+        "Lap Number": "41",
+        "Driver ID": "piastri",
+        "Time": "1:47.875",
+        "Position": "1"
+    },
+    {
+        "Circuit ID": "baku",
+        "Round": "17",
+        "Lap Number": "42",
+        "Driver ID": "piastri",
+        "Time": "1:47.688",
+        "Position": "1"
+    },
+    {
+        "Circuit ID": "baku",
+        "Round": "17",
+        "Lap Number": "43",
+        "Driver ID": "piastri",
+        "Time": "1:47.616",
+        "Position": "1"
+    },
+    {
+        "Circuit ID": "baku",
+        "Round": "17",
+        "Lap Number": "44",
+        "Driver ID": "piastri",
+        "Time": "1:47.365",
+        "Position": "1"
+    },
+    {
+        "Circuit ID": "baku",
+        "Round": "17",
+        "Lap Number": "45",
+        "Driver ID": "piastri",
+        "Time": "1:47.727",
+        "Position": "1"
+    },
+    {
+        "Circuit ID": "baku",
+        "Round": "17",
+        "Lap Number": "46",
+        "Driver ID": "piastri",
+        "Time": "1:47.269",
+        "Position": "1"
+    },
+    {
+        "Circuit ID": "baku",
+        "Round": "17",
+        "Lap Number": "47",
+        "Driver ID": "piastri",
+        "Time": "1:47.060",
+        "Position": "1"
+    },
+    {
+        "Circuit ID": "baku",
+        "Round": "17",
+        "Lap Number": "48",
+        "Driver ID": "piastri",
+        "Time": "1:47.488",
+        "Position": "1"
+    },
+    {
+        "Circuit ID": "baku",
+        "Round": "17",
+        "Lap Number": "49",
+        "Driver ID": "piastri",
+        "Time": "1:47.547",
+        "Position": "1"
+    },
+    {
+        "Circuit ID": "baku",
+        "Round": "17",
+        "Lap Number": "50",
+        "Driver ID": "piastri",
+        "Time": "1:47.258",
+        "Position": "1"
+    },
+    {
+        "Circuit ID": "baku",
+        "Round": "17",
+        "Lap Number": "51",
+        "Driver ID": "piastri",
+        "Time": "2:33.334",
+        "Position": "1"
+    },
+    {
+        "Circuit ID": "baku",
+        "Round": "17",
+        "Lap Number": "1",
+        "Driver ID": "russell",
+        "Time": "1:56.420",
+        "Position": "6"
+    },
+    {
+        "Circuit ID": "baku",
+        "Round": "17",
+        "Lap Number": "2",
+        "Driver ID": "russell",
+        "Time": "1:49.738",
+        "Position": "6"
+    },
+    {
+        "Circuit ID": "baku",
+        "Round": "17",
+        "Lap Number": "3",
+        "Driver ID": "russell",
+        "Time": "1:49.359",
+        "Position": "6"
+    },
+    {
+        "Circuit ID": "baku",
+        "Round": "17",
+        "Lap Number": "4",
+        "Driver ID": "russell",
+        "Time": "1:49.199",
+        "Position": "6"
+    },
+    {
+        "Circuit ID": "baku",
+        "Round": "17",
+        "Lap Number": "5",
+        "Driver ID": "russell",
+        "Time": "1:48.952",
+        "Position": "6"
+    },
+    {
+        "Circuit ID": "baku",
+        "Round": "17",
+        "Lap Number": "6",
+        "Driver ID": "russell",
+        "Time": "1:49.581",
+        "Position": "6"
+    },
+    {
+        "Circuit ID": "baku",
+        "Round": "17",
+        "Lap Number": "7",
+        "Driver ID": "russell",
+        "Time": "1:49.315",
+        "Position": "6"
+    },
+    {
+        "Circuit ID": "baku",
+        "Round": "17",
+        "Lap Number": "8",
+        "Driver ID": "russell",
+        "Time": "1:49.351",
+        "Position": "6"
+    },
+    {
+        "Circuit ID": "baku",
+        "Round": "17",
+        "Lap Number": "9",
+        "Driver ID": "russell",
+        "Time": "1:49.423",
+        "Position": "6"
+    },
+    {
+        "Circuit ID": "baku",
+        "Round": "17",
+        "Lap Number": "10",
+        "Driver ID": "russell",
+        "Time": "1:49.712",
+        "Position": "6"
+    },
+    {
+        "Circuit ID": "baku",
+        "Round": "17",
+        "Lap Number": "11",
+        "Driver ID": "russell",
+        "Time": "1:49.833",
+        "Position": "6"
+    },
+    {
+        "Circuit ID": "baku",
+        "Round": "17",
+        "Lap Number": "12",
+        "Driver ID": "russell",
+        "Time": "1:54.565",
+        "Position": "6"
+    },
+    {
+        "Circuit ID": "baku",
+        "Round": "17",
+        "Lap Number": "13",
+        "Driver ID": "russell",
+        "Time": "2:04.183",
+        "Position": "12"
+    },
+    {
+        "Circuit ID": "baku",
+        "Round": "17",
+        "Lap Number": "14",
+        "Driver ID": "russell",
+        "Time": "1:49.818",
+        "Position": "10"
+    },
+    {
+        "Circuit ID": "baku",
+        "Round": "17",
+        "Lap Number": "15",
+        "Driver ID": "russell",
+        "Time": "1:49.067",
+        "Position": "9"
+    },
+    {
+        "Circuit ID": "baku",
+        "Round": "17",
+        "Lap Number": "16",
+        "Driver ID": "russell",
+        "Time": "1:48.606",
+        "Position": "8"
+    },
+    {
+        "Circuit ID": "baku",
+        "Round": "17",
+        "Lap Number": "17",
+        "Driver ID": "russell",
+        "Time": "1:48.043",
+        "Position": "8"
+    },
+    {
+        "Circuit ID": "baku",
+        "Round": "17",
+        "Lap Number": "18",
+        "Driver ID": "russell",
+        "Time": "1:48.224",
+        "Position": "8"
+    },
+    {
+        "Circuit ID": "baku",
+        "Round": "17",
+        "Lap Number": "19",
+        "Driver ID": "russell",
+        "Time": "1:48.350",
+        "Position": "8"
+    },
+    {
+        "Circuit ID": "baku",
+        "Round": "17",
+        "Lap Number": "20",
+        "Driver ID": "russell",
+        "Time": "1:48.387",
+        "Position": "8"
+    },
+    {
+        "Circuit ID": "baku",
+        "Round": "17",
+        "Lap Number": "21",
+        "Driver ID": "russell",
+        "Time": "1:48.370",
+        "Position": "8"
+    },
+    {
+        "Circuit ID": "baku",
+        "Round": "17",
+        "Lap Number": "22",
+        "Driver ID": "russell",
+        "Time": "1:48.198",
+        "Position": "8"
+    },
+    {
+        "Circuit ID": "baku",
+        "Round": "17",
+        "Lap Number": "23",
+        "Driver ID": "russell",
+        "Time": "1:48.293",
+        "Position": "8"
+    },
+    {
+        "Circuit ID": "baku",
+        "Round": "17",
+        "Lap Number": "24",
+        "Driver ID": "russell",
+        "Time": "1:47.988",
+        "Position": "8"
+    },
+    {
+        "Circuit ID": "baku",
+        "Round": "17",
+        "Lap Number": "25",
+        "Driver ID": "russell",
+        "Time": "1:48.205",
+        "Position": "8"
+    },
+    {
+        "Circuit ID": "baku",
+        "Round": "17",
+        "Lap Number": "26",
+        "Driver ID": "russell",
+        "Time": "1:48.326",
+        "Position": "8"
+    },
+    {
+        "Circuit ID": "baku",
+        "Round": "17",
+        "Lap Number": "27",
+        "Driver ID": "russell",
+        "Time": "1:48.794",
+        "Position": "8"
+    },
+    {
+        "Circuit ID": "baku",
+        "Round": "17",
+        "Lap Number": "28",
+        "Driver ID": "russell",
+        "Time": "1:48.217",
+        "Position": "8"
+    },
+    {
+        "Circuit ID": "baku",
+        "Round": "17",
+        "Lap Number": "29",
+        "Driver ID": "russell",
+        "Time": "1:48.998",
+        "Position": "8"
+    },
+    {
+        "Circuit ID": "baku",
+        "Round": "17",
+        "Lap Number": "30",
+        "Driver ID": "russell",
+        "Time": "1:48.967",
+        "Position": "8"
+    },
+    {
+        "Circuit ID": "baku",
+        "Round": "17",
+        "Lap Number": "31",
+        "Driver ID": "russell",
+        "Time": "1:48.392",
+        "Position": "7"
+    },
+    {
+        "Circuit ID": "baku",
+        "Round": "17",
+        "Lap Number": "32",
+        "Driver ID": "russell",
+        "Time": "1:49.052",
+        "Position": "7"
+    },
+    {
+        "Circuit ID": "baku",
+        "Round": "17",
+        "Lap Number": "33",
+        "Driver ID": "russell",
+        "Time": "1:47.706",
+        "Position": "7"
+    },
+    {
+        "Circuit ID": "baku",
+        "Round": "17",
+        "Lap Number": "34",
+        "Driver ID": "russell",
+        "Time": "1:47.443",
+        "Position": "6"
+    },
+    {
+        "Circuit ID": "baku",
+        "Round": "17",
+        "Lap Number": "35",
+        "Driver ID": "russell",
+        "Time": "1:47.702",
+        "Position": "6"
+    },
+    {
+        "Circuit ID": "baku",
+        "Round": "17",
+        "Lap Number": "36",
+        "Driver ID": "russell",
+        "Time": "1:47.681",
+        "Position": "6"
+    },
+    {
+        "Circuit ID": "baku",
+        "Round": "17",
+        "Lap Number": "37",
+        "Driver ID": "russell",
+        "Time": "1:47.809",
+        "Position": "5"
+    },
+    {
+        "Circuit ID": "baku",
+        "Round": "17",
+        "Lap Number": "38",
+        "Driver ID": "russell",
+        "Time": "1:47.649",
+        "Position": "5"
+    },
+    {
+        "Circuit ID": "baku",
+        "Round": "17",
+        "Lap Number": "39",
+        "Driver ID": "russell",
+        "Time": "1:47.138",
+        "Position": "5"
+    },
+    {
+        "Circuit ID": "baku",
+        "Round": "17",
+        "Lap Number": "40",
+        "Driver ID": "russell",
+        "Time": "1:47.000",
+        "Position": "5"
+    },
+    {
+        "Circuit ID": "baku",
+        "Round": "17",
+        "Lap Number": "41",
+        "Driver ID": "russell",
+        "Time": "1:46.852",
+        "Position": "5"
+    },
+    {
+        "Circuit ID": "baku",
+        "Round": "17",
+        "Lap Number": "42",
+        "Driver ID": "russell",
+        "Time": "1:46.846",
+        "Position": "5"
+    },
+    {
+        "Circuit ID": "baku",
+        "Round": "17",
+        "Lap Number": "43",
+        "Driver ID": "russell",
+        "Time": "1:46.727",
+        "Position": "5"
+    },
+    {
+        "Circuit ID": "baku",
+        "Round": "17",
+        "Lap Number": "44",
+        "Driver ID": "russell",
+        "Time": "1:46.707",
+        "Position": "5"
+    },
+    {
+        "Circuit ID": "baku",
+        "Round": "17",
+        "Lap Number": "45",
+        "Driver ID": "russell",
+        "Time": "1:46.628",
+        "Position": "5"
+    },
+    {
+        "Circuit ID": "baku",
+        "Round": "17",
+        "Lap Number": "46",
+        "Driver ID": "russell",
+        "Time": "1:46.727",
+        "Position": "5"
+    },
+    {
+        "Circuit ID": "baku",
+        "Round": "17",
+        "Lap Number": "47",
+        "Driver ID": "russell",
+        "Time": "1:46.664",
+        "Position": "5"
+    },
+    {
+        "Circuit ID": "baku",
+        "Round": "17",
+        "Lap Number": "48",
+        "Driver ID": "russell",
+        "Time": "1:47.016",
+        "Position": "5"
+    },
+    {
+        "Circuit ID": "baku",
+        "Round": "17",
+        "Lap Number": "49",
+        "Driver ID": "russell",
+        "Time": "1:46.707",
+        "Position": "5"
+    },
+    {
+        "Circuit ID": "baku",
+        "Round": "17",
+        "Lap Number": "50",
+        "Driver ID": "russell",
+        "Time": "2:03.467",
+        "Position": "3"
+    },
+    {
+        "Circuit ID": "baku",
+        "Round": "17",
+        "Lap Number": "51",
+        "Driver ID": "russell",
+        "Time": "2:32.940",
+        "Position": "3"
+    },
+    {
+        "Circuit ID": "baku",
+        "Round": "17",
+        "Lap Number": "1",
+        "Driver ID": "norris",
+        "Time": "2:03.761",
+        "Position": "12"
+    },
+    {
+        "Circuit ID": "baku",
+        "Round": "17",
+        "Lap Number": "2",
+        "Driver ID": "norris",
+        "Time": "1:51.638",
+        "Position": "12"
+    },
+    {
+        "Circuit ID": "baku",
+        "Round": "17",
+        "Lap Number": "3",
+        "Driver ID": "norris",
+        "Time": "1:50.219",
+        "Position": "11"
+    },
+    {
+        "Circuit ID": "baku",
+        "Round": "17",
+        "Lap Number": "4",
+        "Driver ID": "norris",
+        "Time": "1:49.767",
+        "Position": "11"
+    },
+    {
+        "Circuit ID": "baku",
+        "Round": "17",
+        "Lap Number": "5",
+        "Driver ID": "norris",
+        "Time": "1:49.386",
+        "Position": "11"
+    },
+    {
+        "Circuit ID": "baku",
+        "Round": "17",
+        "Lap Number": "6",
+        "Driver ID": "norris",
+        "Time": "1:49.509",
+        "Position": "11"
+    },
+    {
+        "Circuit ID": "baku",
+        "Round": "17",
+        "Lap Number": "7",
+        "Driver ID": "norris",
+        "Time": "1:49.104",
+        "Position": "11"
+    },
+    {
+        "Circuit ID": "baku",
+        "Round": "17",
+        "Lap Number": "8",
+        "Driver ID": "norris",
+        "Time": "1:49.281",
+        "Position": "10"
+    },
+    {
+        "Circuit ID": "baku",
+        "Round": "17",
+        "Lap Number": "9",
+        "Driver ID": "norris",
+        "Time": "1:48.811",
+        "Position": "10"
+    },
+    {
+        "Circuit ID": "baku",
+        "Round": "17",
+        "Lap Number": "10",
+        "Driver ID": "norris",
+        "Time": "1:48.978",
+        "Position": "9"
+    },
+    {
+        "Circuit ID": "baku",
+        "Round": "17",
+        "Lap Number": "11",
+        "Driver ID": "norris",
+        "Time": "1:48.556",
+        "Position": "9"
+    },
+    {
+        "Circuit ID": "baku",
+        "Round": "17",
+        "Lap Number": "12",
+        "Driver ID": "norris",
+        "Time": "1:48.887",
+        "Position": "8"
+    },
+    {
+        "Circuit ID": "baku",
+        "Round": "17",
+        "Lap Number": "13",
+        "Driver ID": "norris",
+        "Time": "1:49.033",
+        "Position": "6"
+    },
+    {
+        "Circuit ID": "baku",
+        "Round": "17",
+        "Lap Number": "14",
+        "Driver ID": "norris",
+        "Time": "1:48.920",
+        "Position": "5"
+    },
+    {
+        "Circuit ID": "baku",
+        "Round": "17",
+        "Lap Number": "15",
+        "Driver ID": "norris",
+        "Time": "1:50.169",
+        "Position": "5"
+    },
+    {
+        "Circuit ID": "baku",
+        "Round": "17",
+        "Lap Number": "16",
+        "Driver ID": "norris",
+        "Time": "1:49.329",
+        "Position": "6"
+    },
+    {
+        "Circuit ID": "baku",
+        "Round": "17",
+        "Lap Number": "17",
+        "Driver ID": "norris",
+        "Time": "1:48.709",
+        "Position": "6"
+    },
+    {
+        "Circuit ID": "baku",
+        "Round": "17",
+        "Lap Number": "18",
+        "Driver ID": "norris",
+        "Time": "1:49.231",
+        "Position": "5"
+    },
+    {
+        "Circuit ID": "baku",
+        "Round": "17",
+        "Lap Number": "19",
+        "Driver ID": "norris",
+        "Time": "1:49.082",
+        "Position": "5"
+    },
+    {
+        "Circuit ID": "baku",
+        "Round": "17",
+        "Lap Number": "20",
+        "Driver ID": "norris",
+        "Time": "1:49.473",
+        "Position": "5"
+    },
+    {
+        "Circuit ID": "baku",
+        "Round": "17",
+        "Lap Number": "21",
+        "Driver ID": "norris",
+        "Time": "1:48.888",
+        "Position": "5"
+    },
+    {
+        "Circuit ID": "baku",
+        "Round": "17",
+        "Lap Number": "22",
+        "Driver ID": "norris",
+        "Time": "1:48.935",
+        "Position": "5"
+    },
+    {
+        "Circuit ID": "baku",
+        "Round": "17",
+        "Lap Number": "23",
+        "Driver ID": "norris",
+        "Time": "1:49.749",
+        "Position": "6"
+    },
+    {
+        "Circuit ID": "baku",
+        "Round": "17",
+        "Lap Number": "24",
+        "Driver ID": "norris",
+        "Time": "1:50.053",
+        "Position": "6"
+    },
+    {
+        "Circuit ID": "baku",
+        "Round": "17",
+        "Lap Number": "25",
+        "Driver ID": "norris",
+        "Time": "1:48.579",
+        "Position": "6"
+    },
+    {
+        "Circuit ID": "baku",
+        "Round": "17",
+        "Lap Number": "26",
+        "Driver ID": "norris",
+        "Time": "1:48.942",
+        "Position": "6"
+    },
+    {
+        "Circuit ID": "baku",
+        "Round": "17",
+        "Lap Number": "27",
+        "Driver ID": "norris",
+        "Time": "1:49.141",
+        "Position": "6"
+    },
+    {
+        "Circuit ID": "baku",
+        "Round": "17",
+        "Lap Number": "28",
+        "Driver ID": "norris",
+        "Time": "1:49.045",
+        "Position": "6"
+    },
+    {
+        "Circuit ID": "baku",
+        "Round": "17",
+        "Lap Number": "29",
+        "Driver ID": "norris",
+        "Time": "1:49.267",
+        "Position": "6"
+    },
+    {
+        "Circuit ID": "baku",
+        "Round": "17",
+        "Lap Number": "30",
+        "Driver ID": "norris",
+        "Time": "1:48.910",
+        "Position": "6"
+    },
+    {
+        "Circuit ID": "baku",
+        "Round": "17",
+        "Lap Number": "31",
+        "Driver ID": "norris",
+        "Time": "1:48.802",
+        "Position": "5"
+    },
+    {
+        "Circuit ID": "baku",
+        "Round": "17",
+        "Lap Number": "32",
+        "Driver ID": "norris",
+        "Time": "1:47.933",
+        "Position": "5"
+    },
+    {
+        "Circuit ID": "baku",
+        "Round": "17",
+        "Lap Number": "33",
+        "Driver ID": "norris",
+        "Time": "1:47.947",
+        "Position": "5"
+    },
+    {
+        "Circuit ID": "baku",
+        "Round": "17",
+        "Lap Number": "34",
+        "Driver ID": "norris",
+        "Time": "1:47.534",
+        "Position": "5"
+    },
+    {
+        "Circuit ID": "baku",
+        "Round": "17",
+        "Lap Number": "35",
+        "Driver ID": "norris",
+        "Time": "1:47.667",
+        "Position": "5"
+    },
+    {
+        "Circuit ID": "baku",
+        "Round": "17",
+        "Lap Number": "36",
+        "Driver ID": "norris",
+        "Time": "1:47.509",
+        "Position": "5"
+    },
+    {
+        "Circuit ID": "baku",
+        "Round": "17",
+        "Lap Number": "37",
+        "Driver ID": "norris",
+        "Time": "1:51.037",
+        "Position": "6"
+    },
+    {
+        "Circuit ID": "baku",
+        "Round": "17",
+        "Lap Number": "38",
+        "Driver ID": "norris",
+        "Time": "2:02.491",
+        "Position": "7"
+    },
+    {
+        "Circuit ID": "baku",
+        "Round": "17",
+        "Lap Number": "39",
+        "Driver ID": "norris",
+        "Time": "1:45.662",
+        "Position": "7"
+    },
+    {
+        "Circuit ID": "baku",
+        "Round": "17",
+        "Lap Number": "40",
+        "Driver ID": "norris",
+        "Time": "1:45.842",
+        "Position": "7"
+    },
+    {
+        "Circuit ID": "baku",
+        "Round": "17",
+        "Lap Number": "41",
+        "Driver ID": "norris",
+        "Time": "1:46.104",
+        "Position": "7"
+    },
+    {
+        "Circuit ID": "baku",
+        "Round": "17",
+        "Lap Number": "42",
+        "Driver ID": "norris",
+        "Time": "1:45.255",
+        "Position": "7"
+    },
+    {
+        "Circuit ID": "baku",
+        "Round": "17",
+        "Lap Number": "43",
+        "Driver ID": "norris",
+        "Time": "1:45.432",
+        "Position": "7"
+    },
+    {
+        "Circuit ID": "baku",
+        "Round": "17",
+        "Lap Number": "44",
+        "Driver ID": "norris",
+        "Time": "1:45.591",
+        "Position": "7"
+    },
+    {
+        "Circuit ID": "baku",
+        "Round": "17",
+        "Lap Number": "45",
+        "Driver ID": "norris",
+        "Time": "1:45.863",
+        "Position": "7"
+    },
+    {
+        "Circuit ID": "baku",
+        "Round": "17",
+        "Lap Number": "46",
+        "Driver ID": "norris",
+        "Time": "1:45.886",
+        "Position": "7"
+    },
+    {
+        "Circuit ID": "baku",
+        "Round": "17",
+        "Lap Number": "47",
+        "Driver ID": "norris",
+        "Time": "1:46.051",
+        "Position": "7"
+    },
+    {
+        "Circuit ID": "baku",
+        "Round": "17",
+        "Lap Number": "48",
+        "Driver ID": "norris",
+        "Time": "1:46.143",
+        "Position": "7"
+    },
+    {
+        "Circuit ID": "baku",
+        "Round": "17",
+        "Lap Number": "49",
+        "Driver ID": "norris",
+        "Time": "1:45.626",
+        "Position": "6"
+    },
+    {
+        "Circuit ID": "baku",
+        "Round": "17",
+        "Lap Number": "50",
+        "Driver ID": "norris",
+        "Time": "2:04.244",
+        "Position": "4"
+    },
+    {
+        "Circuit ID": "baku",
+        "Round": "17",
+        "Lap Number": "51",
+        "Driver ID": "norris",
+        "Time": "2:32.179",
+        "Position": "4"
+    },
+    {
+        "Circuit ID": "baku",
+        "Round": "17",
+        "Lap Number": "1",
+        "Driver ID": "max_verstappen",
+        "Time": "1:55.490",
+        "Position": "5"
+    },
+    {
+        "Circuit ID": "baku",
+        "Round": "17",
+        "Lap Number": "2",
+        "Driver ID": "max_verstappen",
+        "Time": "1:49.632",
+        "Position": "5"
+    },
+    {
+        "Circuit ID": "baku",
+        "Round": "17",
+        "Lap Number": "3",
+        "Driver ID": "max_verstappen",
+        "Time": "1:49.130",
+        "Position": "5"
+    },
+    {
+        "Circuit ID": "baku",
+        "Round": "17",
+        "Lap Number": "4",
+        "Driver ID": "max_verstappen",
+        "Time": "1:49.608",
+        "Position": "5"
+    },
+    {
+        "Circuit ID": "baku",
+        "Round": "17",
+        "Lap Number": "5",
+        "Driver ID": "max_verstappen",
+        "Time": "1:49.245",
+        "Position": "5"
+    },
+    {
+        "Circuit ID": "baku",
+        "Round": "17",
+        "Lap Number": "6",
+        "Driver ID": "max_verstappen",
+        "Time": "1:48.795",
+        "Position": "5"
+    },
+    {
+        "Circuit ID": "baku",
+        "Round": "17",
+        "Lap Number": "7",
+        "Driver ID": "max_verstappen",
+        "Time": "1:48.797",
+        "Position": "5"
+    },
+    {
+        "Circuit ID": "baku",
+        "Round": "17",
+        "Lap Number": "8",
+        "Driver ID": "max_verstappen",
+        "Time": "1:48.643",
+        "Position": "5"
+    },
+    {
+        "Circuit ID": "baku",
+        "Round": "17",
+        "Lap Number": "9",
+        "Driver ID": "max_verstappen",
+        "Time": "1:48.448",
+        "Position": "5"
+    },
+    {
+        "Circuit ID": "baku",
+        "Round": "17",
+        "Lap Number": "10",
+        "Driver ID": "max_verstappen",
+        "Time": "1:49.448",
+        "Position": "5"
+    },
+    {
+        "Circuit ID": "baku",
+        "Round": "17",
+        "Lap Number": "11",
+        "Driver ID": "max_verstappen",
+        "Time": "1:49.645",
+        "Position": "5"
+    },
+    {
+        "Circuit ID": "baku",
+        "Round": "17",
+        "Lap Number": "12",
+        "Driver ID": "max_verstappen",
+        "Time": "1:54.511",
+        "Position": "5"
+    },
+    {
+        "Circuit ID": "baku",
+        "Round": "17",
+        "Lap Number": "13",
+        "Driver ID": "max_verstappen",
+        "Time": "2:06.486",
+        "Position": "9"
+    },
+    {
+        "Circuit ID": "baku",
+        "Round": "17",
+        "Lap Number": "14",
+        "Driver ID": "max_verstappen",
+        "Time": "1:48.269",
+        "Position": "8"
+    },
+    {
+        "Circuit ID": "baku",
+        "Round": "17",
+        "Lap Number": "15",
+        "Driver ID": "max_verstappen",
+        "Time": "1:47.812",
+        "Position": "7"
+    },
+    {
+        "Circuit ID": "baku",
+        "Round": "17",
+        "Lap Number": "16",
+        "Driver ID": "max_verstappen",
+        "Time": "1:48.132",
+        "Position": "7"
+    },
+    {
+        "Circuit ID": "baku",
+        "Round": "17",
+        "Lap Number": "17",
+        "Driver ID": "max_verstappen",
+        "Time": "1:47.718",
+        "Position": "7"
+    },
+    {
+        "Circuit ID": "baku",
+        "Round": "17",
+        "Lap Number": "18",
+        "Driver ID": "max_verstappen",
+        "Time": "1:48.461",
+        "Position": "7"
+    },
+    {
+        "Circuit ID": "baku",
+        "Round": "17",
+        "Lap Number": "19",
+        "Driver ID": "max_verstappen",
+        "Time": "1:47.890",
+        "Position": "7"
+    },
+    {
+        "Circuit ID": "baku",
+        "Round": "17",
+        "Lap Number": "20",
+        "Driver ID": "max_verstappen",
+        "Time": "1:47.890",
+        "Position": "7"
+    },
+    {
+        "Circuit ID": "baku",
+        "Round": "17",
+        "Lap Number": "21",
+        "Driver ID": "max_verstappen",
+        "Time": "1:47.903",
+        "Position": "7"
+    },
+    {
+        "Circuit ID": "baku",
+        "Round": "17",
+        "Lap Number": "22",
+        "Driver ID": "max_verstappen",
+        "Time": "1:48.679",
+        "Position": "7"
+    },
+    {
+        "Circuit ID": "baku",
+        "Round": "17",
+        "Lap Number": "23",
+        "Driver ID": "max_verstappen",
+        "Time": "1:48.908",
+        "Position": "7"
+    },
+    {
+        "Circuit ID": "baku",
+        "Round": "17",
+        "Lap Number": "24",
+        "Driver ID": "max_verstappen",
+        "Time": "1:50.602",
+        "Position": "7"
+    },
+    {
+        "Circuit ID": "baku",
+        "Round": "17",
+        "Lap Number": "25",
+        "Driver ID": "max_verstappen",
+        "Time": "1:48.356",
+        "Position": "7"
+    },
+    {
+        "Circuit ID": "baku",
+        "Round": "17",
+        "Lap Number": "26",
+        "Driver ID": "max_verstappen",
+        "Time": "1:49.021",
+        "Position": "7"
+    },
+    {
+        "Circuit ID": "baku",
+        "Round": "17",
+        "Lap Number": "27",
+        "Driver ID": "max_verstappen",
+        "Time": "1:49.092",
+        "Position": "7"
+    },
+    {
+        "Circuit ID": "baku",
+        "Round": "17",
+        "Lap Number": "28",
+        "Driver ID": "max_verstappen",
+        "Time": "1:49.185",
+        "Position": "7"
+    },
+    {
+        "Circuit ID": "baku",
+        "Round": "17",
+        "Lap Number": "29",
+        "Driver ID": "max_verstappen",
+        "Time": "1:49.216",
+        "Position": "7"
+    },
+    {
+        "Circuit ID": "baku",
+        "Round": "17",
+        "Lap Number": "30",
+        "Driver ID": "max_verstappen",
+        "Time": "1:48.994",
+        "Position": "7"
+    },
+    {
+        "Circuit ID": "baku",
+        "Round": "17",
+        "Lap Number": "31",
+        "Driver ID": "max_verstappen",
+        "Time": "1:48.846",
+        "Position": "6"
+    },
+    {
+        "Circuit ID": "baku",
+        "Round": "17",
+        "Lap Number": "32",
+        "Driver ID": "max_verstappen",
+        "Time": "1:48.392",
+        "Position": "6"
+    },
+    {
+        "Circuit ID": "baku",
+        "Round": "17",
+        "Lap Number": "33",
+        "Driver ID": "max_verstappen",
+        "Time": "1:48.299",
+        "Position": "6"
+    },
+    {
+        "Circuit ID": "baku",
+        "Round": "17",
+        "Lap Number": "34",
+        "Driver ID": "max_verstappen",
+        "Time": "1:49.244",
+        "Position": "7"
+    },
+    {
+        "Circuit ID": "baku",
+        "Round": "17",
+        "Lap Number": "35",
+        "Driver ID": "max_verstappen",
+        "Time": "1:47.996",
+        "Position": "7"
+    },
+    {
+        "Circuit ID": "baku",
+        "Round": "17",
+        "Lap Number": "36",
+        "Driver ID": "max_verstappen",
+        "Time": "1:47.718",
+        "Position": "7"
+    },
+    {
+        "Circuit ID": "baku",
+        "Round": "17",
+        "Lap Number": "37",
+        "Driver ID": "max_verstappen",
+        "Time": "1:47.403",
+        "Position": "7"
+    },
+    {
+        "Circuit ID": "baku",
+        "Round": "17",
+        "Lap Number": "38",
+        "Driver ID": "max_verstappen",
+        "Time": "1:47.282",
+        "Position": "6"
+    },
+    {
+        "Circuit ID": "baku",
+        "Round": "17",
+        "Lap Number": "39",
+        "Driver ID": "max_verstappen",
+        "Time": "1:47.340",
+        "Position": "6"
+    },
+    {
+        "Circuit ID": "baku",
+        "Round": "17",
+        "Lap Number": "40",
+        "Driver ID": "max_verstappen",
+        "Time": "1:47.136",
+        "Position": "6"
+    },
+    {
+        "Circuit ID": "baku",
+        "Round": "17",
+        "Lap Number": "41",
+        "Driver ID": "max_verstappen",
+        "Time": "1:47.525",
+        "Position": "6"
+    },
+    {
+        "Circuit ID": "baku",
+        "Round": "17",
+        "Lap Number": "42",
+        "Driver ID": "max_verstappen",
+        "Time": "1:46.798",
+        "Position": "6"
+    },
+    {
+        "Circuit ID": "baku",
+        "Round": "17",
+        "Lap Number": "43",
+        "Driver ID": "max_verstappen",
+        "Time": "1:47.147",
+        "Position": "6"
+    },
+    {
+        "Circuit ID": "baku",
+        "Round": "17",
+        "Lap Number": "44",
+        "Driver ID": "max_verstappen",
+        "Time": "1:47.149",
+        "Position": "6"
+    },
+    {
+        "Circuit ID": "baku",
+        "Round": "17",
+        "Lap Number": "45",
+        "Driver ID": "max_verstappen",
+        "Time": "1:47.184",
+        "Position": "6"
+    },
+    {
+        "Circuit ID": "baku",
+        "Round": "17",
+        "Lap Number": "46",
+        "Driver ID": "max_verstappen",
+        "Time": "1:47.135",
+        "Position": "6"
+    },
+    {
+        "Circuit ID": "baku",
+        "Round": "17",
+        "Lap Number": "47",
+        "Driver ID": "max_verstappen",
+        "Time": "1:47.721",
+        "Position": "6"
+    },
+    {
+        "Circuit ID": "baku",
+        "Round": "17",
+        "Lap Number": "48",
+        "Driver ID": "max_verstappen",
+        "Time": "1:47.749",
+        "Position": "6"
+    },
+    {
+        "Circuit ID": "baku",
+        "Round": "17",
+        "Lap Number": "49",
+        "Driver ID": "max_verstappen",
+        "Time": "1:52.022",
+        "Position": "7"
+    },
+    {
+        "Circuit ID": "baku",
+        "Round": "17",
+        "Lap Number": "50",
+        "Driver ID": "max_verstappen",
+        "Time": "2:37.677",
+        "Position": "5"
+    },
+    {
+        "Circuit ID": "baku",
+        "Round": "17",
+        "Lap Number": "51",
+        "Driver ID": "max_verstappen",
+        "Time": "2:33.336",
+        "Position": "5"
+    },
+    {
+        "Circuit ID": "baku",
+        "Round": "17",
+        "Lap Number": "1",
+        "Driver ID": "alonso",
+        "Time": "1:57.400",
+        "Position": "7"
+    },
+    {
+        "Circuit ID": "baku",
+        "Round": "17",
+        "Lap Number": "2",
+        "Driver ID": "alonso",
+        "Time": "1:50.081",
+        "Position": "7"
+    },
+    {
+        "Circuit ID": "baku",
+        "Round": "17",
+        "Lap Number": "3",
+        "Driver ID": "alonso",
+        "Time": "1:50.262",
+        "Position": "7"
+    },
+    {
+        "Circuit ID": "baku",
+        "Round": "17",
+        "Lap Number": "4",
+        "Driver ID": "alonso",
+        "Time": "1:49.975",
+        "Position": "7"
+    },
+    {
+        "Circuit ID": "baku",
+        "Round": "17",
+        "Lap Number": "5",
+        "Driver ID": "alonso",
+        "Time": "1:50.103",
+        "Position": "7"
+    },
+    {
+        "Circuit ID": "baku",
+        "Round": "17",
+        "Lap Number": "6",
+        "Driver ID": "alonso",
+        "Time": "1:49.937",
+        "Position": "7"
+    },
+    {
+        "Circuit ID": "baku",
+        "Round": "17",
+        "Lap Number": "7",
+        "Driver ID": "alonso",
+        "Time": "1:49.660",
+        "Position": "7"
+    },
+    {
+        "Circuit ID": "baku",
+        "Round": "17",
+        "Lap Number": "8",
+        "Driver ID": "alonso",
+        "Time": "1:49.132",
+        "Position": "7"
+    },
+    {
+        "Circuit ID": "baku",
+        "Round": "17",
+        "Lap Number": "9",
+        "Driver ID": "alonso",
+        "Time": "1:49.056",
+        "Position": "7"
+    },
+    {
+        "Circuit ID": "baku",
+        "Round": "17",
+        "Lap Number": "10",
+        "Driver ID": "alonso",
+        "Time": "1:49.354",
+        "Position": "7"
+    },
+    {
+        "Circuit ID": "baku",
+        "Round": "17",
+        "Lap Number": "11",
+        "Driver ID": "alonso",
+        "Time": "1:53.492",
+        "Position": "8"
+    },
+    {
+        "Circuit ID": "baku",
+        "Round": "17",
+        "Lap Number": "12",
+        "Driver ID": "alonso",
+        "Time": "2:05.549",
+        "Position": "13"
+    },
+    {
+        "Circuit ID": "baku",
+        "Round": "17",
+        "Lap Number": "13",
+        "Driver ID": "alonso",
+        "Time": "1:49.286",
+        "Position": "13"
+    },
+    {
+        "Circuit ID": "baku",
+        "Round": "17",
+        "Lap Number": "14",
+        "Driver ID": "alonso",
+        "Time": "1:49.222",
+        "Position": "13"
+    },
+    {
+        "Circuit ID": "baku",
+        "Round": "17",
+        "Lap Number": "15",
+        "Driver ID": "alonso",
+        "Time": "1:49.984",
+        "Position": "11"
+    },
+    {
+        "Circuit ID": "baku",
+        "Round": "17",
+        "Lap Number": "16",
+        "Driver ID": "alonso",
+        "Time": "1:48.759",
+        "Position": "9"
+    },
+    {
+        "Circuit ID": "baku",
+        "Round": "17",
+        "Lap Number": "17",
+        "Driver ID": "alonso",
+        "Time": "1:49.100",
+        "Position": "9"
+    },
+    {
+        "Circuit ID": "baku",
+        "Round": "17",
+        "Lap Number": "18",
+        "Driver ID": "alonso",
+        "Time": "1:49.515",
+        "Position": "9"
+    },
+    {
+        "Circuit ID": "baku",
+        "Round": "17",
+        "Lap Number": "19",
+        "Driver ID": "alonso",
+        "Time": "1:49.239",
+        "Position": "9"
+    },
+    {
+        "Circuit ID": "baku",
+        "Round": "17",
+        "Lap Number": "20",
+        "Driver ID": "alonso",
+        "Time": "1:49.379",
+        "Position": "9"
+    },
+    {
+        "Circuit ID": "baku",
+        "Round": "17",
+        "Lap Number": "21",
+        "Driver ID": "alonso",
+        "Time": "1:49.151",
+        "Position": "9"
+    },
+    {
+        "Circuit ID": "baku",
+        "Round": "17",
+        "Lap Number": "22",
+        "Driver ID": "alonso",
+        "Time": "1:49.047",
+        "Position": "9"
+    },
+    {
+        "Circuit ID": "baku",
+        "Round": "17",
+        "Lap Number": "23",
+        "Driver ID": "alonso",
+        "Time": "1:49.104",
+        "Position": "9"
+    },
+    {
+        "Circuit ID": "baku",
+        "Round": "17",
+        "Lap Number": "24",
+        "Driver ID": "alonso",
+        "Time": "1:48.835",
+        "Position": "9"
+    },
+    {
+        "Circuit ID": "baku",
+        "Round": "17",
+        "Lap Number": "25",
+        "Driver ID": "alonso",
+        "Time": "1:49.020",
+        "Position": "9"
+    },
+    {
+        "Circuit ID": "baku",
+        "Round": "17",
+        "Lap Number": "26",
+        "Driver ID": "alonso",
+        "Time": "1:49.178",
+        "Position": "9"
+    },
+    {
+        "Circuit ID": "baku",
+        "Round": "17",
+        "Lap Number": "27",
+        "Driver ID": "alonso",
+        "Time": "1:48.729",
+        "Position": "9"
+    },
+    {
+        "Circuit ID": "baku",
+        "Round": "17",
+        "Lap Number": "28",
+        "Driver ID": "alonso",
+        "Time": "1:48.635",
+        "Position": "9"
+    },
+    {
+        "Circuit ID": "baku",
+        "Round": "17",
+        "Lap Number": "29",
+        "Driver ID": "alonso",
+        "Time": "1:48.782",
+        "Position": "9"
+    },
+    {
+        "Circuit ID": "baku",
+        "Round": "17",
+        "Lap Number": "30",
+        "Driver ID": "alonso",
+        "Time": "1:49.589",
+        "Position": "9"
+    },
+    {
+        "Circuit ID": "baku",
+        "Round": "17",
+        "Lap Number": "31",
+        "Driver ID": "alonso",
+        "Time": "1:48.979",
+        "Position": "9"
+    },
+    {
+        "Circuit ID": "baku",
+        "Round": "17",
+        "Lap Number": "32",
+        "Driver ID": "alonso",
+        "Time": "1:50.080",
+        "Position": "8"
+    },
+    {
+        "Circuit ID": "baku",
+        "Round": "17",
+        "Lap Number": "33",
+        "Driver ID": "alonso",
+        "Time": "1:48.825",
+        "Position": "8"
+    },
+    {
+        "Circuit ID": "baku",
+        "Round": "17",
+        "Lap Number": "34",
+        "Driver ID": "alonso",
+        "Time": "1:49.260",
+        "Position": "8"
+    },
+    {
+        "Circuit ID": "baku",
+        "Round": "17",
+        "Lap Number": "35",
+        "Driver ID": "alonso",
+        "Time": "1:49.533",
+        "Position": "8"
+    },
+    {
+        "Circuit ID": "baku",
+        "Round": "17",
+        "Lap Number": "36",
+        "Driver ID": "alonso",
+        "Time": "1:48.206",
+        "Position": "8"
+    },
+    {
+        "Circuit ID": "baku",
+        "Round": "17",
+        "Lap Number": "37",
+        "Driver ID": "alonso",
+        "Time": "1:47.889",
+        "Position": "8"
+    },
+    {
+        "Circuit ID": "baku",
+        "Round": "17",
+        "Lap Number": "38",
+        "Driver ID": "alonso",
+        "Time": "1:48.131",
+        "Position": "8"
+    },
+    {
+        "Circuit ID": "baku",
+        "Round": "17",
+        "Lap Number": "39",
+        "Driver ID": "alonso",
+        "Time": "1:47.970",
+        "Position": "8"
+    },
+    {
+        "Circuit ID": "baku",
+        "Round": "17",
+        "Lap Number": "40",
+        "Driver ID": "alonso",
+        "Time": "1:47.719",
+        "Position": "8"
+    },
+    {
+        "Circuit ID": "baku",
+        "Round": "17",
+        "Lap Number": "41",
+        "Driver ID": "alonso",
+        "Time": "1:47.956",
+        "Position": "8"
+    },
+    {
+        "Circuit ID": "baku",
+        "Round": "17",
+        "Lap Number": "42",
+        "Driver ID": "alonso",
+        "Time": "1:47.351",
+        "Position": "8"
+    },
+    {
+        "Circuit ID": "baku",
+        "Round": "17",
+        "Lap Number": "43",
+        "Driver ID": "alonso",
+        "Time": "1:47.486",
+        "Position": "8"
+    },
+    {
+        "Circuit ID": "baku",
+        "Round": "17",
+        "Lap Number": "44",
+        "Driver ID": "alonso",
+        "Time": "1:47.465",
+        "Position": "8"
+    },
+    {
+        "Circuit ID": "baku",
+        "Round": "17",
+        "Lap Number": "45",
+        "Driver ID": "alonso",
+        "Time": "1:47.498",
+        "Position": "8"
+    },
+    {
+        "Circuit ID": "baku",
+        "Round": "17",
+        "Lap Number": "46",
+        "Driver ID": "alonso",
+        "Time": "1:47.571",
+        "Position": "8"
+    },
+    {
+        "Circuit ID": "baku",
+        "Round": "17",
+        "Lap Number": "47",
+        "Driver ID": "alonso",
+        "Time": "1:47.354",
+        "Position": "8"
+    },
+    {
+        "Circuit ID": "baku",
+        "Round": "17",
+        "Lap Number": "48",
+        "Driver ID": "alonso",
+        "Time": "1:47.057",
+        "Position": "8"
+    },
+    {
+        "Circuit ID": "baku",
+        "Round": "17",
+        "Lap Number": "49",
+        "Driver ID": "alonso",
+        "Time": "1:47.152",
+        "Position": "8"
+    },
+    {
+        "Circuit ID": "baku",
+        "Round": "17",
+        "Lap Number": "50",
+        "Driver ID": "alonso",
+        "Time": "2:29.162",
+        "Position": "6"
+    },
+    {
+        "Circuit ID": "baku",
+        "Round": "17",
+        "Lap Number": "51",
+        "Driver ID": "alonso",
+        "Time": "2:32.276",
+        "Position": "6"
+    },
+    {
+        "Circuit ID": "baku",
+        "Round": "17",
+        "Lap Number": "1",
+        "Driver ID": "hamilton",
+        "Time": "2:05.704",
+        "Position": "17"
+    },
+    {
+        "Circuit ID": "baku",
+        "Round": "17",
+        "Lap Number": "2",
+        "Driver ID": "hamilton",
+        "Time": "1:52.922",
+        "Position": "16"
+    },
+    {
+        "Circuit ID": "baku",
+        "Round": "17",
+        "Lap Number": "3",
+        "Driver ID": "hamilton",
+        "Time": "1:50.970",
+        "Position": "16"
+    },
+    {
+        "Circuit ID": "baku",
+        "Round": "17",
+        "Lap Number": "4",
+        "Driver ID": "hamilton",
+        "Time": "1:50.351",
+        "Position": "15"
+    },
+    {
+        "Circuit ID": "baku",
+        "Round": "17",
+        "Lap Number": "5",
+        "Driver ID": "hamilton",
+        "Time": "1:50.358",
+        "Position": "15"
+    },
+    {
+        "Circuit ID": "baku",
+        "Round": "17",
+        "Lap Number": "6",
+        "Driver ID": "hamilton",
+        "Time": "1:49.791",
+        "Position": "15"
+    },
+    {
+        "Circuit ID": "baku",
+        "Round": "17",
+        "Lap Number": "7",
+        "Driver ID": "hamilton",
+        "Time": "1:49.399",
+        "Position": "15"
+    },
+    {
+        "Circuit ID": "baku",
+        "Round": "17",
+        "Lap Number": "8",
+        "Driver ID": "hamilton",
+        "Time": "1:49.590",
+        "Position": "15"
+    },
+    {
+        "Circuit ID": "baku",
+        "Round": "17",
+        "Lap Number": "9",
+        "Driver ID": "hamilton",
+        "Time": "1:49.698",
+        "Position": "15"
+    },
+    {
+        "Circuit ID": "baku",
+        "Round": "17",
+        "Lap Number": "10",
+        "Driver ID": "hamilton",
+        "Time": "1:49.993",
+        "Position": "15"
+    },
+    {
+        "Circuit ID": "baku",
+        "Round": "17",
+        "Lap Number": "11",
+        "Driver ID": "hamilton",
+        "Time": "1:50.712",
+        "Position": "14"
+    },
+    {
+        "Circuit ID": "baku",
+        "Round": "17",
+        "Lap Number": "12",
+        "Driver ID": "hamilton",
+        "Time": "1:55.287",
+        "Position": "14"
+    },
+    {
+        "Circuit ID": "baku",
+        "Round": "17",
+        "Lap Number": "13",
+        "Driver ID": "hamilton",
+        "Time": "2:06.757",
+        "Position": "18"
+    },
+    {
+        "Circuit ID": "baku",
+        "Round": "17",
+        "Lap Number": "14",
+        "Driver ID": "hamilton",
+        "Time": "1:48.984",
+        "Position": "18"
+    },
+    {
+        "Circuit ID": "baku",
+        "Round": "17",
+        "Lap Number": "15",
+        "Driver ID": "hamilton",
+        "Time": "1:48.754",
+        "Position": "17"
+    },
+    {
+        "Circuit ID": "baku",
+        "Round": "17",
+        "Lap Number": "16",
+        "Driver ID": "hamilton",
+        "Time": "1:48.527",
+        "Position": "17"
+    },
+    {
+        "Circuit ID": "baku",
+        "Round": "17",
+        "Lap Number": "17",
+        "Driver ID": "hamilton",
+        "Time": "1:49.487",
+        "Position": "16"
+    },
+    {
+        "Circuit ID": "baku",
+        "Round": "17",
+        "Lap Number": "18",
+        "Driver ID": "hamilton",
+        "Time": "1:48.632",
+        "Position": "15"
+    },
+    {
+        "Circuit ID": "baku",
+        "Round": "17",
+        "Lap Number": "19",
+        "Driver ID": "hamilton",
+        "Time": "1:48.563",
+        "Position": "15"
+    },
+    {
+        "Circuit ID": "baku",
+        "Round": "17",
+        "Lap Number": "20",
+        "Driver ID": "hamilton",
+        "Time": "1:48.495",
+        "Position": "15"
+    },
+    {
+        "Circuit ID": "baku",
+        "Round": "17",
+        "Lap Number": "21",
+        "Driver ID": "hamilton",
+        "Time": "1:49.616",
+        "Position": "15"
+    },
+    {
+        "Circuit ID": "baku",
+        "Round": "17",
+        "Lap Number": "22",
+        "Driver ID": "hamilton",
+        "Time": "1:50.666",
+        "Position": "14"
+    },
+    {
+        "Circuit ID": "baku",
+        "Round": "17",
+        "Lap Number": "23",
+        "Driver ID": "hamilton",
+        "Time": "1:48.588",
+        "Position": "14"
+    },
+    {
+        "Circuit ID": "baku",
+        "Round": "17",
+        "Lap Number": "24",
+        "Driver ID": "hamilton",
+        "Time": "1:48.433",
+        "Position": "14"
+    },
+    {
+        "Circuit ID": "baku",
+        "Round": "17",
+        "Lap Number": "25",
+        "Driver ID": "hamilton",
+        "Time": "1:48.290",
+        "Position": "14"
+    },
+    {
+        "Circuit ID": "baku",
+        "Round": "17",
+        "Lap Number": "26",
+        "Driver ID": "hamilton",
+        "Time": "1:47.828",
+        "Position": "14"
+    },
+    {
+        "Circuit ID": "baku",
+        "Round": "17",
+        "Lap Number": "27",
+        "Driver ID": "hamilton",
+        "Time": "1:47.898",
+        "Position": "14"
+    },
+    {
+        "Circuit ID": "baku",
+        "Round": "17",
+        "Lap Number": "28",
+        "Driver ID": "hamilton",
+        "Time": "1:48.045",
+        "Position": "14"
+    },
+    {
+        "Circuit ID": "baku",
+        "Round": "17",
+        "Lap Number": "29",
+        "Driver ID": "hamilton",
+        "Time": "1:47.777",
+        "Position": "14"
+    },
+    {
+        "Circuit ID": "baku",
+        "Round": "17",
+        "Lap Number": "30",
+        "Driver ID": "hamilton",
+        "Time": "1:48.494",
+        "Position": "13"
+    },
+    {
+        "Circuit ID": "baku",
+        "Round": "17",
+        "Lap Number": "31",
+        "Driver ID": "hamilton",
+        "Time": "1:48.128",
+        "Position": "13"
+    },
+    {
+        "Circuit ID": "baku",
+        "Round": "17",
+        "Lap Number": "32",
+        "Driver ID": "hamilton",
+        "Time": "1:47.867",
+        "Position": "13"
+    },
+    {
+        "Circuit ID": "baku",
+        "Round": "17",
+        "Lap Number": "33",
+        "Driver ID": "hamilton",
+        "Time": "1:47.330",
+        "Position": "13"
+    },
+    {
+        "Circuit ID": "baku",
+        "Round": "17",
+        "Lap Number": "34",
+        "Driver ID": "hamilton",
+        "Time": "1:49.101",
+        "Position": "13"
+    },
+    {
+        "Circuit ID": "baku",
+        "Round": "17",
+        "Lap Number": "35",
+        "Driver ID": "hamilton",
+        "Time": "1:47.998",
+        "Position": "13"
+    },
+    {
+        "Circuit ID": "baku",
+        "Round": "17",
+        "Lap Number": "36",
+        "Driver ID": "hamilton",
+        "Time": "1:48.903",
+        "Position": "13"
+    },
+    {
+        "Circuit ID": "baku",
+        "Round": "17",
+        "Lap Number": "37",
+        "Driver ID": "hamilton",
+        "Time": "1:50.671",
+        "Position": "13"
+    },
+    {
+        "Circuit ID": "baku",
+        "Round": "17",
+        "Lap Number": "38",
+        "Driver ID": "hamilton",
+        "Time": "1:49.220",
+        "Position": "13"
+    },
+    {
+        "Circuit ID": "baku",
+        "Round": "17",
+        "Lap Number": "39",
+        "Driver ID": "hamilton",
+        "Time": "1:49.264",
+        "Position": "13"
+    },
+    {
+        "Circuit ID": "baku",
+        "Round": "17",
+        "Lap Number": "40",
+        "Driver ID": "hamilton",
+        "Time": "1:48.576",
+        "Position": "13"
+    },
+    {
+        "Circuit ID": "baku",
+        "Round": "17",
+        "Lap Number": "41",
+        "Driver ID": "hamilton",
+        "Time": "1:48.492",
+        "Position": "12"
+    },
+    {
+        "Circuit ID": "baku",
+        "Round": "17",
+        "Lap Number": "42",
+        "Driver ID": "hamilton",
+        "Time": "1:47.300",
+        "Position": "12"
+    },
+    {
+        "Circuit ID": "baku",
+        "Round": "17",
+        "Lap Number": "43",
+        "Driver ID": "hamilton",
+        "Time": "1:47.679",
+        "Position": "12"
+    },
+    {
+        "Circuit ID": "baku",
+        "Round": "17",
+        "Lap Number": "44",
+        "Driver ID": "hamilton",
+        "Time": "1:48.135",
+        "Position": "12"
+    },
+    {
+        "Circuit ID": "baku",
+        "Round": "17",
+        "Lap Number": "45",
+        "Driver ID": "hamilton",
+        "Time": "1:47.629",
+        "Position": "12"
+    },
+    {
+        "Circuit ID": "baku",
+        "Round": "17",
+        "Lap Number": "46",
+        "Driver ID": "hamilton",
+        "Time": "1:47.667",
+        "Position": "12"
+    },
+    {
+        "Circuit ID": "baku",
+        "Round": "17",
+        "Lap Number": "47",
+        "Driver ID": "hamilton",
+        "Time": "1:47.300",
+        "Position": "12"
+    },
+    {
+        "Circuit ID": "baku",
+        "Round": "17",
+        "Lap Number": "48",
+        "Driver ID": "hamilton",
+        "Time": "1:47.236",
+        "Position": "12"
+    },
+    {
+        "Circuit ID": "baku",
+        "Round": "17",
+        "Lap Number": "49",
+        "Driver ID": "hamilton",
+        "Time": "1:47.947",
+        "Position": "12"
+    },
+    {
+        "Circuit ID": "baku",
+        "Round": "17",
+        "Lap Number": "50",
+        "Driver ID": "hamilton",
+        "Time": "2:21.579",
+        "Position": "9"
+    },
+    {
+        "Circuit ID": "baku",
+        "Round": "17",
+        "Lap Number": "51",
+        "Driver ID": "hamilton",
+        "Time": "2:33.777",
+        "Position": "9"
+    },
+    {
+        "Circuit ID": "baku",
+        "Round": "17",
+        "Lap Number": "1",
+        "Driver ID": "bearman",
+        "Time": "2:00.008",
+        "Position": "10"
+    },
+    {
+        "Circuit ID": "baku",
+        "Round": "17",
+        "Lap Number": "2",
+        "Driver ID": "bearman",
+        "Time": "1:50.738",
+        "Position": "10"
+    },
+    {
+        "Circuit ID": "baku",
+        "Round": "17",
+        "Lap Number": "3",
+        "Driver ID": "bearman",
+        "Time": "1:50.677",
+        "Position": "10"
+    },
+    {
+        "Circuit ID": "baku",
+        "Round": "17",
+        "Lap Number": "4",
+        "Driver ID": "bearman",
+        "Time": "1:50.282",
+        "Position": "10"
+    },
+    {
+        "Circuit ID": "baku",
+        "Round": "17",
+        "Lap Number": "5",
+        "Driver ID": "bearman",
+        "Time": "1:50.510",
+        "Position": "10"
+    },
+    {
+        "Circuit ID": "baku",
+        "Round": "17",
+        "Lap Number": "6",
+        "Driver ID": "bearman",
+        "Time": "1:50.991",
+        "Position": "10"
+    },
+    {
+        "Circuit ID": "baku",
+        "Round": "17",
+        "Lap Number": "7",
+        "Driver ID": "bearman",
+        "Time": "1:50.084",
+        "Position": "10"
+    },
+    {
+        "Circuit ID": "baku",
+        "Round": "17",
+        "Lap Number": "8",
+        "Driver ID": "bearman",
+        "Time": "1:51.194",
+        "Position": "11"
+    },
+    {
+        "Circuit ID": "baku",
+        "Round": "17",
+        "Lap Number": "9",
+        "Driver ID": "bearman",
+        "Time": "1:49.877",
+        "Position": "11"
+    },
+    {
+        "Circuit ID": "baku",
+        "Round": "17",
+        "Lap Number": "10",
+        "Driver ID": "bearman",
+        "Time": "1:51.117",
+        "Position": "12"
+    },
+    {
+        "Circuit ID": "baku",
+        "Round": "17",
+        "Lap Number": "11",
+        "Driver ID": "bearman",
+        "Time": "1:50.119",
+        "Position": "11"
+    },
+    {
+        "Circuit ID": "baku",
+        "Round": "17",
+        "Lap Number": "12",
+        "Driver ID": "bearman",
+        "Time": "1:50.055",
+        "Position": "10"
+    },
+    {
+        "Circuit ID": "baku",
+        "Round": "17",
+        "Lap Number": "13",
+        "Driver ID": "bearman",
+        "Time": "1:50.193",
+        "Position": "8"
+    },
+    {
+        "Circuit ID": "baku",
+        "Round": "17",
+        "Lap Number": "14",
+        "Driver ID": "bearman",
+        "Time": "1:54.465",
+        "Position": "12"
+    },
+    {
+        "Circuit ID": "baku",
+        "Round": "17",
+        "Lap Number": "15",
+        "Driver ID": "bearman",
+        "Time": "2:06.955",
+        "Position": "16"
+    },
+    {
+        "Circuit ID": "baku",
+        "Round": "17",
+        "Lap Number": "16",
+        "Driver ID": "bearman",
+        "Time": "1:50.038",
+        "Position": "15"
+    },
+    {
+        "Circuit ID": "baku",
+        "Round": "17",
+        "Lap Number": "17",
+        "Driver ID": "bearman",
+        "Time": "1:49.571",
+        "Position": "14"
+    },
+    {
+        "Circuit ID": "baku",
+        "Round": "17",
+        "Lap Number": "18",
+        "Driver ID": "bearman",
+        "Time": "1:48.714",
+        "Position": "14"
+    },
+    {
+        "Circuit ID": "baku",
+        "Round": "17",
+        "Lap Number": "19",
+        "Driver ID": "bearman",
+        "Time": "1:48.457",
+        "Position": "14"
+    },
+    {
+        "Circuit ID": "baku",
+        "Round": "17",
+        "Lap Number": "20",
+        "Driver ID": "bearman",
+        "Time": "1:48.769",
+        "Position": "14"
+    },
+    {
+        "Circuit ID": "baku",
+        "Round": "17",
+        "Lap Number": "21",
+        "Driver ID": "bearman",
+        "Time": "1:48.487",
+        "Position": "14"
+    },
+    {
+        "Circuit ID": "baku",
+        "Round": "17",
+        "Lap Number": "22",
+        "Driver ID": "bearman",
+        "Time": "1:49.905",
+        "Position": "13"
+    },
+    {
+        "Circuit ID": "baku",
+        "Round": "17",
+        "Lap Number": "23",
+        "Driver ID": "bearman",
+        "Time": "1:48.487",
+        "Position": "13"
+    },
+    {
+        "Circuit ID": "baku",
+        "Round": "17",
+        "Lap Number": "24",
+        "Driver ID": "bearman",
+        "Time": "1:48.214",
+        "Position": "13"
+    },
+    {
+        "Circuit ID": "baku",
+        "Round": "17",
+        "Lap Number": "25",
+        "Driver ID": "bearman",
+        "Time": "1:48.113",
+        "Position": "13"
+    },
+    {
+        "Circuit ID": "baku",
+        "Round": "17",
+        "Lap Number": "26",
+        "Driver ID": "bearman",
+        "Time": "1:48.305",
+        "Position": "13"
+    },
+    {
+        "Circuit ID": "baku",
+        "Round": "17",
+        "Lap Number": "27",
+        "Driver ID": "bearman",
+        "Time": "1:48.004",
+        "Position": "13"
+    },
+    {
+        "Circuit ID": "baku",
+        "Round": "17",
+        "Lap Number": "28",
+        "Driver ID": "bearman",
+        "Time": "1:48.312",
+        "Position": "13"
+    },
+    {
+        "Circuit ID": "baku",
+        "Round": "17",
+        "Lap Number": "29",
+        "Driver ID": "bearman",
+        "Time": "1:48.703",
+        "Position": "13"
+    },
+    {
+        "Circuit ID": "baku",
+        "Round": "17",
+        "Lap Number": "30",
+        "Driver ID": "bearman",
+        "Time": "1:48.046",
+        "Position": "12"
+    },
+    {
+        "Circuit ID": "baku",
+        "Round": "17",
+        "Lap Number": "31",
+        "Driver ID": "bearman",
+        "Time": "1:47.552",
+        "Position": "12"
+    },
+    {
+        "Circuit ID": "baku",
+        "Round": "17",
+        "Lap Number": "32",
+        "Driver ID": "bearman",
+        "Time": "1:48.147",
+        "Position": "12"
+    },
+    {
+        "Circuit ID": "baku",
+        "Round": "17",
+        "Lap Number": "33",
+        "Driver ID": "bearman",
+        "Time": "1:48.578",
+        "Position": "12"
+    },
+    {
+        "Circuit ID": "baku",
+        "Round": "17",
+        "Lap Number": "34",
+        "Driver ID": "bearman",
+        "Time": "1:48.342",
+        "Position": "12"
+    },
+    {
+        "Circuit ID": "baku",
+        "Round": "17",
+        "Lap Number": "35",
+        "Driver ID": "bearman",
+        "Time": "1:48.655",
+        "Position": "12"
+    },
+    {
+        "Circuit ID": "baku",
+        "Round": "17",
+        "Lap Number": "36",
+        "Driver ID": "bearman",
+        "Time": "1:48.819",
+        "Position": "12"
+    },
+    {
+        "Circuit ID": "baku",
+        "Round": "17",
+        "Lap Number": "37",
+        "Driver ID": "bearman",
+        "Time": "1:50.561",
+        "Position": "12"
+    },
+    {
+        "Circuit ID": "baku",
+        "Round": "17",
+        "Lap Number": "38",
+        "Driver ID": "bearman",
+        "Time": "1:49.560",
+        "Position": "12"
+    },
+    {
+        "Circuit ID": "baku",
+        "Round": "17",
+        "Lap Number": "39",
+        "Driver ID": "bearman",
+        "Time": "1:48.850",
+        "Position": "12"
+    },
+    {
+        "Circuit ID": "baku",
+        "Round": "17",
+        "Lap Number": "40",
+        "Driver ID": "bearman",
+        "Time": "1:49.166",
+        "Position": "12"
+    },
+    {
+        "Circuit ID": "baku",
+        "Round": "17",
+        "Lap Number": "41",
+        "Driver ID": "bearman",
+        "Time": "1:50.629",
+        "Position": "13"
+    },
+    {
+        "Circuit ID": "baku",
+        "Round": "17",
+        "Lap Number": "42",
+        "Driver ID": "bearman",
+        "Time": "1:47.883",
+        "Position": "13"
+    },
+    {
+        "Circuit ID": "baku",
+        "Round": "17",
+        "Lap Number": "43",
+        "Driver ID": "bearman",
+        "Time": "1:47.681",
+        "Position": "13"
+    },
+    {
+        "Circuit ID": "baku",
+        "Round": "17",
+        "Lap Number": "44",
+        "Driver ID": "bearman",
+        "Time": "1:47.345",
+        "Position": "13"
+    },
+    {
+        "Circuit ID": "baku",
+        "Round": "17",
+        "Lap Number": "45",
+        "Driver ID": "bearman",
+        "Time": "1:47.680",
+        "Position": "13"
+    },
+    {
+        "Circuit ID": "baku",
+        "Round": "17",
+        "Lap Number": "46",
+        "Driver ID": "bearman",
+        "Time": "1:47.281",
+        "Position": "13"
+    },
+    {
+        "Circuit ID": "baku",
+        "Round": "17",
+        "Lap Number": "47",
+        "Driver ID": "bearman",
+        "Time": "1:47.048",
+        "Position": "13"
+    },
+    {
+        "Circuit ID": "baku",
+        "Round": "17",
+        "Lap Number": "48",
+        "Driver ID": "bearman",
+        "Time": "1:47.369",
+        "Position": "13"
+    },
+    {
+        "Circuit ID": "baku",
+        "Round": "17",
+        "Lap Number": "49",
+        "Driver ID": "bearman",
+        "Time": "1:47.435",
+        "Position": "13"
+    },
+    {
+        "Circuit ID": "baku",
+        "Round": "17",
+        "Lap Number": "50",
+        "Driver ID": "bearman",
+        "Time": "2:21.914",
+        "Position": "10"
+    },
+    {
+        "Circuit ID": "baku",
+        "Round": "17",
+        "Lap Number": "51",
+        "Driver ID": "bearman",
+        "Time": "2:33.249",
+        "Position": "10"
+    },
+    {
+        "Circuit ID": "baku",
+        "Round": "17",
+        "Lap Number": "1",
+        "Driver ID": "hulkenberg",
+        "Time": "2:03.833",
+        "Position": "13"
+    },
+    {
+        "Circuit ID": "baku",
+        "Round": "17",
+        "Lap Number": "2",
+        "Driver ID": "hulkenberg",
+        "Time": "1:52.034",
+        "Position": "13"
+    },
+    {
+        "Circuit ID": "baku",
+        "Round": "17",
+        "Lap Number": "3",
+        "Driver ID": "hulkenberg",
+        "Time": "1:50.450",
+        "Position": "12"
+    },
+    {
+        "Circuit ID": "baku",
+        "Round": "17",
+        "Lap Number": "4",
+        "Driver ID": "hulkenberg",
+        "Time": "1:50.277",
+        "Position": "12"
+    },
+    {
+        "Circuit ID": "baku",
+        "Round": "17",
+        "Lap Number": "5",
+        "Driver ID": "hulkenberg",
+        "Time": "1:49.113",
+        "Position": "12"
+    },
+    {
+        "Circuit ID": "baku",
+        "Round": "17",
+        "Lap Number": "6",
+        "Driver ID": "hulkenberg",
+        "Time": "1:49.761",
+        "Position": "12"
+    },
+    {
+        "Circuit ID": "baku",
+        "Round": "17",
+        "Lap Number": "7",
+        "Driver ID": "hulkenberg",
+        "Time": "1:49.918",
+        "Position": "12"
+    },
+    {
+        "Circuit ID": "baku",
+        "Round": "17",
+        "Lap Number": "8",
+        "Driver ID": "hulkenberg",
+        "Time": "1:49.333",
+        "Position": "12"
+    },
+    {
+        "Circuit ID": "baku",
+        "Round": "17",
+        "Lap Number": "9",
+        "Driver ID": "hulkenberg",
+        "Time": "1:49.819",
+        "Position": "12"
+    },
+    {
+        "Circuit ID": "baku",
+        "Round": "17",
+        "Lap Number": "10",
+        "Driver ID": "hulkenberg",
+        "Time": "1:49.401",
+        "Position": "11"
+    },
+    {
+        "Circuit ID": "baku",
+        "Round": "17",
+        "Lap Number": "11",
+        "Driver ID": "hulkenberg",
+        "Time": "1:49.554",
+        "Position": "10"
+    },
+    {
+        "Circuit ID": "baku",
+        "Round": "17",
+        "Lap Number": "12",
+        "Driver ID": "hulkenberg",
+        "Time": "1:49.484",
+        "Position": "9"
+    },
+    {
+        "Circuit ID": "baku",
+        "Round": "17",
+        "Lap Number": "13",
+        "Driver ID": "hulkenberg",
+        "Time": "1:49.797",
+        "Position": "7"
+    },
+    {
+        "Circuit ID": "baku",
+        "Round": "17",
+        "Lap Number": "14",
+        "Driver ID": "hulkenberg",
+        "Time": "1:50.366",
+        "Position": "7"
+    },
+    {
+        "Circuit ID": "baku",
+        "Round": "17",
+        "Lap Number": "15",
+        "Driver ID": "hulkenberg",
+        "Time": "1:54.956",
+        "Position": "8"
+    },
+    {
+        "Circuit ID": "baku",
+        "Round": "17",
+        "Lap Number": "16",
+        "Driver ID": "hulkenberg",
+        "Time": "2:06.435",
+        "Position": "13"
+    },
+    {
+        "Circuit ID": "baku",
+        "Round": "17",
+        "Lap Number": "17",
+        "Driver ID": "hulkenberg",
+        "Time": "1:49.105",
+        "Position": "13"
+    },
+    {
+        "Circuit ID": "baku",
+        "Round": "17",
+        "Lap Number": "18",
+        "Driver ID": "hulkenberg",
+        "Time": "1:49.153",
+        "Position": "13"
+    },
+    {
+        "Circuit ID": "baku",
+        "Round": "17",
+        "Lap Number": "19",
+        "Driver ID": "hulkenberg",
+        "Time": "1:48.539",
+        "Position": "13"
+    },
+    {
+        "Circuit ID": "baku",
+        "Round": "17",
+        "Lap Number": "20",
+        "Driver ID": "hulkenberg",
+        "Time": "1:48.001",
+        "Position": "12"
+    },
+    {
+        "Circuit ID": "baku",
+        "Round": "17",
+        "Lap Number": "21",
+        "Driver ID": "hulkenberg",
+        "Time": "1:48.275",
+        "Position": "12"
+    },
+    {
+        "Circuit ID": "baku",
+        "Round": "17",
+        "Lap Number": "22",
+        "Driver ID": "hulkenberg",
+        "Time": "1:48.925",
+        "Position": "12"
+    },
+    {
+        "Circuit ID": "baku",
+        "Round": "17",
+        "Lap Number": "23",
+        "Driver ID": "hulkenberg",
+        "Time": "1:48.804",
+        "Position": "12"
+    },
+    {
+        "Circuit ID": "baku",
+        "Round": "17",
+        "Lap Number": "24",
+        "Driver ID": "hulkenberg",
+        "Time": "1:47.925",
+        "Position": "12"
+    },
+    {
+        "Circuit ID": "baku",
+        "Round": "17",
+        "Lap Number": "25",
+        "Driver ID": "hulkenberg",
+        "Time": "1:48.093",
+        "Position": "11"
+    },
+    {
+        "Circuit ID": "baku",
+        "Round": "17",
+        "Lap Number": "26",
+        "Driver ID": "hulkenberg",
+        "Time": "1:48.387",
+        "Position": "11"
+    },
+    {
+        "Circuit ID": "baku",
+        "Round": "17",
+        "Lap Number": "27",
+        "Driver ID": "hulkenberg",
+        "Time": "1:48.337",
+        "Position": "11"
+    },
+    {
+        "Circuit ID": "baku",
+        "Round": "17",
+        "Lap Number": "28",
+        "Driver ID": "hulkenberg",
+        "Time": "1:48.567",
+        "Position": "11"
+    },
+    {
+        "Circuit ID": "baku",
+        "Round": "17",
+        "Lap Number": "29",
+        "Driver ID": "hulkenberg",
+        "Time": "1:48.314",
+        "Position": "11"
+    },
+    {
+        "Circuit ID": "baku",
+        "Round": "17",
+        "Lap Number": "30",
+        "Driver ID": "hulkenberg",
+        "Time": "1:48.263",
+        "Position": "11"
+    },
+    {
+        "Circuit ID": "baku",
+        "Round": "17",
+        "Lap Number": "31",
+        "Driver ID": "hulkenberg",
+        "Time": "1:48.105",
+        "Position": "11"
+    },
+    {
+        "Circuit ID": "baku",
+        "Round": "17",
+        "Lap Number": "32",
+        "Driver ID": "hulkenberg",
+        "Time": "1:49.185",
+        "Position": "10"
+    },
+    {
+        "Circuit ID": "baku",
+        "Round": "17",
+        "Lap Number": "33",
+        "Driver ID": "hulkenberg",
+        "Time": "1:47.811",
+        "Position": "10"
+    },
+    {
+        "Circuit ID": "baku",
+        "Round": "17",
+        "Lap Number": "34",
+        "Driver ID": "hulkenberg",
+        "Time": "1:48.690",
+        "Position": "10"
+    },
+    {
+        "Circuit ID": "baku",
+        "Round": "17",
+        "Lap Number": "35",
+        "Driver ID": "hulkenberg",
+        "Time": "1:49.429",
+        "Position": "9"
+    },
+    {
+        "Circuit ID": "baku",
+        "Round": "17",
+        "Lap Number": "36",
+        "Driver ID": "hulkenberg",
+        "Time": "1:48.542",
+        "Position": "9"
+    },
+    {
+        "Circuit ID": "baku",
+        "Round": "17",
+        "Lap Number": "37",
+        "Driver ID": "hulkenberg",
+        "Time": "1:48.515",
+        "Position": "9"
+    },
+    {
+        "Circuit ID": "baku",
+        "Round": "17",
+        "Lap Number": "38",
+        "Driver ID": "hulkenberg",
+        "Time": "1:49.638",
+        "Position": "10"
+    },
+    {
+        "Circuit ID": "baku",
+        "Round": "17",
+        "Lap Number": "39",
+        "Driver ID": "hulkenberg",
+        "Time": "1:48.637",
+        "Position": "10"
+    },
+    {
+        "Circuit ID": "baku",
+        "Round": "17",
+        "Lap Number": "40",
+        "Driver ID": "hulkenberg",
+        "Time": "1:48.125",
+        "Position": "10"
+    },
+    {
+        "Circuit ID": "baku",
+        "Round": "17",
+        "Lap Number": "41",
+        "Driver ID": "hulkenberg",
+        "Time": "1:47.993",
+        "Position": "10"
+    },
+    {
+        "Circuit ID": "baku",
+        "Round": "17",
+        "Lap Number": "42",
+        "Driver ID": "hulkenberg",
+        "Time": "1:47.691",
+        "Position": "10"
+    },
+    {
+        "Circuit ID": "baku",
+        "Round": "17",
+        "Lap Number": "43",
+        "Driver ID": "hulkenberg",
+        "Time": "1:48.322",
+        "Position": "10"
+    },
+    {
+        "Circuit ID": "baku",
+        "Round": "17",
+        "Lap Number": "44",
+        "Driver ID": "hulkenberg",
+        "Time": "1:47.934",
+        "Position": "10"
+    },
+    {
+        "Circuit ID": "baku",
+        "Round": "17",
+        "Lap Number": "45",
+        "Driver ID": "hulkenberg",
+        "Time": "1:47.827",
+        "Position": "10"
+    },
+    {
+        "Circuit ID": "baku",
+        "Round": "17",
+        "Lap Number": "46",
+        "Driver ID": "hulkenberg",
+        "Time": "1:47.957",
+        "Position": "10"
+    },
+    {
+        "Circuit ID": "baku",
+        "Round": "17",
+        "Lap Number": "47",
+        "Driver ID": "hulkenberg",
+        "Time": "1:47.693",
+        "Position": "10"
+    },
+    {
+        "Circuit ID": "baku",
+        "Round": "17",
+        "Lap Number": "48",
+        "Driver ID": "hulkenberg",
+        "Time": "1:49.587",
+        "Position": "10"
+    },
+    {
+        "Circuit ID": "baku",
+        "Round": "17",
+        "Lap Number": "49",
+        "Driver ID": "hulkenberg",
+        "Time": "1:49.408",
+        "Position": "11"
+    },
+    {
+        "Circuit ID": "baku",
+        "Round": "17",
+        "Lap Number": "50",
+        "Driver ID": "hulkenberg",
+        "Time": "2:25.325",
+        "Position": "11"
+    },
+    {
+        "Circuit ID": "baku",
+        "Round": "17",
+        "Lap Number": "51",
+        "Driver ID": "hulkenberg",
+        "Time": "2:31.839",
+        "Position": "11"
+    },
+    {
+        "Circuit ID": "baku",
+        "Round": "17",
+        "Lap Number": "1",
+        "Driver ID": "gasly",
+        "Time": "2:04.448",
+        "Position": "15"
+    },
+    {
+        "Circuit ID": "baku",
+        "Round": "17",
+        "Lap Number": "2",
+        "Driver ID": "gasly",
+        "Time": "1:52.861",
+        "Position": "15"
+    },
+    {
+        "Circuit ID": "baku",
+        "Round": "17",
+        "Lap Number": "3",
+        "Driver ID": "gasly",
+        "Time": "1:51.565",
+        "Position": "15"
+    },
+    {
+        "Circuit ID": "baku",
+        "Round": "17",
+        "Lap Number": "4",
+        "Driver ID": "gasly",
+        "Time": "1:49.849",
+        "Position": "14"
+    },
+    {
+        "Circuit ID": "baku",
+        "Round": "17",
+        "Lap Number": "5",
+        "Driver ID": "gasly",
+        "Time": "1:50.116",
+        "Position": "14"
+    },
+    {
+        "Circuit ID": "baku",
+        "Round": "17",
+        "Lap Number": "6",
+        "Driver ID": "gasly",
+        "Time": "1:50.071",
+        "Position": "14"
+    },
+    {
+        "Circuit ID": "baku",
+        "Round": "17",
+        "Lap Number": "7",
+        "Driver ID": "gasly",
+        "Time": "1:49.908",
+        "Position": "14"
+    },
+    {
+        "Circuit ID": "baku",
+        "Round": "17",
+        "Lap Number": "8",
+        "Driver ID": "gasly",
+        "Time": "1:49.707",
+        "Position": "14"
+    },
+    {
+        "Circuit ID": "baku",
+        "Round": "17",
+        "Lap Number": "9",
+        "Driver ID": "gasly",
+        "Time": "1:49.776",
+        "Position": "14"
+    },
+    {
+        "Circuit ID": "baku",
+        "Round": "17",
+        "Lap Number": "10",
+        "Driver ID": "gasly",
+        "Time": "1:49.479",
+        "Position": "14"
+    },
+    {
+        "Circuit ID": "baku",
+        "Round": "17",
+        "Lap Number": "11",
+        "Driver ID": "gasly",
+        "Time": "1:50.305",
+        "Position": "13"
+    },
+    {
+        "Circuit ID": "baku",
+        "Round": "17",
+        "Lap Number": "12",
+        "Driver ID": "gasly",
+        "Time": "1:50.207",
+        "Position": "12"
+    },
+    {
+        "Circuit ID": "baku",
+        "Round": "17",
+        "Lap Number": "13",
+        "Driver ID": "gasly",
+        "Time": "1:50.586",
+        "Position": "11"
+    },
+    {
+        "Circuit ID": "baku",
+        "Round": "17",
+        "Lap Number": "14",
+        "Driver ID": "gasly",
+        "Time": "1:50.560",
+        "Position": "9"
+    },
+    {
+        "Circuit ID": "baku",
+        "Round": "17",
+        "Lap Number": "15",
+        "Driver ID": "gasly",
+        "Time": "1:51.674",
+        "Position": "10"
+    },
+    {
+        "Circuit ID": "baku",
+        "Round": "17",
+        "Lap Number": "16",
+        "Driver ID": "gasly",
+        "Time": "1:50.412",
+        "Position": "10"
+    },
+    {
+        "Circuit ID": "baku",
+        "Round": "17",
+        "Lap Number": "17",
+        "Driver ID": "gasly",
+        "Time": "1:50.314",
+        "Position": "10"
+    },
+    {
+        "Circuit ID": "baku",
+        "Round": "17",
+        "Lap Number": "18",
+        "Driver ID": "gasly",
+        "Time": "1:49.879",
+        "Position": "10"
+    },
+    {
+        "Circuit ID": "baku",
+        "Round": "17",
+        "Lap Number": "19",
+        "Driver ID": "gasly",
+        "Time": "1:49.647",
+        "Position": "11"
+    },
+    {
+        "Circuit ID": "baku",
+        "Round": "17",
+        "Lap Number": "20",
+        "Driver ID": "gasly",
+        "Time": "1:50.731",
+        "Position": "11"
+    },
+    {
+        "Circuit ID": "baku",
+        "Round": "17",
+        "Lap Number": "21",
+        "Driver ID": "gasly",
+        "Time": "1:50.090",
+        "Position": "11"
+    },
+    {
+        "Circuit ID": "baku",
+        "Round": "17",
+        "Lap Number": "22",
+        "Driver ID": "gasly",
+        "Time": "1:50.329",
+        "Position": "11"
+    },
+    {
+        "Circuit ID": "baku",
+        "Round": "17",
+        "Lap Number": "23",
+        "Driver ID": "gasly",
+        "Time": "1:49.639",
+        "Position": "11"
+    },
+    {
+        "Circuit ID": "baku",
+        "Round": "17",
+        "Lap Number": "24",
+        "Driver ID": "gasly",
+        "Time": "1:49.699",
+        "Position": "11"
+    },
+    {
+        "Circuit ID": "baku",
+        "Round": "17",
+        "Lap Number": "25",
+        "Driver ID": "gasly",
+        "Time": "1:49.690",
+        "Position": "12"
+    },
+    {
+        "Circuit ID": "baku",
+        "Round": "17",
+        "Lap Number": "26",
+        "Driver ID": "gasly",
+        "Time": "1:50.054",
+        "Position": "12"
+    },
+    {
+        "Circuit ID": "baku",
+        "Round": "17",
+        "Lap Number": "27",
+        "Driver ID": "gasly",
+        "Time": "1:49.311",
+        "Position": "12"
+    },
+    {
+        "Circuit ID": "baku",
+        "Round": "17",
+        "Lap Number": "28",
+        "Driver ID": "gasly",
+        "Time": "1:49.294",
+        "Position": "12"
+    },
+    {
+        "Circuit ID": "baku",
+        "Round": "17",
+        "Lap Number": "29",
+        "Driver ID": "gasly",
+        "Time": "1:48.980",
+        "Position": "12"
+    },
+    {
+        "Circuit ID": "baku",
+        "Round": "17",
+        "Lap Number": "30",
+        "Driver ID": "gasly",
+        "Time": "1:51.275",
+        "Position": "14"
+    },
+    {
+        "Circuit ID": "baku",
+        "Round": "17",
+        "Lap Number": "31",
+        "Driver ID": "gasly",
+        "Time": "1:49.319",
+        "Position": "14"
+    },
+    {
+        "Circuit ID": "baku",
+        "Round": "17",
+        "Lap Number": "32",
+        "Driver ID": "gasly",
+        "Time": "1:49.223",
+        "Position": "14"
+    },
+    {
+        "Circuit ID": "baku",
+        "Round": "17",
+        "Lap Number": "33",
+        "Driver ID": "gasly",
+        "Time": "1:48.774",
+        "Position": "14"
+    },
+    {
+        "Circuit ID": "baku",
+        "Round": "17",
+        "Lap Number": "34",
+        "Driver ID": "gasly",
+        "Time": "1:48.737",
+        "Position": "14"
+    },
+    {
+        "Circuit ID": "baku",
+        "Round": "17",
+        "Lap Number": "35",
+        "Driver ID": "gasly",
+        "Time": "1:48.832",
+        "Position": "14"
+    },
+    {
+        "Circuit ID": "baku",
+        "Round": "17",
+        "Lap Number": "36",
+        "Driver ID": "gasly",
+        "Time": "1:48.950",
+        "Position": "14"
+    },
+    {
+        "Circuit ID": "baku",
+        "Round": "17",
+        "Lap Number": "37",
+        "Driver ID": "gasly",
+        "Time": "1:48.778",
+        "Position": "14"
+    },
+    {
+        "Circuit ID": "baku",
+        "Round": "17",
+        "Lap Number": "38",
+        "Driver ID": "gasly",
+        "Time": "1:48.916",
+        "Position": "14"
+    },
+    {
+        "Circuit ID": "baku",
+        "Round": "17",
+        "Lap Number": "39",
+        "Driver ID": "gasly",
+        "Time": "1:48.738",
+        "Position": "14"
+    },
+    {
+        "Circuit ID": "baku",
+        "Round": "17",
+        "Lap Number": "40",
+        "Driver ID": "gasly",
+        "Time": "1:48.503",
+        "Position": "14"
+    },
+    {
+        "Circuit ID": "baku",
+        "Round": "17",
+        "Lap Number": "41",
+        "Driver ID": "gasly",
+        "Time": "1:48.725",
+        "Position": "14"
+    },
+    {
+        "Circuit ID": "baku",
+        "Round": "17",
+        "Lap Number": "42",
+        "Driver ID": "gasly",
+        "Time": "1:48.827",
+        "Position": "14"
+    },
+    {
+        "Circuit ID": "baku",
+        "Round": "17",
+        "Lap Number": "43",
+        "Driver ID": "gasly",
+        "Time": "1:48.529",
+        "Position": "14"
+    },
+    {
+        "Circuit ID": "baku",
+        "Round": "17",
+        "Lap Number": "44",
+        "Driver ID": "gasly",
+        "Time": "1:48.200",
+        "Position": "14"
+    },
+    {
+        "Circuit ID": "baku",
+        "Round": "17",
+        "Lap Number": "45",
+        "Driver ID": "gasly",
+        "Time": "1:48.048",
+        "Position": "14"
+    },
+    {
+        "Circuit ID": "baku",
+        "Round": "17",
+        "Lap Number": "46",
+        "Driver ID": "gasly",
+        "Time": "1:48.349",
+        "Position": "14"
+    },
+    {
+        "Circuit ID": "baku",
+        "Round": "17",
+        "Lap Number": "47",
+        "Driver ID": "gasly",
+        "Time": "1:48.018",
+        "Position": "14"
+    },
+    {
+        "Circuit ID": "baku",
+        "Round": "17",
+        "Lap Number": "48",
+        "Driver ID": "gasly",
+        "Time": "1:48.364",
+        "Position": "14"
+    },
+    {
+        "Circuit ID": "baku",
+        "Round": "17",
+        "Lap Number": "49",
+        "Driver ID": "gasly",
+        "Time": "1:48.461",
+        "Position": "14"
+    },
+    {
+        "Circuit ID": "baku",
+        "Round": "17",
+        "Lap Number": "50",
+        "Driver ID": "gasly",
+        "Time": "2:25.969",
+        "Position": "12"
+    },
+    {
+        "Circuit ID": "baku",
+        "Round": "17",
+        "Lap Number": "51",
+        "Driver ID": "gasly",
+        "Time": "2:44.480",
+        "Position": "12"
+    },
+    {
+        "Circuit ID": "baku",
+        "Round": "17",
+        "Lap Number": "1",
+        "Driver ID": "zhou",
+        "Time": "2:05.800",
+        "Position": "18"
+    },
+    {
+        "Circuit ID": "baku",
+        "Round": "17",
+        "Lap Number": "2",
+        "Driver ID": "zhou",
+        "Time": "1:53.999",
+        "Position": "18"
+    },
+    {
+        "Circuit ID": "baku",
+        "Round": "17",
+        "Lap Number": "3",
+        "Driver ID": "zhou",
+        "Time": "1:52.110",
+        "Position": "18"
+    },
+    {
+        "Circuit ID": "baku",
+        "Round": "17",
+        "Lap Number": "4",
+        "Driver ID": "zhou",
+        "Time": "1:51.671",
+        "Position": "18"
+    },
+    {
+        "Circuit ID": "baku",
+        "Round": "17",
+        "Lap Number": "5",
+        "Driver ID": "zhou",
+        "Time": "1:53.333",
+        "Position": "18"
+    },
+    {
+        "Circuit ID": "baku",
+        "Round": "17",
+        "Lap Number": "6",
+        "Driver ID": "zhou",
+        "Time": "1:51.235",
+        "Position": "18"
+    },
+    {
+        "Circuit ID": "baku",
+        "Round": "17",
+        "Lap Number": "7",
+        "Driver ID": "zhou",
+        "Time": "1:51.105",
+        "Position": "18"
+    },
+    {
+        "Circuit ID": "baku",
+        "Round": "17",
+        "Lap Number": "8",
+        "Driver ID": "zhou",
+        "Time": "1:51.313",
+        "Position": "18"
+    },
+    {
+        "Circuit ID": "baku",
+        "Round": "17",
+        "Lap Number": "9",
+        "Driver ID": "zhou",
+        "Time": "1:51.018",
+        "Position": "18"
+    },
+    {
+        "Circuit ID": "baku",
+        "Round": "17",
+        "Lap Number": "10",
+        "Driver ID": "zhou",
+        "Time": "1:50.765",
+        "Position": "17"
+    },
+    {
+        "Circuit ID": "baku",
+        "Round": "17",
+        "Lap Number": "11",
+        "Driver ID": "zhou",
+        "Time": "1:51.018",
+        "Position": "16"
+    },
+    {
+        "Circuit ID": "baku",
+        "Round": "17",
+        "Lap Number": "12",
+        "Driver ID": "zhou",
+        "Time": "1:50.575",
+        "Position": "16"
+    },
+    {
+        "Circuit ID": "baku",
+        "Round": "17",
+        "Lap Number": "13",
+        "Driver ID": "zhou",
+        "Time": "1:50.614",
+        "Position": "15"
+    },
+    {
+        "Circuit ID": "baku",
+        "Round": "17",
+        "Lap Number": "14",
+        "Driver ID": "zhou",
+        "Time": "1:50.635",
+        "Position": "15"
+    },
+    {
+        "Circuit ID": "baku",
+        "Round": "17",
+        "Lap Number": "15",
+        "Driver ID": "zhou",
+        "Time": "1:50.317",
+        "Position": "14"
+    },
+    {
+        "Circuit ID": "baku",
+        "Round": "17",
+        "Lap Number": "16",
+        "Driver ID": "zhou",
+        "Time": "1:50.994",
+        "Position": "14"
+    },
+    {
+        "Circuit ID": "baku",
+        "Round": "17",
+        "Lap Number": "17",
+        "Driver ID": "zhou",
+        "Time": "1:50.518",
+        "Position": "15"
+    },
+    {
+        "Circuit ID": "baku",
+        "Round": "17",
+        "Lap Number": "18",
+        "Driver ID": "zhou",
+        "Time": "1:51.803",
+        "Position": "16"
+    },
+    {
+        "Circuit ID": "baku",
+        "Round": "17",
+        "Lap Number": "19",
+        "Driver ID": "zhou",
+        "Time": "1:50.496",
+        "Position": "16"
+    },
+    {
+        "Circuit ID": "baku",
+        "Round": "17",
+        "Lap Number": "20",
+        "Driver ID": "zhou",
+        "Time": "1:50.450",
+        "Position": "16"
+    },
+    {
+        "Circuit ID": "baku",
+        "Round": "17",
+        "Lap Number": "21",
+        "Driver ID": "zhou",
+        "Time": "1:50.483",
+        "Position": "16"
+    },
+    {
+        "Circuit ID": "baku",
+        "Round": "17",
+        "Lap Number": "22",
+        "Driver ID": "zhou",
+        "Time": "1:50.370",
+        "Position": "16"
+    },
+    {
+        "Circuit ID": "baku",
+        "Round": "17",
+        "Lap Number": "23",
+        "Driver ID": "zhou",
+        "Time": "1:50.563",
+        "Position": "16"
+    },
+    {
+        "Circuit ID": "baku",
+        "Round": "17",
+        "Lap Number": "24",
+        "Driver ID": "zhou",
+        "Time": "1:50.276",
+        "Position": "16"
+    },
+    {
+        "Circuit ID": "baku",
+        "Round": "17",
+        "Lap Number": "25",
+        "Driver ID": "zhou",
+        "Time": "1:50.054",
+        "Position": "16"
+    },
+    {
+        "Circuit ID": "baku",
+        "Round": "17",
+        "Lap Number": "26",
+        "Driver ID": "zhou",
+        "Time": "1:50.102",
+        "Position": "16"
+    },
+    {
+        "Circuit ID": "baku",
+        "Round": "17",
+        "Lap Number": "27",
+        "Driver ID": "zhou",
+        "Time": "1:50.036",
+        "Position": "16"
+    },
+    {
+        "Circuit ID": "baku",
+        "Round": "17",
+        "Lap Number": "28",
+        "Driver ID": "zhou",
+        "Time": "1:49.760",
+        "Position": "16"
+    },
+    {
+        "Circuit ID": "baku",
+        "Round": "17",
+        "Lap Number": "29",
+        "Driver ID": "zhou",
+        "Time": "1:49.685",
+        "Position": "16"
+    },
+    {
+        "Circuit ID": "baku",
+        "Round": "17",
+        "Lap Number": "30",
+        "Driver ID": "zhou",
+        "Time": "1:49.741",
+        "Position": "16"
+    },
+    {
+        "Circuit ID": "baku",
+        "Round": "17",
+        "Lap Number": "31",
+        "Driver ID": "zhou",
+        "Time": "1:49.794",
+        "Position": "16"
+    },
+    {
+        "Circuit ID": "baku",
+        "Round": "17",
+        "Lap Number": "32",
+        "Driver ID": "zhou",
+        "Time": "1:49.357",
+        "Position": "16"
+    },
+    {
+        "Circuit ID": "baku",
+        "Round": "17",
+        "Lap Number": "33",
+        "Driver ID": "zhou",
+        "Time": "1:49.199",
+        "Position": "16"
+    },
+    {
+        "Circuit ID": "baku",
+        "Round": "17",
+        "Lap Number": "34",
+        "Driver ID": "zhou",
+        "Time": "1:53.797",
+        "Position": "17"
+    },
+    {
+        "Circuit ID": "baku",
+        "Round": "17",
+        "Lap Number": "35",
+        "Driver ID": "zhou",
+        "Time": "2:06.269",
+        "Position": "19"
+    },
+    {
+        "Circuit ID": "baku",
+        "Round": "17",
+        "Lap Number": "36",
+        "Driver ID": "zhou",
+        "Time": "1:48.304",
+        "Position": "19"
+    },
+    {
+        "Circuit ID": "baku",
+        "Round": "17",
+        "Lap Number": "37",
+        "Driver ID": "zhou",
+        "Time": "1:48.112",
+        "Position": "19"
+    },
+    {
+        "Circuit ID": "baku",
+        "Round": "17",
+        "Lap Number": "38",
+        "Driver ID": "zhou",
+        "Time": "1:48.378",
+        "Position": "19"
+    },
+    {
+        "Circuit ID": "baku",
+        "Round": "17",
+        "Lap Number": "39",
+        "Driver ID": "zhou",
+        "Time": "1:48.001",
+        "Position": "19"
+    },
+    {
+        "Circuit ID": "baku",
+        "Round": "17",
+        "Lap Number": "40",
+        "Driver ID": "zhou",
+        "Time": "1:48.014",
+        "Position": "19"
+    },
+    {
+        "Circuit ID": "baku",
+        "Round": "17",
+        "Lap Number": "41",
+        "Driver ID": "zhou",
+        "Time": "1:48.000",
+        "Position": "19"
+    },
+    {
+        "Circuit ID": "baku",
+        "Round": "17",
+        "Lap Number": "42",
+        "Driver ID": "zhou",
+        "Time": "1:48.054",
+        "Position": "19"
+    },
+    {
+        "Circuit ID": "baku",
+        "Round": "17",
+        "Lap Number": "43",
+        "Driver ID": "zhou",
+        "Time": "1:47.644",
+        "Position": "19"
+    },
+    {
+        "Circuit ID": "baku",
+        "Round": "17",
+        "Lap Number": "44",
+        "Driver ID": "zhou",
+        "Time": "1:47.907",
+        "Position": "19"
+    },
+    {
+        "Circuit ID": "baku",
+        "Round": "17",
+        "Lap Number": "45",
+        "Driver ID": "zhou",
+        "Time": "1:47.934",
+        "Position": "18"
+    },
+    {
+        "Circuit ID": "baku",
+        "Round": "17",
+        "Lap Number": "46",
+        "Driver ID": "zhou",
+        "Time": "1:48.647",
+        "Position": "17"
+    },
+    {
+        "Circuit ID": "baku",
+        "Round": "17",
+        "Lap Number": "47",
+        "Driver ID": "zhou",
+        "Time": "1:48.077",
+        "Position": "17"
+    },
+    {
+        "Circuit ID": "baku",
+        "Round": "17",
+        "Lap Number": "48",
+        "Driver ID": "zhou",
+        "Time": "1:48.505",
+        "Position": "16"
+    },
+    {
+        "Circuit ID": "baku",
+        "Round": "17",
+        "Lap Number": "49",
+        "Driver ID": "zhou",
+        "Time": "1:48.049",
+        "Position": "16"
+    },
+    {
+        "Circuit ID": "baku",
+        "Round": "17",
+        "Lap Number": "50",
+        "Driver ID": "zhou",
+        "Time": "2:31.203",
+        "Position": "14"
+    },
+    {
+        "Circuit ID": "baku",
+        "Round": "17",
+        "Lap Number": "51",
+        "Driver ID": "zhou",
+        "Time": "2:32.764",
+        "Position": "14"
+    },
+    {
+        "Circuit ID": "baku",
+        "Round": "17",
+        "Lap Number": "1",
+        "Driver ID": "ocon",
+        "Time": "2:06.969",
+        "Position": "19"
+    },
+    {
+        "Circuit ID": "baku",
+        "Round": "17",
+        "Lap Number": "2",
+        "Driver ID": "ocon",
+        "Time": "1:53.518",
+        "Position": "19"
+    },
+    {
+        "Circuit ID": "baku",
+        "Round": "17",
+        "Lap Number": "3",
+        "Driver ID": "ocon",
+        "Time": "1:52.028",
+        "Position": "19"
+    },
+    {
+        "Circuit ID": "baku",
+        "Round": "17",
+        "Lap Number": "4",
+        "Driver ID": "ocon",
+        "Time": "1:51.514",
+        "Position": "19"
+    },
+    {
+        "Circuit ID": "baku",
+        "Round": "17",
+        "Lap Number": "5",
+        "Driver ID": "ocon",
+        "Time": "1:53.318",
+        "Position": "19"
+    },
+    {
+        "Circuit ID": "baku",
+        "Round": "17",
+        "Lap Number": "6",
+        "Driver ID": "ocon",
+        "Time": "1:51.590",
+        "Position": "19"
+    },
+    {
+        "Circuit ID": "baku",
+        "Round": "17",
+        "Lap Number": "7",
+        "Driver ID": "ocon",
+        "Time": "1:51.006",
+        "Position": "19"
+    },
+    {
+        "Circuit ID": "baku",
+        "Round": "17",
+        "Lap Number": "8",
+        "Driver ID": "ocon",
+        "Time": "1:51.396",
+        "Position": "19"
+    },
+    {
+        "Circuit ID": "baku",
+        "Round": "17",
+        "Lap Number": "9",
+        "Driver ID": "ocon",
+        "Time": "1:51.284",
+        "Position": "19"
+    },
+    {
+        "Circuit ID": "baku",
+        "Round": "17",
+        "Lap Number": "10",
+        "Driver ID": "ocon",
+        "Time": "1:51.515",
+        "Position": "18"
+    },
+    {
+        "Circuit ID": "baku",
+        "Round": "17",
+        "Lap Number": "11",
+        "Driver ID": "ocon",
+        "Time": "1:50.455",
+        "Position": "18"
+    },
+    {
+        "Circuit ID": "baku",
+        "Round": "17",
+        "Lap Number": "12",
+        "Driver ID": "ocon",
+        "Time": "1:50.578",
+        "Position": "17"
+    },
+    {
+        "Circuit ID": "baku",
+        "Round": "17",
+        "Lap Number": "13",
+        "Driver ID": "ocon",
+        "Time": "1:49.904",
+        "Position": "16"
+    },
+    {
+        "Circuit ID": "baku",
+        "Round": "17",
+        "Lap Number": "14",
+        "Driver ID": "ocon",
+        "Time": "1:50.542",
+        "Position": "16"
+    },
+    {
+        "Circuit ID": "baku",
+        "Round": "17",
+        "Lap Number": "15",
+        "Driver ID": "ocon",
+        "Time": "1:50.556",
+        "Position": "15"
+    },
+    {
+        "Circuit ID": "baku",
+        "Round": "17",
+        "Lap Number": "16",
+        "Driver ID": "ocon",
+        "Time": "1:51.138",
+        "Position": "16"
+    },
+    {
+        "Circuit ID": "baku",
+        "Round": "17",
+        "Lap Number": "17",
+        "Driver ID": "ocon",
+        "Time": "1:52.190",
+        "Position": "17"
+    },
+    {
+        "Circuit ID": "baku",
+        "Round": "17",
+        "Lap Number": "18",
+        "Driver ID": "ocon",
+        "Time": "1:50.598",
+        "Position": "17"
+    },
+    {
+        "Circuit ID": "baku",
+        "Round": "17",
+        "Lap Number": "19",
+        "Driver ID": "ocon",
+        "Time": "1:50.988",
+        "Position": "17"
+    },
+    {
+        "Circuit ID": "baku",
+        "Round": "17",
+        "Lap Number": "20",
+        "Driver ID": "ocon",
+        "Time": "1:50.801",
+        "Position": "17"
+    },
+    {
+        "Circuit ID": "baku",
+        "Round": "17",
+        "Lap Number": "21",
+        "Driver ID": "ocon",
+        "Time": "1:50.349",
+        "Position": "17"
+    },
+    {
+        "Circuit ID": "baku",
+        "Round": "17",
+        "Lap Number": "22",
+        "Driver ID": "ocon",
+        "Time": "1:50.499",
+        "Position": "17"
+    },
+    {
+        "Circuit ID": "baku",
+        "Round": "17",
+        "Lap Number": "23",
+        "Driver ID": "ocon",
+        "Time": "1:50.812",
+        "Position": "17"
+    },
+    {
+        "Circuit ID": "baku",
+        "Round": "17",
+        "Lap Number": "24",
+        "Driver ID": "ocon",
+        "Time": "1:50.527",
+        "Position": "17"
+    },
+    {
+        "Circuit ID": "baku",
+        "Round": "17",
+        "Lap Number": "25",
+        "Driver ID": "ocon",
+        "Time": "1:50.162",
+        "Position": "17"
+    },
+    {
+        "Circuit ID": "baku",
+        "Round": "17",
+        "Lap Number": "26",
+        "Driver ID": "ocon",
+        "Time": "1:49.944",
+        "Position": "17"
+    },
+    {
+        "Circuit ID": "baku",
+        "Round": "17",
+        "Lap Number": "27",
+        "Driver ID": "ocon",
+        "Time": "1:49.753",
+        "Position": "17"
+    },
+    {
+        "Circuit ID": "baku",
+        "Round": "17",
+        "Lap Number": "28",
+        "Driver ID": "ocon",
+        "Time": "1:49.607",
+        "Position": "17"
+    },
+    {
+        "Circuit ID": "baku",
+        "Round": "17",
+        "Lap Number": "29",
+        "Driver ID": "ocon",
+        "Time": "1:49.526",
+        "Position": "17"
+    },
+    {
+        "Circuit ID": "baku",
+        "Round": "17",
+        "Lap Number": "30",
+        "Driver ID": "ocon",
+        "Time": "1:49.485",
+        "Position": "17"
+    },
+    {
+        "Circuit ID": "baku",
+        "Round": "17",
+        "Lap Number": "31",
+        "Driver ID": "ocon",
+        "Time": "1:49.702",
+        "Position": "17"
+    },
+    {
+        "Circuit ID": "baku",
+        "Round": "17",
+        "Lap Number": "32",
+        "Driver ID": "ocon",
+        "Time": "1:49.419",
+        "Position": "17"
+    },
+    {
+        "Circuit ID": "baku",
+        "Round": "17",
+        "Lap Number": "33",
+        "Driver ID": "ocon",
+        "Time": "1:49.086",
+        "Position": "17"
+    },
+    {
+        "Circuit ID": "baku",
+        "Round": "17",
+        "Lap Number": "34",
+        "Driver ID": "ocon",
+        "Time": "1:49.383",
+        "Position": "16"
+    },
+    {
+        "Circuit ID": "baku",
+        "Round": "17",
+        "Lap Number": "35",
+        "Driver ID": "ocon",
+        "Time": "1:48.831",
+        "Position": "16"
+    },
+    {
+        "Circuit ID": "baku",
+        "Round": "17",
+        "Lap Number": "36",
+        "Driver ID": "ocon",
+        "Time": "1:55.839",
+        "Position": "16"
+    },
+    {
+        "Circuit ID": "baku",
+        "Round": "17",
+        "Lap Number": "37",
+        "Driver ID": "ocon",
+        "Time": "1:49.555",
+        "Position": "16"
+    },
+    {
+        "Circuit ID": "baku",
+        "Round": "17",
+        "Lap Number": "38",
+        "Driver ID": "ocon",
+        "Time": "1:49.112",
+        "Position": "16"
+    },
+    {
+        "Circuit ID": "baku",
+        "Round": "17",
+        "Lap Number": "39",
+        "Driver ID": "ocon",
+        "Time": "1:48.944",
+        "Position": "16"
+    },
+    {
+        "Circuit ID": "baku",
+        "Round": "17",
+        "Lap Number": "40",
+        "Driver ID": "ocon",
+        "Time": "1:49.273",
+        "Position": "16"
+    },
+    {
+        "Circuit ID": "baku",
+        "Round": "17",
+        "Lap Number": "41",
+        "Driver ID": "ocon",
+        "Time": "1:49.059",
+        "Position": "16"
+    },
+    {
+        "Circuit ID": "baku",
+        "Round": "17",
+        "Lap Number": "42",
+        "Driver ID": "ocon",
+        "Time": "1:49.315",
+        "Position": "16"
+    },
+    {
+        "Circuit ID": "baku",
+        "Round": "17",
+        "Lap Number": "43",
+        "Driver ID": "ocon",
+        "Time": "1:48.994",
+        "Position": "16"
+    },
+    {
+        "Circuit ID": "baku",
+        "Round": "17",
+        "Lap Number": "44",
+        "Driver ID": "ocon",
+        "Time": "1:49.269",
+        "Position": "16"
+    },
+    {
+        "Circuit ID": "baku",
+        "Round": "17",
+        "Lap Number": "45",
+        "Driver ID": "ocon",
+        "Time": "1:49.018",
+        "Position": "16"
+    },
+    {
+        "Circuit ID": "baku",
+        "Round": "17",
+        "Lap Number": "46",
+        "Driver ID": "ocon",
+        "Time": "1:49.419",
+        "Position": "16"
+    },
+    {
+        "Circuit ID": "baku",
+        "Round": "17",
+        "Lap Number": "47",
+        "Driver ID": "ocon",
+        "Time": "1:49.507",
+        "Position": "16"
+    },
+    {
+        "Circuit ID": "baku",
+        "Round": "17",
+        "Lap Number": "48",
+        "Driver ID": "ocon",
+        "Time": "1:51.775",
+        "Position": "17"
+    },
+    {
+        "Circuit ID": "baku",
+        "Round": "17",
+        "Lap Number": "49",
+        "Driver ID": "ocon",
+        "Time": "1:55.188",
+        "Position": "17"
+    },
+    {
+        "Circuit ID": "baku",
+        "Round": "17",
+        "Lap Number": "50",
+        "Driver ID": "ocon",
+        "Time": "2:46.111",
+        "Position": "15"
+    },
+    {
+        "Circuit ID": "baku",
+        "Round": "17",
+        "Lap Number": "1",
+        "Driver ID": "bottas",
+        "Time": "2:04.469",
+        "Position": "16"
+    },
+    {
+        "Circuit ID": "baku",
+        "Round": "17",
+        "Lap Number": "2",
+        "Driver ID": "bottas",
+        "Time": "1:54.291",
+        "Position": "17"
+    },
+    {
+        "Circuit ID": "baku",
+        "Round": "17",
+        "Lap Number": "3",
+        "Driver ID": "bottas",
+        "Time": "1:52.710",
+        "Position": "17"
+    },
+    {
+        "Circuit ID": "baku",
+        "Round": "17",
+        "Lap Number": "4",
+        "Driver ID": "bottas",
+        "Time": "1:51.585",
+        "Position": "17"
+    },
+    {
+        "Circuit ID": "baku",
+        "Round": "17",
+        "Lap Number": "5",
+        "Driver ID": "bottas",
+        "Time": "1:53.313",
+        "Position": "17"
+    },
+    {
+        "Circuit ID": "baku",
+        "Round": "17",
+        "Lap Number": "6",
+        "Driver ID": "bottas",
+        "Time": "1:51.039",
+        "Position": "17"
+    },
+    {
+        "Circuit ID": "baku",
+        "Round": "17",
+        "Lap Number": "7",
+        "Driver ID": "bottas",
+        "Time": "1:51.374",
+        "Position": "17"
+    },
+    {
+        "Circuit ID": "baku",
+        "Round": "17",
+        "Lap Number": "8",
+        "Driver ID": "bottas",
+        "Time": "1:51.315",
+        "Position": "17"
+    },
+    {
+        "Circuit ID": "baku",
+        "Round": "17",
+        "Lap Number": "9",
+        "Driver ID": "bottas",
+        "Time": "1:51.467",
+        "Position": "17"
+    },
+    {
+        "Circuit ID": "baku",
+        "Round": "17",
+        "Lap Number": "10",
+        "Driver ID": "bottas",
+        "Time": "1:52.685",
+        "Position": "19"
+    },
+    {
+        "Circuit ID": "baku",
+        "Round": "17",
+        "Lap Number": "11",
+        "Driver ID": "bottas",
+        "Time": "1:57.809",
+        "Position": "20"
+    },
+    {
+        "Circuit ID": "baku",
+        "Round": "17",
+        "Lap Number": "12",
+        "Driver ID": "bottas",
+        "Time": "2:06.862",
+        "Position": "20"
+    },
+    {
+        "Circuit ID": "baku",
+        "Round": "17",
+        "Lap Number": "13",
+        "Driver ID": "bottas",
+        "Time": "1:49.999",
+        "Position": "19"
+    },
+    {
+        "Circuit ID": "baku",
+        "Round": "17",
+        "Lap Number": "14",
+        "Driver ID": "bottas",
+        "Time": "1:50.005",
+        "Position": "19"
+    },
+    {
+        "Circuit ID": "baku",
+        "Round": "17",
+        "Lap Number": "15",
+        "Driver ID": "bottas",
+        "Time": "1:49.708",
+        "Position": "19"
+    },
+    {
+        "Circuit ID": "baku",
+        "Round": "17",
+        "Lap Number": "16",
+        "Driver ID": "bottas",
+        "Time": "1:49.744",
+        "Position": "19"
+    },
+    {
+        "Circuit ID": "baku",
+        "Round": "17",
+        "Lap Number": "17",
+        "Driver ID": "bottas",
+        "Time": "1:49.792",
+        "Position": "19"
+    },
+    {
+        "Circuit ID": "baku",
+        "Round": "17",
+        "Lap Number": "18",
+        "Driver ID": "bottas",
+        "Time": "1:49.718",
+        "Position": "19"
+    },
+    {
+        "Circuit ID": "baku",
+        "Round": "17",
+        "Lap Number": "19",
+        "Driver ID": "bottas",
+        "Time": "1:49.911",
+        "Position": "19"
+    },
+    {
+        "Circuit ID": "baku",
+        "Round": "17",
+        "Lap Number": "20",
+        "Driver ID": "bottas",
+        "Time": "1:49.692",
+        "Position": "19"
+    },
+    {
+        "Circuit ID": "baku",
+        "Round": "17",
+        "Lap Number": "21",
+        "Driver ID": "bottas",
+        "Time": "1:49.687",
+        "Position": "19"
+    },
+    {
+        "Circuit ID": "baku",
+        "Round": "17",
+        "Lap Number": "22",
+        "Driver ID": "bottas",
+        "Time": "1:49.727",
+        "Position": "19"
+    },
+    {
+        "Circuit ID": "baku",
+        "Round": "17",
+        "Lap Number": "23",
+        "Driver ID": "bottas",
+        "Time": "1:49.770",
+        "Position": "18"
+    },
+    {
+        "Circuit ID": "baku",
+        "Round": "17",
+        "Lap Number": "24",
+        "Driver ID": "bottas",
+        "Time": "1:49.617",
+        "Position": "18"
+    },
+    {
+        "Circuit ID": "baku",
+        "Round": "17",
+        "Lap Number": "25",
+        "Driver ID": "bottas",
+        "Time": "1:49.463",
+        "Position": "18"
+    },
+    {
+        "Circuit ID": "baku",
+        "Round": "17",
+        "Lap Number": "26",
+        "Driver ID": "bottas",
+        "Time": "1:49.646",
+        "Position": "18"
+    },
+    {
+        "Circuit ID": "baku",
+        "Round": "17",
+        "Lap Number": "27",
+        "Driver ID": "bottas",
+        "Time": "1:49.455",
+        "Position": "18"
+    },
+    {
+        "Circuit ID": "baku",
+        "Round": "17",
+        "Lap Number": "28",
+        "Driver ID": "bottas",
+        "Time": "1:49.459",
+        "Position": "18"
+    },
+    {
+        "Circuit ID": "baku",
+        "Round": "17",
+        "Lap Number": "29",
+        "Driver ID": "bottas",
+        "Time": "1:49.321",
+        "Position": "18"
+    },
+    {
+        "Circuit ID": "baku",
+        "Round": "17",
+        "Lap Number": "30",
+        "Driver ID": "bottas",
+        "Time": "1:49.410",
+        "Position": "18"
+    },
+    {
+        "Circuit ID": "baku",
+        "Round": "17",
+        "Lap Number": "31",
+        "Driver ID": "bottas",
+        "Time": "1:49.406",
+        "Position": "18"
+    },
+    {
+        "Circuit ID": "baku",
+        "Round": "17",
+        "Lap Number": "32",
+        "Driver ID": "bottas",
+        "Time": "1:49.281",
+        "Position": "18"
+    },
+    {
+        "Circuit ID": "baku",
+        "Round": "17",
+        "Lap Number": "33",
+        "Driver ID": "bottas",
+        "Time": "1:51.477",
+        "Position": "19"
+    },
+    {
+        "Circuit ID": "baku",
+        "Round": "17",
+        "Lap Number": "34",
+        "Driver ID": "bottas",
+        "Time": "1:49.598",
+        "Position": "19"
+    },
+    {
+        "Circuit ID": "baku",
+        "Round": "17",
+        "Lap Number": "35",
+        "Driver ID": "bottas",
+        "Time": "1:49.231",
+        "Position": "18"
+    },
+    {
+        "Circuit ID": "baku",
+        "Round": "17",
+        "Lap Number": "36",
+        "Driver ID": "bottas",
+        "Time": "1:49.038",
+        "Position": "18"
+    },
+    {
+        "Circuit ID": "baku",
+        "Round": "17",
+        "Lap Number": "37",
+        "Driver ID": "bottas",
+        "Time": "1:48.871",
+        "Position": "18"
+    },
+    {
+        "Circuit ID": "baku",
+        "Round": "17",
+        "Lap Number": "38",
+        "Driver ID": "bottas",
+        "Time": "1:48.836",
+        "Position": "18"
+    },
+    {
+        "Circuit ID": "baku",
+        "Round": "17",
+        "Lap Number": "39",
+        "Driver ID": "bottas",
+        "Time": "1:49.012",
+        "Position": "18"
+    },
+    {
+        "Circuit ID": "baku",
+        "Round": "17",
+        "Lap Number": "40",
+        "Driver ID": "bottas",
+        "Time": "1:48.501",
+        "Position": "18"
+    },
+    {
+        "Circuit ID": "baku",
+        "Round": "17",
+        "Lap Number": "41",
+        "Driver ID": "bottas",
+        "Time": "1:48.418",
+        "Position": "18"
+    },
+    {
+        "Circuit ID": "baku",
+        "Round": "17",
+        "Lap Number": "42",
+        "Driver ID": "bottas",
+        "Time": "1:48.742",
+        "Position": "18"
+    },
+    {
+        "Circuit ID": "baku",
+        "Round": "17",
+        "Lap Number": "43",
+        "Driver ID": "bottas",
+        "Time": "1:48.467",
+        "Position": "18"
+    },
+    {
+        "Circuit ID": "baku",
+        "Round": "17",
+        "Lap Number": "44",
+        "Driver ID": "bottas",
+        "Time": "1:48.683",
+        "Position": "18"
+    },
+    {
+        "Circuit ID": "baku",
+        "Round": "17",
+        "Lap Number": "45",
+        "Driver ID": "bottas",
+        "Time": "1:48.498",
+        "Position": "17"
+    },
+    {
+        "Circuit ID": "baku",
+        "Round": "17",
+        "Lap Number": "46",
+        "Driver ID": "bottas",
+        "Time": "1:50.670",
+        "Position": "18"
+    },
+    {
+        "Circuit ID": "baku",
+        "Round": "17",
+        "Lap Number": "47",
+        "Driver ID": "bottas",
+        "Time": "1:48.863",
+        "Position": "18"
+    },
+    {
+        "Circuit ID": "baku",
+        "Round": "17",
+        "Lap Number": "48",
+        "Driver ID": "bottas",
+        "Time": "1:54.753",
+        "Position": "18"
+    },
+    {
+        "Circuit ID": "baku",
+        "Round": "17",
+        "Lap Number": "49",
+        "Driver ID": "bottas",
+        "Time": "2:07.663",
+        "Position": "18"
+    },
+    {
+        "Circuit ID": "baku",
+        "Round": "17",
+        "Lap Number": "50",
+        "Driver ID": "bottas",
+        "Time": "2:32.351",
+        "Position": "16"
+    },
+    {
+        "Circuit ID": "baku",
+        "Round": "17",
+        "Lap Number": "1",
+        "Driver ID": "perez",
+        "Time": "1:53.923",
+        "Position": "3"
+    },
+    {
+        "Circuit ID": "baku",
+        "Round": "17",
+        "Lap Number": "2",
+        "Driver ID": "perez",
+        "Time": "1:49.236",
+        "Position": "3"
+    },
+    {
+        "Circuit ID": "baku",
+        "Round": "17",
+        "Lap Number": "3",
+        "Driver ID": "perez",
+        "Time": "1:48.814",
+        "Position": "3"
+    },
+    {
+        "Circuit ID": "baku",
+        "Round": "17",
+        "Lap Number": "4",
+        "Driver ID": "perez",
+        "Time": "1:48.727",
+        "Position": "3"
+    },
+    {
+        "Circuit ID": "baku",
+        "Round": "17",
+        "Lap Number": "5",
+        "Driver ID": "perez",
+        "Time": "1:48.768",
+        "Position": "3"
+    },
+    {
+        "Circuit ID": "baku",
+        "Round": "17",
+        "Lap Number": "6",
+        "Driver ID": "perez",
+        "Time": "1:48.604",
+        "Position": "3"
+    },
+    {
+        "Circuit ID": "baku",
+        "Round": "17",
+        "Lap Number": "7",
+        "Driver ID": "perez",
+        "Time": "1:48.519",
+        "Position": "3"
+    },
+    {
+        "Circuit ID": "baku",
+        "Round": "17",
+        "Lap Number": "8",
+        "Driver ID": "perez",
+        "Time": "1:48.153",
+        "Position": "3"
+    },
+    {
+        "Circuit ID": "baku",
+        "Round": "17",
+        "Lap Number": "9",
+        "Driver ID": "perez",
+        "Time": "1:47.826",
+        "Position": "3"
+    },
+    {
+        "Circuit ID": "baku",
+        "Round": "17",
+        "Lap Number": "10",
+        "Driver ID": "perez",
+        "Time": "1:48.769",
+        "Position": "3"
+    },
+    {
+        "Circuit ID": "baku",
+        "Round": "17",
+        "Lap Number": "11",
+        "Driver ID": "perez",
+        "Time": "1:48.721",
+        "Position": "3"
+    },
+    {
+        "Circuit ID": "baku",
+        "Round": "17",
+        "Lap Number": "12",
+        "Driver ID": "perez",
+        "Time": "1:49.117",
+        "Position": "3"
+    },
+    {
+        "Circuit ID": "baku",
+        "Round": "17",
+        "Lap Number": "13",
+        "Driver ID": "perez",
+        "Time": "1:53.398",
+        "Position": "4"
+    },
+    {
+        "Circuit ID": "baku",
+        "Round": "17",
+        "Lap Number": "14",
+        "Driver ID": "perez",
+        "Time": "2:04.864",
+        "Position": "6"
+    },
+    {
+        "Circuit ID": "baku",
+        "Round": "17",
+        "Lap Number": "15",
+        "Driver ID": "perez",
+        "Time": "1:48.585",
+        "Position": "6"
+    },
+    {
+        "Circuit ID": "baku",
+        "Round": "17",
+        "Lap Number": "16",
+        "Driver ID": "perez",
+        "Time": "1:47.140",
+        "Position": "5"
+    },
+    {
+        "Circuit ID": "baku",
+        "Round": "17",
+        "Lap Number": "17",
+        "Driver ID": "perez",
+        "Time": "1:48.836",
+        "Position": "5"
+    },
+    {
+        "Circuit ID": "baku",
+        "Round": "17",
+        "Lap Number": "18",
+        "Driver ID": "perez",
+        "Time": "1:49.430",
+        "Position": "4"
+    },
+    {
+        "Circuit ID": "baku",
+        "Round": "17",
+        "Lap Number": "19",
+        "Driver ID": "perez",
+        "Time": "1:47.572",
+        "Position": "3"
+    },
+    {
+        "Circuit ID": "baku",
+        "Round": "17",
+        "Lap Number": "20",
+        "Driver ID": "perez",
+        "Time": "1:47.655",
+        "Position": "3"
+    },
+    {
+        "Circuit ID": "baku",
+        "Round": "17",
+        "Lap Number": "21",
+        "Driver ID": "perez",
+        "Time": "1:47.719",
+        "Position": "3"
+    },
+    {
+        "Circuit ID": "baku",
+        "Round": "17",
+        "Lap Number": "22",
+        "Driver ID": "perez",
+        "Time": "1:48.111",
+        "Position": "3"
+    },
+    {
+        "Circuit ID": "baku",
+        "Round": "17",
+        "Lap Number": "23",
+        "Driver ID": "perez",
+        "Time": "1:47.460",
+        "Position": "3"
+    },
+    {
+        "Circuit ID": "baku",
+        "Round": "17",
+        "Lap Number": "24",
+        "Driver ID": "perez",
+        "Time": "1:47.385",
+        "Position": "3"
+    },
+    {
+        "Circuit ID": "baku",
+        "Round": "17",
+        "Lap Number": "25",
+        "Driver ID": "perez",
+        "Time": "1:47.485",
+        "Position": "3"
+    },
+    {
+        "Circuit ID": "baku",
+        "Round": "17",
+        "Lap Number": "26",
+        "Driver ID": "perez",
+        "Time": "1:47.591",
+        "Position": "3"
+    },
+    {
+        "Circuit ID": "baku",
+        "Round": "17",
+        "Lap Number": "27",
+        "Driver ID": "perez",
+        "Time": "1:47.333",
+        "Position": "3"
+    },
+    {
+        "Circuit ID": "baku",
+        "Round": "17",
+        "Lap Number": "28",
+        "Driver ID": "perez",
+        "Time": "1:47.464",
+        "Position": "3"
+    },
+    {
+        "Circuit ID": "baku",
+        "Round": "17",
+        "Lap Number": "29",
+        "Driver ID": "perez",
+        "Time": "1:47.633",
+        "Position": "3"
+    },
+    {
+        "Circuit ID": "baku",
+        "Round": "17",
+        "Lap Number": "30",
+        "Driver ID": "perez",
+        "Time": "1:47.536",
+        "Position": "3"
+    },
+    {
+        "Circuit ID": "baku",
+        "Round": "17",
+        "Lap Number": "31",
+        "Driver ID": "perez",
+        "Time": "1:47.927",
+        "Position": "3"
+    },
+    {
+        "Circuit ID": "baku",
+        "Round": "17",
+        "Lap Number": "32",
+        "Driver ID": "perez",
+        "Time": "1:47.630",
+        "Position": "3"
+    },
+    {
+        "Circuit ID": "baku",
+        "Round": "17",
+        "Lap Number": "33",
+        "Driver ID": "perez",
+        "Time": "1:48.442",
+        "Position": "3"
+    },
+    {
+        "Circuit ID": "baku",
+        "Round": "17",
+        "Lap Number": "34",
+        "Driver ID": "perez",
+        "Time": "1:48.143",
+        "Position": "3"
+    },
+    {
+        "Circuit ID": "baku",
+        "Round": "17",
+        "Lap Number": "35",
+        "Driver ID": "perez",
+        "Time": "1:48.209",
+        "Position": "3"
+    },
+    {
+        "Circuit ID": "baku",
+        "Round": "17",
+        "Lap Number": "36",
+        "Driver ID": "perez",
+        "Time": "1:48.518",
+        "Position": "3"
+    },
+    {
+        "Circuit ID": "baku",
+        "Round": "17",
+        "Lap Number": "37",
+        "Driver ID": "perez",
+        "Time": "1:48.328",
+        "Position": "3"
+    },
+    {
+        "Circuit ID": "baku",
+        "Round": "17",
+        "Lap Number": "38",
+        "Driver ID": "perez",
+        "Time": "1:47.787",
+        "Position": "3"
+    },
+    {
+        "Circuit ID": "baku",
+        "Round": "17",
+        "Lap Number": "39",
+        "Driver ID": "perez",
+        "Time": "1:47.632",
+        "Position": "3"
+    },
+    {
+        "Circuit ID": "baku",
+        "Round": "17",
+        "Lap Number": "40",
+        "Driver ID": "perez",
+        "Time": "1:47.609",
+        "Position": "3"
+    },
+    {
+        "Circuit ID": "baku",
+        "Round": "17",
+        "Lap Number": "41",
+        "Driver ID": "perez",
+        "Time": "1:47.089",
+        "Position": "3"
+    },
+    {
+        "Circuit ID": "baku",
+        "Round": "17",
+        "Lap Number": "42",
+        "Driver ID": "perez",
+        "Time": "1:47.139",
+        "Position": "3"
+    },
+    {
+        "Circuit ID": "baku",
+        "Round": "17",
+        "Lap Number": "43",
+        "Driver ID": "perez",
+        "Time": "1:47.960",
+        "Position": "3"
+    },
+    {
+        "Circuit ID": "baku",
+        "Round": "17",
+        "Lap Number": "44",
+        "Driver ID": "perez",
+        "Time": "1:47.430",
+        "Position": "3"
+    },
+    {
+        "Circuit ID": "baku",
+        "Round": "17",
+        "Lap Number": "45",
+        "Driver ID": "perez",
+        "Time": "1:47.570",
+        "Position": "3"
+    },
+    {
+        "Circuit ID": "baku",
+        "Round": "17",
+        "Lap Number": "46",
+        "Driver ID": "perez",
+        "Time": "1:47.013",
+        "Position": "3"
+    },
+    {
+        "Circuit ID": "baku",
+        "Round": "17",
+        "Lap Number": "47",
+        "Driver ID": "perez",
+        "Time": "1:47.645",
+        "Position": "3"
+    },
+    {
+        "Circuit ID": "baku",
+        "Round": "17",
+        "Lap Number": "48",
+        "Driver ID": "perez",
+        "Time": "1:48.303",
+        "Position": "3"
+    },
+    {
+        "Circuit ID": "baku",
+        "Round": "17",
+        "Lap Number": "49",
+        "Driver ID": "perez",
+        "Time": "1:48.450",
+        "Position": "3"
+    },
+    {
+        "Circuit ID": "baku",
+        "Round": "17",
+        "Lap Number": "1",
+        "Driver ID": "stroll",
+        "Time": "2:11.014",
+        "Position": "20"
+    },
+    {
+        "Circuit ID": "baku",
+        "Round": "17",
+        "Lap Number": "2",
+        "Driver ID": "stroll",
+        "Time": "2:08.417",
+        "Position": "20"
+    },
+    {
+        "Circuit ID": "baku",
+        "Round": "17",
+        "Lap Number": "3",
+        "Driver ID": "stroll",
+        "Time": "1:50.819",
+        "Position": "20"
+    },
+    {
+        "Circuit ID": "baku",
+        "Round": "17",
+        "Lap Number": "4",
+        "Driver ID": "stroll",
+        "Time": "1:50.480",
+        "Position": "20"
+    },
+    {
+        "Circuit ID": "baku",
+        "Round": "17",
+        "Lap Number": "5",
+        "Driver ID": "stroll",
+        "Time": "1:49.970",
+        "Position": "20"
+    },
+    {
+        "Circuit ID": "baku",
+        "Round": "17",
+        "Lap Number": "6",
+        "Driver ID": "stroll",
+        "Time": "1:49.519",
+        "Position": "20"
+    },
+    {
+        "Circuit ID": "baku",
+        "Round": "17",
+        "Lap Number": "7",
+        "Driver ID": "stroll",
+        "Time": "1:49.687",
+        "Position": "20"
+    },
+    {
+        "Circuit ID": "baku",
+        "Round": "17",
+        "Lap Number": "8",
+        "Driver ID": "stroll",
+        "Time": "1:50.315",
+        "Position": "20"
+    },
+    {
+        "Circuit ID": "baku",
+        "Round": "17",
+        "Lap Number": "9",
+        "Driver ID": "stroll",
+        "Time": "1:49.143",
+        "Position": "20"
+    },
+    {
+        "Circuit ID": "baku",
+        "Round": "17",
+        "Lap Number": "10",
+        "Driver ID": "stroll",
+        "Time": "1:49.432",
+        "Position": "20"
+    },
+    {
+        "Circuit ID": "baku",
+        "Round": "17",
+        "Lap Number": "11",
+        "Driver ID": "stroll",
+        "Time": "1:49.972",
+        "Position": "19"
+    },
+    {
+        "Circuit ID": "baku",
+        "Round": "17",
+        "Lap Number": "12",
+        "Driver ID": "stroll",
+        "Time": "1:50.952",
+        "Position": "18"
+    },
+    {
+        "Circuit ID": "baku",
+        "Round": "17",
+        "Lap Number": "13",
+        "Driver ID": "stroll",
+        "Time": "1:49.594",
+        "Position": "17"
+    },
+    {
+        "Circuit ID": "baku",
+        "Round": "17",
+        "Lap Number": "14",
+        "Driver ID": "stroll",
+        "Time": "1:49.412",
+        "Position": "17"
+    },
+    {
+        "Circuit ID": "baku",
+        "Round": "17",
+        "Lap Number": "15",
+        "Driver ID": "stroll",
+        "Time": "1:50.760",
+        "Position": "18"
+    },
+    {
+        "Circuit ID": "baku",
+        "Round": "17",
+        "Lap Number": "16",
+        "Driver ID": "stroll",
+        "Time": "1:51.103",
+        "Position": "18"
+    },
+    {
+        "Circuit ID": "baku",
+        "Round": "17",
+        "Lap Number": "17",
+        "Driver ID": "stroll",
+        "Time": "1:50.709",
+        "Position": "18"
+    },
+    {
+        "Circuit ID": "baku",
+        "Round": "17",
+        "Lap Number": "18",
+        "Driver ID": "stroll",
+        "Time": "1:50.450",
+        "Position": "18"
+    },
+    {
+        "Circuit ID": "baku",
+        "Round": "17",
+        "Lap Number": "19",
+        "Driver ID": "stroll",
+        "Time": "1:50.234",
+        "Position": "18"
+    },
+    {
+        "Circuit ID": "baku",
+        "Round": "17",
+        "Lap Number": "20",
+        "Driver ID": "stroll",
+        "Time": "1:50.293",
+        "Position": "18"
+    },
+    {
+        "Circuit ID": "baku",
+        "Round": "17",
+        "Lap Number": "21",
+        "Driver ID": "stroll",
+        "Time": "1:50.509",
+        "Position": "18"
+    },
+    {
+        "Circuit ID": "baku",
+        "Round": "17",
+        "Lap Number": "22",
+        "Driver ID": "stroll",
+        "Time": "1:55.365",
+        "Position": "18"
+    },
+    {
+        "Circuit ID": "baku",
+        "Round": "17",
+        "Lap Number": "23",
+        "Driver ID": "stroll",
+        "Time": "2:05.467",
+        "Position": "19"
+    },
+    {
+        "Circuit ID": "baku",
+        "Round": "17",
+        "Lap Number": "24",
+        "Driver ID": "stroll",
+        "Time": "1:49.018",
+        "Position": "19"
+    },
+    {
+        "Circuit ID": "baku",
+        "Round": "17",
+        "Lap Number": "25",
+        "Driver ID": "stroll",
+        "Time": "1:48.895",
+        "Position": "19"
+    },
+    {
+        "Circuit ID": "baku",
+        "Round": "17",
+        "Lap Number": "26",
+        "Driver ID": "stroll",
+        "Time": "1:48.843",
+        "Position": "19"
+    },
+    {
+        "Circuit ID": "baku",
+        "Round": "17",
+        "Lap Number": "27",
+        "Driver ID": "stroll",
+        "Time": "1:48.708",
+        "Position": "19"
+    },
+    {
+        "Circuit ID": "baku",
+        "Round": "17",
+        "Lap Number": "28",
+        "Driver ID": "stroll",
+        "Time": "1:48.512",
+        "Position": "19"
+    },
+    {
+        "Circuit ID": "baku",
+        "Round": "17",
+        "Lap Number": "29",
+        "Driver ID": "stroll",
+        "Time": "1:48.603",
+        "Position": "19"
+    },
+    {
+        "Circuit ID": "baku",
+        "Round": "17",
+        "Lap Number": "30",
+        "Driver ID": "stroll",
+        "Time": "1:48.665",
+        "Position": "19"
+    },
+    {
+        "Circuit ID": "baku",
+        "Round": "17",
+        "Lap Number": "31",
+        "Driver ID": "stroll",
+        "Time": "1:48.148",
+        "Position": "19"
+    },
+    {
+        "Circuit ID": "baku",
+        "Round": "17",
+        "Lap Number": "32",
+        "Driver ID": "stroll",
+        "Time": "1:48.849",
+        "Position": "19"
+    },
+    {
+        "Circuit ID": "baku",
+        "Round": "17",
+        "Lap Number": "33",
+        "Driver ID": "stroll",
+        "Time": "1:49.568",
+        "Position": "18"
+    },
+    {
+        "Circuit ID": "baku",
+        "Round": "17",
+        "Lap Number": "34",
+        "Driver ID": "stroll",
+        "Time": "1:48.592",
+        "Position": "18"
+    },
+    {
+        "Circuit ID": "baku",
+        "Round": "17",
+        "Lap Number": "35",
+        "Driver ID": "stroll",
+        "Time": "1:48.441",
+        "Position": "17"
+    },
+    {
+        "Circuit ID": "baku",
+        "Round": "17",
+        "Lap Number": "36",
+        "Driver ID": "stroll",
+        "Time": "1:48.670",
+        "Position": "17"
+    },
+    {
+        "Circuit ID": "baku",
+        "Round": "17",
+        "Lap Number": "37",
+        "Driver ID": "stroll",
+        "Time": "1:48.422",
+        "Position": "17"
+    },
+    {
+        "Circuit ID": "baku",
+        "Round": "17",
+        "Lap Number": "38",
+        "Driver ID": "stroll",
+        "Time": "1:48.903",
+        "Position": "17"
+    },
+    {
+        "Circuit ID": "baku",
+        "Round": "17",
+        "Lap Number": "39",
+        "Driver ID": "stroll",
+        "Time": "1:48.312",
+        "Position": "17"
+    },
+    {
+        "Circuit ID": "baku",
+        "Round": "17",
+        "Lap Number": "40",
+        "Driver ID": "stroll",
+        "Time": "1:49.405",
+        "Position": "17"
+    },
+    {
+        "Circuit ID": "baku",
+        "Round": "17",
+        "Lap Number": "41",
+        "Driver ID": "stroll",
+        "Time": "1:49.670",
+        "Position": "17"
+    },
+    {
+        "Circuit ID": "baku",
+        "Round": "17",
+        "Lap Number": "42",
+        "Driver ID": "stroll",
+        "Time": "1:49.547",
+        "Position": "17"
+    },
+    {
+        "Circuit ID": "baku",
+        "Round": "17",
+        "Lap Number": "43",
+        "Driver ID": "stroll",
+        "Time": "1:48.783",
+        "Position": "17"
+    },
+    {
+        "Circuit ID": "baku",
+        "Round": "17",
+        "Lap Number": "44",
+        "Driver ID": "stroll",
+        "Time": "1:48.745",
+        "Position": "17"
+    },
+    {
+        "Circuit ID": "baku",
+        "Round": "17",
+        "Lap Number": "45",
+        "Driver ID": "stroll",
+        "Time": "2:02.165",
+        "Position": "19"
+    },
+    {
+        "Circuit ID": "baku",
+        "Round": "17",
+        "Lap Number": "1",
+        "Driver ID": "tsunoda",
+        "Time": "2:03.649",
+        "Position": "11"
+    },
+    {
+        "Circuit ID": "baku",
+        "Round": "17",
+        "Lap Number": "2",
+        "Driver ID": "tsunoda",
+        "Time": "1:51.648",
+        "Position": "11"
+    },
+    {
+        "Circuit ID": "baku",
+        "Round": "17",
+        "Lap Number": "3",
+        "Driver ID": "tsunoda",
+        "Time": "1:53.328",
+        "Position": "14"
+    },
+    {
+        "Circuit ID": "baku",
+        "Round": "17",
+        "Lap Number": "4",
+        "Driver ID": "tsunoda",
+        "Time": "1:53.997",
+        "Position": "16"
+    },
+    {
+        "Circuit ID": "baku",
+        "Round": "17",
+        "Lap Number": "5",
+        "Driver ID": "tsunoda",
+        "Time": "1:53.121",
+        "Position": "16"
+    },
+    {
+        "Circuit ID": "baku",
+        "Round": "17",
+        "Lap Number": "6",
+        "Driver ID": "tsunoda",
+        "Time": "1:51.278",
+        "Position": "16"
+    },
+    {
+        "Circuit ID": "baku",
+        "Round": "17",
+        "Lap Number": "7",
+        "Driver ID": "tsunoda",
+        "Time": "1:51.075",
+        "Position": "16"
+    },
+    {
+        "Circuit ID": "baku",
+        "Round": "17",
+        "Lap Number": "8",
+        "Driver ID": "tsunoda",
+        "Time": "1:50.887",
+        "Position": "16"
+    },
+    {
+        "Circuit ID": "baku",
+        "Round": "17",
+        "Lap Number": "9",
+        "Driver ID": "tsunoda",
+        "Time": "1:51.141",
+        "Position": "16"
+    },
+    {
+        "Circuit ID": "baku",
+        "Round": "17",
+        "Lap Number": "10",
+        "Driver ID": "tsunoda",
+        "Time": "1:50.899",
+        "Position": "16"
+    },
+    {
+        "Circuit ID": "baku",
+        "Round": "17",
+        "Lap Number": "11",
+        "Driver ID": "tsunoda",
+        "Time": "1:52.485",
+        "Position": "17"
+    },
+    {
+        "Circuit ID": "baku",
+        "Round": "17",
+        "Lap Number": "12",
+        "Driver ID": "tsunoda",
+        "Time": "2:01.304",
+        "Position": "19"
+    },
+    {
+        "Circuit ID": "baku",
+        "Round": "17",
+        "Lap Number": "13",
+        "Driver ID": "tsunoda",
+        "Time": "2:11.939",
+        "Position": "20"
+    },
+    {
+        "Circuit ID": "baku",
+        "Round": "17",
+        "Lap Number": "14",
+        "Driver ID": "tsunoda",
+        "Time": "2:05.900",
+        "Position": "20"
+    }
+]
