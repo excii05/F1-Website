@@ -40,6 +40,16 @@ def fetch_session_schedule(country, year):
         print(f"Failed to fetch sessions for country {country} in year {year}")
         return None
 
+def driver_information(year):
+    url = f"https://api.jolpi.ca/ergast/f1/{year}/drivers/?format=json"
+    response = requests.get(url)
+    
+    if response.status_code == 200:
+        return response.json()
+    else:
+        print(f"Failed to fetch driver information for {year}")
+        return None
+
 def fetch_race_results(year, round):
     url = f"https://api.jolpi.ca/ergast/f1/{year}/{round}/results/?format=json"
     response = requests.get(url)
