@@ -1,218 +1,87 @@
 <!DOCTYPE html>
-<html lang="de">
+<html lang="en">
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>F1 Website</title>
-    <link rel="stylesheet" href="{{ url_for('static', filename='styles/styles.css') }}">
-    <!-- Unicons Icon Bibliothek -->
-    <link rel="stylesheet" href="https://unicons.iconscout.com/release/v3.0.6/css/line.css">
-    <script defer src="{{ url_for('static', filename='js/script.js') }}"></script>
+    <title>Formel 1 Übersicht</title>
+    <style>
+        body { font-family: Arial, sans-serif; margin: 20px; padding: 0; }
+        table { border-collapse: collapse; width: 100%; margin-bottom: 20px; }
+        th, td { border: 1px solid #ddd; padding: 8px; text-align: left; }
+        th { background-color: #f4f4f4; }
+        h1, h2 { color: #333; }
+    </style>
 </head>
 <body>
-
-    <header>
-        <h1 data-key="header-title">F1 Statistiken und Informationen</h1>
-        
-        <!-- Sprachumschalter mit Dropdown und Globe Icon -->
-        <div class="language-switcher">
-            <i class="uil uil-globe" style="color: white;"></i>
-            <select id="language-dropdown">
-                <option value="de">Deutsch</option>
-                <option value="en">English</option>
-                <!-- Weitere Sprachen können hinzugefügt werden -->
-            </select>
-        </div>
-        
-        <nav>
-            <ul>
-                <li><a href="#drivers" data-key="driver-standings">Fahrerwertung</a></li>
-                <li><a href="#constructors" data-key="constructor-standings">Konstrukteurswertung</a></li>
-                <li><a href="#race-schedule" data-key="race-calendar">Rennkalender</a></li>
-            </ul>
-        </nav>
-    </header>
-
-    <main>
-        <section id="drivers">
-            <h2 data-key="driver-standings">Fahrerwertung</h2>
-            <div class="standings" id="driver-standings">
-                <!-- Der unveränderte Inhalt aus der driver_stats.html -->
-                <!DOCTYPE html>
-                <html lang="de">
-                <head>
-                    <meta charset="UTF-8">
-                    <title>Fahrerwertung</title>
-                    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css">
-                    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.4/css/all.min.css">
-                    <style>
-                        .sort-icon {
-                            color: #ccc; /* Standardfarbe für inaktive Pfeile */
-                            text-decoration: none;
-                            margin-left: 5px;
-                        }
-                        .sort-icon.active {
-                            color: #007bff; /* Aktive Farbe für ausgewählte Sortierpfeile */
-                        }
-                    </style>
-                </head>
-                <body>
-                    <div class="container">
-                        <table class="table table-striped">
-                            <thead>
-                                <tr>
-                                    <th>Position</th>
-                                    <th>Voller Name</th>
-                                    <th>
-                                        Punkte
-                                        <!-- Sortierlinks für Punkte -->
-                                        <a href="?driver_sort_by=points&driver_order=desc" 
-                                            class="sort-icon {% if driver_sort_by == 'points' and driver_order == 'desc' %}active{% endif %}">
-                                            <i class="fas fa-sort-up"></i>
-                                        </a>
-                                        <a href="?driver_sort_by=points&driver_order=asc" 
-                                            class="sort-icon {% if driver_sort_by == 'points' and driver_order == 'asc' %}active{% endif %}">
-                                            <i class="fas fa-sort-down"></i>
-                                        </a>
-                                    </th>
-                                    <th>
-                                        Siege
-                                        <!-- Sortierlinks für Siege -->
-                                        <a href="?driver_sort_by=wins&driver_order=desc" 
-                                            class="sort-icon {% if driver_sort_by == 'wins' and driver_order == 'desc' %}active{% endif %}">
-                                            <i class="fas fa-sort-up"></i>
-                                        </a>
-                                        <a href="?driver_sort_by=wins&driver_order=asc" 
-                                            class="sort-icon {% if driver_sort_by == 'wins' and driver_order == 'asc' %}active{% endif %}">
-                                            <i class="fas fa-sort-down"></i>
-                                        </a>
-                                    </th>
-                                    <th>Konstrukteur</th>
-                                </tr>
-                            </thead>
-                            <tbody>
-                                {% for driver in driver_standings %}
-                                <tr>
-                                    <td>{{ driver.position }}</td>
-                                    <td>
-                                        <a href="{{ url_for('driver_profile', driver_id=driver['id']) }}">
-                                            {{ driver['name'] }}
-                                        </a>
-                                    </td>
-                                    <td>{{ driver.points }}</td>
-                                    <td>{{ driver.wins }}</td>
-                                    <td>{{ driver.constructor }}</td>
-                                </tr>
-                                {% endfor %}
-                            </tbody>
-                        </table>
-                    </div>
-                </body>
-                </html>
-            </div>
-        </section>
-
-        <section id="constructors">
-            <h2 data-key="constructor-standings">Konstrukteurswertung</h2>
-            <div class="standings" id="constructor-standings">
-                <div class="container">
-                    <table class="table table-striped">
-                        <thead>
-                            <tr>
-                                <th>Position</th>
-                                <th>Name</th>
-                                <th>
-                                    Punkte
-                                    <!-- Sortierlinks für Punkte -->
-                                    <a href="?constructor_sort_by=points&constructor_order=desc" 
-                                       class="sort-icon {% if constructor_sort_by == 'points' and constructor_order == 'desc' %}active{% endif %}">
-                                       <i class="fas fa-sort-up"></i>
-                                    </a>
-                                    <a href="?constructor_sort_by=points&constructor_order=asc" 
-                                       class="sort-icon {% if constructor_sort_by == 'points' and constructor_order == 'asc' %}active{% endif %}">
-                                       <i class="fas fa-sort-down"></i>
-                                    </a>
-                                </th>
-                                <th>
-                                    Siege
-                                    <!-- Sortierlinks für Siege -->
-                                    <a href="?constructor_sort_by=wins&constructor_order=desc" 
-                                       class="sort-icon {% if constructor_sort_by == 'wins' and constructor_order == 'desc' %}active{% endif %}">
-                                       <i class="fas fa-sort-up"></i>
-                                    </a>
-                                    <a href="?constructor_sort_by=wins&constructor_order=asc" 
-                                       class="sort-icon {% if constructor_sort_by == 'wins' and constructor_order == 'asc' %}active{% endif %}">
-                                       <i class="fas fa-sort-down"></i>
-                                    </a>
-                                </th>
-                            </tr>
-                        </thead>
-                        <tbody>
-                            {% for constructor in constructor_standings %}
-                            <tr>
-                                <td>{{ constructor.position }}</td>
-                                <td>
-                                    <a href="{{ url_for('constructor_profile', constructor_id=constructor['id']) }}">
-                                        {{ constructor['name'] }}
-                                    </a>
-                                </td>
-                                <td>{{ constructor.points }}</td>
-                                <td>{{ constructor.wins }}</td>
-                            </tr>
-                            {% endfor %}
-                        </tbody>
-                    </table>
-                </div>
-            </div>
-        </section>
-        
-
-        <section id="race-schedule">
-            <h2 data-key="race-schedule">Renntermine</h2>
-            <div class="schedule" id="race-schedule-table">
-                <!DOCTYPE html>
-                <html lang="de">
-                <head>
-                    <meta charset="UTF-8">
-                    <title>Renntermine</title>
-                </head>
-                <body>
-                    <div class="container">
-                        <table class="table table-striped">
-                            <thead>
-                                <tr>
-                                    <th>Rennnummer</th>
-                                    <th>Ort</th>
-                                    <th>Name der Rennstrecke</th>
-                                    <th>Datum</th>
-                                </tr>
-                            </thead>
-                            <tbody>
-                                {% for race in race_schedule %}
-                                <tr>
-                                    <td>{{ loop.index }}</td>
-                                    <td>{{ race['location']['country'] }}, {{ race['location']['city'] }}</td>
-                                    <td>
-                                        <a href="{{ url_for('circuit_profile', circuit_id=race['id']) }}">
-                                            {{ race['circuit_name'] }}
-                                        </a>
-                                    </td>
-                                    <td>{{ race['date'] }}</td>
-                                </tr>
-                                {% endfor %}
-                            </tbody>
-                        </table>
-                    </div>
-                </body>
-                </html>
-            </div>
-        </section>
-        
-    </main>
-
-    <footer>
-        <p data-key="footer-text">&copy; 2024 F1 Statistik Webseite</p>
-    </footer>
-
+    <h1>Formel 1 Saison 2024</h1>
+    
+    <h2>Fahrer-WM</h2>
+    <table>
+        <thead>
+            <tr>
+                <th>Platz</th>
+                <th>Name</th>
+                <th>Team</th>
+                <th>Punkte</th>
+            </tr>
+        </thead>
+        <tbody>
+            {% for driver in driver_standings %}
+            <tr>
+                <td>{{ driver.position }}</td>
+                <td>
+                    <a href="/driver/{{ driver.Driver.driverId }}">
+                        {{ driver.Driver.givenName }} {{ driver.Driver.familyName }}
+                    </a>
+                </td>
+                <td>{{ driver.Constructors[0].name }}</td>
+                <td>{{ driver.points }}</td>
+            </tr>
+            {% endfor %}
+        </tbody>
+    </table>
+    
+    <h2>Team-WM</h2>
+    <table>
+        <tbody>
+            {% for team in constructor_standings %}
+            <tr>
+                <td>{{ team.position }}</td>
+                <td>
+                    <a href="/team/{{ team.Constructor.constructorId }}">
+                        {{ team.Constructor.name }}
+                    </a>
+                </td>
+                <td>{{ team.points }}</td>
+            </tr>
+            {% endfor %}
+        </tbody>
+    </table>
+    
+    <h2>Rennkalender</h2>
+    <table>
+        <thead>
+            <tr>
+                <th>Runde</th>
+                <th>Grand Prix</th>
+                <th>Datum</th>
+                <th>Ort</th>
+            </tr>
+        </thead>
+        <tbody>
+            {% for race in race_schedule %}
+            <tr>
+                <td>{{ race.round }}</td>
+                <td>
+                    <a href="/race/{{ race.round }}">
+                        {{ race.raceName }}
+                    </a>
+                </td>
+                <td>{{ race.date }}</td>
+                <td>{{ race.Circuit.circuitName }}</td>
+            </tr>
+            {% endfor %}
+        </tbody>
+    </table>
 </body>
 </html>
