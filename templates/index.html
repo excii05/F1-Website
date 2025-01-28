@@ -56,24 +56,95 @@
         <!--==================== MAIN ====================-->
         <main class="main">
             <!--==================== Drivers ====================-->
-            <section class="about section" id="drivers">
+            <section class="driver section" id="drivers">
                 <h2 class="section__title">Driver Standings</h2>
-                
-
+                <div class="table-container">
+                    <table>
+                        <thead>
+                            <tr>
+                                <th>Platz</th>
+                                <th>Name</th>
+                                <th>Team</th>
+                                <th>Punkte</th>
+                            </tr>
+                        </thead>
+                        <tbody>
+                            {% for driver in driver_standings %}
+                            <tr>
+                                <td>{{ driver.position }}</td>
+                                <td>
+                                    <a href="/driver/{{ driver.Driver.driverId }}">
+                                        {{ driver.Driver.givenName }} {{ driver.Driver.familyName }}
+                                    </a>
+                                </td>
+                                <td>{{ driver.Constructors[0].name }}</td>
+                                <td>{{ driver.points }}</td>
+                            </tr>
+                            {% endfor %}
+                        </tbody>
+                    </table>
+                </div>
             </section>
+              
 
             <!--==================== Constructors ====================-->
-            <section class="about section" id="constructors">
+            <section class="constructor section" id="constructors">
                 <h2 class="section__title">Constructor Standings</h2>
-
-                
+                <div class="table-container">
+                    <table>
+                        <thead>
+                            <tr>
+                                <th>Platz</th>
+                                <th>Team</th>
+                                <th>Punkte</th>
+                            </tr>
+                        </thead>
+                        <tbody>
+                            {% for team in constructor_standings %}
+                            <tr>
+                                <td>{{ team.position }}</td>
+                                <td>
+                                    <a href="/team/{{ team.Constructor.constructorId }}">
+                                        {{ team.Constructor.name }}
+                                    </a>
+                                </td>
+                                <td>{{ team.points }}</td>
+                            </tr>
+                            {% endfor %}
+                        </tbody>
+                    </table>
+                </div>
             </section>
 
             <!--==================== Races ====================-->
-            <section class="skills section" id="races">
+            <section class="race section" id="races">
                 <h2 class="section__title">Race Dates</h2>
-
-                
+                <div class="table-container">
+                    <table>
+                        <thead>
+                            <tr>
+                                <th>Runde</th>
+                                <th>Grand Prix</th>
+                                <th>Datum</th>
+                                <th>Ort</th>
+                            </tr>
+                        </thead>
+                        <tbody>
+                            {% for race in race_schedule %}
+                            <tr>
+                                <td>{{ race.round }}</td>
+                                <td>
+                                    <a href="/race/{{ race.round }}">
+                                        {{ race.raceName }}
+                                    </a>
+                                </td>
+                                <td>{{ race.date }}</td>
+                                <td>{{ race.Circuit.circuitName }}</td>
+                            </tr>
+                            {% endfor %}
+                        </tbody>
+                    </table>
+                </div>
             </section>
         </main>
 
