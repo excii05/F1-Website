@@ -15,5 +15,9 @@ f1_dashboard/
 │   ├── js/
 │   │   └── script.js          # JavaScript für Interaktivität
 │
+├── svg/
+│   ├── f1.png
+│   └── circuits/
+│
 ├── cache/
 │   └── translations.json
