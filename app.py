@@ -3,8 +3,10 @@ from data_fetcher import (
     fetch_driver_standings, 
     fetch_constructor_standings, 
     fetch_race_schedule, 
-    driver_information
+    driver_information,
+    fetch_driver_info
 )
+from driver_stats import analyze_driver_results
 
 app = Flask(__name__)
 
@@ -66,9 +68,11 @@ def home():
 
 @app.route('/driver/<driver_id>')
 def driver_profile(driver_id):
-    driver = get_driver_details(driver_id)
+    driver = fetch_driver_info(driver_id)
+    stats = analyze_driver_results(driver_id)
+    
     if driver:
-        return render_template('driver_profile.html', driver=driver)
+        return render_template('driver_profile.html', driver=driver, stats=stats)
     else:
         return "Driver not found", 404
 

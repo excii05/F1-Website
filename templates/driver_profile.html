@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>{{ driver.givenName }} {{ driver.familyName }}</title>
+    <title>{{ driver.full_name }}</title>
     <style>
         body { font-family: Arial, sans-serif; margin: 20px; }
         .container { max-width: 600px; margin: 0 auto; }
@@ -15,30 +15,20 @@
 </head>
 <body>
     <div class="container">
-        <h1>Steckbrief: {{ driver.givenName }} {{ driver.familyName }}</h1>
+        <h1>Steckbrief: {{ driver.full_name }}</h1>
         <table>
-            <tr>
-                <th>Geburtsdatum</th>
-                <td>{{ driver.dateOfBirth }}</td>
-            </tr>
-            <tr>
-                <th>Nationalität</th>
-                <td>{{ driver.nationality }}</td>
-            </tr>
-            <tr>
-                <th>Code</th>
-                <td>{{ driver.code }}</td>
-            </tr>
-            <tr>
-                <th>FIA Nummer</th>
-                <td>{{ driver.permanentNumber }}</td>
-            </tr>
-            <tr>
-                <th>Wikipedia</th>
-                <td><a href="{{ driver.url }}" target="_blank">Wikipedia</a></td>
-            </tr>
+            <tr><th>Alter</th><td>{{ driver.age }}</td></tr>
+            <tr><th>Nationalität</th><td>{{ driver.nationality }}</td></tr>
+            <tr><th>Rennen</th><td>{{ stats.total_races }}</td></tr>
+            <tr><th>Siege</th><td>{{ stats.wins }}</td></tr>
+            <tr><th>Podien</th><td>{{ stats.podiums }} (P2: {{ stats.p2_finishes }}, P3: {{ stats.p3_finishes }})</td></tr>
+            <tr><th>Pole Positions</th><td>{{ stats.pole_positions }}</td></tr>
+            <tr><th>Meisterschaften</th><td>{{ stats.championships }}</td></tr>
+            <tr><th>Vize-Weltmeisterschaften</th><td>{{ stats.runner_up }}</td></tr>
+            <tr><th>Erste Saison</th><td>{{ stats.first_season }}</td></tr>
+            <tr><th>Aktuelles Team</th><td>{{ stats.current_team }}</td></tr>
         </table>
-        <a href="/">Zurück zur Übersicht</a>
+        <a href="/">Zurück</a>
     </div>
 </body>
 </html>
