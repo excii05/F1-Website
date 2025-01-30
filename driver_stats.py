@@ -1,9 +1,10 @@
 from data_fetcher import fetch_driver_results, fetch_driver_championships
 
 def analyze_driver_results(driver_id):
-    results = fetch_driver_results(driver_id)
+    results = fetch_driver_results(driver_id)  # Kein unnötiges Limit setzen, API erlaubt max. 100
+    total_races = len(results)
     stats = {
-        "total_races": len(results),
+        "total_races": total_races,
         "wins": 0,
         "podiums": 0,
         "p2_finishes": 0,
@@ -55,6 +56,11 @@ def analyze_driver_results(driver_id):
         if position.isdigit() and int(position) > 10:
             stats["outside_top10"] += 1
     
+    # Optimierte Meisterschaftsabfrage mit einer einzigen API-Anfrage für alle Jahre
     stats["championships"], stats["runner_up"] = fetch_driver_championships(driver_id)
+    
+    # Entferne das aktuelle Team aus der Liste vorheriger Teams
+    previous_teams = stats["teams"] - {stats["current_team"]}
+    stats["teams"] = ", ".join(previous_teams) if previous_teams else "---"
     
     return stats

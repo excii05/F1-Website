@@ -62,45 +62,36 @@ def fetch_driver_info(driver_id):
         "age": age
     }
 
-def fetch_total_races(driver_id):
-    url = f"{BASE_URL}/drivers/{driver_id}/results?limit=1"
-    response = requests.get(url).json()
-    return int(response.get("MRData", {}).get("total", 0))
-
 def fetch_driver_results(driver_id):
-    total_races = fetch_total_races(driver_id)
-    limit = 100
-    num_requests = math.ceil(total_races / limit)
-    
     results = []
-    for i in range(num_requests):
-        offset = i * limit
+    limit = 100
+    offset = 0
+    while True:
         url = f"{BASE_URL}/drivers/{driver_id}/results?limit={limit}&offset={offset}"
         response = requests.get(url).json()
-        results.extend(response.get("MRData", {}).get("RaceTable", {}).get("Races", []))
-    
+        races = response.get("MRData", {}).get("RaceTable", {}).get("Races", [])
+        if not races:
+            break
+        results.extend(races)
+        offset += limit
     return results
 
 def fetch_driver_championships(driver_id):
     championships = 0
     runner_up = 0
+    
     for year in range(1950, 2025):
-        standings_url_p1 = f"{BASE_URL}/{year}/driverStandings/1?limit=100"
-        standings_response = requests.get(standings_url_p1).json()
-        standings_lists = standings_response.get("MRData", {}).get("StandingsTable", {}).get("StandingsLists", [])
+        url = f"{BASE_URL}/{year}/driverStandings?limit=100"
+        response = requests.get(url).json()
+        standings = response.get("MRData", {}).get("StandingsTable", {}).get("StandingsLists", [])
         
-        for season in standings_lists:
+        for season in standings:
             for driver in season.get("DriverStandings", []):
-                if driver["Driver"]["driverId"] == driver_id:
-                    championships += 1
-        
-        standings_url_p2 = f"{BASE_URL}/{year}/driverStandings/2?limit=100"
-        standings_response_p2 = requests.get(standings_url_p2).json()
-        standings_lists_p2 = standings_response_p2.get("MRData", {}).get("StandingsTable", {}).get("StandingsLists", [])
-        
-        for season in standings_lists_p2:
-            for driver in season.get("DriverStandings", []):
-                if driver["Driver"]["driverId"] == driver_id:
-                    runner_up += 1
+                if driver.get("Driver", {}).get("driverId") == driver_id:
+                    position = driver.get("position")
+                    if position == "1":
+                        championships += 1
+                    elif position == "2":
+                        runner_up += 1
     
     return championships, runner_up
