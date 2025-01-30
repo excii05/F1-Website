@@ -5,7 +5,7 @@ from datetime import datetime
 BASE_URL = "https://api.jolpi.ca/ergast/f1"
 
 def fetch_driver_standings(year):
-    url = f"https://api.jolpi.ca/ergast/f1/{year}/driverstandings/?format=json"
+    url = f"{BASE_URL}/{year}/driverstandings/?format=json"
     response = requests.get(url)
     
     if response.status_code == 200:
@@ -15,7 +15,7 @@ def fetch_driver_standings(year):
         return None
 
 def fetch_constructor_standings(year):
-    url = f"https://api.jolpi.ca/ergast/f1/{year}/constructorstandings/?format=json"
+    url = f"{BASE_URL}/{year}/constructorstandings/?format=json"
     response = requests.get(url)
     
     if response.status_code == 200:
@@ -33,45 +33,15 @@ def fetch_race_schedule(year):
     else:
         print(f"Failed to fetch race schedule in {year}")
         return None
-    
-def fetch_session_schedule(country, year):
-    url = f"https://api.openf1.org/v1/sessions?country_name={country}&year={year}"
-    response = requests.get(url)
-    
-    if response.status_code == 200:
-        return response.json()
-    else:
-        print(f"Failed to fetch sessions for country {country} in year {year}")
-        return None
 
 def driver_information(year):
-    url = f"https://api.jolpi.ca/ergast/f1/{year}/drivers/?format=json"
+    url = f"{BASE_URL}/{year}/drivers/?format=json"
     response = requests.get(url)
     
     if response.status_code == 200:
         return response.json()
     else:
         print(f"Failed to fetch driver information for {year}")
-        return None
-
-def fetch_race_results(year, round):
-    url = f"https://api.jolpi.ca/ergast/f1/{year}/{round}/results/?format=json"
-    response = requests.get(url)
-    
-    if response.status_code == 200:
-        return response.json()
-    else:
-        print(f"Failed to fetch race results for round {round} in {year}")
-        return None
-
-def fetch_lap_times(year, round, driver_id):
-    url = f"https://api.jolpi.ca/ergast/f1/{year}/{round}/drivers/{driver_id}/laps/?format=json&limit=8000"
-    response = requests.get(url)
-    
-    if response.status_code == 200:
-        return response.json()
-    else:
-        print(f"Failed to fetch lap times for {driver_id} in round {round} in {year}")
         return None
     
     
@@ -115,8 +85,8 @@ def fetch_driver_championships(driver_id):
     championships = 0
     runner_up = 0
     for year in range(1950, 2025):
-        standings_url = f"{BASE_URL}/{year}/driverStandings/1?limit=100"
-        standings_response = requests.get(standings_url).json()
+        standings_url_p1 = f"{BASE_URL}/{year}/driverStandings/1?limit=100"
+        standings_response = requests.get(standings_url_p1).json()
         standings_lists = standings_response.get("MRData", {}).get("StandingsTable", {}).get("StandingsLists", [])
         
         for season in standings_lists:
