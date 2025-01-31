@@ -1,8 +1,8 @@
 import math
-from api_requests import get_team_info, get_team_results, get_wcc_standings, get_wdc_standings
+from data_fetcher import fetch_team_info, fetch_team_results, fetch_wcc_standings, fetch_wdc_standings
 
 def get_team_info(team_id):
-    data = get_team_info(team_id)
+    data = fetch_team_info(team_id)
     team = data.get("MRData", {}).get("ConstructorTable", {}).get("Constructors", [])[0] if data else {}
     
     return {
@@ -16,7 +16,7 @@ def get_team_results(team_id):
     results = []
     
     while True:
-        data = get_team_results(team_id, limit, offset)
+        data = fetch_team_results(team_id, limit, offset)
         races = data.get("MRData", {}).get("RaceTable", {}).get("Races", [])
         
         if not races:
@@ -52,7 +52,7 @@ def analyze_team_results(team_id):
             stats["wins"] += 1
     
     for year in range(int(stats["first_season"] or 1950), 2025):
-        for standing_type, key in [(get_wcc_standings, "WCC_titles"), (get_wdc_standings, "WDC_titles")]:
+        for standing_type, key in [(fetch_wcc_standings, "WCC_titles"), (fetch_wdc_standings, "WDC_titles")]:
             standings_data = standing_type(year)
             if standings_data:
                 for season in standings_data.get("MRData", {}).get("StandingsTable", {}).get("StandingsLists", []):

@@ -1,9 +1,9 @@
 import math
 from datetime import datetime
-from api_requests import get_driver_info, get_driver_results, get_driver_standings
+from data_fetcher import fetch_driver_info, fetch_driver_results, fetch_driver_championship
 
 def get_driver_info(driver_id):
-    data = get_driver_info(driver_id)
+    data = fetch_driver_info(driver_id)
     driver = data.get("MRData", {}).get("DriverTable", {}).get("Drivers", [])[0] if data else {}
     
     birth_date = driver.get("dateOfBirth", "0000-00-00")
@@ -23,7 +23,7 @@ def get_driver_results(driver_id):
     results = []
     
     while True:
-        data = get_driver_results(driver_id, limit, offset)
+        data = fetch_driver_results(driver_id, limit, offset)
         races = data.get("MRData", {}).get("RaceTable", {}).get("Races", [])
         
         if not races:
@@ -95,7 +95,7 @@ def analyze_driver_results(driver_id):
     
     for year in range(int(stats["first_season"] or 1950), 2025):
         for standing_position in [1, 2]:
-            standings_data = get_driver_standings(year, standing_position)
+            standings_data = fetch_driver_championship(year, standing_position)
             if standings_data:
                 for season in standings_data.get("MRData", {}).get("StandingsTable", {}).get("StandingsLists", []):
                     for driver in season.get("DriverStandings", []):
