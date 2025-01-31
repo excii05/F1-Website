@@ -1,11 +1,10 @@
-import requests
 import math
 from datetime import datetime
+from api_requests import get_driver_info, get_driver_results, get_driver_standings
 
 def get_driver_info(driver_id):
-    url = f"https://api.jolpi.ca/ergast/f1/drivers/{driver_id}"
-    response = requests.get(url).json()
-    driver = response.get("MRData", {}).get("DriverTable", {}).get("Drivers", [])[0]
+    data = get_driver_info(driver_id)
+    driver = data.get("MRData", {}).get("DriverTable", {}).get("Drivers", [])[0] if data else {}
     
     birth_date = driver.get("dateOfBirth", "0000-00-00")
     birth_datetime = datetime.strptime(birth_date, "%Y-%m-%d")
@@ -18,22 +17,20 @@ def get_driver_info(driver_id):
         "age": age
     }
 
-def get_total_races(driver_id):
-    url = f"https://api.jolpi.ca/ergast/f1/drivers/{driver_id}/results?limit=1"
-    response = requests.get(url).json()
-    return int(response.get("MRData", {}).get("total", 0))
-
 def get_driver_results(driver_id):
-    total_races = get_total_races(driver_id)
     limit = 100
-    num_requests = math.ceil(total_races / limit)
-    
+    offset = 0
     results = []
-    for i in range(num_requests):
-        offset = i * limit
-        url = f"https://api.jolpi.ca/ergast/f1/drivers/{driver_id}/results?limit={limit}&offset={offset}"
-        response = requests.get(url).json()
-        results.extend(response.get("MRData", {}).get("RaceTable", {}).get("Races", []))
+    
+    while True:
+        data = get_driver_results(driver_id, limit, offset)
+        races = data.get("MRData", {}).get("RaceTable", {}).get("Races", [])
+        
+        if not races:
+            break
+        
+        results.extend(races)
+        offset += limit
     
     return results
 
@@ -97,23 +94,16 @@ def analyze_driver_results(driver_id):
     stats["teams"].discard(stats["current_team"])
     
     for year in range(int(stats["first_season"] or 1950), 2025):
-        standings_url = f"https://api.jolpi.ca/ergast/f1/{year}/driverStandings/1?limit=100"
-        standings_response = requests.get(standings_url).json()
-        standings_lists = standings_response.get("MRData", {}).get("StandingsTable", {}).get("StandingsLists", [])
-        
-        for season in standings_lists:
-            for driver in season.get("DriverStandings", []):
-                if driver["Driver"]["driverId"] == driver_id:
-                    stats["championships"] += 1
-    
-        standings_url_p2 = f"https://api.jolpi.ca/ergast/f1/{year}/driverStandings/2?limit=100"
-        standings_response_p2 = requests.get(standings_url_p2).json()
-        standings_lists_p2 = standings_response_p2.get("MRData", {}).get("StandingsTable", {}).get("StandingsLists", [])
-        
-        for season in standings_lists_p2:
-            for driver in season.get("DriverStandings", []):
-                if driver["Driver"]["driverId"] == driver_id:
-                    stats["runner_up"] += 1
+        for standing_position in [1, 2]:
+            standings_data = get_driver_standings(year, standing_position)
+            if standings_data:
+                for season in standings_data.get("MRData", {}).get("StandingsTable", {}).get("StandingsLists", []):
+                    for driver in season.get("DriverStandings", []):
+                        if driver["Driver"]["driverId"] == driver_id:
+                            if standing_position == 1:
+                                stats["championships"] += 1
+                            else:
+                                stats["runner_up"] += 1
     
     return stats
 

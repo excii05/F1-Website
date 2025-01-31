@@ -4,8 +4,19 @@ from datetime import datetime
 
 BASE_URL = "https://api.jolpi.ca/ergast/f1"
 
+# Main Page Data Fetcher
+def driver_information(year):
+    url = f"{BASE_URL}/{year}/drivers/"
+    response = requests.get(url)
+    
+    if response.status_code == 200:
+        return response.json()
+    else:
+        print(f"Failed to fetch driver information for {year}")
+        return None
+
 def fetch_driver_standings(year):
-    url = f"{BASE_URL}/{year}/driverstandings/?format=json"
+    url = f"{BASE_URL}/{year}/driverstandings/"
     response = requests.get(url)
     
     if response.status_code == 200:
@@ -15,7 +26,7 @@ def fetch_driver_standings(year):
         return None
 
 def fetch_constructor_standings(year):
-    url = f"{BASE_URL}/{year}/constructorstandings/?format=json"
+    url = f"{BASE_URL}/{year}/constructorstandings/"
     response = requests.get(url)
     
     if response.status_code == 200:
@@ -25,7 +36,7 @@ def fetch_constructor_standings(year):
         return None
 
 def fetch_race_schedule(year):
-    url = f"https://api.jolpi.ca/ergast/f1/{year}/races/?format=json"
+    url = f"https://api.jolpi.ca/ergast/f1/{year}/races/"
     response = requests.get(url)
     
     if response.status_code == 200:
@@ -34,17 +45,83 @@ def fetch_race_schedule(year):
         print(f"Failed to fetch race schedule in {year}")
         return None
 
-def driver_information(year):
-    url = f"{BASE_URL}/{year}/drivers/?format=json"
+# Driver Data Fetcher    
+def get_driver_info(driver_id):
+    url = f"{BASE_URL}/drivers/{driver_id}"
     response = requests.get(url)
     
     if response.status_code == 200:
         return response.json()
     else:
-        print(f"Failed to fetch driver information for {year}")
+        print(f"Failed to fetch driver information for {driver_id}")
         return None
+
+def get_driver_results(driver_id, limit=100, offset=0):
+    url = f"{BASE_URL}/drivers/{driver_id}/results?limit={limit}&offset={offset}"
+    response = requests.get(url)
     
+    if response.status_code == 200:
+        return response.json()
+    else:
+        print(f"Failed to fetch driver results for {driver_id}")
+        return None
+
+def get_driver_standings(year, position):
+    url = f"{BASE_URL}/{year}/driverStandings/{position}?limit=100"
+    response = requests.get(url)
     
+    if response.status_code == 200:
+        return response.json()
+    else:
+        print(f"Failed to fetch driver standings for {year}")
+        return None   
+
+# Team Data Fetcher   
+def get_team_info(team_id):
+    url = f"{BASE_URL}/constructors/{team_id}"
+    response = requests.get(url)
+    
+    if response.status_code == 200:
+        return response.json()
+    else:
+        print(f"Failed to fetch team information for {team_id}")
+        return None
+
+def get_team_results(team_id, limit=100, offset=0):
+    url = f"{BASE_URL}/constructors/{team_id}/results?limit={limit}&offset={offset}"
+    response = requests.get(url)
+    
+    if response.status_code == 200:
+        return response.json()
+    else:
+        print(f"Failed to fetch team results for {team_id}")
+        return None
+
+def get_wcc_standings(year):
+    url = f"{BASE_URL}/{year}/constructorStandings/1?limit=100"
+    response = requests.get(url)
+    
+    if response.status_code == 200:
+        return response.json()
+    else:
+        print(f"Failed to fetch WCC standings for {year}")
+        return None
+
+def get_wdc_standings(year):
+    url = f"{BASE_URL}/{year}/driverStandings/1?limit=100"
+    response = requests.get(url)
+    
+    if response.status_code == 200:
+        return response.json()
+    else:
+        print(f"Failed to fetch WDC standings for {year}")
+        return None
+
+
+
+
+
+
     
 def fetch_driver_info(driver_id):
     url = f"{BASE_URL}/drivers/{driver_id}"
