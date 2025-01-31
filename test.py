@@ -70,7 +70,7 @@ def analyze_driver_results(driver_id):
             stats["first_season"] = season
         
         stats["teams"].add(constructor)
-        stats["current_team"] = constructor  # Annahme: letztes Team ist aktuelles Team
+        stats["current_team"] = constructor
         
         if position == "1":
             stats["wins"] += 1
@@ -94,6 +94,8 @@ def analyze_driver_results(driver_id):
         if position.isdigit() and int(position) > 10:
             stats["outside_top10"] += 1
     
+    stats["teams"].discard(stats["current_team"])
+    
     for year in range(int(stats["first_season"] or 1950), 2025):
         standings_url = f"https://api.jolpi.ca/ergast/f1/{year}/driverStandings/1?limit=100"
         standings_response = requests.get(standings_url).json()
@@ -116,9 +118,11 @@ def analyze_driver_results(driver_id):
     return stats
 
 def main():
-    driver_id = "max_verstappen"
+    driver_id = "alonso"
     driver_info = get_driver_info(driver_id)
     stats = analyze_driver_results(driver_id)
+    
+    former_teams = ', '.join(stats['teams']) if stats['teams'] else "---"
     
     print(f"Karriere-Statistiken für {driver_info['full_name']}:")
     print(f"Alter: {driver_info['age']}")
@@ -131,7 +135,7 @@ def main():
     print(f"DNFs: {stats['DNF']}, DNQs: {stats['DNQ']}")
     print(f"Rennen außerhalb der Top 10: {stats['outside_top10']}")
     print(f"Erste Saison: {stats['first_season']}")
-    print(f"Teams: {', '.join(stats['teams'])}")
+    print(f"Ehemalige Teams: {former_teams}")
     print(f"Aktuelles Team: {stats['current_team']}")
     print(f"Meisterschaften: {stats['championships']}")
     print(f"Vize-Weltmeisterschaften: {stats['runner_up']}")
