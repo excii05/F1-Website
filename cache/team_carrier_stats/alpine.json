@@ -1,0 +1,15 @@
+{
+    "team_info": {
+        "name": "Alpine F1 Team",
+        "nationality": "French"
+    },
+    "career_stats": {
+        "first_season": "2021",
+        "total_races": 90,
+        "wins": 1,
+        "WCC_titles": 0,
+        "WDC_titles": 0,
+        "WDC_drivers": {},
+        "season_gaps": []
+    }
+}

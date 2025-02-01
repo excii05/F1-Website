@@ -1,0 +1,26 @@
+{
+    "driver_info": {
+        "full_name": "Max Verstappen",
+        "nationality": "Dutch",
+        "age": 27
+    },
+    "career_stats": {
+        "total_races": 209,
+        "wins": 63,
+        "podiums": 112,
+        "p2_finishes": 32,
+        "p3_finishes": 17,
+        "pole_positions": 40,
+        "fastest_laps": 33,
+        "DNF": 32,
+        "DNQ": 0,
+        "outside_top10": 37,
+        "first_season": "2015",
+        "former_teams": [
+            "Toro Rosso"
+        ],
+        "current_team": "Red Bull",
+        "championships": 4,
+        "runner_up": 0
+    }
+}

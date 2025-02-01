@@ -67,7 +67,6 @@ def analyze_team_results(team_id):
                     else:
                         entities = season.get("DriverStandings", [])
                         for entity in entities:
-                            # Bei den Fahrerstandings kann der Schlüssel variieren (z. B. "Constructors" statt "Constructor")
                             # Hier gehen wir davon aus, dass das erste Element in "Constructors" den gesuchten Constructor enthält.
                             constructor_info = entity.get("Constructors", [{}])[0]
                             if constructor_info.get("constructorId") == team_id:
@@ -100,9 +99,11 @@ def run_full_query(team_id):
     
     return output_data
 
-def main():
-    team_id = "mercedes"
-    max_retries = 3
+def store_team_data(team_id, max_retries=3):
+    """
+    Ruft die vollständigen Team-Daten ab und speichert diese in einer JSON-Datei.
+    Bei Fehlern wird bis zu `max_retries` mal versucht, die Daten abzurufen.
+    """
     attempt = 0
 
     while attempt < max_retries:
@@ -117,18 +118,22 @@ def main():
             with open(output_file, "w", encoding="utf-8") as json_file:
                 json.dump(output_data, json_file, indent=4, ensure_ascii=False)
             
-            print(f"Die Daten wurden erfolgreich in '{output_file}' gespeichert.")
-            break  # Erfolgreicher Durchlauf -> Schleife verlassen
+            print(f"Team-Daten erfolgreich in '{output_file}' gespeichert.")
+            return  # Erfolgreicher Durchlauf -> Funktion verlassen
         
         except Exception as e:
             attempt += 1
-            print(f"Fehler beim Abrufen der Daten (Versuch {attempt}/{max_retries}): {e}")
+            print(f"Fehler beim Abrufen der Team-Daten für {team_id} (Versuch {attempt}/{max_retries}): {e}")
             if attempt >= max_retries:
-                print("Maximale Anzahl an Versuchen erreicht. Beende das Programm.")
+                print("Maximale Anzahl an Versuchen erreicht. Es konnten keine Team-Daten gespeichert werden.")
                 raise e
             else:
                 print("Starte die Abfrage neu...")
                 time.sleep(1)  # Kurze Wartezeit vor dem erneuten Versuch
+
+def main():
+    team_id = "mercedes"
+    store_team_data(team_id)
 
 if __name__ == "__main__":
     main()

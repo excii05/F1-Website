@@ -1,0 +1,26 @@
+{
+    "driver_info": {
+        "full_name": "Charles Leclerc",
+        "nationality": "Monegasque",
+        "age": 27
+    },
+    "career_stats": {
+        "total_races": 149,
+        "wins": 8,
+        "podiums": 43,
+        "p2_finishes": 15,
+        "p3_finishes": 20,
+        "pole_positions": 26,
+        "fastest_laps": 10,
+        "DNF": 23,
+        "DNQ": 1,
+        "outside_top10": 37,
+        "first_season": "2018",
+        "former_teams": [
+            "Sauber"
+        ],
+        "current_team": "Ferrari",
+        "championships": 0,
+        "runner_up": 1
+    }
+}

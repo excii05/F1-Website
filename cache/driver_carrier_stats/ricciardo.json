@@ -1,0 +1,31 @@
+{
+    "driver_info": {
+        "full_name": "Daniel Ricciardo",
+        "nationality": "Australian",
+        "age": 35
+    },
+    "career_stats": {
+        "total_races": 257,
+        "wins": 8,
+        "podiums": 32,
+        "p2_finishes": 6,
+        "p3_finishes": 18,
+        "pole_positions": 3,
+        "fastest_laps": 17,
+        "DNF": 38,
+        "DNQ": 2,
+        "outside_top10": 122,
+        "first_season": "2011",
+        "former_teams": [
+            "AlphaTauri",
+            "McLaren",
+            "HRT",
+            "Red Bull",
+            "Renault",
+            "Toro Rosso"
+        ],
+        "current_team": "RB F1 Team",
+        "championships": 0,
+        "runner_up": 0
+    }
+}

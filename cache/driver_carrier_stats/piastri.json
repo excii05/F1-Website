@@ -1,0 +1,24 @@
+{
+    "driver_info": {
+        "full_name": "Oscar Piastri",
+        "nationality": "Australian",
+        "age": 23
+    },
+    "career_stats": {
+        "total_races": 46,
+        "wins": 2,
+        "podiums": 10,
+        "p2_finishes": 5,
+        "p3_finishes": 3,
+        "pole_positions": 0,
+        "fastest_laps": 3,
+        "DNF": 3,
+        "DNQ": 0,
+        "outside_top10": 12,
+        "first_season": "2023",
+        "former_teams": [],
+        "current_team": "McLaren",
+        "championships": 0,
+        "runner_up": 0
+    }
+}

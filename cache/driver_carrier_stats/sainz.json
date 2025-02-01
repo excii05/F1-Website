@@ -1,0 +1,28 @@
+{
+    "driver_info": {
+        "full_name": "Carlos Sainz",
+        "nationality": "Spanish",
+        "age": 30
+    },
+    "career_stats": {
+        "total_races": 208,
+        "wins": 4,
+        "podiums": 27,
+        "p2_finishes": 7,
+        "p3_finishes": 16,
+        "pole_positions": 6,
+        "fastest_laps": 4,
+        "DNF": 40,
+        "DNQ": 0,
+        "outside_top10": 69,
+        "first_season": "2015",
+        "former_teams": [
+            "McLaren",
+            "Toro Rosso",
+            "Renault"
+        ],
+        "current_team": "Ferrari",
+        "championships": 0,
+        "runner_up": 0
+    }
+}

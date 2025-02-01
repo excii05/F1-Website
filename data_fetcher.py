@@ -5,8 +5,18 @@ from datetime import datetime
 BASE_URL = "https://api.jolpi.ca/ergast/f1"
 
 # Main Page Data Fetcher
-def driver_information(year):
+def fetch_driver_information(year):
     url = f"{BASE_URL}/{year}/drivers/"
+    response = requests.get(url)
+    
+    if response.status_code == 200:
+        return response.json()
+    else:
+        print(f"Failed to fetch driver information for {year}")
+        return None
+
+def fetch_constructor_information(year):
+    url = f"{BASE_URL}/{year}/constructors/"
     response = requests.get(url)
     
     if response.status_code == 200:

@@ -1,0 +1,31 @@
+{
+    "driver_info": {
+        "full_name": "Nico Hülkenberg",
+        "nationality": "German",
+        "age": 37
+    },
+    "career_stats": {
+        "total_races": 230,
+        "wins": 0,
+        "podiums": 0,
+        "p2_finishes": 0,
+        "p3_finishes": 0,
+        "pole_positions": 1,
+        "fastest_laps": 2,
+        "DNF": 45,
+        "DNQ": 2,
+        "outside_top10": 122,
+        "first_season": "2010",
+        "former_teams": [
+            "Aston Martin",
+            "Williams",
+            "Sauber",
+            "Renault",
+            "Force India",
+            "Racing Point"
+        ],
+        "current_team": "Haas F1 Team",
+        "championships": 0,
+        "runner_up": 0
+    }
+}

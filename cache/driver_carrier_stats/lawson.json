@@ -1,0 +1,26 @@
+{
+    "driver_info": {
+        "full_name": "Liam Lawson",
+        "nationality": "New Zealander",
+        "age": 22
+    },
+    "career_stats": {
+        "total_races": 11,
+        "wins": 0,
+        "podiums": 0,
+        "p2_finishes": 0,
+        "p3_finishes": 0,
+        "pole_positions": 0,
+        "fastest_laps": 0,
+        "DNF": 1,
+        "DNQ": 0,
+        "outside_top10": 8,
+        "first_season": "2023",
+        "former_teams": [
+            "AlphaTauri"
+        ],
+        "current_team": "RB F1 Team",
+        "championships": 0,
+        "runner_up": 0
+    }
+}

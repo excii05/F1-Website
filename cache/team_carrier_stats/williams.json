@@ -1,0 +1,25 @@
+{
+    "team_info": {
+        "name": "Williams",
+        "nationality": "British"
+    },
+    "career_stats": {
+        "first_season": "1975",
+        "total_races": 856,
+        "wins": 114,
+        "WCC_titles": 9,
+        "WDC_titles": 7,
+        "WDC_drivers": {
+            "Alan Jones": 1,
+            "Keke Rosberg": 1,
+            "Nelson Piquet": 1,
+            "Nigel Mansell": 1,
+            "Alain Prost": 1,
+            "Damon Hill": 1,
+            "Jacques Villeneuve": 1
+        },
+        "season_gaps": [
+            "1976-1978"
+        ]
+    }
+}

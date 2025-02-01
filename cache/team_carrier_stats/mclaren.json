@@ -1,0 +1,25 @@
+{
+    "team_info": {
+        "name": "McLaren",
+        "nationality": "British"
+    },
+    "career_stats": {
+        "first_season": "1968",
+        "total_races": 946,
+        "wins": 185,
+        "WCC_titles": 9,
+        "WDC_titles": 12,
+        "WDC_drivers": {
+            "Emerson Fittipaldi": 1,
+            "James Hunt": 1,
+            "Niki Lauda": 1,
+            "Alain Prost": 3,
+            "Ayrton Senna": 3,
+            "Mika Häkkinen": 2,
+            "Lewis Hamilton": 1
+        },
+        "season_gaps": [
+            "1968-1971"
+        ]
+    }
+}

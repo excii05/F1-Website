@@ -1,0 +1,24 @@
+{
+    "driver_info": {
+        "full_name": "Lando Norris",
+        "nationality": "British",
+        "age": 25
+    },
+    "career_stats": {
+        "total_races": 128,
+        "wins": 4,
+        "podiums": 26,
+        "p2_finishes": 13,
+        "p3_finishes": 9,
+        "pole_positions": 9,
+        "fastest_laps": 12,
+        "DNF": 11,
+        "DNQ": 0,
+        "outside_top10": 28,
+        "first_season": "2019",
+        "former_teams": [],
+        "current_team": "McLaren",
+        "championships": 0,
+        "runner_up": 1
+    }
+}

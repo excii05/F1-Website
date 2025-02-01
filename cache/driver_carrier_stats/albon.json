@@ -1,0 +1,27 @@
+{
+    "driver_info": {
+        "full_name": "Alexander Albon",
+        "nationality": "Thai",
+        "age": 28
+    },
+    "career_stats": {
+        "total_races": 105,
+        "wins": 0,
+        "podiums": 2,
+        "p2_finishes": 0,
+        "p3_finishes": 2,
+        "pole_positions": 0,
+        "fastest_laps": 0,
+        "DNF": 19,
+        "DNQ": 0,
+        "outside_top10": 66,
+        "first_season": "2019",
+        "former_teams": [
+            "Toro Rosso",
+            "Red Bull"
+        ],
+        "current_team": "Williams",
+        "championships": 0,
+        "runner_up": 0
+    }
+}

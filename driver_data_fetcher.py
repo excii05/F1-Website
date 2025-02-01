@@ -112,7 +112,7 @@ def analyze_driver_results(driver_id):
     return stats
 
 def run_full_query(driver_id):
-    """Führt die komplette Abfrage durch und gibt die ermittelten Daten zurück."""
+    """Führt die komplette Abfrage durch und gibt die ermittelten Daten als Dictionary zurück."""
     driver_info = get_driver_info(driver_id)
     stats = analyze_driver_results(driver_id)
     
@@ -140,9 +140,11 @@ def run_full_query(driver_id):
     }
     return output_data
 
-def main():
-    driver_id = "hamilton"
-    max_retries = 3
+def store_driver_data(driver_id, max_retries=3):
+    """
+    Ruft die vollständigen Daten für einen Fahrer ab und speichert diese in einer JSON-Datei.
+    Bei Fehlern wird bis zu `max_retries` mal versucht, die Daten abzurufen.
+    """
     attempt = 0
 
     while attempt < max_retries:
@@ -158,17 +160,22 @@ def main():
                 json.dump(output_data, json_file, indent=4, ensure_ascii=False)
             
             print(f"Die Daten wurden erfolgreich in '{output_file}' gespeichert.")
-            break  # Erfolgreicher Durchlauf -> Schleife verlassen
+            return  # Erfolgreicher Durchlauf -> Funktion verlassen
         
         except Exception as e:
             attempt += 1
-            print(f"Fehler beim Abrufen der Daten (Versuch {attempt}/{max_retries}): {e}")
+            print(f"Fehler beim Abrufen der Daten für {driver_id} (Versuch {attempt}/{max_retries}): {e}")
             if attempt >= max_retries:
-                print("Maximale Anzahl an Versuchen erreicht. Beende das Programm.")
+                print("Maximale Anzahl an Versuchen erreicht. Es konnten keine Daten gespeichert werden.")
                 raise e
             else:
                 print("Starte die Abfrage neu...")
                 time.sleep(1)  # Kleine Wartezeit vor dem erneuten Versuch
+
+# Optional: Beibehalten der main()-Funktion für direkten Aufruf via Kommandozeile
+def main():
+    driver_id = "hamilton"
+    store_driver_data(driver_id)
 
 if __name__ == "__main__":
     main()

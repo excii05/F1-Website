@@ -1,0 +1,15 @@
+{
+    "team_info": {
+        "name": "RB F1 Team",
+        "nationality": "Italian"
+    },
+    "career_stats": {
+        "first_season": "2024",
+        "total_races": 24,
+        "wins": 0,
+        "WCC_titles": 0,
+        "WDC_titles": 0,
+        "WDC_drivers": {},
+        "season_gaps": []
+    }
+}

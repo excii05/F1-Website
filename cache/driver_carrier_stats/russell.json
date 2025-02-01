@@ -1,0 +1,26 @@
+{
+    "driver_info": {
+        "full_name": "George Russell",
+        "nationality": "British",
+        "age": 26
+    },
+    "career_stats": {
+        "total_races": 128,
+        "wins": 3,
+        "podiums": 15,
+        "p2_finishes": 2,
+        "p3_finishes": 10,
+        "pole_positions": 6,
+        "fastest_laps": 8,
+        "DNF": 19,
+        "DNQ": 1,
+        "outside_top10": 65,
+        "first_season": "2019",
+        "former_teams": [
+            "Williams"
+        ],
+        "current_team": "Mercedes",
+        "championships": 0,
+        "runner_up": 0
+    }
+}

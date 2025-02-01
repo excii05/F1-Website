@@ -1,0 +1,18 @@
+{
+    "team_info": {
+        "name": "Red Bull",
+        "nationality": "Austrian"
+    },
+    "career_stats": {
+        "first_season": "2005",
+        "total_races": 394,
+        "wins": 122,
+        "WCC_titles": 6,
+        "WDC_titles": 8,
+        "WDC_drivers": {
+            "Sebastian Vettel": 4,
+            "Max Verstappen": 4
+        },
+        "season_gaps": []
+    }
+}

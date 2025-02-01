@@ -1,0 +1,28 @@
+{
+    "driver_info": {
+        "full_name": "Valtteri Bottas",
+        "nationality": "Finnish",
+        "age": 35
+    },
+    "career_stats": {
+        "total_races": 247,
+        "wins": 10,
+        "podiums": 67,
+        "p2_finishes": 29,
+        "p3_finishes": 28,
+        "pole_positions": 20,
+        "fastest_laps": 19,
+        "DNF": 30,
+        "DNQ": 0,
+        "outside_top10": 102,
+        "first_season": "2013",
+        "former_teams": [
+            "Alfa Romeo",
+            "Williams",
+            "Mercedes"
+        ],
+        "current_team": "Sauber",
+        "championships": 0,
+        "runner_up": 2
+    }
+}

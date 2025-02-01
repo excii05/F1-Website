@@ -1,0 +1,26 @@
+{
+    "driver_info": {
+        "full_name": "Oliver Bearman",
+        "nationality": "British",
+        "age": 19
+    },
+    "career_stats": {
+        "total_races": 3,
+        "wins": 0,
+        "podiums": 0,
+        "p2_finishes": 0,
+        "p3_finishes": 0,
+        "pole_positions": 0,
+        "fastest_laps": 0,
+        "DNF": 0,
+        "DNQ": 0,
+        "outside_top10": 1,
+        "first_season": "2024",
+        "former_teams": [
+            "Ferrari"
+        ],
+        "current_team": "Haas F1 Team",
+        "championships": 0,
+        "runner_up": 0
+    }
+}

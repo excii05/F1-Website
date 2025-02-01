@@ -1,0 +1,18 @@
+{
+    "team_info": {
+        "name": "Sauber",
+        "nationality": "Swiss"
+    },
+    "career_stats": {
+        "first_season": "1993",
+        "total_races": 427,
+        "wins": 0,
+        "WCC_titles": 0,
+        "WDC_titles": 0,
+        "WDC_drivers": {},
+        "season_gaps": [
+            "2005-2010",
+            "2018-2024"
+        ]
+    }
+}

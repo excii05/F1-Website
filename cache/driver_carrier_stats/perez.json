@@ -1,0 +1,29 @@
+{
+    "driver_info": {
+        "full_name": "Sergio Pérez",
+        "nationality": "Mexican",
+        "age": 35
+    },
+    "career_stats": {
+        "total_races": 283,
+        "wins": 6,
+        "podiums": 39,
+        "p2_finishes": 17,
+        "p3_finishes": 16,
+        "pole_positions": 3,
+        "fastest_laps": 12,
+        "DNF": 40,
+        "DNQ": 1,
+        "outside_top10": 97,
+        "first_season": "2011",
+        "former_teams": [
+            "McLaren",
+            "Sauber",
+            "Force India",
+            "Racing Point"
+        ],
+        "current_team": "Red Bull",
+        "championships": 0,
+        "runner_up": 1
+    }
+}

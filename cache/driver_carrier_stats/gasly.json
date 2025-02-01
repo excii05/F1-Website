@@ -1,0 +1,28 @@
+{
+    "driver_info": {
+        "full_name": "Pierre Gasly",
+        "nationality": "French",
+        "age": 28
+    },
+    "career_stats": {
+        "total_races": 154,
+        "wins": 1,
+        "podiums": 5,
+        "p2_finishes": 1,
+        "p3_finishes": 3,
+        "pole_positions": 0,
+        "fastest_laps": 3,
+        "DNF": 25,
+        "DNQ": 0,
+        "outside_top10": 84,
+        "first_season": "2017",
+        "former_teams": [
+            "Toro Rosso",
+            "AlphaTauri",
+            "Red Bull"
+        ],
+        "current_team": "Alpine F1 Team",
+        "championships": 0,
+        "runner_up": 0
+    }
+}

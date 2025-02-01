@@ -1,0 +1,26 @@
+{
+    "driver_info": {
+        "full_name": "Yuki Tsunoda",
+        "nationality": "Japanese",
+        "age": 24
+    },
+    "career_stats": {
+        "total_races": 90,
+        "wins": 0,
+        "podiums": 0,
+        "p2_finishes": 0,
+        "p3_finishes": 0,
+        "pole_positions": 0,
+        "fastest_laps": 1,
+        "DNF": 17,
+        "DNQ": 0,
+        "outside_top10": 64,
+        "first_season": "2021",
+        "former_teams": [
+            "AlphaTauri"
+        ],
+        "current_team": "RB F1 Team",
+        "championships": 0,
+        "runner_up": 0
+    }
+}

@@ -1,0 +1,28 @@
+{
+    "driver_info": {
+        "full_name": "Esteban Ocon",
+        "nationality": "French",
+        "age": 28
+    },
+    "career_stats": {
+        "total_races": 156,
+        "wins": 1,
+        "podiums": 4,
+        "p2_finishes": 2,
+        "p3_finishes": 1,
+        "pole_positions": 0,
+        "fastest_laps": 1,
+        "DNF": 24,
+        "DNQ": 1,
+        "outside_top10": 71,
+        "first_season": "2016",
+        "former_teams": [
+            "Manor Marussia",
+            "Force India",
+            "Renault"
+        ],
+        "current_team": "Alpine F1 Team",
+        "championships": 0,
+        "runner_up": 0
+    }
+}

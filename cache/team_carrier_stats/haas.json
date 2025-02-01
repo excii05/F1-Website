@@ -1,0 +1,15 @@
+{
+    "team_info": {
+        "name": "Haas F1 Team",
+        "nationality": "American"
+    },
+    "career_stats": {
+        "first_season": "2016",
+        "total_races": 190,
+        "wins": 0,
+        "WCC_titles": 0,
+        "WDC_titles": 0,
+        "WDC_drivers": {},
+        "season_gaps": []
+    }
+}

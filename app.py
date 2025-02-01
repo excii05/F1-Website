@@ -1,16 +1,38 @@
 from flask import Flask, render_template
 from data_fetcher import (
+    fetch_driver_information,
+    fetch_constructor_information,
     fetch_driver_standings, 
     fetch_constructor_standings, 
-    fetch_race_schedule, 
-    driver_information,
-    fetch_driver_info
+    fetch_race_schedule
 )
-from driver_stats import analyze_driver_results
+from driver_data_fetcher import store_driver_data
+from team_data_fetcher import store_team_data
+from apscheduler.schedulers.background import BackgroundScheduler
+import atexit
 
 app = Flask(__name__)
 
-# Datenabruf-Funktionen
+# ---------------------------
+# Scheduler-Konfiguration
+# ---------------------------
+# Konfiguriere hier den Wochentag und die Uhrzeit, an der die Jobs ausgeführt werden sollen.
+WEEKLY_JOB_DAY = 'sat'    # Beispiel: jeden Montag
+WEEKLY_JOB_HOUR = 16       # Beispiel: 03:00 Uhr
+WEEKLY_JOB_MINUTE = 38     # Beispiel: 03:00 Uhr
+
+# ---------------------------
+# Datenabruf-Funktionen für die Web-App
+# ---------------------------
+def get_driver_details(driver_id):
+    data = fetch_driver_information(2024)
+    if data:
+        drivers = data['MRData']['DriverTable']['Drivers']
+        for driver in drivers:
+            if driver['driverId'] == driver_id:
+                return driver
+    return None
+
 def get_driver_standings():
     data = fetch_driver_standings(2024)
     if data:
@@ -29,30 +51,9 @@ def get_race_schedule():
         return data['MRData']['RaceTable']['Races']
     return []
 
-def get_driver_details(driver_id):
-    data = driver_information(2024)
-    if data:
-        drivers = data['MRData']['DriverTable']['Drivers']
-        for driver in drivers:
-            if driver['driverId'] == driver_id:
-                return driver
-    return None
-
-def get_team_details(team_id):
-    data = get_constructor_standings()
-    for team in data:
-        if team['Constructor']['constructorId'] == team_id:
-            return team['Constructor']
-    return None
-
-def get_race_details(race_id):
-    data = get_race_schedule()
-    for race in data:
-        if race['round'] == race_id:  # Annahme: 'round' wird als race_id verwendet
-            return race
-    return None
-
+# ---------------------------
 # Routen
+# ---------------------------
 @app.route('/')
 def home():
     driver_standings = get_driver_standings()
@@ -68,29 +69,88 @@ def home():
 
 @app.route('/driver/<driver_id>')
 def driver_profile(driver_id):
-    driver = fetch_driver_info(driver_id)
-    stats = analyze_driver_results(driver_id)
+    driver = get_driver_details(driver_id)
     
     if driver:
-        return render_template('driver_profile.html', driver=driver, stats=stats)
+        return render_template('driver_profile.html', driver=driver)
     else:
         return "Driver not found", 404
 
 @app.route('/team/<team_id>')
 def team_profile(team_id):
-    team = get_team_details(team_id)
-    if team:
-        return render_template('constructor_profile.html', team=team)
-    else:
-        return "Team not found", 404
+    # Hier könntest du die Team-Daten z.B. aus dem Cache auslesen.
+    # Für dieses Beispiel wird nur ein einfacher Text zurückgegeben.
+    return f"Team profile for {team_id}"
 
 @app.route('/race/<race_id>')
 def race_details(race_id):
-    race = get_race_details(race_id)
-    if race:
-        return render_template('circuit_profile.html', race=race)
+    # Beispielhafte Implementierung
+    return f"Race details for {race_id}"
+
+# ---------------------------
+# Scheduler-Funktionen: Wöchentliche Datenaktualisierung
+# ---------------------------
+def weekly_driver_update():
+    """Ruft einmal wöchentlich für alle Fahrer die Daten ab und speichert sie."""
+    driver_list_data = fetch_driver_information(2024)
+    if driver_list_data:
+        drivers = driver_list_data.get('MRData', {}).get('DriverTable', {}).get('Drivers', [])
+        print(f"Starte wöchentlichen Fahrer-Datenabruf für {len(drivers)} Fahrer...")
+        for driver in drivers:
+            driver_id = driver.get("driverId")
+            if driver_id:
+                try:
+                    print(f"Starte Abfrage für Fahrer: {driver_id}")
+                    store_driver_data(driver_id)
+                    print(f"Daten für Fahrer {driver_id} erfolgreich aktualisiert.")
+                except Exception as e:
+                    print(f"Fehler bei Fahrer {driver_id}: {e}")
     else:
-        return "Race not found", 404
+        print("Keine Fahrerliste verfügbar. Fahrer-Job wird abgebrochen.")
+
+def weekly_team_update():
+    """Ruft einmal wöchentlich für alle aktuellen Teams die Daten ab und speichert sie."""
+    team_list_data = fetch_constructor_information(2024)
+    if team_list_data:
+        teams = team_list_data.get('MRData', {}).get('ConstructorTable', {}).get('Constructors', [])
+        print(f"Starte wöchentlichen Team-Datenabruf für {len(teams)} Teams...")
+        for team in teams:
+            team_id = team.get("constructorId")
+            if team_id:
+                try:
+                    print(f"Starte Abfrage für Team: {team_id}")
+                    store_team_data(team_id)
+                    print(f"Daten für Team {team_id} erfolgreich aktualisiert.")
+                except Exception as e:
+                    print(f"Fehler bei Team {team_id}: {e}")
+    else:
+        print("Keine Team-Liste verfügbar. Team-Job wird abgebrochen.")
+
+# ---------------------------
+# Scheduler initialisieren
+# ---------------------------
+scheduler = BackgroundScheduler()
+scheduler.add_job(
+    func=weekly_driver_update,
+    trigger='cron',
+    day_of_week=WEEKLY_JOB_DAY,
+    hour=WEEKLY_JOB_HOUR,
+    minute=WEEKLY_JOB_MINUTE,
+    id='weekly_driver_update_job'
+)
+scheduler.add_job(
+    func=weekly_team_update,
+    trigger='cron',
+    day_of_week=WEEKLY_JOB_DAY,
+    hour=WEEKLY_JOB_HOUR,
+    minute=WEEKLY_JOB_MINUTE,
+    id='weekly_team_update_job'
+)
+scheduler.start()
+print(f"Scheduler gestartet: Wöchentliche Jobs jeden {WEEKLY_JOB_DAY} um {WEEKLY_JOB_HOUR:02d}:{WEEKLY_JOB_MINUTE:02d} Uhr.")
+
+# Sicherstellen, dass der Scheduler beim Beenden der App ordentlich heruntergefahren wird.
+atexit.register(lambda: scheduler.shutdown())
 
 if __name__ == '__main__':
     app.run(debug=True)

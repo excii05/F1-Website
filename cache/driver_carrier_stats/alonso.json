@@ -1,0 +1,30 @@
+{
+    "driver_info": {
+        "full_name": "Fernando Alonso",
+        "nationality": "Spanish",
+        "age": 43
+    },
+    "career_stats": {
+        "total_races": 404,
+        "wins": 32,
+        "podiums": 106,
+        "p2_finishes": 40,
+        "p3_finishes": 34,
+        "pole_positions": 22,
+        "fastest_laps": 25,
+        "DNF": 79,
+        "DNQ": 0,
+        "outside_top10": 133,
+        "first_season": "2001",
+        "former_teams": [
+            "Renault",
+            "Minardi",
+            "Alpine F1 Team",
+            "McLaren",
+            "Ferrari"
+        ],
+        "current_team": "Aston Martin",
+        "championships": 2,
+        "runner_up": 3
+    }
+}
