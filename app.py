@@ -100,7 +100,7 @@ def driver_profile(driver_id):
 @app.route('/team/<team_id>')
 def team_profile(team_id):
     # Pfad zur JSON-Datei zusammenbauen
-    json_path = os.path.join('cache', 'driver_carrier_stats', f'{team_id}.json')
+    json_path = os.path.join('cache', 'team_carrier_stats', f'{team_id}.json')
     
     # Prüfen, ob die Datei existiert
     if os.path.exists(json_path):
@@ -113,11 +113,11 @@ def team_profile(team_id):
 
         # Extrahiere die einzelnen Daten, sodass das Template wie gewohnt
         # mit "driver" und "career_stats" arbeiten kann
-        team_info = team_data.get("driver_info", {})
+        team_info = team_data.get("team_info", {})
         career_stats = team_data.get("career_stats", {})
 
         return render_template(
-            'driver_profile.html',
+            'constructor_profile.html',
             team = team_info,
             career_stats = career_stats
         )

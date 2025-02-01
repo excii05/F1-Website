@@ -15,18 +15,24 @@
 </head>
 <body>
     <div class="container">
-        <h1>Teamprofil: {{ team.name }}</h1>
-        <table>
-            <tr>
-                <th>Land</th>
-                <td>{{ team.nationality }}</td>
-            </tr>
-            <tr>
-                <th>Wikipedia</th>
-                <td><a href="{{ team.url }}" target="_blank">Wikipedia</a></td>
-            </tr>
-        </table>
-        <a href="/">Zurück zur Übersicht</a>
+        <h1>{{ team.name }}</h1>
+        <p>Nationalität: {{ team.nationality }}</p>
+
+        <h2>Karriere-Statistiken</h2>
+        <ul>
+            <li>Erste Saison: {{ career_stats.first_season }}</li>
+            <li>Gefahrene Rennen: {{ career_stats.total_races }}</li>
+            <li>Siege: {{ career_stats.WCC_titles }}</li>
+            <li>Siege: {{ career_stats.WDC_titles }}</li>
+            <li>Weltmeister:
+                <ul>
+                    {% for drivers in career_stats.WDC_drivers %}
+                        <li>{{ drivers }}</li>
+                    {% endfor %}
+                </ul>
+            </li>
+        </ul>
+        <a href="/">Zurück</a>
     </div>
 </body>
 </html>
