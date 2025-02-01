@@ -1,0 +1,21 @@
+{
+    "team_info": {
+        "name": "Mercedes",
+        "nationality": "German"
+    },
+    "career_stats": {
+        "first_season": "1954",
+        "total_races": 317,
+        "wins": 129,
+        "WCC_titles": 8,
+        "WDC_titles": 8,
+        "WDC_drivers": {
+            "Juan Fangio": 1,
+            "Lewis Hamilton": 6,
+            "Nico Rosberg": 1
+        },
+        "season_gaps": [
+            "1955-2010"
+        ]
+    }
+}

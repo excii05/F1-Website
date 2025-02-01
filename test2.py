@@ -1,4 +1,7 @@
 import math
+import json
+import os
+import time
 from data_fetcher import fetch_team_info, fetch_team_results, fetch_wcc_standings, fetch_wdc_standings
 
 def get_team_info(team_id):
@@ -56,12 +59,16 @@ def analyze_team_results(team_id):
             standings_data = standing_type(year)
             if standings_data:
                 for season in standings_data.get("MRData", {}).get("StandingsTable", {}).get("StandingsLists", []):
-                    entities = season.get("ConstructorStandings", []) if key == "WCC_titles" else season.get("DriverStandings", [])
-                    for entity in entities:
-                        if key == "WCC_titles":
+                    if key == "WCC_titles":
+                        entities = season.get("ConstructorStandings", [])
+                        for entity in entities:
                             if entity.get("Constructor", {}).get("constructorId") == team_id:
                                 stats[key] += 1
-                        else:
+                    else:
+                        entities = season.get("DriverStandings", [])
+                        for entity in entities:
+                            # Bei den Fahrerstandings kann der Schlüssel variieren (z. B. "Constructors" statt "Constructor")
+                            # Hier gehen wir davon aus, dass das erste Element in "Constructors" den gesuchten Constructor enthält.
                             constructor_info = entity.get("Constructors", [{}])[0]
                             if constructor_info.get("constructorId") == team_id:
                                 stats[key] += 1
@@ -73,21 +80,55 @@ def analyze_team_results(team_id):
     
     return stats, gaps
 
-def main():
-    team_id = "mercedes"
+def run_full_query(team_id):
+    """Führt die komplette Abfrage durch und gibt die ermittelten Daten als Dictionary zurück."""
     team_info = get_team_info(team_id)
     stats, gaps = analyze_team_results(team_id)
     
-    print(f"Statistiken für {team_info['name']}: ")
-    print(f"Heimatland: {team_info['nationality']}")
-    print(f"Erste Saison: {stats['first_season']}")
-    print(f"Gesamtzahl an Rennen: {stats['total_races']}")
-    print(f"Siege: {stats['wins']}")
-    print(f"Konstrukteurstitel (WCC): {stats['WCC_titles']}")
-    print(f"Fahrer-Weltmeisterschaften (WDC): {stats['WDC_titles']}")
-    wdc_drivers_str = ", ".join([f"{driver} ({count})" for driver, count in stats['WDC_drivers'].items()]) if stats['WDC_drivers'] else '---'
-    print(f"Weltmeister mit diesem Team: {wdc_drivers_str}")
-    print(f"Pause gemacht in: {', '.join(gaps) if gaps else 'Keine Pausen'}")
+    output_data = {
+        "team_info": team_info,
+        "career_stats": {
+            "first_season": stats["first_season"],
+            "total_races": stats["total_races"],
+            "wins": stats["wins"],
+            "WCC_titles": stats["WCC_titles"],
+            "WDC_titles": stats["WDC_titles"],
+            "WDC_drivers": stats["WDC_drivers"],
+            "season_gaps": gaps
+        }
+    }
+    
+    return output_data
+
+def main():
+    team_id = "mercedes"
+    max_retries = 3
+    attempt = 0
+
+    while attempt < max_retries:
+        try:
+            output_data = run_full_query(team_id)
+            
+            # Sicherstellen, dass das Zielverzeichnis existiert
+            output_dir = os.path.join("cache", "team_carrier_stats")
+            os.makedirs(output_dir, exist_ok=True)
+            output_file = os.path.join(output_dir, f"{team_id}.json")
+            
+            with open(output_file, "w", encoding="utf-8") as json_file:
+                json.dump(output_data, json_file, indent=4, ensure_ascii=False)
+            
+            print(f"Die Daten wurden erfolgreich in '{output_file}' gespeichert.")
+            break  # Erfolgreicher Durchlauf -> Schleife verlassen
+        
+        except Exception as e:
+            attempt += 1
+            print(f"Fehler beim Abrufen der Daten (Versuch {attempt}/{max_retries}): {e}")
+            if attempt >= max_retries:
+                print("Maximale Anzahl an Versuchen erreicht. Beende das Programm.")
+                raise e
+            else:
+                print("Starte die Abfrage neu...")
+                time.sleep(1)  # Kurze Wartezeit vor dem erneuten Versuch
 
 if __name__ == "__main__":
     main()

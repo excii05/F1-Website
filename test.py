@@ -1,4 +1,7 @@
 import math
+import json
+import os
+import time
 from datetime import datetime
 from data_fetcher import fetch_driver_info, fetch_driver_results, fetch_driver_championship
 
@@ -93,7 +96,9 @@ def analyze_driver_results(driver_id):
     
     stats["teams"].discard(stats["current_team"])
     
-    for year in range(int(stats["first_season"] or 1950), 2025):
+    # Berechnung der Meisterschaften und Vize-Weltmeisterschaften
+    start_year = int(stats["first_season"] or 1950)
+    for year in range(start_year, 2025):
         for standing_position in [1, 2]:
             standings_data = fetch_driver_championship(year, standing_position)
             if standings_data:
@@ -104,31 +109,66 @@ def analyze_driver_results(driver_id):
                                 stats["championships"] += 1
                             else:
                                 stats["runner_up"] += 1
-    
     return stats
 
-def main():
-    driver_id = "alonso"
+def run_full_query(driver_id):
+    """Führt die komplette Abfrage durch und gibt die ermittelten Daten zurück."""
     driver_info = get_driver_info(driver_id)
     stats = analyze_driver_results(driver_id)
     
-    former_teams = ', '.join(stats['teams']) if stats['teams'] else "---"
+    former_teams = list(stats['teams']) if stats['teams'] else []
     
-    print(f"Karriere-Statistiken für {driver_info['full_name']}:")
-    print(f"Alter: {driver_info['age']}")
-    print(f"Nationalität: {driver_info['nationality']}")
-    print(f"Rennen: {stats['total_races']}")
-    print(f"Siege: {stats['wins']}")
-    print(f"Podien: {stats['podiums']} (P2: {stats['p2_finishes']}, P3: {stats['p3_finishes']})")
-    print(f"Pole Positions: {stats['pole_positions']}")
-    print(f"Schnellste Runden: {stats['fastest_laps']}")
-    print(f"DNFs: {stats['DNF']}, DNQs: {stats['DNQ']}")
-    print(f"Rennen außerhalb der Top 10: {stats['outside_top10']}")
-    print(f"Erste Saison: {stats['first_season']}")
-    print(f"Ehemalige Teams: {former_teams}")
-    print(f"Aktuelles Team: {stats['current_team']}")
-    print(f"Meisterschaften: {stats['championships']}")
-    print(f"Vize-Weltmeisterschaften: {stats['runner_up']}")
+    output_data = {
+        "driver_info": driver_info,
+        "career_stats": {
+            "total_races": stats["total_races"],
+            "wins": stats["wins"],
+            "podiums": stats["podiums"],
+            "p2_finishes": stats["p2_finishes"],
+            "p3_finishes": stats["p3_finishes"],
+            "pole_positions": stats["pole_positions"],
+            "fastest_laps": stats["fastest_laps"],
+            "DNF": stats["DNF"],
+            "DNQ": stats["DNQ"],
+            "outside_top10": stats["outside_top10"],
+            "first_season": stats["first_season"],
+            "former_teams": former_teams,
+            "current_team": stats["current_team"],
+            "championships": stats["championships"],
+            "runner_up": stats["runner_up"]
+        }
+    }
+    return output_data
+
+def main():
+    driver_id = "hamilton"
+    max_retries = 3
+    attempt = 0
+
+    while attempt < max_retries:
+        try:
+            output_data = run_full_query(driver_id)
+            
+            # Sicherstellen, dass das Zielverzeichnis existiert
+            output_dir = os.path.join("cache", "driver_carrier_stats")
+            os.makedirs(output_dir, exist_ok=True)
+            output_file = os.path.join(output_dir, f"{driver_id}.json")
+            
+            with open(output_file, "w", encoding="utf-8") as json_file:
+                json.dump(output_data, json_file, indent=4, ensure_ascii=False)
+            
+            print(f"Die Daten wurden erfolgreich in '{output_file}' gespeichert.")
+            break  # Erfolgreicher Durchlauf -> Schleife verlassen
+        
+        except Exception as e:
+            attempt += 1
+            print(f"Fehler beim Abrufen der Daten (Versuch {attempt}/{max_retries}): {e}")
+            if attempt >= max_retries:
+                print("Maximale Anzahl an Versuchen erreicht. Beende das Programm.")
+                raise e
+            else:
+                print("Starte die Abfrage neu...")
+                time.sleep(1)  # Kleine Wartezeit vor dem erneuten Versuch
 
 if __name__ == "__main__":
     main()

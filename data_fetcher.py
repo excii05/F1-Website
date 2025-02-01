@@ -116,3 +116,12 @@ def fetch_wdc_standings(year):
     else:
         print(f"Failed to fetch WDC standings for {year}")
         return None
+    
+    
+    
+    
+    
+    
+    
+    
+    
