@@ -10,6 +10,8 @@ from driver_data_fetcher import store_driver_data
 from team_data_fetcher import store_team_data
 from apscheduler.schedulers.background import BackgroundScheduler
 import atexit
+import os
+import json
 
 app = Flask(__name__)
 
@@ -18,8 +20,8 @@ app = Flask(__name__)
 # ---------------------------
 # Konfiguriere hier den Wochentag und die Uhrzeit, an der die Jobs ausgeführt werden sollen.
 WEEKLY_JOB_DAY = 'sat'    # Beispiel: jeden Montag
-WEEKLY_JOB_HOUR = 16       # Beispiel: 03:00 Uhr
-WEEKLY_JOB_MINUTE = 38     # Beispiel: 03:00 Uhr
+WEEKLY_JOB_HOUR = 20       # Beispiel: 03:00 Uhr
+WEEKLY_JOB_MINUTE = 17     # Beispiel: 03:00 Uhr
 
 # ---------------------------
 # Datenabruf-Funktionen für die Web-App
@@ -69,18 +71,59 @@ def home():
 
 @app.route('/driver/<driver_id>')
 def driver_profile(driver_id):
-    driver = get_driver_details(driver_id)
+    # Pfad zur JSON-Datei zusammenbauen
+    json_path = os.path.join('cache', 'driver_carrier_stats', f'{driver_id}.json')
     
-    if driver:
-        return render_template('driver_profile.html', driver=driver)
+    # Prüfen, ob die Datei existiert
+    if os.path.exists(json_path):
+        try:
+            with open(json_path, 'r', encoding='utf-8') as file:
+                driver_data = json.load(file)
+        except Exception as e:
+            # Falls ein Fehler beim Laden auftritt, wird ein 500-Fehler zurückgegeben
+            return f"Fehler beim Laden der Fahrerdaten: {e}", 500
+
+        # Extrahiere die einzelnen Daten, sodass das Template wie gewohnt
+        # mit "driver" und "career_stats" arbeiten kann
+        driver_info = driver_data.get("driver_info", {})
+        career_stats = driver_data.get("career_stats", {})
+
+        return render_template(
+            'driver_profile.html',
+            driver=driver_info,
+            career_stats=career_stats
+        )
     else:
-        return "Driver not found", 404
+        # Falls keine JSON-Datei gefunden wurde, gib den Fehlercode 404 zurück.
+        return "Fahrerdaten nicht gefunden", 404
 
 @app.route('/team/<team_id>')
 def team_profile(team_id):
-    # Hier könntest du die Team-Daten z.B. aus dem Cache auslesen.
-    # Für dieses Beispiel wird nur ein einfacher Text zurückgegeben.
-    return f"Team profile for {team_id}"
+    # Pfad zur JSON-Datei zusammenbauen
+    json_path = os.path.join('cache', 'driver_carrier_stats', f'{team_id}.json')
+    
+    # Prüfen, ob die Datei existiert
+    if os.path.exists(json_path):
+        try:
+            with open(json_path, 'r', encoding='utf-8') as file:
+                team_data = json.load(file)
+        except Exception as e:
+            # Falls ein Fehler beim Laden auftritt, wird ein 500-Fehler zurückgegeben
+            return f"Fehler beim Laden der Konstrukteurdaten: {e}", 500
+
+        # Extrahiere die einzelnen Daten, sodass das Template wie gewohnt
+        # mit "driver" und "career_stats" arbeiten kann
+        team_info = team_data.get("driver_info", {})
+        career_stats = team_data.get("career_stats", {})
+
+        return render_template(
+            'driver_profile.html',
+            team = team_info,
+            career_stats = career_stats
+        )
+    else:
+        # Falls keine JSON-Datei gefunden wurde, gib den Fehlercode 404 zurück.
+        return "Konstrukteurdaten nicht gefunden", 404
 
 @app.route('/race/<race_id>')
 def race_details(race_id):

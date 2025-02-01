@@ -15,23 +15,34 @@
 </head>
 <body>
     <div class="container">
-        <h1>Steckbrief: {{ driver.full_name }}</h1>
-        <table>
-            <tr><th>Alter</th><td>{{ driver.age }}</td></tr>
-            <tr><th>Nationalität</th><td>{{ driver.nationality }}</td></tr>
-            <tr><th>Rennen</th><td>{{ stats.total_races }}</td></tr>
-            <tr><th>Siege</th><td>{{ stats.wins }}</td></tr>
-            <tr><th>Podien</th><td>{{ stats.podiums }} (P2: {{ stats.p2_finishes }}, P3: {{ stats.p3_finishes }})</td></tr>
-            <tr><th>Pole Positions</th><td>{{ stats.pole_positions }}</td></tr>
-            <tr><th>Schnellste Rennrunden</th><td>{{ stats.fastest_laps }}</td></tr>
-            <tr><th>DNFs</th><td>{{ stats.DNF }}</td></tr>
-            <tr><th>DNQs</th><td>{{ stats.DNQ }}</td></tr>
-            <tr><th>Meisterschaften</th><td>{{ stats.championships }}</td></tr>
-            <tr><th>Vize-Weltmeisterschaften</th><td>{{ stats.runner_up }}</td></tr>
-            <tr><th>Erste Saison</th><td>{{ stats.first_season }}</td></tr>
-            <tr><th>Aktuelles Team</th><td>{{ stats.current_team }}</td></tr>
-            <tr><th>Teams</th><td>{{ stats.teams }}</td></tr>
-        </table>
+        <h1>{{ driver.full_name }}</h1>
+        <p>Nationalität: {{ driver.nationality }}</p>
+        <p>Alter: {{ driver.age }}</p>
+
+        <h2>Karriere-Statistiken</h2>
+        <ul>
+            <li>Gefahrene Rennen: {{ career_stats.total_races }}</li>
+            <li>Siege: {{ career_stats.wins }}</li>
+            <li>Podien: {{ career_stats.podiums }}</li>
+            <li>P2 Platzierungen: {{ career_stats.p2_finishes }}</li>
+            <li>P3 Platzierungen: {{ career_stats.p3_finishes }}</li>
+            <li>Pole Positions: {{ career_stats.pole_positions }}</li>
+            <li>Schnellste Runden: {{ career_stats.fastest_laps }}</li>
+            <li>DNF: {{ career_stats.DNF }}</li>
+            <li>DNQ: {{ career_stats.DNQ }}</li>
+            <li>Außerhalb der Top 10: {{ career_stats.outside_top10 }}</li>
+            <li>Erste Saison: {{ career_stats.first_season }}</li>
+            <li>Aktuelles Team: {{ career_stats.current_team }}</li>
+            <li>Ehemalige Teams:
+                <ul>
+                    {% for team in career_stats.former_teams %}
+                        <li>{{ team }}</li>
+                    {% endfor %}
+                </ul>
+            </li>
+            <li>Championships: {{ career_stats.championships }}</li>
+            <li>Vize Championships: {{ career_stats.runner_up }}</li>
+        </ul>
         <a href="/">Zurück</a>
     </div>
 </body>

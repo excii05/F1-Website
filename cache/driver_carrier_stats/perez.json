@@ -17,10 +17,10 @@
         "outside_top10": 97,
         "first_season": "2011",
         "former_teams": [
-            "McLaren",
-            "Sauber",
             "Force India",
-            "Racing Point"
+            "Racing Point",
+            "Sauber",
+            "McLaren"
         ],
         "current_team": "Red Bull",
         "championships": 0,
