@@ -17,12 +17,12 @@
         "outside_top10": 122,
         "first_season": "2011",
         "former_teams": [
-            "AlphaTauri",
             "McLaren",
-            "HRT",
-            "Red Bull",
             "Renault",
-            "Toro Rosso"
+            "Red Bull",
+            "AlphaTauri",
+            "Toro Rosso",
+            "HRT"
         ],
         "current_team": "RB F1 Team",
         "championships": 0,

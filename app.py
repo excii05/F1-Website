@@ -19,9 +19,9 @@ app = Flask(__name__)
 # Scheduler-Konfiguration
 # ---------------------------
 # Konfiguriere hier den Wochentag und die Uhrzeit, an der die Jobs ausgeführt werden sollen.
-WEEKLY_JOB_DAY = 'sat'    # Beispiel: jeden Montag
-WEEKLY_JOB_HOUR = 20       # Beispiel: 03:00 Uhr
-WEEKLY_JOB_MINUTE = 17     # Beispiel: 03:00 Uhr
+WEEKLY_JOB_DAY = 'sun'    # Beispiel: jeden Montag
+WEEKLY_JOB_HOUR = 14       # Beispiel: 03:00 Uhr
+WEEKLY_JOB_MINUTE = 32     # Beispiel: 03:00 Uhr
 
 # ---------------------------
 # Datenabruf-Funktionen für die Web-App
