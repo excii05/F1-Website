@@ -139,7 +139,7 @@ img {
 .section__title {
   text-align: left; /* Überschrift linksbündig */
   width: 100%; /* Volle Breite */
-  max-width: 900px; /* Begrenzung der Breite auf die Tabelle */
+  max-width: 810px; /* Begrenzung der Breite auf die Tabelle */
   padding-left: 10px; /* Leichter Abstand nach links */
   box-sizing: border-box; /* Padding in die Breite einrechnen */
   font-size: var(--h1-font-size);
@@ -272,9 +272,8 @@ img {
     justify-content: center;
     align-items: center;
     gap: 2rem;
-    padding: 2rem;
     max-width: 900px;
-    margin: auto;
+    margin: 5px auto;
 }
 
 .profile_image {
