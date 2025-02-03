@@ -1,49 +1,49 @@
-def fetch_driver_info(driver_id):
-    url = f"{BASE_URL}/drivers/{driver_id}"
-    response = requests.get(url).json()
-    driver = response.get("MRData", {}).get("DriverTable", {}).get("Drivers", [])[0]
-    
-    birth_date = driver.get("dateOfBirth", "0000-00-00")
-    birth_datetime = datetime.strptime(birth_date, "%Y-%m-%d")
-    today = datetime.today()
-    age = today.year - birth_datetime.year - ((today.month, today.day) < (birth_datetime.month, birth_datetime.day))
-    
-    return {
-        "full_name": f"{driver.get('givenName', '')} {driver.get('familyName', '')}",
-        "nationality": driver.get("nationality", ""),
-        "age": age
-    }
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>{{ driver.full_name }}</title>
+    <style>
+        body { font-family: Arial, sans-serif; margin: 20px; }
+        .container { max-width: 600px; margin: 0 auto; }
+        h1 { color: #333; }
+        table { border-collapse: collapse; width: 100%; margin-top: 20px; }
+        th, td { border: 1px solid #ddd; padding: 8px; text-align: left; }
+        th { background-color: #f4f4f4; }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1>{{ driver.full_name }}</h1>
+        <p>Nationalität: {{ driver.nationality }}</p>
+        <p>Alter: {{ driver.age }}</p>
 
-def fetch_driver_results(driver_id):
-    results = []
-    limit = 100
-    offset = 0
-    while True:
-        url = f"{BASE_URL}/drivers/{driver_id}/results?limit={limit}&offset={offset}"
-        response = requests.get(url).json()
-        races = response.get("MRData", {}).get("RaceTable", {}).get("Races", [])
-        if not races:
-            break
-        results.extend(races)
-        offset += limit
-    return results
-
-def fetch_driver_championships(driver_id):
-    championships = 0
-    runner_up = 0
-    
-    for year in range(1950, 2025):
-        url = f"{BASE_URL}/{year}/driverStandings?limit=100"
-        response = requests.get(url).json()
-        standings = response.get("MRData", {}).get("StandingsTable", {}).get("StandingsLists", [])
-        
-        for season in standings:
-            for driver in season.get("DriverStandings", []):
-                if driver.get("Driver", {}).get("driverId") == driver_id:
-                    position = driver.get("position")
-                    if position == "1":
-                        championships += 1
-                    elif position == "2":
-                        runner_up += 1
-    
-    return championships, runner_up
+        <h2>Karriere-Statistiken</h2>
+        <ul>
+            <li>Gefahrene Rennen: {{ career_stats.total_races }}</li>
+            <li>Siege: {{ career_stats.wins }}</li>
+            <li>Podien: {{ career_stats.podiums }}</li>
+            <li>P2 Platzierungen: {{ career_stats.p2_finishes }}</li>
+            <li>P3 Platzierungen: {{ career_stats.p3_finishes }}</li>
+            <li>Pole Positions: {{ career_stats.pole_positions }}</li>
+            <li>Schnellste Runden: {{ career_stats.fastest_laps }}</li>
+            <li>DNF: {{ career_stats.DNF }}</li>
+            <li>DNQ: {{ career_stats.DNQ }}</li>
+            <li>Außerhalb der Top 10: {{ career_stats.outside_top10 }}</li>
+            <li>Erste Saison: {{ career_stats.first_season }}</li>
+            <li>Aktuelles Team: {{ career_stats.current_team }}</li>
+            <li>Ehemalige Teams:
+                <ul>
+                    {% for team in career_stats.former_teams %}
+                        <li>{{ team }}</li>
+                    {% endfor %}
+                </ul>
+            </li>
+            <li>Championships: {{ career_stats.championships }}</li>
+            <li>Vize Championships: {{ career_stats.runner_up }}</li>
+        </ul>
+        <a href="/">Zurück</a>
+    </div>
+</body>
+</html>

@@ -53,6 +53,12 @@ def get_race_schedule():
         return data['MRData']['RaceTable']['Races']
     return []
 
+# Custom Jinja-Filter zum Extrahieren des Namens nach dem Unterstrich
+def extract_lastname(driver_id):
+    return driver_id.split('_')[-1]  # Nimmt nur den Teil nach dem "_"
+
+app.jinja_env.filters['lastname'] = extract_lastname  # Filter registrieren
+
 # ---------------------------
 # Routen
 # ---------------------------
@@ -91,7 +97,8 @@ def driver_profile(driver_id):
         return render_template(
             'driver_profile.html',
             driver=driver_info,
-            career_stats=career_stats
+            career_stats=career_stats,
+            driver_id=driver_id
         )
     else:
         # Falls keine JSON-Datei gefunden wurde, gib den Fehlercode 404 zurück.

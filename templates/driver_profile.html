@@ -1,49 +1,456 @@
 <!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>{{ driver.full_name }}</title>
-    <style>
-        body { font-family: Arial, sans-serif; margin: 20px; }
-        .container { max-width: 600px; margin: 0 auto; }
-        h1 { color: #333; }
-        table { border-collapse: collapse; width: 100%; margin-top: 20px; }
-        th, td { border: 1px solid #ddd; padding: 8px; text-align: left; }
-        th { background-color: #f4f4f4; }
-    </style>
-</head>
-<body>
-    <div class="container">
-        <h1>{{ driver.full_name }}</h1>
-        <p>Nationalität: {{ driver.nationality }}</p>
-        <p>Alter: {{ driver.age }}</p>
+    <html lang="en">
+    <head>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
-        <h2>Karriere-Statistiken</h2>
-        <ul>
-            <li>Gefahrene Rennen: {{ career_stats.total_races }}</li>
-            <li>Siege: {{ career_stats.wins }}</li>
-            <li>Podien: {{ career_stats.podiums }}</li>
-            <li>P2 Platzierungen: {{ career_stats.p2_finishes }}</li>
-            <li>P3 Platzierungen: {{ career_stats.p3_finishes }}</li>
-            <li>Pole Positions: {{ career_stats.pole_positions }}</li>
-            <li>Schnellste Runden: {{ career_stats.fastest_laps }}</li>
-            <li>DNF: {{ career_stats.DNF }}</li>
-            <li>DNQ: {{ career_stats.DNQ }}</li>
-            <li>Außerhalb der Top 10: {{ career_stats.outside_top10 }}</li>
-            <li>Erste Saison: {{ career_stats.first_season }}</li>
-            <li>Aktuelles Team: {{ career_stats.current_team }}</li>
-            <li>Ehemalige Teams:
-                <ul>
-                    {% for team in career_stats.former_teams %}
-                        <li>{{ team }}</li>
-                    {% endfor %}
-                </ul>
-            </li>
-            <li>Championships: {{ career_stats.championships }}</li>
-            <li>Vize Championships: {{ career_stats.runner_up }}</li>
-        </ul>
-        <a href="/">Zurück</a>
-    </div>
-</body>
+        <!--==================== UNICONS ====================-->
+        <link rel="stylesheet" href="https://unicons.iconscout.com/release/v3.0.6/css/line.css">
+
+        <!--==================== CSS ==========-->
+        <link rel="stylesheet" href="{{ url_for('static', filename='css/driver_styles.css') }}">
+
+        <title>F1 Website</title>
+    </head>
+    <body>
+        <!--==================== HEADER ====================-->
+        <header class="header" id="header">
+            <nav class="nav container">
+                <img src="{{ url_for('static', filename='svg/F1.png') }}" class="nav__logo-img">
+                <a href="#" class="nav__logo">Formel 1 Saison 2024</a>
+
+                <div class="nav__menu" id="nav-menu">
+                    <ul class="nav__list grid">
+                        <li class="nav__item">
+                            <a href="#highlights" class="nav__link active-link">
+                                <i class="nav__icon"></i> Career Highlights
+                            </a>
+                        </li>
+
+                        <li class="nav__item">
+                            <a href="#lifetime" class="nav__link active-link">
+                                <i class="nav__icon"></i> Lifetime Statistics
+                            </a>
+                        </li>
+
+                        <li class="nav__item">
+                            <a href="#seasonal" class="nav__link">
+                                <i class="nav__icon"></i> Seasonal Statistics
+                            </a>
+                        </li>
+
+                        <li class="nav__item">
+                            <a href="#graphs" class="nav__link">
+                                <i class="nav__icon"></i> Seasonal Graphs
+                            </a>
+                        </li>
+                    </ul>
+                    
+                    <i class="uil uil-times nav__close" id="nav-close"></i>
+                </div>
+
+                <div class="nav__btns">
+                    <!-- Theme change button -->
+                    <i class="uil uil-moon change-theme" id="theme-button"></i>
+
+                    <div class="nav__toggle" id="nav-toggle">
+                        <i class="uil uil-apps"></i>
+                    </div>
+                </div>
+            </nav>
+        </header>
+
+        <!--==================== MAIN ====================-->
+        <main class="main">
+            <!--==================== CAREER HIGHLIGHTS ====================-->
+            <section class="driver section" id="highlights">
+                <h2 class="section__title">Career Highlights</h2>
+
+                <div class="about__container container grid">
+                    <img src="https://media.formula1.com/image/upload/content/dam/fom-website/drivers/2024Drivers/{{ driver_id | lastname }}" class="profile_image">
+                    <div class="stats-grid">
+                        <div class="stat-box">
+                            <div class="stat-box-inner">
+                              <div class="stat-top">
+                                <img src="{{ url_for('static', filename='svg/icons/flag.svg') }}" class="icon-image">
+                                <p class="stat-number">{{ career_stats.total_races }}</p>
+                              </div>
+                              <p class="stat-label">Grand Prix raced</p>
+                            </div>
+                        </div>
+                        
+                        <div class="stat-box">
+                            <div class="stat-box-inner">
+                              <div class="stat-top">
+                                <img src="{{ url_for('static', filename='svg/icons/trophy.svg') }}" class="icon-image">
+                                <p class="stat-number">{{ career_stats.championships }}</p>
+                              </div>
+                              <p class="stat-label">Championships</p>
+                            </div>
+                        </div>
+                        
+                        <div class="stat-box">
+                            <div class="stat-box-inner">
+                              <div class="stat-top">
+                                <img src="{{ url_for('static', filename='svg/icons/medal.svg') }}" class="icon-image">
+                                <p class="stat-number">{{ career_stats.wins }}</p>
+                              </div>
+                              <p class="stat-label">Wins</p>
+                            </div>
+                        </div>    
+                        
+                        <div class="stat-box">
+                            <div class="stat-box-inner">
+                              <div class="stat-top">
+                                <img src="{{ url_for('static', filename='svg/icons/graph-bar.svg') }}" class="icon-image">
+                                <p class="stat-number">{{ career_stats.podiums }}</p>
+                              </div>
+                              <p class="stat-label">Podiums</p>
+                            </div>
+                        </div>    
+                        
+                        <div class="stat-box">
+                            <div class="stat-box-inner">
+                              <div class="stat-top">
+                                <img src="{{ url_for('static', filename='svg/icons/stopwatch.svg') }}" class="icon-image">
+                                <p class="stat-number">{{ career_stats.pole_positions }}</p>
+                              </div>
+                              <p class="stat-label">Pole Positions</p>
+                            </div>
+                        </div>    
+                        
+                        <div class="stat-box">
+                            <div class="stat-box-inner">
+                              <div class="stat-top">
+                                <img src="{{ url_for('static', filename='svg/icons/tachometer.svg') }}" class="icon-image">
+                                <p class="stat-number">{{ career_stats.fastest_laps }}</p>
+                              </div>
+                              <p class="stat-label">Fastest Laps</p>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </section>
+
+            <!--==================== LIFETIME STATISTICS ====================-->
+            <section class="driver section" id="highlights">
+                <h2 class="section__title">Lifetime Statistics</h2>
+
+                <div class="about__container container grid">
+                    <div class="lifetime-stats-grid">
+                        <div class="stat-box">
+                          <div class="stat-box-inner">
+                            <div class="stat-left">
+                              <p class="stat-number">5</p>
+                              <p class="stat-label">Wins</p>
+                            </div>
+                            <div class="stat-right">
+                                <img src="{{ url_for('static', filename='svg/icons/checkered_flag.png') }}" class="icon-image">
+                            </div>
+                          </div>
+                        </div>
+                        
+                        <div class="stat-box">
+                          <div class="stat-box-inner">
+                            <div class="stat-left">
+                              <p class="stat-number">3</p>
+                              <p class="stat-label">Pole Positions</p>
+                            </div>
+                            <div class="stat-right">
+                                <img src="{{ url_for('static', filename='svg/icons/championships.png') }}" class="icon-image">
+                            </div>
+                          </div>
+                        </div>
+                        
+                        <div class="stat-box">
+                          <div class="stat-box-inner">
+                            <div class="stat-left">
+                              <p class="stat-number">10</p>
+                              <p class="stat-label">Podiums</p>
+                            </div>
+                            <div class="stat-right">
+                                <img src="{{ url_for('static', filename='svg/icons/wins.png') }}" class="icon-image">
+                            </div>
+                          </div>
+                        </div>
+                        
+                        <div class="stat-box">
+                          <div class="stat-box-inner">
+                            <div class="stat-left">
+                              <p class="stat-number">120</p>
+                              <p class="stat-label">Rennen gestartet</p>
+                            </div>
+                            <div class="stat-right">
+                                <img src="{{ url_for('static', filename='svg/icons/podiums.png') }}" class="icon-image">
+                            </div>
+                          </div>
+                        </div>
+                        
+                        <div class="stat-box">
+                          <div class="stat-box-inner">
+                            <div class="stat-left">
+                              <p class="stat-number">2.5</p>
+                              <p class="stat-label">Siege/Saison</p>
+                            </div>
+                            <div class="stat-right">
+                                <img src="{{ url_for('static', filename='svg/icons/pole_positions.png') }}" class="icon-image">
+                            </div>
+                          </div>
+                        </div>
+
+                        <div class="stat-box">
+                            <div class="stat-box-inner">
+                              <div class="stat-left">
+                                <p class="stat-number">2.5</p>
+                                <p class="stat-label">Siege/Saison</p>
+                              </div>
+                              <div class="stat-right">
+                                  <img src="{{ url_for('static', filename='svg/icons/pole_positions.png') }}" class="icon-image">
+                              </div>
+                            </div>
+                        </div>
+                        
+                        <div class="stat-box">
+                            <div class="stat-box-inner">
+                              <div class="stat-left">
+                                <p class="stat-number">2.5</p>
+                                <p class="stat-label">Siege/Saison</p>
+                              </div>
+                              <div class="stat-right">
+                                  <img src="{{ url_for('static', filename='svg/icons/pole_positions.png') }}" class="icon-image">
+                              </div>
+                            </div>
+                          </div>
+
+                          <div class="stat-box">
+                            <div class="stat-box-inner">
+                              <div class="stat-left">
+                                <p class="stat-number">2.5</p>
+                                <p class="stat-label">Siege/Saison</p>
+                              </div>
+                              <div class="stat-right">
+                                  <img src="{{ url_for('static', filename='svg/icons/pole_positions.png') }}" class="icon-image">
+                              </div>
+                            </div>
+                          </div>
+
+                          <div class="stat-box">
+                            <div class="stat-box-inner">
+                              <div class="stat-left">
+                                <p class="stat-number">2.5</p>
+                                <p class="stat-label">Siege/Saison</p>
+                              </div>
+                              <div class="stat-right">
+                                  <img src="{{ url_for('static', filename='svg/icons/pole_positions.png') }}" class="icon-image">
+                              </div>
+                            </div>
+                          </div>
+
+                          <div class="stat-box">
+                            <div class="stat-box-inner">
+                              <div class="stat-left">
+                                <p class="stat-number">2.5</p>
+                                <p class="stat-label">Siege/Saison</p>
+                              </div>
+                              <div class="stat-right">
+                                  <img src="{{ url_for('static', filename='svg/icons/pole_positions.png') }}" class="icon-image">
+                              </div>
+                            </div>
+                          </div>
+
+                        <div class="stat-box">
+                            <div class="stat-box-inner">
+                              <div class="stat-left">
+                                <p class="stat-number">2.5</p>
+                                <p class="stat-label">Siege/Saison</p>
+                              </div>
+                              <div class="stat-right">
+                                  <img src="{{ url_for('static', filename='svg/icons/pole_positions.png') }}" class="icon-image">
+                              </div>
+                            </div>
+                        </div>
+
+                          <div class="stat-box">
+                            <div class="stat-box-inner">
+                              <div class="stat-left">
+                                <p class="stat-number">2.5</p>
+                                <p class="stat-label">Siege/Saison</p>
+                              </div>
+                              <div class="stat-right">
+                                  <img src="{{ url_for('static', filename='svg/icons/pole_positions.png') }}" class="icon-image">
+                              </div>
+                            </div>
+                        </div>
+
+                        <div class="stat-box">
+                            <div class="stat-box-inner">
+                              <div class="stat-left">
+                                <p class="stat-number">2.5</p>
+                                <p class="stat-label">Siege/Saison</p>
+                              </div>
+                              <div class="stat-right">
+                                  <img src="{{ url_for('static', filename='svg/icons/pole_positions.png') }}" class="icon-image">
+                              </div>
+                            </div>
+                        </div>
+
+                          <div class="stat-box">
+                            <div class="stat-box-inner">
+                              <div class="stat-left">
+                                <p class="stat-number">2.5</p>
+                                <p class="stat-label">Siege/Saison</p>
+                              </div>
+                              <div class="stat-right">
+                                  <img src="{{ url_for('static', filename='svg/icons/pole_positions.png') }}" class="icon-image">
+                              </div>
+                            </div>
+                        </div>
+
+                          <div class="stat-box">
+                            <div class="stat-box-inner">
+                              <div class="stat-left">
+                                <p class="stat-number">2.5</p>
+                                <p class="stat-label">Siege/Saison</p>
+                              </div>
+                              <div class="stat-right">
+                                  <img src="{{ url_for('static', filename='svg/icons/pole_positions.png') }}" class="icon-image">
+                              </div>
+                            </div>
+                        </div>
+                        
+                        <div class="stat-box">
+                          <div class="stat-box-inner">
+                            <div class="stat-left">
+                              <p class="stat-number">250</p>
+                              <p class="stat-label">Gesamtpunkte</p>
+                            </div>
+                            <div class="stat-right">
+                                <img src="{{ url_for('static', filename='svg/icons/fastest_laps.png') }}" class="icon-image">
+                            </div>
+                          </div>
+                        </div>
+                    </div>
+                </div>
+            </section>
+
+            <!--==================== LIFETIME STATISTICS ====================-->
+            <section class="driver section" id="highlights">
+                <h2 class="section__title">Career Highlights</h2>
+                <span class="section__subtitle">My introduction</span>
+
+                <div class="about__container container grid">
+                    <img src="https://media.formula1.com/image/upload/content/dam/fom-website/drivers/2020Drivers/vettel">
+                    <div class="stats-grid">
+                        <div class="stat-box">
+                          <div class="stat-box-inner">
+                            <div class="stat-left">
+                              <p class="stat-number">5</p>
+                              <p class="stat-label">Wins</p>
+                            </div>
+                            <div class="stat-right">
+                                <img src="{{ url_for('static', filename='svg/icons/checkered_flag.png') }}" class="icon-image">
+                            </div>
+                          </div>
+                        </div>
+                        
+                        <div class="stat-box">
+                          <div class="stat-box-inner">
+                            <div class="stat-left">
+                              <p class="stat-number">3</p>
+                              <p class="stat-label">Pole Positions</p>
+                            </div>
+                            <div class="stat-right">
+                                <img src="{{ url_for('static', filename='svg/icons/championships.png') }}" class="icon-image">
+                            </div>
+                          </div>
+                        </div>
+                        
+                        <div class="stat-box">
+                          <div class="stat-box-inner">
+                            <div class="stat-left">
+                              <p class="stat-number">10</p>
+                              <p class="stat-label">Podiums</p>
+                            </div>
+                            <div class="stat-right">
+                                <img src="{{ url_for('static', filename='svg/icons/wins.png') }}" class="icon-image">
+                            </div>
+                          </div>
+                        </div>
+                        
+                        <div class="stat-box">
+                          <div class="stat-box-inner">
+                            <div class="stat-left">
+                              <p class="stat-number">120</p>
+                              <p class="stat-label">Rennen gestartet</p>
+                            </div>
+                            <div class="stat-right">
+                                <img src="{{ url_for('static', filename='svg/icons/podiums.png') }}" class="icon-image">
+                            </div>
+                          </div>
+                        </div>
+                        
+                        <div class="stat-box">
+                          <div class="stat-box-inner">
+                            <div class="stat-left">
+                              <p class="stat-number">2.5</p>
+                              <p class="stat-label">Siege/Saison</p>
+                            </div>
+                            <div class="stat-right">
+                                <img src="{{ url_for('static', filename='svg/icons/pole_positions.png') }}" class="icon-image">
+                            </div>
+                          </div>
+                        </div>
+                        
+                        <div class="stat-box">
+                          <div class="stat-box-inner">
+                            <div class="stat-left">
+                              <p class="stat-number">250</p>
+                              <p class="stat-label">Gesamtpunkte</p>
+                            </div>
+                            <div class="stat-right">
+                                <img src="{{ url_for('static', filename='svg/icons/fastest_laps.png') }}" class="icon-image">
+                            </div>
+                          </div>
+                        </div>
+                    </div>
+                </div>
+            </section>
+        </main>
+
+        <!--==================== FOOTER ====================-->
+        <footer class="footer">
+            <div class="footer__bg">
+                <div class="footer__container container grid">
+                    <div>
+                        <h1 class="footer__title">F1 Statistics</h1>
+                        <span class="footer__subtitle">This website is not an official project and is in no way affiliated with the Formula 1 companies!</span>
+                    </div>
+
+                    <ul class="footer__links">
+                        <li>
+                            <a href="#about" class="footer__link">Driver Standings</a>
+                        </li>
+                        <li>
+                            <a href="#qualifications" class="footer__link">Constructor Standings</a>
+                        </li>
+                        <li>
+                            <a href="#portfolio" class="footer__link">Race Dates</a>
+                        </li>
+                    </ul>
+                </div>
+
+                <p class="footer__copy">
+                    &#169; 2024 - <a id="year"></a> Tim Fuhrmann. All rights reserved
+                </p>
+            </div>
+        </footer>
+
+        <!--========== SCROLL TOP ==========-->
+        <a href="#" class="scrollup" id="scroll-top">
+            <i class="uil uil-arrow-up scrollup__icon"></i>
+        </a>
+
+        <!--==================== MAIN JS ====================-->
+        <script src="{{ url_for('static', filename='js/driver_script.js') }}"></script>
+    </body>
 </html>

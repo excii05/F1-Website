@@ -8,7 +8,7 @@
         <link rel="stylesheet" href="https://unicons.iconscout.com/release/v3.0.6/css/line.css">
 
         <!--==================== CSS ==========-->
-        <link rel="stylesheet" href="static/styles/styles.css">
+        <link rel="stylesheet" href="{{ url_for('static', filename='css/main_styles.css') }}">
 
         <title>F1 Website</title>
     </head>
@@ -16,7 +16,7 @@
         <!--==================== HEADER ====================-->
         <header class="header" id="header">
             <nav class="nav container">
-                <img src="static/svg/F1.png" class="nav__logo-img">
+                <img src="{{ url_for('static', filename='svg/F1.png') }}" class="nav__logo-img">
                 <a href="#" class="nav__logo">Formel 1 Saison 2024</a>
 
                 <div class="nav__menu" id="nav-menu">
@@ -183,6 +183,6 @@
         </a>
 
         <!--==================== MAIN JS ====================-->
-        <script src="static/js/script.js"></script>
+        <script src="{{ url_for('static', filename='js/main_script.js') }}"></script>
     </body>
 </html>
