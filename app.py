@@ -4,10 +4,11 @@ from data_fetcher import (
     fetch_constructor_information,
     fetch_driver_standings, 
     fetch_constructor_standings, 
-    fetch_race_schedule
+    fetch_race_schedule,
 )
 from driver_data_fetcher import store_driver_data
 from team_data_fetcher import store_team_data
+from seasonal_data_fetcher import get_driver_season_stats
 from apscheduler.schedulers.background import BackgroundScheduler
 import atexit
 import os
@@ -77,32 +78,39 @@ def home():
 
 @app.route('/driver/<driver_id>')
 def driver_profile(driver_id):
+    year = 2024  # Aktuelles Jahr
+
     # Pfad zur JSON-Datei zusammenbauen
     json_path = os.path.join('cache', 'driver_carrier_stats', f'{driver_id}.json')
-    
+
     # Prüfen, ob die Datei existiert
     if os.path.exists(json_path):
         try:
             with open(json_path, 'r', encoding='utf-8') as file:
                 driver_data = json.load(file)
         except Exception as e:
-            # Falls ein Fehler beim Laden auftritt, wird ein 500-Fehler zurückgegeben
             return f"Fehler beim Laden der Fahrerdaten: {e}", 500
 
-        # Extrahiere die einzelnen Daten, sodass das Template wie gewohnt
-        # mit "driver" und "career_stats" arbeiten kann
         driver_info = driver_data.get("driver_info", {})
         career_stats = driver_data.get("career_stats", {})
 
-        return render_template(
-            'driver_profile.html',
-            driver=driver_info,
-            career_stats=career_stats,
-            driver_id=driver_id
-        )
     else:
-        # Falls keine JSON-Datei gefunden wurde, gib den Fehlercode 404 zurück.
+        driver_info = {}
+        career_stats = {}
+
+    # Saison-Statistiken abrufen
+    seasonal_stats = get_driver_season_stats(year, driver_id)
+
+    if not driver_info and not career_stats and not seasonal_stats:
         return "Fahrerdaten nicht gefunden", 404
+
+    return render_template(
+        'driver_profile.html',
+        driver=driver_info,
+        career_stats=career_stats,
+        seasonal_stats=seasonal_stats,  # Saison-Statistiken separat übergeben
+        driver_id=driver_id
+    )
 
 @app.route('/team/<team_id>')
 def team_profile(team_id):

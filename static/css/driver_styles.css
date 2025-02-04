@@ -284,7 +284,7 @@ img {
 }
 
 /* Grid für die Statistiken */
-.stats-grid {
+.career-stats-grid {
     display: grid;
     grid-template-columns: 1fr 1fr;
     gap: 1rem;
@@ -343,11 +343,10 @@ img {
   }
 
 /*==================== LIFETIME STATISTICS ====================*/
-.lifetime-stats-grid {
+.stats-grid {
     display: grid;
     grid-template-columns: repeat(4, 1fr);
     gap: 1rem;
-    padding: 2rem;
     max-width: 900px;
     margin: auto;
 }
