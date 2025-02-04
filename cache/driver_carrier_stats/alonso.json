@@ -17,11 +17,11 @@
         "outside_top10": 133,
         "first_season": "2001",
         "former_teams": [
-            "Ferrari",
-            "McLaren",
-            "Renault",
             "Alpine F1 Team",
-            "Minardi"
+            "Minardi",
+            "Ferrari",
+            "Renault",
+            "McLaren"
         ],
         "current_team": "Aston Martin",
         "championships": 2,

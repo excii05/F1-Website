@@ -1,7 +1,8 @@
-import requests
+import json
+import os
 from data_fetcher import fetch_seasonal_standings, fetch_driver_standings
 
-def get_driver_season_stats(year, driver_id):
+def get_seasonal_stats(year, driver_id):
     standings_data = fetch_driver_standings(year)
     
     if not standings_data:
@@ -39,15 +40,15 @@ def get_driver_season_stats(year, driver_id):
                     dnfs += 1
             except (KeyError, IndexError):
                 print(f"Could not retrieve data for race {race}")
-        
-        driver_standings = fetch_driver_standings(year)
-        for entry in driver_standings['MRData']['StandingsTable']['StandingsLists']:
-            for driver in entry['DriverStandings']:
-                if driver['Driver']['driverId'] == driver_id:
-                    championship_position = int(driver['position'])
-                    points = int(float(driver['points']))
     
-    return {
+    driver_standings = fetch_driver_standings(year)
+    for entry in driver_standings['MRData']['StandingsTable']['StandingsLists']:
+        for driver in entry['DriverStandings']:
+            if driver['Driver']['driverId'] == driver_id:
+                championship_position = int(driver['position'])
+                points = int(float(driver['points']))
+    
+    driver_data = {
         'races_participated': races_participated,
         'championship_position': championship_position,
         'podiums': podiums,
@@ -57,6 +58,12 @@ def get_driver_season_stats(year, driver_id):
         'wins': wins,
         'points': points
     }
-
-# Beispielaufruf:
-# driver_data = get_driver_season_data(2021, 'verstappen')
+    
+    cache_dir = 'cache/driver_seasonal_stats'
+    os.makedirs(cache_dir, exist_ok=True)
+    file_path = os.path.join(cache_dir, f"{driver_id}.json")
+    
+    with open(file_path, 'w') as json_file:
+        json.dump(driver_data, json_file, indent=4)
+    
+    print(f"Data saved to {file_path}")

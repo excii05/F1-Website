@@ -8,7 +8,7 @@ from data_fetcher import (
 )
 from driver_data_fetcher import store_driver_data
 from team_data_fetcher import store_team_data
-from seasonal_data_fetcher import get_driver_season_stats
+from seasonal_data_fetcher import get_seasonal_stats
 from apscheduler.schedulers.background import BackgroundScheduler
 import atexit
 import os
@@ -20,9 +20,9 @@ app = Flask(__name__)
 # Scheduler-Konfiguration
 # ---------------------------
 # Konfiguriere hier den Wochentag und die Uhrzeit, an der die Jobs ausgeführt werden sollen.
-WEEKLY_JOB_DAY = 'sun'    # Beispiel: jeden Montag
-WEEKLY_JOB_HOUR = 14       # Beispiel: 03:00 Uhr
-WEEKLY_JOB_MINUTE = 32     # Beispiel: 03:00 Uhr
+WEEKLY_JOB_DAY = 'tue'    # Beispiel: jeden Montag
+WEEKLY_JOB_HOUR = 15       # Beispiel: 03:00 Uhr
+WEEKLY_JOB_MINUTE = 14     # Beispiel: 03:00 Uhr
 
 # ---------------------------
 # Datenabruf-Funktionen für die Web-App
@@ -78,37 +78,38 @@ def home():
 
 @app.route('/driver/<driver_id>')
 def driver_profile(driver_id):
-    year = 2024  # Aktuelles Jahr
+    # Pfade zu den JSON-Dateien zusammenbauen
+    career_stats_path = os.path.join('cache', 'driver_carrier_stats', f'{driver_id}.json')
+    seasonal_stats_path = os.path.join('cache', 'driver_seasonal_stats', f'{driver_id}.json')
 
-    # Pfad zur JSON-Datei zusammenbauen
-    json_path = os.path.join('cache', 'driver_carrier_stats', f'{driver_id}.json')
+    # Initialisierung der Daten
+    driver_info = {}
+    career_stats = {}
+    seasonal_stats = {}
 
-    # Prüfen, ob die Datei existiert
-    if os.path.exists(json_path):
+    # Fahrerkarrieredaten einlesen
+    if os.path.exists(career_stats_path):
         try:
-            with open(json_path, 'r', encoding='utf-8') as file:
-                driver_data = json.load(file)
+            with open(career_stats_path, 'r', encoding='utf-8') as file:
+                career_data = json.load(file)
+            driver_info = career_data.get("driver_info", {})
+            career_stats = career_data.get("career_stats", {})
         except Exception as e:
-            return f"Fehler beim Laden der Fahrerdaten: {e}", 500
+            return f"Fehler beim Laden der Karriere-Daten: {e}", 500
 
-        driver_info = driver_data.get("driver_info", {})
-        career_stats = driver_data.get("career_stats", {})
-
-    else:
-        driver_info = {}
-        career_stats = {}
-
-    # Saison-Statistiken abrufen
-    seasonal_stats = get_driver_season_stats(year, driver_id)
-
-    if not driver_info and not career_stats and not seasonal_stats:
-        return "Fahrerdaten nicht gefunden", 404
+    # Saisonstatistiken einlesen
+    if os.path.exists(seasonal_stats_path):
+        try:
+            with open(seasonal_stats_path, 'r', encoding='utf-8') as file:
+                seasonal_stats = json.load(file)
+        except Exception as e:
+            return f"Fehler beim Laden der Saison-Daten: {e}", 500
 
     return render_template(
         'driver_profile.html',
         driver=driver_info,
         career_stats=career_stats,
-        seasonal_stats=seasonal_stats,  # Saison-Statistiken separat übergeben
+        seasonal_stats=seasonal_stats,
         driver_id=driver_id
     )
 
@@ -183,6 +184,23 @@ def weekly_team_update():
                     print(f"Fehler bei Team {team_id}: {e}")
     else:
         print("Keine Team-Liste verfügbar. Team-Job wird abgebrochen.")
+        
+def weekly_seasonal_stats_update():
+    """Ruft einmal wöchentlich die saisonalen Statistiken für alle Fahrer ab und speichert sie."""
+    driver_list_data = fetch_driver_information(2024)
+    if driver_list_data:
+        drivers = driver_list_data.get('MRData', {}).get('DriverTable', {}).get('Drivers', [])
+        print(f"Starte wöchentlichen saisonalen Statistik-Abruf für {len(drivers)} Fahrer...")
+        for driver in drivers:
+            driver_id = driver.get("driverId")
+            if driver_id:
+                try:
+                    print(f"Starte Abfrage der saisonalen Statistiken für Fahrer: {driver_id}")
+                    get_seasonal_stats(2024, driver_id)
+                except Exception as e:
+                    print(f"Fehler bei saisonalen Statistiken für Fahrer {driver_id}: {e}")
+    else:
+        print("Keine Fahrerliste verfügbar. Saisonaler Statistik-Job wird abgebrochen.")
 
 # ---------------------------
 # Scheduler initialisieren
@@ -203,6 +221,14 @@ scheduler.add_job(
     hour=WEEKLY_JOB_HOUR,
     minute=WEEKLY_JOB_MINUTE,
     id='weekly_team_update_job'
+)
+scheduler.add_job(
+    func=weekly_seasonal_stats_update,
+    trigger='cron',
+    day_of_week=WEEKLY_JOB_DAY,
+    hour=WEEKLY_JOB_HOUR,
+    minute=WEEKLY_JOB_MINUTE,
+    id='weekly_seasonal_stats_update_job'
 )
 scheduler.start()
 print(f"Scheduler gestartet: Wöchentliche Jobs jeden {WEEKLY_JOB_DAY} um {WEEKLY_JOB_HOUR:02d}:{WEEKLY_JOB_MINUTE:02d} Uhr.")
