@@ -23,8 +23,8 @@ def fetch_constructor_information(year):
         print(f"Failed to fetch driver information for {year}")
         return None
 
-def fetch_driver_standings(year):
-    url = f"{BASE_URL}/{year}/driverstandings/"
+def fetch_driver_standings(year, race="last"):
+    url = f"{BASE_URL}/{year}/{race}/driverstandings/"
     response = requests.get(url)
     
     if response.status_code == 200:
@@ -33,8 +33,8 @@ def fetch_driver_standings(year):
         print(f"Failed to fetch driver standings in {year}")
         return None
 
-def fetch_constructor_standings(year):
-    url = f"{BASE_URL}/{year}/constructorstandings/"
+def fetch_constructor_standings(year, race="last"):
+    url = f"{BASE_URL}/{year}/{race}/constructorstandings/"
     response = requests.get(url)
     
     if response.status_code == 200:
