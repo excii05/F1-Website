@@ -19,7 +19,10 @@ def plot_driver_results(year, driver_id):
         for result in race_data["race"]:
             if result["driver"] == driver_id:
                 rounds.append(int(round_num))
-                positions.append(int(result["position"]))
+                if result["status"] == "DNF":
+                    positions.append(21)  # DNF wird als Position 21 dargestellt
+                else:
+                    positions.append(int(result["position"]))
                 break
     
     if not rounds:
@@ -40,7 +43,7 @@ def plot_driver_results(year, driver_id):
     
     # Achsen anpassen
     plt.xticks(range(1, max(rounds) + 1, 1))
-    plt.yticks(range(20, 0, -1))
+    plt.yticks(list(range(20, 0, -1)) + [21], labels=[str(i) for i in range(20, 0, -1)] + ["DNF"])
     
     plt.show()
 
