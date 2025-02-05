@@ -38,7 +38,6 @@ def plot_driver_results(year, driver_id):
     plt.xlabel("Rennrunde")
     plt.ylabel("Position")
     plt.title(f"Rennergebnisse von {driver_id} in {year}")
-    plt.legend()
     plt.grid()
     
     # Achsen anpassen
