@@ -2,2644 +2,2125 @@
     "1": [
         {
             "position": "1",
-            "driver": "max_verstappen",
-            "points": "26"
+            "driver": "max_verstappen"
         },
         {
             "position": "2",
-            "driver": "perez",
-            "points": "18"
+            "driver": "perez"
         },
         {
             "position": "3",
-            "driver": "sainz",
-            "points": "15"
+            "driver": "sainz"
         },
         {
             "position": "4",
-            "driver": "leclerc",
-            "points": "12"
+            "driver": "leclerc"
         },
         {
             "position": "5",
-            "driver": "russell",
-            "points": "10"
+            "driver": "russell"
         },
         {
             "position": "6",
-            "driver": "norris",
-            "points": "8"
+            "driver": "norris"
         },
         {
             "position": "7",
-            "driver": "hamilton",
-            "points": "6"
+            "driver": "hamilton"
         },
         {
             "position": "8",
-            "driver": "piastri",
-            "points": "4"
+            "driver": "piastri"
         },
         {
             "position": "9",
-            "driver": "alonso",
-            "points": "2"
+            "driver": "alonso"
         },
         {
             "position": "10",
-            "driver": "stroll",
-            "points": "1"
+            "driver": "stroll"
         },
         {
             "position": "11",
-            "driver": "zhou",
-            "points": "0"
+            "driver": "zhou"
         },
         {
             "position": "12",
-            "driver": "kevin_magnussen",
-            "points": "0"
+            "driver": "kevin_magnussen"
         },
         {
             "position": "13",
-            "driver": "ricciardo",
-            "points": "0"
+            "driver": "ricciardo"
         },
         {
             "position": "14",
-            "driver": "tsunoda",
-            "points": "0"
+            "driver": "tsunoda"
         },
         {
             "position": "15",
-            "driver": "albon",
-            "points": "0"
+            "driver": "albon"
         },
         {
             "position": "16",
-            "driver": "hulkenberg",
-            "points": "0"
+            "driver": "hulkenberg"
         },
         {
             "position": "17",
-            "driver": "ocon",
-            "points": "0"
+            "driver": "ocon"
         },
         {
             "position": "18",
-            "driver": "gasly",
-            "points": "0"
+            "driver": "gasly"
         },
         {
             "position": "19",
-            "driver": "bottas",
-            "points": "0"
+            "driver": "bottas"
         },
         {
             "position": "20",
-            "driver": "sargeant",
-            "points": "0"
+            "driver": "sargeant"
         }
     ],
     "2": [
         {
             "position": "1",
-            "driver": "max_verstappen",
-            "points": "51"
+            "driver": "max_verstappen"
         },
         {
             "position": "2",
-            "driver": "perez",
-            "points": "36"
+            "driver": "perez"
         },
         {
             "position": "3",
-            "driver": "leclerc",
-            "points": "28"
+            "driver": "leclerc"
         },
         {
             "position": "4",
-            "driver": "russell",
-            "points": "18"
+            "driver": "russell"
         },
         {
             "position": "5",
-            "driver": "piastri",
-            "points": "16"
+            "driver": "piastri"
         },
         {
             "position": "6",
-            "driver": "sainz",
-            "points": "15"
+            "driver": "sainz"
         },
         {
             "position": "7",
-            "driver": "alonso",
-            "points": "12"
+            "driver": "alonso"
         },
         {
             "position": "8",
-            "driver": "norris",
-            "points": "12"
+            "driver": "norris"
         },
         {
             "position": "9",
-            "driver": "hamilton",
-            "points": "8"
+            "driver": "hamilton"
         },
         {
             "position": "10",
-            "driver": "bearman",
-            "points": "6"
+            "driver": "bearman"
         },
         {
             "position": "11",
-            "driver": "hulkenberg",
-            "points": "1"
+            "driver": "hulkenberg"
         },
         {
             "position": "12",
-            "driver": "stroll",
-            "points": "1"
+            "driver": "stroll"
         },
         {
             "position": "13",
-            "driver": "albon",
-            "points": "0"
+            "driver": "albon"
         },
         {
             "position": "14",
-            "driver": "zhou",
-            "points": "0"
+            "driver": "zhou"
         },
         {
             "position": "15",
-            "driver": "kevin_magnussen",
-            "points": "0"
+            "driver": "kevin_magnussen"
         },
         {
             "position": "16",
-            "driver": "ricciardo",
-            "points": "0"
+            "driver": "ricciardo"
         },
         {
             "position": "17",
-            "driver": "ocon",
-            "points": "0"
+            "driver": "ocon"
         },
         {
             "position": "18",
-            "driver": "tsunoda",
-            "points": "0"
+            "driver": "tsunoda"
         },
         {
             "position": "19",
-            "driver": "sargeant",
-            "points": "0"
+            "driver": "sargeant"
         },
         {
             "position": "20",
-            "driver": "bottas",
-            "points": "0"
+            "driver": "bottas"
         },
         {
             "position": "21",
-            "driver": "gasly",
-            "points": "0"
+            "driver": "gasly"
         }
     ],
     "3": [
         {
             "position": "1",
-            "driver": "max_verstappen",
-            "points": "51"
+            "driver": "max_verstappen"
         },
         {
             "position": "2",
-            "driver": "leclerc",
-            "points": "47"
+            "driver": "leclerc"
         },
         {
             "position": "3",
-            "driver": "perez",
-            "points": "46"
+            "driver": "perez"
         },
         {
             "position": "4",
-            "driver": "sainz",
-            "points": "40"
+            "driver": "sainz"
         },
         {
             "position": "5",
-            "driver": "piastri",
-            "points": "28"
+            "driver": "piastri"
         },
         {
             "position": "6",
-            "driver": "norris",
-            "points": "27"
+            "driver": "norris"
         },
         {
             "position": "7",
-            "driver": "russell",
-            "points": "18"
+            "driver": "russell"
         },
         {
             "position": "8",
-            "driver": "alonso",
-            "points": "16"
+            "driver": "alonso"
         },
         {
             "position": "9",
-            "driver": "stroll",
-            "points": "9"
+            "driver": "stroll"
         },
         {
             "position": "10",
-            "driver": "hamilton",
-            "points": "8"
+            "driver": "hamilton"
         },
         {
             "position": "11",
-            "driver": "tsunoda",
-            "points": "6"
+            "driver": "tsunoda"
         },
         {
             "position": "12",
-            "driver": "bearman",
-            "points": "6"
+            "driver": "bearman"
         },
         {
             "position": "13",
-            "driver": "hulkenberg",
-            "points": "3"
+            "driver": "hulkenberg"
         },
         {
             "position": "14",
-            "driver": "kevin_magnussen",
-            "points": "1"
+            "driver": "kevin_magnussen"
         },
         {
             "position": "15",
-            "driver": "albon",
-            "points": "0"
+            "driver": "albon"
         },
         {
             "position": "16",
-            "driver": "zhou",
-            "points": "0"
+            "driver": "zhou"
         },
         {
             "position": "17",
-            "driver": "ricciardo",
-            "points": "0"
+            "driver": "ricciardo"
         },
         {
             "position": "18",
-            "driver": "ocon",
-            "points": "0"
+            "driver": "ocon"
         },
         {
             "position": "19",
-            "driver": "gasly",
-            "points": "0"
+            "driver": "gasly"
         },
         {
             "position": "20",
-            "driver": "bottas",
-            "points": "0"
+            "driver": "bottas"
         },
         {
             "position": "21",
-            "driver": "sargeant",
-            "points": "0"
+            "driver": "sargeant"
         }
     ],
     "4": [
         {
             "position": "1",
-            "driver": "max_verstappen",
-            "points": "77"
+            "driver": "max_verstappen"
         },
         {
             "position": "2",
-            "driver": "perez",
-            "points": "64"
+            "driver": "perez"
         },
         {
             "position": "3",
-            "driver": "leclerc",
-            "points": "59"
+            "driver": "leclerc"
         },
         {
             "position": "4",
-            "driver": "sainz",
-            "points": "55"
+            "driver": "sainz"
         },
         {
             "position": "5",
-            "driver": "norris",
-            "points": "37"
+            "driver": "norris"
         },
         {
             "position": "6",
-            "driver": "piastri",
-            "points": "32"
+            "driver": "piastri"
         },
         {
             "position": "7",
-            "driver": "russell",
-            "points": "24"
+            "driver": "russell"
         },
         {
             "position": "8",
-            "driver": "alonso",
-            "points": "24"
+            "driver": "alonso"
         },
         {
             "position": "9",
-            "driver": "hamilton",
-            "points": "10"
+            "driver": "hamilton"
         },
         {
             "position": "10",
-            "driver": "stroll",
-            "points": "9"
+            "driver": "stroll"
         },
         {
             "position": "11",
-            "driver": "tsunoda",
-            "points": "7"
+            "driver": "tsunoda"
         },
         {
             "position": "12",
-            "driver": "bearman",
-            "points": "6"
+            "driver": "bearman"
         },
         {
             "position": "13",
-            "driver": "hulkenberg",
-            "points": "3"
+            "driver": "hulkenberg"
         },
         {
             "position": "14",
-            "driver": "kevin_magnussen",
-            "points": "1"
+            "driver": "kevin_magnussen"
         },
         {
             "position": "15",
-            "driver": "albon",
-            "points": "0"
+            "driver": "albon"
         },
         {
             "position": "16",
-            "driver": "zhou",
-            "points": "0"
+            "driver": "zhou"
         },
         {
             "position": "17",
-            "driver": "ricciardo",
-            "points": "0"
+            "driver": "ricciardo"
         },
         {
             "position": "18",
-            "driver": "ocon",
-            "points": "0"
+            "driver": "ocon"
         },
         {
             "position": "19",
-            "driver": "gasly",
-            "points": "0"
+            "driver": "gasly"
         },
         {
             "position": "20",
-            "driver": "bottas",
-            "points": "0"
+            "driver": "bottas"
         },
         {
             "position": "21",
-            "driver": "sargeant",
-            "points": "0"
+            "driver": "sargeant"
         }
     ],
     "5": [
         {
             "position": "1",
-            "driver": "max_verstappen",
-            "points": "110"
+            "driver": "max_verstappen"
         },
         {
             "position": "2",
-            "driver": "perez",
-            "points": "85"
+            "driver": "perez"
         },
         {
             "position": "3",
-            "driver": "leclerc",
-            "points": "76"
+            "driver": "leclerc"
         },
         {
             "position": "4",
-            "driver": "sainz",
-            "points": "69"
+            "driver": "sainz"
         },
         {
             "position": "5",
-            "driver": "norris",
-            "points": "58"
+            "driver": "norris"
         },
         {
             "position": "6",
-            "driver": "piastri",
-            "points": "38"
+            "driver": "piastri"
         },
         {
             "position": "7",
-            "driver": "russell",
-            "points": "33"
+            "driver": "russell"
         },
         {
             "position": "8",
-            "driver": "alonso",
-            "points": "31"
+            "driver": "alonso"
         },
         {
             "position": "9",
-            "driver": "hamilton",
-            "points": "19"
+            "driver": "hamilton"
         },
         {
             "position": "10",
-            "driver": "stroll",
-            "points": "9"
+            "driver": "stroll"
         },
         {
             "position": "11",
-            "driver": "tsunoda",
-            "points": "7"
+            "driver": "tsunoda"
         },
         {
             "position": "12",
-            "driver": "bearman",
-            "points": "6"
+            "driver": "bearman"
         },
         {
             "position": "13",
-            "driver": "hulkenberg",
-            "points": "4"
+            "driver": "hulkenberg"
         },
         {
             "position": "14",
-            "driver": "kevin_magnussen",
-            "points": "1"
+            "driver": "kevin_magnussen"
         },
         {
             "position": "15",
-            "driver": "albon",
-            "points": "0"
+            "driver": "albon"
         },
         {
             "position": "16",
-            "driver": "ocon",
-            "points": "0"
+            "driver": "ocon"
         },
         {
             "position": "17",
-            "driver": "zhou",
-            "points": "0"
+            "driver": "zhou"
         },
         {
             "position": "18",
-            "driver": "ricciardo",
-            "points": "0"
+            "driver": "ricciardo"
         },
         {
             "position": "19",
-            "driver": "gasly",
-            "points": "0"
+            "driver": "gasly"
         },
         {
             "position": "20",
-            "driver": "bottas",
-            "points": "0"
+            "driver": "bottas"
         },
         {
             "position": "21",
-            "driver": "sargeant",
-            "points": "0"
+            "driver": "sargeant"
         }
     ],
     "6": [
         {
             "position": "1",
-            "driver": "max_verstappen",
-            "points": "136"
+            "driver": "max_verstappen"
         },
         {
             "position": "2",
-            "driver": "perez",
-            "points": "103"
+            "driver": "perez"
         },
         {
             "position": "3",
-            "driver": "leclerc",
-            "points": "98"
+            "driver": "leclerc"
         },
         {
             "position": "4",
-            "driver": "norris",
-            "points": "83"
+            "driver": "norris"
         },
         {
             "position": "5",
-            "driver": "sainz",
-            "points": "83"
+            "driver": "sainz"
         },
         {
             "position": "6",
-            "driver": "piastri",
-            "points": "41"
+            "driver": "piastri"
         },
         {
             "position": "7",
-            "driver": "russell",
-            "points": "37"
+            "driver": "russell"
         },
         {
             "position": "8",
-            "driver": "alonso",
-            "points": "33"
+            "driver": "alonso"
         },
         {
             "position": "9",
-            "driver": "hamilton",
-            "points": "27"
+            "driver": "hamilton"
         },
         {
             "position": "10",
-            "driver": "tsunoda",
-            "points": "14"
+            "driver": "tsunoda"
         },
         {
             "position": "11",
-            "driver": "stroll",
-            "points": "9"
+            "driver": "stroll"
         },
         {
             "position": "12",
-            "driver": "bearman",
-            "points": "6"
+            "driver": "bearman"
         },
         {
             "position": "13",
-            "driver": "hulkenberg",
-            "points": "6"
+            "driver": "hulkenberg"
         },
         {
             "position": "14",
-            "driver": "ricciardo",
-            "points": "5"
+            "driver": "ricciardo"
         },
         {
             "position": "15",
-            "driver": "ocon",
-            "points": "1"
+            "driver": "ocon"
         },
         {
             "position": "16",
-            "driver": "kevin_magnussen",
-            "points": "1"
+            "driver": "kevin_magnussen"
         },
         {
             "position": "17",
-            "driver": "albon",
-            "points": "0"
+            "driver": "albon"
         },
         {
             "position": "18",
-            "driver": "zhou",
-            "points": "0"
+            "driver": "zhou"
         },
         {
             "position": "19",
-            "driver": "gasly",
-            "points": "0"
+            "driver": "gasly"
         },
         {
             "position": "20",
-            "driver": "bottas",
-            "points": "0"
+            "driver": "bottas"
         },
         {
             "position": "21",
-            "driver": "sargeant",
-            "points": "0"
+            "driver": "sargeant"
         }
     ],
     "7": [
         {
             "position": "1",
-            "driver": "max_verstappen",
-            "points": "161"
+            "driver": "max_verstappen"
         },
         {
             "position": "2",
-            "driver": "leclerc",
-            "points": "113"
+            "driver": "leclerc"
         },
         {
             "position": "3",
-            "driver": "perez",
-            "points": "107"
+            "driver": "perez"
         },
         {
             "position": "4",
-            "driver": "norris",
-            "points": "101"
+            "driver": "norris"
         },
         {
             "position": "5",
-            "driver": "sainz",
-            "points": "93"
+            "driver": "sainz"
         },
         {
             "position": "6",
-            "driver": "piastri",
-            "points": "53"
+            "driver": "piastri"
         },
         {
             "position": "7",
-            "driver": "russell",
-            "points": "44"
+            "driver": "russell"
         },
         {
             "position": "8",
-            "driver": "hamilton",
-            "points": "35"
+            "driver": "hamilton"
         },
         {
             "position": "9",
-            "driver": "alonso",
-            "points": "33"
+            "driver": "alonso"
         },
         {
             "position": "10",
-            "driver": "tsunoda",
-            "points": "15"
+            "driver": "tsunoda"
         },
         {
             "position": "11",
-            "driver": "stroll",
-            "points": "11"
+            "driver": "stroll"
         },
         {
             "position": "12",
-            "driver": "bearman",
-            "points": "6"
+            "driver": "bearman"
         },
         {
             "position": "13",
-            "driver": "hulkenberg",
-            "points": "6"
+            "driver": "hulkenberg"
         },
         {
             "position": "14",
-            "driver": "ricciardo",
-            "points": "5"
+            "driver": "ricciardo"
         },
         {
             "position": "15",
-            "driver": "ocon",
-            "points": "1"
+            "driver": "ocon"
         },
         {
             "position": "16",
-            "driver": "kevin_magnussen",
-            "points": "1"
+            "driver": "kevin_magnussen"
         },
         {
             "position": "17",
-            "driver": "albon",
-            "points": "0"
+            "driver": "albon"
         },
         {
             "position": "18",
-            "driver": "zhou",
-            "points": "0"
+            "driver": "zhou"
         },
         {
             "position": "19",
-            "driver": "gasly",
-            "points": "0"
+            "driver": "gasly"
         },
         {
             "position": "20",
-            "driver": "bottas",
-            "points": "0"
+            "driver": "bottas"
         },
         {
             "position": "21",
-            "driver": "sargeant",
-            "points": "0"
+            "driver": "sargeant"
         }
     ],
     "8": [
         {
             "position": "1",
-            "driver": "max_verstappen",
-            "points": "169"
+            "driver": "max_verstappen"
         },
         {
             "position": "2",
-            "driver": "leclerc",
-            "points": "138"
+            "driver": "leclerc"
         },
         {
             "position": "3",
-            "driver": "norris",
-            "points": "113"
+            "driver": "norris"
         },
         {
             "position": "4",
-            "driver": "sainz",
-            "points": "108"
+            "driver": "sainz"
         },
         {
             "position": "5",
-            "driver": "perez",
-            "points": "107"
+            "driver": "perez"
         },
         {
             "position": "6",
-            "driver": "piastri",
-            "points": "71"
+            "driver": "piastri"
         },
         {
             "position": "7",
-            "driver": "russell",
-            "points": "54"
+            "driver": "russell"
         },
         {
             "position": "8",
-            "driver": "hamilton",
-            "points": "42"
+            "driver": "hamilton"
         },
         {
             "position": "9",
-            "driver": "alonso",
-            "points": "33"
+            "driver": "alonso"
         },
         {
             "position": "10",
-            "driver": "tsunoda",
-            "points": "19"
+            "driver": "tsunoda"
         },
         {
             "position": "11",
-            "driver": "stroll",
-            "points": "11"
+            "driver": "stroll"
         },
         {
             "position": "12",
-            "driver": "bearman",
-            "points": "6"
+            "driver": "bearman"
         },
         {
             "position": "13",
-            "driver": "hulkenberg",
-            "points": "6"
+            "driver": "hulkenberg"
         },
         {
             "position": "14",
-            "driver": "ricciardo",
-            "points": "5"
+            "driver": "ricciardo"
         },
         {
             "position": "15",
-            "driver": "albon",
-            "points": "2"
+            "driver": "albon"
         },
         {
             "position": "16",
-            "driver": "ocon",
-            "points": "1"
+            "driver": "ocon"
         },
         {
             "position": "17",
-            "driver": "kevin_magnussen",
-            "points": "1"
+            "driver": "kevin_magnussen"
         },
         {
             "position": "18",
-            "driver": "gasly",
-            "points": "1"
+            "driver": "gasly"
         },
         {
             "position": "19",
-            "driver": "zhou",
-            "points": "0"
+            "driver": "zhou"
         },
         {
             "position": "20",
-            "driver": "bottas",
-            "points": "0"
+            "driver": "bottas"
         },
         {
             "position": "21",
-            "driver": "sargeant",
-            "points": "0"
+            "driver": "sargeant"
         }
     ],
     "9": [
         {
             "position": "1",
-            "driver": "max_verstappen",
-            "points": "194"
+            "driver": "max_verstappen"
         },
         {
             "position": "2",
-            "driver": "leclerc",
-            "points": "138"
+            "driver": "leclerc"
         },
         {
             "position": "3",
-            "driver": "norris",
-            "points": "131"
+            "driver": "norris"
         },
         {
             "position": "4",
-            "driver": "sainz",
-            "points": "108"
+            "driver": "sainz"
         },
         {
             "position": "5",
-            "driver": "perez",
-            "points": "107"
+            "driver": "perez"
         },
         {
             "position": "6",
-            "driver": "piastri",
-            "points": "81"
+            "driver": "piastri"
         },
         {
             "position": "7",
-            "driver": "russell",
-            "points": "69"
+            "driver": "russell"
         },
         {
             "position": "8",
-            "driver": "hamilton",
-            "points": "55"
+            "driver": "hamilton"
         },
         {
             "position": "9",
-            "driver": "alonso",
-            "points": "41"
+            "driver": "alonso"
         },
         {
             "position": "10",
-            "driver": "tsunoda",
-            "points": "19"
+            "driver": "tsunoda"
         },
         {
             "position": "11",
-            "driver": "stroll",
-            "points": "17"
+            "driver": "stroll"
         },
         {
             "position": "12",
-            "driver": "ricciardo",
-            "points": "9"
+            "driver": "ricciardo"
         },
         {
             "position": "13",
-            "driver": "bearman",
-            "points": "6"
+            "driver": "bearman"
         },
         {
             "position": "14",
-            "driver": "hulkenberg",
-            "points": "6"
+            "driver": "hulkenberg"
         },
         {
             "position": "15",
-            "driver": "gasly",
-            "points": "3"
+            "driver": "gasly"
         },
         {
             "position": "16",
-            "driver": "albon",
-            "points": "2"
+            "driver": "albon"
         },
         {
             "position": "17",
-            "driver": "ocon",
-            "points": "2"
+            "driver": "ocon"
         },
         {
             "position": "18",
-            "driver": "kevin_magnussen",
-            "points": "1"
+            "driver": "kevin_magnussen"
         },
         {
             "position": "19",
-            "driver": "zhou",
-            "points": "0"
+            "driver": "zhou"
         },
         {
             "position": "20",
-            "driver": "bottas",
-            "points": "0"
+            "driver": "bottas"
         },
         {
             "position": "21",
-            "driver": "sargeant",
-            "points": "0"
+            "driver": "sargeant"
         }
     ],
     "10": [
         {
             "position": "1",
-            "driver": "max_verstappen",
-            "points": "219"
+            "driver": "max_verstappen"
         },
         {
             "position": "2",
-            "driver": "norris",
-            "points": "150"
+            "driver": "norris"
         },
         {
             "position": "3",
-            "driver": "leclerc",
-            "points": "148"
+            "driver": "leclerc"
         },
         {
             "position": "4",
-            "driver": "sainz",
-            "points": "116"
+            "driver": "sainz"
         },
         {
             "position": "5",
-            "driver": "perez",
-            "points": "111"
+            "driver": "perez"
         },
         {
             "position": "6",
-            "driver": "piastri",
-            "points": "87"
+            "driver": "piastri"
         },
         {
             "position": "7",
-            "driver": "russell",
-            "points": "81"
+            "driver": "russell"
         },
         {
             "position": "8",
-            "driver": "hamilton",
-            "points": "70"
+            "driver": "hamilton"
         },
         {
             "position": "9",
-            "driver": "alonso",
-            "points": "41"
+            "driver": "alonso"
         },
         {
             "position": "10",
-            "driver": "tsunoda",
-            "points": "19"
+            "driver": "tsunoda"
         },
         {
             "position": "11",
-            "driver": "stroll",
-            "points": "17"
+            "driver": "stroll"
         },
         {
             "position": "12",
-            "driver": "ricciardo",
-            "points": "9"
+            "driver": "ricciardo"
         },
         {
             "position": "13",
-            "driver": "bearman",
-            "points": "6"
+            "driver": "bearman"
         },
         {
             "position": "14",
-            "driver": "hulkenberg",
-            "points": "6"
+            "driver": "hulkenberg"
         },
         {
             "position": "15",
-            "driver": "gasly",
-            "points": "5"
+            "driver": "gasly"
         },
         {
             "position": "16",
-            "driver": "ocon",
-            "points": "3"
+            "driver": "ocon"
         },
         {
             "position": "17",
-            "driver": "albon",
-            "points": "2"
+            "driver": "albon"
         },
         {
             "position": "18",
-            "driver": "kevin_magnussen",
-            "points": "1"
+            "driver": "kevin_magnussen"
         },
         {
             "position": "19",
-            "driver": "zhou",
-            "points": "0"
+            "driver": "zhou"
         },
         {
             "position": "20",
-            "driver": "bottas",
-            "points": "0"
+            "driver": "bottas"
         },
         {
             "position": "21",
-            "driver": "sargeant",
-            "points": "0"
+            "driver": "sargeant"
         }
     ],
     "11": [
         {
             "position": "1",
-            "driver": "max_verstappen",
-            "points": "237"
+            "driver": "max_verstappen"
         },
         {
             "position": "2",
-            "driver": "norris",
-            "points": "156"
+            "driver": "norris"
         },
         {
             "position": "3",
-            "driver": "leclerc",
-            "points": "150"
+            "driver": "leclerc"
         },
         {
             "position": "4",
-            "driver": "sainz",
-            "points": "135"
+            "driver": "sainz"
         },
         {
             "position": "5",
-            "driver": "perez",
-            "points": "118"
+            "driver": "perez"
         },
         {
             "position": "6",
-            "driver": "piastri",
-            "points": "112"
+            "driver": "piastri"
         },
         {
             "position": "7",
-            "driver": "russell",
-            "points": "111"
+            "driver": "russell"
         },
         {
             "position": "8",
-            "driver": "hamilton",
-            "points": "85"
+            "driver": "hamilton"
         },
         {
             "position": "9",
-            "driver": "alonso",
-            "points": "41"
+            "driver": "alonso"
         },
         {
             "position": "10",
-            "driver": "tsunoda",
-            "points": "19"
+            "driver": "tsunoda"
         },
         {
             "position": "11",
-            "driver": "stroll",
-            "points": "17"
+            "driver": "stroll"
         },
         {
             "position": "12",
-            "driver": "hulkenberg",
-            "points": "14"
+            "driver": "hulkenberg"
         },
         {
             "position": "13",
-            "driver": "ricciardo",
-            "points": "11"
+            "driver": "ricciardo"
         },
         {
             "position": "14",
-            "driver": "bearman",
-            "points": "6"
+            "driver": "bearman"
         },
         {
             "position": "15",
-            "driver": "gasly",
-            "points": "6"
+            "driver": "gasly"
         },
         {
             "position": "16",
-            "driver": "kevin_magnussen",
-            "points": "5"
+            "driver": "kevin_magnussen"
         },
         {
             "position": "17",
-            "driver": "ocon",
-            "points": "3"
+            "driver": "ocon"
         },
         {
             "position": "18",
-            "driver": "albon",
-            "points": "2"
+            "driver": "albon"
         },
         {
             "position": "19",
-            "driver": "zhou",
-            "points": "0"
+            "driver": "zhou"
         },
         {
             "position": "20",
-            "driver": "bottas",
-            "points": "0"
+            "driver": "bottas"
         },
         {
             "position": "21",
-            "driver": "sargeant",
-            "points": "0"
+            "driver": "sargeant"
         }
     ],
     "12": [
         {
             "position": "1",
-            "driver": "max_verstappen",
-            "points": "255"
+            "driver": "max_verstappen"
         },
         {
             "position": "2",
-            "driver": "norris",
-            "points": "171"
+            "driver": "norris"
         },
         {
             "position": "3",
-            "driver": "leclerc",
-            "points": "150"
+            "driver": "leclerc"
         },
         {
             "position": "4",
-            "driver": "sainz",
-            "points": "146"
+            "driver": "sainz"
         },
         {
             "position": "5",
-            "driver": "piastri",
-            "points": "124"
+            "driver": "piastri"
         },
         {
             "position": "6",
-            "driver": "perez",
-            "points": "118"
+            "driver": "perez"
         },
         {
             "position": "7",
-            "driver": "russell",
-            "points": "111"
+            "driver": "russell"
         },
         {
             "position": "8",
-            "driver": "hamilton",
-            "points": "110"
+            "driver": "hamilton"
         },
         {
             "position": "9",
-            "driver": "alonso",
-            "points": "45"
+            "driver": "alonso"
         },
         {
             "position": "10",
-            "driver": "stroll",
-            "points": "23"
+            "driver": "stroll"
         },
         {
             "position": "11",
-            "driver": "hulkenberg",
-            "points": "22"
+            "driver": "hulkenberg"
         },
         {
             "position": "12",
-            "driver": "tsunoda",
-            "points": "20"
+            "driver": "tsunoda"
         },
         {
             "position": "13",
-            "driver": "ricciardo",
-            "points": "11"
+            "driver": "ricciardo"
         },
         {
             "position": "14",
-            "driver": "bearman",
-            "points": "6"
+            "driver": "bearman"
         },
         {
             "position": "15",
-            "driver": "gasly",
-            "points": "6"
+            "driver": "gasly"
         },
         {
             "position": "16",
-            "driver": "kevin_magnussen",
-            "points": "5"
+            "driver": "kevin_magnussen"
         },
         {
             "position": "17",
-            "driver": "albon",
-            "points": "4"
+            "driver": "albon"
         },
         {
             "position": "18",
-            "driver": "ocon",
-            "points": "3"
+            "driver": "ocon"
         },
         {
             "position": "19",
-            "driver": "zhou",
-            "points": "0"
+            "driver": "zhou"
         },
         {
             "position": "20",
-            "driver": "sargeant",
-            "points": "0"
+            "driver": "sargeant"
         },
         {
             "position": "21",
-            "driver": "bottas",
-            "points": "0"
+            "driver": "bottas"
         }
     ],
     "13": [
         {
             "position": "1",
-            "driver": "max_verstappen",
-            "points": "265"
+            "driver": "max_verstappen"
         },
         {
             "position": "2",
-            "driver": "norris",
-            "points": "189"
+            "driver": "norris"
         },
         {
             "position": "3",
-            "driver": "leclerc",
-            "points": "162"
+            "driver": "leclerc"
         },
         {
             "position": "4",
-            "driver": "sainz",
-            "points": "154"
+            "driver": "sainz"
         },
         {
             "position": "5",
-            "driver": "piastri",
-            "points": "149"
+            "driver": "piastri"
         },
         {
             "position": "6",
-            "driver": "hamilton",
-            "points": "125"
+            "driver": "hamilton"
         },
         {
             "position": "7",
-            "driver": "perez",
-            "points": "124"
+            "driver": "perez"
         },
         {
             "position": "8",
-            "driver": "russell",
-            "points": "116"
+            "driver": "russell"
         },
         {
             "position": "9",
-            "driver": "alonso",
-            "points": "45"
+            "driver": "alonso"
         },
         {
             "position": "10",
-            "driver": "stroll",
-            "points": "24"
+            "driver": "stroll"
         },
         {
             "position": "11",
-            "driver": "hulkenberg",
-            "points": "22"
+            "driver": "hulkenberg"
         },
         {
             "position": "12",
-            "driver": "tsunoda",
-            "points": "22"
+            "driver": "tsunoda"
         },
         {
             "position": "13",
-            "driver": "ricciardo",
-            "points": "11"
+            "driver": "ricciardo"
         },
         {
             "position": "14",
-            "driver": "bearman",
-            "points": "6"
+            "driver": "bearman"
         },
         {
             "position": "15",
-            "driver": "gasly",
-            "points": "6"
+            "driver": "gasly"
         },
         {
             "position": "16",
-            "driver": "kevin_magnussen",
-            "points": "5"
+            "driver": "kevin_magnussen"
         },
         {
             "position": "17",
-            "driver": "albon",
-            "points": "4"
+            "driver": "albon"
         },
         {
             "position": "18",
-            "driver": "ocon",
-            "points": "3"
+            "driver": "ocon"
         },
         {
             "position": "19",
-            "driver": "zhou",
-            "points": "0"
+            "driver": "zhou"
         },
         {
             "position": "20",
-            "driver": "sargeant",
-            "points": "0"
+            "driver": "sargeant"
         },
         {
             "position": "21",
-            "driver": "bottas",
-            "points": "0"
+            "driver": "bottas"
         }
     ],
     "14": [
         {
             "position": "1",
-            "driver": "max_verstappen",
-            "points": "277"
+            "driver": "max_verstappen"
         },
         {
             "position": "2",
-            "driver": "norris",
-            "points": "199"
+            "driver": "norris"
         },
         {
             "position": "3",
-            "driver": "leclerc",
-            "points": "177"
+            "driver": "leclerc"
         },
         {
             "position": "4",
-            "driver": "piastri",
-            "points": "167"
+            "driver": "piastri"
         },
         {
             "position": "5",
-            "driver": "sainz",
-            "points": "162"
+            "driver": "sainz"
         },
         {
             "position": "6",
-            "driver": "hamilton",
-            "points": "150"
+            "driver": "hamilton"
         },
         {
             "position": "7",
-            "driver": "perez",
-            "points": "131"
+            "driver": "perez"
         },
         {
             "position": "8",
-            "driver": "russell",
-            "points": "116"
+            "driver": "russell"
         },
         {
             "position": "9",
-            "driver": "alonso",
-            "points": "49"
+            "driver": "alonso"
         },
         {
             "position": "10",
-            "driver": "stroll",
-            "points": "24"
+            "driver": "stroll"
         },
         {
             "position": "11",
-            "driver": "hulkenberg",
-            "points": "22"
+            "driver": "hulkenberg"
         },
         {
             "position": "12",
-            "driver": "tsunoda",
-            "points": "22"
+            "driver": "tsunoda"
         },
         {
             "position": "13",
-            "driver": "ricciardo",
-            "points": "12"
+            "driver": "ricciardo"
         },
         {
             "position": "14",
-            "driver": "bearman",
-            "points": "6"
+            "driver": "bearman"
         },
         {
             "position": "15",
-            "driver": "gasly",
-            "points": "6"
+            "driver": "gasly"
         },
         {
             "position": "16",
-            "driver": "kevin_magnussen",
-            "points": "5"
+            "driver": "kevin_magnussen"
         },
         {
             "position": "17",
-            "driver": "ocon",
-            "points": "5"
+            "driver": "ocon"
         },
         {
             "position": "18",
-            "driver": "albon",
-            "points": "4"
+            "driver": "albon"
         },
         {
             "position": "19",
-            "driver": "zhou",
-            "points": "0"
+            "driver": "zhou"
         },
         {
             "position": "20",
-            "driver": "sargeant",
-            "points": "0"
+            "driver": "sargeant"
         },
         {
             "position": "21",
-            "driver": "bottas",
-            "points": "0"
+            "driver": "bottas"
         }
     ],
     "15": [
         {
             "position": "1",
-            "driver": "max_verstappen",
-            "points": "295"
+            "driver": "max_verstappen"
         },
         {
             "position": "2",
-            "driver": "norris",
-            "points": "225"
+            "driver": "norris"
         },
         {
             "position": "3",
-            "driver": "leclerc",
-            "points": "192"
+            "driver": "leclerc"
         },
         {
             "position": "4",
-            "driver": "piastri",
-            "points": "179"
+            "driver": "piastri"
         },
         {
             "position": "5",
-            "driver": "sainz",
-            "points": "172"
+            "driver": "sainz"
         },
         {
             "position": "6",
-            "driver": "hamilton",
-            "points": "154"
+            "driver": "hamilton"
         },
         {
             "position": "7",
-            "driver": "perez",
-            "points": "139"
+            "driver": "perez"
         },
         {
             "position": "8",
-            "driver": "russell",
-            "points": "122"
+            "driver": "russell"
         },
         {
             "position": "9",
-            "driver": "alonso",
-            "points": "50"
+            "driver": "alonso"
         },
         {
             "position": "10",
-            "driver": "stroll",
-            "points": "24"
+            "driver": "stroll"
         },
         {
             "position": "11",
-            "driver": "hulkenberg",
-            "points": "22"
+            "driver": "hulkenberg"
         },
         {
             "position": "12",
-            "driver": "tsunoda",
-            "points": "22"
+            "driver": "tsunoda"
         },
         {
             "position": "13",
-            "driver": "ricciardo",
-            "points": "12"
+            "driver": "ricciardo"
         },
         {
             "position": "14",
-            "driver": "gasly",
-            "points": "8"
+            "driver": "gasly"
         },
         {
             "position": "15",
-            "driver": "bearman",
-            "points": "6"
+            "driver": "bearman"
         },
         {
             "position": "16",
-            "driver": "kevin_magnussen",
-            "points": "5"
+            "driver": "kevin_magnussen"
         },
         {
             "position": "17",
-            "driver": "ocon",
-            "points": "5"
+            "driver": "ocon"
         },
         {
             "position": "18",
-            "driver": "albon",
-            "points": "4"
+            "driver": "albon"
         },
         {
             "position": "19",
-            "driver": "zhou",
-            "points": "0"
+            "driver": "zhou"
         },
         {
             "position": "20",
-            "driver": "sargeant",
-            "points": "0"
+            "driver": "sargeant"
         },
         {
             "position": "21",
-            "driver": "bottas",
-            "points": "0"
+            "driver": "bottas"
         }
     ],
     "16": [
         {
             "position": "1",
-            "driver": "max_verstappen",
-            "points": "303"
+            "driver": "max_verstappen"
         },
         {
             "position": "2",
-            "driver": "norris",
-            "points": "241"
+            "driver": "norris"
         },
         {
             "position": "3",
-            "driver": "leclerc",
-            "points": "217"
+            "driver": "leclerc"
         },
         {
             "position": "4",
-            "driver": "piastri",
-            "points": "197"
+            "driver": "piastri"
         },
         {
             "position": "5",
-            "driver": "sainz",
-            "points": "184"
+            "driver": "sainz"
         },
         {
             "position": "6",
-            "driver": "hamilton",
-            "points": "164"
+            "driver": "hamilton"
         },
         {
             "position": "7",
-            "driver": "perez",
-            "points": "143"
+            "driver": "perez"
         },
         {
             "position": "8",
-            "driver": "russell",
-            "points": "128"
+            "driver": "russell"
         },
         {
             "position": "9",
-            "driver": "alonso",
-            "points": "50"
+            "driver": "alonso"
         },
         {
             "position": "10",
-            "driver": "stroll",
-            "points": "24"
+            "driver": "stroll"
         },
         {
             "position": "11",
-            "driver": "hulkenberg",
-            "points": "22"
+            "driver": "hulkenberg"
         },
         {
             "position": "12",
-            "driver": "tsunoda",
-            "points": "22"
+            "driver": "tsunoda"
         },
         {
             "position": "13",
-            "driver": "ricciardo",
-            "points": "12"
+            "driver": "ricciardo"
         },
         {
             "position": "14",
-            "driver": "gasly",
-            "points": "8"
+            "driver": "gasly"
         },
         {
             "position": "15",
-            "driver": "bearman",
-            "points": "6"
+            "driver": "bearman"
         },
         {
             "position": "16",
-            "driver": "kevin_magnussen",
-            "points": "6"
+            "driver": "kevin_magnussen"
         },
         {
             "position": "17",
-            "driver": "albon",
-            "points": "6"
+            "driver": "albon"
         },
         {
             "position": "18",
-            "driver": "ocon",
-            "points": "5"
+            "driver": "ocon"
         },
         {
             "position": "19",
-            "driver": "zhou",
-            "points": "0"
+            "driver": "zhou"
         },
         {
             "position": "20",
-            "driver": "sargeant",
-            "points": "0"
+            "driver": "sargeant"
         },
         {
             "position": "21",
-            "driver": "colapinto",
-            "points": "0"
+            "driver": "colapinto"
         },
         {
             "position": "22",
-            "driver": "bottas",
-            "points": "0"
+            "driver": "bottas"
         }
     ],
     "17": [
         {
             "position": "1",
-            "driver": "max_verstappen",
-            "points": "313"
+            "driver": "max_verstappen"
         },
         {
             "position": "2",
-            "driver": "norris",
-            "points": "254"
+            "driver": "norris"
         },
         {
             "position": "3",
-            "driver": "leclerc",
-            "points": "235"
+            "driver": "leclerc"
         },
         {
             "position": "4",
-            "driver": "piastri",
-            "points": "222"
+            "driver": "piastri"
         },
         {
             "position": "5",
-            "driver": "sainz",
-            "points": "184"
+            "driver": "sainz"
         },
         {
             "position": "6",
-            "driver": "hamilton",
-            "points": "166"
+            "driver": "hamilton"
         },
         {
             "position": "7",
-            "driver": "russell",
-            "points": "143"
+            "driver": "russell"
         },
         {
             "position": "8",
-            "driver": "perez",
-            "points": "143"
+            "driver": "perez"
         },
         {
             "position": "9",
-            "driver": "alonso",
-            "points": "58"
+            "driver": "alonso"
         },
         {
             "position": "10",
-            "driver": "stroll",
-            "points": "24"
+            "driver": "stroll"
         },
         {
             "position": "11",
-            "driver": "hulkenberg",
-            "points": "22"
+            "driver": "hulkenberg"
         },
         {
             "position": "12",
-            "driver": "tsunoda",
-            "points": "22"
+            "driver": "tsunoda"
         },
         {
             "position": "13",
-            "driver": "albon",
-            "points": "12"
+            "driver": "albon"
         },
         {
             "position": "14",
-            "driver": "ricciardo",
-            "points": "12"
+            "driver": "ricciardo"
         },
         {
             "position": "15",
-            "driver": "gasly",
-            "points": "8"
+            "driver": "gasly"
         },
         {
             "position": "16",
-            "driver": "bearman",
-            "points": "7"
+            "driver": "bearman"
         },
         {
             "position": "17",
-            "driver": "kevin_magnussen",
-            "points": "6"
+            "driver": "kevin_magnussen"
         },
         {
             "position": "18",
-            "driver": "ocon",
-            "points": "5"
+            "driver": "ocon"
         },
         {
             "position": "19",
-            "driver": "colapinto",
-            "points": "4"
+            "driver": "colapinto"
         },
         {
             "position": "20",
-            "driver": "zhou",
-            "points": "0"
+            "driver": "zhou"
         },
         {
             "position": "21",
-            "driver": "sargeant",
-            "points": "0"
+            "driver": "sargeant"
         },
         {
             "position": "22",
-            "driver": "bottas",
-            "points": "0"
+            "driver": "bottas"
         }
     ],
     "18": [
         {
             "position": "1",
-            "driver": "max_verstappen",
-            "points": "331"
+            "driver": "max_verstappen"
         },
         {
             "position": "2",
-            "driver": "norris",
-            "points": "279"
+            "driver": "norris"
         },
         {
             "position": "3",
-            "driver": "leclerc",
-            "points": "245"
+            "driver": "leclerc"
         },
         {
             "position": "4",
-            "driver": "piastri",
-            "points": "237"
+            "driver": "piastri"
         },
         {
             "position": "5",
-            "driver": "sainz",
-            "points": "190"
+            "driver": "sainz"
         },
         {
             "position": "6",
-            "driver": "hamilton",
-            "points": "174"
+            "driver": "hamilton"
         },
         {
             "position": "7",
-            "driver": "russell",
-            "points": "155"
+            "driver": "russell"
         },
         {
             "position": "8",
-            "driver": "perez",
-            "points": "144"
+            "driver": "perez"
         },
         {
             "position": "9",
-            "driver": "alonso",
-            "points": "62"
+            "driver": "alonso"
         },
         {
             "position": "10",
-            "driver": "hulkenberg",
-            "points": "24"
+            "driver": "hulkenberg"
         },
         {
             "position": "11",
-            "driver": "stroll",
-            "points": "24"
+            "driver": "stroll"
         },
         {
             "position": "12",
-            "driver": "tsunoda",
-            "points": "22"
+            "driver": "tsunoda"
         },
         {
             "position": "13",
-            "driver": "albon",
-            "points": "12"
+            "driver": "albon"
         },
         {
             "position": "14",
-            "driver": "ricciardo",
-            "points": "12"
+            "driver": "ricciardo"
         },
         {
             "position": "15",
-            "driver": "gasly",
-            "points": "8"
+            "driver": "gasly"
         },
         {
             "position": "16",
-            "driver": "bearman",
-            "points": "7"
+            "driver": "bearman"
         },
         {
             "position": "17",
-            "driver": "kevin_magnussen",
-            "points": "6"
+            "driver": "kevin_magnussen"
         },
         {
             "position": "18",
-            "driver": "ocon",
-            "points": "5"
+            "driver": "ocon"
         },
         {
             "position": "19",
-            "driver": "colapinto",
-            "points": "4"
+            "driver": "colapinto"
         },
         {
             "position": "20",
-            "driver": "zhou",
-            "points": "0"
+            "driver": "zhou"
         },
         {
             "position": "21",
-            "driver": "sargeant",
-            "points": "0"
+            "driver": "sargeant"
         },
         {
             "position": "22",
-            "driver": "bottas",
-            "points": "0"
+            "driver": "bottas"
         }
     ],
     "19": [
         {
             "position": "1",
-            "driver": "max_verstappen",
-            "points": "354"
+            "driver": "max_verstappen"
         },
         {
             "position": "2",
-            "driver": "norris",
-            "points": "297"
+            "driver": "norris"
         },
         {
             "position": "3",
-            "driver": "leclerc",
-            "points": "275"
+            "driver": "leclerc"
         },
         {
             "position": "4",
-            "driver": "piastri",
-            "points": "247"
+            "driver": "piastri"
         },
         {
             "position": "5",
-            "driver": "sainz",
-            "points": "215"
+            "driver": "sainz"
         },
         {
             "position": "6",
-            "driver": "hamilton",
-            "points": "177"
+            "driver": "hamilton"
         },
         {
             "position": "7",
-            "driver": "russell",
-            "points": "167"
+            "driver": "russell"
         },
         {
             "position": "8",
-            "driver": "perez",
-            "points": "150"
+            "driver": "perez"
         },
         {
             "position": "9",
-            "driver": "alonso",
-            "points": "62"
+            "driver": "alonso"
         },
         {
             "position": "10",
-            "driver": "hulkenberg",
-            "points": "29"
+            "driver": "hulkenberg"
         },
         {
             "position": "11",
-            "driver": "stroll",
-            "points": "24"
+            "driver": "stroll"
         },
         {
             "position": "12",
-            "driver": "tsunoda",
-            "points": "22"
+            "driver": "tsunoda"
         },
         {
             "position": "13",
-            "driver": "albon",
-            "points": "12"
+            "driver": "albon"
         },
         {
             "position": "14",
-            "driver": "ricciardo",
-            "points": "12"
+            "driver": "ricciardo"
         },
         {
             "position": "15",
-            "driver": "kevin_magnussen",
-            "points": "8"
+            "driver": "kevin_magnussen"
         },
         {
             "position": "16",
-            "driver": "gasly",
-            "points": "8"
+            "driver": "gasly"
         },
         {
             "position": "17",
-            "driver": "bearman",
-            "points": "7"
+            "driver": "bearman"
         },
         {
             "position": "18",
-            "driver": "colapinto",
-            "points": "5"
+            "driver": "colapinto"
         },
         {
             "position": "19",
-            "driver": "ocon",
-            "points": "5"
+            "driver": "ocon"
         },
         {
             "position": "20",
-            "driver": "lawson",
-            "points": "2"
+            "driver": "lawson"
         },
         {
             "position": "21",
-            "driver": "zhou",
-            "points": "0"
+            "driver": "zhou"
         },
         {
             "position": "22",
-            "driver": "sargeant",
-            "points": "0"
+            "driver": "sargeant"
         },
         {
             "position": "23",
-            "driver": "bottas",
-            "points": "0"
+            "driver": "bottas"
         }
     ],
     "20": [
         {
             "position": "1",
-            "driver": "max_verstappen",
-            "points": "362"
+            "driver": "max_verstappen"
         },
         {
             "position": "2",
-            "driver": "norris",
-            "points": "315"
+            "driver": "norris"
         },
         {
             "position": "3",
-            "driver": "leclerc",
-            "points": "291"
+            "driver": "leclerc"
         },
         {
             "position": "4",
-            "driver": "piastri",
-            "points": "251"
+            "driver": "piastri"
         },
         {
             "position": "5",
-            "driver": "sainz",
-            "points": "240"
+            "driver": "sainz"
         },
         {
             "position": "6",
-            "driver": "hamilton",
-            "points": "189"
+            "driver": "hamilton"
         },
         {
             "position": "7",
-            "driver": "russell",
-            "points": "177"
+            "driver": "russell"
         },
         {
             "position": "8",
-            "driver": "perez",
-            "points": "150"
+            "driver": "perez"
         },
         {
             "position": "9",
-            "driver": "alonso",
-            "points": "62"
+            "driver": "alonso"
         },
         {
             "position": "10",
-            "driver": "hulkenberg",
-            "points": "31"
+            "driver": "hulkenberg"
         },
         {
             "position": "11",
-            "driver": "stroll",
-            "points": "24"
+            "driver": "stroll"
         },
         {
             "position": "12",
-            "driver": "tsunoda",
-            "points": "22"
+            "driver": "tsunoda"
         },
         {
             "position": "13",
-            "driver": "kevin_magnussen",
-            "points": "14"
+            "driver": "kevin_magnussen"
         },
         {
             "position": "14",
-            "driver": "albon",
-            "points": "12"
+            "driver": "albon"
         },
         {
             "position": "15",
-            "driver": "ricciardo",
-            "points": "12"
+            "driver": "ricciardo"
         },
         {
             "position": "16",
-            "driver": "gasly",
-            "points": "9"
+            "driver": "gasly"
         },
         {
             "position": "17",
-            "driver": "bearman",
-            "points": "7"
+            "driver": "bearman"
         },
         {
             "position": "18",
-            "driver": "colapinto",
-            "points": "5"
+            "driver": "colapinto"
         },
         {
             "position": "19",
-            "driver": "ocon",
-            "points": "5"
+            "driver": "ocon"
         },
         {
             "position": "20",
-            "driver": "lawson",
-            "points": "2"
+            "driver": "lawson"
         },
         {
             "position": "21",
-            "driver": "zhou",
-            "points": "0"
+            "driver": "zhou"
         },
         {
             "position": "22",
-            "driver": "sargeant",
-            "points": "0"
+            "driver": "sargeant"
         },
         {
             "position": "23",
-            "driver": "bottas",
-            "points": "0"
+            "driver": "bottas"
         }
     ],
     "21": [
         {
             "position": "1",
-            "driver": "max_verstappen",
-            "points": "393"
+            "driver": "max_verstappen"
         },
         {
             "position": "2",
-            "driver": "norris",
-            "points": "331"
+            "driver": "norris"
         },
         {
             "position": "3",
-            "driver": "leclerc",
-            "points": "307"
+            "driver": "leclerc"
         },
         {
             "position": "4",
-            "driver": "piastri",
-            "points": "262"
+            "driver": "piastri"
         },
         {
             "position": "5",
-            "driver": "sainz",
-            "points": "244"
+            "driver": "sainz"
         },
         {
             "position": "6",
-            "driver": "russell",
-            "points": "192"
+            "driver": "russell"
         },
         {
             "position": "7",
-            "driver": "hamilton",
-            "points": "190"
+            "driver": "hamilton"
         },
         {
             "position": "8",
-            "driver": "perez",
-            "points": "151"
+            "driver": "perez"
         },
         {
             "position": "9",
-            "driver": "alonso",
-            "points": "62"
+            "driver": "alonso"
         },
         {
             "position": "10",
-            "driver": "hulkenberg",
-            "points": "31"
+            "driver": "hulkenberg"
         },
         {
             "position": "11",
-            "driver": "tsunoda",
-            "points": "28"
+            "driver": "tsunoda"
         },
         {
             "position": "12",
-            "driver": "gasly",
-            "points": "26"
+            "driver": "gasly"
         },
         {
             "position": "13",
-            "driver": "stroll",
-            "points": "24"
+            "driver": "stroll"
         },
         {
             "position": "14",
-            "driver": "ocon",
-            "points": "23"
+            "driver": "ocon"
         },
         {
             "position": "15",
-            "driver": "kevin_magnussen",
-            "points": "14"
+            "driver": "kevin_magnussen"
         },
         {
             "position": "16",
-            "driver": "albon",
-            "points": "12"
+            "driver": "albon"
         },
         {
             "position": "17",
-            "driver": "ricciardo",
-            "points": "12"
+            "driver": "ricciardo"
         },
         {
             "position": "18",
-            "driver": "bearman",
-            "points": "7"
+            "driver": "bearman"
         },
         {
             "position": "19",
-            "driver": "colapinto",
-            "points": "5"
+            "driver": "colapinto"
         },
         {
             "position": "20",
-            "driver": "lawson",
-            "points": "4"
+            "driver": "lawson"
         },
         {
             "position": "21",
-            "driver": "zhou",
-            "points": "0"
+            "driver": "zhou"
         },
         {
             "position": "22",
-            "driver": "sargeant",
-            "points": "0"
+            "driver": "sargeant"
         },
         {
             "position": "23",
-            "driver": "bottas",
-            "points": "0"
+            "driver": "bottas"
         }
     ],
     "22": [
         {
             "position": "1",
-            "driver": "max_verstappen",
-            "points": "403"
+            "driver": "max_verstappen"
         },
         {
             "position": "2",
-            "driver": "norris",
-            "points": "340"
+            "driver": "norris"
         },
         {
             "position": "3",
-            "driver": "leclerc",
-            "points": "319"
+            "driver": "leclerc"
         },
         {
             "position": "4",
-            "driver": "piastri",
-            "points": "268"
+            "driver": "piastri"
         },
         {
             "position": "5",
-            "driver": "sainz",
-            "points": "259"
+            "driver": "sainz"
         },
         {
             "position": "6",
-            "driver": "russell",
-            "points": "217"
+            "driver": "russell"
         },
         {
             "position": "7",
-            "driver": "hamilton",
-            "points": "208"
+            "driver": "hamilton"
         },
         {
             "position": "8",
-            "driver": "perez",
-            "points": "152"
+            "driver": "perez"
         },
         {
             "position": "9",
-            "driver": "alonso",
-            "points": "62"
+            "driver": "alonso"
         },
         {
             "position": "10",
-            "driver": "hulkenberg",
-            "points": "35"
+            "driver": "hulkenberg"
         },
         {
             "position": "11",
-            "driver": "tsunoda",
-            "points": "30"
+            "driver": "tsunoda"
         },
         {
             "position": "12",
-            "driver": "gasly",
-            "points": "26"
+            "driver": "gasly"
         },
         {
             "position": "13",
-            "driver": "stroll",
-            "points": "24"
+            "driver": "stroll"
         },
         {
             "position": "14",
-            "driver": "ocon",
-            "points": "23"
+            "driver": "ocon"
         },
         {
             "position": "15",
-            "driver": "kevin_magnussen",
-            "points": "14"
+            "driver": "kevin_magnussen"
         },
         {
             "position": "16",
-            "driver": "albon",
-            "points": "12"
+            "driver": "albon"
         },
         {
             "position": "17",
-            "driver": "ricciardo",
-            "points": "12"
+            "driver": "ricciardo"
         },
         {
             "position": "18",
-            "driver": "bearman",
-            "points": "7"
+            "driver": "bearman"
         },
         {
             "position": "19",
-            "driver": "colapinto",
-            "points": "5"
+            "driver": "colapinto"
         },
         {
             "position": "20",
-            "driver": "lawson",
-            "points": "4"
+            "driver": "lawson"
         },
         {
             "position": "21",
-            "driver": "zhou",
-            "points": "0"
+            "driver": "zhou"
         },
         {
             "position": "22",
-            "driver": "sargeant",
-            "points": "0"
+            "driver": "sargeant"
         },
         {
             "position": "23",
-            "driver": "bottas",
-            "points": "0"
+            "driver": "bottas"
         }
     ],
     "23": [
         {
             "position": "1",
-            "driver": "max_verstappen",
-            "points": "429"
+            "driver": "max_verstappen"
         },
         {
             "position": "2",
-            "driver": "norris",
-            "points": "349"
+            "driver": "norris"
         },
         {
             "position": "3",
-            "driver": "leclerc",
-            "points": "341"
+            "driver": "leclerc"
         },
         {
             "position": "4",
-            "driver": "piastri",
-            "points": "291"
+            "driver": "piastri"
         },
         {
             "position": "5",
-            "driver": "sainz",
-            "points": "272"
+            "driver": "sainz"
         },
         {
             "position": "6",
-            "driver": "russell",
-            "points": "235"
+            "driver": "russell"
         },
         {
             "position": "7",
-            "driver": "hamilton",
-            "points": "211"
+            "driver": "hamilton"
         },
         {
             "position": "8",
-            "driver": "perez",
-            "points": "152"
+            "driver": "perez"
         },
         {
             "position": "9",
-            "driver": "alonso",
-            "points": "68"
+            "driver": "alonso"
         },
         {
             "position": "10",
-            "driver": "hulkenberg",
-            "points": "37"
+            "driver": "hulkenberg"
         },
         {
             "position": "11",
-            "driver": "gasly",
-            "points": "36"
+            "driver": "gasly"
         },
         {
             "position": "12",
-            "driver": "tsunoda",
-            "points": "30"
+            "driver": "tsunoda"
         },
         {
             "position": "13",
-            "driver": "stroll",
-            "points": "24"
+            "driver": "stroll"
         },
         {
             "position": "14",
-            "driver": "ocon",
-            "points": "23"
+            "driver": "ocon"
         },
         {
             "position": "15",
-            "driver": "kevin_magnussen",
-            "points": "16"
+            "driver": "kevin_magnussen"
         },
         {
             "position": "16",
-            "driver": "albon",
-            "points": "12"
+            "driver": "albon"
         },
         {
             "position": "17",
-            "driver": "ricciardo",
-            "points": "12"
+            "driver": "ricciardo"
         },
         {
             "position": "18",
-            "driver": "bearman",
-            "points": "7"
+            "driver": "bearman"
         },
         {
             "position": "19",
-            "driver": "colapinto",
-            "points": "5"
+            "driver": "colapinto"
         },
         {
             "position": "20",
-            "driver": "zhou",
-            "points": "4"
+            "driver": "zhou"
         },
         {
             "position": "21",
-            "driver": "lawson",
-            "points": "4"
+            "driver": "lawson"
         },
         {
             "position": "22",
-            "driver": "bottas",
-            "points": "0"
+            "driver": "bottas"
         },
         {
             "position": "23",
-            "driver": "sargeant",
-            "points": "0"
+            "driver": "sargeant"
         }
     ],
     "24": [
         {
             "position": "1",
-            "driver": "max_verstappen",
-            "points": "437"
+            "driver": "max_verstappen"
         },
         {
             "position": "2",
-            "driver": "norris",
-            "points": "374"
+            "driver": "norris"
         },
         {
             "position": "3",
-            "driver": "leclerc",
-            "points": "356"
+            "driver": "leclerc"
         },
         {
             "position": "4",
-            "driver": "piastri",
-            "points": "292"
+            "driver": "piastri"
         },
         {
             "position": "5",
-            "driver": "sainz",
-            "points": "290"
+            "driver": "sainz"
         },
         {
             "position": "6",
-            "driver": "russell",
-            "points": "245"
+            "driver": "russell"
         },
         {
             "position": "7",
-            "driver": "hamilton",
-            "points": "223"
+            "driver": "hamilton"
         },
         {
             "position": "8",
-            "driver": "perez",
-            "points": "152"
+            "driver": "perez"
         },
         {
             "position": "9",
-            "driver": "alonso",
-            "points": "70"
+            "driver": "alonso"
         },
         {
             "position": "10",
-            "driver": "gasly",
-            "points": "42"
+            "driver": "gasly"
         },
         {
             "position": "11",
-            "driver": "hulkenberg",
-            "points": "41"
+            "driver": "hulkenberg"
         },
         {
             "position": "12",
-            "driver": "tsunoda",
-            "points": "30"
+            "driver": "tsunoda"
         },
         {
             "position": "13",
-            "driver": "stroll",
-            "points": "24"
+            "driver": "stroll"
         },
         {
             "position": "14",
-            "driver": "ocon",
-            "points": "23"
+            "driver": "ocon"
         },
         {
             "position": "15",
-            "driver": "kevin_magnussen",
-            "points": "16"
+            "driver": "kevin_magnussen"
         },
         {
             "position": "16",
-            "driver": "albon",
-            "points": "12"
+            "driver": "albon"
         },
         {
             "position": "17",
-            "driver": "ricciardo",
-            "points": "12"
+            "driver": "ricciardo"
         },
         {
             "position": "18",
-            "driver": "bearman",
-            "points": "7"
+            "driver": "bearman"
         },
         {
             "position": "19",
-            "driver": "colapinto",
-            "points": "5"
+            "driver": "colapinto"
         },
         {
             "position": "20",
-            "driver": "zhou",
-            "points": "4"
+            "driver": "zhou"
         },
         {
             "position": "21",
-            "driver": "lawson",
-            "points": "4"
+            "driver": "lawson"
         },
         {
             "position": "22",
-            "driver": "bottas",
-            "points": "0"
+            "driver": "bottas"
         },
         {
             "position": "23",
-            "driver": "sargeant",
-            "points": "0"
+            "driver": "sargeant"
         },
         {
             "position": "24",
-            "driver": "doohan",
-            "points": "0"
+            "driver": "doohan"
         }
     ]
 }

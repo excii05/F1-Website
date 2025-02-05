@@ -62,6 +62,16 @@ def fetch_seasonal_standings(year, race, driver_id):
     else:
         print(f"Failed to fetch seasonal standings for {driver_id} in {year} & {race}")
         return None
+    
+def fetch_race_results(year, race):
+    url = f"{BASE_URL}/{year}/{race}/results/"
+    response = requests.get(url)
+    
+    if response.status_code == 200:
+        return response.json()
+    else:
+        print(f"Failed to fetch race results for round {race} in {year}")
+        return None
 
 # Driver Data Fetcher    
 def fetch_driver_info(driver_id):
