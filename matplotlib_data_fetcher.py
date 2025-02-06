@@ -24,7 +24,8 @@ def fetch_season_driver_standings(year):
             standings_data[round] = [
                 {
                     "position": driver["position"],
-                    "driver": driver["Driver"]["driverId"]
+                    "driver": driver["Driver"]["driverId"],
+                    "team": driver["Constructors"][0]["name"]
                 }
                 for driver in standings
             ]
