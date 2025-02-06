@@ -36,7 +36,7 @@ def plot_driver_championship(year):
     
     for driver in sorted_drivers:
         positions = [pos if pos is not None else float('nan') for pos in driver_positions[driver]]
-        short_driver = driver[:3].upper()  # Nur die ersten drei Buchstaben in Großbuchstaben
+        short_driver = driver.split("_")[-1][:3].upper()  # Nur die ersten drei Buchstaben des Nachnamens in Großbuchstaben
         plt.plot(rounds, positions, linestyle="-", label=short_driver)
     
     plt.gca().invert_yaxis()
