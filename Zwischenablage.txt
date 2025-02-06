@@ -47,3 +47,36 @@
     </div>
 </body>
 </html>
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>{{ team.name }}</title>
+    <style>
+        body { font-family: Arial, sans-serif; margin: 20px; }
+        .container { max-width: 600px; margin: 0 auto; }
+        h1 { color: #333; }
+        table { border-collapse: collapse; width: 100%; margin-top: 20px; }
+        th, td { border: 1px solid #ddd; padding: 8px; text-align: left; }
+        th { background-color: #f4f4f4; }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1>{{ team.name }}</h1>
+        <p>Nationalität: {{ team.nationality }}</p>
+
+        <h2>Karriere-Statistiken</h2>
+        <ul>
+            <li>Erste Saison: {{ career_stats.first_season }}</li>
+            <li>Gefahrene Rennen: {{ career_stats.total_races }}</li>
+            <li>Siege: {{ career_stats.WCC_titles }}</li>
+            <li>Siege: {{ career_stats.WDC_titles }}</li>
+            <li>Weltmeister:
+                <ul>
+                    {% for drivers in career_stats.WDC_drivers %}
+                        <li>{{ drivers }}</li>
+                    {% endfor %}
+                </ul>

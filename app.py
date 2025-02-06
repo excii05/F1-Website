@@ -137,7 +137,8 @@ def team_profile(team_id):
         return render_template(
             'constructor_profile.html',
             team = team_info,
-            career_stats = career_stats
+            career_stats = career_stats,
+            team_id=team_id
         )
     else:
         # Falls keine JSON-Datei gefunden wurde, gib den Fehlercode 404 zurück.

@@ -272,6 +272,7 @@ img {
     display: flex;
     justify-content: center;
     align-items: center;
+    flex-direction: column;
     gap: 2rem;
     max-width: 900px;
     width: 100%;
@@ -279,9 +280,9 @@ img {
 }
 
 .profile_image {
-    height: 100%; /* Volle Höhe der Statistik-Spalte */
-    max-height: 400px; /* Optionale Begrenzung für sehr große Bilder */
+    height: 100%;
     width: auto;
+    max-width: 900px;
     border-radius: 10px;
 }
 
@@ -357,16 +358,6 @@ img {
     text-align: center;
     width: 100%; /* Stellt sicher, dass der Text mittig bleibt */
   }
-
-/*==================== LIFETIME/SEASONAL STATISTICS ====================*/
-.stats-grid {
-    display: grid;
-    grid-template-columns: repeat(4, 1fr);
-    gap: 1rem;
-    max-width: 900px;
-    width: 100%;
-    margin: auto;
-}
 
 /*==================== SEASONAL GRAPHS ====================*/
 .seasonal-graphics {
