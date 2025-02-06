@@ -43,6 +43,10 @@ def plot_driver_results(year, driver_id):
     
     plt.figure(figsize=(10, 5))
     
+    plt.figure(figsize=(10, 5), facecolor="#f8f9fa")  
+    ax = plt.gca()
+    ax.set_facecolor("#f8f9fa")  
+    
     # Linien zeichnen, ohne zusätzliche Marker
     plt.plot(rounds, positions, linestyle="-", color="b", label="Rennen")
     plt.plot(rounds, qualifying_positions, linestyle="-", color="r", label="Qualifying")
@@ -71,7 +75,7 @@ def plot_driver_results(year, driver_id):
     plt.savefig(save_path, format="png", dpi=300)
     print(f"Grafik gespeichert unter {save_path}")
     
-    plt.show()
+    # plt.show()
 
 def plot_driver_championship(year):
     file_path = f"cache/matplotlib/driver_standings_{year}.json"
@@ -103,6 +107,10 @@ def plot_driver_championship(year):
     sorted_drivers = sorted(driver_positions.keys(), key=lambda d: driver_positions[d][-1] if driver_positions[d][-1] is not None else float('inf'))
     
     plt.figure(figsize=(12, 6))
+    
+    plt.figure(figsize=(12, 6), facecolor="#f8f9fa")  
+    ax = plt.gca()
+    ax.set_facecolor("#f8f9fa") 
     
     for driver in sorted_drivers:
         positions = [pos if pos is not None else float('nan') for pos in driver_positions[driver]]

@@ -133,7 +133,7 @@
             </section>
 
             <!--==================== LIFETIME STATISTICS ====================-->
-            <section class="driver section" id="lifetime">
+            <section class="section" id="lifetime">
                 <h2 class="section__title">Lifetime Statistics</h2>
 
                 <div class="about__container container grid">
@@ -214,7 +214,7 @@
                             <img src="{{ url_for('static', filename='svg/icons/trophy.svg') }}" class="icon-image">
                             <p class="stat-number">{{ career_stats.outside_top10 }}</p>
                           </div>
-                          <p class="stat-label">Finishes outside of the Top10</p>
+                          <p class="stat-label">Outside the Top10</p>
                         </div>
                     </div>
                     
@@ -262,7 +262,7 @@
             </section>
 
             <!--==================== SEASONAL STATISTICS ====================-->
-            <section class="driver section" id="seasonal">
+            <section class="section" id="seasonal">
               <h2 class="section__title">Seasonal Statistics</h2>
 
               <div class="about__container container grid">
@@ -348,6 +348,16 @@
                   </div>
                 </div>
               </div>
+            </section>
+
+              <!--==================== SEASONAL GRAPHS ====================-->
+            <section class="section" id="graphs">
+              <h2 class="section__title">Seasonal Graphics</h2>
+              <div class="seasonal-graphics">
+                <img src="{{ url_for('static', filename='svg/championship/championship_2024.svg') }}" class="">
+                <img src="/static/svg/drivers/{{ driver_id }}.png" class="">
+              </div>
+            </section>
         </main>
 
         <!--==================== FOOTER ====================-->
@@ -361,14 +371,17 @@
 
                     <ul class="footer__links">
                         <li>
-                            <a href="#about" class="footer__link">Driver Standings</a>
+                            <a href="#highlights" class="footer__link">Career Highlights</a>
                         </li>
                         <li>
-                            <a href="#qualifications" class="footer__link">Constructor Standings</a>
+                            <a href="#lifetime" class="footer__link">Lifetime Statistics</a>
                         </li>
                         <li>
-                            <a href="#portfolio" class="footer__link">Race Dates</a>
+                            <a href="#seasonal" class="footer__link">Seasonal Statistics</a>
                         </li>
+                        <li>
+                          <a href="#graphs" class="footer__link">Seasonal Graphs</a>
+                      </li>
                     </ul>
                 </div>
 
