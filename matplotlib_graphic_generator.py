@@ -1,7 +1,7 @@
-import json
 import os
-import matplotlib.pyplot as plt
+import json
 import numpy as np
+import matplotlib.pyplot as plt
 
 def plot_driver_results(year, driver_id):
     file_path = f"cache/matplotlib/race_results_{year}.json"
@@ -16,25 +16,23 @@ def plot_driver_results(year, driver_id):
     
     total_races = len(race_results_data)
     rounds = list(range(1, total_races + 1))
-    positions = [np.nan] * total_races  # Initialisiere alle Werte mit NaN
-    qualifying_positions = [np.nan] * total_races  # Initialisiere alle Werte für das Qualifying mit NaN
+    positions = [np.nan] * total_races
+    qualifying_positions = [np.nan] * total_races
     
     for round_num, race_data in race_results_data.items():
         for result in race_data["race"]:
             if result["driver"] == driver_id:
-                index = int(round_num) - 1  # Index anpassen
+                index = int(round_num) - 1
                 if result["status"] == "DNF":
-                    positions[index] = 21  # DNF wird als Position 21 dargestellt
+                    positions[index] = 21
                 else:
                     positions[index] = int(result["position"])
                 break
         
         for result in race_data.get("qualifying", []):
             if result["driver"] == driver_id:
-                index = int(round_num) - 1  # Index anpassen
+                index = int(round_num) - 1
                 grid_position = int(result["grid"])
-                
-                # Filter: Falls Gridposition 0 ist, ignoriere das Qualifying-Ergebnis
                 if grid_position > 0:
                     qualifying_positions[index] = grid_position
                 break
@@ -44,8 +42,21 @@ def plot_driver_results(year, driver_id):
         return
     
     plt.figure(figsize=(10, 5))
+    
+    # Linien zeichnen, ohne zusätzliche Marker
     plt.plot(rounds, positions, linestyle="-", color="b", label="Rennen")
     plt.plot(rounds, qualifying_positions, linestyle="-", color="r", label="Qualifying")
+    
+    # Einzelne Punkte nur dort setzen, wo keine Verbindung besteht
+    for i in range(total_races):
+        if not np.isnan(positions[i]):
+            if (i == 0 or np.isnan(positions[i - 1])) and (i == total_races - 1 or np.isnan(positions[i + 1])):
+                plt.scatter(rounds[i], positions[i], color='b', s=30)
+        
+        if not np.isnan(qualifying_positions[i]):
+            if (i == 0 or np.isnan(qualifying_positions[i - 1])) and (i == total_races - 1 or np.isnan(qualifying_positions[i + 1])):
+                plt.scatter(rounds[i], qualifying_positions[i], color='r')
+    
     plt.gca().invert_yaxis()
     plt.xlabel("Rennrunde")
     plt.ylabel("Position")
@@ -115,6 +126,6 @@ def plot_driver_championship(year):
 
 if __name__ == "__main__":
     year = 2024
-    driver_id = "zhou"
+    driver_id = "sainz"
     plot_driver_results(year, driver_id)
     # plot_driver_championship(year)
