@@ -79,22 +79,35 @@ def plot_driver_results(year, driver_id):
 
 def plot_driver_championship(year):
     file_path = f"cache/matplotlib/driver_standings_{year}.json"
+    color_file = "cache/team_colors.json"
     save_path = f"static/svg/championship/championship_{year}.svg"
     
     if not os.path.exists(file_path):
         print(f"Die Datei {file_path} existiert nicht.")
         return
     
+    if not os.path.exists(color_file):
+        print(f"Die Datei {color_file} mit den Teamfarben existiert nicht.")
+        return
+    
     with open(file_path, "r", encoding="utf-8") as f:
         standings_data = json.load(f)
+    
+    with open(color_file, "r", encoding="utf-8") as f:
+        color_data = json.load(f)
+        team_colors = {team["name"]: team["color"] for team in color_data["teams"]}  # Umwandlung in Dictionary
     
     total_rounds = len(standings_data)
     rounds = list(range(1, total_rounds + 1))
     drivers = set()
-    
+    driver_teams = {}
+
     for round_data in standings_data.values():
         for entry in round_data:
-            drivers.add(entry["driver"])
+            driver = entry["driver"]
+            team = entry["team"]
+            drivers.add(driver)
+            driver_teams[driver] = team  # Speichert das Team des Fahrers
     
     driver_positions = {driver: [None] * total_rounds for driver in drivers}
     
@@ -106,16 +119,18 @@ def plot_driver_championship(year):
     
     sorted_drivers = sorted(driver_positions.keys(), key=lambda d: driver_positions[d][-1] if driver_positions[d][-1] is not None else float('inf'))
     
-    plt.figure(figsize=(12, 6))
-    
-    plt.figure(figsize=(12, 6), facecolor="#f8f9fa")  
+    plt.figure(figsize=(12, 6), facecolor="#f8f9fa")
     ax = plt.gca()
     ax.set_facecolor("#f8f9fa") 
     
     for driver in sorted_drivers:
         positions = [pos if pos is not None else float('nan') for pos in driver_positions[driver]]
         short_driver = driver.split("_")[-1][:3].upper()
-        plt.plot(rounds, positions, linestyle="-", label=short_driver)
+        
+        team = driver_teams.get(driver, "default")
+        color = team_colors.get(team, "#000000")  # Standardfarbe schwarz, falls Team nicht gefunden
+        
+        plt.plot(rounds, positions, linestyle="-", label=short_driver, color=color, linewidth=2)
     
     plt.gca().invert_yaxis()
     plt.xticks(rounds, range(1, total_rounds + 1))
@@ -130,10 +145,10 @@ def plot_driver_championship(year):
     plt.savefig(save_path, format="svg", bbox_inches='tight')
     print(f"Grafik gespeichert unter {save_path}")
     
-    # plt.show()
+    plt.show()
 
 if __name__ == "__main__":
     year = 2024
     driver_id = "sainz"
-    plot_driver_results(year, driver_id)
-    # plot_driver_championship(year)
+    # plot_driver_results(year, driver_id)
+    plot_driver_championship(year)
