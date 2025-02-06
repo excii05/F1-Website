@@ -56,7 +56,7 @@ def plot_driver_results(year, driver_id):
     plt.savefig(save_path, format="png", dpi=300)
     print(f"Grafik gespeichert unter {save_path}")
     
-    plt.show()
+    # plt.show()
 
 def plot_driver_championship(year):
     file_path = f"cache/matplotlib/driver_standings_{year}.json"
@@ -107,7 +107,7 @@ def plot_driver_championship(year):
     plt.savefig(save_path, format="svg", bbox_inches='tight')
     print(f"Grafik gespeichert unter {save_path}")
     
-    plt.show()
+    # plt.show()
 
 if __name__ == "__main__":
     year = 2024

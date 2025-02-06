@@ -9,6 +9,8 @@ from data_fetcher import (
 from driver_data_fetcher import store_driver_data
 from team_data_fetcher import store_team_data
 from seasonal_data_fetcher import get_seasonal_stats
+from matplotlib_data_fetcher import fetch_season_driver_standings
+from matplotlib_graphic_generator import plot_driver_championship, plot_driver_results
 from apscheduler.schedulers.background import BackgroundScheduler
 import atexit
 import os
@@ -202,6 +204,29 @@ def weekly_seasonal_stats_update():
     else:
         print("Keine Fahrerliste verfügbar. Saisonaler Statistik-Job wird abgebrochen.")
 
+def weekly_graphics_data_update():
+    fetch_season_driver_standings(2024)
+
+def weekly_championship_graphics_update():
+    plot_driver_championship(2024)
+    
+def weekly_race_graphics_update():
+    """Ruft einmal wöchentlich die saisonalen Statistiken für alle Fahrer ab und speichert sie."""
+    driver_list_data = fetch_driver_information(2024)
+    if driver_list_data:
+        drivers = driver_list_data.get('MRData', {}).get('DriverTable', {}).get('Drivers', [])
+        print(f"Starte wöchentliche Grafikgenerierung für {len(drivers)} Fahrer...")
+        for driver in drivers:
+            driver_id = driver.get("driverId")
+            if driver_id:
+                try:
+                    print(f"Starte Generierung der wöchtentlichen Grafik für Fahrer: {driver_id}")
+                    plot_driver_results(2024, driver_id)
+                except Exception as e:
+                    print(f"Fehler bei der Generierung der wöchtentlichen Grafik für Fahrer: {driver_id}: {e}")
+    else:
+        print("Keine Fahrerliste verfügbar. Generierung der wöchtentlichen Grafik-Job wird abgebrochen.")
+
 # ---------------------------
 # Scheduler initialisieren
 # ---------------------------
@@ -229,6 +254,30 @@ scheduler.add_job(
     hour=WEEKLY_JOB_HOUR,
     minute=WEEKLY_JOB_MINUTE,
     id='weekly_seasonal_stats_update_job'
+)
+scheduler.add_job(
+    func=weekly_graphics_data_update,
+    trigger='cron',
+    day_of_week=WEEKLY_JOB_DAY,
+    hour=WEEKLY_JOB_HOUR,
+    minute=WEEKLY_JOB_MINUTE,
+    id='weekly_graphics_data_update_job'
+)
+scheduler.add_job(
+    func=weekly_championship_graphics_update,
+    trigger='cron',
+    day_of_week="thu",
+    hour="14",
+    minute="21",
+    id='weekly_championship_graphics_update_job'
+)
+scheduler.add_job(
+    func=weekly_race_graphics_update,
+    trigger='cron',
+    day_of_week="thu",
+    hour="14",
+    minute="21",
+    id='weekly_race_graphics_update_job'
 )
 scheduler.start()
 print(f"Scheduler gestartet: Wöchentliche Jobs jeden {WEEKLY_JOB_DAY} um {WEEKLY_JOB_HOUR:02d}:{WEEKLY_JOB_MINUTE:02d} Uhr.")
