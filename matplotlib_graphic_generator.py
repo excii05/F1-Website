@@ -5,6 +5,7 @@ import numpy as np
 
 def plot_driver_results(year, driver_id):
     file_path = f"cache/matplotlib/race_results_{year}.json"
+    save_path = f"static/svg/drivers/{driver_id}.png"
     
     if not os.path.exists(file_path):
         print(f"Die Datei {file_path} existiert nicht.")
@@ -39,18 +40,23 @@ def plot_driver_results(year, driver_id):
         return
     
     plt.figure(figsize=(10, 5))
-    plt.plot(rounds, positions, marker="o", linestyle="-", color="b", label="Rennen")
-    plt.plot(rounds, qualifying_positions, marker="s", linestyle="--", color="r", label="Qualifying")
+    plt.plot(rounds, positions, linestyle="-", color="b", label="Rennen")
+    plt.plot(rounds, qualifying_positions, linestyle="-", color="r", label="Qualifying")
     plt.gca().invert_yaxis()
     plt.xlabel("Rennrunde")
     plt.ylabel("Position")
     plt.title(f"Performance von {driver_id.split('_')[-1].capitalize()} in {year}")
     plt.legend()
-    plt.grid()
+    plt.grid(alpha=0.1)
     
     # Achsen anpassen
     plt.xticks(range(1, total_races + 1, 1))
     plt.yticks(list(range(20, 0, -1)) + [21], labels=[str(i) for i in range(20, 0, -1)] + ["DNF"])
+    
+    # Grafik speichern
+    os.makedirs(os.path.dirname(save_path), exist_ok=True)
+    plt.savefig(save_path, format="png", dpi=300)
+    print(f"Grafik gespeichert unter {save_path}")
     
     plt.show()
 
