@@ -32,7 +32,11 @@ def plot_driver_results(year, driver_id):
         for result in race_data.get("qualifying", []):
             if result["driver"] == driver_id:
                 index = int(round_num) - 1  # Index anpassen
-                qualifying_positions[index] = int(result["grid"])
+                grid_position = int(result["grid"])
+                
+                # Filter: Falls Gridposition 0 ist, ignoriere das Qualifying-Ergebnis
+                if grid_position > 0:
+                    qualifying_positions[index] = grid_position
                 break
     
     if all(np.isnan(positions)) and all(np.isnan(qualifying_positions)):
@@ -56,7 +60,7 @@ def plot_driver_results(year, driver_id):
     plt.savefig(save_path, format="png", dpi=300)
     print(f"Grafik gespeichert unter {save_path}")
     
-    # plt.show()
+    plt.show()
 
 def plot_driver_championship(year):
     file_path = f"cache/matplotlib/driver_standings_{year}.json"
@@ -111,6 +115,6 @@ def plot_driver_championship(year):
 
 if __name__ == "__main__":
     year = 2024
-    driver_id = "max_verstappen"
+    driver_id = "zhou"
     plot_driver_results(year, driver_id)
-    plot_driver_championship(year)
+    # plot_driver_championship(year)
