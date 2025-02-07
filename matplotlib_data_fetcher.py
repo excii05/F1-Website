@@ -1,9 +1,10 @@
 import json
 import os
-from data_fetcher import fetch_driver_standings, fetch_race_results
+from data_fetcher import fetch_driver_standings, fetch_constructor_standings, fetch_race_results
 
-def fetch_season_driver_standings(year):
-    standings_data = {}
+def fetch_season_standings(year):
+    driver_standings_data = {}
+    constructor_standings_data = {}
     race_results_data = {}
     save_path = "cache/matplotlib/"
     os.makedirs(save_path, exist_ok=True)
@@ -18,16 +19,29 @@ def fetch_season_driver_standings(year):
     
     for round in range(1, total_rounds + 1):
         # Fahrer-WM-Stände abrufen
-        data = fetch_driver_standings(year, round)
-        if data:
-            standings = data['MRData']['StandingsTable']['StandingsLists'][0]['DriverStandings']
-            standings_data[round] = [
+        driver_data = fetch_driver_standings(year, round)
+        if driver_data:
+            driver_standings = driver_data['MRData']['StandingsTable']['StandingsLists'][0]['DriverStandings']
+            driver_standings_data[round] = [
                 {
                     "position": driver["position"],
                     "driver": driver["Driver"]["driverId"],
                     "team": driver["Constructors"][0]["name"]
                 }
-                for driver in standings
+                for driver in driver_standings
+            ]
+            
+         # Konstrukteur-WM-Stände abrufen
+        constructor_data = fetch_constructor_standings(year, round)
+        if constructor_data:
+            constructor_standings = constructor_data['MRData']['StandingsTable']['StandingsLists'][0]['ConstructorStandings']
+            constructor_standings_data[round] = [
+                {
+                    "position": constructor["position"],
+                    "constructor": constructor["Constructor"]["constructorId"],
+                    "name": constructor["Constructor"]["name"]
+                }
+                for constructor in constructor_standings
             ]
         
         # Renn- und Qualifying-Ergebnisse abrufen
@@ -70,7 +84,11 @@ def fetch_season_driver_standings(year):
     # Daten speichern
     standings_file = os.path.join(save_path, f"driver_standings_{year}.json")
     with open(standings_file, "w", encoding="utf-8") as f:
-        json.dump(standings_data, f, indent=4)
+        json.dump(driver_standings_data, f, indent=4)
+        
+    standings_file = os.path.join(save_path, f"constructor_standings_{year}.json")
+    with open(standings_file, "w", encoding="utf-8") as f:
+        json.dump(constructor_standings_data, f, indent=4)
     
     results_file = os.path.join(save_path, f"race_results_{year}.json")
     with open(results_file, "w", encoding="utf-8") as f:
@@ -80,4 +98,4 @@ def fetch_season_driver_standings(year):
 
 if __name__ == "__main__":
     year = 2024  # Ersetze mit dem gewünschten Jahr
-    fetch_season_driver_standings(year)
+    fetch_season_standings(year)
