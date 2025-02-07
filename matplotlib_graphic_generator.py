@@ -145,8 +145,8 @@ def plot_driver_championship(year):
     plt.savefig(save_path, format="svg", bbox_inches='tight')
     print(f"Grafik gespeichert unter {save_path}")
     
-    plt.show()
-    
+    # plt.show()
+
 def plot_constructor_championship(year):
     file_path = f"cache/matplotlib/constructor_standings_{year}.json"
     color_file = "cache/team_colors.json"
@@ -165,49 +165,50 @@ def plot_constructor_championship(year):
     
     with open(color_file, "r", encoding="utf-8") as f:
         color_data = json.load(f)
-        team_colors = {team["name"]: team["color"] for team in color_data["teams"]}  # Umwandlung in Dictionary
+        team_colors = {team["name"]: team["color"] for team in color_data["teams"]}
     
     total_rounds = len(standings_data)
     rounds = list(range(1, total_rounds + 1))
-    drivers = set()
-    driver_teams = {}
-
+    constructors = set()
+    original_names = {}
+    
+    constructor_positions = {}
+    
     for round_data in standings_data.values():
         for entry in round_data:
-            driver = entry["driver"]
-            team = entry["team"]
-            drivers.add(driver)
-            driver_teams[driver] = team  # Speichert das Team des Fahrers
+            original_name = entry["name"]
+            constructor = original_name.replace(" F1 Team", "")
+            constructors.add(constructor)
+            original_names[constructor] = original_name
     
-    driver_positions = {driver: [None] * total_rounds for driver in drivers}
+    constructor_positions = {constructor: [None] * total_rounds for constructor in constructors}
     
     for round_num, round_data in standings_data.items():
         for entry in round_data:
-            driver = entry["driver"]
+            original_name = entry["name"]
+            constructor = original_name.replace(" F1 Team", "")
             position = int(entry["position"])
-            driver_positions[driver][int(round_num) - 1] = position
+            constructor_positions[constructor][int(round_num) - 1] = position
     
-    sorted_drivers = sorted(driver_positions.keys(), key=lambda d: driver_positions[d][-1] if driver_positions[d][-1] is not None else float('inf'))
+    sorted_constructors = sorted(constructor_positions.keys(), key=lambda c: constructor_positions[c][-1] if constructor_positions[c][-1] is not None else float('inf'))
     
     plt.figure(figsize=(12, 6), facecolor="#f8f9fa")
     ax = plt.gca()
-    ax.set_facecolor("#f8f9fa") 
+    ax.set_facecolor("#f8f9fa")
     
-    for driver in sorted_drivers:
-        positions = [pos if pos is not None else float('nan') for pos in driver_positions[driver]]
-        short_driver = driver.split("_")[-1][:3].upper()
+    for constructor in sorted_constructors:
+        positions = [pos if pos is not None else float('nan') for pos in constructor_positions[constructor]]
+        original_name = original_names.get(constructor, constructor)
+        color = team_colors.get(original_name, "#000000")
         
-        team = driver_teams.get(driver, "default")
-        color = team_colors.get(team, "#000000")  # Standardfarbe schwarz, falls Team nicht gefunden
-        
-        plt.plot(rounds, positions, linestyle="-", label=short_driver, color=color, linewidth=2)
+        plt.plot(rounds, positions, linestyle="-", label=constructor, color=color, linewidth=2)
     
     plt.gca().invert_yaxis()
     plt.xticks(rounds, range(1, total_rounds + 1))
-    plt.yticks(range(1, len(drivers) + 1))
+    plt.yticks(range(1, len(constructors) + 1))
     plt.xlabel("Runde")
     plt.ylabel("Meisterschaftsposition")
-    plt.title(f"{year} Championship Standings")
+    plt.title(f"{year} Constructor Championship Standings")
     plt.legend(loc="upper left", bbox_to_anchor=(1, 1))
     plt.grid(alpha=0.1)
     
@@ -221,5 +222,5 @@ if __name__ == "__main__":
     year = 2024
     driver_id = "sainz"
     # plot_driver_results(year, driver_id)
-    # plot_driver_championship(year)
-    plot_constructor_championship(year)
+    plot_driver_championship(year)
+    # plot_constructor_championship(year)
