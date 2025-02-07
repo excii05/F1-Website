@@ -9,8 +9,8 @@ from data_fetcher import (
 from driver_data_fetcher import store_driver_data
 from team_data_fetcher import store_team_data
 from seasonal_data_fetcher import get_seasonal_stats
-from matplotlib_data_fetcher import fetch_season_driver_standings
-from matplotlib_graphic_generator import plot_driver_championship, plot_driver_results
+from matplotlib_data_fetcher import fetch_season_standings
+from matplotlib_graphic_generator import plot_driver_championship, plot_constructor_championship, plot_driver_results
 from apscheduler.schedulers.background import BackgroundScheduler
 import atexit
 import os
@@ -206,10 +206,11 @@ def weekly_seasonal_stats_update():
         print("Keine Fahrerliste verfügbar. Saisonaler Statistik-Job wird abgebrochen.")
 
 def weekly_graphics_data_update():
-    fetch_season_driver_standings(2024)
+    fetch_season_standings(2024)
 
 def weekly_championship_graphics_update():
     plot_driver_championship(2024)
+    plot_constructor_championship(2024)
     
 def weekly_race_graphics_update():
     """Ruft einmal wöchentlich die saisonalen Statistiken für alle Fahrer ab und speichert sie."""
