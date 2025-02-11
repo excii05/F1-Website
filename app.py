@@ -144,11 +144,6 @@ def team_profile(team_id):
         # Falls keine JSON-Datei gefunden wurde, gib den Fehlercode 404 zurück.
         return "Konstrukteurdaten nicht gefunden", 404
 
-@app.route('/race/<race_id>')
-def race_details(race_id):
-    # Beispielhafte Implementierung
-    return f"Race details for {race_id}"
-
 # ---------------------------
 # Scheduler-Funktionen: Wöchentliche Datenaktualisierung
 # ---------------------------

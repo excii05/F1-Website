@@ -134,11 +134,7 @@
                             {% for race in race_schedule %}
                             <tr>
                                 <td>{{ race.round }}</td>
-                                <td>
-                                    <a href="/race/{{ race.round }}">
-                                        {{ race.raceName }}
-                                    </a>
-                                </td>
+                                <td>{{ race.raceName }}</td>
                                 <td>{{ race.date }}</td>
                                 <td>{{ race.Circuit.circuitName }}</td>
                             </tr>
