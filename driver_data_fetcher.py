@@ -1,23 +1,15 @@
-import math
 import json
 import os
 import time
-from datetime import datetime
 from data_fetcher import fetch_driver_info, fetch_driver_results, fetch_driver_championship
 
 def get_driver_info(driver_id):
     data = fetch_driver_info(driver_id)
     driver = data.get("MRData", {}).get("DriverTable", {}).get("Drivers", [])[0] if data else {}
     
-    birth_date = driver.get("dateOfBirth", "0000-00-00")
-    birth_datetime = datetime.strptime(birth_date, "%Y-%m-%d")
-    today = datetime.today()
-    age = today.year - birth_datetime.year - ((today.month, today.day) < (birth_datetime.month, birth_datetime.day))
-    
     return {
         "full_name": driver.get("givenName", "") + " " + driver.get("familyName", ""),
-        "nationality": driver.get("nationality", ""),
-        "age": age
+        "nationality": driver.get("nationality", "")
     }
 
 def get_driver_results(driver_id):
