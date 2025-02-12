@@ -61,7 +61,7 @@ def get_seasonal_stats(year, driver_id):
     
     cache_dir = 'cache/driver_seasonal_stats'
     os.makedirs(cache_dir, exist_ok=True)
-    file_path = os.path.join(cache_dir, f"{driver_id}.json")
+    file_path = os.path.join(cache_dir, f"{driver_id}_{year}.json")
     
     with open(file_path, 'w') as json_file:
         json.dump(driver_data, json_file, indent=4)

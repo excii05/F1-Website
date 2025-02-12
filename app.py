@@ -18,6 +18,8 @@ import json
 
 app = Flask(__name__)
 
+year = "2024"
+
 # ---------------------------
 # Scheduler-Konfiguration
 # ---------------------------
@@ -30,7 +32,7 @@ WEEKLY_JOB_MINUTE = 14     # Beispiel: 03:00 Uhr
 # Datenabruf-Funktionen für die Web-App
 # ---------------------------
 def get_driver_details(driver_id):
-    data = fetch_driver_information(2024)
+    data = fetch_driver_information(year)
     if data:
         drivers = data['MRData']['DriverTable']['Drivers']
         for driver in drivers:
@@ -39,19 +41,19 @@ def get_driver_details(driver_id):
     return None
 
 def get_driver_standings():
-    data = fetch_driver_standings(2024)
+    data = fetch_driver_standings(year)
     if data:
         return data['MRData']['StandingsTable']['StandingsLists'][0]['DriverStandings']
     return []
 
 def get_constructor_standings():
-    data = fetch_constructor_standings(2024)
+    data = fetch_constructor_standings(year)
     if data:
         return data['MRData']['StandingsTable']['StandingsLists'][0]['ConstructorStandings']
     return []
 
 def get_race_schedule():
-    data = fetch_race_schedule(2024)
+    data = fetch_race_schedule(year)
     if data:
         return data['MRData']['RaceTable']['Races']
     return []
@@ -149,7 +151,7 @@ def team_profile(team_id):
 # ---------------------------
 def weekly_driver_update():
     """Ruft einmal wöchentlich für alle Fahrer die Daten ab und speichert sie."""
-    driver_list_data = fetch_driver_information(2024)
+    driver_list_data = fetch_driver_information(year)
     if driver_list_data:
         drivers = driver_list_data.get('MRData', {}).get('DriverTable', {}).get('Drivers', [])
         print(f"Starte wöchentlichen Fahrer-Datenabruf für {len(drivers)} Fahrer...")
@@ -167,7 +169,7 @@ def weekly_driver_update():
 
 def weekly_team_update():
     """Ruft einmal wöchentlich für alle aktuellen Teams die Daten ab und speichert sie."""
-    team_list_data = fetch_constructor_information(2024)
+    team_list_data = fetch_constructor_information(year)
     if team_list_data:
         teams = team_list_data.get('MRData', {}).get('ConstructorTable', {}).get('Constructors', [])
         print(f"Starte wöchentlichen Team-Datenabruf für {len(teams)} Teams...")
@@ -185,7 +187,7 @@ def weekly_team_update():
         
 def weekly_seasonal_stats_update():
     """Ruft einmal wöchentlich die saisonalen Statistiken für alle Fahrer ab und speichert sie."""
-    driver_list_data = fetch_driver_information(2024)
+    driver_list_data = fetch_driver_information(year)
     if driver_list_data:
         drivers = driver_list_data.get('MRData', {}).get('DriverTable', {}).get('Drivers', [])
         print(f"Starte wöchentlichen saisonalen Statistik-Abruf für {len(drivers)} Fahrer...")
@@ -194,22 +196,22 @@ def weekly_seasonal_stats_update():
             if driver_id:
                 try:
                     print(f"Starte Abfrage der saisonalen Statistiken für Fahrer: {driver_id}")
-                    get_seasonal_stats(2024, driver_id)
+                    get_seasonal_stats(year, driver_id)
                 except Exception as e:
                     print(f"Fehler bei saisonalen Statistiken für Fahrer {driver_id}: {e}")
     else:
         print("Keine Fahrerliste verfügbar. Saisonaler Statistik-Job wird abgebrochen.")
 
 def weekly_graphics_data_update():
-    fetch_season_standings(2024)
+    fetch_season_standings(year)
 
 def weekly_championship_graphics_update():
-    plot_driver_championship(2024)
-    plot_constructor_championship(2024)
+    plot_driver_championship(year)
+    plot_constructor_championship(year)
     
 def weekly_race_graphics_update():
     """Ruft einmal wöchentlich die saisonalen Statistiken für alle Fahrer ab und speichert sie."""
-    driver_list_data = fetch_driver_information(2024)
+    driver_list_data = fetch_driver_information(year)
     if driver_list_data:
         drivers = driver_list_data.get('MRData', {}).get('DriverTable', {}).get('Drivers', [])
         print(f"Starte wöchentliche Grafikgenerierung für {len(drivers)} Fahrer...")
@@ -218,7 +220,7 @@ def weekly_race_graphics_update():
             if driver_id:
                 try:
                     print(f"Starte Generierung der wöchtentlichen Grafik für Fahrer: {driver_id}")
-                    plot_driver_results(2024, driver_id)
+                    plot_driver_results(year, driver_id)
                 except Exception as e:
                     print(f"Fehler bei der Generierung der wöchtentlichen Grafik für Fahrer: {driver_id}: {e}")
     else:
@@ -248,14 +250,14 @@ scheduler.add_job(
     func=weekly_seasonal_stats_update,
     trigger='cron',
     day_of_week=WEEKLY_JOB_DAY,
-    hour=WEEKLY_JOB_HOUR,
+    hour=WEEKLY_JOB_HOUR + 1,
     minute=WEEKLY_JOB_MINUTE,
     id='weekly_seasonal_stats_update_job'
 )
 scheduler.add_job(
     func=weekly_graphics_data_update,
     trigger='cron',
-    day_of_week=WEEKLY_JOB_DAY,
+    day_of_week=WEEKLY_JOB_DAY + 2,
     hour=WEEKLY_JOB_HOUR,
     minute=WEEKLY_JOB_MINUTE,
     id='weekly_graphics_data_update_job'
@@ -263,17 +265,17 @@ scheduler.add_job(
 scheduler.add_job(
     func=weekly_championship_graphics_update,
     trigger='cron',
-    day_of_week="thu",
-    hour="14",
-    minute="21",
+    day_of_week=WEEKLY_JOB_DAY + 2,
+    hour=WEEKLY_JOB_HOUR,
+    minute=WEEKLY_JOB_MINUTE,
     id='weekly_championship_graphics_update_job'
 )
 scheduler.add_job(
     func=weekly_race_graphics_update,
     trigger='cron',
-    day_of_week="thu",
-    hour="14",
-    minute="21",
+    day_of_week=WEEKLY_JOB_DAY + 2,
+    hour=WEEKLY_JOB_HOUR,
+    minute=WEEKLY_JOB_MINUTE,
     id='weekly_race_graphics_update_job'
 )
 scheduler.start()
