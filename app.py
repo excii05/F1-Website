@@ -24,7 +24,7 @@ from apscheduler.schedulers.background import BackgroundScheduler
 
 app = Flask(__name__)
 
-year = "2024"
+year = "2020"
 
 # ---------------------------
 # Scheduler-Konfiguration
@@ -82,6 +82,12 @@ def extract_lastname(driver_id):
 
 app.jinja_env.filters['lastname'] = extract_lastname  # Filter registrieren
 
+def format_team_id(team_id):
+    return team_id.replace('_', ' ')  # Ersetzt Unterstrich durch Leerzeichen
+
+app.jinja_env.filters['format_team'] = format_team_id  # Filter registrieren
+
+
 # ---------------------------
 # Routen
 # ---------------------------
@@ -95,14 +101,15 @@ def home():
         'index.html',
         driver_standings=driver_standings,
         constructor_standings=constructor_standings,
-        race_schedule=race_schedule
+        race_schedule=race_schedule,
+        year=year
     )
 
 @app.route('/driver/<driver_id>')
 def driver_profile(driver_id):
     # Pfade zu den JSON-Dateien zusammenbauen
     career_stats_path = os.path.join('cache', 'driver_carrier_stats', f'{driver_id}.json')
-    seasonal_stats_path = os.path.join('cache', 'driver_seasonal_stats', f'{driver_id}.json')
+    seasonal_stats_path = os.path.join('cache', 'driver_seasonal_stats', f'{driver_id}_{year}.json')
 
     # Initialisierung der Daten
     driver_info = {}
@@ -135,7 +142,8 @@ def driver_profile(driver_id):
         career_stats=career_stats,
         seasonal_stats=seasonal_stats,
         driver_id=driver_id,
-        age=age
+        age=age,
+        year=year
     )
 
 @app.route('/team/<team_id>')
@@ -161,7 +169,8 @@ def team_profile(team_id):
             'constructor_profile.html',
             team = team_info,
             career_stats = career_stats,
-            team_id=team_id
+            team_id=team_id,
+            year=year
         )
     else:
         # Falls keine JSON-Datei gefunden wurde, gib den Fehlercode 404 zurück.

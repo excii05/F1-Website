@@ -18,7 +18,7 @@
         <header class="header" id="header">
             <nav class="nav container">
                 <img src="{{ url_for('static', filename='svg/F1.png') }}" class="nav__logo-img">
-                <a href="/" class="nav__logo">Formel 1 Saison 2024</a>
+                <a href="/" class="nav__logo">Formel 1 Saison {{ year }}</a>
 
                 <div class="nav__menu" id="nav-menu">
                     <ul class="nav__list grid">
@@ -56,7 +56,7 @@
                 <h2 class="section__title">Career Highlights</h2>
 
                 <div class="about__container container grid">
-                    <img src="https://media.formula1.com/image/upload/content/dam/fom-website/2018-redesign-assets/team logos/{{ team_id }}" class="profile_image">
+                    <img src="https://media.formula1.com/image/upload/content/dam/fom-website/2018-redesign-assets/team logos/{{ team_id | format_team }}" class="profile_image">
                     <div class="career-stats-grid">
                         <div class="stat-box">
                             <div class="stat-box-inner">
@@ -125,8 +125,8 @@
             <section class="section" id="graphs">
               <h2 class="section__title">Seasonal Graphics</h2>
               <div class="seasonal-graphics">
-                <img src="{{ url_for('static', filename='svg/championship/constructor_championship_2024.svg') }}" class="">
-                <img src="{{ url_for('static', filename='svg/championship/driver_championship_2024.svg') }}" class="">
+                <img src="/static/svg/championship/constructor_championship_{{ year }}.svg" class="">
+                <img src="/static/svg/championship/driver_championship_{{ year }}.svg" class="">
               </div>
             </section>
         </main>

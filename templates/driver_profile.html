@@ -18,7 +18,7 @@
         <header class="header" id="header">
             <nav class="nav container">
                 <img src="{{ url_for('static', filename='svg/F1.png') }}" class="nav__logo-img">
-                <a href="/" class="nav__logo">Formel 1 Saison 2024</a>
+                <a href="/" class="nav__logo">Formel 1 Saison {{ year }}</a>
 
                 <div class="nav__menu" id="nav-menu">
                     <ul class="nav__list grid">
@@ -355,8 +355,8 @@
             <section class="section" id="graphs">
               <h2 class="section__title">Seasonal Graphics</h2>
               <div class="seasonal-graphics">
-                <img src="{{ url_for('static', filename='svg/championship/driver_championship_2024.svg') }}" class="">
-                <img src="/static/svg/drivers/{{ driver_id }}.png" class="">
+                <img src="/static/svg/championship/driver_championship_{{ year }}.svg" class="">
+                <img src="/static/svg/drivers/{{ driver_id }}_{{ year }}.png" class="">
               </div>
             </section>
         </main>
