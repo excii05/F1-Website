@@ -1,8 +1,7 @@
 {
     "driver_info": {
         "full_name": "Max Verstappen",
-        "nationality": "Dutch",
-        "age": 27
+        "nationality": "Dutch"
     },
     "career_stats": {
         "total_races": 209,

@@ -1,3 +1,7 @@
+import atexit
+import os
+import json
+from datetime import datetime
 from flask import Flask, render_template
 from data_fetcher import (
     fetch_driver_information,
@@ -5,16 +9,18 @@ from data_fetcher import (
     fetch_driver_standings, 
     fetch_constructor_standings, 
     fetch_race_schedule,
+    fetch_driver_info
 )
 from driver_data_fetcher import store_driver_data
 from team_data_fetcher import store_team_data
 from seasonal_data_fetcher import get_seasonal_stats
 from matplotlib_data_fetcher import fetch_season_standings
-from matplotlib_graphic_generator import plot_driver_championship, plot_constructor_championship, plot_driver_results
+from matplotlib_graphic_generator import (
+    plot_driver_championship,
+    plot_constructor_championship,
+    plot_driver_results
+)
 from apscheduler.schedulers.background import BackgroundScheduler
-import atexit
-import os
-import json
 
 app = Flask(__name__)
 
@@ -38,6 +44,18 @@ def get_driver_details(driver_id):
         for driver in drivers:
             if driver['driverId'] == driver_id:
                 return driver
+    return None
+
+def get_driver_age(driver_id):
+    data = fetch_driver_info(driver_id)
+    if data:
+        drivers = data['MRData']['DriverTable']['Drivers']
+        if drivers:
+            birth_date = drivers[0].get("dateOfBirth", "0000-00-00")
+            birth_datetime = datetime.strptime(birth_date, "%Y-%m-%d")
+            today = datetime.today()
+            age = today.year - birth_datetime.year - ((today.month, today.day) < (birth_datetime.month, birth_datetime.day))
+            return age
     return None
 
 def get_driver_standings():
@@ -91,6 +109,8 @@ def driver_profile(driver_id):
     career_stats = {}
     seasonal_stats = {}
 
+    age = get_driver_age(driver_id)
+    
     # Fahrerkarrieredaten einlesen
     if os.path.exists(career_stats_path):
         try:
@@ -114,7 +134,8 @@ def driver_profile(driver_id):
         driver=driver_info,
         career_stats=career_stats,
         seasonal_stats=seasonal_stats,
-        driver_id=driver_id
+        driver_id=driver_id,
+        age=age
     )
 
 @app.route('/team/<team_id>')
