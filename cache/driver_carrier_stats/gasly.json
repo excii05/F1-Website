@@ -1,8 +1,7 @@
 {
     "driver_info": {
         "full_name": "Pierre Gasly",
-        "nationality": "French",
-        "age": 28
+        "nationality": "French"
     },
     "career_stats": {
         "total_races": 154,

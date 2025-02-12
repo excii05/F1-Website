@@ -1,8 +1,7 @@
 {
     "driver_info": {
         "full_name": "Lewis Hamilton",
-        "nationality": "British",
-        "age": 40
+        "nationality": "British"
     },
     "career_stats": {
         "total_races": 356,

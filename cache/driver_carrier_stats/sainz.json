@@ -1,8 +1,7 @@
 {
     "driver_info": {
         "full_name": "Carlos Sainz",
-        "nationality": "Spanish",
-        "age": 30
+        "nationality": "Spanish"
     },
     "career_stats": {
         "total_races": 208,

@@ -1,8 +1,7 @@
 {
     "driver_info": {
         "full_name": "Kevin Magnussen",
-        "nationality": "Danish",
-        "age": 32
+        "nationality": "Danish"
     },
     "career_stats": {
         "total_races": 186,

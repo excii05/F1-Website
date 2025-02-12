@@ -1,8 +1,7 @@
 {
     "driver_info": {
         "full_name": "Fernando Alonso",
-        "nationality": "Spanish",
-        "age": 43
+        "nationality": "Spanish"
     },
     "career_stats": {
         "total_races": 404,
