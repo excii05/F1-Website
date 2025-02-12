@@ -257,24 +257,24 @@ scheduler.add_job(
 scheduler.add_job(
     func=weekly_graphics_data_update,
     trigger='cron',
-    day_of_week=WEEKLY_JOB_DAY + 2,
-    hour=WEEKLY_JOB_HOUR,
-    minute=WEEKLY_JOB_MINUTE,
+    day_of_week=WEEKLY_JOB_DAY,
+    hour=WEEKLY_JOB_HOUR + 1,
+    minute=WEEKLY_JOB_MINUTE + 30,
     id='weekly_graphics_data_update_job'
 )
 scheduler.add_job(
     func=weekly_championship_graphics_update,
     trigger='cron',
-    day_of_week=WEEKLY_JOB_DAY + 2,
-    hour=WEEKLY_JOB_HOUR,
+    day_of_week=WEEKLY_JOB_DAY,
+    hour=WEEKLY_JOB_HOUR + 2,
     minute=WEEKLY_JOB_MINUTE,
     id='weekly_championship_graphics_update_job'
 )
 scheduler.add_job(
     func=weekly_race_graphics_update,
     trigger='cron',
-    day_of_week=WEEKLY_JOB_DAY + 2,
-    hour=WEEKLY_JOB_HOUR,
+    day_of_week=WEEKLY_JOB_DAY,
+    hour=WEEKLY_JOB_HOUR + 2,
     minute=WEEKLY_JOB_MINUTE,
     id='weekly_race_graphics_update_job'
 )

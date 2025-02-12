@@ -67,3 +67,11 @@ def get_seasonal_stats(year, driver_id):
         json.dump(driver_data, json_file, indent=4)
     
     print(f"Data saved to {file_path}")
+
+def main():
+    year = "2024"
+    driver_id = "zhou"
+    get_seasonal_stats(year, driver_id)
+
+if __name__ == "__main__":
+    main()
