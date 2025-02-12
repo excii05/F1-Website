@@ -5,7 +5,7 @@ import matplotlib.pyplot as plt
 
 def plot_driver_results(year, driver_id):
     file_path = f"cache/matplotlib/race_results_{year}.json"
-    save_path = f"static/svg/drivers/{driver_id}.png"
+    save_path = f"static/svg/drivers/{driver_id}_{year}.png"
     
     if not os.path.exists(file_path):
         print(f"Die Datei {file_path} existiert nicht.")
@@ -114,7 +114,7 @@ def plot_driver_championship(year):
     for round_num, round_data in standings_data.items():
         for entry in round_data:
             driver = entry["driver"]
-            position = int(entry["position"])
+            position = int(entry["position"]) if entry["position"] is not None else float('nan') # Änderung
             driver_positions[driver][int(round_num) - 1] = position
     
     sorted_drivers = sorted(driver_positions.keys(), key=lambda d: driver_positions[d][-1] if driver_positions[d][-1] is not None else float('inf'))
@@ -187,7 +187,7 @@ def plot_constructor_championship(year):
         for entry in round_data:
             original_name = entry["name"]
             constructor = original_name.replace(" F1 Team", "")
-            position = int(entry["position"])
+            position = int(entry["position"]) if entry["position"] is not None else float('nan')
             constructor_positions[constructor][int(round_num) - 1] = position
     
     sorted_constructors = sorted(constructor_positions.keys(), key=lambda c: constructor_positions[c][-1] if constructor_positions[c][-1] is not None else float('inf'))

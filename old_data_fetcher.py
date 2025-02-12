@@ -15,21 +15,10 @@ from matplotlib_graphic_generator import (
     plot_driver_results
 )
 
+year = "2020"
+
 logging.basicConfig(level=logging.INFO)
 logger = logging.getLogger(__name__)
-
-year = "2023"
-
-# ---------------------------
-# Scheduler-Konfiguration
-# ---------------------------
-WEEKLY_JOB_DAY = 'wed'    # Beispiel: jeden Mittwoch
-WEEKLY_JOB_HOUR = 16      # 15:28 Uhr
-WEEKLY_JOB_MINUTE = 26
-
-# ---------------------------
-# Scheduler-Funktionen: Wöchentliche Datenaktualisierung
-# ---------------------------
 
 def weekly_driver_update():
     """Ruft einmal wöchentlich für alle Fahrer die Daten ab und speichert sie."""
@@ -108,44 +97,14 @@ def weekly_race_graphics_update():
     else:
         print("Keine Fahrerliste verfügbar. Generierung der wöchtentlichen Grafik-Job wird abgebrochen.")
 
-# ---------------------------
-# Scheduler initialisieren
-# ---------------------------
-scheduler = BackgroundScheduler()
+def main():
+    # weekly_driver_update()
+    # weekly_team_update()
+    # weekly_seasonal_stats_update()
+    # weekly_graphics_data_update()
+    weekly_championship_graphics_update()
+    weekly_race_graphics_update()
+    
 
-scheduler.add_job(
-    func=weekly_graphics_data_update,
-    trigger='cron',
-    day_of_week=WEEKLY_JOB_DAY,
-    hour=WEEKLY_JOB_HOUR,
-    minute=WEEKLY_JOB_MINUTE + 30,
-    id='weekly_graphics_data_update_job'
-)
-scheduler.add_job(
-    func=weekly_championship_graphics_update,
-    trigger='cron',
-    day_of_week=WEEKLY_JOB_DAY,
-    hour=WEEKLY_JOB_HOUR + 1,
-    minute=WEEKLY_JOB_MINUTE,
-    id='weekly_championship_graphics_update_job'
-)
-scheduler.add_job(
-    func=weekly_race_graphics_update,
-    trigger='cron',
-    day_of_week=WEEKLY_JOB_DAY,
-    hour=WEEKLY_JOB_HOUR + 1,
-    minute=WEEKLY_JOB_MINUTE,
-    id='weekly_race_graphics_update_job'
-)
-
-if __name__ == '__main__':
-    try:
-        scheduler.start()
-        logger.info(f"Scheduler gestartet: Wöchentliche Jobs jeden {WEEKLY_JOB_DAY} um {WEEKLY_JOB_HOUR:02d}:{WEEKLY_JOB_MINUTE:02d} Uhr.")
-        
-        # Blockiere das Hauptprogramm, damit es nicht sofort beendet wird
-        while True:
-            time.sleep(60)  # Sleep für 60 Sekunden, damit das Programm weiterläuft
-    except (KeyboardInterrupt, SystemExit):
-        logger.info("Scheduler wird gestoppt...")
-        scheduler.shutdown()
+if __name__ == "__main__":
+    main()

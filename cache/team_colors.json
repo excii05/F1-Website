@@ -39,6 +39,22 @@
       {
         "name": "Haas F1 Team",
         "color": "#B6BABD"
+      },
+      {
+        "name": "Alfa Romeo",
+        "color": "#C92D4B"
+      },
+      {
+        "name": "AlphaTauri",
+        "color": "#5E8FAA"
+      },
+      {
+        "name": "Racing Point",
+        "color": "#F596C8"
+      },
+      {
+        "name": "Renault",
+        "color": "#FFF500"
       }
     ]
   }

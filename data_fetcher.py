@@ -60,7 +60,7 @@ def fetch_seasonal_standings(year, race, driver_id):
     if response.status_code == 200:
         return response.json()
     else:
-        print(f"Failed to fetch seasonal standings for {driver_id} in {year} & {race}")
+        print(f"Failed to fetch seasonal standings for {driver_id} for {race} in {year}")
         return None
     
 def fetch_race_results(year, race):

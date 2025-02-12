@@ -36,7 +36,7 @@ def get_seasonal_stats(year, driver_id):
                     fastest_laps += 1
                 if race_info['grid'] == '1':
                     pole_positions += 1
-                if race_info['status'] != "finished" and not race_info.startswith("+"):
+                if race_info["status"] != "Finished" and not race_info["status"].startswith("+"):
                     dnfs += 1
             except (KeyError, IndexError):
                 print(f"Could not retrieve data for race {race}")
@@ -69,8 +69,8 @@ def get_seasonal_stats(year, driver_id):
     print(f"Data saved to {file_path}")
 
 def main():
-    year = "2024"
-    driver_id = "zhou"
+    year = "2020"
+    driver_id = "raikkonen"
     get_seasonal_stats(year, driver_id)
 
 if __name__ == "__main__":
