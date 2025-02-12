@@ -21,65 +21,72 @@ def fetch_season_standings(year):
         # Fahrer-WM-Stände abrufen
         driver_data = fetch_driver_standings(year, round)
         if driver_data:
-            driver_standings = driver_data['MRData']['StandingsTable']['StandingsLists'][0]['DriverStandings']
-            driver_standings_data[round] = [
-                {
-                    "position": driver["position"],
-                    "driver": driver["Driver"]["driverId"],
-                    "team": driver["Constructors"][0]["name"]
-                }
-                for driver in driver_standings
-            ]
+            standings_list = driver_data['MRData']['StandingsTable']['StandingsLists']
+            if standings_list:  # Prüfen, ob die Liste nicht leer ist
+                driver_standings = standings_list[0]['DriverStandings']
+                driver_standings_data[round] = [
+                    {
+                        "position": driver.get("position"),
+                        "driver": driver["Driver"]["driverId"],
+                        "team": driver["Constructors"][0]["name"]
+                    }
+                    for driver in driver_standings
+                ]
             
          # Konstrukteur-WM-Stände abrufen
         constructor_data = fetch_constructor_standings(year, round)
         if constructor_data:
-            constructor_standings = constructor_data['MRData']['StandingsTable']['StandingsLists'][0]['ConstructorStandings']
-            constructor_standings_data[round] = [
-                {
-                    "position": constructor["position"],
-                    "constructor": constructor["Constructor"]["constructorId"],
-                    "name": constructor["Constructor"]["name"]
-                }
-                for constructor in constructor_standings
-            ]
+            standings_list = constructor_data['MRData']['StandingsTable']['StandingsLists']
+            if standings_list:  # Prüfen, ob die Liste nicht leer ist
+                constructor_standings = standings_list[0]['ConstructorStandings']
+                constructor_standings_data[round] = [
+                    {
+                        "position": constructor.get("position"),
+                        "constructor": constructor["Constructor"]["constructorId"],
+                        "name": constructor["Constructor"]["name"]
+                    }
+                    for constructor in constructor_standings
+                ]
         
         # Renn- und Qualifying-Ergebnisse abrufen
         race_data = fetch_race_results(year, round)
         if race_data:
-            results = race_data["MRData"]["RaceTable"]["Races"][0]["Results"]
-            
-            # Qualifying-Ergebnisse nach Grid-Position sortieren
-            qualifying_results = sorted(
-                [
-                    {
-                        "grid": result["grid"],
-                        "driver": result["Driver"]["driverId"]
-                    }
-                    for result in results
-                ],
-                key=lambda x: int(x["grid"]) if x["grid"].isdigit() else float('inf')
-            )
-            
-            # Statusbereinigung für das Rennen
-            race_results = []
-            for result in results:
-                status = result["status"]
-                if status == "Finished" or "+" in status:
-                    status = "Finished"
-                elif status == "DNQ" or status not in ["Finished", "DNQ"]:
-                    status = "DNF"
+            races = race_data["MRData"]["RaceTable"]["Races"]
+            if races:  # Prüfen, ob die Liste nicht leer ist
+                results = races[0]["Results"]
                 
-                race_results.append({
-                    "position": result["position"],
-                    "driver": result["Driver"]["driverId"],
-                    "status": status
-                })
             
-            race_results_data[round] = {
-                "qualifying": qualifying_results,
-                "race": race_results
-            }
+                # Qualifying-Ergebnisse nach Grid-Position sortieren
+                qualifying_results = sorted(
+                    [
+                        {
+                            "grid": result["grid"],
+                            "driver": result["Driver"]["driverId"]
+                        }
+                        for result in results
+                    ],
+                    key=lambda x: int(x["grid"]) if x["grid"].isdigit() else float('inf')
+                )
+            
+                # Statusbereinigung für das Rennen
+                race_results = []
+                for result in results:
+                    status = result["status"]
+                    if status == "Finished" or "+" in status:
+                        status = "Finished"
+                    elif status == "Disqualified" or status not in ["Finished", "Disqualified"]:
+                        status = "DNF"
+                    
+                    race_results.append({
+                        "position": result["position"],
+                        "driver": result["Driver"]["driverId"],
+                        "status": status
+                    })
+                
+                race_results_data[round] = {
+                    "qualifying": qualifying_results,
+                    "race": race_results
+                }
     
     # Daten speichern
     standings_file = os.path.join(save_path, f"driver_standings_{year}.json")

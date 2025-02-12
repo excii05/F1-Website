@@ -36,7 +36,7 @@ def get_seasonal_stats(year, driver_id):
                     fastest_laps += 1
                 if race_info['grid'] == '1':
                     pole_positions += 1
-                if race_info['status'] != 'Finished':
+                if race_info['status'] != "finished" and not race_info.startswith("+"):
                     dnfs += 1
             except (KeyError, IndexError):
                 print(f"Could not retrieve data for race {race}")

@@ -41,7 +41,7 @@ def analyze_driver_results(driver_id):
         "fastest_laps": 0,
         "outside_top10": 0,
         "DNF": 0,
-        "DNQ": 0,
+        "DSQ": 0,
         "teams": set(),
         "first_season": None,
         "championships": 0,
@@ -79,7 +79,7 @@ def analyze_driver_results(driver_id):
         
         if status != "finished" and not status.startswith("+"):
             if "disqualified" in status:
-                stats["DNQ"] += 1
+                stats["DSQ"] += 1
             else:
                 stats["DNF"] += 1
         
@@ -121,7 +121,7 @@ def run_full_query(driver_id):
             "pole_positions": stats["pole_positions"],
             "fastest_laps": stats["fastest_laps"],
             "DNF": stats["DNF"],
-            "DNQ": stats["DNQ"],
+            "DSQ": stats["DSQ"],
             "outside_top10": stats["outside_top10"],
             "first_season": stats["first_season"],
             "former_teams": former_teams,

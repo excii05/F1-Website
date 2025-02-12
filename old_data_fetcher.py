@@ -25,7 +25,7 @@ year = "2023"
 # ---------------------------
 WEEKLY_JOB_DAY = 'wed'    # Beispiel: jeden Mittwoch
 WEEKLY_JOB_HOUR = 16      # 15:28 Uhr
-WEEKLY_JOB_MINUTE = 24
+WEEKLY_JOB_MINUTE = 26
 
 # ---------------------------
 # Scheduler-Funktionen: Wöchentliche Datenaktualisierung
@@ -112,13 +112,30 @@ def weekly_race_graphics_update():
 # Scheduler initialisieren
 # ---------------------------
 scheduler = BackgroundScheduler()
+
 scheduler.add_job(
-    func=weekly_seasonal_stats_update,
+    func=weekly_graphics_data_update,
     trigger='cron',
     day_of_week=WEEKLY_JOB_DAY,
     hour=WEEKLY_JOB_HOUR,
+    minute=WEEKLY_JOB_MINUTE + 30,
+    id='weekly_graphics_data_update_job'
+)
+scheduler.add_job(
+    func=weekly_championship_graphics_update,
+    trigger='cron',
+    day_of_week=WEEKLY_JOB_DAY,
+    hour=WEEKLY_JOB_HOUR + 1,
     minute=WEEKLY_JOB_MINUTE,
-    id='weekly_seasonal_stats_update_job'
+    id='weekly_championship_graphics_update_job'
+)
+scheduler.add_job(
+    func=weekly_race_graphics_update,
+    trigger='cron',
+    day_of_week=WEEKLY_JOB_DAY,
+    hour=WEEKLY_JOB_HOUR + 1,
+    minute=WEEKLY_JOB_MINUTE,
+    id='weekly_race_graphics_update_job'
 )
 
 if __name__ == '__main__':
