@@ -154,21 +154,19 @@
                         <span class="footer__subtitle">This website is not an official project and is in no way affiliated with the Formula 1 companies!</span>
                     </div>
 
-                    <ul class="footer__links">
-                        <li>
-                            <a href="#about" class="footer__link">Driver Standings</a>
-                        </li>
-                        <li>
-                            <a href="#qualifications" class="footer__link">Constructor Standings</a>
-                        </li>
-                        <li>
-                            <a href="#portfolio" class="footer__link">Race Dates</a>
-                        </li>
-                    </ul>
-                </div>
+                    <div class="dropdown-container">
+                        <form method="GET" action="">
+                            <label for="year">Jahr:</label>
+                            <select name="year" id="year" onchange="this.form.submit()">
+                                {% for y in years %}
+                                    <option value="{{ y }}" {% if y == year %}selected{% endif %}>{{ y }}</option>
+                                {% endfor %}
+                            </select>
+                        </form>
+                    </div>
 
                 <p class="footer__copy">
-                    &#169; 2024 - <a id="year"></a> Tim Fuhrmann. All rights reserved
+                    &#169; 2024 - <a id="current_year"></a> Tim Fuhrmann. All rights reserved
                 </p>
             </div>
         </footer>

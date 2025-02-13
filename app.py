@@ -2,7 +2,7 @@ import atexit
 import os
 import json
 from datetime import datetime
-from flask import Flask, render_template
+from flask import Flask, render_template, request
 from data_fetcher import (
     fetch_driver_information,
     fetch_constructor_information,
@@ -24,7 +24,8 @@ from apscheduler.schedulers.background import BackgroundScheduler
 
 app = Flask(__name__)
 
-year = "2020"
+current_year = 2024
+years = [str(y) for y in range(2020, current_year + 1)]
 
 # ---------------------------
 # Scheduler-Konfiguration
@@ -37,7 +38,11 @@ WEEKLY_JOB_MINUTE = 14     # Beispiel: 03:00 Uhr
 # ---------------------------
 # Datenabruf-Funktionen für die Web-App
 # ---------------------------
+def get_year():
+    return request.args.get("year", current_year)
+
 def get_driver_details(driver_id):
+    year = get_year()
     data = fetch_driver_information(year)
     if data:
         drivers = data['MRData']['DriverTable']['Drivers']
@@ -59,18 +64,21 @@ def get_driver_age(driver_id):
     return None
 
 def get_driver_standings():
+    year = get_year()
     data = fetch_driver_standings(year)
     if data:
         return data['MRData']['StandingsTable']['StandingsLists'][0]['DriverStandings']
     return []
 
 def get_constructor_standings():
+    year = get_year()
     data = fetch_constructor_standings(year)
     if data:
         return data['MRData']['StandingsTable']['StandingsLists'][0]['ConstructorStandings']
     return []
 
 def get_race_schedule():
+    year = get_year()
     data = fetch_race_schedule(year)
     if data:
         return data['MRData']['RaceTable']['Races']
@@ -93,6 +101,8 @@ app.jinja_env.filters['format_team'] = format_team_id  # Filter registrieren
 # ---------------------------
 @app.route('/')
 def home():
+    year = request.args.get("year", current_year)
+    
     driver_standings = get_driver_standings()
     constructor_standings = get_constructor_standings()
     race_schedule = get_race_schedule()
@@ -102,11 +112,14 @@ def home():
         driver_standings=driver_standings,
         constructor_standings=constructor_standings,
         race_schedule=race_schedule,
-        year=year
+        year=year,
+        years=years
     )
 
 @app.route('/driver/<driver_id>')
 def driver_profile(driver_id):
+    year = request.args.get("year", current_year)
+    
     # Pfade zu den JSON-Dateien zusammenbauen
     career_stats_path = os.path.join('cache', 'driver_carrier_stats', f'{driver_id}.json')
     seasonal_stats_path = os.path.join('cache', 'driver_seasonal_stats', f'{driver_id}_{year}.json')
@@ -143,11 +156,14 @@ def driver_profile(driver_id):
         seasonal_stats=seasonal_stats,
         driver_id=driver_id,
         age=age,
-        year=year
+        year=year,
+        years=years
     )
 
 @app.route('/team/<team_id>')
 def team_profile(team_id):
+    year = request.args.get("year", current_year)
+    
     # Pfad zur JSON-Datei zusammenbauen
     json_path = os.path.join('cache', 'team_carrier_stats', f'{team_id}.json')
     
@@ -170,7 +186,8 @@ def team_profile(team_id):
             team = team_info,
             career_stats = career_stats,
             team_id=team_id,
-            year=year
+            year=year,
+            years=years
         )
     else:
         # Falls keine JSON-Datei gefunden wurde, gib den Fehlercode 404 zurück.
@@ -180,6 +197,7 @@ def team_profile(team_id):
 # Scheduler-Funktionen: Wöchentliche Datenaktualisierung
 # ---------------------------
 def weekly_driver_update():
+    year = get_year()
     """Ruft einmal wöchentlich für alle Fahrer die Daten ab und speichert sie."""
     driver_list_data = fetch_driver_information(year)
     if driver_list_data:
@@ -198,6 +216,7 @@ def weekly_driver_update():
         print("Keine Fahrerliste verfügbar. Fahrer-Job wird abgebrochen.")
 
 def weekly_team_update():
+    year = get_year()
     """Ruft einmal wöchentlich für alle aktuellen Teams die Daten ab und speichert sie."""
     team_list_data = fetch_constructor_information(year)
     if team_list_data:
@@ -216,6 +235,7 @@ def weekly_team_update():
         print("Keine Team-Liste verfügbar. Team-Job wird abgebrochen.")
         
 def weekly_seasonal_stats_update():
+    year = get_year()
     """Ruft einmal wöchentlich die saisonalen Statistiken für alle Fahrer ab und speichert sie."""
     driver_list_data = fetch_driver_information(year)
     if driver_list_data:
@@ -233,13 +253,16 @@ def weekly_seasonal_stats_update():
         print("Keine Fahrerliste verfügbar. Saisonaler Statistik-Job wird abgebrochen.")
 
 def weekly_graphics_data_update():
+    year = get_year()
     fetch_season_standings(year)
 
 def weekly_championship_graphics_update():
+    year = get_year()
     plot_driver_championship(year)
     plot_constructor_championship(year)
     
 def weekly_race_graphics_update():
+    year = get_year()
     """Ruft einmal wöchentlich die saisonalen Statistiken für alle Fahrer ab und speichert sie."""
     driver_list_data = fetch_driver_information(year)
     if driver_list_data:

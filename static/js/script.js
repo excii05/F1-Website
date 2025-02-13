@@ -97,4 +97,4 @@ themeButton.addEventListener('click', () => {
 })
 
 // Code for the current year
-document.getElementById('year').textContent = new Date().getFullYear();
+document.getElementById('current_year').textContent = new Date().getFullYear();
