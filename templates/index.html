@@ -1,182 +1,117 @@
-<!DOCTYPE html>
-    <html lang="en">
-    <head>
-        <meta charset="UTF-8">
-        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+{% extends "base.html" %}
 
-        <!--==================== UNICONS ====================-->
-        <link rel="stylesheet" href="https://unicons.iconscout.com/release/v3.0.6/css/line.css">
+{% block menu %}
+    <div class="nav__menu" id="nav-menu">
+        <ul class="nav__list grid">
+            <li class="nav__item">
+                <a href="#drivers" class="nav__link active-link">
+                    <i class="nav__icon"></i> Driver Standings
+                </a>
+            </li>
 
-        <!--==================== CSS ==========-->
-        <link rel="stylesheet" href="{{ url_for('static', filename='css/main_styles.css') }}">
+            <li class="nav__item">
+                <a href="#constructors" class="nav__link">
+                    <i class="nav__icon"></i> Constructor Standings
+                </a>
+            </li>
 
-        <title>F1 Website</title>
-    </head>
-    <body>
-        <!--==================== HEADER ====================-->
-        <header class="header" id="header">
-            <nav class="nav container">
-                <img src="{{ url_for('static', filename='svg/F1.png') }}" class="nav__logo-img">
-                <a href="#" class="nav__logo">Formel 1 Saison {{ year }}</a>
+            <li class="nav__item">
+                <a href="#races" class="nav__link">
+                    <i class="nav__icon"></i> Race Dates
+                </a>
+            </li>
+        </ul>
+        
+        <i class="uil uil-times nav__close" id="nav-close"></i>
+    </div>
+{% endblock %}
 
-                <div class="nav__menu" id="nav-menu">
-                    <ul class="nav__list grid">
-                        <li class="nav__item">
-                            <a href="#drivers" class="nav__link active-link">
-                                <i class="nav__icon"></i> Driver Standings
+{% block main %}
+    <!--==================== Drivers ====================-->
+    <section class="driver section" id="drivers">
+        <h2 class="section__title">Driver Standings</h2>
+        <div class="table-container">
+            <table>
+                <thead>
+                    <tr>
+                        <th>Platz</th>
+                        <th>Name</th>
+                        <th>Team</th>
+                        <th>Punkte</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    {% for driver in driver_standings %}
+                    <tr>
+                        <td>{{ driver.position }}</td>
+                        <td>
+                            <a href="/driver/{{ driver.Driver.driverId }}">
+                                {{ driver.Driver.givenName }} {{ driver.Driver.familyName }}
                             </a>
-                        </li>
+                        </td>
+                        <td>{{ driver.Constructors[0].name }}</td>
+                        <td>{{ driver.points }}</td>
+                    </tr>
+                    {% endfor %}
+                </tbody>
+            </table>
+        </div>
+    </section>
+      
 
-                        <li class="nav__item">
-                            <a href="#constructors" class="nav__link">
-                                <i class="nav__icon"></i> Constructor Standings
+    <!--==================== Constructors ====================-->
+    <section class="constructor section" id="constructors">
+        <h2 class="section__title">Constructor Standings</h2>
+        <div class="table-container">
+            <table>
+                <thead>
+                    <tr>
+                        <th>Platz</th>
+                        <th>Team</th>
+                        <th>Punkte</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    {% for team in constructor_standings %}
+                    <tr>
+                        <td>{{ team.position }}</td>
+                        <td>
+                            <a href="/team/{{ team.Constructor.constructorId }}">
+                                {{ team.Constructor.name }}
                             </a>
-                        </li>
+                        </td>
+                        <td>{{ team.points }}</td>
+                    </tr>
+                    {% endfor %}
+                </tbody>
+            </table>
+        </div>
+    </section>
 
-                        <li class="nav__item">
-                            <a href="#races" class="nav__link">
-                                <i class="nav__icon"></i> Race Dates
-                            </a>
-                        </li>
-                    </ul>
-                    
-                    <i class="uil uil-times nav__close" id="nav-close"></i>
-                </div>
-
-                <div class="nav__btns">
-                    <!-- Theme change button -->
-                    <i class="uil uil-moon change-theme" id="theme-button"></i>
-
-                    <div class="nav__toggle" id="nav-toggle">
-                        <i class="uil uil-apps"></i>
-                    </div>
-                </div>
-            </nav>
-        </header>
-
-        <!--==================== MAIN ====================-->
-        <main class="main">
-            <!--==================== Drivers ====================-->
-            <section class="driver section" id="drivers">
-                <h2 class="section__title">Driver Standings</h2>
-                <div class="table-container">
-                    <table>
-                        <thead>
-                            <tr>
-                                <th>Platz</th>
-                                <th>Name</th>
-                                <th>Team</th>
-                                <th>Punkte</th>
-                            </tr>
-                        </thead>
-                        <tbody>
-                            {% for driver in driver_standings %}
-                            <tr>
-                                <td>{{ driver.position }}</td>
-                                <td>
-                                    <a href="/driver/{{ driver.Driver.driverId }}">
-                                        {{ driver.Driver.givenName }} {{ driver.Driver.familyName }}
-                                    </a>
-                                </td>
-                                <td>{{ driver.Constructors[0].name }}</td>
-                                <td>{{ driver.points }}</td>
-                            </tr>
-                            {% endfor %}
-                        </tbody>
-                    </table>
-                </div>
-            </section>
-              
-
-            <!--==================== Constructors ====================-->
-            <section class="constructor section" id="constructors">
-                <h2 class="section__title">Constructor Standings</h2>
-                <div class="table-container">
-                    <table>
-                        <thead>
-                            <tr>
-                                <th>Platz</th>
-                                <th>Team</th>
-                                <th>Punkte</th>
-                            </tr>
-                        </thead>
-                        <tbody>
-                            {% for team in constructor_standings %}
-                            <tr>
-                                <td>{{ team.position }}</td>
-                                <td>
-                                    <a href="/team/{{ team.Constructor.constructorId }}">
-                                        {{ team.Constructor.name }}
-                                    </a>
-                                </td>
-                                <td>{{ team.points }}</td>
-                            </tr>
-                            {% endfor %}
-                        </tbody>
-                    </table>
-                </div>
-            </section>
-
-            <!--==================== Races ====================-->
-            <section class="race section" id="races">
-                <h2 class="section__title">Race Dates</h2>
-                <div class="table-container">
-                    <table>
-                        <thead>
-                            <tr>
-                                <th>Runde</th>
-                                <th>Grand Prix</th>
-                                <th>Datum</th>
-                                <th>Ort</th>
-                            </tr>
-                        </thead>
-                        <tbody>
-                            {% for race in race_schedule %}
-                            <tr>
-                                <td>{{ race.round }}</td>
-                                <td>{{ race.raceName }}</td>
-                                <td>{{ race.date }}</td>
-                                <td>{{ race.Circuit.circuitName }}</td>
-                            </tr>
-                            {% endfor %}
-                        </tbody>
-                    </table>
-                </div>
-            </section>
-        </main>
-
-        <!--==================== FOOTER ====================-->
-        <footer class="footer">
-            <div class="footer__bg">
-                <div class="footer__container container grid">
-                    <div>
-                        <h1 class="footer__title">F1 Statistics</h1>
-                        <span class="footer__subtitle">This website is not an official project and is in no way affiliated with the Formula 1 companies!</span>
-                    </div>
-
-                    <div class="dropdown-container">
-                        <form method="GET" action="">
-                            <label for="year">Jahr:</label>
-                            <select name="year" id="year" onchange="this.form.submit()">
-                                {% for y in years %}
-                                    <option value="{{ y }}" {% if y == year %}selected{% endif %}>{{ y }}</option>
-                                {% endfor %}
-                            </select>
-                        </form>
-                    </div>
-
-                <p class="footer__copy">
-                    &#169; 2024 - <a id="current_year"></a> Tim Fuhrmann. All rights reserved
-                </p>
-            </div>
-        </footer>
-
-        <!--========== SCROLL TOP ==========-->
-        <a href="#" class="scrollup" id="scroll-top">
-            <i class="uil uil-arrow-up scrollup__icon"></i>
-        </a>
-
-        <!--==================== MAIN JS ====================-->
-        <script src="{{ url_for('static', filename='js/script.js') }}"></script>
-    </body>
-</html>
+    <!--==================== Races ====================-->
+    <section class="race section" id="races">
+        <h2 class="section__title">Race Dates</h2>
+        <div class="table-container">
+            <table>
+                <thead>
+                    <tr>
+                        <th>Runde</th>
+                        <th>Grand Prix</th>
+                        <th>Datum</th>
+                        <th>Ort</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    {% for race in race_schedule %}
+                    <tr>
+                        <td>{{ race.round }}</td>
+                        <td>{{ race.raceName }}</td>
+                        <td>{{ race.date }}</td>
+                        <td>{{ race.Circuit.circuitName }}</td>
+                    </tr>
+                    {% endfor %}
+                </tbody>
+            </table>
+        </div>
+    </section>
+{% endblock %}
