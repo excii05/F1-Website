@@ -7,7 +7,9 @@
         <!--==================== UNICONS ====================-->
         <link rel="stylesheet" href="https://unicons.iconscout.com/release/v3.0.6/css/line.css">
 
-        {% block style %}{% endblock %}
+        <!--==================== CSS ====================-->
+        <link rel="stylesheet" href="{{ url_for('static', filename='css/base_styles.css') }}">
+        {% block style %} {% endblock %}
 
         <title>F1 Website</title>
     </head>
