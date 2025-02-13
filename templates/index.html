@@ -1,5 +1,10 @@
 {% extends "base.html" %}
 
+{% block style %}
+    <!--==================== CSS ==========-->
+    <link rel="stylesheet" href="{{ url_for('static', filename='css/main_styles.css') }}">
+{% endblock %}
+
 {% block menu %}
     <div class="nav__menu" id="nav-menu">
         <ul class="nav__list grid">

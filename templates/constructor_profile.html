@@ -1,167 +1,107 @@
-<!DOCTYPE html>
-    <html lang="en">
-    <head>
-        <meta charset="UTF-8">
-        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+{% extends "base.html" %}
 
-        <!--==================== UNICONS ====================-->
-        <link rel="stylesheet" href="https://unicons.iconscout.com/release/v3.0.6/css/line.css">
+{% block style %}
+    <!--==================== CSS ==========-->
+    <link rel="stylesheet" href="{{ url_for('static', filename='css/team_styles.css') }}">
+{% endblock %}
 
-        <!--==================== CSS ==========-->
-        <link rel="stylesheet" href="{{ url_for('static', filename='css/team_styles.css') }}">
+{% block menu %}
+  <div class="nav__menu" id="nav-menu">
+    <ul class="nav__list grid">
+        <li class="nav__item">
+            <a href="#highlights" class="nav__link active-link">
+                <i class="nav__icon"></i> Career Highlights
+            </a>
+        </li>
 
-        <title>F1 Website</title>
-    </head>
+        <li class="nav__item">
+            <a href="#graphs" class="nav__link">
+                <i class="nav__icon"></i> Seasonal Graphs
+            </a>
+        </li>
+    </ul>
+    
+    <i class="uil uil-times nav__close" id="nav-close"></i>
+  </div>         
+{% endblock %}
 
-    <body>
-        <!--==================== HEADER ====================-->
-        <header class="header" id="header">
-            <nav class="nav container">
-                <img src="{{ url_for('static', filename='svg/F1.png') }}" class="nav__logo-img">
-                <a href="/" class="nav__logo">Formel 1 Saison {{ year }}</a>
+{% block main %}
+  <!--==================== CAREER HIGHLIGHTS ====================-->
+  <section class="driver section" id="highlights">
+    <h2 class="section__title">Career Highlights</h2>
 
-                <div class="nav__menu" id="nav-menu">
-                    <ul class="nav__list grid">
-                        <li class="nav__item">
-                            <a href="#highlights" class="nav__link active-link">
-                                <i class="nav__icon"></i> Career Highlights
-                            </a>
-                        </li>
-
-                        <li class="nav__item">
-                            <a href="#graphs" class="nav__link">
-                                <i class="nav__icon"></i> Seasonal Graphs
-                            </a>
-                        </li>
-                    </ul>
-                    
-                    <i class="uil uil-times nav__close" id="nav-close"></i>
+    <div class="about__container container grid">
+        <img src="https://media.formula1.com/image/upload/content/dam/fom-website/2018-redesign-assets/team logos/{{ team_id | format_team }}" class="profile_image">
+        <div class="career-stats-grid">
+            <div class="stat-box">
+                <div class="stat-box-inner">
+                  <div class="stat-top">
+                    <img src="{{ url_for('static', filename='svg/icons/flag.svg') }}" class="icon-image">
+                    <p class="stat-number">{{ team.nationality }}</p>
+                  </div>
+                  <p class="stat-label">Nationality</p>
                 </div>
-
-                <div class="nav__btns">
-                    <!-- Theme change button -->
-                    <i class="uil uil-moon change-theme" id="theme-button"></i>
-
-                    <div class="nav__toggle" id="nav-toggle">
-                        <i class="uil uil-apps"></i>
-                    </div>
-                </div>
-            </nav>
-        </header>
-
-        <!--==================== MAIN ====================-->
-        <main class="main">
-            <!--==================== CAREER HIGHLIGHTS ====================-->
-            <section class="driver section" id="highlights">
-                <h2 class="section__title">Career Highlights</h2>
-
-                <div class="about__container container grid">
-                    <img src="https://media.formula1.com/image/upload/content/dam/fom-website/2018-redesign-assets/team logos/{{ team_id | format_team }}" class="profile_image">
-                    <div class="career-stats-grid">
-                        <div class="stat-box">
-                            <div class="stat-box-inner">
-                              <div class="stat-top">
-                                <img src="{{ url_for('static', filename='svg/icons/flag.svg') }}" class="icon-image">
-                                <p class="stat-number">{{ team.nationality }}</p>
-                              </div>
-                              <p class="stat-label">Nationality</p>
-                            </div>
-                        </div>
-                        
-                        <div class="stat-box">
-                            <div class="stat-box-inner">
-                              <div class="stat-top">
-                                <img src="{{ url_for('static', filename='svg/icons/trophy.svg') }}" class="icon-image">
-                                <p class="stat-number">{{ career_stats.first_season }}</p>
-                              </div>
-                              <p class="stat-label">First Season</p>
-                            </div>
-                        </div>
-                        
-                        <div class="stat-box">
-                            <div class="stat-box-inner">
-                              <div class="stat-top">
-                                <img src="{{ url_for('static', filename='svg/icons/medal.svg') }}" class="icon-image">
-                                <p class="stat-number">{{ career_stats.total_races }}</p>
-                              </div>
-                              <p class="stat-label">Grand Prix entered</p>
-                            </div>
-                        </div> 
-                        
-                        <div class="stat-box">
-                            <div class="stat-box-inner">
-                              <div class="stat-top">
-                                <img src="{{ url_for('static', filename='svg/icons/tachometer.svg') }}" class="icon-image">
-                                <p class="stat-number">{{ career_stats.wins }}</p>
-                              </div>
-                              <p class="stat-label">Wins</p>
-                            </div>
-                        </div>
-                        
-                        <div class="stat-box">
-                            <div class="stat-box-inner">
-                              <div class="stat-top">
-                                <img src="{{ url_for('static', filename='svg/icons/graph-bar.svg') }}" class="icon-image">
-                                <p class="stat-number">{{ career_stats.WCC_titles }}</p>
-                              </div>
-                              <p class="stat-label">World Constructor<br>Championships</p>
-                            </div>
-                        </div>    
-                        
-                        <div class="stat-box">
-                            <div class="stat-box-inner">
-                              <div class="stat-top">
-                                <img src="{{ url_for('static', filename='svg/icons/stopwatch.svg') }}" class="icon-image">
-                                <p class="stat-number">{{ career_stats.WDC_titles }}</p>
-                              </div>
-                              <p class="stat-label">World Driver<br>Championships</p>
-                            </div>
-                        </div>    
-                    </div>
-                </div>
-            </section>
-
-              <!--==================== SEASONAL GRAPHS ====================-->
-            <section class="section" id="graphs">
-              <h2 class="section__title">Seasonal Graphics</h2>
-              <div class="seasonal-graphics">
-                <img src="/static/svg/championship/constructor_championship_{{ year }}.svg" class="">
-                <img src="/static/svg/championship/driver_championship_{{ year }}.svg" class="">
-              </div>
-            </section>
-        </main>
-
-        <!--==================== FOOTER ====================-->
-        <footer class="footer">
-            <div class="footer__bg">
-                <div class="footer__container container grid">
-                    <div>
-                        <h1 class="footer__title">F1 Statistics</h1>
-                        <span class="footer__subtitle">This website is not an official project and is in no way affiliated with the Formula 1 companies!</span>
-                    </div>
-
-                    <ul class="footer__links">
-                        <li>
-                            <a href="#highlights" class="footer__link">Career Highlights</a>
-                        </li>
-                        <li>
-                          <a href="#graphs" class="footer__link">Seasonal Graphs</a>
-                      </li>
-                    </ul>
-                </div>
-
-                <p class="footer__copy">
-                    &#169; 2024 - <a id="year"></a> Tim Fuhrmann. All rights reserved
-                </p>
             </div>
-        </footer>
+            
+            <div class="stat-box">
+                <div class="stat-box-inner">
+                  <div class="stat-top">
+                    <img src="{{ url_for('static', filename='svg/icons/trophy.svg') }}" class="icon-image">
+                    <p class="stat-number">{{ career_stats.first_season }}</p>
+                  </div>
+                  <p class="stat-label">First Season</p>
+                </div>
+            </div>
+            
+            <div class="stat-box">
+                <div class="stat-box-inner">
+                  <div class="stat-top">
+                    <img src="{{ url_for('static', filename='svg/icons/medal.svg') }}" class="icon-image">
+                    <p class="stat-number">{{ career_stats.total_races }}</p>
+                  </div>
+                  <p class="stat-label">Grand Prix entered</p>
+                </div>
+            </div> 
+            
+            <div class="stat-box">
+                <div class="stat-box-inner">
+                  <div class="stat-top">
+                    <img src="{{ url_for('static', filename='svg/icons/tachometer.svg') }}" class="icon-image">
+                    <p class="stat-number">{{ career_stats.wins }}</p>
+                  </div>
+                  <p class="stat-label">Wins</p>
+                </div>
+            </div>
+            
+            <div class="stat-box">
+                <div class="stat-box-inner">
+                  <div class="stat-top">
+                    <img src="{{ url_for('static', filename='svg/icons/graph-bar.svg') }}" class="icon-image">
+                    <p class="stat-number">{{ career_stats.WCC_titles }}</p>
+                  </div>
+                  <p class="stat-label">World Constructor<br>Championships</p>
+                </div>
+            </div>    
+            
+            <div class="stat-box">
+                <div class="stat-box-inner">
+                  <div class="stat-top">
+                    <img src="{{ url_for('static', filename='svg/icons/stopwatch.svg') }}" class="icon-image">
+                    <p class="stat-number">{{ career_stats.WDC_titles }}</p>
+                  </div>
+                  <p class="stat-label">World Driver<br>Championships</p>
+                </div>
+            </div>    
+        </div>
+    </div>
+  </section>
 
-        <!--========== SCROLL TOP ==========-->
-        <a href="#" class="scrollup" id="scroll-top">
-            <i class="uil uil-arrow-up scrollup__icon"></i>
-        </a>
-
-        <!--==================== MAIN JS ====================-->
-        <script src="{{ url_for('static', filename='js/script.js') }}"></script>                          
-    </body>
-</html>
+  <!--==================== SEASONAL GRAPHS ====================-->
+  <section class="section" id="graphs">
+    <h2 class="section__title">Seasonal Graphics</h2>
+    <div class="seasonal-graphics">
+      <img src="/static/svg/championship/constructor_championship_{{ year }}.svg" class="">
+      <img src="/static/svg/championship/driver_championship_{{ year }}.svg" class="">
+    </div>
+  </section>
+{% endblock %}

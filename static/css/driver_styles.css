@@ -410,23 +410,35 @@ img {
   font-size: var(--small-font-size);
 }
 
-.footer__links {
-  display: flex;
-  flex-direction: column;
-  row-gap: 1.5rem;
+.dropdown-container {
+  background: var(--first-color);
+  padding: 15px;
+  border-radius: 10px;
+  text-align: left;
+  width: 100%;
 }
 
-.footer__link:hover {
-  color: var(--first-color-lighter);
+/* Label Styling */
+label {
+  font-size: 18px;
+  color: #333;
+  font-weight: bold;
 }
 
-.footer__social {
-  font-size: 1.25rem;
-  margin-right: var(--mb-1-5);
+/* Dropdown Menü */
+select {
+  width: 100%;
+  padding: 10px;
+  font-size: 16px;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+  background-color: white;
+  cursor: pointer;
+  box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.2);
 }
 
-.footer__social:hover {
-  color: var(--first-color-lighter);
+option {
+  cursor: pointer;
 }
 
 .footer__copy {
@@ -508,6 +520,10 @@ img {
   .race table th:nth-child(4),
   .race table td:nth-child(4) {
     display: none;
+  }
+  select {
+    font-size: 14px;
+    padding: 12px;
   }
 }
 

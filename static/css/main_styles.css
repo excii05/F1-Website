@@ -369,15 +369,6 @@ option {
   cursor: pointer;
 }
 
-.footer__social {
-  font-size: 1.25rem;
-  margin-right: var(--mb-1-5);
-}
-
-.footer__social:hover {
-  color: var(--first-color-lighter);
-}
-
 .footer__copy {
   font-size: var(--smaller-font-size);
   text-align: center;
