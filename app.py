@@ -81,7 +81,11 @@ def get_race_schedule():
     year = get_year()
     data = fetch_race_schedule(year)
     if data:
-        return data['MRData']['RaceTable']['Races']
+        races = data['MRData']['RaceTable']['Races']
+        for race in races:
+            date_parts = race['date'].split('-')
+            race['date'] = f"{date_parts[2]}.{date_parts[1]}.{date_parts[0]}"
+        return races
     return []
 
 def count_f1_teams(career_stats):
