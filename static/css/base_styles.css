@@ -1,5 +1,6 @@
 /*==================== GOOGLE FONTS ====================*/
 @import url("https://fonts.googleapis.com/css2?family=Poppins:wght@400;500;600&display=swap");
+
 /*==================== VARIABLES CSS ====================*/
 :root {
   --header-height: 3rem;
@@ -384,12 +385,6 @@ option {
   .nav__list {
     column-gap: 0;
   }
-  .home__content {
-    grid-template-columns: .25fr 3fr;
-  }
-  .home__blob {
-    width: 180px;
-  }
 }
 
 @media screen and (max-width: 768px) {
@@ -405,20 +400,7 @@ option {
 
 /* For medium devices */
 @media screen and (min-width: 568px) {
-  .home__content {
-    grid-template-columns: max-content 1fr 1fr;
-  }
-  .home__data {
-    grid-column: initial;
-  }
-  .home__img {
-    order: 1;
-    justify-self: center;
-  }
   .about__container,
-  .skills__container,
-  .portfolio__content,
-  .contact__container,
   .footer__container {
     grid-template-columns: repeat(2, 1fr);
   }
@@ -434,9 +416,6 @@ option {
   }
   .driver {
     padding: 6rem 0 2rem;
-  }
-  .section__subtitle {
-    margin-bottom: 2rem;
   }
   .header {
     top: 0;
@@ -483,11 +462,5 @@ option {
   .main,
   .footer__container {
     padding: 0;
-  }
-  .home__blob {
-    width: 320px;
-  }
-  .home__social {
-    transform: translateX(-6rem);
   }
 }
