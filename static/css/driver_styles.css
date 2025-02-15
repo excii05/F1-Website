@@ -4,7 +4,7 @@
 /*==================== REUSABLE CSS CLASSES ====================*/
 .section {
   padding: 2rem 0;
-  max-width: 900px; /* Einheitliche Breite */
+  max-width: 900px;
   overflow: hidden;
 }
 

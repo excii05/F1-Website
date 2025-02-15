@@ -396,6 +396,10 @@ option {
     font-size: 14px;
     padding: 12px;
   }
+  .seasonal-graphics img {
+    margin: 0 15px 0 15px;
+    overflow: hidden;
+  }
 }
 
 /* For medium devices */
@@ -414,8 +418,8 @@ option {
   body {
     margin: 0;
   }
-  .driver {
-    padding: 6rem 0 2rem;
+  .driver{
+    padding: 6rem 0 2rem !important;
   }
   .header {
     top: 0;
