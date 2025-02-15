@@ -66,7 +66,6 @@ def analyze_team_results(team_id):
                     else:
                         entities = season.get("DriverStandings", [])
                         for entity in entities:
-                            # Hier gehen wir davon aus, dass das erste Element in "Constructors" den gesuchten Constructor enthält.
                             constructor_info = entity.get("Constructors", [{}])[0]
                             if constructor_info.get("constructorId") == team_id:
                                 stats[key] += 1
@@ -79,7 +78,6 @@ def analyze_team_results(team_id):
     return stats, gaps
 
 def run_full_query(team_id):
-    """Führt die komplette Abfrage durch und gibt die ermittelten Daten als Dictionary zurück."""
     team_info = get_team_info(team_id)
     stats, gaps = analyze_team_results(team_id)
     
@@ -99,17 +97,12 @@ def run_full_query(team_id):
     return output_data
 
 def store_team_data(team_id, max_retries=3):
-    """
-    Ruft die vollständigen Team-Daten ab und speichert diese in einer JSON-Datei.
-    Bei Fehlern wird bis zu `max_retries` mal versucht, die Daten abzurufen.
-    """
     attempt = 0
 
     while attempt < max_retries:
         try:
             output_data = run_full_query(team_id)
             
-            # Sicherstellen, dass das Zielverzeichnis existiert
             output_dir = os.path.join("cache", "team_carrier_stats")
             os.makedirs(output_dir, exist_ok=True)
             output_file = os.path.join(output_dir, f"{team_id}.json")
@@ -118,7 +111,7 @@ def store_team_data(team_id, max_retries=3):
                 json.dump(output_data, json_file, indent=4, ensure_ascii=False)
             
             print(f"Team-Daten erfolgreich in '{output_file}' gespeichert.")
-            return  # Erfolgreicher Durchlauf -> Funktion verlassen
+            return
         
         except Exception as e:
             attempt += 1
@@ -128,7 +121,7 @@ def store_team_data(team_id, max_retries=3):
                 raise e
             else:
                 print("Starte die Abfrage neu...")
-                time.sleep(1)  # Kurze Wartezeit vor dem erneuten Versuch
+                time.sleep(1)
 
 def main():
     team_id = "mercedes"

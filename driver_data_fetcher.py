@@ -88,7 +88,6 @@ def analyze_driver_results(driver_id):
     
     stats["teams"].discard(stats["current_team"])
     
-    # Berechnung der Meisterschaften und Vize-Weltmeisterschaften
     start_year = int(stats["first_season"] or 1950)
     for year in range(start_year, 2025):
         for standing_position in [1, 2]:
@@ -104,7 +103,6 @@ def analyze_driver_results(driver_id):
     return stats
 
 def run_full_query(driver_id):
-    """Führt die komplette Abfrage durch und gibt die ermittelten Daten als Dictionary zurück."""
     driver_info = get_driver_info(driver_id)
     stats = analyze_driver_results(driver_id)
     
@@ -133,17 +131,12 @@ def run_full_query(driver_id):
     return output_data
 
 def store_driver_data(driver_id, max_retries=3):
-    """
-    Ruft die vollständigen Daten für einen Fahrer ab und speichert diese in einer JSON-Datei.
-    Bei Fehlern wird bis zu `max_retries` mal versucht, die Daten abzurufen.
-    """
     attempt = 0
 
     while attempt < max_retries:
         try:
             output_data = run_full_query(driver_id)
             
-            # Sicherstellen, dass das Zielverzeichnis existiert
             output_dir = os.path.join("cache", "driver_carrier_stats")
             os.makedirs(output_dir, exist_ok=True)
             output_file = os.path.join(output_dir, f"{driver_id}.json")
@@ -152,7 +145,7 @@ def store_driver_data(driver_id, max_retries=3):
                 json.dump(output_data, json_file, indent=4, ensure_ascii=False)
             
             print(f"Die Daten wurden erfolgreich in '{output_file}' gespeichert.")
-            return  # Erfolgreicher Durchlauf -> Funktion verlassen
+            return
         
         except Exception as e:
             attempt += 1
@@ -162,9 +155,8 @@ def store_driver_data(driver_id, max_retries=3):
                 raise e
             else:
                 print("Starte die Abfrage neu...")
-                time.sleep(1)  # Kleine Wartezeit vor dem erneuten Versuch
+                time.sleep(1)
 
-# Optional: Beibehalten der main()-Funktion für direkten Aufruf via Kommandozeile
 def main():
     driver_id = "hamilton"
     store_driver_data(driver_id)

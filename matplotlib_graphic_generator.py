@@ -46,11 +46,9 @@ def plot_driver_results(year, driver_id):
     plt.figure(figsize=(10, 5))  
     ax = plt.gca()
     
-    # Linien zeichnen, ohne zusätzliche Marker
     plt.plot(rounds, positions, linestyle="-", color="b", label="Rennen")
     plt.plot(rounds, qualifying_positions, linestyle="-", color="r", label="Qualifying")
     
-    # Einzelne Punkte nur dort setzen, wo keine Verbindung besteht
     for i in range(total_races):
         if not np.isnan(positions[i]):
             if (i == 0 or np.isnan(positions[i - 1])) and (i == total_races - 1 or np.isnan(positions[i + 1])):
@@ -106,14 +104,14 @@ def plot_driver_championship(year):
             driver = entry["driver"]
             team = entry["team"]
             drivers.add(driver)
-            driver_teams[driver] = team  # Speichert das Team des Fahrers
+            driver_teams[driver] = team
     
     driver_positions = {driver: [None] * total_rounds for driver in drivers}
     
     for round_num, round_data in standings_data.items():
         for entry in round_data:
             driver = entry["driver"]
-            position = int(entry["position"]) if entry["position"] is not None else float('nan') # Änderung
+            position = int(entry["position"]) if entry["position"] is not None else float('nan')
             driver_positions[driver][int(round_num) - 1] = position
     
     sorted_drivers = sorted(driver_positions.keys(), key=lambda d: driver_positions[d][-1] if driver_positions[d][-1] is not None else float('inf'))
@@ -127,7 +125,7 @@ def plot_driver_championship(year):
         short_driver = driver.split("_")[-1][:3].upper()
         
         team = driver_teams.get(driver, "default")
-        color = team_colors.get(team, "#000000")  # Standardfarbe schwarz, falls Team nicht gefunden
+        color = team_colors.get(team, "#000000")
         
         plt.plot(rounds, positions, linestyle="-", label=short_driver, color=color, linewidth=2)
     

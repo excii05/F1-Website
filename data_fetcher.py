@@ -1,16 +1,17 @@
 import requests
 
-BASE_URL = "https://api.jolpi.ca/ergast/f1"
+BASE_URL = "https://api.jolpi.ca/ergast/f1" #the base URL is used to save some lines of code, as it is the same for every request!
 
 # Main Page Data Fetcher
-def fetch_driver_information(year):
-    url = f"{BASE_URL}/{year}/drivers/"
-    response = requests.get(url)
+#I will one explain one API request, as these are all programmed very similar
+def fetch_driver_information(year): #the year gets forwarded when calling the function. This ensures that I can get the data from any season I want.
+    url = f"{BASE_URL}/{year}/drivers/" #this is the API endpoint, which I use to retrieve the respective data
+    response = requests.get(url) #the request gets saved as a response in this variable
     
-    if response.status_code == 200:
-        return response.json()
+    if response.status_code == 200: #this code is mostly just for debugging purposes.
+        return response.json() #if the status code is 200, then everything is fine and it returns the API response
     else:
-        print(f"Failed to fetch driver information for {year}")
+        print(f"Failed to fetch driver information for {year}")  #if I get an error, it will give me an error message in my terminal
         return None
 
 def fetch_constructor_information(year):

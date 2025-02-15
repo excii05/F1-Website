@@ -1,6 +1,4 @@
 import logging
-import time
-from apscheduler.schedulers.background import BackgroundScheduler
 from data_fetcher import (
     fetch_driver_information,
     fetch_constructor_information,
@@ -21,7 +19,6 @@ logging.basicConfig(level=logging.INFO)
 logger = logging.getLogger(__name__)
 
 def weekly_driver_update():
-    """Ruft einmal wöchentlich für alle Fahrer die Daten ab und speichert sie."""
     driver_list_data = fetch_driver_information(year)
     if driver_list_data:
         drivers = driver_list_data.get('MRData', {}).get('DriverTable', {}).get('Drivers', [])
@@ -39,7 +36,6 @@ def weekly_driver_update():
         print("Keine Fahrerliste verfügbar. Fahrer-Job wird abgebrochen.")
 
 def weekly_team_update():
-    """Ruft einmal wöchentlich für alle aktuellen Teams die Daten ab und speichert sie."""
     team_list_data = fetch_constructor_information(year)
     if team_list_data:
         teams = team_list_data.get('MRData', {}).get('ConstructorTable', {}).get('Constructors', [])
@@ -57,7 +53,6 @@ def weekly_team_update():
         print("Keine Team-Liste verfügbar. Team-Job wird abgebrochen.")
         
 def weekly_seasonal_stats_update():
-    """Ruft einmal wöchentlich die saisonalen Statistiken für alle Fahrer ab und speichert sie."""
     driver_list_data = fetch_driver_information(year)
     if driver_list_data:
         drivers = driver_list_data.get('MRData', {}).get('DriverTable', {}).get('Drivers', [])
@@ -81,7 +76,6 @@ def weekly_championship_graphics_update():
     plot_constructor_championship(year)
     
 def weekly_race_graphics_update():
-    """Ruft einmal wöchentlich die saisonalen Statistiken für alle Fahrer ab und speichert sie."""
     driver_list_data = fetch_driver_information(year)
     if driver_list_data:
         drivers = driver_list_data.get('MRData', {}).get('DriverTable', {}).get('Drivers', [])
@@ -104,7 +98,6 @@ def main():
     # weekly_graphics_data_update()
     weekly_championship_graphics_update()
     weekly_race_graphics_update()
-    
 
 if __name__ == "__main__":
     main()

@@ -1,9 +1,9 @@
-import atexit
+import atexit #importing modules
 import os
 import json
 from datetime import datetime
 from flask import Flask, render_template, request
-from data_fetcher import (
+from data_fetcher import ( #importing functions from different files
     fetch_driver_information,
     fetch_constructor_information,
     fetch_driver_standings, 
@@ -22,44 +22,46 @@ from matplotlib_graphic_generator import (
 )
 from apscheduler.schedulers.background import BackgroundScheduler
 
-app = Flask(__name__)
+#Note: I will not explain every single line of code, as many of it is very identical to another.
+# if you have questions, please feel free to contact me on my portfolio page: tim.fuhrmann-leo.de
 
-current_year = 2024
-years = [str(y) for y in range(2020, current_year + 1)]
+app = Flask(__name__) #created Flask application
 
-# ---------------------------
-# Scheduler-Konfiguration
-# ---------------------------
-# Konfiguriere hier den Wochentag und die Uhrzeit, an der die Jobs ausgeführt werden sollen.
-WEEKLY_JOB_DAY = 'tue'    # Beispiel: jeden Montag
-WEEKLY_JOB_HOUR = 15       # Beispiel: 03:00 Uhr
-WEEKLY_JOB_MINUTE = 14     # Beispiel: 03:00 Uhr
+current_year = 2024 #fallback if API request breaks
+years = [str(y) for y in range(2020, current_year + 1)] #sets the available seasons for which I have data
 
 # ---------------------------
-# Datenabruf-Funktionen für die Web-App
+# Scheduler configuration
+# ---------------------------
+WEEKLY_JOB_DAY = 'tue' #sets the week day for the scheduler
+WEEKLY_JOB_HOUR = 15 #sets the hour for the scheduler
+WEEKLY_JOB_MINUTE = 14 #sets the minute day for the scheduler
+
+# ---------------------------
+# Data calling function for my web
 # ---------------------------
 def get_year():
-    return request.args.get("year", current_year)
+    return request.args.get("year", current_year) #returns current year
 
 def get_driver_details(driver_id):
     year = get_year()
-    data = fetch_driver_information(year)
-    if data:
-        drivers = data['MRData']['DriverTable']['Drivers']
-        for driver in drivers:
+    data = fetch_driver_information(year) #calls function from data_fetcher.py file
+    if data: #checks if data received
+        drivers = data['MRData']['DriverTable']['Drivers'] #loads the driver list
+        for driver in drivers: #checks if driver with a specific driver_id is in that list
             if driver['driverId'] == driver_id:
-                return driver
-    return None
+                return driver #returns the driver if true
+    return None #returns nothing if false
 
 def get_driver_age(driver_id):
     data = fetch_driver_info(driver_id)
     if data:
         drivers = data['MRData']['DriverTable']['Drivers']
         if drivers:
-            birth_date = drivers[0].get("dateOfBirth", "0000-00-00")
+            birth_date = drivers[0].get("dateOfBirth", "0000-00-00") #requests date of birth. If nothing is returned it will use 0000-00-00 instead
             birth_datetime = datetime.strptime(birth_date, "%Y-%m-%d")
-            today = datetime.today()
-            age = today.year - birth_datetime.year - ((today.month, today.day) < (birth_datetime.month, birth_datetime.day))
+            today = datetime.today() #gets current date
+            age = today.year - birth_datetime.year - ((today.month, today.day) < (birth_datetime.month, birth_datetime.day)) #calculated the age
             return age
     return None
 
@@ -92,30 +94,29 @@ def count_f1_teams(career_stats):
     former_teams = career_stats.get("former_teams", [])
     return len(former_teams)
 
-# Custom Jinja-Filter zum Extrahieren des Namens nach dem Unterstrich
+# Custom Jinja-Filter to extract the last name (important for the pictures I get from the official F1 website!)
 def extract_lastname(driver_id):
-    return driver_id.split('_')[-1]  # Nimmt nur den Teil nach dem "_"
+    return driver_id.split('_')[-1]  #only takes the name after the _
+app.jinja_env.filters['lastname'] = extract_lastname  #registers filter
 
-app.jinja_env.filters['lastname'] = extract_lastname  # Filter registrieren
-
+# Custom Jinja-Filter to replace the _ with a space (important for the pictures I get from the official F1 website!)
 def format_team_id(team_id):
-    return team_id.replace('_', ' ')  # Ersetzt Unterstrich durch Leerzeichen
-
-app.jinja_env.filters['format_team'] = format_team_id  # Filter registrieren
+    return team_id.replace('_', ' ')  #replaces the _ with a space
+app.jinja_env.filters['format_team'] = format_team_id
 
 
 # ---------------------------
-# Routen
+# Routes
 # ---------------------------
-@app.route('/')
+@app.route('/') #standard app route --> this is the main page
 def home():
     year = request.args.get("year", str(current_year))
     
-    driver_standings = get_driver_standings()
-    constructor_standings = get_constructor_standings()
-    race_schedule = get_race_schedule()
+    driver_standings = get_driver_standings() #gets the current driver WDC standings
+    constructor_standings = get_constructor_standings() #gets the current driver WCC standings
+    race_schedule = get_race_schedule() #gets all the race weeksends for the current season
 
-    return render_template(
+    return render_template( #forwards all the data to the HTML template
         'index.html',
         driver_standings=driver_standings,
         constructor_standings=constructor_standings,
@@ -128,16 +129,16 @@ def home():
 def driver_profile(driver_id):
     year = request.args.get("year", str(current_year))
     
-    # Pfade zu den JSON-Dateien zusammenbauen
+    #constructs the file path where the data is stored
     career_stats_path = os.path.join('cache', 'driver_carrier_stats', f'{driver_id}.json')
     seasonal_stats_path = os.path.join('cache', 'driver_seasonal_stats', f'{driver_id}_{year}.json')
 
-    # Initialisierung der Daten
+    #initializes the data from the .json files
     driver_info = {}
     career_stats = {}
     seasonal_stats = {}
     
-    # Fahrerkarrieredaten einlesen
+    #reads in all the data from the .json files
     if os.path.exists(career_stats_path):
         try:
             with open(career_stats_path, 'r', encoding='utf-8') as file:
@@ -145,18 +146,17 @@ def driver_profile(driver_id):
             driver_info = career_data.get("driver_info", {})
             career_stats = career_data.get("career_stats", {})
         except Exception as e:
-            return f"Fehler beim Laden der Karriere-Daten: {e}", 500
+            return f"Error when loading the driver data: {e}", 500
 
-    # Saisonstatistiken einlesen
     if os.path.exists(seasonal_stats_path):
         try:
             with open(seasonal_stats_path, 'r', encoding='utf-8') as file:
                 seasonal_stats = json.load(file)
         except Exception as e:
-            return f"Fehler beim Laden der Saison-Daten: {e}", 500
+            return f"Error when loading the season data: {e}", 500
     
-    age = get_driver_age(driver_id)
-    total_teams = count_f1_teams(career_stats)
+    age = get_driver_age(driver_id) #gets the drivers age
+    total_teams = count_f1_teams(career_stats) #gets the amount of former teams of the driver
 
     return render_template(
         'driver_profile.html',
@@ -174,20 +174,15 @@ def driver_profile(driver_id):
 def team_profile(team_id):
     year = request.args.get("year", str(current_year))
     
-    # Pfad zur JSON-Datei zusammenbauen
     json_path = os.path.join('cache', 'team_carrier_stats', f'{team_id}.json')
     
-    # Prüfen, ob die Datei existiert
     if os.path.exists(json_path):
         try:
             with open(json_path, 'r', encoding='utf-8') as file:
                 team_data = json.load(file)
         except Exception as e:
-            # Falls ein Fehler beim Laden auftritt, wird ein 500-Fehler zurückgegeben
-            return f"Fehler beim Laden der Konstrukteurdaten: {e}", 500
+            return f"Error when loading the constructor data: {e}", 500
 
-        # Extrahiere die einzelnen Daten, sodass das Template wie gewohnt
-        # mit "driver" und "career_stats" arbeiten kann
         team_info = team_data.get("team_info", {})
         career_stats = team_data.get("career_stats", {})
 
@@ -199,50 +194,45 @@ def team_profile(team_id):
             year=year,
             years=years
         )
-    else:
-        # Falls keine JSON-Datei gefunden wurde, gib den Fehlercode 404 zurück.
-        return "Konstrukteurdaten nicht gefunden", 404
 
 # ---------------------------
-# Scheduler-Funktionen: Wöchentliche Datenaktualisierung
+# Scheduler function: Weekly data update from the API!
 # ---------------------------
 def weekly_driver_update():
     year = get_year()
-    """Ruft einmal wöchentlich für alle Fahrer die Daten ab und speichert sie."""
-    driver_list_data = fetch_driver_information(year)
+    driver_list_data = fetch_driver_information(year) #gets the entire driver list for the current season
     if driver_list_data:
         drivers = driver_list_data.get('MRData', {}).get('DriverTable', {}).get('Drivers', [])
-        print(f"Starte wöchentlichen Fahrer-Datenabruf für {len(drivers)} Fahrer...")
+        print(f"Starting weekly driver data update for {len(drivers)}...") #debugging logs
         for driver in drivers:
             driver_id = driver.get("driverId")
             if driver_id:
                 try:
-                    print(f"Starte Abfrage für Fahrer: {driver_id}")
+                    print(f"Starting to update data for: {driver_id}")
                     store_driver_data(driver_id)
-                    print(f"Daten für Fahrer {driver_id} erfolgreich aktualisiert.")
+                    print(f"Data for driver {driver_id} succesfully saved.")
                 except Exception as e:
-                    print(f"Fehler bei Fahrer {driver_id}: {e}")
+                    print(f"Error for driver {driver_id}: {e}")
     else:
-        print("Keine Fahrerliste verfügbar. Fahrer-Job wird abgebrochen.")
+        print("Couldn't find driver data. Job was aborded.")
 
 def weekly_team_update():
     year = get_year()
-    """Ruft einmal wöchentlich für alle aktuellen Teams die Daten ab und speichert sie."""
     team_list_data = fetch_constructor_information(year)
     if team_list_data:
         teams = team_list_data.get('MRData', {}).get('ConstructorTable', {}).get('Constructors', [])
-        print(f"Starte wöchentlichen Team-Datenabruf für {len(teams)} Teams...")
+        print(f"Starting weekly driver data update for {len(teams)}...")
         for team in teams:
             team_id = team.get("constructorId")
             if team_id:
                 try:
-                    print(f"Starte Abfrage für Team: {team_id}")
+                    print(f"Starting to update data for: {team_id}")
                     store_team_data(team_id)
-                    print(f"Daten für Team {team_id} erfolgreich aktualisiert.")
+                    print(f"Data for driver {team_id} succesfully saved.")
                 except Exception as e:
-                    print(f"Fehler bei Team {team_id}: {e}")
+                    print(f"Error for driver {team_id}: {e}")
     else:
-        print("Keine Team-Liste verfügbar. Team-Job wird abgebrochen.")
+        print("Couldn't find constructor data. Job was aborded.")
         
 def weekly_seasonal_stats_update():
     year = get_year()
@@ -250,17 +240,17 @@ def weekly_seasonal_stats_update():
     driver_list_data = fetch_driver_information(year)
     if driver_list_data:
         drivers = driver_list_data.get('MRData', {}).get('DriverTable', {}).get('Drivers', [])
-        print(f"Starte wöchentlichen saisonalen Statistik-Abruf für {len(drivers)} Fahrer...")
+        print(f"Starting weekly seasonal data update for {len(drivers)}...")
         for driver in drivers:
             driver_id = driver.get("driverId")
             if driver_id:
                 try:
-                    print(f"Starte Abfrage der saisonalen Statistiken für Fahrer: {driver_id}")
+                    print(f"Starting to update data for: {driver_id}")
                     get_seasonal_stats(year, driver_id)
                 except Exception as e:
-                    print(f"Fehler bei saisonalen Statistiken für Fahrer {driver_id}: {e}")
+                    print(f"Error for driver {driver_id}: {e}")
     else:
-        print("Keine Fahrerliste verfügbar. Saisonaler Statistik-Job wird abgebrochen.")
+        print("Couldn't find driver data. Job was aborded.")
 
 def weekly_graphics_data_update():
     year = get_year()
@@ -273,27 +263,26 @@ def weekly_championship_graphics_update():
     
 def weekly_race_graphics_update():
     year = get_year()
-    """Ruft einmal wöchentlich die saisonalen Statistiken für alle Fahrer ab und speichert sie."""
     driver_list_data = fetch_driver_information(year)
     if driver_list_data:
         drivers = driver_list_data.get('MRData', {}).get('DriverTable', {}).get('Drivers', [])
-        print(f"Starte wöchentliche Grafikgenerierung für {len(drivers)} Fahrer...")
+        print(f"Starting weekly graphics update for {len(drivers)} Fahrer...")
         for driver in drivers:
             driver_id = driver.get("driverId")
             if driver_id:
                 try:
-                    print(f"Starte Generierung der wöchtentlichen Grafik für Fahrer: {driver_id}")
+                    print(f"Starting to generate graphics for: {driver_id}")
                     plot_driver_results(year, driver_id)
                 except Exception as e:
-                    print(f"Fehler bei der Generierung der wöchtentlichen Grafik für Fahrer: {driver_id}: {e}")
+                    print(f"Error for driver: {driver_id}: {e}")
     else:
-        print("Keine Fahrerliste verfügbar. Generierung der wöchtentlichen Grafik-Job wird abgebrochen.")
+        print("Couldn't find driver data. Job was aborded.")
 
 # ---------------------------
-# Scheduler initialisieren
+# Scheduler initialisation
 # ---------------------------
 scheduler = BackgroundScheduler()
-scheduler.add_job(
+scheduler.add_job( #adding scheduler jobs
     func=weekly_driver_update,
     trigger='cron',
     day_of_week=WEEKLY_JOB_DAY,
@@ -313,7 +302,7 @@ scheduler.add_job(
     func=weekly_seasonal_stats_update,
     trigger='cron',
     day_of_week=WEEKLY_JOB_DAY,
-    hour=WEEKLY_JOB_HOUR + 1,
+    hour=WEEKLY_JOB_HOUR + 1, #stacking jobs to avoid running into API rate limits!
     minute=WEEKLY_JOB_MINUTE,
     id='weekly_seasonal_stats_update_job'
 )
@@ -342,10 +331,10 @@ scheduler.add_job(
     id='weekly_race_graphics_update_job'
 )
 scheduler.start()
-print(f"Scheduler gestartet: Wöchentliche Jobs jeden {WEEKLY_JOB_DAY} um {WEEKLY_JOB_HOUR:02d}:{WEEKLY_JOB_MINUTE:02d} Uhr.")
+print(f"Scheduler started: Starting to update data each {WEEKLY_JOB_DAY} at {WEEKLY_JOB_HOUR:02d}:{WEEKLY_JOB_MINUTE:02d} o'clock.")
 
-# Sicherstellen, dass der Scheduler beim Beenden der App ordentlich heruntergefahren wird.
+#makes sure that the scheduler is properly shut down before exiting the program
 atexit.register(lambda: scheduler.shutdown())
 
-if __name__ == '__main__':
+if __name__ == '__main__': #calling the app (starting the app!)
     app.run(debug=True)
