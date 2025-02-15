@@ -43,9 +43,8 @@ def plot_driver_results(year, driver_id):
     
     plt.figure(figsize=(10, 5))
     
-    plt.figure(figsize=(10, 5), facecolor="#f8f9fa")  
+    plt.figure(figsize=(10, 5))  
     ax = plt.gca()
-    ax.set_facecolor("#f8f9fa")  
     
     # Linien zeichnen, ohne zusätzliche Marker
     plt.plot(rounds, positions, linestyle="-", color="b", label="Rennen")
@@ -65,14 +64,14 @@ def plot_driver_results(year, driver_id):
     plt.xlabel("Rennrunde")
     plt.ylabel("Position")
     plt.title(f"Performance von {driver_id.split('_')[-1].capitalize()} in {year}")
-    plt.legend()
-    plt.grid(alpha=0.1)
+    plt.legend(framealpha=0.0)
+    plt.grid(alpha=0.2, linestyle="--")
     
     plt.xticks(range(1, total_races + 1, 1))
     plt.yticks(list(range(20, 0, -1)) + [21], labels=[str(i) for i in range(20, 0, -1)] + ["DNF"])
     
     os.makedirs(os.path.dirname(save_path), exist_ok=True)
-    plt.savefig(save_path, format="png", dpi=300)
+    plt.savefig(save_path, format="png", dpi=300, transparent=True)
     print(f"Grafik gespeichert unter {save_path}")
     
     # plt.show()
@@ -220,7 +219,7 @@ def plot_constructor_championship(year):
 
 if __name__ == "__main__":
     year = 2024
-    driver_id = "sainz"
-    # plot_driver_results(year, driver_id)
-    plot_driver_championship(year)
+    driver_id = "max_verstappen"
+    plot_driver_results(year, driver_id)
+    # plot_driver_championship(year)
     # plot_constructor_championship(year)

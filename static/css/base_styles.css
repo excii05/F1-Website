@@ -263,36 +263,6 @@ img {
   box-shadow: 0 -1px 4px rgba(0, 0, 0, 0.15);
 }
 
-/*========== TABLES ==========*/
-table {
-  width: 100%; /* Tabelle passt sich an die verfügbare Breite an */
-  border-collapse: collapse;
-  text-align: center;
-}
-
-th, td {
-  padding: 12px;
-  border-bottom: 1px solid #e0e0e0;
-}
-
-th {
-  background-color: var(--first-color);
-  color: #ffffff;
-  font-weight: bold;
-}
-
-td {
-  color: #333;
-}
-
-td a {
-  color: #333;
-}
-
-tr:hover {
-  background-color: #f1f1f1;
-}
-
 /*==================== FOOTER ====================*/
 .footer {
   padding-top: 2rem;

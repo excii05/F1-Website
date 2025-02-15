@@ -9,35 +9,6 @@
   max-width: 900px;
 }
 
-/*==================== NAV ====================*/
-.nav__close {
-  position: absolute;
-  right: 1.3rem;
-  bottom: .5rem;
-  font-size: 1.5rem;
-  cursor: pointer;
-  color: var(--first-color);
-}
-
-.nav__close:hover {
-  color: var(--first-color-alt);
-}
-
-/* show menu */
-.show-menu {
-  bottom: 0;
-}
-
-/* Active link */
-.active-link {
-  color: var(--first-color);
-}
-
-/* Change background header */
-.scroll-header {
-  box-shadow: 0 -1px 4px rgba(0, 0, 0, 0.15);
-}
-
 /*==================== CAREER HIGHLIGHTS ====================*/
 .about__container {
     display: flex;
