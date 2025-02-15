@@ -52,3 +52,55 @@ td a {
 tr:hover {
   background-color: #f1f1f1;
 }
+
+/*==================== MEDIA QUERIES ====================*/
+/* For small devices */
+@media screen and (max-width: 768px) {
+  .race table th:nth-child(4),
+  .race table td:nth-child(4) {
+    display: none;
+  }
+  .driver {
+    th:nth-child(1)::before {
+      content: "POS";
+      margin-left: 5px;
+    }
+    th:nth-child(2)::before { content: "Driver"; }
+    th:nth-child(3)::before { content: "Team"; }
+    th:nth-child(4)::before {
+      content: "PTS";
+      margin-right: 5px;
+    }
+    th {
+      text-indent: -9999px;
+      position: relative;
+    }
+    th::before {
+      text-indent: 0;
+      position: absolute;
+      left: 50%;
+      transform: translateX(-50%);
+    }
+  }
+  .constructor {
+    th:nth-child(1)::before {
+      content: "POS";
+      margin-left: 5px;
+    }
+    th:nth-child(2)::before { content: "Team"; }
+    th:nth-child(3)::before {
+      content: "PTS";
+      margin-right: 5px;
+    }
+    th {
+      text-indent: -9999px;
+      position: relative;
+    }
+    th::before {
+      text-indent: 0;
+      position: absolute;
+      left: 50%;
+      transform: translateX(-50%);
+    }
+  }
+}

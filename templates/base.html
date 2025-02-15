@@ -18,7 +18,7 @@
         <header class="header" id="header">
             <nav class="nav container">
                 <img src="{{ url_for('static', filename='svg/F1.png') }}" class="nav__logo-img">
-                <a href="/" class="nav__logo">Formel 1 Saison {{ year }}</a>
+                <a href="/" class="nav__logo">Formel 1 Season {{ year }}</a>
 
                 {% block menu %}
             
@@ -53,7 +53,7 @@
 
                     <div class="dropdown-container">
                         <form method="GET" action="">
-                            <label for="year">Jahr:</label>
+                            <label for="year">Season:</label>
                             <select name="year" id="year" onchange="this.form.submit()">
                                 {% for y in years %}
                                     <option value="{{ y }}" {% if y == year %}selected{% endif %}>{{ y }}</option>
@@ -63,7 +63,7 @@
                     </div>
 
                 <p class="footer__copy">
-                    &#169; 2024 - <a id="current_year"></a> Tim Fuhrmann. All rights reserved
+                    &#169; 2024 -&nbsp;<a id="current_year"></a> &nbsp; Tim Fuhrmann. All rights reserved
                 </p>
             </div>
         </footer>

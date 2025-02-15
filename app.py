@@ -84,6 +84,10 @@ def get_race_schedule():
         return data['MRData']['RaceTable']['Races']
     return []
 
+def count_f1_teams(career_stats):
+    former_teams = career_stats.get("former_teams", [])
+    return len(former_teams)
+
 # Custom Jinja-Filter zum Extrahieren des Namens nach dem Unterstrich
 def extract_lastname(driver_id):
     return driver_id.split('_')[-1]  # Nimmt nur den Teil nach dem "_"
@@ -101,7 +105,7 @@ app.jinja_env.filters['format_team'] = format_team_id  # Filter registrieren
 # ---------------------------
 @app.route('/')
 def home():
-    year = request.args.get("year", current_year)
+    year = request.args.get("year", str(current_year))
     
     driver_standings = get_driver_standings()
     constructor_standings = get_constructor_standings()
@@ -118,7 +122,7 @@ def home():
 
 @app.route('/driver/<driver_id>')
 def driver_profile(driver_id):
-    year = request.args.get("year", current_year)
+    year = request.args.get("year", str(current_year))
     
     # Pfade zu den JSON-Dateien zusammenbauen
     career_stats_path = os.path.join('cache', 'driver_carrier_stats', f'{driver_id}.json')
@@ -128,8 +132,6 @@ def driver_profile(driver_id):
     driver_info = {}
     career_stats = {}
     seasonal_stats = {}
-
-    age = get_driver_age(driver_id)
     
     # Fahrerkarrieredaten einlesen
     if os.path.exists(career_stats_path):
@@ -148,6 +150,9 @@ def driver_profile(driver_id):
                 seasonal_stats = json.load(file)
         except Exception as e:
             return f"Fehler beim Laden der Saison-Daten: {e}", 500
+    
+    age = get_driver_age(driver_id)
+    total_teams = count_f1_teams(career_stats)
 
     return render_template(
         'driver_profile.html',
@@ -155,6 +160,7 @@ def driver_profile(driver_id):
         career_stats=career_stats,
         seasonal_stats=seasonal_stats,
         driver_id=driver_id,
+        total_teams=total_teams,
         age=age,
         year=year,
         years=years
@@ -162,7 +168,7 @@ def driver_profile(driver_id):
 
 @app.route('/team/<team_id>')
 def team_profile(team_id):
-    year = request.args.get("year", current_year)
+    year = request.args.get("year", str(current_year))
     
     # Pfad zur JSON-Datei zusammenbauen
     json_path = os.path.join('cache', 'team_carrier_stats', f'{team_id}.json')
