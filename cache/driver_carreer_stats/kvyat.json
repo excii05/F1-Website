@@ -1,0 +1,26 @@
+{
+    "driver_info": {
+        "full_name": "Daniil Kvyat",
+        "nationality": "Russian"
+    },
+    "career_stats": {
+        "total_races": 112,
+        "wins": 0,
+        "podiums": 3,
+        "p2_finishes": 1,
+        "p3_finishes": 2,
+        "pole_positions": 0,
+        "fastest_laps": 1,
+        "DNF": 24,
+        "DSQ": 0,
+        "outside_top10": 68,
+        "first_season": "2014",
+        "former_teams": [
+            "Red Bull",
+            "Toro Rosso"
+        ],
+        "current_team": "AlphaTauri",
+        "championships": 0,
+        "runner_up": 0
+    }
+}

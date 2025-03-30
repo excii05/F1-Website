@@ -1,0 +1,25 @@
+{
+    "driver_info": {
+        "full_name": "Antonio Giovinazzi",
+        "nationality": "Italian"
+    },
+    "career_stats": {
+        "total_races": 62,
+        "wins": 0,
+        "podiums": 0,
+        "p2_finishes": 0,
+        "p3_finishes": 0,
+        "pole_positions": 0,
+        "fastest_laps": 0,
+        "DNF": 7,
+        "DSQ": 0,
+        "outside_top10": 53,
+        "first_season": "2017",
+        "former_teams": [
+            "Sauber"
+        ],
+        "current_team": "Alfa Romeo",
+        "championships": 0,
+        "runner_up": 0
+    }
+}

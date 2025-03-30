@@ -16,10 +16,10 @@
         "outside_top10": 70,
         "first_season": "2015",
         "former_teams": [
-            "Ferrari",
-            "McLaren",
             "Renault",
-            "Toro Rosso"
+            "Toro Rosso",
+            "McLaren",
+            "Ferrari"
         ],
         "current_team": "Williams",
         "championships": 0,

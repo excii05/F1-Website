@@ -1,0 +1,27 @@
+{
+    "driver_info": {
+        "full_name": "Robert Kubica",
+        "nationality": "Polish"
+    },
+    "career_stats": {
+        "total_races": 99,
+        "wins": 1,
+        "podiums": 12,
+        "p2_finishes": 5,
+        "p3_finishes": 6,
+        "pole_positions": 1,
+        "fastest_laps": 1,
+        "DNF": 14,
+        "DSQ": 1,
+        "outside_top10": 46,
+        "first_season": "2006",
+        "former_teams": [
+            "Williams",
+            "BMW Sauber",
+            "Renault"
+        ],
+        "current_team": "Alfa Romeo",
+        "championships": 0,
+        "runner_up": 0
+    }
+}

@@ -1,0 +1,28 @@
+{
+    "driver_info": {
+        "full_name": "Kimi Räikkönen",
+        "nationality": "Finnish"
+    },
+    "career_stats": {
+        "total_races": 352,
+        "wins": 21,
+        "podiums": 103,
+        "p2_finishes": 37,
+        "p3_finishes": 45,
+        "pole_positions": 18,
+        "fastest_laps": 42,
+        "DNF": 74,
+        "DSQ": 0,
+        "outside_top10": 120,
+        "first_season": "2001",
+        "former_teams": [
+            "Sauber",
+            "Ferrari",
+            "Lotus F1",
+            "McLaren"
+        ],
+        "current_team": "Alfa Romeo",
+        "championships": 1,
+        "runner_up": 2
+    }
+}

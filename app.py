@@ -133,7 +133,7 @@ def driver_profile(driver_id):
     year = request.args.get("year", str(current_year))
     
     #constructs the file path where the data is stored
-    career_stats_path = os.path.join('cache', 'driver_carrier_stats', f'{driver_id}.json')
+    career_stats_path = os.path.join('cache', 'driver_carreer_stats', f'{driver_id}.json')
     seasonal_stats_path = os.path.join('cache', 'driver_seasonal_stats', f'{driver_id}_{year}.json')
 
     #initializes the data from the .json files
@@ -285,12 +285,43 @@ def weekly_race_graphics_update():
 # Scheduler initialisation
 # ---------------------------
 scheduler = BackgroundScheduler()
-
+scheduler.add_job( #adding scheduler jobs
+    func=weekly_driver_update,
+    trigger='cron',
+    day_of_week=WEEKLY_JOB_DAY,
+    hour=WEEKLY_JOB_HOUR,
+    minute=WEEKLY_JOB_MINUTE,
+    id='weekly_driver_update_job'
+)
+scheduler.add_job(
+    func=weekly_team_update,
+    trigger='cron',
+    day_of_week=WEEKLY_JOB_DAY,
+    hour=WEEKLY_JOB_HOUR,
+    minute=WEEKLY_JOB_MINUTE,
+    id='weekly_team_update_job'
+)
+scheduler.add_job(
+    func=weekly_seasonal_stats_update,
+    trigger='cron',
+    day_of_week=WEEKLY_JOB_DAY,
+    hour=WEEKLY_JOB_HOUR + 1, #stacking jobs to avoid running into API rate limits!
+    minute=WEEKLY_JOB_MINUTE,
+    id='weekly_seasonal_stats_update_job'
+)
+scheduler.add_job(
+    func=weekly_graphics_data_update,
+    trigger='cron',
+    day_of_week=WEEKLY_JOB_DAY,
+    hour=WEEKLY_JOB_HOUR + 1,
+    minute=WEEKLY_JOB_MINUTE + 30,
+    id='weekly_graphics_data_update_job'
+)
 scheduler.add_job(
     func=weekly_championship_graphics_update,
     trigger='cron',
     day_of_week=WEEKLY_JOB_DAY,
-    hour=WEEKLY_JOB_HOUR,
+    hour=WEEKLY_JOB_HOUR + 2,
     minute=WEEKLY_JOB_MINUTE,
     id='weekly_championship_graphics_update_job'
 )
@@ -298,7 +329,7 @@ scheduler.add_job(
     func=weekly_race_graphics_update,
     trigger='cron',
     day_of_week=WEEKLY_JOB_DAY,
-    hour=WEEKLY_JOB_HOUR,
+    hour=WEEKLY_JOB_HOUR + 2,
     minute=WEEKLY_JOB_MINUTE,
     id='weekly_race_graphics_update_job'
 )

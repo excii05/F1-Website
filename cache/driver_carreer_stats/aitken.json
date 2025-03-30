@@ -1,20 +1,20 @@
 {
     "driver_info": {
-        "full_name": "Logan Sargeant",
-        "nationality": "American"
+        "full_name": "Jack Aitken",
+        "nationality": "British"
     },
     "career_stats": {
-        "total_races": 36,
+        "total_races": 1,
         "wins": 0,
         "podiums": 0,
         "p2_finishes": 0,
         "p3_finishes": 0,
         "pole_positions": 0,
         "fastest_laps": 0,
-        "DNF": 9,
+        "DNF": 0,
         "DSQ": 0,
-        "outside_top10": 35,
-        "first_season": "2023",
+        "outside_top10": 1,
+        "first_season": "2020",
         "former_teams": [],
         "current_team": "Williams",
         "championships": 0,

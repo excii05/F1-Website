@@ -137,7 +137,7 @@ def store_driver_data(driver_id, max_retries=3):
         try:
             output_data = run_full_query(driver_id)
             
-            output_dir = os.path.join("cache", "driver_carrier_stats")
+            output_dir = os.path.join("cache", "driver_carreer_stats")
             os.makedirs(output_dir, exist_ok=True)
             output_file = os.path.join(output_dir, f"{driver_id}.json")
             

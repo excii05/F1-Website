@@ -16,12 +16,12 @@
         "outside_top10": 123,
         "first_season": "2010",
         "former_teams": [
-            "Renault",
             "Force India",
+            "Aston Martin",
             "Racing Point",
-            "Williams",
             "Haas F1 Team",
-            "Aston Martin"
+            "Renault",
+            "Williams"
         ],
         "current_team": "Sauber",
         "championships": 0,

@@ -11,15 +11,15 @@
         "p3_finishes": 16,
         "pole_positions": 3,
         "fastest_laps": 12,
-        "DNF": 40,
+        "DNF": 43,
         "DSQ": 1,
         "outside_top10": 97,
         "first_season": "2011",
         "former_teams": [
-            "Force India",
             "Sauber",
-            "Racing Point",
-            "McLaren"
+            "Force India",
+            "McLaren",
+            "Racing Point"
         ],
         "current_team": "Red Bull",
         "championships": 0,

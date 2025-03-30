@@ -13,7 +13,7 @@ from matplotlib_graphic_generator import (
     plot_driver_results
 )
 
-year = "2020"
+year = "2025"
 
 logging.basicConfig(level=logging.INFO)
 logger = logging.getLogger(__name__)
@@ -92,12 +92,12 @@ def weekly_race_graphics_update():
         print("Keine Fahrerliste verfügbar. Generierung der wöchtentlichen Grafik-Job wird abgebrochen.")
 
 def main():
-    # weekly_driver_update()
+    weekly_driver_update()
     # weekly_team_update()
     # weekly_seasonal_stats_update()
     # weekly_graphics_data_update()
-    weekly_championship_graphics_update()
-    weekly_race_graphics_update()
+    # weekly_championship_graphics_update()
+    # weekly_race_graphics_update()
 
 if __name__ == "__main__":
     main()

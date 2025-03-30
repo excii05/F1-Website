@@ -1,0 +1,26 @@
+{
+    "driver_info": {
+        "full_name": "Romain Grosjean",
+        "nationality": "French"
+    },
+    "career_stats": {
+        "total_races": 181,
+        "wins": 0,
+        "podiums": 10,
+        "p2_finishes": 2,
+        "p3_finishes": 8,
+        "pole_positions": 0,
+        "fastest_laps": 1,
+        "DNF": 50,
+        "DSQ": 1,
+        "outside_top10": 122,
+        "first_season": "2009",
+        "former_teams": [
+            "Lotus F1",
+            "Renault"
+        ],
+        "current_team": "Haas F1 Team",
+        "championships": 0,
+        "runner_up": 0
+    }
+}

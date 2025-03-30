@@ -1,0 +1,23 @@
+{
+    "driver_info": {
+        "full_name": "Nicholas Latifi",
+        "nationality": "Canadian"
+    },
+    "career_stats": {
+        "total_races": 61,
+        "wins": 0,
+        "podiums": 0,
+        "p2_finishes": 0,
+        "p3_finishes": 0,
+        "pole_positions": 0,
+        "fastest_laps": 0,
+        "DNF": 13,
+        "DSQ": 0,
+        "outside_top10": 58,
+        "first_season": "2020",
+        "former_teams": [],
+        "current_team": "Williams",
+        "championships": 0,
+        "runner_up": 0
+    }
+}

@@ -1,0 +1,28 @@
+{
+    "driver_info": {
+        "full_name": "Sebastian Vettel",
+        "nationality": "German"
+    },
+    "career_stats": {
+        "total_races": 300,
+        "wins": 53,
+        "podiums": 122,
+        "p2_finishes": 36,
+        "p3_finishes": 33,
+        "pole_positions": 57,
+        "fastest_laps": 38,
+        "DNF": 45,
+        "DSQ": 1,
+        "outside_top10": 80,
+        "first_season": "2007",
+        "former_teams": [
+            "Toro Rosso",
+            "Ferrari",
+            "BMW Sauber",
+            "Red Bull"
+        ],
+        "current_team": "Aston Martin",
+        "championships": 4,
+        "runner_up": 3
+    }
+}

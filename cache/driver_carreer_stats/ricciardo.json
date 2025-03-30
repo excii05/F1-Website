@@ -11,17 +11,17 @@
         "p3_finishes": 18,
         "pole_positions": 3,
         "fastest_laps": 17,
-        "DNF": 38,
+        "DNF": 51,
         "DSQ": 2,
         "outside_top10": 122,
         "first_season": "2011",
         "former_teams": [
-            "Red Bull",
-            "AlphaTauri",
-            "Toro Rosso",
             "Renault",
+            "Toro Rosso",
+            "HRT",
             "McLaren",
-            "HRT"
+            "Red Bull",
+            "AlphaTauri"
         ],
         "current_team": "RB F1 Team",
         "championships": 0,
