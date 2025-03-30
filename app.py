@@ -1,6 +1,7 @@
 import atexit #importing modules
 import os
 import json
+from flask import has_request_context
 from datetime import datetime
 from flask import Flask, render_template, request
 from data_fetcher import ( #importing functions from different files
@@ -22,8 +23,8 @@ from matplotlib_graphic_generator import (
 )
 from apscheduler.schedulers.background import BackgroundScheduler
 
-#Note: I will not explain every single line of code, as many of it is very identical to another.
-# if you have questions, please feel free to contact me on my portfolio page: tim.fuhrmann-leo.de
+# Note: I will not explain every single line of code, as many of it is very identical to another.
+# If you have questions, please feel free to contact me on my portfolio page: tim.fuhrmann-leo.de
 
 app = Flask(__name__) #created Flask application
 
@@ -33,15 +34,17 @@ years = [str(y) for y in range(2020, current_year + 1)] #sets the available seas
 # ---------------------------
 # Scheduler configuration
 # ---------------------------
-WEEKLY_JOB_DAY = 'tue' #sets the week day for the scheduler
-WEEKLY_JOB_HOUR = 15 #sets the hour for the scheduler
-WEEKLY_JOB_MINUTE = 14 #sets the minute day for the scheduler
+WEEKLY_JOB_DAY = 'sun' #sets the week day for the scheduler
+WEEKLY_JOB_HOUR = 20 #sets the hour for the scheduler
+WEEKLY_JOB_MINUTE = 55 #sets the minute day for the scheduler
 
 # ---------------------------
 # Data calling function
 # ---------------------------
 def get_year():
-    return request.args.get("year", current_year) #returns current year
+    if has_request_context():
+        return request.args.get("year", current_year)
+    return current_year  # Default to current year if no request context
 
 def get_driver_details(driver_id):
     year = get_year()
@@ -199,7 +202,7 @@ def team_profile(team_id):
 # Scheduler function: Weekly data update from the API!
 # ---------------------------
 def weekly_driver_update():
-    year = get_year()
+    year = current_year
     driver_list_data = fetch_driver_information(year) #gets the entire driver list for the current season
     if driver_list_data:
         drivers = driver_list_data.get('MRData', {}).get('DriverTable', {}).get('Drivers', [])
@@ -217,7 +220,7 @@ def weekly_driver_update():
         print("Couldn't find driver data. Job was aborded.")
 
 def weekly_team_update():
-    year = get_year()
+    year = current_year
     team_list_data = fetch_constructor_information(year)
     if team_list_data:
         teams = team_list_data.get('MRData', {}).get('ConstructorTable', {}).get('Constructors', [])
@@ -235,7 +238,7 @@ def weekly_team_update():
         print("Couldn't find constructor data. Job was aborded.")
         
 def weekly_seasonal_stats_update():
-    year = get_year()
+    year = current_year
     """Ruft einmal wöchentlich die saisonalen Statistiken für alle Fahrer ab und speichert sie."""
     driver_list_data = fetch_driver_information(year)
     if driver_list_data:
@@ -253,16 +256,16 @@ def weekly_seasonal_stats_update():
         print("Couldn't find driver data. Job was aborded.")
 
 def weekly_graphics_data_update():
-    year = get_year()
+    year = current_year
     fetch_season_standings(year)
 
 def weekly_championship_graphics_update():
-    year = get_year()
+    year = current_year
     plot_driver_championship(year)
     plot_constructor_championship(year)
     
 def weekly_race_graphics_update():
-    year = get_year()
+    year = current_year
     driver_list_data = fetch_driver_information(year)
     if driver_list_data:
         drivers = driver_list_data.get('MRData', {}).get('DriverTable', {}).get('Drivers', [])
@@ -282,43 +285,12 @@ def weekly_race_graphics_update():
 # Scheduler initialisation
 # ---------------------------
 scheduler = BackgroundScheduler()
-scheduler.add_job( #adding scheduler jobs
-    func=weekly_driver_update,
-    trigger='cron',
-    day_of_week=WEEKLY_JOB_DAY,
-    hour=WEEKLY_JOB_HOUR,
-    minute=WEEKLY_JOB_MINUTE,
-    id='weekly_driver_update_job'
-)
-scheduler.add_job(
-    func=weekly_team_update,
-    trigger='cron',
-    day_of_week=WEEKLY_JOB_DAY,
-    hour=WEEKLY_JOB_HOUR,
-    minute=WEEKLY_JOB_MINUTE,
-    id='weekly_team_update_job'
-)
-scheduler.add_job(
-    func=weekly_seasonal_stats_update,
-    trigger='cron',
-    day_of_week=WEEKLY_JOB_DAY,
-    hour=WEEKLY_JOB_HOUR + 1, #stacking jobs to avoid running into API rate limits!
-    minute=WEEKLY_JOB_MINUTE,
-    id='weekly_seasonal_stats_update_job'
-)
-scheduler.add_job(
-    func=weekly_graphics_data_update,
-    trigger='cron',
-    day_of_week=WEEKLY_JOB_DAY,
-    hour=WEEKLY_JOB_HOUR + 1,
-    minute=WEEKLY_JOB_MINUTE + 30,
-    id='weekly_graphics_data_update_job'
-)
+
 scheduler.add_job(
     func=weekly_championship_graphics_update,
     trigger='cron',
     day_of_week=WEEKLY_JOB_DAY,
-    hour=WEEKLY_JOB_HOUR + 2,
+    hour=WEEKLY_JOB_HOUR,
     minute=WEEKLY_JOB_MINUTE,
     id='weekly_championship_graphics_update_job'
 )
@@ -326,10 +298,11 @@ scheduler.add_job(
     func=weekly_race_graphics_update,
     trigger='cron',
     day_of_week=WEEKLY_JOB_DAY,
-    hour=WEEKLY_JOB_HOUR + 2,
+    hour=WEEKLY_JOB_HOUR,
     minute=WEEKLY_JOB_MINUTE,
     id='weekly_race_graphics_update_job'
 )
+
 scheduler.start()
 print(f"Scheduler started: Starting to update data each {WEEKLY_JOB_DAY} at {WEEKLY_JOB_HOUR:02d}:{WEEKLY_JOB_MINUTE:02d} o'clock.")
 

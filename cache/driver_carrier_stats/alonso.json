@@ -4,23 +4,23 @@
         "nationality": "Spanish"
     },
     "career_stats": {
-        "total_races": 404,
+        "total_races": 406,
         "wins": 32,
         "podiums": 106,
         "p2_finishes": 40,
         "p3_finishes": 34,
         "pole_positions": 22,
         "fastest_laps": 25,
-        "DNF": 79,
-        "DNQ": 0,
-        "outside_top10": 133,
+        "DNF": 88,
+        "DSQ": 0,
+        "outside_top10": 135,
         "first_season": "2001",
         "former_teams": [
-            "Alpine F1 Team",
-            "Minardi",
-            "Ferrari",
             "Renault",
-            "McLaren"
+            "McLaren",
+            "Ferrari",
+            "Minardi",
+            "Alpine F1 Team"
         ],
         "current_team": "Aston Martin",
         "championships": 2,

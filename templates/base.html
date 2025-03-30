@@ -18,7 +18,7 @@
         <header class="header" id="header">
             <nav class="nav container">
                 <img src="{{ url_for('static', filename='svg/F1.png') }}" class="nav__logo-img">
-                <a href="/" class="nav__logo">Formel 1 Season {{ year }}</a>
+                <a href="/?year={{ year }}" class="nav__logo">Formel 1 Season {{ year }}</a>
 
                 {% block menu %}
             

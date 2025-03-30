@@ -4,21 +4,22 @@
         "nationality": "British"
     },
     "career_stats": {
-        "total_races": 356,
+        "total_races": 358,
         "wins": 105,
         "podiums": 202,
         "p2_finishes": 57,
         "p3_finishes": 40,
         "pole_positions": 104,
-        "fastest_laps": 66,
+        "fastest_laps": 67,
         "DNF": 32,
-        "DNQ": 2,
-        "outside_top10": 44,
+        "DSQ": 3,
+        "outside_top10": 45,
         "first_season": "2007",
         "former_teams": [
+            "Mercedes",
             "McLaren"
         ],
-        "current_team": "Mercedes",
+        "current_team": "Ferrari",
         "championships": 7,
         "runner_up": 3
     }

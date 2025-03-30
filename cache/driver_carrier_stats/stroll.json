@@ -4,20 +4,20 @@
         "nationality": "Canadian"
     },
     "career_stats": {
-        "total_races": 168,
+        "total_races": 170,
         "wins": 0,
         "podiums": 3,
         "p2_finishes": 0,
         "p3_finishes": 3,
         "pole_positions": 1,
         "fastest_laps": 0,
-        "DNF": 31,
-        "DNQ": 0,
+        "DNF": 41,
+        "DSQ": 0,
         "outside_top10": 108,
         "first_season": "2017",
         "former_teams": [
-            "Williams",
-            "Racing Point"
+            "Racing Point",
+            "Williams"
         ],
         "current_team": "Aston Martin",
         "championships": 0,

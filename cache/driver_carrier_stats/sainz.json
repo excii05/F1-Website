@@ -4,23 +4,24 @@
         "nationality": "Spanish"
     },
     "career_stats": {
-        "total_races": 208,
+        "total_races": 210,
         "wins": 4,
         "podiums": 27,
         "p2_finishes": 7,
         "p3_finishes": 16,
         "pole_positions": 6,
         "fastest_laps": 4,
-        "DNF": 40,
-        "DNQ": 0,
-        "outside_top10": 69,
+        "DNF": 39,
+        "DSQ": 0,
+        "outside_top10": 70,
         "first_season": "2015",
         "former_teams": [
-            "Renault",
+            "Ferrari",
             "McLaren",
+            "Renault",
             "Toro Rosso"
         ],
-        "current_team": "Ferrari",
+        "current_team": "Williams",
         "championships": 0,
         "runner_up": 0
     }

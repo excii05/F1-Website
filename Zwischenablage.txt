@@ -1,49 +1,48 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>{{ driver.full_name }}</title>
-    <style>
-        body { font-family: Arial, sans-serif; margin: 20px; }
-        .container { max-width: 600px; margin: 0 auto; }
-        h1 { color: #333; }
-        table { border-collapse: collapse; width: 100%; margin-top: 20px; }
-        th, td { border: 1px solid #ddd; padding: 8px; text-align: left; }
-        th { background-color: #f4f4f4; }
-    </style>
-</head>
-<body>
-    <div class="container">
-        <h1>{{ driver.full_name }}</h1>
-        <p>Nationalität: {{ driver.nationality }}</p>
-        <p>Alter: {{ driver.age }}</p>
-
-        <h2>Karriere-Statistiken</h2>
-        <ul>
-            <li>Gefahrene Rennen: {{ career_stats.total_races }}</li>
-            <li>Siege: {{ career_stats.wins }}</li>
-            <li>Podien: {{ career_stats.podiums }}</li>
-            <li>P2 Platzierungen: {{ career_stats.p2_finishes }}</li>
-            <li>P3 Platzierungen: {{ career_stats.p3_finishes }}</li>
-            <li>Pole Positions: {{ career_stats.pole_positions }}</li>
-            <li>Schnellste Runden: {{ career_stats.fastest_laps }}</li>
-            <li>DNF: {{ career_stats.DNF }}</li>
-            <li>DNQ: {{ career_stats.DNQ }}</li>
-            <li>Außerhalb der Top 10: {{ career_stats.outside_top10 }}</li>
-            <li>Erste Saison: {{ career_stats.first_season }}</li>
-            <li>Aktuelles Team: {{ career_stats.current_team }}</li>
-            <li>Ehemalige Teams:
-                <ul>
-                    {% for team in career_stats.former_teams %}
-                        <li>{{ team }}</li>
-                    {% endfor %}
-                </ul>
-            </li>
-            <li>Championships: {{ career_stats.championships }}</li>
-            <li>Vize Championships: {{ career_stats.runner_up }}</li>
-        </ul>
-        <a href="/">Zurück</a>
-    </div>
-</body>
-</html>
+scheduler.add_job( #adding scheduler jobs
+    func=weekly_driver_update,
+    trigger='cron',
+    day_of_week=WEEKLY_JOB_DAY,
+    hour=WEEKLY_JOB_HOUR,
+    minute=WEEKLY_JOB_MINUTE,
+    id='weekly_driver_update_job'
+)
+scheduler.add_job(
+    func=weekly_team_update,
+    trigger='cron',
+    day_of_week=WEEKLY_JOB_DAY,
+    hour=WEEKLY_JOB_HOUR,
+    minute=WEEKLY_JOB_MINUTE,
+    id='weekly_team_update_job'
+)
+scheduler.add_job(
+    func=weekly_seasonal_stats_update,
+    trigger='cron',
+    day_of_week=WEEKLY_JOB_DAY,
+    hour=WEEKLY_JOB_HOUR + 1, #stacking jobs to avoid running into API rate limits!
+    minute=WEEKLY_JOB_MINUTE,
+    id='weekly_seasonal_stats_update_job'
+)
+scheduler.add_job(
+    func=weekly_graphics_data_update,
+    trigger='cron',
+    day_of_week=WEEKLY_JOB_DAY,
+    hour=WEEKLY_JOB_HOUR + 1,
+    minute=WEEKLY_JOB_MINUTE + 30,
+    id='weekly_graphics_data_update_job'
+)
+scheduler.add_job(
+    func=weekly_championship_graphics_update,
+    trigger='cron',
+    day_of_week=WEEKLY_JOB_DAY,
+    hour=WEEKLY_JOB_HOUR + 2,
+    minute=WEEKLY_JOB_MINUTE,
+    id='weekly_championship_graphics_update_job'
+)
+scheduler.add_job(
+    func=weekly_race_graphics_update,
+    trigger='cron',
+    day_of_week=WEEKLY_JOB_DAY,
+    hour=WEEKLY_JOB_HOUR + 2,
+    minute=WEEKLY_JOB_MINUTE,
+    id='weekly_race_graphics_update_job'
+)

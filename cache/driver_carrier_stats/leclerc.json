@@ -4,16 +4,16 @@
         "nationality": "Monegasque"
     },
     "career_stats": {
-        "total_races": 149,
+        "total_races": 151,
         "wins": 8,
         "podiums": 43,
         "p2_finishes": 15,
         "p3_finishes": 20,
         "pole_positions": 26,
         "fastest_laps": 10,
-        "DNF": 23,
-        "DNQ": 1,
-        "outside_top10": 37,
+        "DNF": 24,
+        "DSQ": 2,
+        "outside_top10": 38,
         "first_season": "2018",
         "former_teams": [
             "Sauber"

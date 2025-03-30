@@ -4,15 +4,15 @@
         "nationality": "British"
     },
     "career_stats": {
-        "total_races": 128,
+        "total_races": 130,
         "wins": 3,
-        "podiums": 15,
+        "podiums": 17,
         "p2_finishes": 2,
-        "p3_finishes": 10,
+        "p3_finishes": 12,
         "pole_positions": 6,
         "fastest_laps": 8,
-        "DNF": 19,
-        "DNQ": 1,
+        "DNF": 17,
+        "DSQ": 1,
         "outside_top10": 65,
         "first_season": "2019",
         "former_teams": [

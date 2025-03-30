@@ -2969,14 +2969,6 @@
     "17": {
         "qualifying": [
             {
-                "grid": "0",
-                "driver": "hamilton"
-            },
-            {
-                "grid": "0",
-                "driver": "ocon"
-            },
-            {
                 "grid": "1",
                 "driver": "leclerc"
             },
@@ -3002,50 +2994,58 @@
             },
             {
                 "grid": "7",
-                "driver": "alonso"
+                "driver": "hamilton"
             },
             {
                 "grid": "8",
-                "driver": "colapinto"
+                "driver": "alonso"
             },
             {
                 "grid": "9",
-                "driver": "albon"
+                "driver": "colapinto"
             },
             {
                 "grid": "10",
-                "driver": "bearman"
+                "driver": "albon"
             },
             {
                 "grid": "11",
-                "driver": "tsunoda"
+                "driver": "bearman"
             },
             {
                 "grid": "12",
-                "driver": "hulkenberg"
+                "driver": "tsunoda"
             },
             {
                 "grid": "13",
-                "driver": "stroll"
+                "driver": "hulkenberg"
             },
             {
                 "grid": "14",
-                "driver": "ricciardo"
+                "driver": "stroll"
             },
             {
                 "grid": "15",
-                "driver": "norris"
+                "driver": "ricciardo"
             },
             {
                 "grid": "16",
-                "driver": "bottas"
+                "driver": "norris"
             },
             {
                 "grid": "17",
-                "driver": "zhou"
+                "driver": "bottas"
             },
             {
                 "grid": "18",
+                "driver": "zhou"
+            },
+            {
+                "grid": "0",
+                "driver": "ocon"
+            },
+            {
+                "grid": "20",
                 "driver": "gasly"
             }
         ],

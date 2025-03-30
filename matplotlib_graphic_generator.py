@@ -24,15 +24,15 @@ def plot_driver_results(year, driver_id):
             if result["driver"] == driver_id:
                 index = int(round_num) - 1
                 if result["status"] == "DNF":
-                    positions[index] = 21
+                    positions[index] = 22
                 else:
-                    positions[index] = int(result["position"])
+                    positions[index] = int(result["position"]) + 1
                 break
         
         for result in race_data.get("qualifying", []):
             if result["driver"] == driver_id:
                 index = int(round_num) - 1
-                grid_position = int(result["grid"])
+                grid_position = int(result["grid"]) + 1
                 if grid_position > 0:
                     qualifying_positions[index] = grid_position
                 break
@@ -66,18 +66,20 @@ def plot_driver_results(year, driver_id):
     plt.grid(alpha=0.2, linestyle="--")
     
     plt.xticks(range(1, total_races + 1, 1))
-    plt.yticks(list(range(20, 0, -1)) + [21], labels=[str(i) for i in range(20, 0, -1)] + ["DNF"])
+    plt.yticks(
+    list(range(23, 0, -1)),
+    labels=[""] + ["DNF"] + [str(i) for i in range(20, 0, -1)] + [""])
     
     os.makedirs(os.path.dirname(save_path), exist_ok=True)
     plt.savefig(save_path, format="png", dpi=300, transparent=True)
     print(f"Grafik gespeichert unter {save_path}")
     
-    # plt.show()
+    plt.show()
 
 def plot_driver_championship(year):
     file_path = f"cache/matplotlib/driver_standings_{year}.json"
     color_file = "cache/team_colors.json"
-    save_path = f"static/svg/championship/driver_championship_{year}.svg"
+    save_path = f"static/svg/championship/driver_championship_{year}.png"
     
     if not os.path.exists(file_path):
         print(f"Die Datei {file_path} existiert nicht.")
@@ -139,7 +141,7 @@ def plot_driver_championship(year):
     plt.grid(alpha=0.1)
     
     os.makedirs(os.path.dirname(save_path), exist_ok=True)
-    plt.savefig(save_path, format="svg", bbox_inches='tight')
+    plt.savefig(save_path, format="png", dpi=300, transparent=True)
     print(f"Grafik gespeichert unter {save_path}")
     
     # plt.show()
@@ -147,7 +149,7 @@ def plot_driver_championship(year):
 def plot_constructor_championship(year):
     file_path = f"cache/matplotlib/constructor_standings_{year}.json"
     color_file = "cache/team_colors.json"
-    save_path = f"static/svg/championship/constructor_championship_{year}.svg"
+    save_path = f"static/svg/championship/constructor_championship_{year}.png"
     
     if not os.path.exists(file_path):
         print(f"Die Datei {file_path} existiert nicht.")
@@ -210,14 +212,14 @@ def plot_constructor_championship(year):
     plt.grid(alpha=0.1)
     
     os.makedirs(os.path.dirname(save_path), exist_ok=True)
-    plt.savefig(save_path, format="svg", bbox_inches='tight')
+    plt.savefig(save_path, format="png", dpi=300, transparent=True)
     print(f"Grafik gespeichert unter {save_path}")
     
-    plt.show()
+    # plt.show()
 
 if __name__ == "__main__":
     year = 2024
-    driver_id = "max_verstappen"
+    driver_id = "hamilton"
     plot_driver_results(year, driver_id)
     # plot_driver_championship(year)
     # plot_constructor_championship(year)

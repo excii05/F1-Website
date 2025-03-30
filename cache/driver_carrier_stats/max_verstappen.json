@@ -4,15 +4,15 @@
         "nationality": "Dutch"
     },
     "career_stats": {
-        "total_races": 209,
+        "total_races": 211,
         "wins": 63,
-        "podiums": 112,
-        "p2_finishes": 32,
+        "podiums": 113,
+        "p2_finishes": 33,
         "p3_finishes": 17,
         "pole_positions": 40,
         "fastest_laps": 33,
         "DNF": 32,
-        "DNQ": 0,
+        "DSQ": 0,
         "outside_top10": 37,
         "first_season": "2015",
         "former_teams": [

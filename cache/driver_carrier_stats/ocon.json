@@ -4,23 +4,24 @@
         "nationality": "French"
     },
     "career_stats": {
-        "total_races": 156,
+        "total_races": 158,
         "wins": 1,
         "podiums": 4,
         "p2_finishes": 2,
         "p3_finishes": 1,
         "pole_positions": 0,
         "fastest_laps": 1,
-        "DNF": 24,
-        "DNQ": 1,
-        "outside_top10": 71,
+        "DNF": 39,
+        "DSQ": 1,
+        "outside_top10": 72,
         "first_season": "2016",
         "former_teams": [
             "Renault",
             "Force India",
-            "Manor Marussia"
+            "Manor Marussia",
+            "Alpine F1 Team"
         ],
-        "current_team": "Alpine F1 Team",
+        "current_team": "Haas F1 Team",
         "championships": 0,
         "runner_up": 0
     }

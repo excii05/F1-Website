@@ -12,7 +12,7 @@
         "pole_positions": 20,
         "fastest_laps": 19,
         "DNF": 30,
-        "DNQ": 0,
+        "DSQ": 0,
         "outside_top10": 102,
         "first_season": "2013",
         "former_teams": [

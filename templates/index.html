@@ -49,9 +49,9 @@
                     <tr>
                         <td>{{ driver.position }}</td>
                         <td>
-                            <a href="/driver/{{ driver.Driver.driverId }}">
+                            <a href="/driver/{{ driver.Driver.driverId }}?year={{ year }}">
                                 {{ driver.Driver.givenName }} {{ driver.Driver.familyName }}
-                            </a>
+                            </a>                            
                         </td>
                         <td>{{ driver.Constructors[0].name }}</td>
                         <td>{{ driver.points }}</td>
