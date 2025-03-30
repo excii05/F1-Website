@@ -34,9 +34,9 @@ years = [str(y) for y in range(2020, current_year + 1)] #sets the available seas
 # ---------------------------
 # Scheduler configuration
 # ---------------------------
-WEEKLY_JOB_DAY = 'sun' #sets the week day for the scheduler
-WEEKLY_JOB_HOUR = 20 #sets the hour for the scheduler
-WEEKLY_JOB_MINUTE = 55 #sets the minute day for the scheduler
+WEEKLY_JOB_DAY = 'mon' #sets the week day for the scheduler
+WEEKLY_JOB_HOUR = 1 #sets the hour for the scheduler
+WEEKLY_JOB_MINUTE = 0 #sets the minute day for the scheduler
 
 # ---------------------------
 # Data calling function
