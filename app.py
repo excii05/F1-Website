@@ -27,7 +27,7 @@ from apscheduler.schedulers.background import BackgroundScheduler
 
 app = Flask(__name__) #created Flask application
 
-current_year = 2024 #fallback if API request breaks
+current_year = 2025 #fallback if API request breaks
 years = [str(y) for y in range(2020, current_year + 1)] #sets the available seasons for which I have data
 
 # ---------------------------
@@ -38,7 +38,7 @@ WEEKLY_JOB_HOUR = 15 #sets the hour for the scheduler
 WEEKLY_JOB_MINUTE = 14 #sets the minute day for the scheduler
 
 # ---------------------------
-# Data calling function for my web
+# Data calling function
 # ---------------------------
 def get_year():
     return request.args.get("year", current_year) #returns current year
