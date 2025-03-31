@@ -43,7 +43,7 @@
 
 /* Styling der Statistikboxen */
 .stat-box, .content-box {
-  background: #f8f9fa;
+  background-color: var(--container-color);
   padding: 1rem;
   border-radius: 10px;
   min-width: 180px;
@@ -56,18 +56,18 @@
 }
 
 .stat-box {
-    background: #f8f9fa;
-    padding: 1rem;
-    border-radius: 10px;
-    min-width: 180px;
-    height: calc(400px / 3 - 0.65rem);
-    box-shadow: 2px 2px 10px rgba(0, 0, 0, 0.1);
+  background-color: var(--container-color);
+  padding: 1rem;
+  border-radius: 10px;
+  min-width: 180px;
+  height: calc(400px / 3 - 0.65rem);
+  box-shadow: 2px 2px 10px rgba(0, 0, 0, 0.1);
     
     /* NEU: Inhalte vertikal & horizontal zentrieren */
-    display: flex;
-    flex-direction: column;
-    align-items: center; /* Zentriert horizontal */
-    justify-content: center; /* Zentriert vertikal */
+  display: flex;
+  flex-direction: column;
+  align-items: center; /* Zentriert horizontal */
+  justify-content: center; /* Zentriert vertikal */
 }
 
 /* Inneres Layout der Statistikboxen */
@@ -89,6 +89,7 @@
   .stat-number {
     font-size: var(--h2-font-size);
     font-weight: var(--font-semi-bold);
+    color: var(--title-color);
   }
   
   .icon-image {
@@ -98,7 +99,7 @@
   
   .stat-label {
     font-size: 14px;
-    color: #666;
+    color: var(--title-color);
     margin-top: 5px;
     text-align: center;
     width: 100%; /* Stellt sicher, dass der Text mittig bleibt */
@@ -121,6 +122,7 @@
   height: auto;
   border-radius: 10px;
   box-shadow: 2px 2px 10px rgba(0, 0, 0, 0.1);
+  background-color: var(--container-color);
 }
 
 /*==================== MEDIA QUERIES ====================*/

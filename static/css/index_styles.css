@@ -42,15 +42,19 @@ th {
 }
 
 td {
-  color: #333;
+  color: var(--title-color);
 }
 
 td a {
-  color: #333;
+  color: var(--title-color);
+}
+
+tr {
+  background-color: var(--container-color);
 }
 
 tr:hover {
-  background-color: #f1f1f1;
+  filter: brightness(85%);
 }
 
 /*==================== MEDIA QUERIES ====================*/

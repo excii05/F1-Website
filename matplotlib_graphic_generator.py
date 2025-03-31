@@ -74,7 +74,7 @@ def plot_driver_results(year, driver_id):
     plt.savefig(save_path, format="png", dpi=300, transparent=True)
     print(f"Grafik gespeichert unter {save_path}")
     
-    plt.show()
+    # plt.show()
 
 def plot_driver_championship(year):
     file_path = f"cache/matplotlib/driver_standings_{year}.json"
@@ -137,7 +137,7 @@ def plot_driver_championship(year):
     plt.xlabel("Runde")
     plt.ylabel("Meisterschaftsposition")
     plt.title(f"{year} Championship Standings")
-    plt.legend(loc="upper left", bbox_to_anchor=(1, 1))
+    plt.legend(loc="upper left", bbox_to_anchor=(1, 1), framealpha=0.0)
     plt.grid(alpha=0.1)
     
     os.makedirs(os.path.dirname(save_path), exist_ok=True)
@@ -208,7 +208,7 @@ def plot_constructor_championship(year):
     plt.xlabel("Runde")
     plt.ylabel("Meisterschaftsposition")
     plt.title(f"{year} Constructor Championship Standings")
-    plt.legend(loc="upper left", bbox_to_anchor=(1, 1))
+    plt.legend(loc="upper left", bbox_to_anchor=(1, 1), framealpha=0.0)
     plt.grid(alpha=0.1)
     
     os.makedirs(os.path.dirname(save_path), exist_ok=True)
